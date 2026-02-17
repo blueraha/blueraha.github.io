@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AutonomousShip.org</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  :root {
+    --bg: #f5f4f0;
+    --white: #ffffff;
+    --black: #111111;
+    --gray-100: #f0efeb;
+    --gray-200: #e0dfd9;
+    --gray-400: #9b9a94;
+    --gray-600: #5a5955;
+    --accident: #d63b2f;
+    --accident-bg: #fdf1f0;
+    --news: #1a6fb5;
+    --news-bg: #f0f5fb;
+    --border: #dddcd6;
+  }
+  body { background: var(--bg); font-family: 'Inter', sans-serif; min-height: 100vh; color: var(--black); }
+
+  header { background: var(--white); border-bottom: 1px solid var(--border); padding: 0 48px; }
+  .header-inner { max-width: 1200px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; height: 60px; }
+  .logo { font-family: 'IBM Plex Mono', monospace; font-size: 14px; font-weight: 500; }
+  .logo span { color: var(--gray-400); }
+  .header-right { display: flex; align-items: center; gap: 20px; }
+  .legend { display: flex; align-items: center; gap: 16px; }
+  .legend-item { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--gray-600); }
+  .legend-dot { width: 8px; height: 8px; border-radius: 50%; }
+  .dot-accident { background: var(--accident); }
+  .dot-news { background: var(--news); }
+  .today-btn { font-family: 'IBM Plex Mono', monospace; font-size: 12px; padding: 6px 14px; background: var(--black); color: var(--white); border: none; border-radius: 4px; cursor: pointer; }
+
+  .calendar-wrapper { max-width: 1200px; margin: 0 auto; padding: 32px 48px 48px; }
+  .month-nav { display: flex; align-items: center; justify-content: space-between; margin-bottom: 28px; }
+  .month-title { font-family: 'IBM Plex Mono', monospace; font-size: 28px; font-weight: 500; letter-spacing: -1px; }
+  .nav-btns { display: flex; gap: 4px; }
+  .nav-btn { width: 36px; height: 36px; border: 1px solid var(--border); background: var(--white); border-radius: 4px; cursor: pointer; font-size: 16px; color: var(--gray-600); display: flex; align-items: center; justify-content: center; transition: all 0.15s; }
+  .nav-btn:hover { background: var(--black); color: var(--white); border-color: var(--black); }
+
+  .day-headers { display: grid; grid-template-columns: repeat(7, 1fr); gap: 1px; margin-bottom: 1px; }
+  .day-header { font-family: 'IBM Plex Mono', monospace; font-size: 11px; color: var(--gray-400); letter-spacing: 1px; padding: 8px 12px; }
+
+  .calendar-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 1px; background: var(--border); border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+  .day-cell { background: var(--white); min-height: 110px; padding: 10px; transition: background 0.15s; position: relative; }
+  .day-cell.has-events { cursor: pointer; }
+  .day-cell.has-events:hover { background: #fafaf7; }
+  .day-cell.other-month { background: var(--gray-100); }
+  .day-cell.other-month .day-num { color: var(--gray-400); }
+  .day-cell.today { background: var(--black); }
+  .day-cell.today .day-num { color: var(--white); }
+  .day-cell.today:hover { background: #222; }
+  .day-num { font-family: 'IBM Plex Mono', monospace; font-size: 13px; font-weight: 500; color: var(--black); margin-bottom: 6px; display: block; }
+
+  .events { display: flex; flex-direction: column; gap: 3px; }
+  .event-pill { font-size: 11px; padding: 3px 7px; border-radius: 3px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%; font-weight: 500; line-height: 1.4; }
+  .pill-accident { background: var(--accident-bg); color: var(--accident); border-left: 2px solid var(--accident); }
+  .pill-news { background: var(--news-bg); color: var(--news); border-left: 2px solid var(--news); }
+  .today .pill-accident { background: rgba(214,59,47,0.2); color: #ff8a82; }
+  .today .pill-news { background: rgba(26,111,181,0.2); color: #7ab8f5; }
+  .more-events { font-size: 10px; color: var(--gray-400); margin-top: 2px; font-family: 'IBM Plex Mono', monospace; }
+  .today .more-events { color: rgba(255,255,255,0.4); }
+
+  /* MODAL */
+  .modal-overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.4); z-index: 100; display: flex; align-items: center; justify-content: center; padding: 40px; opacity: 0; pointer-events: none; transition: opacity 0.2s; }
+  .modal-overlay.open { opacity: 1; pointer-events: all; }
+  .modal { background: var(--white); border-radius: 8px; width: 100%; max-width: 780px; max-height: 86vh; overflow-y: auto; transform: translateY(12px); transition: transform 0.2s; box-shadow: 0 20px 60px rgba(0,0,0,0.15); }
+  .modal-overlay.open .modal { transform: translateY(0); }
+
+  /* LIST VIEW */
+  .modal-list-view { padding: 32px; }
+  .modal-list-view.hidden { display: none; }
+  .modal-date-header { font-family: 'IBM Plex Mono', monospace; font-size: 13px; color: var(--gray-400); margin-bottom: 20px; display: flex; align-items: center; justify-content: space-between; }
+  .modal-close-btn { background: none; border: 1px solid var(--border); border-radius: 4px; padding: 5px 12px; font-size: 12px; cursor: pointer; color: var(--gray-600); transition: all 0.15s; }
+  .modal-close-btn:hover { background: var(--black); color: var(--white); border-color: var(--black); }
+  .event-list-items { display: flex; flex-direction: column; gap: 10px; }
+  .event-list-card { border: 1px solid var(--border); border-radius: 6px; padding: 16px 20px; cursor: pointer; transition: all 0.15s; display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+  .event-list-card:hover { border-color: var(--black); background: var(--gray-100); }
+  .event-list-left { display: flex; align-items: center; gap: 12px; flex: 1; min-width: 0; }
+  .event-type-badge { font-size: 10px; font-weight: 600; letter-spacing: 0.8px; padding: 4px 8px; border-radius: 3px; text-transform: uppercase; white-space: nowrap; }
+  .badge-accident { background: var(--accident-bg); color: var(--accident); }
+  .badge-news { background: var(--news-bg); color: var(--news); }
+  .event-list-title { font-size: 14px; font-weight: 500; color: var(--black); line-height: 1.4; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .event-list-arrow { color: var(--gray-400); font-size: 18px; flex-shrink: 0; }
+
+  /* DETAIL VIEW */
+  .modal-detail { display: none; }
+  .modal-detail.active { display: block; }
+  .detail-header { padding: 18px 28px; border-bottom: 1px solid var(--border); display: flex; align-items: center; gap: 12px; }
+  .back-btn { background: none; border: none; cursor: pointer; font-size: 20px; color: var(--gray-600); padding: 2px 6px; transition: color 0.15s; line-height: 1; }
+  .back-btn:hover { color: var(--black); }
+  .detail-date { font-family: 'IBM Plex Mono', monospace; font-size: 12px; color: var(--gray-400); flex: 1; }
+  .detail-body { display: flex; }
+  .detail-text { flex: 1; padding: 28px 32px; min-width: 0; }
+  .detail-source-row { display: flex; align-items: center; gap: 12px; margin-bottom: 18px; }
+  .detail-source-logo { width: 40px; height: 40px; background: var(--gray-200); border-radius: 6px; display: flex; align-items: center; justify-content: center; font-size: 10px; font-weight: 700; color: var(--gray-600); font-family: 'IBM Plex Mono', monospace; flex-shrink: 0; }
+  .detail-source-name { font-size: 13px; font-weight: 600; color: var(--black); }
+  .detail-source-meta { font-size: 11px; color: var(--gray-400); margin-top: 2px; }
+  .detail-title { font-size: 19px; font-weight: 600; line-height: 1.4; color: var(--black); margin-bottom: 16px; }
+  .detail-content { font-size: 14px; color: var(--gray-600); line-height: 1.75; }
+  .detail-content p { margin-bottom: 12px; }
+  .detail-footer { margin-top: 24px; padding-top: 16px; border-top: 1px solid var(--border); display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+  .detail-link { font-size: 12px; color: var(--news); text-decoration: none; font-family: 'IBM Plex Mono', monospace; border: 1px solid var(--news); padding: 6px 14px; border-radius: 4px; transition: all 0.15s; }
+  .detail-link:hover { background: var(--news); color: var(--white); }
+  .detail-tag { font-size: 11px; color: var(--gray-400); background: var(--gray-100); padding: 4px 10px; border-radius: 3px; font-family: 'IBM Plex Mono', monospace; }
+  .detail-image { width: 260px; flex-shrink: 0; background: var(--gray-100); border-left: 1px solid var(--border); display: flex; align-items: center; justify-content: center; min-height: 280px; }
+  .detail-image img { width: 100%; height: 100%; object-fit: cover; }
+  .detail-image-placeholder { text-align: center; color: var(--gray-400); padding: 24px; }
+  .detail-image-placeholder .img-icon { font-size: 40px; display: block; margin-bottom: 10px; }
+  .detail-image-placeholder span { font-size: 11px; font-family: 'IBM Plex Mono', monospace; }
+
+  ::-webkit-scrollbar { width: 5px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: var(--gray-200); border-radius: 3px; }
+
+  @media (max-width: 768px) {
+    .calendar-wrapper, header { padding-left: 16px; padding-right: 16px; }
+    .day-cell { min-height: 72px; padding: 6px; }
+    .detail-body { flex-direction: column; }
+    .detail-image { width: 100%; min-height: 180px; border-left: none; border-top: 1px solid var(--border); }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="logo">autonomousship<span>.org</span></div>
+    <div class="header-right">
+      <div class="legend">
+        <div class="legend-item"><div class="legend-dot dot-accident"></div>Marine Accident</div>
+        <div class="legend-item"><div class="legend-dot dot-news"></div>News</div>
+      </div>
+      <button class="today-btn" onclick="goToday()">Today</button>
+    </div>
+  </div>
+</header>
+
+<div class="calendar-wrapper">
+  <div class="month-nav">
+    <div class="month-title" id="month-title"></div>
+    <div class="nav-btns">
+      <button class="nav-btn" onclick="changeMonth(-1)">‹</button>
+      <button class="nav-btn" onclick="changeMonth(1)">›</button>
+    </div>
+  </div>
+  <div class="day-headers">
+    <div class="day-header">SUN</div><div class="day-header">MON</div><div class="day-header">TUE</div>
+    <div class="day-header">WED</div><div class="day-header">THU</div><div class="day-header">FRI</div><div class="day-header">SAT</div>
+  </div>
+  <div class="calendar-grid" id="calendar-grid"></div>
+</div>
+
+<!-- MODAL -->
+<div class="modal-overlay" id="modal-overlay" onclick="handleOverlayClick(event)">
+  <div class="modal" id="modal">
+
+    <div class="modal-list-view" id="modal-list-view">
+      <div class="modal-date-header">
+        <span id="modal-list-date"></span>
+        <button class="modal-close-btn" onclick="closeModal()">✕ Close</button>
+      </div>
+      <div class="event-list-items" id="event-list-items"></div>
+    </div>
+
+    <div class="modal-detail" id="modal-detail">
+      <div class="detail-header">
+        <button class="back-btn" id="back-btn" onclick="goBack()">←</button>
+        <span class="detail-date" id="detail-date"></span>
+        <button class="modal-close-btn" onclick="closeModal()">✕ Close</button>
+      </div>
+      <div class="detail-body">
+        <div class="detail-text">
+          <div class="detail-source-row">
+            <div class="detail-source-logo" id="detail-logo"></div>
+            <div>
+              <div class="detail-source-name" id="detail-source-name"></div>
+              <div class="detail-source-meta" id="detail-source-meta"></div>
+            </div>
+          </div>
+          <div class="detail-title" id="detail-title"></div>
+          <div class="detail-content" id="detail-content"></div>
+          <div class="detail-footer" id="detail-footer"></div>
+        </div>
+        <div class="detail-image" id="detail-image"></div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<script>
+const MONTHS = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+
+const events = {
+  "2026-02-03": [
+    {
+      type: "news",
+      title: "EU DG MOVE visits Seafar's Remote Operations Centre in Antwerp",
+      source: "SEAFAR",
+      sourceMeta: "seafar.eu · 5,922 followers · 1mo",
+      content: `<p>This week, we had the pleasure of hosting Kristijan Ležaić, Hugues Van Honacker, and Marta Wolska from the European Commission DG Move International – Ports & Inland Waterways team at our headquarters in Antwerp.</p>
+<p>Together, we explored the evolving landscape of remote vessel operations, discussing regulation, safety, and the real-world impact of automation on inland shipping.</p>
+<p>As remote operations become part of daily shipping, these conversations are essential to ensure that policy evolves alongside innovation: supporting both safety and progress in our sector.</p>
+<p>Thank you to DG MOVE for the open, constructive dialogue and your continued engagement in shaping the future of European inland navigation.</p>`,
+      tags: ["Remote Operations", "EU Regulation", "Inland Shipping"],
+      link: "https://www.seafar.eu"
+    }
+  ],
+  "2026-02-05": [
+    {
+      type: "accident",
+      title: "Container vessel allision with berth at Port of Rotterdam — autonomous berthing failure",
+      source: "EMSA",
+      sourceMeta: "emsa.europa.eu · Marine Casualty Report",
+      content: `<p>A fully laden container vessel sustained damage to its bow section after an allision with a fixed berth structure at the Port of Rotterdam. The vessel was operating in assisted-autonomous berthing mode at the time of the incident.</p>
+<p>Preliminary investigation indicates a sensor calibration error in the vessel's autonomous docking system contributed to misjudgment of distance and approach speed. No crew injuries were reported.</p>
+<p>Port authorities have temporarily suspended autonomous berthing operations pending a full safety review by the flag state and the vessel's class society.</p>`,
+      tags: ["Allision", "Autonomous Berthing", "Rotterdam"],
+      link: "#"
+    }
+  ],
+  "2026-02-08": [
+    {
+      type: "news",
+      title: "Avikus completes first autonomous Pacific crossing with HiNAS 2.0",
+      source: "Avikus",
+      sourceMeta: "avikus.ai · Press Release",
+      content: `<p>HD Hyundai's autonomous navigation subsidiary Avikus has successfully completed the first fully autonomous Pacific Ocean crossing using its HiNAS 2.0 system, covering over 9,400 nautical miles from Busan to Los Angeles.</p>
+<p>The voyage demonstrated a 7.4% improvement in fuel efficiency compared to conventional human-navigated voyages on the same route, attributed to the AI system's real-time optimization of speed and heading based on weather and current data.</p>`,
+      tags: ["Avikus", "HiNAS 2.0", "Pacific Crossing"],
+      link: "https://avikus.ai"
+    },
+    {
+      type: "news",
+      title: "IMO MASS Code Level 3 compliance framework draft released",
+      source: "IMO",
+      sourceMeta: "imo.org · MSC Circular",
+      content: `<p>The IMO Maritime Safety Committee's MASS technical working group has released the draft compliance framework for Level 3 autonomous vessels — those capable of remote control without a crew onboard.</p>
+<p>The framework establishes mandatory requirements for remote monitoring stations, cybersecurity protocols, and minimum response time standards for human operators. Public consultation period runs through April 2026.</p>`,
+      tags: ["IMO", "MASS Code", "Regulation"],
+      link: "https://imo.org"
+    }
+  ],
+  "2026-02-11": [
+    {
+      type: "accident",
+      title: "Unmanned surface vessel collision with fishing boat off Jeju Island",
+      source: "KCG / MOF Korea",
+      sourceMeta: "kcg.go.kr · Incident Report",
+      content: `<p>An unmanned surface vessel (USV) conducting autonomous survey operations off the southern coast of Jeju Island collided with a small-scale fishing vessel at approximately 03:40 local time.</p>
+<p>The fishing vessel sustained minor hull damage; no crew injuries were reported. The USV's autonomous collision avoidance system failed to detect the wooden-hulled fishing vessel, likely due to insufficient radar cross-section.</p>`,
+      tags: ["USV", "Collision", "Jeju", "Korea"],
+      link: "#"
+    }
+  ],
+  "2026-02-14": [
+    {
+      type: "news",
+      title: "Samsung Heavy Industries unveils SHI-ADAS digital twin simulation platform",
+      source: "Samsung Heavy",
+      sourceMeta: "shi.samsung.co.kr · Press Release",
+      content: `<p>Samsung Heavy Industries has publicly demonstrated SHI-ADAS, a high-fidelity digital twin environment integrating real-time AIS traffic, meteorological data, and ocean current models for autonomous ship testing.</p>
+<p>The platform enables algorithm developers to validate autonomous navigation logic in realistic virtual environments before real-world deployment, significantly reducing the risk and cost associated with sea trials.</p>`,
+      tags: ["Digital Twin", "Samsung Heavy", "ADAS"],
+      link: "https://www.shi.samsung.co.kr"
+    }
+  ],
+  "2026-02-17": [
+    {
+      type: "news",
+      title: "KAIST–KRISO multi-agent RL collision avoidance study published in Nature Communications",
+      source: "KAIST / KRISO",
+      sourceMeta: "nature.com/ncomms · Peer-reviewed",
+      content: `<p>Researchers from KAIST's Department of Ocean Systems Engineering and KRISO have published a landmark study on multi-agent reinforcement learning for autonomous ship collision avoidance in Nature Communications.</p>
+<p>The algorithm achieves a 34% improvement in COLREGS compliance compared to previous state-of-the-art methods, and was validated in both simulated and real-world USV trials in the South Sea of Korea.</p>`,
+      tags: ["KAIST", "Reinforcement Learning", "COLREGS", "Research"],
+      link: "https://www.nature.com/ncomms"
+    }
+  ]
+};
+
+let now = new Date();
+let currentYear = now.getFullYear();
+let currentMonth = now.getMonth();
+let selectedDateKey = null;
+let isSingleEvent = false;
+
+function renderCalendar() {
+  document.getElementById('month-title').textContent = `${MONTHS[currentMonth]} ${currentYear}`;
+  const grid = document.getElementById('calendar-grid');
+  grid.innerHTML = '';
+
+  const today = new Date();
+  const firstDay = new Date(currentYear, currentMonth, 1).getDay();
+  const daysInMonth = new Date(currentYear, currentMonth + 1, 0).getDate();
+  const daysInPrev = new Date(currentYear, currentMonth, 0).getDate();
+  const totalCells = Math.ceil((firstDay + daysInMonth) / 7) * 7;
+
+  for (let i = 0; i < totalCells; i++) {
+    let day, year = currentYear, month = currentMonth, isOther = false;
+    if (i < firstDay) {
+      day = daysInPrev - firstDay + i + 1;
+      month = currentMonth - 1;
+      if (month < 0) { month = 11; year--; }
+      isOther = true;
+    } else if (i >= firstDay + daysInMonth) {
+      day = i - firstDay - daysInMonth + 1;
+      month = currentMonth + 1;
+      if (month > 11) { month = 0; year++; }
+      isOther = true;
+    } else {
+      day = i - firstDay + 1;
+    }
+
+    const dateKey = `${year}-${String(month+1).padStart(2,'0')}-${String(day).padStart(2,'0')}`;
+    const isToday = (day === today.getDate() && month === today.getMonth() && year === today.getFullYear());
+    const dayEvents = events[dateKey] || [];
+
+    const cell = document.createElement('div');
+    cell.className = 'day-cell';
+    if (isOther) cell.classList.add('other-month');
+    if (isToday) cell.classList.add('today');
+    if (dayEvents.length > 0) cell.classList.add('has-events');
+
+    const numSpan = document.createElement('span');
+    numSpan.className = 'day-num';
+    numSpan.textContent = day;
+    cell.appendChild(numSpan);
+
+    if (dayEvents.length > 0) {
+      const evDiv = document.createElement('div');
+      evDiv.className = 'events';
+      dayEvents.slice(0, 2).forEach(e => {
+        const pill = document.createElement('div');
+        pill.className = `event-pill pill-${e.type}`;
+        pill.textContent = e.title;
+        evDiv.appendChild(pill);
+      });
+      if (dayEvents.length > 2) {
+        const more = document.createElement('div');
+        more.className = 'more-events';
+        more.textContent = `+${dayEvents.length - 2} more`;
+        evDiv.appendChild(more);
+      }
+      cell.appendChild(evDiv);
+      cell.addEventListener('click', () => openDateModal(dateKey));
+    }
+    grid.appendChild(cell);
+  }
+}
+
+function changeMonth(dir) {
+  currentMonth += dir;
+  if (currentMonth > 11) { currentMonth = 0; currentYear++; }
+  if (currentMonth < 0) { currentMonth = 11; currentYear--; }
+  renderCalendar();
+}
+
+function goToday() {
+  const t = new Date();
+  currentYear = t.getFullYear();
+  currentMonth = t.getMonth();
+  renderCalendar();
+}
+
+function openDateModal(dateKey) {
+  selectedDateKey = dateKey;
+  const dayEvents = events[dateKey] || [];
+  if (!dayEvents.length) return;
+
+  const [y, m, d] = dateKey.split('-');
+  const listView = document.getElementById('modal-list-view');
+  const detailView = document.getElementById('modal-detail');
+
+  if (dayEvents.length === 1) {
+    isSingleEvent = true;
+    listView.classList.add('hidden');
+    showDetail(dayEvents[0], dateKey);
+  } else {
+    isSingleEvent = false;
+    listView.classList.remove('hidden');
+    detailView.classList.remove('active');
+    document.getElementById('modal-list-date').textContent = `${MONTHS[parseInt(m)-1]} ${parseInt(d)}, ${y}`;
+    document.getElementById('event-list-items').innerHTML = dayEvents.map((e, i) => `
+      <div class="event-list-card" onclick="showDetailById(${i})">
+        <div class="event-list-left">
+          <span class="event-type-badge badge-${e.type}">${e.type === 'accident' ? 'Marine Accident' : 'News'}</span>
+          <span class="event-list-title">${e.title}</span>
+        </div>
+        <span class="event-list-arrow">›</span>
+      </div>`).join('');
+  }
+  document.getElementById('modal-overlay').classList.add('open');
+}
+
+function showDetailById(i) {
+  showDetail(events[selectedDateKey][i], selectedDateKey);
+}
+
+function showDetail(e, dateKey) {
+  const [y, m, d] = dateKey.split('-');
+  document.getElementById('modal-list-view').classList.add('hidden');
+  const detail = document.getElementById('modal-detail');
+  detail.classList.add('active');
+  document.getElementById('back-btn').style.display = isSingleEvent ? 'none' : 'flex';
+  document.getElementById('detail-date').textContent = `${MONTHS[parseInt(m)-1]} ${parseInt(d)}, ${y}`;
+  document.getElementById('detail-logo').textContent = e.source.split(/[\s\/]/)[0].substring(0, 3).toUpperCase();
+  document.getElementById('detail-source-name').textContent = e.source;
+  document.getElementById('detail-source-meta').textContent = e.sourceMeta;
+  document.getElementById('detail-title').textContent = e.title;
+  document.getElementById('detail-content').innerHTML = e.content;
+
+  const footer = document.getElementById('detail-footer');
+  footer.innerHTML = (e.link && e.link !== '#' ? `<a href="${e.link}" target="_blank" class="detail-link">View Source →</a>` : '')
+    + (e.tags || []).map(t => `<span class="detail-tag">#${t}</span>`).join('');
+
+  const imgEl = document.getElementById('detail-image');
+  imgEl.innerHTML = e.image
+    ? `<img src="${e.image}" alt="${e.title}">`
+    : `<div class="detail-image-placeholder"><span class="img-icon">${e.type === 'accident' ? '⚠️' : '🚢'}</span><span>${e.type === 'accident' ? 'Marine Accident' : 'News Update'}</span></div>`;
+}
+
+function goBack() {
+  document.getElementById('modal-list-view').classList.remove('hidden');
+  document.getElementById('modal-detail').classList.remove('active');
+}
+
+function closeModal() {
+  document.getElementById('modal-overlay').classList.remove('open');
+}
+
+function handleOverlayClick(e) {
+  if (e.target === document.getElementById('modal-overlay')) closeModal();
+}
+
+renderCalendar();
+</script>
+</body>
+</html>
