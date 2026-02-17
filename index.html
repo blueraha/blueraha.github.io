@@ -45,8 +45,8 @@
   .day-headers { display: grid; grid-template-columns: repeat(7, 1fr); gap: 1px; margin-bottom: 1px; }
   .day-header { font-family: 'IBM Plex Mono', monospace; font-size: 11px; color: var(--gray-400); letter-spacing: 1px; padding: 8px 12px; }
 
-  .calendar-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 1px; background: var(--border); border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
-  .day-cell { background: var(--white); min-height: 110px; padding: 10px; transition: background 0.15s; position: relative; }
+  .calendar-grid { display: grid; grid-template-columns: repeat(7, 1fr); grid-auto-rows: 130px; gap: 1px; background: var(--border); border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+  .day-cell { background: var(--white); height: 130px; padding: 10px; transition: background 0.15s; position: relative; overflow: hidden; }
   .day-cell.has-events { cursor: pointer; }
   .day-cell.has-events:hover { background: #fafaf7; }
   .day-cell.other-month { background: var(--gray-100); }
