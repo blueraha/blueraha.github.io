@@ -27,8 +27,10 @@
 
   header { background: var(--white); border-bottom: 1px solid var(--border); padding: 0 48px; }
   .header-inner { max-width: 1200px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; height: 60px; }
-  .logo { font-family: 'IBM Plex Mono', monospace; font-size: 14px; font-weight: 500; }
-  .logo span { color: var(--gray-400); }
+  .logo { display: flex; flex-direction: column; justify-content: center; gap: 1px; }
+  .logo-main { font-family: 'IBM Plex Mono', monospace; font-size: 16px; font-weight: 500; color: var(--black); letter-spacing: -0.3px; line-height: 1.2; }
+  .logo-sub { font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: var(--gray-400); letter-spacing: 0.2px; line-height: 1.2; }
+  .logo-sub span { color: var(--gray-400); }
   .header-right { display: flex; align-items: center; gap: 20px; }
   .legend { display: flex; align-items: center; gap: 16px; }
   .legend-item { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--gray-600); }
@@ -121,11 +123,95 @@
   ::-webkit-scrollbar-track { background: transparent; }
   ::-webkit-scrollbar-thumb { background: var(--gray-200); border-radius: 3px; }
 
-  @media (max-width: 768px) {
-    .calendar-wrapper, header { padding-left: 16px; padding-right: 16px; }
-    .day-cell { min-height: 72px; padding: 6px; }
+  /* ── MOBILE LIST VIEW ── */
+  .mobile-list-view { display: none; }
+  .mobile-list-view .month-nav { padding: 20px 16px 0; }
+  .mobile-list-view .month-title { font-size: 22px; }
+
+  .mobile-events-list { padding: 16px; display: flex; flex-direction: column; gap: 8px; }
+
+  .mobile-event-card {
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 14px 16px;
+    cursor: pointer;
+    transition: all 0.15s;
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+  }
+  .mobile-event-card:active { background: var(--gray-100); }
+
+  .mobile-event-dot {
+    width: 10px; height: 10px; border-radius: 50%;
+    flex-shrink: 0; margin-top: 4px;
+  }
+  .mobile-event-dot.accident { background: var(--accident); }
+  .mobile-event-dot.news { background: var(--news); }
+
+  .mobile-event-info { flex: 1; min-width: 0; }
+  .mobile-event-date {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px; color: var(--gray-400);
+    letter-spacing: 0.5px; margin-bottom: 4px;
+  }
+  .mobile-event-title {
+    font-size: 13px; font-weight: 500;
+    color: var(--black); line-height: 1.4;
+  }
+  .mobile-event-source {
+    font-size: 11px; color: var(--gray-400); margin-top: 4px;
+  }
+  .mobile-event-arrow { color: var(--gray-400); font-size: 16px; flex-shrink: 0; }
+
+  .mobile-empty {
+    text-align: center; padding: 40px 16px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px; color: var(--gray-400);
+  }
+
+  /* ── RESPONSIVE ── */
+  @media (max-width: 640px) {
+    /* Hide desktop calendar, show mobile list */
+    .desktop-calendar { display: none; }
+    .mobile-list-view { display: block; }
+
+    /* Header mobile */
+    header { padding: 0 16px; }
+    .header-inner { height: 52px; }
+    .logo { font-size: 13px; }
+    .legend { display: none; }
+    .today-btn { padding: 5px 10px; font-size: 11px; }
+
+    /* Modal full screen on mobile */
+    .modal-overlay { padding: 0; align-items: flex-end; }
+    .modal {
+      border-radius: 16px 16px 0 0;
+      max-height: 92vh;
+      max-width: 100%;
+    }
+    .modal-list-view { padding: 20px 16px; }
+    .detail-text { padding: 20px 16px; }
     .detail-body { flex-direction: column; }
-    .detail-image { width: 100%; min-height: 180px; border-left: none; border-top: 1px solid var(--border); }
+    .detail-image {
+      width: 100%; min-height: 220px;
+      border-left: none; border-top: 1px solid var(--border);
+      order: -1;
+    }
+    .detail-map { min-height: 220px; }
+    .detail-title { font-size: 16px; }
+    .detail-header { padding: 14px 16px; }
+  }
+
+  @media (min-width: 641px) {
+    .desktop-calendar { display: block; }
+    .mobile-list-view { display: none; }
+    .calendar-wrapper, header { padding-left: 24px; padding-right: 24px; }
+  }
+
+  @media (min-width: 1024px) {
+    .calendar-wrapper, header { padding-left: 48px; padding-right: 48px; }
   }
 </style>
 </head>
@@ -133,7 +219,10 @@
 
 <header>
   <div class="header-inner">
-    <div class="logo">autonomousship<span>.org</span></div>
+    <div class="logo">
+      <div class="logo-main">Maritime Hub</div>
+      <div class="logo-sub">powered by autonomousship<span>.org</span></div>
+    </div>
     <div class="header-right">
       <div class="legend">
         <div class="legend-item"><div class="legend-dot dot-accident"></div>Marine Accident</div>
@@ -144,6 +233,7 @@
   </div>
 </header>
 
+<div class="desktop-calendar">
 <div class="calendar-wrapper">
   <div class="month-nav">
     <div class="month-title" id="month-title"></div>
@@ -157,6 +247,19 @@
     <div class="day-header">WED</div><div class="day-header">THU</div><div class="day-header">FRI</div><div class="day-header">SAT</div>
   </div>
   <div class="calendar-grid" id="calendar-grid"></div>
+</div>
+</div>
+
+<!-- MOBILE LIST VIEW -->
+<div class="mobile-list-view">
+  <div class="month-nav" style="padding:20px 16px 0;">
+    <div class="month-title" id="mobile-month-title"></div>
+    <div class="nav-btns">
+      <button class="nav-btn" onclick="changeMonth(-1)">‹</button>
+      <button class="nav-btn" onclick="changeMonth(1)">›</button>
+    </div>
+  </div>
+  <div class="mobile-events-list" id="mobile-events-list"></div>
 </div>
 
 <!-- MODAL -->
@@ -257,8 +360,61 @@ let currentMonth = now.getMonth();
 let selectedDateKey = null;
 let isSingleEvent = false;
 
+function renderMobileList() {
+  const listEl = document.getElementById('mobile-events-list');
+  const titleEl = document.getElementById('mobile-month-title');
+  if (!listEl) return;
+  if (titleEl) titleEl.textContent = `${MONTHS[currentMonth]} ${currentYear}`;
+
+  // Collect all events for this month
+  const monthEvents = [];
+  Object.entries(events).forEach(([dateKey, evList]) => {
+    const [y, m] = dateKey.split('-');
+    if (parseInt(y) === currentYear && parseInt(m) === currentMonth + 1) {
+      evList.forEach(e => monthEvents.push({ dateKey, ...e }));
+    }
+  });
+
+  // Sort by date
+  monthEvents.sort((a, b) => a.dateKey.localeCompare(b.dateKey));
+
+  if (monthEvents.length === 0) {
+    listEl.innerHTML = `<div class="mobile-empty">No events this month</div>`;
+    return;
+  }
+
+  listEl.innerHTML = monthEvents.map((e, i) => {
+    const [y, m, d] = e.dateKey.split('-');
+    const dateLabel = `${MONTHS[parseInt(m)-1].toUpperCase().slice(0,3)} ${parseInt(d)}, ${y}`;
+    return `
+      <div class="mobile-event-card" onclick="openMobileEvent(${i})">
+        <div class="mobile-event-dot ${e.type}"></div>
+        <div class="mobile-event-info">
+          <div class="mobile-event-date">${dateLabel}</div>
+          <div class="mobile-event-title">${e.title}</div>
+          <div class="mobile-event-source">${e.source}</div>
+        </div>
+        <div class="mobile-event-arrow">›</div>
+      </div>`;
+  }).join('');
+
+  // Store for click access
+  window._mobileEvents = monthEvents;
+}
+
+function openMobileEvent(i) {
+  const e = window._mobileEvents[i];
+  if (!e) return;
+  selectedDateKey = e.dateKey;
+  isSingleEvent = true;
+  document.getElementById('modal-list-view').classList.add('hidden');
+  showDetail(e, e.dateKey);
+  document.getElementById('modal-overlay').classList.add('open');
+}
+
 function renderCalendar() {
   document.getElementById('month-title').textContent = `${MONTHS[currentMonth]} ${currentYear}`;
+  renderMobileList();
   const grid = document.getElementById('calendar-grid');
   grid.innerHTML = '';
 
