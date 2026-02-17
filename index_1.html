@@ -5,6 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>AutonomousShip.org</title>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://api.mapbox.com/mapbox-gl-js/v3.3.0/mapbox-gl.css" rel="stylesheet">
+<script src="https://api.mapbox.com/mapbox-gl-js/v3.3.0/mapbox-gl.js"></script>
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
   :root {
@@ -107,11 +109,13 @@
   .detail-link { font-size: 12px; color: var(--news); text-decoration: none; font-family: 'IBM Plex Mono', monospace; border: 1px solid var(--news); padding: 6px 14px; border-radius: 4px; transition: all 0.15s; }
   .detail-link:hover { background: var(--news); color: var(--white); }
   .detail-tag { font-size: 11px; color: var(--gray-400); background: var(--gray-100); padding: 4px 10px; border-radius: 3px; font-family: 'IBM Plex Mono', monospace; }
-  .detail-image { width: 260px; flex-shrink: 0; background: var(--gray-100); border-left: 1px solid var(--border); display: flex; align-items: center; justify-content: center; min-height: 280px; }
+  .detail-image { width: 260px; flex-shrink: 0; background: var(--gray-100); border-left: 1px solid var(--border); min-height: 280px; position: relative; overflow: hidden; }
   .detail-image img { width: 100%; height: 100%; object-fit: cover; }
-  .detail-image-placeholder { text-align: center; color: var(--gray-400); padding: 24px; }
+  .detail-map { width: 100%; height: 100%; min-height: 280px; }
+  .detail-image-placeholder { text-align: center; color: var(--gray-400); padding: 24px; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; }
   .detail-image-placeholder .img-icon { font-size: 40px; display: block; margin-bottom: 10px; }
   .detail-image-placeholder span { font-size: 11px; font-family: 'IBM Plex Mono', monospace; }
+  .map-label { position: absolute; bottom: 8px; left: 8px; background: rgba(0,0,0,0.6); color: white; font-family: 'IBM Plex Mono', monospace; font-size: 10px; padding: 3px 8px; border-radius: 3px; pointer-events: none; z-index: 10; }
 
   ::-webkit-scrollbar { width: 5px; }
   ::-webkit-scrollbar-track { background: transparent; }
@@ -208,7 +212,9 @@ const events = {
 <p>The three companies also signed a broader business agreement: HMM will operate the solution, Avikus will advance and supply it, and HD Korea Shipbuilding & Offshore Engineering will provide technical platform support. Including this contract, Avikus has now supplied HiNAS Control to approximately <strong>350 ships</strong> total, including over 100 large vessels on a retrofit basis.</p>
 <p>HMM noted that "AI-based technology is core technology for strengthening competitiveness in the digital and eco-friendly shipping ecosystem," while HD Hyundai described autonomous navigation as a "game changer for the shipbuilding and shipping industries."</p>`,
       tags: ["HMM", "Avikus", "HiNAS Control", "Autonomous Navigation", "Korea"],
-      link: "https://www.businesskorea.co.kr/news/articleView.html?idxno=261088"
+      link: "https://www.businesskorea.co.kr/news/articleView.html?idxno=261088",
+      coords: [127.0940, 37.3946],
+      location: "Pangyo, South Korea"
     }
   ],
   "2026-02-12": [
@@ -222,7 +228,9 @@ const events = {
 <p>Truxtun had departed Naval Station Norfolk on February 3 for a scheduled deployment, briefly returned to port for equipment repairs, and was back underway by February 6. The incident is currently under investigation.</p>
 <p>UNREP operations inherently involve ships sailing closely side-by-side, and the Naval Safety Center has previously noted: <em>"Seemingly minor mistakes can turn into potential severe mishaps in seconds."</em></p>`,
       tags: ["Collision", "US Navy", "UNREP", "Caribbean", "USS Truxtun"],
-      link: "https://www.twz.com/sea/navy-destroyer-support-ship-collide-during-at-sea-resupply"
+      link: "https://www.twz.com/sea/navy-destroyer-support-ship-collide-during-at-sea-resupply",
+      coords: [-72.5, 16.5],
+      location: "Caribbean Sea"
     },
     {
       type: "accident",
@@ -235,7 +243,9 @@ const events = {
 <p>The investigation found both vessels were on a clear crossing course with ample sea room. Verity, as the give-way vessel, failed to take early and decisive action. Both officers allowed ships to close to a CPA of just 0.5 nautical miles while making only small autopilot adjustments — insufficient to signal collision-avoidance intent. Germany's VTS also came under scrutiny for late intervention and use of a duplex VHF channel that slowed communication.</p>
 <p>The MAIB issued multiple safety recommendations but stopped short of calling for changes to COLREGS: <em>"The regulations were adequate. They were simply not followed."</em></p>`,
       tags: ["Collision", "MAIB", "COLREGS", "German Bight", "VTS"],
-      link: "https://gcaptain.com"
+      link: "https://gcaptain.com",
+      coords: [7.8, 54.1],
+      location: "German Bight, North Sea"
     }
   ],
   "2026-02-17": []
@@ -359,6 +369,8 @@ function showDetailById(i) {
   showDetail(events[selectedDateKey][i], selectedDateKey);
 }
 
+let currentMap = null;
+
 function showDetail(e, dateKey) {
   const [y, m, d] = dateKey.split('-');
   document.getElementById('modal-list-view').classList.add('hidden');
@@ -376,10 +388,30 @@ function showDetail(e, dateKey) {
   footer.innerHTML = (e.link && e.link !== '#' ? `<a href="${e.link}" target="_blank" class="detail-link">View Source →</a>` : '')
     + (e.tags || []).map(t => `<span class="detail-tag">#${t}</span>`).join('');
 
+  // Map or placeholder
   const imgEl = document.getElementById('detail-image');
-  imgEl.innerHTML = e.image
-    ? `<img src="${e.image}" alt="${e.title}">`
-    : `<div class="detail-image-placeholder"><span class="img-icon">${e.type === 'accident' ? '⚠️' : '🚢'}</span><span>${e.type === 'accident' ? 'Marine Accident' : 'News Update'}</span></div>`;
+  if (currentMap) { currentMap.remove(); currentMap = null; }
+
+  if (e.coords) {
+    imgEl.innerHTML = `<div id="detail-map" class="detail-map"></div><div class="map-label">📍 ${e.location || ''}</div>`;
+    setTimeout(() => {
+      mapboxgl.accessToken = 'pk.eyJ1IjoiYmx1ZXJhaGEiLCJhIjoiY21scW5tOGRhMDJwMzNkcHVzeXVhcGw3dyJ9.3eBK-bIV99YgmxOycysRyA';
+      currentMap = new mapboxgl.Map({
+        container: 'detail-map',
+        style: 'mapbox://styles/mapbox/navigation-night-v1',
+        center: e.coords,
+        zoom: 5,
+        interactive: true
+      });
+      const markerColor = e.type === 'accident' ? '#d63b2f' : '#1a6fb5';
+      new mapboxgl.Marker({ color: markerColor })
+        .setLngLat(e.coords)
+        .setPopup(new mapboxgl.Popup({ offset: 25 }).setText(e.location || e.title))
+        .addTo(currentMap);
+    }, 100);
+  } else {
+    imgEl.innerHTML = `<div class="detail-image-placeholder"><span class="img-icon">${e.type === 'accident' ? '⚠️' : '🚢'}</span><span>${e.type === 'accident' ? 'Marine Accident' : 'News Update'}</span></div>`;
+  }
 }
 
 function goBack() {
@@ -389,6 +421,7 @@ function goBack() {
 
 function closeModal() {
   document.getElementById('modal-overlay').classList.remove('open');
+  if (currentMap) { currentMap.remove(); currentMap = null; }
 }
 
 function handleOverlayClick(e) {
