@@ -168,32 +168,38 @@ function toggleWeatherLayer(layer) {
     removeWeatherLayer(layer);
   }
 }
-
 function addWeatherLayer(layer) {
-  // Using free public services: NASA GIBS, NOAA
+
   const layerConfigs = {
     wind: {
       id: 'weather-wind',
-      // RainViewer wind layer (free, no auth)
-      url: 'https://tilecache.rainviewer.com/v2/coverage/0/{z}/{x}/{y}/0/0_0.png',
+      tiles: [
+        'https://tilecache.rainviewer.com/v2/radar/0/256/{z}/{x}/{y}/2/1_1.png'
+      ],
       opacity: 0.5
     },
+
     wave: {
       id: 'weather-wave',
-      // Using ocean color as wave proxy (NASA GIBS - public)
-      url: 'https://gibs.earthdata.nasa.gov/wmts/epsg4326/best/MODIS_Aqua_CorrectedReflectance_TrueColor/default/{time}/250m/{z}/{y}/{x}.jpg',
-      opacity: 0.4
+      tiles: [
+        'https://gibs.earthdata.nasa.gov/wmts/epsg3857/best/MODIS_Aqua_CorrectedReflectance_TrueColor/default/2026-02-12/GoogleMapsCompatible_Level6/{z}/{y}/{x}.jpg'
+      ],
+      opacity: 0.35
     },
+
     temp: {
       id: 'weather-temp',
-      // NASA GIBS Sea Surface Temperature (public, no auth needed)
-      url: 'https://gibs.earthdata.nasa.gov/wmts/epsg3857/best/GHRSST_L4_MUR_Sea_Surface_Temperature/default/{time}/1km/{z}/{y}/{x}.png',
+      tiles: [
+        'https://gibs.earthdata.nasa.gov/wmts/epsg3857/best/GHRSST_L4_MUR_Sea_Surface_Temperature/default/2026-02-12/GoogleMapsCompatible_Level6/{z}/{y}/{x}.png'
+      ],
       opacity: 0.6
     },
+
     current: {
       id: 'weather-current',
-      // OSCAR ocean currents visualization
-      url: 'https://podaac-tools.jpl.nasa.gov/drive/files/allData/oscar/preview/L4/oscar_third_deg/{time}.png',
+      tiles: [
+        'https://tile.openweathermap.org/map/currents_new/{z}/{x}/{y}.png?appid=demo'
+      ],
       opacity: 0.5
     }
   };
@@ -201,26 +207,14 @@ function addWeatherLayer(layer) {
   const config = layerConfigs[layer];
   if (!config) return;
 
-  // Get current date for NASA GIBS layers
-  const today = new Date();
-  const year = today.getFullYear();
-  const month = String(today.getMonth() + 1).padStart(2, '0');
-  const day = String(today.getDate()).padStart(2, '0');
-  const timeStr = `${year}-${month}-${day}`;
-  
-  // Replace {time} placeholder
-  const url = config.url.replace('{time}', timeStr);
-
-  // Check if source already exists
   if (!map.getSource(config.id)) {
     map.addSource(config.id, {
       type: 'raster',
-      tiles: [url],
+      tiles: config.tiles,
       tileSize: 256
     });
   }
 
-  // Add layer if not exists
   if (!map.getLayer(config.id)) {
     map.addLayer({
       id: config.id,
@@ -231,7 +225,7 @@ function addWeatherLayer(layer) {
       }
     });
   }
-  
+
   updateWeatherLegend();
 }
 
