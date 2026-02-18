@@ -1,4 +1,4 @@
-// app.js - Maritime Hub v1.3.5 Official Final
+// app.js - Maritime Hub v1.4.0 Stable Fix
 let map, markers = [];
 let currentYear = 2026;
 let currentMonth = 0;
@@ -6,7 +6,7 @@ let windyAPIInstance = null;
 let isGlobe = false;
 let currentStyle = 0;
 
-const MONTHS = ["JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"];
+// ERROR FIX: MONTHS removed here because it is already in data.js
 
 const MAP_STYLES = [
   { name: 'Dark', url: 'mapbox://styles/mapbox/dark-v11' },
@@ -24,19 +24,33 @@ function init() {
     attributionControl: false
   });
 
-  // Mapbox 기본 컨트롤 좌측 배치
+  // Mapbox Controls Left
   map.addControl(new mapboxgl.NavigationControl(), 'top-left');
 
   map.on('load', () => {
-    renderMonth();
-    renderMarkers();
-    initWindy();
+    // Check if data.js loaded correctly
+    if (typeof MONTHS !== 'undefined') {
+      renderMonth();
+    } else {
+      console.error("data.js not loaded properly");
+    }
+    
+    if (typeof events !== 'undefined') {
+      renderMarkers();
+    }
+    
+    // Try to init Windy, catch errors if key is bad
+    try {
+      initWindy();
+    } catch (e) {
+      console.warn("Windy Init Failed:", e);
+    }
   });
 }
 
 function initWindy() {
   const options = {
-    key: "aMpcNHv9Ki6q8dtdnjVL5Q1EwXZYQuDQ",
+    key: "aMpcNHv9Ki6q8dtdnjVL5Q1EwXZYQuDQ", // Note: This key is returning 401 (Unauthorized)
     lat: map.getCenter().lat,
     lon: map.getCenter().lng,
     zoom: Math.round(map.getZoom()),
@@ -51,6 +65,8 @@ function initWindy() {
         windyAPIInstance.map.setView([center.lat, center.lng], Math.round(map.getZoom()));
       });
     });
+  } else {
+    console.warn("Windy Library not loaded");
   }
 }
 
@@ -62,7 +78,8 @@ function renderMonth() {
 
   for (let d = 1; d <= 31; d++) {
     const dateKey = `${currentYear}-${String(currentMonth+1).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
-    const dayEvents = events[dateKey] || [];
+    const dayEvents = (typeof events !== 'undefined' && events[dateKey]) ? events[dateKey] : [];
+    
     const item = document.createElement('div');
     item.className = 'day-item';
     
@@ -86,18 +103,21 @@ function renderMonth() {
 function renderMarkers() {
   markers.forEach(m => m.remove());
   markers = [];
+  
+  if (typeof events === 'undefined') return;
+
   Object.entries(events).forEach(([date, list]) => {
     list.forEach(e => {
       if (!e.coords) return;
       
-      // 마커 크기 축소 디자인
       const markerEl = document.createElement('div');
       markerEl.style.width = '8px';
       markerEl.style.height = '8px';
       markerEl.style.borderRadius = '50%';
       markerEl.style.backgroundColor = `var(--${e.type})`;
-      markerEl.style.border = '1.5px solid rgba(255,255,255,0.4)';
+      markerEl.style.border = '1.5px solid rgba(255,255,255,0.6)';
       markerEl.style.cursor = 'pointer';
+      markerEl.style.boxShadow = '0 0 4px rgba(0,0,0,0.5)';
 
       const marker = new mapboxgl.Marker(markerEl)
         .setLngLat(e.coords)
@@ -118,11 +138,11 @@ function openSidePanel(date, list) {
   document.getElementById('panel-title').textContent = date;
   
   content.innerHTML = list.length ? list.map(e => `
-    <div style="background:rgba(255,255,255,0.05); padding:12px; border-radius:6px; margin-bottom:10px; cursor:pointer;" onclick="showDetail(${JSON.stringify(e).replace(/"/g, '&quot;')})">
+    <div style="background:rgba(255,255,255,0.05); padding:12px; border-radius:6px; margin-bottom:10px; cursor:pointer; border:1px solid rgba(255,255,255,0.05);" onclick="showDetail(${JSON.stringify(e).replace(/"/g, '&quot;')})">
       <div style="font-size:9px; color:var(--${e.type}); font-weight:600; margin-bottom:4px;">${e.type.toUpperCase()}</div>
       <div style="font-size:13px; font-weight:500; color:#fff;">${e.title}</div>
     </div>
-  `).join('') : `<div style="text-align:center; color:#444; margin-top:40px; font-size:11px;">No Records</div>`;
+  `).join('') : `<div style="text-align:center; color:#555; margin-top:40px; font-size:11px;">No Data</div>`;
   
   panel.classList.add('open');
 }
@@ -152,9 +172,13 @@ function closePanel() {
 function closeDetail() { document.getElementById('detail-modal').classList.remove('open'); }
 
 function toggleWeatherLayer(layer) {
-  if (!windyAPIInstance) return;
+  if (!windyAPIInstance) {
+    console.warn("Windy API not initialized (Check Key)");
+    return;
+  }
   const overlayMap = { wind: "wind", wave: "waves", temp: "temp", current: "currents" };
   windyAPIInstance.store.set("overlay", overlayMap[layer]);
+  
   document.querySelectorAll('.weather-btn').forEach(btn => btn.classList.remove('active'));
   document.getElementById(`layer-${layer}`).classList.add('active');
 }
