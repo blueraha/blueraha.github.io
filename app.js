@@ -170,29 +170,47 @@ function toggleWeatherLayer(layer) {
 }
 
 function addWeatherLayer(layer) {
-  // OpenWeatherMap tiles (free tier)
-  const OWM_KEY = 'demo'; // Replace with actual key for production
+  // Copernicus Marine Service - Free WMS layers
   const layerConfigs = {
     wind: {
       id: 'weather-wind',
-      url: `https://tile.openweathermap.org/map/wind_new/{z}/{x}/{y}.png?appid=${OWM_KEY}`,
-      opacity: 0.6
+      url: 'https://nrt.cmems-du.eu/thredds/wms/global-analysis-forecast-phy-001-024?' +
+           'SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&' +
+           'LAYERS=eastward_wind,northward_wind&' +
+           'WIDTH=256&HEIGHT=256&CRS=EPSG:4326&' +
+           'BBOX={bbox-epsg-4326}&FORMAT=image/png&TRANSPARENT=true&' +
+           'STYLES=boxfill/rainbow',
+      opacity: 0.5
     },
     wave: {
       id: 'weather-wave',
-      url: `https://tile.openweathermap.org/map/wave/{z}/{x}/{y}.png?appid=${OWM_KEY}`,
-      opacity: 0.5
+      url: 'https://nrt.cmems-du.eu/thredds/wms/global-analysis-forecast-wav-001-027?' +
+           'SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&' +
+           'LAYERS=VHM0&' +
+           'WIDTH=256&HEIGHT=256&CRS=EPSG:4326&' +
+           'BBOX={bbox-epsg-4326}&FORMAT=image/png&TRANSPARENT=true&' +
+           'STYLES=boxfill/rainbow',
+      opacity: 0.6
     },
     temp: {
       id: 'weather-temp',
-      url: `https://tile.openweathermap.org/map/temp_new/{z}/{x}/{y}.png?appid=${OWM_KEY}`,
+      url: 'https://nrt.cmems-du.eu/thredds/wms/global-analysis-forecast-phy-001-024?' +
+           'SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&' +
+           'LAYERS=thetao&' +
+           'WIDTH=256&HEIGHT=256&CRS=EPSG:4326&' +
+           'BBOX={bbox-epsg-4326}&FORMAT=image/png&TRANSPARENT=true&' +
+           'STYLES=boxfill/sst_36',
       opacity: 0.6
     },
     current: {
       id: 'weather-current',
-      // Using wind as proxy for currents (in production, use marine current API)
-      url: `https://tile.openweathermap.org/map/wind_new/{z}/{x}/{y}.png?appid=${OWM_KEY}`,
-      opacity: 0.4
+      url: 'https://nrt.cmems-du.eu/thredds/wms/global-analysis-forecast-phy-001-024?' +
+           'SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&' +
+           'LAYERS=uo,vo&' +
+           'WIDTH=256&HEIGHT=256&CRS=EPSG:4326&' +
+           'BBOX={bbox-epsg-4326}&FORMAT=image/png&TRANSPARENT=true&' +
+           'STYLES=boxfill/occam',
+      opacity: 0.5
     }
   };
 
