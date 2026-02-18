@@ -6,18 +6,18 @@
 <title>Maritime Hub</title>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <link href="https://api.mapbox.com/mapbox-gl-js/v3.3.0/mapbox-gl.css" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <script src="https://api.mapbox.com/mapbox-gl-js/v3.3.0/mapbox-gl.js"></script>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="https://api.windy.com/assets/map-forecast/libBoot.js"></script>
 
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
   :root {
-    --accident: #1a6fb5;
-    --news: #ea7317;
-    --event: #2d9f6b;
-    --brand-blue: #7ab8f5;
+    --accident: #1a6fb5; --news: #ea7317; --event: #2d9f6b; --brand-blue: #7ab8f5;
+    --panel-bg: rgba(22,28,36,0.98);
   }
-  body { font-family: 'Inter', sans-serif; overflow: hidden; background: #000; }
+  body { font-family: 'Inter', sans-serif; overflow: hidden; background: #000; color: #fff; }
 
   /* TOP BAR */
   .top-bar {
@@ -26,56 +26,67 @@
     border-bottom: 1px solid rgba(255,255,255,0.1);
     display: flex; align-items: center; padding: 0 16px; z-index: 1000;
   }
-  .logo { font-family: 'IBM Plex Mono', monospace; font-size: 12px; font-weight: 500; color: #fff; }
-  .logo-sub { font-size: 9px; color: rgba(255,255,255,0.5); margin-left: 6px; }
+  .logo { font-family: 'IBM Plex Mono', monospace; font-size: 12px; font-weight: 500; }
 
-  /* CALENDAR BAR */
+  /* CALENDAR BAR - 31 Days Fixed */
   .calendar-bar {
-    position: fixed; top: 40px; left: 0; right: 0;
+    position: fixed; top: 40px; left: 0; right: 0; height: 65px;
     background: rgba(22,28,36,0.92); backdrop-filter: blur(8px);
     border-bottom: 1px solid rgba(255,255,255,0.1);
-    z-index: 999; padding: 8px 16px; display: flex; align-items: center; gap: 12px;
+    z-index: 999; padding: 8px 16px; display: flex; align-items: center; gap: 15px;
   }
   .month-selector { display: flex; align-items: center; gap: 6px; padding: 4px 8px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 4px; }
-  .year-label { font-family: 'IBM Plex Mono', monospace; font-size: 11px; color: rgba(255,255,255,0.5); }
-  .month-btn { width: 24px; height: 24px; border: none; background: rgba(255,255,255,0.08); border-radius: 3px; color: #fff; cursor: pointer; }
-  .month-name { font-family: 'IBM Plex Mono', monospace; font-size: 12px; color: #fff; min-width: 60px; text-align: center; }
-  .days-strip { flex: 1; display: flex; gap: 3px; overflow-x: auto; padding: 2px 0; }
-  .day-item { min-width: 44px; display: flex; flex-direction: column; align-items: center; padding: 4px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.08); border-radius: 4px; cursor: pointer; }
-  .day-num { font-family: 'IBM Plex Mono', monospace; font-size: 11px; color: #fff; }
-  .day-events { display: flex; flex-direction: column; gap: 2px; width: 100%; margin-top: 3px; }
-  .event-bar { height: 2px; border-radius: 1px; }
-  .bar-accident { background: var(--accident); }
-  .bar-news { background: var(--news); }
-  .bar-event { background: var(--event); }
+  .days-strip { 
+    flex: 1; display: grid; grid-template-columns: repeat(31, 1fr); gap: 2px; 
+    height: 100%; align-items: stretch;
+  }
+  .day-item { 
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.05);
+    border-radius: 3px; cursor: pointer; transition: 0.2s; font-size: 10px;
+  }
+  .day-item:hover { background: rgba(255,255,255,0.1); border-color: var(--brand-blue); }
+  .day-item.active { background: rgba(122, 184, 245, 0.15); border-color: var(--brand-blue); }
 
-  /* MAP */
+  /* MAP & CONTROLS */
   #map { position: fixed; top: 0; left: 0; width: 100%; height: 100vh; z-index: 1; }
-
-  /* MAP CONTROLS */
   .map-controls { position: fixed; top: 120px; right: 10px; z-index: 998; display: flex; flex-direction: column; gap: 6px; }
   .control-btn {
     width: 36px; height: 36px; background: rgba(22,28,36,0.95); border: 1px solid rgba(255,255,255,0.15);
     border-radius: 4px; cursor: pointer; display: flex; align-items: center; justify-content: center; color: rgba(255,255,255,0.8);
   }
-  .control-btn:hover { border-color: var(--brand-blue); color: #fff; }
-  .control-btn.active { background: rgba(122, 184, 245, 0.2); border-color: var(--brand-blue); color: var(--brand-blue); }
-  .divider { height: 1px; background: rgba(255,255,255,0.1); margin: 4px 0; }
+  .control-btn.active { border-color: var(--brand-blue); color: var(--brand-blue); background: rgba(122,184,245,0.1); }
 
-  /* SIDE PANEL & MODAL (기존 스타일 유지) */
-  .side-panel { position: fixed; top: 40px; right: 0; width: 360px; height: calc(100vh - 40px); background: rgba(22,28,36,0.98); border-left: 1px solid rgba(255,255,255,0.1); z-index: 997; transform: translateX(100%); transition: transform 0.3s; display: flex; flex-direction: column; }
+  /* SIDE PANEL - Right Bar with Blue Edge */
+  .side-panel { 
+    position: fixed; top: 40px; right: 0; width: 380px; height: calc(100vh - 40px);
+    background: var(--panel-bg); border-left: 2px solid var(--brand-blue); 
+    z-index: 997; transform: translateX(100%); transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    display: flex; flex-direction: column; box-shadow: -10px 0 30px rgba(0,0,0,0.5);
+  }
   .side-panel.open { transform: translateX(0); }
-  .panel-header { padding: 14px 16px; border-bottom: 1px solid rgba(255,255,255,0.1); display: flex; justify-content: space-between; align-items: center; }
-  .panel-content { flex: 1; overflow-y: auto; padding: 16px; }
-  .detail-modal { position: fixed; inset: 0; background: rgba(0,0,0,0.8); z-index: 9999; display: none; align-items: center; justify-content: center; }
+  .panel-header { padding: 20px; border-bottom: 1px solid rgba(255,255,255,0.1); display: flex; justify-content: space-between; align-items: center; }
+  .panel-content { flex: 1; overflow-y: auto; padding: 20px; }
+  
+  /* EVENT CARD - Fixed Black Text Issue */
+  .event-card { 
+    background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 6px; padding: 15px; margin-bottom: 12px; cursor: pointer;
+  }
+  .event-card:hover { border-color: var(--brand-blue); background: rgba(255,255,255,0.08); }
+  .event-card h4 { font-size: 14px; margin-bottom: 8px; color: #fff; line-height: 1.4; }
+  .event-card p { font-size: 12px; color: rgba(255,255,255,0.6); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+
+  /* MODAL */
+  .detail-modal { position: fixed; inset: 0; background: rgba(0,0,0,0.85); z-index: 9999; display: none; align-items: center; justify-content: center; backdrop-filter: blur(4px); }
   .detail-modal.open { display: flex; }
-  .modal-content { background: #161c24; border: 1px solid rgba(255,255,255,0.15); border-radius: 8px; max-width: 600px; width: 90%; padding: 24px; color: #fff; }
+  .modal-content { background: #1a222c; border: 1px solid rgba(255,255,255,0.1); border-radius: 12px; width: 90%; max-width: 650px; padding: 30px; position: relative; }
 </style>
 </head>
-<body>
+<body onclick="handleGlobalClick(event)">
 
 <div class="top-bar">
-  <div class="logo">Maritime Hub <span class="logo-sub">powered by autonomousship.org</span></div>
+  <div class="logo">MARITIME HUB <span style="color:rgba(255,255,255,0.4); margin-left:8px; font-weight:300;">| autonomousship.org</span></div>
 </div>
 
 <div class="calendar-bar">
@@ -91,9 +102,9 @@
 <div id="map"></div>
 
 <div class="map-controls">
-  <button class="control-btn" onclick="toggleProjection()">🌐</button>
-  <button class="control-btn" onclick="cycleStyle()">🗺️</button>
-  <div class="divider"></div>
+  <button class="control-btn" onclick="toggleProjection()" title="Projection">🌐</button>
+  <button class="control-btn" onclick="cycleStyle()" title="Style">🗺️</button>
+  <div style="height:1px; background:rgba(255,255,255,0.1); margin:4px 0;"></div>
   <button class="control-btn weather-btn" id="layer-wind" onclick="toggleWeatherLayer('wind')">
     <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M9.5 9c0-1.7-1.3-3-3-3S3.5 7.3 3.5 9s1.3 3 3 3H19M6.5 15c0 1.7 1.3 3 3 3s3-1.3 3-3-1.3-3-3-3H2"/></svg>
   </button>
@@ -108,16 +119,22 @@
   </button>
 </div>
 
-<div class="side-panel" id="side-panel">
-  <div class="panel-header"><div id="panel-title" style="font-size:12px; color:rgba(255,255,255,0.6)">EVENTS</div><button onclick="closePanel()" style="background:none; border:none; color:#fff; cursor:pointer;">✕</button></div>
+<div class="side-panel" id="side-panel" onclick="event.stopPropagation()">
+  <div class="panel-header">
+    <div id="panel-title" style="font-family:'IBM Plex Mono'; font-size:14px; color:var(--brand-blue);">DATE</div>
+    <button onclick="closePanel()" style="background:none; border:none; color:rgba(255,255,255,0.5); cursor:pointer; font-size:18px;">✕</button>
+  </div>
   <div class="panel-content" id="panel-content"></div>
 </div>
 
-<div class="detail-modal" id="detail-modal">
-  <div class="modal-content">
-    <div id="modal-title" style="font-size:18px; font-weight:600; margin-bottom:12px;"></div>
-    <div id="modal-text" style="font-size:14px; color:rgba(255,255,255,0.8); line-height:1.6;"></div>
-    <button onclick="closeDetail()" style="margin-top:20px; padding:8px 16px; cursor:pointer;">Close</button>
+<div class="detail-modal" id="detail-modal" onclick="closeDetail()">
+  <div class="modal-content" onclick="event.stopPropagation()">
+    <div id="modal-type" style="font-size:10px; text-transform:uppercase; margin-bottom:10px; letter-spacing:1px;">TYPE</div>
+    <h2 id="modal-title" style="margin-bottom:20px; line-height:1.3;">TITLE</h2>
+    <div id="modal-text" style="font-size:15px; color:rgba(255,255,255,0.8); line-height:1.8; max-height:400px; overflow-y:auto; padding-right:10px;"></div>
+    <div style="margin-top:30px; display:flex; justify-content:flex-end;">
+      <button onclick="closeDetail()" style="background:var(--brand-blue); border:none; color:#000; padding:10px 24px; border-radius:4px; cursor:pointer; font-weight:600;">CLOSE</button>
+    </div>
   </div>
 </div>
 
