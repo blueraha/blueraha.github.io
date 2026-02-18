@@ -1,4 +1,4 @@
-// app.js - Optimized Maritime Hub
+// app.js - Maritime Hub Integrated v1.2.1
 let map, markers = [];
 let currentYear = 2026;
 let currentMonth = 0;
@@ -17,7 +17,7 @@ function init() {
   map = new mapboxgl.Map({
     container: 'map',
     style: MAP_STYLES[0].url,
-    center: [127, 35.5],
+    center: [127, 36],
     zoom: 4,
     attributionControl: false
   });
@@ -34,7 +34,7 @@ function initWindy() {
     key: "aMpcNHv9Ki6q8dtdnjVL5Q1EwXZYQuDQ",
     lat: map.getCenter().lat,
     lon: map.getCenter().lng,
-    zoom: map.getZoom(),
+    zoom: Math.round(map.getZoom()),
     verbose: false
   };
 
@@ -42,32 +42,29 @@ function initWindy() {
     windyAPIInstance = windyAPI;
     map.on('move', () => {
       const center = map.getCenter();
-      windyAPIInstance.map.setView([center.lat, center.lng], map.getZoom());
+      windyAPIInstance.map.setView([center.lat, center.lng], Math.round(map.getZoom()));
     });
   });
 }
 
 function renderMonth() {
   document.getElementById('month-name').textContent = MONTHS[currentMonth];
-  document.getElementById('year-label').textContent = currentYear;
   const strip = document.getElementById('days-strip');
   strip.innerHTML = '';
+  const actualDays = new Date(currentYear, currentMonth + 1, 0).getDate();
 
   for (let d = 1; d <= 31; d++) {
     const dateKey = `${currentYear}-${String(currentMonth+1).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
     const dayEvents = events[dateKey] || [];
-    
     const item = document.createElement('div');
     item.className = 'day-item';
-    const bars = dayEvents.map(e => `<div class="event-bar bar-${e.type}"></div>`).join('');
-    item.innerHTML = `<span class="day-num">${d}</span><div class="day-events">${bars}</div>`;
     
-    // 31일까지 그리드를 채우되, 실제 존재하지 않는 날짜는 비활성화
-    const actualDays = new Date(currentYear, currentMonth + 1, 0).getDate();
     if (d > actualDays) {
-      item.style.opacity = '0.1';
+      item.style.opacity = '0';
       item.style.pointerEvents = 'none';
     } else {
+      const bars = dayEvents.map(e => `<div style="height:2px; width:100%; background:var(--${e.type}); margin-top:1px;"></div>`).join('');
+      item.innerHTML = `<span>${d}</span><div style="width:80%;">${bars}</div>`;
       item.onclick = (e) => {
         e.stopPropagation();
         openSidePanel(dateKey, dayEvents);
@@ -88,17 +85,11 @@ function openSidePanel(date, list) {
     <div class="event-card" onclick="showDetail(${JSON.stringify(e).replace(/"/g, '&quot;')})">
       <div style="font-size:10px; color:var(--${e.type}); font-weight:600; margin-bottom:5px;">${e.type.toUpperCase()}</div>
       <h4>${e.title}</h4>
-      <p>${e.content.replace(/<[^>]*>/g, '').substring(0, 80)}...</p>
+      <p>${e.content.replace(/<[^>]*>/g, '').substring(0, 70)}...</p>
     </div>
-  `).join('') : `<div style="text-align:center; color:rgba(255,255,255,0.3); margin-top:50px;">No events scheduled</div>`;
+  `).join('') : `<div style="text-align:center; color:#444; margin-top:50px;">No records for this date</div>`;
   
   panel.classList.add('open');
-}
-
-function handleGlobalClick(e) {
-  if (!document.getElementById('side-panel').contains(e.target)) {
-    closePanel();
-  }
 }
 
 function showDetail(e) {
@@ -109,27 +100,12 @@ function showDetail(e) {
   document.getElementById('detail-modal').classList.add('open');
 }
 
-function closePanel() { 
-  document.getElementById('side-panel').classList.remove('open');
-  document.querySelectorAll('.day-item').forEach(i => i.classList.remove('active'));
-}
-function closeDetail() { document.getElementById('detail-modal').classList.remove('open'); }
-
 function toggleWeatherLayer(layer) {
   if (!windyAPIInstance) return;
   const overlayMap = { wind: "wind", wave: "waves", temp: "temp", current: "currents" };
-  windyAPIInstance.store.set("overlay", overlayMap[layer] || "wind");
+  windyAPIInstance.store.set("overlay", overlayMap[layer]);
   document.querySelectorAll('.weather-btn').forEach(btn => btn.classList.remove('active'));
   document.getElementById(`layer-${layer}`).classList.add('active');
-}
-
-function toggleProjection() { isGlobe = !isGlobe; map.setProjection(isGlobe ? 'globe' : 'mercator'); }
-function cycleStyle() { currentStyle = (currentStyle + 1) % MAP_STYLES.length; map.setStyle(MAP_STYLES[currentStyle].url); }
-function changeMonth(dir) { 
-  currentMonth += dir; 
-  if(currentMonth > 11) { currentMonth = 0; currentYear++; }
-  else if(currentMonth < 0) { currentMonth = 11; currentYear--; }
-  renderMonth(); 
 }
 
 function renderMarkers() {
@@ -145,6 +121,20 @@ function renderMarkers() {
       markers.push(marker);
     });
   });
+}
+
+function closePanel() { 
+  document.getElementById('side-panel').classList.remove('open'); 
+  document.querySelectorAll('.day-item').forEach(i => i.classList.remove('active'));
+}
+function closeDetail() { document.getElementById('detail-modal').classList.remove('open'); }
+function toggleProjection() { isGlobe = !isGlobe; map.setProjection(isGlobe ? 'globe' : 'mercator'); }
+function cycleStyle() { currentStyle = (currentStyle + 1) % MAP_STYLES.length; map.setStyle(MAP_STYLES[currentStyle].url); }
+function changeMonth(dir) { 
+  currentMonth += dir; 
+  if(currentMonth > 11) { currentMonth = 0; currentYear++; }
+  else if(currentMonth < 0) { currentMonth = 11; currentYear--; }
+  renderMonth(); 
 }
 
 init();
