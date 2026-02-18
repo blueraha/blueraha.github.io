@@ -5,7 +5,7 @@
 let map, markers = [];
 let currentYear = 2026;
 let currentMonth = 0; // 0 = JAN
-let currentStyle = 'dark';
+let currentStyle = 'light';
 
 // ── Weather Layer State ──
 const OWM_APP_ID = 'c1c9d245aa905fef239db16721c930a7'; // ← OWM 무료 API 키를 여기에 넣으세요 (openweathermap.org 가입 후 발급)
@@ -25,7 +25,7 @@ function init() {
 
   map = new mapboxgl.Map({
     container: 'map',
-    style: 'mapbox://styles/mapbox/dark-v11',
+    style: 'mapbox://styles/mapbox/light-v11',
     center: [127, 36.5],
     zoom: 4,
     attributionControl: false
@@ -53,6 +53,10 @@ function init() {
 
     // 기상 레이어 소스 등록
     addWeatherSources();
+
+    // 초기 스타일 버튼 활성화
+    var initBtn = document.getElementById('style-light');
+    if (initBtn) initBtn.classList.add('active');
 
     // RainViewer 초기화
     initRainViewer();
@@ -274,11 +278,11 @@ function openSidePanel(date, list) {
   document.getElementById('panel-title').textContent = date;
 
   content.innerHTML = list.length ? list.map(function(e) {
-    return '<div style="background:rgba(255,255,255,0.05); padding:12px; border-radius:6px; margin-bottom:10px; cursor:pointer; border:1px solid rgba(255,255,255,0.05); transition:0.2s;" onclick="showDetail(' + JSON.stringify(e).replace(/"/g, '&quot;') + ')" onmouseover="this.style.background=\'rgba(255,255,255,0.1)\'" onmouseout="this.style.background=\'rgba(255,255,255,0.05)\'">' +
+    return '<div style="background:rgba(0,0,0,0.02); padding:12px; border-radius:6px; margin-bottom:10px; cursor:pointer; border:1px solid rgba(0,0,0,0.06); transition:0.2s;" onclick="showDetail(' + JSON.stringify(e).replace(/"/g, '&quot;') + ')" onmouseover="this.style.background=\'rgba(9,132,227,0.06)\'" onmouseout="this.style.background=\'rgba(0,0,0,0.02)\'">' +
       '<div style="font-size:9px; color:var(--' + e.type + '); font-weight:600; margin-bottom:4px;">' + e.type.toUpperCase() + '</div>' +
-      '<div style="font-size:13px; font-weight:500; color:#fff;">' + e.title + '</div>' +
+      '<div style="font-size:13px; font-weight:500; color:var(--text-primary);">' + e.title + '</div>' +
     '</div>';
-  }).join('') : '<div style="text-align:center; color:#555; margin-top:40px; font-size:11px;">No Data</div>';
+  }).join('') : '<div style="text-align:center; color:#aaa; margin-top:40px; font-size:11px;">No Data</div>';
 
   panel.classList.add('open');
 }
@@ -307,13 +311,38 @@ function closePanel() {
 
 function closeDetail() { document.getElementById('detail-modal').classList.remove('open'); }
 
-function toggleStyle() {
-  if (currentStyle === 'dark') {
-    map.setStyle('mapbox://styles/mapbox/satellite-streets-v12');
-    currentStyle = 'satellite';
-  } else {
-    map.setStyle('mapbox://styles/mapbox/dark-v11');
-    currentStyle = 'dark';
+// ── Map Style & Globe ──
+
+const MAP_STYLES = {
+  dark:      'mapbox://styles/mapbox/dark-v11',
+  light:     'mapbox://styles/mapbox/light-v11',
+  streets:   'mapbox://styles/mapbox/streets-v12',
+  satellite: 'mapbox://styles/mapbox/satellite-streets-v12'
+};
+let isGlobe = false;
+
+function setMapStyle(key) {
+  if (!MAP_STYLES[key]) return;
+  currentStyle = key;
+  map.setStyle(MAP_STYLES[key]);
+
+  // 버튼 활성화 표시
+  document.querySelectorAll('[id^="style-"]').forEach(function(btn) { btn.classList.remove('active'); });
+  var btn = document.getElementById('style-' + key);
+  if (btn) btn.classList.add('active');
+}
+
+function toggleGlobe() {
+  isGlobe = !isGlobe;
+  map.setProjection(isGlobe ? 'globe' : 'mercator');
+
+  var btn = document.getElementById('btn-globe');
+  if (btn) {
+    if (isGlobe) {
+      btn.classList.add('active');
+    } else {
+      btn.classList.remove('active');
+    }
   }
 }
 
