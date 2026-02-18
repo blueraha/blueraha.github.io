@@ -512,6 +512,9 @@ function closePanel() {
 
 function closeDetail() { document.getElementById('detail-modal').classList.remove('open'); }
 
+function openAbout() { document.getElementById('about-modal').classList.add('open'); }
+function closeAbout() { document.getElementById('about-modal').classList.remove('open'); }
+
 // ── Map Style & Globe ──
 
 const MAP_STYLES = {
