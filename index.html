@@ -3,588 +3,323 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AutonomousShip.org</title>
+<title>Maritime Hub</title>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <link href="https://api.mapbox.com/mapbox-gl-js/v3.3.0/mapbox-gl.css" rel="stylesheet">
 <script src="https://api.mapbox.com/mapbox-gl-js/v3.3.0/mapbox-gl.js"></script>
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
   :root {
-    --bg: #f5f4f0;
-    --white: #ffffff;
-    --black: #111111;
-    --gray-100: #f0efeb;
-    --gray-200: #e0dfd9;
-    --gray-400: #9b9a94;
-    --gray-600: #5a5955;
-    --accident: #d63b2f;
-    --accident-bg: #fdf1f0;
-    --news: #1a6fb5;
-    --news-bg: #f0f5fb;
-    --border: #dddcd6;
+    --accident: #1a6fb5;
+    --news: #ea7317;
+    --event: #2d9f6b;
   }
-  body { background: var(--bg); font-family: 'Inter', sans-serif; min-height: 100vh; color: var(--black); }
+  body { font-family: 'Inter', sans-serif; overflow: hidden; }
 
-  header { background: var(--white); border-bottom: 1px solid var(--border); padding: 0 48px; }
-  .header-inner { max-width: 1200px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; height: 60px; }
-  .logo { display: flex; flex-direction: column; justify-content: center; gap: 1px; }
-  .logo-main { font-family: 'IBM Plex Mono', monospace; font-size: 16px; font-weight: 500; color: var(--black); letter-spacing: -0.3px; line-height: 1.2; }
-  .logo-sub { font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: var(--gray-400); letter-spacing: 0.2px; line-height: 1.2; }
-  .logo-sub span { color: var(--gray-400); }
-  .header-right { display: flex; align-items: center; gap: 20px; }
-  .legend { display: flex; align-items: center; gap: 16px; }
-  .legend-item { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--gray-600); }
-  .legend-dot { width: 8px; height: 8px; border-radius: 50%; }
-  .dot-accident { background: var(--accident); }
-  .dot-news { background: var(--news); }
-  .today-btn { font-family: 'IBM Plex Mono', monospace; font-size: 12px; padding: 6px 14px; background: var(--black); color: var(--white); border: none; border-radius: 4px; cursor: pointer; }
+  /* ═══ TOP BAR ═══ */
+  .top-bar {
+    position: fixed; top: 0; left: 0; right: 0; height: 40px;
+    background: rgba(22,28,36,0.95); backdrop-filter: blur(10px);
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    display: flex; align-items: center; padding: 0 16px; z-index: 1000;
+  }
+  .logo {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px; font-weight: 500; color: #fff;
+  }
+  .logo-sub {
+    font-size: 9px; color: rgba(255,255,255,0.5); margin-left: 6px;
+  }
+  .legend {
+    margin-left: auto; display: flex; gap: 12px;
+  }
+  .legend-item {
+    display: flex; align-items: center; gap: 5px;
+    font-size: 10px; color: rgba(255,255,255,0.7);
+  }
+  .legend-dot { width: 6px; height: 6px; border-radius: 50%; }
 
-  .calendar-wrapper { max-width: 1200px; margin: 0 auto; padding: 32px 48px 48px; }
-  .month-nav { display: flex; align-items: center; justify-content: space-between; margin-bottom: 28px; }
-  .month-title { font-family: 'IBM Plex Mono', monospace; font-size: 28px; font-weight: 500; letter-spacing: -1px; }
-  .nav-btns { display: flex; gap: 4px; }
-  .nav-btn { width: 36px; height: 36px; border: 1px solid var(--border); background: var(--white); border-radius: 4px; cursor: pointer; font-size: 16px; color: var(--gray-600); display: flex; align-items: center; justify-content: center; transition: all 0.15s; }
-  .nav-btn:hover { background: var(--black); color: var(--white); border-color: var(--black); }
+  /* ═══ CALENDAR BAR ═══ */
+  .calendar-bar {
+    position: fixed; top: 40px; left: 0; right: 0;
+    max-height: 12vh;
+    background: rgba(22,28,36,0.92); backdrop-filter: blur(8px);
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    z-index: 999; padding: 8px 16px;
+    display: flex; align-items: center; gap: 12px;
+  }
+  .month-selector {
+    display: flex; align-items: center; gap: 6px;
+    padding: 4px 8px; background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(255,255,255,0.1); border-radius: 4px;
+  }
+  .year-label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px; color: rgba(255,255,255,0.5); margin-right: 4px;
+  }
+  .month-btn {
+    width: 24px; height: 24px; border: none;
+    background: rgba(255,255,255,0.08); border-radius: 3px;
+    color: rgba(255,255,255,0.7); cursor: pointer;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 12px; transition: all 0.15s;
+  }
+  .month-btn:hover { background: rgba(255,255,255,0.15); color: #fff; }
+  .month-name {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px; font-weight: 500; color: #fff;
+    min-width: 60px; text-align: center;
+  }
+  .days-strip {
+    flex: 1; display: flex; gap: 3px; overflow-x: auto; padding: 2px 0;
+  }
+  .days-strip::-webkit-scrollbar { height: 2px; }
+  .days-strip::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.2); border-radius: 1px; }
+  .day-item {
+    min-width: 44px; display: flex; flex-direction: column;
+    align-items: center; padding: 4px 3px 3px;
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 4px; cursor: pointer; transition: all 0.15s;
+  }
+  .day-item:hover { background: rgba(255,255,255,0.1); }
+  .day-item.active { background: rgba(255,255,255,0.15); border-color: rgba(255,255,255,0.3); }
+  .day-num {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px; font-weight: 500; color: rgba(255,255,255,0.9);
+    margin-bottom: 3px;
+  }
+  .day-events { display: flex; flex-direction: column; gap: 2px; width: 100%; }
+  .event-bar { height: 2px; border-radius: 1px; }
+  .bar-accident { background: var(--accident); }
+  .bar-news { background: var(--news); }
+  .bar-event { background: var(--event); }
 
-  .day-headers { display: grid; grid-template-columns: repeat(7, 1fr); gap: 1px; margin-bottom: 1px; }
-  .day-header { font-family: 'IBM Plex Mono', monospace; font-size: 11px; color: var(--gray-400); letter-spacing: 1px; padding: 8px 12px; }
+  /* ═══ MAP ═══ */
+  #map {
+    position: fixed; top: 0; left: 0;
+    width: 100%; height: 100vh; z-index: 1;
+  }
 
-  .calendar-grid { display: grid; grid-template-columns: repeat(7, 1fr); grid-auto-rows: 130px; gap: 1px; background: var(--border); border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
-  .day-cell { background: var(--white); height: 130px; padding: 10px; transition: background 0.15s; position: relative; overflow: hidden; }
-  .day-cell.has-events { cursor: pointer; }
-  .day-cell.has-events:hover { background: #fafaf7; }
-  .day-cell.other-month { background: var(--gray-100); }
-  .day-cell.other-month .day-num { color: var(--gray-400); }
-  .day-cell.today { background: var(--black); }
-  .day-cell.today .day-num { color: var(--white); }
-  .day-cell.today:hover { background: #222; }
-  .day-num { font-family: 'IBM Plex Mono', monospace; font-size: 13px; font-weight: 500; color: var(--black); margin-bottom: 6px; display: block; }
+  /* ═══ MAP CONTROLS ═══ */
+  .map-controls {
+    position: fixed; top: 120px; right: 10px; z-index: 998;
+    display: flex; flex-direction: column; gap: 6px;
+  }
+  .control-btn {
+    width: 34px; height: 34px;
+    background: rgba(22,28,36,0.95); backdrop-filter: blur(8px);
+    border: 1px solid rgba(255,255,255,0.15);
+    border-radius: 4px; cursor: pointer;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 16px; transition: all 0.15s;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+    color: rgba(255,255,255,0.8);
+  }
+  .control-btn:hover {
+    background: rgba(30,40,50,1);
+    border-color: rgba(255,255,255,0.3);
+    color: #fff;
+  }
+  .control-btn.active {
+    background: rgba(255,255,255,0.15);
+    border-color: rgba(255,255,255,0.4);
+    color: #fff;
+  }
 
-  .events { display: flex; flex-direction: column; gap: 3px; }
-  .event-pill { font-size: 11px; padding: 3px 7px; border-radius: 3px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%; font-weight: 500; line-height: 1.4; }
-  .pill-accident { background: var(--accident-bg); color: var(--accident); border-left: 2px solid var(--accident); }
-  .pill-news { background: var(--news-bg); color: var(--news); border-left: 2px solid var(--news); }
-  .today .pill-accident { background: rgba(214,59,47,0.2); color: #ff8a82; }
-  .today .pill-news { background: rgba(26,111,181,0.2); color: #7ab8f5; }
-  .more-events { font-size: 10px; color: var(--gray-400); margin-top: 2px; font-family: 'IBM Plex Mono', monospace; }
-  .today .more-events { color: rgba(255,255,255,0.4); }
-
-  /* MODAL */
-  .modal-overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.4); z-index: 100; display: flex; align-items: center; justify-content: center; padding: 40px; opacity: 0; pointer-events: none; transition: opacity 0.2s; }
-  .modal-overlay.open { opacity: 1; pointer-events: all; }
-  .modal { background: var(--white); border-radius: 8px; width: 100%; max-width: 780px; max-height: 86vh; overflow-y: auto; transform: translateY(12px); transition: transform 0.2s; box-shadow: 0 20px 60px rgba(0,0,0,0.15); }
-  .modal-overlay.open .modal { transform: translateY(0); }
-
-  /* LIST VIEW */
-  .modal-list-view { padding: 32px; }
-  .modal-list-view.hidden { display: none; }
-  .modal-date-header { font-family: 'IBM Plex Mono', monospace; font-size: 13px; color: var(--gray-400); margin-bottom: 20px; display: flex; align-items: center; justify-content: space-between; }
-  .modal-close-btn { background: none; border: 1px solid var(--border); border-radius: 4px; padding: 5px 12px; font-size: 12px; cursor: pointer; color: var(--gray-600); transition: all 0.15s; }
-  .modal-close-btn:hover { background: var(--black); color: var(--white); border-color: var(--black); }
-  .event-list-items { display: flex; flex-direction: column; gap: 10px; }
-  .event-list-card { border: 1px solid var(--border); border-radius: 6px; padding: 16px 20px; cursor: pointer; transition: all 0.15s; display: flex; align-items: center; justify-content: space-between; gap: 16px; }
-  .event-list-card:hover { border-color: var(--black); background: var(--gray-100); }
-  .event-list-left { display: flex; align-items: center; gap: 12px; flex: 1; min-width: 0; }
-  .event-type-badge { font-size: 10px; font-weight: 600; letter-spacing: 0.8px; padding: 4px 8px; border-radius: 3px; text-transform: uppercase; white-space: nowrap; }
-  .badge-accident { background: var(--accident-bg); color: var(--accident); }
-  .badge-news { background: var(--news-bg); color: var(--news); }
-  .event-list-title { font-size: 14px; font-weight: 500; color: var(--black); line-height: 1.4; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-  .event-list-arrow { color: var(--gray-400); font-size: 18px; flex-shrink: 0; }
-
-  /* DETAIL VIEW */
-  .modal-detail { display: none; }
-  .modal-detail.active { display: block; }
-  .detail-header { padding: 18px 28px; border-bottom: 1px solid var(--border); display: flex; align-items: center; gap: 12px; }
-  .back-btn { background: none; border: none; cursor: pointer; font-size: 20px; color: var(--gray-600); padding: 2px 6px; transition: color 0.15s; line-height: 1; }
-  .back-btn:hover { color: var(--black); }
-  .detail-date { font-family: 'IBM Plex Mono', monospace; font-size: 12px; color: var(--gray-400); flex: 1; }
-  .detail-body { display: flex; }
-  .detail-text { flex: 1; padding: 28px 32px; min-width: 0; }
-  .detail-source-row { display: flex; align-items: center; gap: 12px; margin-bottom: 18px; }
-  .detail-source-logo { width: 40px; height: 40px; background: var(--gray-200); border-radius: 6px; display: flex; align-items: center; justify-content: center; font-size: 10px; font-weight: 700; color: var(--gray-600); font-family: 'IBM Plex Mono', monospace; flex-shrink: 0; }
-  .detail-source-name { font-size: 13px; font-weight: 600; color: var(--black); }
-  .detail-source-meta { font-size: 11px; color: var(--gray-400); margin-top: 2px; }
-  .detail-title { font-size: 19px; font-weight: 600; line-height: 1.4; color: var(--black); margin-bottom: 16px; }
-  .detail-content { font-size: 14px; color: var(--gray-600); line-height: 1.75; }
-  .detail-content p { margin-bottom: 12px; }
-  .detail-footer { margin-top: 24px; padding-top: 16px; border-top: 1px solid var(--border); display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
-  .detail-link { font-size: 12px; color: var(--news); text-decoration: none; font-family: 'IBM Plex Mono', monospace; border: 1px solid var(--news); padding: 6px 14px; border-radius: 4px; transition: all 0.15s; }
-  .detail-link:hover { background: var(--news); color: var(--white); }
-  .detail-tag { font-size: 11px; color: var(--gray-400); background: var(--gray-100); padding: 4px 10px; border-radius: 3px; font-family: 'IBM Plex Mono', monospace; }
-  .detail-image { width: 260px; flex-shrink: 0; background: var(--gray-100); border-left: 1px solid var(--border); min-height: 280px; position: relative; overflow: hidden; }
-  .detail-image img { width: 100%; height: 100%; object-fit: cover; }
-  .detail-map { width: 100%; height: 100%; min-height: 280px; }
-  .detail-image-placeholder { text-align: center; color: var(--gray-400); padding: 24px; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; }
-  .detail-image-placeholder .img-icon { font-size: 40px; display: block; margin-bottom: 10px; }
-  .detail-image-placeholder span { font-size: 11px; font-family: 'IBM Plex Mono', monospace; }
-  .map-label { position: absolute; bottom: 8px; left: 8px; background: rgba(0,0,0,0.6); color: white; font-family: 'IBM Plex Mono', monospace; font-size: 10px; padding: 3px 8px; border-radius: 3px; pointer-events: none; z-index: 10; }
-
-  ::-webkit-scrollbar { width: 5px; }
-  ::-webkit-scrollbar-track { background: transparent; }
-  ::-webkit-scrollbar-thumb { background: var(--gray-200); border-radius: 3px; }
-
-  /* ── MOBILE LIST VIEW ── */
-  .mobile-list-view { display: none; }
-  .mobile-list-view .month-nav { padding: 20px 16px 0; }
-  .mobile-list-view .month-title { font-size: 22px; }
-
-  .mobile-events-list { padding: 16px; display: flex; flex-direction: column; gap: 8px; }
-
-  .mobile-event-card {
-    background: var(--white);
-    border: 1px solid var(--border);
-    border-radius: 8px;
+  /* ═══ SIDE PANEL ═══ */
+  .side-panel {
+    position: fixed; top: 40px; right: 0;
+    width: 360px; height: calc(100vh - 40px);
+    background: rgba(22,28,36,0.98); backdrop-filter: blur(12px);
+    border-left: 1px solid rgba(255,255,255,0.1);
+    box-shadow: -4px 0 16px rgba(0,0,0,0.3);
+    z-index: 997; transform: translateX(100%); transition: transform 0.3s;
+    display: flex; flex-direction: column;
+  }
+  .side-panel.open { transform: translateX(0); }
+  .panel-header {
     padding: 14px 16px;
-    cursor: pointer;
-    transition: all 0.15s;
-    display: flex;
-    align-items: flex-start;
-    gap: 12px;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    display: flex; align-items: center; justify-content: space-between;
   }
-  .mobile-event-card:active { background: var(--gray-100); }
-
-  .mobile-event-dot {
-    width: 10px; height: 10px; border-radius: 50%;
-    flex-shrink: 0; margin-top: 4px;
-  }
-  .mobile-event-dot.accident { background: var(--accident); }
-  .mobile-event-dot.news { background: var(--news); }
-
-  .mobile-event-info { flex: 1; min-width: 0; }
-  .mobile-event-date {
+  .panel-title {
     font-family: 'IBM Plex Mono', monospace;
-    font-size: 10px; color: var(--gray-400);
-    letter-spacing: 0.5px; margin-bottom: 4px;
+    font-size: 11px; color: rgba(255,255,255,0.6);
   }
-  .mobile-event-title {
-    font-size: 13px; font-weight: 500;
-    color: var(--black); line-height: 1.4;
+  .close-panel {
+    background: none; border: none;
+    font-size: 18px; cursor: pointer;
+    color: rgba(255,255,255,0.6);
+    padding: 4px; transition: color 0.15s;
   }
-  .mobile-event-source {
-    font-size: 11px; color: var(--gray-400); margin-top: 4px;
+  .close-panel:hover { color: #fff; }
+  .panel-content {
+    flex: 1; overflow-y: auto; padding: 12px 16px;
   }
-  .mobile-event-arrow { color: var(--gray-400); font-size: 16px; flex-shrink: 0; }
+  .event-card {
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 6px; padding: 12px;
+    margin-bottom: 10px; cursor: pointer; transition: all 0.15s;
+  }
+  .event-card:hover {
+    background: rgba(255,255,255,0.08);
+    border-color: rgba(255,255,255,0.2);
+  }
+  .event-type-badge {
+    display: inline-block; font-size: 9px; font-weight: 600;
+    letter-spacing: 0.5px; padding: 3px 6px; border-radius: 3px;
+    text-transform: uppercase; margin-bottom: 6px;
+  }
+  .badge-accident { background: rgba(26,111,181,0.2); color: #7ab8f5; }
+  .badge-news { background: rgba(234,115,23,0.2); color: #ffb380; }
+  .badge-event { background: rgba(45,159,107,0.2); color: #6dd4a7; }
+  .event-title {
+    font-size: 12px; font-weight: 500; color: rgba(255,255,255,0.95);
+    line-height: 1.4; margin-bottom: 4px;
+  }
+  .event-source { font-size: 10px; color: rgba(255,255,255,0.5); }
 
-  .mobile-empty {
-    text-align: center; padding: 40px 16px;
+  /* ═══ DETAIL MODAL ═══ */
+  .detail-modal {
+    position: fixed; inset: 0;
+    background: rgba(0,0,0,0.7); z-index: 9999;
+    display: none; align-items: center; justify-content: center; padding: 40px;
+  }
+  .detail-modal.open { display: flex; }
+  .modal-content {
+    background: rgba(22,28,36,1);
+    border: 1px solid rgba(255,255,255,0.15);
+    border-radius: 8px; max-width: 700px; width: 100%;
+    max-height: 85vh; overflow-y: auto;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+  }
+  .modal-header {
+    padding: 16px 20px;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    display: flex; align-items: center; justify-content: space-between;
+  }
+  .modal-close {
+    background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.15);
+    padding: 6px 12px; border-radius: 4px; cursor: pointer;
+    font-size: 11px; color: rgba(255,255,255,0.7); transition: all 0.15s;
+  }
+  .modal-close:hover {
+    background: rgba(255,255,255,0.15); color: #fff;
+  }
+  .modal-body { padding: 20px; }
+  .modal-source {
+    font-size: 11px; color: rgba(255,255,255,0.5); margin-bottom: 6px;
+  }
+  .modal-title {
+    font-size: 16px; font-weight: 600; color: rgba(255,255,255,0.95);
+    line-height: 1.4; margin-bottom: 14px;
+  }
+  .modal-text {
+    font-size: 13px; color: rgba(255,255,255,0.75); line-height: 1.75;
+  }
+  .modal-text p { margin-bottom: 10px; }
+  .modal-footer {
+    padding: 12px 20px;
+    border-top: 1px solid rgba(255,255,255,0.1);
+    display: flex; gap: 6px; flex-wrap: wrap;
+  }
+  .modal-link {
     font-family: 'IBM Plex Mono', monospace;
-    font-size: 12px; color: var(--gray-400);
+    font-size: 10px; color: #7ab8f5;
+    text-decoration: none;
+    border: 1px solid rgba(122,184,245,0.3);
+    padding: 5px 10px; border-radius: 4px; transition: all 0.15s;
+  }
+  .modal-link:hover {
+    background: rgba(122,184,245,0.15);
+    border-color: rgba(122,184,245,0.5);
+  }
+  .modal-tag {
+    font-size: 9px; background: rgba(255,255,255,0.05);
+    color: rgba(255,255,255,0.5);
+    padding: 4px 8px; border-radius: 3px;
+    font-family: 'IBM Plex Mono', monospace;
   }
 
-  /* ── RESPONSIVE ── */
-  @media (max-width: 640px) {
-    /* Hide desktop calendar, show mobile list */
-    .desktop-calendar { display: none; }
-    .mobile-list-view { display: block; }
-
-    /* Header mobile */
-    header { padding: 0 16px; }
-    .header-inner { height: 52px; }
-    .logo { font-size: 13px; }
+  @media (max-width: 768px) {
+    .side-panel { width: 100%; }
     .legend { display: none; }
-    .today-btn { padding: 5px 10px; font-size: 11px; }
-
-    /* Modal full screen on mobile */
-    .modal-overlay { padding: 0; align-items: flex-end; }
-    .modal {
-      border-radius: 16px 16px 0 0;
-      max-height: 92vh;
-      max-width: 100%;
-    }
-    .modal-list-view { padding: 20px 16px; }
-    .detail-text { padding: 20px 16px; }
-    .detail-body { flex-direction: column; }
-    .detail-image {
-      width: 100%; min-height: 220px;
-      border-left: none; border-top: 1px solid var(--border);
-      order: -1;
-    }
-    .detail-map { min-height: 220px; }
-    .detail-title { font-size: 16px; }
-    .detail-header { padding: 14px 16px; }
-  }
-
-  @media (min-width: 641px) {
-    .desktop-calendar { display: block; }
-    .mobile-list-view { display: none; }
-    .calendar-wrapper, header { padding-left: 24px; padding-right: 24px; }
-  }
-
-  @media (min-width: 1024px) {
-    .calendar-wrapper, header { padding-left: 48px; padding-right: 48px; }
+    .year-label { display: none; }
+    .month-name { min-width: 50px; font-size: 11px; }
   }
 </style>
 </head>
 <body>
 
-<header>
-  <div class="header-inner">
-    <div class="logo">
-      <div class="logo-main">Maritime Hub</div>
-      <div class="logo-sub">powered by autonomousship<span>.org</span></div>
-    </div>
-    <div class="header-right">
-      <div class="legend">
-        <div class="legend-item"><div class="legend-dot dot-accident"></div>Marine Accident</div>
-        <div class="legend-item"><div class="legend-dot dot-news"></div>News</div>
-      </div>
-      <button class="today-btn" onclick="goToday()">Today</button>
-    </div>
+<!-- TOP BAR -->
+<div class="top-bar">
+  <div class="logo">
+    Maritime Hub
+    <span class="logo-sub">powered by autonomousship.org</span>
   </div>
-</header>
-
-<div class="desktop-calendar">
-<div class="calendar-wrapper">
-  <div class="month-nav">
-    <div class="month-title" id="month-title"></div>
-    <div class="nav-btns">
-      <button class="nav-btn" onclick="changeMonth(-1)">‹</button>
-      <button class="nav-btn" onclick="changeMonth(1)">›</button>
+  <div class="legend">
+    <div class="legend-item">
+      <div class="legend-dot" style="background:var(--accident)"></div>Accident
     </div>
-  </div>
-  <div class="day-headers">
-    <div class="day-header">SUN</div><div class="day-header">MON</div><div class="day-header">TUE</div>
-    <div class="day-header">WED</div><div class="day-header">THU</div><div class="day-header">FRI</div><div class="day-header">SAT</div>
-  </div>
-  <div class="calendar-grid" id="calendar-grid"></div>
-</div>
-</div>
-
-<!-- MOBILE LIST VIEW -->
-<div class="mobile-list-view">
-  <div class="month-nav" style="padding:20px 16px 0;">
-    <div class="month-title" id="mobile-month-title"></div>
-    <div class="nav-btns">
-      <button class="nav-btn" onclick="changeMonth(-1)">‹</button>
-      <button class="nav-btn" onclick="changeMonth(1)">›</button>
+    <div class="legend-item">
+      <div class="legend-dot" style="background:var(--news)"></div>News
     </div>
-  </div>
-  <div class="mobile-events-list" id="mobile-events-list"></div>
-</div>
-
-<!-- MODAL -->
-<div class="modal-overlay" id="modal-overlay" onclick="handleOverlayClick(event)">
-  <div class="modal" id="modal">
-
-    <div class="modal-list-view" id="modal-list-view">
-      <div class="modal-date-header">
-        <span id="modal-list-date"></span>
-        <button class="modal-close-btn" onclick="closeModal()">✕ Close</button>
-      </div>
-      <div class="event-list-items" id="event-list-items"></div>
+    <div class="legend-item">
+      <div class="legend-dot" style="background:var(--event)"></div>Event
     </div>
-
-    <div class="modal-detail" id="modal-detail">
-      <div class="detail-header">
-        <button class="back-btn" id="back-btn" onclick="goBack()">←</button>
-        <span class="detail-date" id="detail-date"></span>
-        <button class="modal-close-btn" onclick="closeModal()">✕ Close</button>
-      </div>
-      <div class="detail-body">
-        <div class="detail-text">
-          <div class="detail-source-row">
-            <div class="detail-source-logo" id="detail-logo"></div>
-            <div>
-              <div class="detail-source-name" id="detail-source-name"></div>
-              <div class="detail-source-meta" id="detail-source-meta"></div>
-            </div>
-          </div>
-          <div class="detail-title" id="detail-title"></div>
-          <div class="detail-content" id="detail-content"></div>
-          <div class="detail-footer" id="detail-footer"></div>
-        </div>
-        <div class="detail-image" id="detail-image"></div>
-      </div>
-    </div>
-
   </div>
 </div>
 
-<script>
-const MONTHS = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+<!-- CALENDAR BAR -->
+<div class="calendar-bar">
+  <div class="month-selector">
+    <span class="year-label">2026</span>
+    <button class="month-btn" onclick="changeMonth(-1)">◀</button>
+    <div class="month-name" id="month-name"></div>
+    <button class="month-btn" onclick="changeMonth(1)">▶</button>
+  </div>
+  <div class="days-strip" id="days-strip"></div>
+</div>
 
-const events = {
-  "2026-01-16": [
-    {
-      type: "news",
-      title: "HMM to Install Avikus' HiNAS Control Autonomous Navigation System on 40 Ships",
-      source: "BusinessKorea",
-      sourceMeta: "businesskorea.co.kr · Jan 16, 2026",
-      content: `<p>HMM announced it will install HD Hyundai's autonomous navigation solution <strong>HiNAS Control</strong>, developed by Avikus, on 40 ships in its fleet. The contract was signed on January 15 at HD Hyundai's Global R&D Center in Pangyo, attended by the CEOs of HMM, HD Korea Shipbuilding & Offshore Engineering, and Avikus.</p>
-<p>HiNAS Control is an AI-based autonomous navigation system that performs perception, judgment, and control functions — going beyond mere navigation assistance. HMM plans to first apply the solution to 40 ships and then expand to its entire fleet based on the results.</p>
-<p>The three companies also signed a broader business agreement: HMM will operate the solution, Avikus will advance and supply it, and HD Korea Shipbuilding & Offshore Engineering will provide technical platform support. Including this contract, Avikus has now supplied HiNAS Control to approximately <strong>350 ships</strong> total, including over 100 large vessels on a retrofit basis.</p>
-<p>HMM noted that "AI-based technology is core technology for strengthening competitiveness in the digital and eco-friendly shipping ecosystem," while HD Hyundai described autonomous navigation as a "game changer for the shipbuilding and shipping industries."</p>`,
-      tags: ["HMM", "Avikus", "HiNAS Control", "Autonomous Navigation", "Korea"],
-      link: "https://www.businesskorea.co.kr/news/articleView.html?idxno=261088",
-      coords: [127.0940, 37.3946],
-      location: "Pangyo, South Korea"
-    }
-  ],
-  "2026-02-12": [
-    {
-      type: "accident",
-      title: "USS Truxtun Collides With USNS Supply During At-Sea Resupply in Caribbean",
-      source: "The War Zone / SOUTHCOM",
-      sourceMeta: "twz.com · Feb 12, 2026",
-      content: `<p>The <em>Arleigh Burke</em> class guided missile destroyer USS <strong>Truxtun</strong> (DDG-103) collided with the fast combat support ship USNS <strong>Supply</strong> (T-AOE-6) during an underway replenishment (UNREP) operation in the Caribbean Sea on February 11, 2026.</p>
-<p>U.S. Southern Command (SOUTHCOM) confirmed the incident, stating that two sailors sustained minor injuries and are in stable condition. Both ships continued sailing safely following the collision. The extent of damage to either vessel has not been disclosed.</p>
-<p>Truxtun had departed Naval Station Norfolk on February 3 for a scheduled deployment, briefly returned to port for equipment repairs, and was back underway by February 6. The incident is currently under investigation.</p>
-<p>UNREP operations inherently involve ships sailing closely side-by-side, and the Naval Safety Center has previously noted: <em>"Seemingly minor mistakes can turn into potential severe mishaps in seconds."</em></p>`,
-      tags: ["Collision", "US Navy", "UNREP", "Caribbean", "USS Truxtun"],
-      link: "https://www.twz.com/sea/navy-destroyer-support-ship-collide-during-at-sea-resupply",
-      coords: [-72.5, 16.5],
-      location: "Caribbean Sea"
-    },
-    {
-      type: "accident",
-      title: "Fatal German Bight Collision Was 'Wholly Avoidable,' MAIB Finds",
-      source: "MAIB / gCaptain",
-      sourceMeta: "gov.uk/maib · Final Report · Feb 12, 2026",
-      content: `<p>More than two years after the cargo ship <strong>Verity</strong> sank following a collision in the German Bight, the UK's Marine Accident Investigation Branch (MAIB) has released its final report — concluding the loss of five lives was entirely preventable.</p>
-<p>The Isle of Man-registered Verity collided with the Bahamas-flagged bulk carrier <strong>Polesie</strong> in the early hours of October 24, 2023, inside a busy traffic separation scheme about 12 nautical miles southwest of Helgoland. Verity sank within minutes. Two crew members survived. Five did not.</p>
-<p>"This accident was wholly avoidable," said MAIB Chief Inspector Andrew Moll. "Neither vessel applied the collision regulations diligently, and both accepted passing at close range when there was no need to do so."</p>
-<p>The investigation found both vessels were on a clear crossing course with ample sea room. Verity, as the give-way vessel, failed to take early and decisive action. Both officers allowed ships to close to a CPA of just 0.5 nautical miles while making only small autopilot adjustments — insufficient to signal collision-avoidance intent. Germany's VTS also came under scrutiny for late intervention and use of a duplex VHF channel that slowed communication.</p>
-<p>The MAIB issued multiple safety recommendations but stopped short of calling for changes to COLREGS: <em>"The regulations were adequate. They were simply not followed."</em></p>`,
-      tags: ["Collision", "MAIB", "COLREGS", "German Bight", "VTS"],
-      link: "https://gcaptain.com",
-      coords: [7.8, 54.1],
-      location: "German Bight, North Sea"
-    }
-  ],
-  "2026-02-17": []
-};
+<!-- MAP -->
+<div id="map"></div>
 
-let now = new Date();
-let currentYear = now.getFullYear();
-let currentMonth = now.getMonth();
-let selectedDateKey = null;
-let isSingleEvent = false;
+<!-- MAP CONTROLS -->
+<div class="map-controls">
+  <button class="control-btn" onclick="toggleProjection()" title="Globe / Flat View">🌐</button>
+  <button class="control-btn" onclick="cycleStyle()" title="Change Map Style">🗺️</button>
+  <button class="control-btn" onclick="toggle3D()" title="3D View">📐</button>
+  <button class="control-btn active" id="filter-accident" onclick="toggleFilter('accident')" title="Toggle Accidents">⚠️</button>
+  <button class="control-btn active" id="filter-event" onclick="toggleFilter('event')" title="Toggle Events">📅</button>
+</div>
 
-function renderMobileList() {
-  const listEl = document.getElementById('mobile-events-list');
-  const titleEl = document.getElementById('mobile-month-title');
-  if (!listEl) return;
-  if (titleEl) titleEl.textContent = `${MONTHS[currentMonth]} ${currentYear}`;
+<!-- SIDE PANEL -->
+<div class="side-panel" id="side-panel">
+  <div class="panel-header">
+    <div class="panel-title" id="panel-title"></div>
+    <button class="close-panel" onclick="closePanel()">✕</button>
+  </div>
+  <div class="panel-content" id="panel-content"></div>
+</div>
 
-  // Collect all events for this month
-  const monthEvents = [];
-  Object.entries(events).forEach(([dateKey, evList]) => {
-    const [y, m] = dateKey.split('-');
-    if (parseInt(y) === currentYear && parseInt(m) === currentMonth + 1) {
-      evList.forEach(e => monthEvents.push({ dateKey, ...e }));
-    }
-  });
+<!-- DETAIL MODAL -->
+<div class="detail-modal" id="detail-modal" onclick="closeIfOverlay(event)">
+  <div class="modal-content">
+    <div class="modal-header">
+      <div class="modal-source" id="modal-source"></div>
+      <button class="modal-close" onclick="closeDetail()">✕ Close</button>
+    </div>
+    <div class="modal-body">
+      <div class="modal-title" id="modal-title"></div>
+      <div class="modal-text" id="modal-text"></div>
+    </div>
+    <div class="modal-footer" id="modal-footer"></div>
+  </div>
+</div>
 
-  // Sort by date
-  monthEvents.sort((a, b) => a.dateKey.localeCompare(b.dateKey));
-
-  if (monthEvents.length === 0) {
-    listEl.innerHTML = `<div class="mobile-empty">No events this month</div>`;
-    return;
-  }
-
-  listEl.innerHTML = monthEvents.map((e, i) => {
-    const [y, m, d] = e.dateKey.split('-');
-    const dateLabel = `${MONTHS[parseInt(m)-1].toUpperCase().slice(0,3)} ${parseInt(d)}, ${y}`;
-    return `
-      <div class="mobile-event-card" onclick="openMobileEvent(${i})">
-        <div class="mobile-event-dot ${e.type}"></div>
-        <div class="mobile-event-info">
-          <div class="mobile-event-date">${dateLabel}</div>
-          <div class="mobile-event-title">${e.title}</div>
-          <div class="mobile-event-source">${e.source}</div>
-        </div>
-        <div class="mobile-event-arrow">›</div>
-      </div>`;
-  }).join('');
-
-  // Store for click access
-  window._mobileEvents = monthEvents;
-}
-
-function openMobileEvent(i) {
-  const e = window._mobileEvents[i];
-  if (!e) return;
-  selectedDateKey = e.dateKey;
-  isSingleEvent = true;
-  document.getElementById('modal-list-view').classList.add('hidden');
-  showDetail(e, e.dateKey);
-  document.getElementById('modal-overlay').classList.add('open');
-}
-
-function renderCalendar() {
-  document.getElementById('month-title').textContent = `${MONTHS[currentMonth]} ${currentYear}`;
-  renderMobileList();
-  const grid = document.getElementById('calendar-grid');
-  grid.innerHTML = '';
-
-  const today = new Date();
-  const firstDay = new Date(currentYear, currentMonth, 1).getDay();
-  const daysInMonth = new Date(currentYear, currentMonth + 1, 0).getDate();
-  const daysInPrev = new Date(currentYear, currentMonth, 0).getDate();
-  const totalCells = Math.ceil((firstDay + daysInMonth) / 7) * 7;
-
-  for (let i = 0; i < totalCells; i++) {
-    let day, year = currentYear, month = currentMonth, isOther = false;
-    if (i < firstDay) {
-      day = daysInPrev - firstDay + i + 1;
-      month = currentMonth - 1;
-      if (month < 0) { month = 11; year--; }
-      isOther = true;
-    } else if (i >= firstDay + daysInMonth) {
-      day = i - firstDay - daysInMonth + 1;
-      month = currentMonth + 1;
-      if (month > 11) { month = 0; year++; }
-      isOther = true;
-    } else {
-      day = i - firstDay + 1;
-    }
-
-    const dateKey = `${year}-${String(month+1).padStart(2,'0')}-${String(day).padStart(2,'0')}`;
-    const isToday = (day === today.getDate() && month === today.getMonth() && year === today.getFullYear());
-    const dayEvents = events[dateKey] || [];
-
-    const cell = document.createElement('div');
-    cell.className = 'day-cell';
-    if (isOther) cell.classList.add('other-month');
-    if (isToday) cell.classList.add('today');
-    if (dayEvents.length > 0) cell.classList.add('has-events');
-
-    const numSpan = document.createElement('span');
-    numSpan.className = 'day-num';
-    numSpan.textContent = day;
-    cell.appendChild(numSpan);
-
-    if (dayEvents.length > 0) {
-      const evDiv = document.createElement('div');
-      evDiv.className = 'events';
-      dayEvents.slice(0, 2).forEach(e => {
-        const pill = document.createElement('div');
-        pill.className = `event-pill pill-${e.type}`;
-        pill.textContent = e.title;
-        evDiv.appendChild(pill);
-      });
-      if (dayEvents.length > 2) {
-        const more = document.createElement('div');
-        more.className = 'more-events';
-        more.textContent = `+${dayEvents.length - 2} more`;
-        evDiv.appendChild(more);
-      }
-      cell.appendChild(evDiv);
-      cell.addEventListener('click', () => openDateModal(dateKey));
-    }
-    grid.appendChild(cell);
-  }
-}
-
-function changeMonth(dir) {
-  currentMonth += dir;
-  if (currentMonth > 11) { currentMonth = 0; currentYear++; }
-  if (currentMonth < 0) { currentMonth = 11; currentYear--; }
-  renderCalendar();
-}
-
-function goToday() {
-  const t = new Date();
-  currentYear = t.getFullYear();
-  currentMonth = t.getMonth();
-  renderCalendar();
-}
-
-function openDateModal(dateKey) {
-  selectedDateKey = dateKey;
-  const dayEvents = events[dateKey] || [];
-  if (!dayEvents.length) return;
-
-  const [y, m, d] = dateKey.split('-');
-  const listView = document.getElementById('modal-list-view');
-  const detailView = document.getElementById('modal-detail');
-
-  if (dayEvents.length === 1) {
-    isSingleEvent = true;
-    listView.classList.add('hidden');
-    showDetail(dayEvents[0], dateKey);
-  } else {
-    isSingleEvent = false;
-    listView.classList.remove('hidden');
-    detailView.classList.remove('active');
-    document.getElementById('modal-list-date').textContent = `${MONTHS[parseInt(m)-1]} ${parseInt(d)}, ${y}`;
-    document.getElementById('event-list-items').innerHTML = dayEvents.map((e, i) => `
-      <div class="event-list-card" onclick="showDetailById(${i})">
-        <div class="event-list-left">
-          <span class="event-type-badge badge-${e.type}">${e.type === 'accident' ? 'Marine Accident' : 'News'}</span>
-          <span class="event-list-title">${e.title}</span>
-        </div>
-        <span class="event-list-arrow">›</span>
-      </div>`).join('');
-  }
-  document.getElementById('modal-overlay').classList.add('open');
-}
-
-function showDetailById(i) {
-  showDetail(events[selectedDateKey][i], selectedDateKey);
-}
-
-let currentMap = null;
-
-function showDetail(e, dateKey) {
-  const [y, m, d] = dateKey.split('-');
-  document.getElementById('modal-list-view').classList.add('hidden');
-  const detail = document.getElementById('modal-detail');
-  detail.classList.add('active');
-  document.getElementById('back-btn').style.display = isSingleEvent ? 'none' : 'flex';
-  document.getElementById('detail-date').textContent = `${MONTHS[parseInt(m)-1]} ${parseInt(d)}, ${y}`;
-  document.getElementById('detail-logo').textContent = e.source.split(/[\s\/]/)[0].substring(0, 3).toUpperCase();
-  document.getElementById('detail-source-name').textContent = e.source;
-  document.getElementById('detail-source-meta').textContent = e.sourceMeta;
-  document.getElementById('detail-title').textContent = e.title;
-  document.getElementById('detail-content').innerHTML = e.content;
-
-  const footer = document.getElementById('detail-footer');
-  footer.innerHTML = (e.link && e.link !== '#' ? `<a href="${e.link}" target="_blank" class="detail-link">View Source →</a>` : '')
-    + (e.tags || []).map(t => `<span class="detail-tag">#${t}</span>`).join('');
-
-  // Map or placeholder
-  const imgEl = document.getElementById('detail-image');
-  if (currentMap) { currentMap.remove(); currentMap = null; }
-
-  if (e.coords) {
-    imgEl.innerHTML = `<div id="detail-map" class="detail-map"></div><div class="map-label">📍 ${e.location || ''}</div>`;
-    setTimeout(() => {
-      mapboxgl.accessToken = 'pk.eyJ1IjoiYmx1ZXJhaGEiLCJhIjoiY21scW5tOGRhMDJwMzNkcHVzeXVhcGw3dyJ9.3eBK-bIV99YgmxOycysRyA';
-      currentMap = new mapboxgl.Map({
-        container: 'detail-map',
-        style: 'mapbox://styles/mapbox/navigation-night-v1',
-        center: e.coords,
-        zoom: 5,
-        interactive: true
-      });
-      const markerColor = e.type === 'accident' ? '#d63b2f' : '#1a6fb5';
-      new mapboxgl.Marker({ color: markerColor })
-        .setLngLat(e.coords)
-        .setPopup(new mapboxgl.Popup({ offset: 25 }).setText(e.location || e.title))
-        .addTo(currentMap);
-    }, 100);
-  } else {
-    imgEl.innerHTML = `<div class="detail-image-placeholder"><span class="img-icon">${e.type === 'accident' ? '⚠️' : '🚢'}</span><span>${e.type === 'accident' ? 'Marine Accident' : 'News Update'}</span></div>`;
-  }
-}
-
-function goBack() {
-  document.getElementById('modal-list-view').classList.remove('hidden');
-  document.getElementById('modal-detail').classList.remove('active');
-}
-
-function closeModal() {
-  document.getElementById('modal-overlay').classList.remove('open');
-  if (currentMap) { currentMap.remove(); currentMap = null; }
-}
-
-function handleOverlayClick(e) {
-  if (e.target === document.getElementById('modal-overlay')) closeModal();
-}
-
-renderCalendar();
-</script>
+<script src="data.js"></script>
+<script src="app.js"></script>
 </body>
 </html>
