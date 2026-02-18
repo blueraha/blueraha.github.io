@@ -1,37 +1,26 @@
-// ═══════════════════════════════════════════════════════════════
-// APP.JS - Maritime Hub (Windy overlay version)
-// ═══════════════════════════════════════════════════════════════
-
+// app.js - Full Integrated Version
 let map, markers = [];
 let currentYear = 2026;
-let currentMonth = 1;
-let selectedDay = null;
-let isGlobe = false;
-let filters = { accident: true, event: true, news: false };
+let currentMonth = 0; // JAN
 let windyAPIInstance = null;
+let isGlobe = false;
+let currentStyle = 0;
 
-// ─── Mapbox styles ───
 const MAP_STYLES = [
   { name: 'Dark', url: 'mapbox://styles/mapbox/dark-v11' },
-  { name: 'Light', url: 'mapbox://styles/mapbox/light-v11' },
   { name: 'Satellite', url: 'mapbox://styles/mapbox/satellite-streets-v12' }
 ];
 
-let currentStyle = 0;
-
-// ─── Init ───
 function init() {
-  mapboxgl.accessToken =
-    'pk.eyJ1IjoiYmx1ZXJhaGEiLCJhIjoiY21scW5tOGRhMDJwMzNkcHVzeXVhcGw3dyJ9.3eBK-bIV99YgmxOycysRyA';
+  mapboxgl.accessToken = 'pk.eyJ1IjoiYmx1ZXJhaGEiLCJhIjoiY21scW5tOGRhMDJwMzNkcHVzeXVhcGw3dyJ9.3eBK-bIV99YgmxOycysRyA';
 
   map = new mapboxgl.Map({
     container: 'map',
     style: MAP_STYLES[0].url,
-    center: [20, 30],
-    zoom: 2
+    center: [127, 35],
+    zoom: 4,
+    attributionControl: false
   });
-
-  map.addControl(new mapboxgl.NavigationControl(), 'bottom-right');
 
   map.on('load', () => {
     renderMonth();
@@ -40,114 +29,100 @@ function init() {
   });
 }
 
-// ─── Windy Init ───
+// --- Windy Engine ---
 function initWindy() {
   const options = {
     key: "aMpcNHv9Ki6q8dtdnjVL5Q1EwXZYQuDQ",
-    lat: 30,
-    lon: 130,
-    zoom: 3
+    lat: map.getCenter().lat,
+    lon: map.getCenter().lng,
+    zoom: map.getZoom(),
   };
 
   windyInit(options, windyAPI => {
     windyAPIInstance = windyAPI;
+    map.on('move', () => {
+      const center = map.getCenter();
+      windyAPIInstance.map.setView([center.lat, center.lng], map.getZoom());
+    });
   });
 }
 
-// ─── Toggle Wind Layer ───
 function toggleWeatherLayer(layer) {
   if (!windyAPIInstance) return;
-
   const { store } = windyAPIInstance;
-
-  const overlayMap = {
-    wind: "wind",
-    wave: "waves",
-    temp: "temp",
-    current: "currents"
-  };
-
+  const overlayMap = { wind: "wind", wave: "waves", temp: "temp", current: "currents" };
+  
   store.set("overlay", overlayMap[layer] || "wind");
+  document.querySelectorAll('.weather-btn').forEach(btn => btn.classList.remove('active'));
+  document.getElementById(`layer-${layer}`).classList.add('active');
 }
 
-// ─── Month UI ───
-function changeMonth(dir) {
-  currentMonth += dir;
-  if (currentMonth > 11) { currentMonth = 0; currentYear++; }
-  if (currentMonth < 0) { currentMonth = 11; currentYear--; }
-  selectedDay = null;
-  renderMonth();
-}
-
+// --- 기존 캘린더 & 뉴스 로직 유지 ---
 function renderMonth() {
   document.getElementById('month-name').textContent = MONTHS[currentMonth];
-  document.querySelector('.year-label').textContent = currentYear;
-
+  document.getElementById('year-label').textContent = currentYear;
   const daysInMonth = new Date(currentYear, currentMonth + 1, 0).getDate();
   const strip = document.getElementById('days-strip');
   strip.innerHTML = '';
 
   for (let d = 1; d <= daysInMonth; d++) {
-    const dateKey =
-      `${currentYear}-${String(currentMonth+1).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
-
+    const dateKey = `${currentYear}-${String(currentMonth+1).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
     const dayEvents = events[dateKey] || [];
-
     const item = document.createElement('div');
     item.className = 'day-item';
-
-    const barsHTML = dayEvents
-      .map(e => `<div class="event-bar bar-${e.type}"></div>`)
-      .join('');
-
-    item.innerHTML =
-      `<span class="day-num">${d}</span><div class="day-events">${barsHTML}</div>`;
-
-    item.onclick = () => selectDay(d, dateKey, dayEvents);
-
+    const bars = dayEvents.map(e => `<div class="event-bar bar-${e.type}"></div>`).join('');
+    item.innerHTML = `<span class="day-num">${d}</span><div class="day-events">${bars}</div>`;
+    item.onclick = () => openSidePanel(dateKey, dayEvents);
     strip.appendChild(item);
   }
 }
 
-// ─── Markers ───
 function renderMarkers() {
   markers.forEach(m => m.remove());
   markers = [];
-
-  Object.entries(events).forEach(([dateKey, evList]) => {
-    evList.forEach(e => {
+  Object.entries(events).forEach(([date, list]) => {
+    list.forEach(e => {
       if (!e.coords) return;
-      if (e.type === 'news' || !filters[e.type]) return;
-
-      const color = e.type === 'accident' ? '#1a6fb5' : '#2d9f6b';
-
-      const marker = new mapboxgl.Marker({ color })
+      const el = document.createElement('div');
+      el.className = 'custom-marker';
+      const marker = new mapboxgl.Marker({ color: e.type === 'accident' ? '#1a6fb5' : '#2d9f6b' })
         .setLngLat(e.coords)
-        .setPopup(new mapboxgl.Popup({ offset: 25 })
-          .setHTML(`<strong>${e.title}</strong><br>${e.location || ''}`))
+        .setPopup(new mapboxgl.Popup().setHTML(`<b>${e.title}</b>`))
         .addTo(map);
-
       markers.push(marker);
     });
   });
 }
 
-// ─── Map controls ───
-function toggleProjection() {
-  isGlobe = !isGlobe;
-  map.setProjection(isGlobe ? 'globe' : 'mercator');
+function openSidePanel(date, list) {
+  const panel = document.getElementById('side-panel');
+  const content = document.getElementById('panel-content');
+  document.getElementById('panel-title').textContent = date;
+  content.innerHTML = list.length ? list.map(e => `
+    <div style="padding:10px; border:1px solid #333; margin-bottom:8px; cursor:pointer;" onclick='showDetail(${JSON.stringify(e)})'>
+      <div style="font-size:10px; color:var(--${e.type})">${e.type.toUpperCase()}</div>
+      <div style="font-size:13px;">${e.title}</div>
+    </div>
+  `).join('') : "No events";
+  panel.classList.add('open');
 }
 
-function cycleStyle() {
-  currentStyle = (currentStyle + 1) % MAP_STYLES.length;
-  map.setStyle(MAP_STYLES[currentStyle].url);
-  setTimeout(renderMarkers, 800);
+function showDetail(e) {
+  document.getElementById('modal-title').textContent = e.title;
+  document.getElementById('modal-text').innerHTML = e.content;
+  document.getElementById('detail-modal').classList.add('open');
 }
 
-function toggle3D() {
-  const pitch = map.getPitch();
-  map.easeTo({ pitch: pitch === 0 ? 60 : 0, duration: 800 });
+function closePanel() { document.getElementById('side-panel').classList.remove('open'); }
+function closeDetail() { document.getElementById('detail-modal').classList.remove('open'); }
+function changeMonth(dir) { 
+  currentMonth += dir; 
+  if(currentMonth > 11) { currentMonth = 0; currentYear++; }
+  else if(currentMonth < 0) { currentMonth = 11; currentYear--; }
+  renderMonth(); 
 }
 
-// ─── Start ───
+function toggleProjection() { isGlobe = !isGlobe; map.setProjection(isGlobe ? 'globe' : 'mercator'); }
+function cycleStyle() { currentStyle = (currentStyle + 1) % MAP_STYLES.length; map.setStyle(MAP_STYLES[currentStyle].url); }
+
 init();
