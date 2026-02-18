@@ -42,6 +42,13 @@ function init() {
     renderMonth();
     renderMarkers();
   });
+  map.on('style.load', () => {
+    Object.keys(weatherLayers).forEach(layer => {
+      if (weatherLayers[layer]) {
+        addWeatherLayer(layer);
+      }
+    });
+  });
 }
 
 // ─── Month Navigation ───
