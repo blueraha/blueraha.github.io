@@ -63,6 +63,7 @@ function changeMonth(dir) {
 
 function renderMonth() {
   document.getElementById('month-name').textContent = MONTHS[currentMonth];
+  document.getElementById('year-label').textContent = currentYear; 
   const daysInMonth = new Date(currentYear, currentMonth + 1, 0).getDate();
   const strip = document.getElementById('days-strip');
   strip.innerHTML = '';
@@ -180,36 +181,8 @@ function addWeatherLayer(layer) {
   // ── RainViewer wind layer (dynamic timestamp) ──
   if (layer === "wind") {
 
-    fetch("https://api.rainviewer.com/public/weather-maps.json")
-      .then(r => r.json())
-      .then(data => {
+   loadWindLayer();
 
-        const ts = data.radar.past[data.radar.past.length - 1].time;
-
-        const tileURL =
-          `https://tilecache.rainviewer.com/v2/radar/${ts}/256/{z}/{x}/{y}/2/1_1.png`;
-
-        const id = "weather-wind";
-
-        if (!map.getSource(id)) {
-          map.addSource(id, {
-            type: "raster",
-            tiles: [tileURL],
-            tileSize: 256
-          });
-        }
-
-        if (!map.getLayer(id)) {
-          map.addLayer({
-            id: id,
-            type: "raster",
-            source: id,
-            paint: {
-              "raster-opacity": 0.5
-            }
-          });
-        }
-      });
 
     return;
   }
@@ -287,7 +260,7 @@ function updateWeatherLegend() {
   const content = document.getElementById('legend-content');
   
   const layerInfo = {
-    wind: { icon: '💨', label: 'Wind Speed', colors: ['#fff', '#7ab8f5', '#1a6fb5'] },
+    wind: { icon: '💨', label: 'Rain', colors: ['#fff', '#7ab8f5', '#1a6fb5'] },
     wave: { icon: '🌊', label: 'Wave Height', colors: ['#6dd4a7', '#2d9f6b', '#1a5f44'] },
     temp: { icon: '🌡️', label: 'Sea Temp', colors: ['#ff6b6b', '#ffb380', '#fff'] },
     current: { icon: '🌀', label: 'Currents', colors: ['#fff', '#ea7317', '#d63b2f'] }
@@ -320,6 +293,20 @@ function renderMarkers() {
         .addTo(map);
       markers.push(marker);
     });
+  });
+}
+
+function loadWindLayer() {
+  const options = {
+    key: "aMpcNHv9Ki6q8dtdnjVL5Q1EwXZYQuDQ",
+    lat: 30,
+    lon: 130,
+    zoom: 3
+  };
+
+  windyInit(options, windyAPI => {
+    const { store } = windyAPI;
+    store.set("overlay", "wind");
   });
 }
 
