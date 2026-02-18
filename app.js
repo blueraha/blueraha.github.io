@@ -223,6 +223,11 @@ function renderMonth() {
       item.style.opacity = '0';
       item.style.pointerEvents = 'none';
     } else {
+      // 토/일 색상
+      var dayOfWeek = new Date(currentYear, currentMonth, d).getDay();
+      if (dayOfWeek === 6) item.classList.add('saturday');
+      if (dayOfWeek === 0) item.classList.add('sunday');
+
       var bars = dayEvents.map(function(e) {
         return '<div style="height:2px; width:100%; background:var(--' + e.type + '); margin-top:1px;"></div>';
       }).join('');
@@ -314,10 +319,13 @@ function closeDetail() { document.getElementById('detail-modal').classList.remov
 // ── Map Style & Globe ──
 
 const MAP_STYLES = {
-  dark:      'mapbox://styles/mapbox/dark-v11',
-  light:     'mapbox://styles/mapbox/light-v11',
-  streets:   'mapbox://styles/mapbox/streets-v12',
-  satellite: 'mapbox://styles/mapbox/satellite-streets-v12'
+  dark:        'mapbox://styles/mapbox/dark-v11',
+  light:       'mapbox://styles/mapbox/light-v11',
+  streets:     'mapbox://styles/mapbox/streets-v12',
+  satellite:   'mapbox://styles/mapbox/satellite-streets-v12',
+  outdoors:    'mapbox://styles/mapbox/outdoors-v12',
+  'nav-day':   'mapbox://styles/mapbox/navigation-day-v1',
+  'nav-night': 'mapbox://styles/mapbox/navigation-night-v1'
 };
 let isGlobe = false;
 
