@@ -314,3 +314,204 @@ addEvents(multiDay("2026-10-28", 5, {
   coords: [-80.1041, 26.1124],
   location: "Fort Lauderdale"
 }));
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-02-18
+addEvents({
+  "2026-02-18": [
+    {
+      type: "news",
+      title: "Costamare locks in $940m with 12 forward charters",
+      source: "Splash247",
+      sourceMeta: "splash247.com · Feb 18, 2026",
+      content: `<p>Greek container shipping company Costamare has secured $940m in new contracted revenues by fixing 12 vessels on forward charters for periods up to eight years, bringing fleet employment to 96%.</p>`,
+      tags: ["Container Shipping","Charter","Greek Shipping","Costamare","Fleet Operations"],
+      link: "https://splash247.com/costamare-locks-in-940m-with-12-forward-charters/",
+      coords: [23.7275,37.9838],
+      location: "Greece"
+    },
+    {
+      type: "news",
+      title: "United Maritime cashes out of offshore vessel JV",
+      source: "Splash247",
+      sourceMeta: "splash247.com · Feb 18, 2026",
+      content: `<p>Nasdaq-listed Greek bulker owner United Maritime has agreed to sell its stake in a Norwegian joint venture developing an energy construction vessel (ECV), locking in a profit of roughly €1.7m as it reshuffles capital.</p>`,
+      tags: ["Joint Venture","Offshore Vessels","Greek Shipping","United Maritime","Capital Restructuring"],
+      link: "https://splash247.com/united-maritime-cashes-out-of-offshore-vessel-jv/",
+      coords: [10.7461,59.9139],
+      location: "Norway"
+    },
+    {
+      type: "news",
+      title: "Finnish roro player Godby books up to four newbuilds in China",
+      source: "Splash247",
+      sourceMeta: "splash247.com · Feb 18, 2026",
+      content: `<p>Finland's Godby Shipping has ordered two roro vessels at CIMC Raffles in China, with options for two more units. The order supports the Åland-based operator's fleet renewal plans and environmental compliance goals.</p>`,
+      tags: ["Newbuilds","RoRo vessels","Godby Shipping","CIMC Raffles","Finland","Shipbuilding"],
+      link: "https://splash247.com/finnish-roro-player-godby-books-up-to-four-newbuilds-in-china/",
+      coords: [24.9354,60.1699],
+      location: "Åland, Finland / China"
+    },
+    {
+      type: "news",
+      title: "Marcura deepens tanker claims play with Shipdem buy",
+      source: "Splash247",
+      sourceMeta: "splash247.com · Feb 18, 2026",
+      content: `<p>Dubai-headquartered maritime tech firm Marcura has acquired UK-based chemical tanker demurrage specialist Shipdem from its parent company, Casper Shipping. The acquisition strengthens Marcura's position in the technical chemical tanker market where demurrage claims require expertise in contractual wording and complex cargo operations.</p>`,
+      tags: ["M&A","Tanker","Maritime Tech","Chemical Tanker","Demurrage"],
+      link: "https://splash247.com/marcura-deepens-tanker-claims-play-with-shipdem-buy/",
+      coords: [55.2708,25.2048],
+      location: "Dubai, UAE"
+    },
+    {
+      type: "news",
+      title: "ZIM workers escalate strike action over Hapag-Lloyd takeover",
+      source: "Splash247",
+      sourceMeta: "splash247.com · Feb 18, 2026",
+      content: `<p>Workers at Israel's ZIM Integrated Shipping Services have escalated strike action following news of a planned $4.2bn sale to Germany's Hapag-Lloyd. Around 800 unionised employees began a warning strike at the company's Haifa headquarters after reports of the imminent takeover.</p>`,
+      tags: ["ZIM","Hapag-Lloyd","Strike","Merger","Israel","Shipping"],
+      link: "https://splash247.com/zim-workers-escalate-strike-action-over-hapag-lloyd-takeover/",
+      coords: [35.0104,32.8193],
+      location: "Haifa, Israel"
+    },
+    {
+      type: "news",
+      title: "Landlocked Zimbabwe flags fraud to IMO after tanker's bogus registry link",
+      source: "Splash247",
+      sourceMeta: "splash247.com · Feb 18, 2026",
+      content: `<p>Zimbabwe has notified the International Maritime Organization of fraudulent registry claims after an aframax tanker was falsely linked to the nation. Zimbabwe, being landlocked, has no maritime authority or registry.</p>`,
+      tags: ["Registry Fraud","IMO","Flag State","Aframax","Compliance","Shipping Regulation"],
+      link: "https://splash247.com/landlocked-zimbabwe-flags-fraud-to-imo-after-tankers-bogus-registry-link/",
+      coords: [29.1549,-19.0154],
+      location: "Zimbabwe"
+    },
+    {
+      type: "news",
+      title: "Caravel Group: Angad Banga outlines his vision",
+      source: "Splash247",
+      sourceMeta: "splash247.com · Feb 18, 2026",
+      content: `<p>Angad Banga, newly appointed CEO of Caravel Group, outlines his vision for the shipping company in Hong Kong, following a succession plan that differs from typical industry transitions.</p>`,
+      tags: ["Shipping Company","Leadership","Hong Kong","Caravel Group"],
+      link: "https://splash247.com/caravel-group-angad-banga-outlines-his-vision/",
+      coords: [114.1694,22.3193],
+      location: "Hong Kong"
+    },
+    {
+      type: "news",
+      title: "Inter-array cable installation underway at 1.4 GW East Anglia Three offshore wind farm",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · Feb 18, 2026",
+      content: `<p>The vessel Seaway Aimery is laying inter-array cables between wind turbines at the East Anglia Three offshore wind farm, a 1.4 GW renewable energy installation.</p>`,
+      tags: ["offshore wind","cable installation","renewable energy","East Anglia"],
+      link: "https://www.offshore-energy.biz/inter-array-cable-installation-underway-at-1-4-gw-east-anglia-three-offshore-wind-farm/",
+      coords: [1.5,52],
+      location: "East Anglia, North Sea"
+    },
+    {
+      type: "news",
+      title: "Türkiye's national oil & gas company enters Bulgarian offshore license as partner to Shell",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · Feb 18, 2026",
+      content: `<p>Türkiye's national oil & gas company TPAO has become a partner in a Bulgarian offshore license alongside Shell, expanding its involvement in Black Sea energy operations.</p>`,
+      tags: ["Oil & Gas","Offshore","Bulgaria","Turkey","Shell","TPAO","Energy Partnership"],
+      link: "https://www.offshore-energy.biz/turkiyes-national-oil-gas-company-enters-bulgarian-offshore-license-as-partner-to-shell/",
+      coords: [27.5,43.5],
+      location: "Black Sea, Bulgaria"
+    },
+    {
+      type: "news",
+      title: "Five Chinese gas carrier and FSRU vessel projects receive Bureau Veritas' blessing",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · Feb 18, 2026",
+      content: `<p>Bureau Veritas Marine & Offshore has awarded approval in principle certificates for five Chinese gas carrier and floating storage regasification unit vessel projects, marking regulatory progress for liquefied natural gas infrastructure development.</p>`,
+      tags: ["LNG","Gas carrier","FSRU","Bureau Veritas","China","Vessel approval"],
+      link: "https://www.offshore-energy.biz/five-chinese-gas-carrier-and-fsru-vessel-projects-receive-bureau-veritas-blessing/",
+      coords: [104.1954,35.8617],
+      location: "China"
+    },
+    {
+      type: "news",
+      title: "Hellenic Cables nets inter-array contract for BC-Wind project in Poland",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · Feb 18, 2026",
+      content: `<p>DEME has awarded Hellenic Cables with a contract for the supply of inter-array cables for the BC-Wind offshore wind project in Poland.</p>`,
+      tags: ["Offshore Wind","Cables","Poland","DEME","Hellenic Cables"],
+      link: "https://www.offshore-energy.biz/hellenic-cables-nets-inter-array-contract-for-bc-wind-project-in-poland/",
+      coords: [16,54],
+      location: "Polish Baltic Sea"
+    },
+    {
+      type: "news",
+      title: "High-tech 'wall of steel' to guard US oil & gas and shipping operations",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · Feb 18, 2026",
+      content: `<p>Two American defense companies have entered into a strategic agreement to build a high-tech defensive system to protect US oil, gas, and shipping operations.</p>`,
+      tags: ["Defense","Security","Oil & Gas","Shipping","Infrastructure Protection"],
+      link: "https://www.offshore-energy.biz/high-tech-wall-of-steel-to-guard-us-oil-gas-and-shipping-operations/",
+      coords: [-95.7129,29.7604],
+      location: "United States - Gulf of Mexico Region"
+    },
+    {
+      type: "news",
+      title: "Worley gets technical advisor role for New Zealand's LNG import terminal",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · Feb 18, 2026",
+      content: `<p>Australia's engineering company Worley has been selected by New Zealand's Ministry of Business, Innovation and Employment (MBIE) to serve as technical advisor for New Zealand's LNG import terminal project.</p>`,
+      tags: ["LNG","Terminal","New Zealand","Engineering","Infrastructure"],
+      link: "https://www.offshore-energy.biz/worley-gets-technical-advisor-role-for-new-zealands-lng-import-terminal/",
+      coords: [174.886,-41.2865],
+      location: "New Zealand"
+    },
+    {
+      type: "event",
+      title: "Offshore construction begins on Polish Bałtyk 2 & 3 wind farms with subsea rock installation",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · Feb 18, 2026",
+      content: `<p>Offshore construction has commenced on the Bałtyk 2 and Bałtyk 3 offshore wind projects in Poland, with subsea rock installation work now underway.</p>`,
+      tags: ["Offshore Wind","Construction","Poland","Baltic Sea","Renewable Energy"],
+      link: "https://www.offshore-energy.biz/offshore-construction-on-polish-baltyk-2-3-wind-farms-starts-with-subsea-rock-installation/",
+      coords: [15.5,54.5],
+      location: "Baltic Sea, Poland"
+    },
+    {
+      type: "news",
+      title: "Testing aimed at improving megawatt-scale tidal energy device wraps up in Ireland",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · Feb 18, 2026",
+      content: `<p>ORPC has completed testing activities for a megawatt-scale tidal energy device in Ireland, advancing marine energy technology development.</p>`,
+      tags: ["Tidal Energy","Renewable Energy","Marine Technology","Ireland"],
+      link: "https://www.offshore-energy.biz/testing-aimed-at-improving-megawatt-scale-tidal-energy-device-wraps-up-in-ireland/",
+      coords: [-7.5,53.5],
+      location: "Ireland"
+    },
+    {
+      type: "news",
+      title: "Equinor picks OneSubsea for subsea compression upgrade",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · Feb 18, 2026",
+      content: `<p>OneSubsea, a joint venture backed by SLB, Aker Solutions and Subsea7, has secured a contract with Equinor for subsea compression upgrade work.</p>`,
+      tags: ["Subsea Technology","Offshore Infrastructure","Equinor","OneSubsea","Oil & Gas"],
+      link: "https://www.offshore-energy.biz/equinor-picks-onesubsea-for-subsea-compression-upgrade/",
+      coords: [4.4,60.4],
+      location: "Norwegian Continental Shelf"
+    }
+  ]
+});
+
+// Auto-collected: 2026-02-17
+addEvents({
+  "2026-02-17": [
+    {
+      type: "news",
+      title: "Saipem to buy seventh-gen Deep Value Driller drillship for $272.5 million",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · Feb 17, 2026",
+      content: `<p>Norwegian drillship-owning company Deep Value Driller has entered into an agreement with Italy's engineering firm Saipem to purchase a seventh-generation Deep Value Driller drillship for $272.5 million.</p>`,
+      tags: ["Drillship","Acquisition","Offshore Energy","Deep Value Driller","Saipem"],
+      link: "https://www.offshore-energy.biz/saipem-to-buy-seventh-gen-deep-value-driller-drillship-for-272-5-million/",
+      coords: [10,45],
+      location: "North Sea / Europe"
+    }
+  ]
+});
