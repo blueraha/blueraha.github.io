@@ -1,10 +1,12 @@
-// app.js - Maritime Hub v1.2.8
+// app.js - Maritime Hub v1.3.5 Official Final
 let map, markers = [];
 let currentYear = 2026;
 let currentMonth = 0;
 let windyAPIInstance = null;
 let isGlobe = false;
 let currentStyle = 0;
+
+const MONTHS = ["JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"];
 
 const MAP_STYLES = [
   { name: 'Dark', url: 'mapbox://styles/mapbox/dark-v11' },
@@ -21,6 +23,9 @@ function init() {
     zoom: 4,
     attributionControl: false
   });
+
+  // Mapbox 기본 컨트롤 좌측 배치
+  map.addControl(new mapboxgl.NavigationControl(), 'top-left');
 
   map.on('load', () => {
     renderMonth();
@@ -78,18 +83,46 @@ function renderMonth() {
   }
 }
 
+function renderMarkers() {
+  markers.forEach(m => m.remove());
+  markers = [];
+  Object.entries(events).forEach(([date, list]) => {
+    list.forEach(e => {
+      if (!e.coords) return;
+      
+      // 마커 크기 축소 디자인
+      const markerEl = document.createElement('div');
+      markerEl.style.width = '8px';
+      markerEl.style.height = '8px';
+      markerEl.style.borderRadius = '50%';
+      markerEl.style.backgroundColor = `var(--${e.type})`;
+      markerEl.style.border = '1.5px solid rgba(255,255,255,0.4)';
+      markerEl.style.cursor = 'pointer';
+
+      const marker = new mapboxgl.Marker(markerEl)
+        .setLngLat(e.coords)
+        .addTo(map);
+        
+      marker.getElement().addEventListener('click', (ev) => {
+        ev.stopPropagation();
+        openSidePanel(date, list);
+      });
+      markers.push(marker);
+    });
+  });
+}
+
 function openSidePanel(date, list) {
   const panel = document.getElementById('side-panel');
   const content = document.getElementById('panel-content');
   document.getElementById('panel-title').textContent = date;
   
   content.innerHTML = list.length ? list.map(e => `
-    <div class="event-card" onclick="showDetail(${JSON.stringify(e).replace(/"/g, '&quot;')})">
-      <div style="font-size:9px; color:var(--${e.type}); font-weight:600; margin-bottom:5px;">${e.type.toUpperCase()}</div>
-      <h4>${e.title}</h4>
-      <p>${e.content.replace(/<[^>]*>/g, '').substring(0, 85)}...</p>
+    <div style="background:rgba(255,255,255,0.05); padding:12px; border-radius:6px; margin-bottom:10px; cursor:pointer;" onclick="showDetail(${JSON.stringify(e).replace(/"/g, '&quot;')})">
+      <div style="font-size:9px; color:var(--${e.type}); font-weight:600; margin-bottom:4px;">${e.type.toUpperCase()}</div>
+      <div style="font-size:13px; font-weight:500; color:#fff;">${e.title}</div>
     </div>
-  `).join('') : `<div style="text-align:center; color:#444; margin-top:50px;">No events scheduled.</div>`;
+  `).join('') : `<div style="text-align:center; color:#444; margin-top:40px; font-size:11px;">No Records</div>`;
   
   panel.classList.add('open');
 }
@@ -99,8 +132,24 @@ function showDetail(e) {
   document.getElementById('modal-type').style.color = `var(--${e.type})`;
   document.getElementById('modal-title').textContent = e.title;
   document.getElementById('modal-text').innerHTML = e.content;
+  
+  const linkBtn = document.getElementById('modal-link');
+  if (e.link) {
+    linkBtn.href = e.link;
+    linkBtn.style.display = 'inline-block';
+  } else {
+    linkBtn.style.display = 'none';
+  }
+  
   document.getElementById('detail-modal').classList.add('open');
 }
+
+function closePanel() { 
+  document.getElementById('side-panel').classList.remove('open'); 
+  document.querySelectorAll('.day-item').forEach(i => i.classList.remove('active'));
+}
+
+function closeDetail() { document.getElementById('detail-modal').classList.remove('open'); }
 
 function toggleWeatherLayer(layer) {
   if (!windyAPIInstance) return;
@@ -110,26 +159,6 @@ function toggleWeatherLayer(layer) {
   document.getElementById(`layer-${layer}`).classList.add('active');
 }
 
-function renderMarkers() {
-  markers.forEach(m => m.remove());
-  markers = [];
-  Object.entries(events).forEach(([date, list]) => {
-    list.forEach(e => {
-      if (!e.coords) return;
-      const marker = new mapboxgl.Marker({ color: e.type === 'accident' ? '#1a6fb5' : '#2d9f6b' })
-        .setLngLat(e.coords)
-        .addTo(map);
-      marker.getElement().addEventListener('click', () => openSidePanel(date, list));
-      markers.push(marker);
-    });
-  });
-}
-
-function closePanel() { 
-  document.getElementById('side-panel').classList.remove('open'); 
-  document.querySelectorAll('.day-item').forEach(i => i.classList.remove('active'));
-}
-function closeDetail() { document.getElementById('detail-modal').classList.remove('open'); }
 function toggleProjection() { isGlobe = !isGlobe; map.setProjection(isGlobe ? 'globe' : 'mercator'); }
 function cycleStyle() { currentStyle = (currentStyle + 1) % MAP_STYLES.length; map.setStyle(MAP_STYLES[currentStyle].url); }
 function changeMonth(dir) { 
