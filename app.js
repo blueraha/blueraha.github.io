@@ -181,9 +181,9 @@ function addWeatherLayer(layer) {
     wind: {
       id: 'weather-wind',
       tiles: [
-        'https://tilecache.rainviewer.com/v2/radar/0/256/{z}/{x}/{y}/2/1_1.png'
+       'https://tile.openstreetmap.org/{z}/{x}/{y}.png'
       ],
-      opacity: 0.5
+      opacity: 0.3
     },
 
     wave: {
