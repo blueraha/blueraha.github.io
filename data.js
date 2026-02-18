@@ -420,3 +420,44 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-02-18
+addEvents({
+  "2026-02-18": [
+    {
+      type: "accident",
+      title: "Engine Room Fire Claims Two Lives Aboard Bulk Carrier Off Chinese Coast",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · Feb 18, 2026",
+      content: `<p>A fire in the engine room of the Singapore-registered bulk carrier MANDY resulted in the deaths of two crew members and left a third hospitalized in an incident off the coast of China.</p>`,
+      tags: ["Engine Room Fire","Bulk Carrier","Fatalities","China"],
+      link: "https://gcaptain.com/engine-room-fire-claims-two-lives-aboard-bulk-carrier-off-chinese-coast/",
+      coords: [114.2,22.3],
+      location: "Off Chinese Coast"
+    },
+    {
+      type: "news",
+      title: "Hormuz Pressure Play: Iran's 'Temporary' Closure Sends a Strategic Signal to Global Shipping",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · Feb 18, 2026",
+      content: `<p>Iran temporarily restricted parts of the Strait of Hormuz during live-fire military exercises, demonstrating how geopolitical tensions can impact global shipping markets at this critical maritime chokepoint.</p>`,
+      tags: ["Strait of Hormuz","Iran","Geopolitics","Military exercises","Shipping disruption"],
+      link: "https://gcaptain.com/hormuz-pressure-play-irans-temporary-closure-sends-a-strategic-signal-to-global-shipping/",
+      coords: [56.5,26.5],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "United Maritime cashes out of offshore vessel JV",
+      source: "Splash247",
+      sourceMeta: "splash247.com · Feb 18, 2026",
+      content: `<p>Nasdaq-listed Greek bulker owner United Maritime has agreed to sell its stake in a Norwegian joint venture developing an energy construction vessel (ECV), locking in a profit of approximately €1.7m from the €13m ($15.4m) sale.</p>`,
+      tags: ["Joint Venture","Offshore Vessel","Energy Construction","Greek Shipping","Capital Restructuring"],
+      link: "https://splash247.com/united-maritime-cashes-out-of-offshore-vessel-jv/",
+      coords: [10.7522,59.9139],
+      location: "Norway"
+    }
+  ]
+});
