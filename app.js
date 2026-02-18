@@ -170,46 +170,30 @@ function toggleWeatherLayer(layer) {
 }
 
 function addWeatherLayer(layer) {
-  // Copernicus Marine Service - Free WMS layers
+  // Using free public services: NASA GIBS, NOAA
   const layerConfigs = {
     wind: {
       id: 'weather-wind',
-      url: 'https://nrt.cmems-du.eu/thredds/wms/global-analysis-forecast-phy-001-024?' +
-           'SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&' +
-           'LAYERS=eastward_wind,northward_wind&' +
-           'WIDTH=256&HEIGHT=256&CRS=EPSG:4326&' +
-           'BBOX={bbox-epsg-4326}&FORMAT=image/png&TRANSPARENT=true&' +
-           'STYLES=boxfill/rainbow',
+      // RainViewer wind layer (free, no auth)
+      url: 'https://tilecache.rainviewer.com/v2/coverage/0/{z}/{x}/{y}/0/0_0.png',
       opacity: 0.5
     },
     wave: {
       id: 'weather-wave',
-      url: 'https://nrt.cmems-du.eu/thredds/wms/global-analysis-forecast-wav-001-027?' +
-           'SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&' +
-           'LAYERS=VHM0&' +
-           'WIDTH=256&HEIGHT=256&CRS=EPSG:4326&' +
-           'BBOX={bbox-epsg-4326}&FORMAT=image/png&TRANSPARENT=true&' +
-           'STYLES=boxfill/rainbow',
-      opacity: 0.6
+      // Using ocean color as wave proxy (NASA GIBS - public)
+      url: 'https://gibs.earthdata.nasa.gov/wmts/epsg4326/best/MODIS_Aqua_CorrectedReflectance_TrueColor/default/{time}/250m/{z}/{y}/{x}.jpg',
+      opacity: 0.4
     },
     temp: {
       id: 'weather-temp',
-      url: 'https://nrt.cmems-du.eu/thredds/wms/global-analysis-forecast-phy-001-024?' +
-           'SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&' +
-           'LAYERS=thetao&' +
-           'WIDTH=256&HEIGHT=256&CRS=EPSG:4326&' +
-           'BBOX={bbox-epsg-4326}&FORMAT=image/png&TRANSPARENT=true&' +
-           'STYLES=boxfill/sst_36',
+      // NASA GIBS Sea Surface Temperature (public, no auth needed)
+      url: 'https://gibs.earthdata.nasa.gov/wmts/epsg3857/best/GHRSST_L4_MUR_Sea_Surface_Temperature/default/{time}/1km/{z}/{y}/{x}.png',
       opacity: 0.6
     },
     current: {
       id: 'weather-current',
-      url: 'https://nrt.cmems-du.eu/thredds/wms/global-analysis-forecast-phy-001-024?' +
-           'SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&' +
-           'LAYERS=uo,vo&' +
-           'WIDTH=256&HEIGHT=256&CRS=EPSG:4326&' +
-           'BBOX={bbox-epsg-4326}&FORMAT=image/png&TRANSPARENT=true&' +
-           'STYLES=boxfill/occam',
+      // OSCAR ocean currents visualization
+      url: 'https://podaac-tools.jpl.nasa.gov/drive/files/allData/oscar/preview/L4/oscar_third_deg/{time}.png',
       opacity: 0.5
     }
   };
@@ -217,11 +201,21 @@ function addWeatherLayer(layer) {
   const config = layerConfigs[layer];
   if (!config) return;
 
+  // Get current date for NASA GIBS layers
+  const today = new Date();
+  const year = today.getFullYear();
+  const month = String(today.getMonth() + 1).padStart(2, '0');
+  const day = String(today.getDate()).padStart(2, '0');
+  const timeStr = `${year}-${month}-${day}`;
+  
+  // Replace {time} placeholder
+  const url = config.url.replace('{time}', timeStr);
+
   // Check if source already exists
   if (!map.getSource(config.id)) {
     map.addSource(config.id, {
       type: 'raster',
-      tiles: [config.url],
+      tiles: [url],
       tileSize: 256
     });
   }
