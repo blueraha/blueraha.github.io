@@ -479,9 +479,10 @@ function openSidePanel(date, list) {
   document.getElementById('panel-title').textContent = date;
 
   content.innerHTML = list.length ? list.map(function(e) {
-    return '<div style="background:rgba(0,0,0,0.02); padding:12px; border-radius:6px; margin-bottom:10px; cursor:pointer; border:1px solid rgba(0,0,0,0.06); transition:0.2s;" onclick="showDetail(' + JSON.stringify(e).replace(/"/g, '&quot;') + ')" onmouseover="this.style.background=\'rgba(9,132,227,0.06)\'" onmouseout="this.style.background=\'rgba(0,0,0,0.02)\'">' +
+    return '<div style="background:rgba(0,0,0,0.02); padding:12px; border-radius:6px; margin-bottom:10px; cursor:pointer; border:1px solid rgba(0,0,0,0.06); transition:0.2s;" onclick="flyToAndShowDetail(' + JSON.stringify(e).replace(/"/g, '&quot;') + ')" onmouseover="this.style.background=\'rgba(9,132,227,0.06)\'" onmouseout="this.style.background=\'rgba(0,0,0,0.02)\'">' +
       '<div style="font-size:9px; color:var(--' + e.type + '); font-weight:600; margin-bottom:4px;">' + e.type.toUpperCase() + '</div>' +
       '<div style="font-size:13px; font-weight:500; color:var(--text-primary);">' + e.title + '</div>' +
+      (e.location ? '<div style="font-size:10px; color:var(--text-secondary); margin-top:4px;">📍 ' + e.location + '</div>' : '') +
     '</div>';
   }).join('') : '<div style="text-align:center; color:#aaa; margin-top:40px; font-size:11px;">No Data</div>';
 
@@ -503,6 +504,33 @@ function showDetail(e) {
   }
 
   document.getElementById('detail-modal').classList.add('open');
+}
+
+function flyToAndShowDetail(e) {
+  if (e.coords && e.coords[0] !== 0 && e.coords[1] !== 0) {
+    // Globe 모드면 먼저 2D로 전환
+    if (spinEnabled) {
+      spinEnabled = false;
+      if (spinRAF) { cancelAnimationFrame(spinRAF); spinRAF = null; }
+    }
+    if (isGlobe) {
+      isGlobe = false;
+      map.setProjection('mercator');
+      var btn = document.getElementById('btn-globe');
+      if (btn) btn.classList.remove('active');
+    }
+
+    map.flyTo({
+      center: e.coords,
+      zoom: 6,
+      duration: 1500,
+      essential: true
+    });
+    // flyTo 완료 후 모달 열기
+    setTimeout(function() { showDetail(e); }, 1600);
+  } else {
+    showDetail(e);
+  }
 }
 
 function closePanel() {
