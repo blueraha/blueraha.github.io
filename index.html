@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Maritime Hub v2.4.0</title>
+<title>Maritime Hub Final Stable</title>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" />
@@ -61,10 +61,22 @@
   /* MAP */
   #map { position: fixed; top: 0; left: 0; width: 100%; height: 100vh; z-index: 1; }
 
+  /* Mapbox Default Controls Custom Styling (Dark Theme) */
+  .mapboxgl-ctrl-group {
+    background-color: #1e1e1e !important;
+    border: 1px solid rgba(255,255,255,0.2) !important;
+  }
+  .mapboxgl-ctrl-icon {
+    filter: invert(1) brightness(2); /* 아이콘 흰색으로 변경 */
+  }
+  .mapboxgl-ctrl button:not(:disabled):hover {
+    background-color: #333 !important;
+  }
+
   /* WEATHER CONTROLS (LEFT SIDE) */
   .weather-controls { 
     position: fixed; 
-    top: 220px; 
+    top: 220px; /* Mapbox 컨트롤 아래 */
     left: 10px; 
     z-index: 998; 
     display: flex; flex-direction: column; gap: 8px; 
@@ -77,7 +89,7 @@
     color: rgba(255,255,255,0.7); transition: all 0.2s ease;
     box-shadow: 0 2px 4px rgba(0,0,0,0.5);
   }
-  .control-btn:hover { background: #2a2a2a; color: #fff; border-color: rgba(255,255,255,0.5); }
+  .control-btn:hover { background: #333; color: #fff; border-color: rgba(255,255,255,0.5); }
   .control-btn.active { background: rgba(122, 184, 245, 0.15); border-color: var(--brand-blue); color: var(--brand-blue); }
   .control-btn svg { width: 18px; height: 18px; stroke-width: 2px; }
 
@@ -94,3 +106,83 @@
   .modal-title { font-size: 20px; font-weight: 600; margin-bottom: 15px; color: #fff; }
   .modal-text { font-size: 13.5px; color: rgba(255,255,255,0.85); line-height: 1.8; margin-bottom: 25px; font-weight: 300; }
   .news-link { display: inline-block; color: var(--brand-blue); font-size: 12px; text-decoration: none; border-bottom: 1px solid var(--brand-blue); padding-bottom: 2px; transition: 0.2s; }
+  
+  .version-tag { 
+    position: fixed; bottom: 10px; right: 10px; 
+    font-size: 10px; color: #fff; z-index: 1001; 
+    font-family: 'IBM Plex Mono'; text-shadow: 0 1px 3px rgba(0,0,0,0.8); 
+  }
+</style>
+</head>
+<body onclick="closePanel()">
+
+<div class="top-bar">
+  <div class="logo-area">
+    <svg class="compass-icon" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="12" cy="12" r="10"></circle>
+      <polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"></polygon>
+    </svg>
+    <div class="logo-text">MARITIME HUB <span class="logo-sub">| powered by autonomousship.org</span></div>
+  </div>
+  <div class="legend">
+    <div class="legend-item"><div class="legend-dot" style="background:var(--accident)"></div>Accident</div>
+    <div class="legend-item"><div class="legend-dot" style="background:var(--news)"></div>News</div>
+    <div class="legend-item"><div class="legend-dot" style="background:var(--event)"></div>Event</div>
+  </div>
+</div>
+
+<div class="calendar-bar" onclick="event.stopPropagation()">
+  <div class="date-controls">
+    <span class="year-display" id="year-display">2026</span>
+    <button class="month-btn" onclick="changeMonth(-1)">◀</button>
+    <div class="month-name" id="month-name">JAN</div>
+    <button class="month-btn" onclick="changeMonth(1)">▶</button>
+  </div>
+  <div class="days-strip" id="days-strip"></div>
+</div>
+
+<div id="map"></div>
+
+<div class="weather-controls">
+  <button class="control-btn" onclick="toggleStyle()" title="Map Style">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path></svg>
+  </button>
+  <div style="height:1px; background:rgba(255,255,255,0.1); margin:2px 0;"></div>
+  
+  <button class="control-btn weather-btn" id="layer-wind" onclick="toggleWeatherLayer('wind')" title="Wind">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M9.5 9c0-1.7-1.3-3-3-3S3.5 7.3 3.5 9s1.3 3 3 3H19M6.5 15c0 1.7 1.3 3 3 3s3-1.3 3-3-1.3-3-3-3H2"/></svg>
+  </button>
+  <button class="control-btn weather-btn" id="layer-wave" onclick="toggleWeatherLayer('wave')" title="Waves">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M2 12c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2s2.5 2 5 2 2.5-2 5-2 1.9.5 2.5 1M2 16c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2s2.5 2 5 2 2.5-2 5-2 1.9.5 2.5 1"/></svg>
+  </button>
+  <button class="control-btn weather-btn" id="layer-temp" onclick="toggleWeatherLayer('temp')" title="Temperature">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M14 14.76V3.5a2.5 2.5 0 0 0-5 0v11.26a4.5 4.5 0 1 0 5 0z"/></svg>
+  </button>
+  <button class="control-btn weather-btn" id="layer-current" onclick="toggleWeatherLayer('current')" title="Currents">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M2 7h20M2 12h20M2 17h20M17 2l5 5-5 5M17 12l5 5-5 5"/></svg>
+  </button>
+</div>
+
+<div class="side-panel" id="side-panel" onclick="event.stopPropagation()">
+  <div class="panel-header">
+    <div id="panel-title" style="font-size:11px; color:var(--brand-blue); font-family:'IBM Plex Mono';">DATE</div>
+    <button onclick="closePanel()" style="background:none; border:none; color:rgba(255,255,255,0.3); cursor:pointer;">✕</button>
+  </div>
+  <div class="panel-content" id="panel-content"></div>
+</div>
+
+<div class="detail-modal" id="detail-modal" onclick="closeDetail()">
+  <div class="modal-content" onclick="event.stopPropagation()">
+    <div id="modal-type" style="font-size:9px; font-weight:600; text-transform:uppercase; margin-bottom:10px; letter-spacing:1px;">TYPE</div>
+    <h2 class="modal-title" id="modal-title">TITLE</h2>
+    <div class="modal-text" id="modal-text"></div>
+    <a id="modal-link" href="#" target="_blank" class="news-link">READ FULL ARTICLE →</a>
+  </div>
+</div>
+
+<div class="version-tag">v2.5.0 (Stable & Clean)</div>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
