@@ -16,6 +16,7 @@ const events = {
     coords: [127.0940, 37.3946],
     location: "Pangyo, South Korea"
   }],
+
   "2026-02-12": [
     {
       type: "accident",
@@ -40,13 +41,16 @@ const events = {
       location: "German Bight"
     }
   ],
+
   "2026-04-22": [{type:"event",title:"Sea Japan 2026",source:"Informa",sourceMeta:"Apr 22-24",content:`<p>Tokyo Big Sight</p>`,tags:["Exhibition"],link:"https://www.seajapan.ne.jp/en/",coords:[139.7946,35.6301],location:"Tokyo"}],
   "2026-04-23": [{type:"event",title:"Sea Japan 2026",source:"Informa",sourceMeta:"Apr 22-24",content:`<p>Tokyo Big Sight</p>`,tags:["Exhibition"],link:"https://www.seajapan.ne.jp/en/",coords:[139.7946,35.6301],location:"Tokyo"}],
   "2026-04-24": [{type:"event",title:"Sea Japan 2026",source:"Informa",sourceMeta:"Apr 22-24",content:`<p>Tokyo Big Sight</p>`,tags:["Exhibition"],link:"https://www.seajapan.ne.jp/en/",coords:[139.7946,35.6301],location:"Tokyo"}],
+
   "2026-05-04": [{type:"event",title:"OTC 2026",source:"OTC",sourceMeta:"May 4-7",content:`<p>Houston</p>`,tags:["Conference"],link:"https://2026.otcnet.org/",coords:[-95.4094,29.6844],location:"Houston"}],
   "2026-05-05": [{type:"event",title:"OTC 2026",source:"OTC",sourceMeta:"May 4-7",content:`<p>Houston</p>`,tags:["Conference"],link:"https://2026.otcnet.org/",coords:[-95.4094,29.6844],location:"Houston"}],
   "2026-05-06": [{type:"event",title:"OTC 2026",source:"OTC",sourceMeta:"May 4-7",content:`<p>Houston</p>`,tags:["Conference"],link:"https://2026.otcnet.org/",coords:[-95.4094,29.6844],location:"Houston"}],
   "2026-05-07": [{type:"event",title:"OTC 2026",source:"OTC",sourceMeta:"May 4-7",content:`<p>Houston</p>`,tags:["Conference"],link:"https://2026.otcnet.org/",coords:[-95.4094,29.6844],location:"Houston"}],
+
   "2026-05-13": [{type:"event",title:"IMO MSC 111",source:"IMO",sourceMeta:"May 13-22",content:`<p>London</p>`,tags:["IMO"],link:"https://www.imo.org",coords:[-0.1185,51.4934],location:"London"}],
   "2026-05-14": [{type:"event",title:"IMO MSC 111",source:"IMO",sourceMeta:"May 13-22",content:`<p>London</p>`,tags:["IMO"],link:"https://www.imo.org",coords:[-0.1185,51.4934],location:"London"}],
   "2026-05-15": [{type:"event",title:"IMO MSC 111",source:"IMO",sourceMeta:"May 13-22",content:`<p>London</p>`,tags:["IMO"],link:"https://www.imo.org",coords:[-0.1185,51.4934],location:"London"}],
@@ -57,12 +61,28 @@ const events = {
   "2026-05-20": [{type:"event",title:"IMO MSC 111",source:"IMO",sourceMeta:"May 13-22",content:`<p>London</p>`,tags:["IMO"],link:"https://www.imo.org",coords:[-0.1185,51.4934],location:"London"}],
   "2026-05-21": [{type:"event",title:"IMO MSC 111",source:"IMO",sourceMeta:"May 13-22",content:`<p>London</p>`,tags:["IMO"],link:"https://www.imo.org",coords:[-0.1185,51.4934],location:"London"}],
   "2026-05-22": [{type:"event",title:"IMO MSC 111",source:"IMO",sourceMeta:"May 13-22",content:`<p>London</p>`,tags:["IMO"],link:"https://www.imo.org",coords:[-0.1185,51.4934],location:"London"}],
-  "2026-09-14": [{type:"event",title:"Gastech 2026",source:"Gastech",sourceMeta:"Sep 14-17",content:`<p>Bangkok</p>`,tags:["LNG"],link:"https://www.gastechevent.com/",coords:[100.5650,13.7275],location:"Bangkok"}],
-  "2026-09-15": [{type:"event",title:"Gastech 2026",source:"Gastech",sourceMeta:"Sep 14-17",content:`<p>Bangkok</p>`,tags:["LNG"],link:"https://www.gastechevent.com/",coords:[100.5650,13.7275],location:"Bangkok"}],
-  "2026-09-16": [{type:"event",title:"Gastech 2026",source:"Gastech",sourceMeta:"Sep 14-17",content:`<p>Bangkok</p>`,tags:["LNG"],link:"https://www.gastechevent.com/",coords:[100.5650,13.7275],location:"Bangkok"}],
-  "2026-09-17": [{type:"event",title:"Gastech 2026",source:"Gastech",sourceMeta:"Sep 14-17",content:`<p>Bangkok</p>`,tags:["LNG"],link:"https://www.gastechevent.com/",coords:[100.5650,13.7275],location:"Bangkok"}],
-  "2026-11-02": [{type:"event",title:"ADIPEC 2026",source:"ADIPEC",sourceMeta:"Nov 2-5",content:`<p>Abu Dhabi</p>`,tags:["Energy"],link:"https://www.adipec.com/",coords:[54.6095,24.3969],location:"Abu Dhabi"}],
-  "2026-11-03": [{type:"event",title:"ADIPEC 2026",source:"ADIPEC",sourceMeta:"Nov 2-5",content:`<p>Abu Dhabi</p>`,tags:["Energy"],link:"https://www.adipec.com/",coords:[54.6095,24.3969],location:"Abu Dhabi"}],
-  "2026-11-04": [{type:"event",title:"ADIPEC 2026",source:"ADIPEC",sourceMeta:"Nov 2-5",content:`<p>Abu Dhabi</p>`,tags:["Energy"],link:"https://www.adipec.com/",coords:[54.6095,24.3969],location:"Abu Dhabi"}],
-  "2026-11-05": [{type:"event",title:"ADIPEC 2026",source:"ADIPEC",sourceMeta:"Nov 2-5",content:`<p>Abu Dhabi</p>`,tags:["Energy"],link:"https://www.adipec.com/",coords:[54.6095,24.3969],location:"Abu Dhabi"}]
+
+  "2025-09-09": [{
+    type: "accident",
+    title: "Container Loss During Port Operation at Long Beach",
+    source: "Port of Long Beach",
+    sourceMeta: "Sep 9, 2025",
+    content: `<p>접안 작업 중 약 75개 컨테이너가 해상으로 추락했다. 적재 불균형 또는 고정 불량 가능성이 제기되었다.</p>`,
+    tags: ["Containership","Cargo","Port Operation"],
+    link: "https://www.portoflongbeach.org/",
+    coords: [-118.215, 33.754],
+    location: "Port of Long Beach"
+  }],
+
+  "2025-09-12": [{
+    type: "news",
+    title: "Starlink Connectivity Expands in Shipyard Operations",
+    source: "Shipyard Technology Report",
+    sourceMeta: "Sep 12, 2025",
+    content: `<p>조선소 현장에서 Starlink 위성 통신 도입이 확대되고 있다.</p>`,
+    tags: ["Connectivity","Starlink","Shipyard"],
+    link: "https://www.spacex.com/starlink/",
+    coords: [129.365, 35.538],
+    location: "Ulsan Shipyard"
+  }]
 };
