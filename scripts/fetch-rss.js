@@ -61,7 +61,7 @@ async function fetchAllFeeds() {
   });
 
   // 최대 20개로 제한 (API 비용 절약)
-  const limited = unique.slice(0, 20);
+  const limited = unique.slice(0, 4);
 
   console.log(`\n📊 Total: ${articles.length} → Unique: ${unique.length} → Processing: ${limited.length}`);
 
