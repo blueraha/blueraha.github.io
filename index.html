@@ -127,6 +127,33 @@
     color: #fff;
   }
 
+  /* ═══ WEATHER LEGEND ═══ */
+  .weather-legend {
+    position: fixed; bottom: 50px; left: 10px; z-index: 998;
+    background: rgba(22,28,36,0.95); backdrop-filter: blur(8px);
+    border: 1px solid rgba(255,255,255,0.15);
+    border-radius: 6px; padding: 10px 12px;
+    min-width: 140px; max-width: 200px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+  }
+  .legend-header {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px; font-weight: 500;
+    color: rgba(255,255,255,0.6);
+    margin-bottom: 8px; text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  #legend-content {
+    font-size: 10px; color: rgba(255,255,255,0.8);
+    line-height: 1.6;
+  }
+  .legend-row {
+    display: flex; align-items: center; gap: 6px; margin: 4px 0;
+  }
+  .legend-color {
+    width: 20px; height: 12px; border-radius: 2px;
+  }
+
   /* ═══ SIDE PANEL ═══ */
   .side-panel {
     position: fixed; top: 40px; right: 0;
@@ -291,8 +318,20 @@
   <button class="control-btn" onclick="toggleProjection()" title="Globe / Flat View">🌐</button>
   <button class="control-btn" onclick="cycleStyle()" title="Change Map Style">🗺️</button>
   <button class="control-btn" onclick="toggle3D()" title="3D View">📐</button>
+  <div style="height: 1px; background: rgba(255,255,255,0.1); margin: 4px 0;"></div>
+  <button class="control-btn" id="layer-wind" onclick="toggleWeatherLayer('wind')" title="Wind Speed/Direction">💨</button>
+  <button class="control-btn" id="layer-wave" onclick="toggleWeatherLayer('wave')" title="Wave Height">🌊</button>
+  <button class="control-btn" id="layer-temp" onclick="toggleWeatherLayer('temp')" title="Sea Surface Temp">🌡️</button>
+  <button class="control-btn" id="layer-current" onclick="toggleWeatherLayer('current')" title="Ocean Currents">🌀</button>
+  <div style="height: 1px; background: rgba(255,255,255,0.1); margin: 4px 0;"></div>
   <button class="control-btn active" id="filter-accident" onclick="toggleFilter('accident')" title="Toggle Accidents">⚠️</button>
   <button class="control-btn active" id="filter-event" onclick="toggleFilter('event')" title="Toggle Events">📅</button>
+</div>
+
+<!-- WEATHER LEGEND -->
+<div class="weather-legend" id="weather-legend" style="display:none;">
+  <div class="legend-header">Weather Layers</div>
+  <div id="legend-content"></div>
 </div>
 
 <!-- SIDE PANEL -->

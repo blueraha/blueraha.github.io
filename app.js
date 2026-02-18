@@ -9,6 +9,7 @@ let currentMonth = 1; // February (0-indexed)
 let selectedDay = null;
 let isGlobe = false;
 let filters = { accident: true, event: true, news: false };
+let weatherLayers = { wind: false, wave: false, temp: false, current: false };
 let currentStyle = 0;
 
 // Mapbox styles
@@ -154,6 +155,108 @@ function toggle3D() {
     pitch: pitch === 0 ? 60 : 0,
     duration: 1000
   });
+}
+
+// ─── Weather Layers ───
+function toggleWeatherLayer(layer) {
+  weatherLayers[layer] = !weatherLayers[layer];
+  document.getElementById(`layer-${layer}`).classList.toggle('active', weatherLayers[layer]);
+  
+  if (weatherLayers[layer]) {
+    addWeatherLayer(layer);
+  } else {
+    removeWeatherLayer(layer);
+  }
+}
+
+function addWeatherLayer(layer) {
+  // OpenWeatherMap tiles (free tier)
+  const OWM_KEY = 'demo'; // Replace with actual key for production
+  const layerConfigs = {
+    wind: {
+      id: 'weather-wind',
+      url: `https://tile.openweathermap.org/map/wind_new/{z}/{x}/{y}.png?appid=${OWM_KEY}`,
+      opacity: 0.6
+    },
+    wave: {
+      id: 'weather-wave',
+      url: `https://tile.openweathermap.org/map/wave/{z}/{x}/{y}.png?appid=${OWM_KEY}`,
+      opacity: 0.5
+    },
+    temp: {
+      id: 'weather-temp',
+      url: `https://tile.openweathermap.org/map/temp_new/{z}/{x}/{y}.png?appid=${OWM_KEY}`,
+      opacity: 0.6
+    },
+    current: {
+      id: 'weather-current',
+      // Using wind as proxy for currents (in production, use marine current API)
+      url: `https://tile.openweathermap.org/map/wind_new/{z}/{x}/{y}.png?appid=${OWM_KEY}`,
+      opacity: 0.4
+    }
+  };
+
+  const config = layerConfigs[layer];
+  if (!config) return;
+
+  // Check if source already exists
+  if (!map.getSource(config.id)) {
+    map.addSource(config.id, {
+      type: 'raster',
+      tiles: [config.url],
+      tileSize: 256
+    });
+  }
+
+  // Add layer if not exists
+  if (!map.getLayer(config.id)) {
+    map.addLayer({
+      id: config.id,
+      type: 'raster',
+      source: config.id,
+      paint: {
+        'raster-opacity': config.opacity
+      }
+    });
+  }
+  
+  updateWeatherLegend();
+}
+
+function removeWeatherLayer(layer) {
+  const layerId = `weather-${layer}`;
+  if (map.getLayer(layerId)) {
+    map.removeLayer(layerId);
+  }
+  updateWeatherLegend();
+}
+
+function updateWeatherLegend() {
+  const activeLayers = Object.keys(weatherLayers).filter(k => weatherLayers[k]);
+  const legend = document.getElementById('weather-legend');
+  
+  if (activeLayers.length === 0) {
+    legend.style.display = 'none';
+    return;
+  }
+  
+  legend.style.display = 'block';
+  const content = document.getElementById('legend-content');
+  
+  const layerInfo = {
+    wind: { icon: '💨', label: 'Wind Speed', colors: ['#fff', '#7ab8f5', '#1a6fb5'] },
+    wave: { icon: '🌊', label: 'Wave Height', colors: ['#6dd4a7', '#2d9f6b', '#1a5f44'] },
+    temp: { icon: '🌡️', label: 'Sea Temp', colors: ['#ff6b6b', '#ffb380', '#fff'] },
+    current: { icon: '🌀', label: 'Currents', colors: ['#fff', '#ea7317', '#d63b2f'] }
+  };
+  
+  content.innerHTML = activeLayers.map(layer => {
+    const info = layerInfo[layer];
+    return `<div class="legend-row">
+      <span>${info.icon}</span>
+      <span>${info.label}</span>
+    </div>`;
+  }).join('');
 }
 
 // ─── Markers ───
