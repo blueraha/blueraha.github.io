@@ -27,7 +27,8 @@ function init() {
     container: 'map',
     style: 'mapbox://styles/mapbox/light-v11',
     center: [127, 36.5],
-    zoom: 4,
+    zoom: 1.5,
+    projection: 'globe',
     attributionControl: false
   });
 
@@ -60,6 +61,28 @@ function init() {
 
     // RainViewer 초기화
     initRainViewer();
+
+    // Globe 회전 시작
+    startSpin();
+
+    // Globe 버튼 초기 활성화
+    var globeBtn = document.getElementById('btn-globe');
+    if (globeBtn) globeBtn.classList.add('active');
+  });
+
+  // 사용자 조작 시 회전 멈추고 줌인, 무조작 30초 후 재회전
+  ['mousedown', 'touchstart', 'wheel'].forEach(function(evt) {
+    map.getCanvas().addEventListener(evt, function() {
+      if (spinEnabled) {
+        stopSpinAndZoomIn();
+      }
+      resetIdleTimer();
+    }, { passive: true });
+  });
+
+  // 맵 이동/줌 등 모든 조작에도 idle 리셋
+  map.on('movestart', function(e) {
+    if (e.originalEvent) resetIdleTimer(); // 사용자 조작만
   });
 
   // 스타일 변경 후 레이어 재등록
@@ -75,6 +98,72 @@ function init() {
     });
     renderMarkers();
   });
+}
+
+// ── Globe Spin ──
+
+function startSpin() {
+  spinEnabled = true;
+  isGlobe = true;
+  map.setProjection('globe');
+  var speed = 0.12; // degrees per frame (~60초에 한 바퀴)
+
+  // Globe 버튼 활성화
+  var globeBtn = document.getElementById('btn-globe');
+  if (globeBtn) globeBtn.classList.add('active');
+
+  function spin() {
+    if (!spinEnabled) return;
+    var center = map.getCenter();
+    center.lng += speed;
+    map.setCenter(center);
+    spinRAF = requestAnimationFrame(spin);
+  }
+  spin();
+}
+
+function stopSpinAndZoomIn() {
+  spinEnabled = false;
+  if (spinRAF) {
+    cancelAnimationFrame(spinRAF);
+    spinRAF = null;
+  }
+  // 부드럽게 한국 중심으로 줌인
+  map.flyTo({
+    center: [127, 36.5],
+    zoom: 4,
+    duration: 2000,
+    essential: true
+  });
+  resetIdleTimer();
+}
+
+function resumeSpin() {
+  // 패널이 열려있으면 회전하지 않음
+  var panel = document.getElementById('side-panel');
+  if (panel && panel.classList.contains('open')) return;
+  var modal = document.getElementById('detail-modal');
+  if (modal && modal.classList.contains('open')) return;
+
+  // Globe로 전환 후 줌아웃하며 회전 시작
+  map.flyTo({
+    center: map.getCenter(),
+    zoom: 1.5,
+    duration: 2000,
+    essential: true
+  });
+  setTimeout(function() {
+    startSpin();
+  }, 2000);
+}
+
+function resetIdleTimer() {
+  if (idleTimer) clearTimeout(idleTimer);
+  idleTimer = setTimeout(function() {
+    if (!spinEnabled) {
+      resumeSpin();
+    }
+  }, IDLE_TIMEOUT);
 }
 
 // ── Weather Sources & Layers ──
@@ -335,7 +424,11 @@ const MAP_STYLES = {
   'nav-day':   'mapbox://styles/mapbox/navigation-day-v1',
   'nav-night': 'mapbox://styles/mapbox/navigation-night-v1'
 };
-let isGlobe = false;
+let isGlobe = true; // 초기 Globe로 시작
+let spinEnabled = true;
+let spinRAF = null;
+let idleTimer = null;
+const IDLE_TIMEOUT = 30000; // 30초 무조작 시 회전 재개
 
 function setMapStyle(key) {
   if (!MAP_STYLES[key]) return;
@@ -349,12 +442,26 @@ function setMapStyle(key) {
 }
 
 function toggleGlobe() {
-  isGlobe = !isGlobe;
-  map.setProjection(isGlobe ? 'globe' : 'mercator');
+  if (spinEnabled) {
+    // 회전 중 → 멈추고 2D 전환
+    spinEnabled = false;
+    if (spinRAF) { cancelAnimationFrame(spinRAF); spinRAF = null; }
+    isGlobe = false;
+    map.setProjection('mercator');
+    map.flyTo({ center: [127, 36.5], zoom: 4, duration: 1500, essential: true });
+    if (idleTimer) clearTimeout(idleTimer);
+  } else if (isGlobe) {
+    // Globe인데 멈춰있으면 → 2D 전환
+    isGlobe = false;
+    map.setProjection('mercator');
+  } else {
+    // 2D → Globe 회전 시작
+    resumeSpin();
+  }
 
   var btn = document.getElementById('btn-globe');
   if (btn) {
-    if (isGlobe) {
+    if (isGlobe || spinEnabled) {
       btn.classList.add('active');
     } else {
       btn.classList.remove('active');
