@@ -3,12 +3,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Maritime Hub v1.2.1</title>
+<title>Maritime Hub v1.2.8</title>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" />
 <link href="https://api.mapbox.com/mapbox-gl-js/v3.3.0/mapbox-gl.css" rel="stylesheet">
-<script src="https://api.mapbox.com/mapbox-gl-js/v3.3.0/mapbox-gl.js"></script>
 <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"></script>
+<script src="https://api.mapbox.com/mapbox-gl-js/v3.3.0/mapbox-gl.js"></script>
 <script src="https://api.windy.com/assets/map-forecast/libBoot.js"></script>
 
 <style>
@@ -16,33 +16,33 @@
   :root { --accident: #1a6fb5; --news: #ea7317; --event: #2d9f6b; --brand-blue: #7ab8f5; }
   body { font-family: 'Inter', sans-serif; overflow: hidden; background: #000; color: #fff; }
 
-  /* TOP BAR */
+  /* TOP BAR - Logo Fixed */
   .top-bar {
     position: fixed; top: 0; left: 0; right: 0; height: 40px;
     background: rgba(22,28,36,0.95); backdrop-filter: blur(10px);
     border-bottom: 1px solid rgba(255,255,255,0.1);
     display: flex; align-items: center; padding: 0 16px; z-index: 1000;
   }
-  .logo { font-family: 'IBM Plex Mono', monospace; font-size: 11px; font-weight: 500; }
-  .logo-sub { color: rgba(255,255,255,0.4); font-weight: 300; margin-left: 8px; }
+  .logo { font-family: 'IBM Plex Mono', monospace; font-size: 11px; font-weight: 500; text-transform: uppercase; }
+  .logo-sub { color: rgba(255,255,255,0.4); font-weight: 300; margin-left: 8px; font-family: 'Inter', sans-serif; }
 
-  /* CALENDAR - Fixed 31 Grid */
+  /* CALENDAR - Fixed 31 Grid, No Scroll */
   .calendar-bar {
     position: fixed; top: 40px; left: 0; right: 0; height: 60px;
     background: rgba(22,28,36,0.92); backdrop-filter: blur(8px);
     border-bottom: 1px solid rgba(255,255,255,0.1);
-    z-index: 999; padding: 0 16px; display: flex; align-items: center; gap: 15px;
+    z-index: 999; padding: 0 16px; display: flex; align-items: center; gap: 12px;
   }
   .month-selector { display: flex; align-items: center; gap: 4px; padding: 4px; background: rgba(255,255,255,0.05); border-radius: 4px; }
   .month-btn { background: none; border: none; color: #fff; cursor: pointer; padding: 4px 8px; font-size: 10px; }
   .month-name { font-family: 'IBM Plex Mono'; font-size: 11px; min-width: 45px; text-align: center; }
-  .days-strip { flex: 1; display: grid; grid-template-columns: repeat(31, 1fr); gap: 2px; height: 40px; }
+  .days-strip { flex: 1; display: grid; grid-template-columns: repeat(31, 1fr); gap: 2px; height: 42px; }
   .day-item { 
     display: flex; flex-direction: column; align-items: center; justify-content: center;
     background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.05);
-    border-radius: 3px; cursor: pointer; font-size: 10px; color: rgba(255,255,255,0.6);
+    border-radius: 3px; cursor: pointer; font-size: 10px; transition: 0.2s;
   }
-  .day-item.active { border-color: var(--brand-blue); background: rgba(122,184,245,0.15); color: #fff; }
+  .day-item.active { border-color: var(--brand-blue); background: rgba(122,184,245,0.15); }
 
   /* MAP & CONTROLS */
   #map { position: fixed; top: 0; left: 0; width: 100%; height: 100vh; z-index: 1; }
@@ -53,11 +53,11 @@
   }
   .control-btn.active { color: var(--brand-blue); border-color: var(--brand-blue); background: rgba(122,184,245,0.1); }
 
-  /* SIDE PANEL */
+  /* SIDE PANEL - Improved Visibility */
   .side-panel { 
     position: fixed; top: 40px; right: 0; width: 350px; height: calc(100vh - 40px);
     background: rgba(15,20,26,0.98); border-left: 1px solid var(--brand-blue); 
-    z-index: 997; transform: translateX(100%); transition: transform 0.3s ease;
+    z-index: 997; transform: translateX(100%); transition: 0.3s ease;
     display: flex; flex-direction: column;
   }
   .side-panel.open { transform: translateX(0); }
@@ -66,15 +66,13 @@
 
   .event-card { 
     background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1);
-    border-radius: 6px; padding: 15px; margin-bottom: 12px; cursor: pointer;
+    border-radius: 6px; padding: 15px; margin-bottom: 12px; cursor: pointer; color: #fff !important;
   }
-  .event-card h4 { font-size: 14px; color: #fff; margin-bottom: 6px; line-height: 1.4; }
-  .event-card p { font-size: 12px; color: rgba(255,255,255,0.5); line-height: 1.5; }
+  .event-card h4 { font-size: 14px; color: #fff !important; margin-bottom: 6px; }
+  .event-card p { font-size: 12px; color: rgba(255,255,255,0.6) !important; line-height: 1.5; }
 
-  /* VERSION TAG */
+  /* VERSION & MODAL */
   .version-tag { position: fixed; bottom: 10px; right: 10px; font-size: 9px; color: rgba(255,255,255,0.2); z-index: 1001; font-family: 'IBM Plex Mono'; }
-
-  /* DETAIL MODAL */
   .detail-modal { position: fixed; inset: 0; background: rgba(0,0,0,0.85); z-index: 9999; display: none; align-items: center; justify-content: center; backdrop-filter: blur(4px); }
   .detail-modal.open { display: flex; }
   .modal-content { background: #161c24; border: 1px solid rgba(255,255,255,0.15); border-radius: 12px; width: 90%; max-width: 550px; padding: 30px; }
@@ -102,4 +100,39 @@
   <button class="control-btn" onclick="cycleStyle()">🗺️</button>
   <div style="height:1px; background:rgba(255,255,255,0.1); margin:4px 0;"></div>
   <button class="control-btn weather-btn" id="layer-wind" onclick="toggleWeatherLayer('wind')">
-    <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><path d="M9.5 9c0-1.7-1.3-3-3-3S3.5 7.3 3.5 9s1.3 3
+    <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><path d="M9.5 9c0-1.7-1.3-3-3-3S3.5 7.3 3.5 9s1.3 3 3 3H19M6.5 15c0 1.7 1.3 3 3 3s3-1.3 3-3-1.3-3-3-3H2"/></svg>
+  </button>
+  <button class="control-btn weather-btn" id="layer-wave" onclick="toggleWeatherLayer('wave')">
+    <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><path d="M2 12c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2s2.5 2 5 2 2.5-2 5-2 1.9.5 2.5 1M2 16c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2s2.5 2 5 2 2.5-2 5-2 1.9.5 2.5 1"/></svg>
+  </button>
+  <button class="control-btn weather-btn" id="layer-temp" onclick="toggleWeatherLayer('temp')">
+    <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 14.76V3.5a2.5 2.5 0 0 0-5 0v11.26a4.5 4.5 0 1 0 5 0z"/></svg>
+  </button>
+  <button class="control-btn weather-btn" id="layer-current" onclick="toggleWeatherLayer('current')">
+    <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><path d="M2 7h20M2 12h20M2 17h20M17 2l5 5-5 5M17 12l5 5-5 5"/></svg>
+  </button>
+</div>
+
+<div class="side-panel" id="side-panel" onclick="event.stopPropagation()">
+  <div class="panel-header">
+    <div id="panel-title" style="font-size:12px; color:var(--brand-blue); font-family:'IBM Plex Mono';">DATE</div>
+    <button onclick="closePanel()" style="background:none; border:none; color:rgba(255,255,255,0.3); cursor:pointer; font-size:16px;">✕</button>
+  </div>
+  <div class="panel-content" id="panel-content"></div>
+</div>
+
+<div class="detail-modal" id="detail-modal" onclick="closeDetail()">
+  <div class="modal-content" onclick="event.stopPropagation()">
+    <div id="modal-type" style="font-size:10px; font-weight:600; text-transform:uppercase; margin-bottom:12px;">TYPE</div>
+    <h2 id="modal-title" style="margin-bottom:20px; color:#fff; line-height:1.3;">TITLE</h2>
+    <div id="modal-text" style="font-size:14px; color:rgba(255,255,255,0.8); line-height:1.8;"></div>
+    <button onclick="closeDetail()" style="margin-top:30px; width:100%; padding:12px; background:var(--brand-blue); border:none; color:#000; font-weight:600; cursor:pointer; border-radius:4px;">CLOSE</button>
+  </div>
+</div>
+
+<div class="version-tag">v1.2.8 (Final Updated)</div>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

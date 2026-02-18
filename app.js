@@ -1,4 +1,4 @@
-// app.js - Maritime Hub Integrated v1.2.1
+// app.js - Maritime Hub v1.2.8
 let map, markers = [];
 let currentYear = 2026;
 let currentMonth = 0;
@@ -17,7 +17,7 @@ function init() {
   map = new mapboxgl.Map({
     container: 'map',
     style: MAP_STYLES[0].url,
-    center: [127, 36],
+    center: [127, 36.5],
     zoom: 4,
     attributionControl: false
   });
@@ -38,13 +38,15 @@ function initWindy() {
     verbose: false
   };
 
-  windyInit(options, windyAPI => {
-    windyAPIInstance = windyAPI;
-    map.on('move', () => {
-      const center = map.getCenter();
-      windyAPIInstance.map.setView([center.lat, center.lng], Math.round(map.getZoom()));
+  if (typeof windyInit === 'function') {
+    windyInit(options, windyAPI => {
+      windyAPIInstance = windyAPI;
+      map.on('move', () => {
+        const center = map.getCenter();
+        windyAPIInstance.map.setView([center.lat, center.lng], Math.round(map.getZoom()));
+      });
     });
-  });
+  }
 }
 
 function renderMonth() {
@@ -83,11 +85,11 @@ function openSidePanel(date, list) {
   
   content.innerHTML = list.length ? list.map(e => `
     <div class="event-card" onclick="showDetail(${JSON.stringify(e).replace(/"/g, '&quot;')})">
-      <div style="font-size:10px; color:var(--${e.type}); font-weight:600; margin-bottom:5px;">${e.type.toUpperCase()}</div>
+      <div style="font-size:9px; color:var(--${e.type}); font-weight:600; margin-bottom:5px;">${e.type.toUpperCase()}</div>
       <h4>${e.title}</h4>
-      <p>${e.content.replace(/<[^>]*>/g, '').substring(0, 70)}...</p>
+      <p>${e.content.replace(/<[^>]*>/g, '').substring(0, 85)}...</p>
     </div>
-  `).join('') : `<div style="text-align:center; color:#444; margin-top:50px;">No records for this date</div>`;
+  `).join('') : `<div style="text-align:center; color:#444; margin-top:50px;">No events scheduled.</div>`;
   
   panel.classList.add('open');
 }
