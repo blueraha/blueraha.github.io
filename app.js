@@ -177,14 +177,45 @@ function toggleWeatherLayer(layer) {
 }
 function addWeatherLayer(layer) {
 
+  // ── RainViewer wind layer (dynamic timestamp) ──
+  if (layer === "wind") {
+
+    fetch("https://api.rainviewer.com/public/weather-maps.json")
+      .then(r => r.json())
+      .then(data => {
+
+        const ts = data.radar.past[data.radar.past.length - 1].time;
+
+        const tileURL =
+          `https://tilecache.rainviewer.com/v2/radar/${ts}/256/{z}/{x}/{y}/2/1_1.png`;
+
+        const id = "weather-wind";
+
+        if (!map.getSource(id)) {
+          map.addSource(id, {
+            type: "raster",
+            tiles: [tileURL],
+            tileSize: 256
+          });
+        }
+
+        if (!map.getLayer(id)) {
+          map.addLayer({
+            id: id,
+            type: "raster",
+            source: id,
+            paint: {
+              "raster-opacity": 0.5
+            }
+          });
+        }
+      });
+
+    return;
+  }
+
+  // ── 기존 NASA / NOAA layer configs ──
   const layerConfigs = {
-    wind: {
-      id: 'weather-wind',
-      tiles: [
-       'https://tile.openstreetmap.org/{z}/{x}/{y}.png'
-      ],
-      opacity: 0.3
-    },
 
     wave: {
       id: 'weather-wave',
@@ -235,7 +266,6 @@ function addWeatherLayer(layer) {
 
   updateWeatherLegend();
 }
-
 function removeWeatherLayer(layer) {
   const layerId = `weather-${layer}`;
   if (map.getLayer(layerId)) {
