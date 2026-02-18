@@ -126,6 +126,57 @@
   .news-link { display: inline-block; color: var(--brand-blue); font-size: 12px; text-decoration: none; border-bottom: 1px solid var(--brand-blue); padding-bottom: 2px; transition: 0.2s; }
   
   .version-tag { position: fixed; bottom: 10px; left: 10px; font-size: 10px; color: var(--text-secondary); z-index: 1001; font-family: 'Inter'; font-weight: 500; background: rgba(255,255,255,0.85); padding: 2px 8px; border-radius: 4px; border: 1px solid var(--border-color); }
+
+/* ───────── MOBILE CALENDAR FIX ───────── */
+@media (max-width: 768px) {
+
+  .calendar-bar {
+    height: 44px;
+    padding: 0 6px;
+  }
+
+  .days-strip {
+    height: 28px;
+    gap: 2px;
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+
+  .days-strip::-webkit-scrollbar {
+    display: none;
+  }
+
+  .day-item {
+    min-width: 26px;
+    font-size: 9px;
+    justify-content: center;
+  }
+
+  /* 이벤트 바 숨김 */
+  .day-events {
+    display: none;
+  }
+
+  .month-name {
+    min-width: 28px;
+    font-size: 10px;
+  }
+
+  .year-display {
+    font-size: 10px;
+  }
+
+  .weather-controls {
+    top: 82px;
+    transform: translateX(-50%) scale(0.9);
+  }
+
+  .side-panel {
+    width: 100%;
+  }
+}
+
+
 </style>
 </head>
 <body>
