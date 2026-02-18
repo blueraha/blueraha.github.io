@@ -331,17 +331,7 @@ addEvents({
       coords: [23.7275,37.9838],
       location: "Greece"
     },
-    {
-      type: "news",
-      title: "United Maritime cashes out of offshore vessel JV",
-      source: "Splash247",
-      sourceMeta: "splash247.com · Feb 18, 2026",
-      content: `<p>Nasdaq-listed Greek bulker owner United Maritime has agreed to sell its stake in a Norwegian joint venture developing an energy construction vessel (ECV), locking in a profit of roughly €1.7m as it reshuffles capital.</p>`,
-      tags: ["Joint Venture","Offshore Vessels","Greek Shipping","United Maritime","Capital Restructuring"],
-      link: "https://splash247.com/united-maritime-cashes-out-of-offshore-vessel-jv/",
-      coords: [10.7461,59.9139],
-      location: "Norway"
-    },
+
     {
       type: "news",
       title: "Finnish roro player Godby books up to four newbuilds in China",
@@ -375,17 +365,7 @@ addEvents({
       coords: [35.0104,32.8193],
       location: "Haifa, Israel"
     },
-    {
-      type: "news",
-      title: "Landlocked Zimbabwe flags fraud to IMO after tanker's bogus registry link",
-      source: "Splash247",
-      sourceMeta: "splash247.com · Feb 18, 2026",
-      content: `<p>Zimbabwe has notified the International Maritime Organization of fraudulent registry claims after an aframax tanker was falsely linked to the nation. Zimbabwe, being landlocked, has no maritime authority or registry.</p>`,
-      tags: ["Registry Fraud","IMO","Flag State","Aframax","Compliance","Shipping Regulation"],
-      link: "https://splash247.com/landlocked-zimbabwe-flags-fraud-to-imo-after-tankers-bogus-registry-link/",
-      coords: [29.1549,-19.0154],
-      location: "Zimbabwe"
-    },
+
     {
       type: "news",
       title: "Caravel Group: Angad Banga outlines his vision",
@@ -408,17 +388,7 @@ addEvents({
       coords: [1.5,52],
       location: "East Anglia, North Sea"
     },
-    {
-      type: "news",
-      title: "Türkiye's national oil & gas company enters Bulgarian offshore license as partner to Shell",
-      source: "Offshore Energy",
-      sourceMeta: "offshore-energy.biz · Feb 18, 2026",
-      content: `<p>Türkiye's national oil & gas company TPAO has become a partner in a Bulgarian offshore license alongside Shell, expanding its involvement in Black Sea energy operations.</p>`,
-      tags: ["Oil & Gas","Offshore","Bulgaria","Turkey","Shell","TPAO","Energy Partnership"],
-      link: "https://www.offshore-energy.biz/turkiyes-national-oil-gas-company-enters-bulgarian-offshore-license-as-partner-to-shell/",
-      coords: [27.5,43.5],
-      location: "Black Sea, Bulgaria"
-    },
+
     {
       type: "news",
       title: "Five Chinese gas carrier and FSRU vessel projects receive Bureau Veritas' blessing",
@@ -430,72 +400,7 @@ addEvents({
       coords: [104.1954,35.8617],
       location: "China"
     },
-    {
-      type: "news",
-      title: "Hellenic Cables nets inter-array contract for BC-Wind project in Poland",
-      source: "Offshore Energy",
-      sourceMeta: "offshore-energy.biz · Feb 18, 2026",
-      content: `<p>DEME has awarded Hellenic Cables with a contract for the supply of inter-array cables for the BC-Wind offshore wind project in Poland.</p>`,
-      tags: ["Offshore Wind","Cables","Poland","DEME","Hellenic Cables"],
-      link: "https://www.offshore-energy.biz/hellenic-cables-nets-inter-array-contract-for-bc-wind-project-in-poland/",
-      coords: [16,54],
-      location: "Polish Baltic Sea"
-    },
-    {
-      type: "news",
-      title: "High-tech 'wall of steel' to guard US oil & gas and shipping operations",
-      source: "Offshore Energy",
-      sourceMeta: "offshore-energy.biz · Feb 18, 2026",
-      content: `<p>Two American defense companies have entered into a strategic agreement to build a high-tech defensive system to protect US oil, gas, and shipping operations.</p>`,
-      tags: ["Defense","Security","Oil & Gas","Shipping","Infrastructure Protection"],
-      link: "https://www.offshore-energy.biz/high-tech-wall-of-steel-to-guard-us-oil-gas-and-shipping-operations/",
-      coords: [-95.7129,29.7604],
-      location: "United States - Gulf of Mexico Region"
-    },
-    {
-      type: "news",
-      title: "Worley gets technical advisor role for New Zealand's LNG import terminal",
-      source: "Offshore Energy",
-      sourceMeta: "offshore-energy.biz · Feb 18, 2026",
-      content: `<p>Australia's engineering company Worley has been selected by New Zealand's Ministry of Business, Innovation and Employment (MBIE) to serve as technical advisor for New Zealand's LNG import terminal project.</p>`,
-      tags: ["LNG","Terminal","New Zealand","Engineering","Infrastructure"],
-      link: "https://www.offshore-energy.biz/worley-gets-technical-advisor-role-for-new-zealands-lng-import-terminal/",
-      coords: [174.886,-41.2865],
-      location: "New Zealand"
-    },
-    {
-      type: "event",
-      title: "Offshore construction begins on Polish Bałtyk 2 & 3 wind farms with subsea rock installation",
-      source: "Offshore Energy",
-      sourceMeta: "offshore-energy.biz · Feb 18, 2026",
-      content: `<p>Offshore construction has commenced on the Bałtyk 2 and Bałtyk 3 offshore wind projects in Poland, with subsea rock installation work now underway.</p>`,
-      tags: ["Offshore Wind","Construction","Poland","Baltic Sea","Renewable Energy"],
-      link: "https://www.offshore-energy.biz/offshore-construction-on-polish-baltyk-2-3-wind-farms-starts-with-subsea-rock-installation/",
-      coords: [15.5,54.5],
-      location: "Baltic Sea, Poland"
-    },
-    {
-      type: "news",
-      title: "Testing aimed at improving megawatt-scale tidal energy device wraps up in Ireland",
-      source: "Offshore Energy",
-      sourceMeta: "offshore-energy.biz · Feb 18, 2026",
-      content: `<p>ORPC has completed testing activities for a megawatt-scale tidal energy device in Ireland, advancing marine energy technology development.</p>`,
-      tags: ["Tidal Energy","Renewable Energy","Marine Technology","Ireland"],
-      link: "https://www.offshore-energy.biz/testing-aimed-at-improving-megawatt-scale-tidal-energy-device-wraps-up-in-ireland/",
-      coords: [-7.5,53.5],
-      location: "Ireland"
-    },
-    {
-      type: "news",
-      title: "Equinor picks OneSubsea for subsea compression upgrade",
-      source: "Offshore Energy",
-      sourceMeta: "offshore-energy.biz · Feb 18, 2026",
-      content: `<p>OneSubsea, a joint venture backed by SLB, Aker Solutions and Subsea7, has secured a contract with Equinor for subsea compression upgrade work.</p>`,
-      tags: ["Subsea Technology","Offshore Infrastructure","Equinor","OneSubsea","Oil & Gas"],
-      link: "https://www.offshore-energy.biz/equinor-picks-onesubsea-for-subsea-compression-upgrade/",
-      coords: [4.4,60.4],
-      location: "Norwegian Continental Shelf"
-    }
+
   ]
 });
 
