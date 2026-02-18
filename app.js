@@ -11,6 +11,8 @@ let currentStyle = 'light';
 const OWM_APP_ID = 'c1c9d245aa905fef239db16721c930a7'; // ← OWM 무료 API 키를 여기에 넣으세요 (openweathermap.org 가입 후 발급)
 let activeWeatherLayers = new Set();
 let rainviewerFrames = [];
+let dayNightEnabled = false;
+let dayNightInterval = null;
 
 // OWM 1.0 타일 레이어 정의 (무료)
 const OWM_LAYERS = {
@@ -96,6 +98,8 @@ function init() {
         showOWMLayer(key);
       }
     });
+    // Day/Night 복원
+    if (dayNightEnabled) updateDayNight();
     renderMarkers();
   });
 }
@@ -164,6 +168,101 @@ function resetIdleTimer() {
       resumeSpin();
     }
   }, IDLE_TIMEOUT);
+}
+
+// ── Day / Night Terminator ──
+
+function getSunPosition(date) {
+  // 태양 적위(declination)와 경도 계산
+  var rad = Math.PI / 180;
+  var dayOfYear = Math.floor((date - new Date(date.getFullYear(), 0, 0)) / 86400000);
+  // 태양 적위 (근사)
+  var declination = -23.44 * Math.cos(rad * (360 / 365) * (dayOfYear + 10));
+  // 태양 경도 = UTC 시간 기반
+  var hours = date.getUTCHours() + date.getUTCMinutes() / 60 + date.getUTCSeconds() / 3600;
+  var sunLng = -(hours / 24) * 360 + 180;
+  return { lat: declination, lng: sunLng };
+}
+
+function generateNightPolygon(date) {
+  var sun = getSunPosition(date);
+  var rad = Math.PI / 180;
+  var points = [];
+
+  // terminator 라인 계산 (경도 0~360도를 따라)
+  for (var i = 0; i <= 360; i += 2) {
+    var lng = i - 180;
+    // terminator 위도 계산
+    var cosLHA = -Math.tan(sun.lat * rad) * Math.tan(0); // 지평선
+    var hourAngle = (lng - sun.lng) * rad;
+    var lat = Math.atan(-Math.cos(hourAngle) / Math.tan(sun.lat * rad)) / rad;
+    points.push([lng, lat]);
+  }
+
+  // 밤 영역: terminator 아래(또는 위)를 폴리곤으로
+  // 태양이 북반구에 있으면 남쪽이 밤, 반대도 마찬가지
+  var nightSide = sun.lat >= 0 ? -90 : 90;
+  var polygon = [];
+
+  // terminator 라인
+  for (var j = 0; j < points.length; j++) {
+    polygon.push(points[j]);
+  }
+  // 밤쪽으로 닫기
+  polygon.push([180, nightSide]);
+  polygon.push([-180, nightSide]);
+  polygon.push(points[0]); // 닫기
+
+  return {
+    type: 'Feature',
+    geometry: {
+      type: 'Polygon',
+      coordinates: [polygon]
+    }
+  };
+}
+
+function updateDayNight() {
+  var geojson = generateNightPolygon(new Date());
+
+  if (map.getSource('daynight-src')) {
+    map.getSource('daynight-src').setData(geojson);
+  } else {
+    map.addSource('daynight-src', {
+      type: 'geojson',
+      data: geojson
+    });
+    map.addLayer({
+      id: 'daynight-layer',
+      type: 'fill',
+      source: 'daynight-src',
+      paint: {
+        'fill-color': '#191A2C',
+        'fill-opacity': 0.3
+      }
+    });
+  }
+}
+
+function removeDayNight() {
+  try { if (map.getLayer('daynight-layer')) map.removeLayer('daynight-layer'); } catch(e) {}
+  try { if (map.getSource('daynight-src')) map.removeSource('daynight-src'); } catch(e) {}
+}
+
+function toggleDayNight() {
+  dayNightEnabled = !dayNightEnabled;
+  var btn = document.getElementById('btn-daynight');
+
+  if (dayNightEnabled) {
+    updateDayNight();
+    // 1분마다 갱신
+    dayNightInterval = setInterval(updateDayNight, 60000);
+    if (btn) btn.classList.add('active');
+  } else {
+    if (dayNightInterval) { clearInterval(dayNightInterval); dayNightInterval = null; }
+    removeDayNight();
+    if (btn) btn.classList.remove('active');
+  }
 }
 
 // ── Weather Sources & Layers ──
