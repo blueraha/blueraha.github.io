@@ -1,56 +1,61 @@
-// app.js - Maritime Hub v1.4.0 Stable Fix
+// app.js - Maritime Hub v2.2.0 Final
+// 중요: MONTHS, events 변수는 data.js에 있으므로 재선언하지 않음
+
 let map, markers = [];
 let currentYear = 2026;
-let currentMonth = 0;
+let currentMonth = 0; // 0 = JAN
 let windyAPIInstance = null;
-let isGlobe = false;
-let currentStyle = 0;
-
-// ERROR FIX: MONTHS removed here because it is already in data.js
-
-const MAP_STYLES = [
-  { name: 'Dark', url: 'mapbox://styles/mapbox/dark-v11' },
-  { name: 'Satellite', url: 'mapbox://styles/mapbox/satellite-streets-v12' }
-];
+let currentStyle = 'standard';
 
 function init() {
   mapboxgl.accessToken = 'pk.eyJ1IjoiYmx1ZXJhaGEiLCJhIjoiY21scW5tOGRhMDJwMzNkcHVzeXVhcGw3dyJ9.3eBK-bIV99YgmxOycysRyA';
 
+  // Mapbox Standard Style with 'Dusk' preset
   map = new mapboxgl.Map({
     container: 'map',
-    style: MAP_STYLES[0].url,
+    style: 'mapbox://styles/mapbox/standard',
     center: [127, 36.5],
     zoom: 4,
-    attributionControl: false
+    pitch: 0,
+    attributionControl: false,
+    config: {
+      basemap: {
+        lightPreset: 'dusk', // Dusk 테마 적용
+        showPointOfInterestLabels: false
+      }
+    }
   });
 
-  // Mapbox Controls Left
+  // [요청사항] 기본 컨트롤 좌측 상단 배치
   map.addControl(new mapboxgl.NavigationControl(), 'top-left');
+  map.addControl(new mapboxgl.GeolocateControl({
+    positionOptions: { enableHighAccuracy: true },
+    trackUserLocation: true
+  }), 'top-left');
+  map.addControl(new mapboxgl.FullscreenControl(), 'top-left');
+  map.addControl(new mapboxgl.ScaleControl(), 'bottom-left');
 
   map.on('load', () => {
-    // Check if data.js loaded correctly
-    if (typeof MONTHS !== 'undefined') {
+    // data.js 로드 확인 (충돌 방지)
+    if (typeof events !== 'undefined' && typeof MONTHS !== 'undefined') {
       renderMonth();
-    } else {
-      console.error("data.js not loaded properly");
-    }
-    
-    if (typeof events !== 'undefined') {
       renderMarkers();
+    } else {
+      console.error("data.js not loaded.");
     }
     
-    // Try to init Windy, catch errors if key is bad
+    // Windy API Init (Safe Mode)
     try {
       initWindy();
     } catch (e) {
-      console.warn("Windy Init Failed:", e);
+      console.warn("Windy Init Error:", e);
     }
   });
 }
 
 function initWindy() {
   const options = {
-    key: "aMpcNHv9Ki6q8dtdnjVL5Q1EwXZYQuDQ", // Note: This key is returning 401 (Unauthorized)
+    key: "aMpcNHv9Ki6q8dtdnjVL5Q1EwXZYQuDQ",
     lat: map.getCenter().lat,
     lon: map.getCenter().lng,
     zoom: Math.round(map.getZoom()),
@@ -65,13 +70,13 @@ function initWindy() {
         windyAPIInstance.map.setView([center.lat, center.lng], Math.round(map.getZoom()));
       });
     });
-  } else {
-    console.warn("Windy Library not loaded");
   }
 }
 
 function renderMonth() {
   document.getElementById('month-name').textContent = MONTHS[currentMonth];
+  document.getElementById('year-display').textContent = currentYear;
+  
   const strip = document.getElementById('days-strip');
   strip.innerHTML = '';
   const actualDays = new Date(currentYear, currentMonth + 1, 0).getDate();
@@ -101,7 +106,7 @@ function renderMonth() {
 }
 
 function renderMarkers() {
-  markers.forEach(m => m.remove());
+  if (typeof markers !== 'undefined') markers.forEach(m => m.remove());
   markers = [];
   
   if (typeof events === 'undefined') return;
@@ -111,13 +116,13 @@ function renderMarkers() {
       if (!e.coords) return;
       
       const markerEl = document.createElement('div');
-      markerEl.style.width = '8px';
-      markerEl.style.height = '8px';
+      markerEl.style.width = '10px';
+      markerEl.style.height = '10px';
       markerEl.style.borderRadius = '50%';
       markerEl.style.backgroundColor = `var(--${e.type})`;
-      markerEl.style.border = '1.5px solid rgba(255,255,255,0.6)';
+      markerEl.style.border = '2px solid rgba(255,255,255,0.7)';
       markerEl.style.cursor = 'pointer';
-      markerEl.style.boxShadow = '0 0 4px rgba(0,0,0,0.5)';
+      markerEl.style.boxShadow = '0 0 6px rgba(0,0,0,0.5)';
 
       const marker = new mapboxgl.Marker(markerEl)
         .setLngLat(e.coords)
@@ -138,7 +143,7 @@ function openSidePanel(date, list) {
   document.getElementById('panel-title').textContent = date;
   
   content.innerHTML = list.length ? list.map(e => `
-    <div style="background:rgba(255,255,255,0.05); padding:12px; border-radius:6px; margin-bottom:10px; cursor:pointer; border:1px solid rgba(255,255,255,0.05);" onclick="showDetail(${JSON.stringify(e).replace(/"/g, '&quot;')})">
+    <div style="background:rgba(255,255,255,0.05); padding:12px; border-radius:6px; margin-bottom:10px; cursor:pointer; border:1px solid rgba(255,255,255,0.05); transition:0.2s;" onclick="showDetail(${JSON.stringify(e).replace(/"/g, '&quot;')})" onmouseover="this.style.background='rgba(255,255,255,0.1)'" onmouseout="this.style.background='rgba(255,255,255,0.05)'">
       <div style="font-size:9px; color:var(--${e.type}); font-weight:600; margin-bottom:4px;">${e.type.toUpperCase()}</div>
       <div style="font-size:13px; font-weight:500; color:#fff;">${e.title}</div>
     </div>
@@ -172,10 +177,7 @@ function closePanel() {
 function closeDetail() { document.getElementById('detail-modal').classList.remove('open'); }
 
 function toggleWeatherLayer(layer) {
-  if (!windyAPIInstance) {
-    console.warn("Windy API not initialized (Check Key)");
-    return;
-  }
+  if (!windyAPIInstance) { console.warn("Windy Not Ready"); return; }
   const overlayMap = { wind: "wind", wave: "waves", temp: "temp", current: "currents" };
   windyAPIInstance.store.set("overlay", overlayMap[layer]);
   
@@ -183,8 +185,17 @@ function toggleWeatherLayer(layer) {
   document.getElementById(`layer-${layer}`).classList.add('active');
 }
 
-function toggleProjection() { isGlobe = !isGlobe; map.setProjection(isGlobe ? 'globe' : 'mercator'); }
-function cycleStyle() { currentStyle = (currentStyle + 1) % MAP_STYLES.length; map.setStyle(MAP_STYLES[currentStyle].url); }
+function toggleStyle() {
+  if (currentStyle === 'standard') {
+    map.setStyle('mapbox://styles/mapbox/satellite-streets-v12');
+    currentStyle = 'satellite';
+  } else {
+    map.setStyle('mapbox://styles/mapbox/standard');
+    map.setConfigProperty('basemap', 'lightPreset', 'dusk');
+    currentStyle = 'standard';
+  }
+}
+
 function changeMonth(dir) { 
   currentMonth += dir; 
   if(currentMonth > 11) { currentMonth = 0; currentYear++; }
