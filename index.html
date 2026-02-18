@@ -6,13 +6,8 @@
 <title>Maritime Hub Fixed</title>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" />
-<script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"></script>
-
 <link href="https://api.mapbox.com/mapbox-gl-js/v3.3.0/mapbox-gl.css" rel="stylesheet">
 <script src="https://api.mapbox.com/mapbox-gl-js/v3.3.0/mapbox-gl.js"></script>
-
-<script src="https://api.windy.com/assets/map-forecast/libBoot.js"></script>
 
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -101,7 +96,7 @@
   .version-tag { position: fixed; bottom: 10px; right: 10px; font-size: 10px; color: #fff; z-index: 1001; font-family: 'IBM Plex Mono'; text-shadow: 0 1px 3px rgba(0,0,0,0.8); }
 </style>
 </head>
-<body onclick="closePanel()">
+<body>
 
 <div class="top-bar">
   <div class="logo-area">
@@ -135,17 +130,20 @@
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path></svg>
   </button>
   <div style="height:1px; background:rgba(255,255,255,0.1); margin:2px 0;"></div>
-  <button class="control-btn weather-btn" id="layer-wind" onclick="toggleWeatherLayer('wind')" title="Wind">
+  <button class="control-btn weather-btn" id="layer-wind" onclick="toggleWeatherLayer('wind')" title="Wind Speed">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M9.5 9c0-1.7-1.3-3-3-3S3.5 7.3 3.5 9s1.3 3 3 3H19M6.5 15c0 1.7 1.3 3 3 3s3-1.3 3-3-1.3-3-3-3H2"/></svg>
   </button>
-  <button class="control-btn weather-btn" id="layer-wave" onclick="toggleWeatherLayer('wave')" title="Waves">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M2 12c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2s2.5 2 5 2 2.5-2 5-2 1.9.5 2.5 1M2 16c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2s2.5 2 5 2 2.5-2 5-2 1.9.5 2.5 1"/></svg>
+  <button class="control-btn weather-btn" id="layer-pressure" onclick="toggleWeatherLayer('pressure')" title="Pressure">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
+  </button>
+  <button class="control-btn weather-btn" id="layer-clouds" onclick="toggleWeatherLayer('clouds')" title="Clouds">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z"/></svg>
   </button>
   <button class="control-btn weather-btn" id="layer-temp" onclick="toggleWeatherLayer('temp')" title="Temperature">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M14 14.76V3.5a2.5 2.5 0 0 0-5 0v11.26a4.5 4.5 0 1 0 5 0z"/></svg>
   </button>
-  <button class="control-btn weather-btn" id="layer-current" onclick="toggleWeatherLayer('current')" title="Currents">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M2 7h20M2 12h20M2 17h20M17 2l5 5-5 5M17 12l5 5-5 5"/></svg>
+  <button class="control-btn weather-btn" id="layer-radar" onclick="toggleWeatherLayer('radar')" title="Rain Radar">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M2 12h4M18 12h4M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/><circle cx="12" cy="12" r="4"/></svg>
   </button>
 </div>
 
@@ -166,7 +164,7 @@
   </div>
 </div>
 
-<div class="version-tag">v3.0.0 (Fixed)</div>
+<div class="version-tag">v3.1.0</div>
 
 <script src="data.js"></script>
 <script src="app.js"></script>

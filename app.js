@@ -1,16 +1,28 @@
-// app.js - Maritime Hub v3.0.0
+// app.js - Maritime Hub v3.1.0
+// Windy 제거 → OWM 1.0 무료 타일 + RainViewer 레이더
 // 주의: MONTHS, events 변수는 data.js에 이미 있습니다. 절대 재선언하지 마세요.
 
 let map, markers = [];
 let currentYear = 2026;
 let currentMonth = 0; // 0 = JAN
-let windyAPIInstance = null;
 let currentStyle = 'dark';
+
+// ── Weather Layer State ──
+const OWM_APP_ID = 'c1c9d245aa905fef239db16721c930a7'; // ← OWM 무료 API 키를 여기에 넣으세요 (openweathermap.org 가입 후 발급)
+let activeWeatherLayers = new Set();
+let rainviewerFrames = [];
+
+// OWM 1.0 타일 레이어 정의 (무료)
+const OWM_LAYERS = {
+  wind:     { id: 'owm-wind',     layer: 'wind_new' },
+  pressure: { id: 'owm-pressure', layer: 'pressure_new' },
+  clouds:   { id: 'owm-clouds',   layer: 'clouds_new' },
+  temp:     { id: 'owm-temp',     layer: 'temp_new' }
+};
 
 function init() {
   mapboxgl.accessToken = 'pk.eyJ1IjoiYmx1ZXJhaGEiLCJhIjoiY21scW5tOGRhMDJwMzNkcHVzeXVhcGw3dyJ9.3eBK-bIV99YgmxOycysRyA';
 
-  // 검은 화면 해결을 위해 가장 안전한 'Dark' 스타일 사용
   map = new mapboxgl.Map({
     container: 'map',
     style: 'mapbox://styles/mapbox/dark-v11',
@@ -19,7 +31,6 @@ function init() {
     attributionControl: false
   });
 
-  // 컨트롤 좌측 상단 배치
   map.addControl(new mapboxgl.NavigationControl(), 'top-left');
   map.addControl(new mapboxgl.GeolocateControl({
     positionOptions: { enableHighAccuracy: true },
@@ -28,106 +39,227 @@ function init() {
   map.addControl(new mapboxgl.FullscreenControl(), 'top-left');
   map.addControl(new mapboxgl.ScaleControl(), 'bottom-left');
 
+  document.body.addEventListener('click', function() {
+    closePanel();
+  });
+
   map.on('load', () => {
-    // data.js 로드 확인 (MONTHS 변수가 있는지 체크)
     if (typeof MONTHS !== 'undefined' && typeof events !== 'undefined') {
       renderMonth();
       renderMarkers();
     } else {
-      console.error("data.js not loaded properly. Check index.html");
+      console.error("data.js not loaded properly.");
     }
-    
-    // Windy API Init (실패해도 앱이 멈추지 않도록 예외처리)
-    try {
-      initWindy();
-    } catch (e) {
-      console.warn("Windy Init Failed:", e);
+
+    // 기상 레이어 소스 등록
+    addWeatherSources();
+
+    // RainViewer 초기화
+    initRainViewer();
+  });
+
+  // 스타일 변경 후 레이어 재등록
+  map.on('style.load', () => {
+    addWeatherSources();
+    // 활성화된 레이어 다시 표시
+    activeWeatherLayers.forEach(key => {
+      if (key === 'radar') {
+        showRainViewerLayer();
+      } else {
+        showOWMLayer(key);
+      }
+    });
+    renderMarkers();
+  });
+}
+
+// ── Weather Sources & Layers ──
+
+function addWeatherSources() {
+  if (!OWM_APP_ID) return; // 키 없으면 등록 생략
+  Object.entries(OWM_LAYERS).forEach(([key, cfg]) => {
+    if (!map.getSource(cfg.id)) {
+      map.addSource(cfg.id, {
+        type: 'raster',
+        tiles: [
+          `https://tile.openweathermap.org/map/${cfg.layer}/{z}/{x}/{y}.png?appid=${OWM_APP_ID}`
+        ],
+        tileSize: 256,
+        attribution: '© <a href="https://openweathermap.org">OpenWeatherMap</a>'
+      });
     }
   });
 }
 
-function initWindy() {
-  const options = {
-    key: "aMpcNHv9Ki6q8dtdnjVL5Q1EwXZYQuDQ",
-    lat: map.getCenter().lat,
-    lon: map.getCenter().lng,
-    zoom: Math.round(map.getZoom()),
-    verbose: false
-  };
-
-  if (typeof windyInit === 'function') {
-    windyInit(options, windyAPI => {
-      windyAPIInstance = windyAPI;
-      map.on('move', () => {
-        const center = map.getCenter();
-        if(windyAPIInstance.map) {
-             windyAPIInstance.map.setView([center.lat, center.lng], Math.round(map.getZoom()));
-        }
-      });
+function showOWMLayer(key) {
+  const cfg = OWM_LAYERS[key];
+  if (!cfg) return;
+  // 소스가 없으면 등록 시도
+  if (!map.getSource(cfg.id)) {
+    if (!OWM_APP_ID) return;
+    map.addSource(cfg.id, {
+      type: 'raster',
+      tiles: [
+        `https://tile.openweathermap.org/map/${cfg.layer}/{z}/{x}/{y}.png?appid=${OWM_APP_ID}`
+      ],
+      tileSize: 256
     });
-  } else {
-    console.warn("Windy Library not loaded");
+  }
+  if (!map.getLayer(cfg.id)) {
+    map.addLayer({
+      id: cfg.id,
+      type: 'raster',
+      source: cfg.id,
+      paint: { 'raster-opacity': 0.6 }
+    });
   }
 }
+
+function hideOWMLayer(key) {
+  const cfg = OWM_LAYERS[key];
+  if (!cfg) return;
+  if (map.getLayer(cfg.id)) map.removeLayer(cfg.id);
+}
+
+// ── RainViewer (완전 무료, 키 불필요) ──
+
+function initRainViewer() {
+  fetch('https://api.rainviewer.com/public/weather-maps.json')
+    .then(r => r.json())
+    .then(data => {
+      rainviewerFrames = data.radar.past || [];
+      console.log('RainViewer: ' + rainviewerFrames.length + ' radar frames loaded');
+    })
+    .catch(e => console.warn('RainViewer init failed:', e));
+}
+
+function showRainViewerLayer() {
+  if (rainviewerFrames.length === 0) {
+    console.warn('RainViewer: no frames available yet');
+    return;
+  }
+  const latest = rainviewerFrames[rainviewerFrames.length - 1];
+  const tileUrl = 'https://tilecache.rainviewer.com' + latest.path + '/256/{z}/{x}/{y}/2/1_1.png';
+  const srcId = 'rainviewer-src';
+  const layId = 'rainviewer-layer';
+
+  // 기존 레이어/소스 제거 후 재등록 (URL 갱신)
+  try { if (map.getLayer(layId)) map.removeLayer(layId); } catch(e) {}
+  try { if (map.getSource(srcId)) map.removeSource(srcId); } catch(e) {}
+
+  map.addSource(srcId, {
+    type: 'raster',
+    tiles: [tileUrl],
+    tileSize: 256,
+    attribution: '© <a href="https://rainviewer.com">RainViewer</a>'
+  });
+  map.addLayer({
+    id: layId,
+    type: 'raster',
+    source: srcId,
+    paint: { 'raster-opacity': 0.6 }
+  });
+}
+
+function hideRainViewerLayer() {
+  try { if (map.getLayer('rainviewer-layer')) map.removeLayer('rainviewer-layer'); } catch(e) {}
+  try { if (map.getSource('rainviewer-src')) map.removeSource('rainviewer-src'); } catch(e) {}
+}
+
+// ── Toggle Weather Layer (통합) ──
+
+function toggleWeatherLayer(key) {
+  var btn = document.getElementById('layer-' + key);
+
+  if (activeWeatherLayers.has(key)) {
+    // 끄기
+    activeWeatherLayers.delete(key);
+    if (btn) btn.classList.remove('active');
+    if (key === 'radar') {
+      hideRainViewerLayer();
+    } else {
+      hideOWMLayer(key);
+    }
+  } else {
+    // 켜기
+    if (!OWM_APP_ID && key !== 'radar') {
+      alert('OWM API 키가 필요합니다.\napp.js 상단의 OWM_APP_ID에 키를 입력하세요.\nhttps://openweathermap.org 에서 무료 발급 가능합니다.');
+      return;
+    }
+    activeWeatherLayers.add(key);
+    if (btn) btn.classList.add('active');
+    if (key === 'radar') {
+      showRainViewerLayer();
+    } else {
+      showOWMLayer(key);
+    }
+  }
+}
+
+// ── 기존 기능 (변경 없음) ──
 
 function renderMonth() {
   if (typeof MONTHS !== 'undefined') {
     document.getElementById('month-name').textContent = MONTHS[currentMonth];
   }
   document.getElementById('year-display').textContent = currentYear;
-  
-  const strip = document.getElementById('days-strip');
-  strip.innerHTML = '';
-  const actualDays = new Date(currentYear, currentMonth + 1, 0).getDate();
 
-  for (let d = 1; d <= 31; d++) {
-    const dateKey = `${currentYear}-${String(currentMonth+1).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
-    const dayEvents = (typeof events !== 'undefined' && events[dateKey]) ? events[dateKey] : [];
-    
-    const item = document.createElement('div');
+  var strip = document.getElementById('days-strip');
+  strip.innerHTML = '';
+  var actualDays = new Date(currentYear, currentMonth + 1, 0).getDate();
+
+  for (var d = 1; d <= 31; d++) {
+    var dateKey = currentYear + '-' + String(currentMonth+1).padStart(2,'0') + '-' + String(d).padStart(2,'0');
+    var dayEvents = (typeof events !== 'undefined' && events[dateKey]) ? events[dateKey] : [];
+
+    var item = document.createElement('div');
     item.className = 'day-item';
-    
+
     if (d > actualDays) {
       item.style.opacity = '0';
       item.style.pointerEvents = 'none';
     } else {
-      const bars = dayEvents.map(e => `<div style="height:2px; width:100%; background:var(--${e.type}); margin-top:1px;"></div>`).join('');
-      item.innerHTML = `<span>${d}</span><div style="width:80%;">${bars}</div>`;
-      item.onclick = (e) => {
-        e.stopPropagation();
-        openSidePanel(dateKey, dayEvents);
-        document.querySelectorAll('.day-item').forEach(i => i.classList.remove('active'));
-        item.classList.add('active');
-      };
+      var bars = dayEvents.map(function(e) {
+        return '<div style="height:2px; width:100%; background:var(--' + e.type + '); margin-top:1px;"></div>';
+      }).join('');
+      item.innerHTML = '<span>' + d + '</span><div style="width:80%;">' + bars + '</div>';
+      (function(dk, de, el) {
+        el.onclick = function(ev) {
+          ev.stopPropagation();
+          openSidePanel(dk, de);
+          document.querySelectorAll('.day-item').forEach(function(i) { i.classList.remove('active'); });
+          el.classList.add('active');
+        };
+      })(dateKey, dayEvents, item);
     }
     strip.appendChild(item);
   }
 }
 
 function renderMarkers() {
-  if (typeof markers !== 'undefined') markers.forEach(m => m.remove());
+  if (typeof markers !== 'undefined') markers.forEach(function(m) { m.remove(); });
   markers = [];
-  
+
   if (typeof events === 'undefined') return;
 
-  Object.entries(events).forEach(([date, list]) => {
-    list.forEach(e => {
+  Object.entries(events).forEach(function([date, list]) {
+    list.forEach(function(e) {
       if (!e.coords) return;
-      
-      const markerEl = document.createElement('div');
+
+      var markerEl = document.createElement('div');
       markerEl.style.width = '10px';
       markerEl.style.height = '10px';
       markerEl.style.borderRadius = '50%';
-      markerEl.style.backgroundColor = `var(--${e.type})`;
+      markerEl.style.backgroundColor = 'var(--' + e.type + ')';
       markerEl.style.border = '2px solid rgba(255,255,255,0.7)';
       markerEl.style.cursor = 'pointer';
       markerEl.style.boxShadow = '0 0 6px rgba(0,0,0,0.5)';
 
-      const marker = new mapboxgl.Marker(markerEl)
+      var marker = new mapboxgl.Marker(markerEl)
         .setLngLat(e.coords)
         .addTo(map);
-        
-      marker.getElement().addEventListener('click', (ev) => {
+
+      marker.getElement().addEventListener('click', function(ev) {
         ev.stopPropagation();
         openSidePanel(date, list);
       });
@@ -137,52 +269,43 @@ function renderMarkers() {
 }
 
 function openSidePanel(date, list) {
-  const panel = document.getElementById('side-panel');
-  const content = document.getElementById('panel-content');
+  var panel = document.getElementById('side-panel');
+  var content = document.getElementById('panel-content');
   document.getElementById('panel-title').textContent = date;
-  
-  content.innerHTML = list.length ? list.map(e => `
-    <div style="background:rgba(255,255,255,0.05); padding:12px; border-radius:6px; margin-bottom:10px; cursor:pointer; border:1px solid rgba(255,255,255,0.05); transition:0.2s;" onclick="showDetail(${JSON.stringify(e).replace(/"/g, '&quot;')})" onmouseover="this.style.background='rgba(255,255,255,0.1)'" onmouseout="this.style.background='rgba(255,255,255,0.05)'">
-      <div style="font-size:9px; color:var(--${e.type}); font-weight:600; margin-bottom:4px;">${e.type.toUpperCase()}</div>
-      <div style="font-size:13px; font-weight:500; color:#fff;">${e.title}</div>
-    </div>
-  `).join('') : `<div style="text-align:center; color:#555; margin-top:40px; font-size:11px;">No Data</div>`;
-  
+
+  content.innerHTML = list.length ? list.map(function(e) {
+    return '<div style="background:rgba(255,255,255,0.05); padding:12px; border-radius:6px; margin-bottom:10px; cursor:pointer; border:1px solid rgba(255,255,255,0.05); transition:0.2s;" onclick="showDetail(' + JSON.stringify(e).replace(/"/g, '&quot;') + ')" onmouseover="this.style.background=\'rgba(255,255,255,0.1)\'" onmouseout="this.style.background=\'rgba(255,255,255,0.05)\'">' +
+      '<div style="font-size:9px; color:var(--' + e.type + '); font-weight:600; margin-bottom:4px;">' + e.type.toUpperCase() + '</div>' +
+      '<div style="font-size:13px; font-weight:500; color:#fff;">' + e.title + '</div>' +
+    '</div>';
+  }).join('') : '<div style="text-align:center; color:#555; margin-top:40px; font-size:11px;">No Data</div>';
+
   panel.classList.add('open');
 }
 
 function showDetail(e) {
   document.getElementById('modal-type').textContent = e.type;
-  document.getElementById('modal-type').style.color = `var(--${e.type})`;
+  document.getElementById('modal-type').style.color = 'var(--' + e.type + ')';
   document.getElementById('modal-title').textContent = e.title;
   document.getElementById('modal-text').innerHTML = e.content;
-  
-  const linkBtn = document.getElementById('modal-link');
+
+  var linkBtn = document.getElementById('modal-link');
   if (e.link) {
     linkBtn.href = e.link;
     linkBtn.style.display = 'inline-block';
   } else {
     linkBtn.style.display = 'none';
   }
-  
+
   document.getElementById('detail-modal').classList.add('open');
 }
 
-function closePanel() { 
-  document.getElementById('side-panel').classList.remove('open'); 
-  document.querySelectorAll('.day-item').forEach(i => i.classList.remove('active'));
+function closePanel() {
+  document.getElementById('side-panel').classList.remove('open');
+  document.querySelectorAll('.day-item').forEach(function(i) { i.classList.remove('active'); });
 }
 
 function closeDetail() { document.getElementById('detail-modal').classList.remove('open'); }
-
-function toggleWeatherLayer(layer) {
-  if (!windyAPIInstance) { console.warn("Windy Not Ready"); return; }
-  const overlayMap = { wind: "wind", wave: "waves", temp: "temp", current: "currents" };
-  windyAPIInstance.store.set("overlay", overlayMap[layer]);
-  
-  document.querySelectorAll('.weather-btn').forEach(btn => btn.classList.remove('active'));
-  document.getElementById(`layer-${layer}`).classList.add('active');
-}
 
 function toggleStyle() {
   if (currentStyle === 'dark') {
@@ -194,11 +317,11 @@ function toggleStyle() {
   }
 }
 
-function changeMonth(dir) { 
-  currentMonth += dir; 
-  if(currentMonth > 11) { currentMonth = 0; currentYear++; }
-  else if(currentMonth < 0) { currentMonth = 11; currentYear--; }
-  renderMonth(); 
+function changeMonth(dir) {
+  currentMonth += dir;
+  if (currentMonth > 11) { currentMonth = 0; currentYear++; }
+  else if (currentMonth < 0) { currentMonth = 11; currentYear--; }
+  renderMonth();
 }
 
 init();
