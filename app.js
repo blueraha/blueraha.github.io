@@ -219,6 +219,14 @@ function renderMonth() {
     var item = document.createElement('div');
     item.className = 'day-item';
 
+    var now = new Date();
+    if (
+     now.getFullYear() === currentYear &&
+     now.getMonth() === currentMonth &&
+     now.getDate() === d
+    ) {
+     item.classList.add('today');
+    }
     if (d > actualDays) {
       item.style.opacity = '0';
       item.style.pointerEvents = 'none';
