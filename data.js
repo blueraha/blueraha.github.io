@@ -33,6 +33,274 @@ function addEvents(obj) {
 
 // ── 2025 ──
 
+// ── 2025 Major Maritime Accidents ──
+
+addEvents({
+  "2025-01-28": [{
+    type: "accident",
+    title: "ASL Bauhinia — Explosion & Container Fire in Red Sea",
+    source: "ShipUniverse",
+    sourceMeta: "Jan 28, 2025",
+    content: `<p>Hong Kong-flagged containership <strong>ASL Bauhinia</strong> suffered an explosion and fire among containers in the Red Sea, approx. 122 nm NW of Hodeidah. Crew abandoned ship after being unable to contain the fire. All crew rescued with no injuries reported.</p>`,
+    tags: ["Containership","Fire","Red Sea","Explosion"],
+    link: "https://www.shipuniverse.com/15-major-shipping-incidents-in-h1-2025/",
+    coords: [42.5, 15.8],
+    location: "Red Sea, off Yemen"
+  }],
+
+  "2025-02-08": [{
+    type: "accident",
+    title: "An Yang 2 — Bulk Carrier Grounding off Sakhalin",
+    source: "ShipUniverse",
+    sourceMeta: "Feb 8, 2025",
+    content: `<p>Chinese-flagged bulk carrier <strong>An Yang 2</strong> ran aground off SW Sakhalin Island, Russia during heavy storm conditions after lifting anchor. Hull and ballast damage reported. No injuries.</p>`,
+    tags: ["Grounding","Bulk Carrier","Storm","Russia"],
+    link: "https://www.shipuniverse.com/15-major-shipping-incidents-in-h1-2025/",
+    coords: [142.0, 46.6],
+    location: "Sakhalin Island, Russia"
+  }],
+
+  "2025-02-12": [{
+    type: "accident",
+    title: "USS Harry S. Truman Collides with MV Besiktas-M near Port Said",
+    source: "ShipUniverse",
+    sourceMeta: "Feb 12, 2025",
+    content: `<p>US aircraft carrier <strong>USS Harry S. Truman</strong> (CVN-75) collided with Panama-flagged bulk carrier <strong>Besiktas-M</strong> near Port Said, Egypt. No injuries or flooding reported. Investigation opened.</p>`,
+    tags: ["Collision","US Navy","Aircraft Carrier","Egypt"],
+    link: "https://www.shipuniverse.com/15-major-shipping-incidents-in-h1-2025/",
+    coords: [32.3, 31.26],
+    location: "Port Said, Egypt"
+  }],
+
+  "2025-02-15": [{
+    type: "accident",
+    title: "MSC Baltic III — Grounding on Newfoundland Coast",
+    source: "ShipUniverse / gCaptain",
+    sourceMeta: "Feb 15, 2025",
+    content: `<p>Liberian-flagged containership <strong>MSC Baltic III</strong> lost power in severe weather and grounded on rocky coastline near Wild Cove, Newfoundland. All crew rescued by helicopter. Ongoing salvage constraints throughout 2025.</p>`,
+    tags: ["Grounding","Containership","Canada","Storm"],
+    link: "https://gcaptain.com",
+    coords: [-57.8, 49.2],
+    location: "Newfoundland, Canada"
+  }],
+
+  "2025-02-17": [{
+    type: "accident",
+    title: "Saytuun-2 — Hijacked off Puntland (Somali Piracy)",
+    source: "ShipUniverse",
+    sourceMeta: "Feb 17-22, 2025",
+    content: `<p>Yemeni-flagged dhow <strong>Saytuun-2</strong> was hijacked by pirates off Garmaal near Eyl, Puntland (Somalia). Vessel held for days before pirates departed. Crew reported safe.</p>`,
+    tags: ["Piracy","Hijack","Somalia","Security"],
+    link: "https://www.shipuniverse.com/15-major-shipping-incidents-in-h1-2025/",
+    coords: [50.1, 7.98],
+    location: "Off Eyl, Puntland, Somalia"
+  }],
+
+  "2025-03-01": [{
+    type: "accident",
+    title: "MSC Levante F & Super Sarkas — Missile Strike at Odesa Port",
+    source: "ShipUniverse",
+    sourceMeta: "Mar 1, 2025",
+    content: `<p>Ballistic/missile strike on Odesa Sea Port damaged two merchant vessels: Panama-flagged <strong>MSC Levante F</strong> and Sierra Leone-flagged <strong>Super Sarkas</strong>. Port workers injured.</p>`,
+    tags: ["Missile Strike","Ukraine","Port Attack","War Risk"],
+    link: "https://www.shipuniverse.com/15-major-shipping-incidents-in-h1-2025/",
+    coords: [30.75, 46.49],
+    location: "Odesa, Ukraine"
+  }],
+
+  "2025-03-10": [{
+    type: "accident",
+    title: "Solong / Stena Immaculate — Collision & Fire in North Sea",
+    source: "ShipUniverse",
+    sourceMeta: "Mar 10, 2025",
+    content: `<p>Feeder containership <strong>Solong</strong> struck anchored oil tanker <strong>Stena Immaculate</strong> off East Yorkshire, UK. Explosions and fire followed. 36 rescued, 1 crew member fatality. Jet fuel release reported.</p>`,
+    tags: ["Collision","Fire","Tanker","North Sea","Fatality"],
+    link: "https://www.shipuniverse.com/15-major-shipping-incidents-in-h1-2025/",
+    coords: [-0.1, 53.6],
+    location: "North Sea, off Hull, UK"
+  }],
+
+  "2025-03-11": [{
+    type: "accident",
+    title: "MJ Pinar — Struck by Missile While Loading Grain at Odesa",
+    source: "ShipUniverse",
+    sourceMeta: "Mar 11, 2025",
+    content: `<p>Barbados-flagged bulk carrier <strong>MJ Pinar</strong> was hit by a missile strike while loading wheat at Odesa Sea Port for Algeria. 4 killed, additional injuries reported.</p>`,
+    tags: ["Missile Strike","Ukraine","Fatality","Bulk Carrier"],
+    link: "https://www.shipuniverse.com/15-major-shipping-incidents-in-h1-2025/",
+    coords: [30.75, 46.49],
+    location: "Odesa, Ukraine"
+  }],
+
+  "2025-03-27": [{
+    type: "accident",
+    title: "Sindbad Tourist Submarine Sinks off Hurghada, Egypt",
+    source: "ShipUniverse",
+    sourceMeta: "Mar 27, 2025",
+    content: `<p>Tourist submarine <strong>Sindbad</strong> sank during an excursion off Hurghada, Egypt with ~50 persons onboard. 6 deaths, ~14 injured. Operator excursions suspended.</p>`,
+    tags: ["Sinking","Tourist","Egypt","Fatality"],
+    link: "https://www.shipuniverse.com/15-major-shipping-incidents-in-h1-2025/",
+    coords: [33.86, 27.26],
+    location: "Hurghada, Egypt"
+  }],
+
+  "2025-04-26": [{
+    type: "accident",
+    title: "Shahid Rajaee Port Explosion — Bandar Abbas, Iran",
+    source: "ShipUniverse",
+    sourceMeta: "Apr 26, 2025",
+    content: `<p>A large explosion occurred at Shahid Rajaee port complex in Bandar Abbas, Iran (Strait of Hormuz region). Multiple fatalities and many injuries reported. Port operations disrupted.</p>`,
+    tags: ["Explosion","Port","Iran","Strait of Hormuz"],
+    link: "https://www.shipuniverse.com/15-major-shipping-incidents-in-h1-2025/",
+    coords: [56.27, 27.12],
+    location: "Bandar Abbas, Iran"
+  }],
+
+  "2025-05-17": [{
+    type: "accident",
+    title: "ARM Cuauhtémoc — Tall Ship Strikes Brooklyn Bridge, NYC",
+    source: "ShipUniverse",
+    sourceMeta: "May 17, 2025",
+    content: `<p>Mexican Navy sail training ship <strong>ARM Cuauhtémoc</strong> struck the Brooklyn Bridge during East River transit. Masts damaged, fatalities and multiple injuries reported.</p>`,
+    tags: ["Allision","Bridge Strike","Training Ship","New York"],
+    link: "https://www.shipuniverse.com/15-major-shipping-incidents-in-h1-2025/",
+    coords: [-73.997, 40.706],
+    location: "Brooklyn Bridge, New York City"
+  }],
+
+  "2025-05-25": [{
+    type: "accident",
+    title: "MSC Elsa 3 — Capsize & Oil Spill off Kerala, India",
+    source: "ShipUniverse",
+    sourceMeta: "May 25, 2025",
+    content: `<p>Liberian-flagged containership <strong>MSC Elsa 3</strong> capsized and sank off Kerala coast, India. Oil spill response initiated. Container debris and shoreline contamination risk reported.</p>`,
+    tags: ["Capsize","Sinking","Oil Spill","India","Containership"],
+    link: "https://www.shipuniverse.com/15-major-shipping-incidents-in-h1-2025/",
+    coords: [76.2, 9.9],
+    location: "Off Kerala, India"
+  }],
+
+  "2025-06-03": [{
+    type: "accident",
+    title: "Morning Midas — Car Carrier Fire (3,000+ Vehicles Lost)",
+    source: "ShipUniverse",
+    sourceMeta: "Jun 3, 2025",
+    content: `<p>Liberian-flagged vehicle carrier <strong>Morning Midas</strong> caught fire in the North Pacific while transporting over 3,000 vehicles including ~800 EVs. Crew evacuated safely. Vessel later sank on Jun 23.</p>`,
+    tags: ["Fire","Vehicle Carrier","EV","Sinking","Pacific"],
+    link: "https://www.shipuniverse.com/15-major-shipping-incidents-in-h1-2025/",
+    coords: [-160, 30],
+    location: "North Pacific Ocean"
+  }],
+
+  "2025-06-09": [{
+    type: "accident",
+    title: "Wan Hai 503 — Explosions & Fire off Kerala, India",
+    source: "ShipUniverse",
+    sourceMeta: "Jun 9, 2025",
+    content: `<p>Singapore-flagged containership <strong>Wan Hai 503</strong> suffered multiple explosions and sustained fire off Kerala coast. Injuries reported, crew evacuated. Hazardous cargo concerns.</p>`,
+    tags: ["Explosion","Fire","Containership","India","Hazmat"],
+    link: "https://www.shipuniverse.com/15-major-shipping-incidents-in-h1-2025/",
+    coords: [75.5, 10.5],
+    location: "Arabian Sea, off Kerala, India"
+  }],
+
+  "2025-06-17": [{
+    type: "accident",
+    title: "Adalynn / Front Eagle — Tanker Collision & Fire (Sea of Oman)",
+    source: "ShipUniverse",
+    sourceMeta: "Jun 17, 2025",
+    content: `<p>Two oil tankers <strong>Adalynn</strong> and <strong>Front Eagle</strong> collided near the Strait of Hormuz, resulting in fire. No injuries reported. Firefighting and separation operations conducted.</p>`,
+    tags: ["Collision","Fire","Tanker","Strait of Hormuz"],
+    link: "https://www.shipuniverse.com/15-major-shipping-incidents-in-h1-2025/",
+    coords: [56.5, 25.3],
+    location: "Sea of Oman"
+  }],
+
+  "2025-07-02": [{
+    type: "accident",
+    title: "KMP Tunu Pratama Jaya — Ferry Sinks in Bali Strait (18+ Dead)",
+    source: "ShipUniverse",
+    sourceMeta: "Jul 2, 2025",
+    content: `<p>Indonesian ro-ro passenger ferry <strong>KMP Tunu Pratama Jaya</strong> sank ~30 minutes after departure in Bali Strait. At least 18 confirmed dead, 16-17 missing. 65 persons were onboard.</p>`,
+    tags: ["Sinking","Ferry","Indonesia","Fatality"],
+    link: "https://www.shipuniverse.com/15-major-shipping-incidents-in-h1-2025/",
+    coords: [114.4, -8.15],
+    location: "Bali Strait, Indonesia"
+  }],
+
+  "2025-07-06": [{
+    type: "accident",
+    title: "Magic Seas — Attacked & Sunk in Red Sea (Houthi Strike)",
+    source: "ShipUniverse",
+    sourceMeta: "Jul 6-7, 2025",
+    content: `<p>Liberian-flagged bulk carrier <strong>Magic Seas</strong> was attacked by multiple small craft, drones, and USVs in the southern Red Sea. Crew abandoned ship and was rescued. Vessel later reported sunk — the first commercial ship sunk in the corridor after a period of reduced attacks.</p>`,
+    tags: ["Attack","Houthi","Red Sea","Sinking","Security"],
+    link: "https://www.shipuniverse.com/15-major-shipping-incidents-in-h1-2025/",
+    coords: [42.8, 14.5],
+    location: "Southern Red Sea, off Yemen"
+  }],
+
+  "2025-07-07": [{
+    type: "accident",
+    title: "Eternity C — Attacked & Sunk in Red Sea (3-4 Dead)",
+    source: "ShipUniverse",
+    sourceMeta: "Jul 7-9, 2025",
+    content: `<p>Liberian-flagged bulk carrier <strong>Eternity C</strong> was hit in sustained assaults involving small craft and explosive drones in the Red Sea. 3-4 crew killed, others missing. Vessel later sank.</p>`,
+    tags: ["Attack","Houthi","Red Sea","Sinking","Fatality"],
+    link: "https://www.shipuniverse.com/15-major-shipping-incidents-in-h1-2025/",
+    coords: [42.6, 14.3],
+    location: "Southern Red Sea, off Yemen"
+  }],
+
+  "2025-07-19": [{
+    type: "accident",
+    title: "Wonder Sea — Tourist Boat Capsize in Ha Long Bay (37+ Dead)",
+    source: "ShipUniverse",
+    sourceMeta: "Jul 19, 2025",
+    content: `<p>Tourist vessel <strong>Wonder Sea</strong> capsized during a sudden thunderstorm in Ha Long Bay, Vietnam. At least 37-39 deaths reported, ~10-11 rescued. Large-scale rescue operation launched.</p>`,
+    tags: ["Capsize","Tourist","Vietnam","Fatality","Storm"],
+    link: "https://www.shipuniverse.com/15-major-shipping-incidents-in-h1-2025/",
+    coords: [107.08, 20.95],
+    location: "Ha Long Bay, Vietnam"
+  }],
+
+  "2025-07-20": [{
+    type: "accident",
+    title: "KM Barcelona V-A — Passenger Ferry Fire off North Sulawesi",
+    source: "ShipUniverse",
+    sourceMeta: "Jul 20, 2025",
+    content: `<p>Indonesian passenger ferry <strong>KM Barcelona V-A</strong> caught fire in the Celebes Sea off North Sulawesi. At least 3 deaths, ~575 rescued. Overcrowding concerns raised.</p>`,
+    tags: ["Fire","Ferry","Indonesia","Fatality"],
+    link: "https://www.shipuniverse.com/15-major-shipping-incidents-in-h1-2025/",
+    coords: [125.2, 3.0],
+    location: "Celebes Sea, off North Sulawesi"
+  }],
+
+  "2025-08-14": [{
+    type: "accident",
+    title: "Marie Maersk — Container Fire on Ultra-Large Vessel off Liberia",
+    source: "ShipUniverse",
+    sourceMeta: "Aug 14, 2025",
+    content: `<p>Danish-flagged ULCV <strong>Marie Maersk</strong> (Triple-E class, ~18,000 TEU) suffered a container fire on deck off Liberia, West Africa, en route from Rotterdam to Tanjung Pelepas. No injuries; fire brought under control.</p>`,
+    tags: ["Fire","ULCV","Maersk","Containership"],
+    link: "https://www.shipuniverse.com/15-major-shipping-incidents-in-h1-2025/",
+    coords: [-10, 6],
+    location: "Atlantic Ocean, off Liberia"
+  }],
+
+  "2025-08-18": [{
+    type: "accident",
+    title: "CMA CGM J. Madison — Hold Fire in Straits of Malacca",
+    source: "ShipUniverse",
+    sourceMeta: "Aug 18, 2025",
+    content: `<p>Malta-flagged containership <strong>CMA CGM J. Madison</strong> (~14,414 TEU) reported a cargo hold fire in the Straits of Malacca en route from Singapore to UAE. Firefighting and salvage support deployed.</p>`,
+    tags: ["Fire","Containership","CMA CGM","Malacca Strait"],
+    link: "https://www.shipuniverse.com/15-major-shipping-incidents-in-h1-2025/",
+    coords: [99.4, 4.3],
+    location: "Straits of Malacca"
+  }]
+});
+
 addEvents({
   "2025-09-09": [{
     type: "accident",
@@ -56,6 +324,80 @@ addEvents({
     link: "https://www.spacex.com/starlink/",
     coords: [129.365, 35.538],
     location: "Ulsan Shipyard"
+  }]
+});
+
+addEvents({
+  "2025-11-07": [{
+    type: "accident",
+    title: "Kyparissia — Container Ship Fire & Explosion at Port Tanjung Pelepas",
+    source: "ShipUniverse",
+    sourceMeta: "Nov 7, 2025",
+    content: `<p>Malta-flagged containership <strong>Kyparissia</strong> (~4,957 TEU) suffered fire and explosion in cargo hold during unloading at Port of Tanjung Pelepas, Malaysia. 3 dead, 3 seriously injured.</p>`,
+    tags: ["Fire","Explosion","Containership","Malaysia","Fatality"],
+    link: "https://www.shipuniverse.com/15-major-shipping-incidents-in-h1-2025/",
+    coords: [103.55, 1.37],
+    location: "Port of Tanjung Pelepas, Malaysia"
+  }],
+
+  "2025-11-23": [{
+    type: "accident",
+    title: "ONE Henry Hudson — Container Ship Fire at Port of Los Angeles",
+    source: "ShipUniverse / Seatrade Maritime",
+    sourceMeta: "Nov 23, 2025",
+    content: `<p>Panama-flagged containership <strong>ONE Henry Hudson</strong> suffered a below-deck fire with explosion at Berth 218, Port of Los Angeles. Hazmat container involvement. Ship towed to anchorage for firefighting. No crew injuries.</p>`,
+    tags: ["Fire","Explosion","Containership","Los Angeles","Hazmat"],
+    link: "https://www.seatrade-maritime.com/maritime-safety/accidents",
+    coords: [-118.27, 33.73],
+    location: "Port of Los Angeles, USA"
+  }],
+
+  "2025-11-27": [{
+    type: "accident",
+    title: "MT Mersin — Multiple Explosions While Anchored off Dakar",
+    source: "ShipUniverse",
+    sourceMeta: "Nov 27, 2025",
+    content: `<p>Panama-flagged product tanker <strong>MT Mersin</strong> was hit by four external explosions while at anchor off Dakar, Senegal. Seawater ingress into engine room. No injuries. Cause unclear.</p>`,
+    tags: ["Explosion","Tanker","Senegal","Security"],
+    link: "https://www.shipuniverse.com/15-major-shipping-incidents-in-h1-2025/",
+    coords: [-17.45, 14.69],
+    location: "Off Dakar, Senegal"
+  }],
+
+  "2025-11-28": [{
+    type: "accident",
+    title: "Kairos — Explosion & Fire on Tanker in Black Sea",
+    source: "ShipUniverse",
+    sourceMeta: "Nov 28, 2025",
+    content: `<p>Gambia-flagged crude oil tanker <strong>Kairos</strong> suffered an explosion and fire in the Black Sea, off Turkey near Bosphorus. 25 crew evacuated, no fatalities. Extended firefighting/towing operations followed.</p>`,
+    tags: ["Explosion","Fire","Tanker","Black Sea","Turkey"],
+    link: "https://www.shipuniverse.com/15-major-shipping-incidents-in-h1-2025/",
+    coords: [29.5, 41.2],
+    location: "Black Sea, off Turkey"
+  }],
+
+  "2025-12-28": [{
+    type: "accident",
+    title: "Coral Adventurer — Expedition Cruise Grounding in Papua New Guinea",
+    source: "ShipUniverse",
+    sourceMeta: "Dec 28, 2025",
+    content: `<p>Australian-flagged expedition cruise vessel <strong>Coral Adventurer</strong> ran aground on a reef off Morobe Province, PNG. ~80 passengers and ~43 crew reported safe. Refloat and hull inspection efforts followed.</p>`,
+    tags: ["Grounding","Cruise","Papua New Guinea","Reef"],
+    link: "https://www.shipuniverse.com/15-major-shipping-incidents-in-h1-2025/",
+    coords: [147.0, -6.7],
+    location: "Solomon Sea, Papua New Guinea"
+  }],
+
+  "2025-12-31": [{
+    type: "accident",
+    title: "Fitburg — Undersea Telecom Cable Damaged in Gulf of Finland",
+    source: "ShipUniverse",
+    sourceMeta: "Dec 31, 2025",
+    content: `<p>Cargo vessel <strong>Fitburg</strong> (St. Vincent & Grenadines flag) allegedly dragged anchor and damaged an undersea telecom cable between Finland and Estonia. Vessel seized, criminal investigation opened.</p>`,
+    tags: ["Cable Damage","Infrastructure","Baltic Sea","Investigation"],
+    link: "https://www.shipuniverse.com/15-major-shipping-incidents-in-h1-2025/",
+    coords: [24.5, 59.5],
+    location: "Gulf of Finland, Baltic Sea"
   }]
 });
 
@@ -417,47 +759,6 @@ addEvents({
       link: "https://www.offshore-energy.biz/saipem-to-buy-seventh-gen-deep-value-driller-drillship-for-272-5-million/",
       coords: [10,45],
       location: "North Sea / Europe"
-    }
-  ]
-});
-
-// ── Auto-Collected (Bot) ──
-
-// Auto-collected: 2026-02-18
-addEvents({
-  "2026-02-18": [
-    {
-      type: "accident",
-      title: "Engine Room Fire Claims Two Lives Aboard Bulk Carrier Off Chinese Coast",
-      source: "gCaptain",
-      sourceMeta: "gcaptain.com · Feb 18, 2026",
-      content: `<p>A fire in the engine room of the Singapore-registered bulk carrier MANDY resulted in the deaths of two crew members and left a third hospitalized in an incident off the coast of China.</p>`,
-      tags: ["Engine Room Fire","Bulk Carrier","Fatalities","China"],
-      link: "https://gcaptain.com/engine-room-fire-claims-two-lives-aboard-bulk-carrier-off-chinese-coast/",
-      coords: [114.2,22.3],
-      location: "Off Chinese Coast"
-    },
-    {
-      type: "news",
-      title: "Hormuz Pressure Play: Iran's 'Temporary' Closure Sends a Strategic Signal to Global Shipping",
-      source: "gCaptain",
-      sourceMeta: "gcaptain.com · Feb 18, 2026",
-      content: `<p>Iran temporarily restricted parts of the Strait of Hormuz during live-fire military exercises, demonstrating how geopolitical tensions can impact global shipping markets at this critical maritime chokepoint.</p>`,
-      tags: ["Strait of Hormuz","Iran","Geopolitics","Military exercises","Shipping disruption"],
-      link: "https://gcaptain.com/hormuz-pressure-play-irans-temporary-closure-sends-a-strategic-signal-to-global-shipping/",
-      coords: [56.5,26.5],
-      location: "Strait of Hormuz"
-    },
-    {
-      type: "news",
-      title: "United Maritime cashes out of offshore vessel JV",
-      source: "Splash247",
-      sourceMeta: "splash247.com · Feb 18, 2026",
-      content: `<p>Nasdaq-listed Greek bulker owner United Maritime has agreed to sell its stake in a Norwegian joint venture developing an energy construction vessel (ECV), locking in a profit of approximately €1.7m from the €13m ($15.4m) sale.</p>`,
-      tags: ["Joint Venture","Offshore Vessel","Energy Construction","Greek Shipping","Capital Restructuring"],
-      link: "https://splash247.com/united-maritime-cashes-out-of-offshore-vessel-jv/",
-      coords: [10.7522,59.9139],
-      location: "Norway"
     }
   ]
 });
