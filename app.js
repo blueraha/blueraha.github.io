@@ -1,11 +1,12 @@
-// app.js - Maritime Hub v3.1.0
+// app.js - Maritime Hub v3.5.0
 // Windy 제거 → OWM 1.0 무료 타일 + RainViewer 레이더
 // 주의: MONTHS, events 변수는 data.js에 이미 있습니다. 절대 재선언하지 마세요.
 
 let map, markers = [];
-let currentYear = 2026;
-let currentMonth = 0; // 0 = JAN
+let currentYear = new Date().getFullYear();
+let currentMonth = new Date().getMonth(); // 오늘 날짜의 달로 초기화
 let currentStyle = 'light';
+let activeTypeFilters = new Set(['accident', 'news', 'event']); // 마커 필터 상태
 
 // ── Weather Layer State ──
 const OWM_APP_ID = 'c1c9d245aa905fef239db16721c930a7'; // ← OWM 무료 API 키를 여기에 넣으세요 (openweathermap.org 가입 후 발급)
@@ -47,9 +48,20 @@ function init() {
   });
 
   map.on('load', () => {
+    // ── Atmosphere / Fog ──
+    map.setFog({
+      color: 'rgb(186, 210, 235)',        // 지평선 색
+      'high-color': 'rgb(36, 92, 223)',    // 우주 방향 색
+      'horizon-blend': 0.02,               // 지평선 블렌드
+      'space-color': 'rgb(11, 11, 25)',    // 우주 색
+      'star-intensity': 0.6                // 별 강도
+    });
+
     if (typeof MONTHS !== 'undefined' && typeof events !== 'undefined') {
       renderMonth();
       renderMarkers();
+      // 첫 방문 시 오늘의 뉴스 헤드라인 표시
+      showTodayHeadlines();
     } else {
       console.error("data.js not loaded properly.");
     }
@@ -89,6 +101,14 @@ function init() {
 
   // 스타일 변경 후 레이어 재등록
   map.on('style.load', () => {
+    // Atmosphere 복원
+    map.setFog({
+      color: 'rgb(186, 210, 235)',
+      'high-color': 'rgb(36, 92, 223)',
+      'horizon-blend': 0.02,
+      'space-color': 'rgb(11, 11, 25)',
+      'star-intensity': 0.6
+    });
     addWeatherSources();
     // 활성화된 레이어 다시 표시
     activeWeatherLayers.forEach(key => {
@@ -439,6 +459,12 @@ function renderMonth() {
     }
     strip.appendChild(item);
   }
+
+  // 오늘 날짜가 있으면 해당 위치로 스크롤 (모바일)
+  var todayEl = strip.querySelector('.today');
+  if (todayEl) {
+    todayEl.scrollIntoView({ inline: 'center', block: 'nearest', behavior: 'smooth' });
+  }
 }
 
 function renderMarkers() {
@@ -450,6 +476,7 @@ function renderMarkers() {
   Object.entries(events).forEach(function([date, list]) {
     list.forEach(function(e) {
       if (!e.coords) return;
+      if (!activeTypeFilters.has(e.type)) return; // 필터 적용
 
       var markerEl = document.createElement('div');
       markerEl.style.width = '10px';
@@ -471,6 +498,24 @@ function renderMarkers() {
       markers.push(marker);
     });
   });
+}
+
+function toggleTypeFilter(type) {
+  if (activeTypeFilters.has(type)) {
+    activeTypeFilters.delete(type);
+  } else {
+    activeTypeFilters.add(type);
+  }
+  // 버튼 상태 업데이트
+  var btn = document.getElementById('filter-' + type);
+  if (btn) {
+    if (activeTypeFilters.has(type)) {
+      btn.classList.add('active');
+    } else {
+      btn.classList.remove('active');
+    }
+  }
+  renderMarkers();
 }
 
 function openSidePanel(date, list) {
@@ -604,6 +649,97 @@ function changeMonth(dir) {
   if (currentMonth > 11) { currentMonth = 0; currentYear++; }
   else if (currentMonth < 0) { currentMonth = 11; currentYear--; }
   renderMonth();
+}
+
+// ── Today's Headlines Overlay ──
+
+function getTodayDateKey() {
+  var now = new Date();
+  return now.getFullYear() + '-' + String(now.getMonth()+1).padStart(2,'0') + '-' + String(now.getDate()).padStart(2,'0');
+}
+
+function getLatestNewsForHeadline() {
+  // 오늘 날짜부터 역순으로 최신 뉴스 찾기
+  if (typeof events === 'undefined') return [];
+  
+  var allDates = Object.keys(events).sort().reverse();
+  var collected = [];
+  
+  for (var i = 0; i < allDates.length && collected.length < 5; i++) {
+    var dateEvents = events[allDates[i]];
+    for (var j = 0; j < dateEvents.length && collected.length < 5; j++) {
+      collected.push({ date: allDates[i], event: dateEvents[j] });
+    }
+  }
+  return collected;
+}
+
+function showTodayHeadlines() {
+  var items = getLatestNewsForHeadline();
+  if (items.length === 0) return;
+
+  var overlay = document.getElementById('headlines-overlay');
+  if (!overlay) return;
+
+  var list = document.getElementById('headlines-list');
+  
+  // 날짜 표시
+  var latestDate = items[0].date;
+  var dateObj = new Date(latestDate + 'T00:00:00');
+  var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  var days = ['SUN','MON','TUE','WED','THU','FRI','SAT'];
+  document.getElementById('headlines-date-day').textContent = days[dateObj.getDay()];
+  document.getElementById('headlines-date-full').textContent = months[dateObj.getMonth()] + ' ' + dateObj.getDate() + ', ' + dateObj.getFullYear();
+
+  // 뉴스 수 카운트
+  var accCount = 0, newsCount = 0, evtCount = 0;
+  items.forEach(function(it) {
+    if (it.event.type === 'accident') accCount++;
+    else if (it.event.type === 'news') newsCount++;
+    else if (it.event.type === 'event') evtCount++;
+  });
+  document.getElementById('headlines-stats').innerHTML = 
+    (accCount ? '<span class="hl-stat"><span class="hl-stat-dot" style="background:var(--accident)"></span>' + accCount + ' Accident' + (accCount > 1 ? 's' : '') + '</span>' : '') +
+    (newsCount ? '<span class="hl-stat"><span class="hl-stat-dot" style="background:var(--news)"></span>' + newsCount + ' News</span>' : '') +
+    (evtCount ? '<span class="hl-stat"><span class="hl-stat-dot" style="background:var(--event)"></span>' + evtCount + ' Event' + (evtCount > 1 ? 's' : '') + '</span>' : '');
+
+  list.innerHTML = items.map(function(it, idx) {
+    var e = it.event;
+    var typeColors = { accident: 'var(--accident)', news: 'var(--news)', event: 'var(--event)' };
+    return '<div class="hl-item" style="animation-delay:' + (0.3 + idx * 0.1) + 's" onclick="dismissHeadlines(); setTimeout(function(){ flyToAndShowDetail(' + JSON.stringify(e).replace(/"/g, '&quot;') + '); }, 400);">' +
+      '<div class="hl-item-indicator" style="background:' + (typeColors[e.type] || '#999') + '"></div>' +
+      '<div class="hl-item-body">' +
+        '<div class="hl-item-meta">' +
+          '<span class="hl-item-type" style="color:' + (typeColors[e.type] || '#999') + '">' + e.type.toUpperCase() + '</span>' +
+          (e.location ? '<span class="hl-item-loc">📍 ' + e.location + '</span>' : '') +
+        '</div>' +
+        '<div class="hl-item-title">' + e.title + '</div>' +
+      '</div>' +
+      '<svg class="hl-item-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>' +
+    '</div>';
+  }).join('');
+
+  // 오버레이 표시
+  requestAnimationFrame(function() {
+    overlay.classList.add('show');
+  });
+
+  // 12초 후 자동 닫기
+  setTimeout(function() {
+    if (overlay.classList.contains('show')) {
+      dismissHeadlines();
+    }
+  }, 12000);
+}
+
+function dismissHeadlines() {
+  var overlay = document.getElementById('headlines-overlay');
+  if (overlay) {
+    overlay.classList.add('dismiss');
+    setTimeout(function() {
+      overlay.classList.remove('show', 'dismiss');
+    }, 600);
+  }
 }
 
 init();
