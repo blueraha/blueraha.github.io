@@ -48,3 +48,17 @@ jobs:
           # 변경사항 있을 때만 커밋
           git diff --staged --quiet || git commit -m "🚢 Auto-update: $(date +'%Y-%m-%d') news collection"
           git push
+- name: Notify Slack
+  if: always()
+  run: |
+    if [ "${{ job.status }}" = "success" ]; then
+      EMOJI="✅"
+      STATUS="성공"
+    else
+      EMOJI="❌"
+      STATUS="실패"
+    fi
+    curl -X POST -H 'Content-type: application/json' \
+      --data "{\"text\":\"${EMOJI} Maritime News Bot ${STATUS}\n📅 $(date -u +%Y-%m-%d) 뉴스 수집 완료\n🔗 https://autonomousship.org\"}" \
+      ${{ secrets.SLACK_WEBHOOK_URL }}
+
