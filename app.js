@@ -659,10 +659,11 @@ function getTodayDateKey() {
 }
 
 function getLatestNewsForHeadline() {
-  // 오늘 날짜부터 역순으로 최신 뉴스 찾기
+  // 오늘 이전 날짜만 역순으로 최신 뉴스 찾기
   if (typeof events === 'undefined') return [];
   
-  var allDates = Object.keys(events).sort().reverse();
+  var todayKey = getTodayDateKey();
+  var allDates = Object.keys(events).filter(function(d) { return d <= todayKey; }).sort().reverse();
   var collected = [];
   
   for (var i = 0; i < allDates.length && collected.length < 5; i++) {
