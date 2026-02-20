@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Maritime Hub</title>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
 <link href="https://api.mapbox.com/mapbox-gl-js/v3.3.0/mapbox-gl.css" rel="stylesheet">
 <script src="https://api.mapbox.com/mapbox-gl-js/v3.3.0/mapbox-gl.js"></script>
@@ -25,26 +25,15 @@
 
   /* TOP BAR */
   .top-bar {
-    position: fixed; top: 0; left: 0; right: 0; height: 44px;
-    background: linear-gradient(135deg, rgba(255,255,255,0.97) 0%, rgba(240,245,255,0.95) 100%);
-    backdrop-filter: blur(20px);
-    border-bottom: none;
-    display: flex; align-items: center; padding: 0 20px; z-index: 1100;
-    transition: all 0.5s ease;
+    position: fixed; top: 0; left: 0; right: 0; height: 40px;
+    background: var(--panel-bg); backdrop-filter: blur(10px);
+    border-bottom: 2px solid var(--brand-blue);
+    display: flex; align-items: center; padding: 0 16px; z-index: 1100;
   }
-  .top-bar::after {
-    content: '';
-    position: absolute;
-    bottom: 0; left: 0; right: 0;
-    height: 1px;
-    background: linear-gradient(90deg, transparent, var(--brand-blue), transparent);
-    opacity: 0.25;
-    transition: all 0.5s ease;
-  }
-  .logo-area { display: flex; align-items: center; gap: 10px; }
-  .compass-icon { width: 22px; height: 22px; stroke: var(--brand-blue); fill: none; transition: all 0.4s; filter: drop-shadow(0 0 4px rgba(9,132,227,0.2)); }
-  .logo-text { font-family: 'Outfit', sans-serif; font-size: 15px; font-weight: 300; letter-spacing: 6px; color: var(--text-primary); text-transform: uppercase; transition: all 0.4s; }
-  .logo-sub { display: none; }
+  .logo-area { display: flex; align-items: center; gap: 8px; }
+  .compass-icon { width: 18px; height: 18px; stroke: var(--brand-blue); fill: none; }
+  .logo-text { font-family: 'Inter', sans-serif; font-size: 12px; font-weight: 700; letter-spacing: 0.5px; color: var(--text-primary); }
+  .logo-sub { font-size: 9px; color: var(--text-secondary); margin-left: 4px; font-weight: 300; }
   
   .legend { margin-left: auto; display: flex; gap: 15px; }
   .legend-item { display: flex; align-items: center; gap: 5px; font-size: 10px; color: var(--text-secondary); }
@@ -52,7 +41,7 @@
 
   /* MAP LEGEND FILTER */
   .map-legend-filter {
-    position: fixed; top: 120px; left: 50%; transform: translateX(-50%);
+    position: fixed; top: 108px; left: 50%; transform: translateX(-50%);
     z-index: 999; display: flex; gap: 6px;
   }
   .legend-filter-btn {
@@ -61,272 +50,13 @@
     background: rgba(255,255,255,0.9); backdrop-filter: blur(8px);
     border: 1px solid var(--border-color);
     font-family: 'Inter', sans-serif; font-size: 10px; font-weight: 500;
-    color: var(--text-secondary); cursor: pointer; transition: all 0.3s;
+    color: var(--text-secondary); cursor: pointer; transition: all 0.2s;
     box-shadow: 0 1px 4px rgba(0,0,0,0.1);
   }
   .legend-filter-btn:hover { background: rgba(255,255,255,1); }
   .legend-filter-btn.active { color: var(--text-primary); border-color: rgba(0,0,0,0.2); }
   .legend-filter-btn:not(.active) { opacity: 0.45; }
   .legend-dot-btn { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
-
-  /* ── THEME TOGGLE ── */
-  .theme-controls {
-    position: fixed; top: 120px; right: 52px; z-index: 998;
-    display: flex; flex-direction: column; gap: 4px;
-  }
-  .theme-btn {
-    width: 28px; height: 28px;
-    border-radius: 50%;
-    border: 2px solid rgba(255,255,255,0.3);
-    cursor: pointer;
-    transition: all 0.3s ease;
-    position: relative;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
-  }
-  .theme-btn:hover {
-    transform: scale(1.15);
-    box-shadow: 0 4px 16px rgba(0,0,0,0.25);
-  }
-  .theme-btn.active {
-    border-color: #fff;
-    box-shadow: 0 0 12px rgba(255,255,255,0.3), 0 4px 16px rgba(0,0,0,0.25);
-    transform: scale(1.1);
-  }
-  .theme-btn-light {
-    background: linear-gradient(135deg, #f0f4ff 0%, #dbe4f8 50%, #c8d6f0 100%);
-  }
-  .theme-btn-dark {
-    background: linear-gradient(135deg, #121212 0%, #2a2a2a 50%, #1a1a1a 100%);
-  }
-  .theme-btn-glass {
-    background: linear-gradient(135deg, rgba(15,23,42,0.7) 0%, rgba(96,165,250,0.3) 50%, rgba(15,23,42,0.7) 100%);
-    backdrop-filter: blur(4px);
-  }
-  .theme-label {
-    position: absolute;
-    right: 36px; top: 50%; transform: translateY(-50%);
-    font-family: 'Outfit', sans-serif;
-    font-size: 9px; letter-spacing: 1px; text-transform: uppercase;
-    color: rgba(255,255,255,0.7);
-    white-space: nowrap;
-    opacity: 0;
-    transition: opacity 0.2s;
-    pointer-events: none;
-    background: rgba(0,0,0,0.6);
-    padding: 3px 8px; border-radius: 4px;
-  }
-  .theme-btn:hover .theme-label { opacity: 1; }
-
-  /* ── THEME: DARK ── */
-  body.theme-dark {
-    --brand-blue: #a0a0a0;
-    --accident: #4a9eff;
-    --news: #ff7b54;
-    --event: #00d2a0;
-    --text-primary: rgba(255,255,255,0.85);
-    --text-secondary: rgba(255,255,255,0.4);
-    --border-color: rgba(255,255,255,0.06);
-    --panel-bg: rgba(18, 18, 18, 0.95);
-  }
-  body.theme-dark .top-bar {
-    background: rgba(18, 18, 18, 0.92);
-    backdrop-filter: blur(20px);
-  }
-  body.theme-dark .top-bar::after {
-    background: linear-gradient(90deg, transparent, rgba(160,160,160,0.3), transparent);
-    opacity: 0.3;
-  }
-  body.theme-dark .compass-icon {
-    stroke: #c0c0c0;
-    filter: drop-shadow(0 0 4px rgba(200,200,200,0.15));
-  }
-  body.theme-dark .logo-text { color: rgba(255,255,255,0.85); }
-  body.theme-dark .calendar-bar {
-    background: rgba(24, 24, 24, 0.88);
-    backdrop-filter: blur(20px);
-    border-bottom-color: rgba(255,255,255,0.05);
-  }
-  body.theme-dark .date-controls {
-    background: rgba(255,255,255,0.04);
-    border-color: rgba(255,255,255,0.06);
-  }
-  body.theme-dark .year-display { color: rgba(255,255,255,0.6); }
-  body.theme-dark .month-btn { color: rgba(255,255,255,0.25); }
-  body.theme-dark .month-btn:hover { color: rgba(255,255,255,0.6); }
-  body.theme-dark .month-name { color: rgba(255,255,255,0.7); }
-  body.theme-dark .day-item {
-    background: rgba(255,255,255,0.02);
-    border-color: rgba(255,255,255,0.04);
-    color: rgba(255,255,255,0.4);
-  }
-  body.theme-dark .day-item:hover {
-    background: rgba(255,255,255,0.06);
-    border-color: rgba(255,255,255,0.1);
-    color: rgba(255,255,255,0.8);
-  }
-  body.theme-dark .day-item.active {
-    border-color: rgba(255,255,255,0.2);
-    background: rgba(255,255,255,0.08);
-  }
-  body.theme-dark .day-item.today {
-    background: rgba(255,255,255,0.08);
-    border-color: rgba(255,255,255,0.25);
-    outline-color: rgba(255,255,255,0.3);
-    box-shadow: 0 0 10px rgba(255,255,255,0.05);
-  }
-  body.theme-dark .day-item.today::after { color: rgba(255,255,255,0.5); }
-  body.theme-dark .day-item.saturday { background: rgba(255,255,255,0.02); }
-  body.theme-dark .day-item.sunday { background: rgba(255,255,255,0.02); }
-  body.theme-dark .day-item.saturday span { color: rgba(130,170,255,0.6); }
-  body.theme-dark .day-item.sunday span { color: rgba(255,120,120,0.6); }
-  body.theme-dark .legend-filter-btn {
-    background: rgba(255,255,255,0.04);
-    border-color: rgba(255,255,255,0.06);
-    color: rgba(255,255,255,0.45);
-  }
-  body.theme-dark .legend-filter-btn:hover {
-    background: rgba(255,255,255,0.07);
-  }
-  body.theme-dark .legend-filter-btn.active {
-    color: rgba(255,255,255,0.85);
-    border-color: rgba(255,255,255,0.15);
-  }
-  body.theme-dark .side-panel {
-    background: rgba(18,18,18,0.98);
-    border-left-color: rgba(160,160,160,0.3);
-  }
-  body.theme-dark .version-tag {
-    background: rgba(18,18,18,0.85);
-    border-color: rgba(255,255,255,0.06);
-    color: rgba(255,255,255,0.3);
-  }
-  body.theme-dark .control-btn {
-    background: rgba(28,28,28,0.8);
-    border-color: rgba(255,255,255,0.06);
-    color: rgba(255,255,255,0.4);
-  }
-  body.theme-dark .control-btn:hover {
-    background: rgba(255,255,255,0.07);
-    color: rgba(255,255,255,0.7);
-  }
-  body.theme-dark .control-btn.active {
-    background: rgba(255,255,255,0.08);
-    border-color: rgba(255,255,255,0.2);
-    color: rgba(255,255,255,0.8);
-  }
-
-  /* ── THEME: GLASS ── */
-  body.theme-glass {
-    --brand-blue: #60a5fa;
-    --accident: #3b82f6;
-    --news: #f97316;
-    --event: #10b981;
-    --text-primary: rgba(255,255,255,0.92);
-    --text-secondary: rgba(255,255,255,0.45);
-    --border-color: rgba(255,255,255,0.08);
-    --panel-bg: rgba(15, 23, 42, 0.85);
-  }
-  body.theme-glass .top-bar {
-    background: rgba(15, 23, 42, 0.75);
-    backdrop-filter: blur(30px) saturate(1.5);
-  }
-  body.theme-glass .top-bar::after {
-    background: linear-gradient(90deg, transparent, rgba(96,165,250,0.4), transparent);
-    left: 20%; right: 20%;
-  }
-  body.theme-glass .compass-icon {
-    stroke: #60a5fa;
-    filter: drop-shadow(0 0 8px rgba(96,165,250,0.4));
-    animation: compassGlow 3s ease-in-out infinite;
-  }
-  @keyframes compassGlow {
-    0%, 100% { filter: drop-shadow(0 0 6px rgba(96,165,250,0.3)); }
-    50% { filter: drop-shadow(0 0 12px rgba(96,165,250,0.5)); }
-  }
-  body.theme-glass .logo-text { font-weight: 200; }
-  body.theme-glass .calendar-bar {
-    background: rgba(15, 23, 42, 0.6);
-    backdrop-filter: blur(20px);
-    border-bottom-color: rgba(255,255,255,0.06);
-  }
-  body.theme-glass .date-controls {
-    background: rgba(255,255,255,0.03);
-    border-color: rgba(255,255,255,0.06);
-  }
-  body.theme-glass .year-display { font-weight: 200; letter-spacing: 2px; }
-  body.theme-glass .month-btn { color: rgba(255,255,255,0.25); }
-  body.theme-glass .month-btn:hover { color: rgba(255,255,255,0.6); }
-  body.theme-glass .month-name { font-weight: 400; letter-spacing: 2px; color: rgba(255,255,255,0.8); }
-  body.theme-glass .day-item {
-    background: transparent;
-    border-color: rgba(255,255,255,0.03);
-    border-radius: 8px;
-    color: rgba(255,255,255,0.35);
-    font-weight: 300;
-  }
-  body.theme-glass .day-item:hover {
-    background: rgba(96,165,250,0.06);
-    color: rgba(255,255,255,0.8);
-  }
-  body.theme-glass .day-item.active {
-    border-color: rgba(96,165,250,0.3);
-    background: rgba(96,165,250,0.1);
-  }
-  body.theme-glass .day-item.today {
-    background: rgba(96,165,250,0.1);
-    border-color: rgba(96,165,250,0.3);
-    outline-color: rgba(96,165,250,0.5);
-    box-shadow: 0 0 16px rgba(96,165,250,0.1), inset 0 0 8px rgba(96,165,250,0.05);
-  }
-  body.theme-glass .day-item.today::after { color: #60a5fa; }
-  body.theme-glass .day-item.saturday { background: transparent; }
-  body.theme-glass .day-item.sunday { background: transparent; }
-  body.theme-glass .day-item.saturday span { color: rgba(96,165,250,0.6); }
-  body.theme-glass .day-item.sunday span { color: rgba(248,113,113,0.6); }
-  body.theme-glass .legend-filter-btn {
-    background: rgba(255,255,255,0.03);
-    backdrop-filter: blur(12px);
-    border-color: rgba(255,255,255,0.06);
-    color: rgba(255,255,255,0.4);
-    letter-spacing: 0.5px;
-  }
-  body.theme-glass .legend-filter-btn:hover {
-    background: rgba(255,255,255,0.06);
-    border-color: rgba(255,255,255,0.12);
-    color: rgba(255,255,255,0.7);
-  }
-  body.theme-glass .legend-filter-btn.active {
-    color: rgba(255,255,255,0.85);
-    border-color: rgba(255,255,255,0.15);
-  }
-  body.theme-glass .legend-dot-btn {
-    box-shadow: 0 0 6px currentColor;
-  }
-  body.theme-glass .side-panel {
-    background: rgba(15,23,42,0.95);
-    backdrop-filter: blur(30px);
-    border-left-color: rgba(96,165,250,0.3);
-  }
-  body.theme-glass .version-tag {
-    background: rgba(15,23,42,0.75);
-    border-color: rgba(255,255,255,0.06);
-    color: rgba(255,255,255,0.3);
-  }
-  body.theme-glass .control-btn {
-    background: rgba(15,23,42,0.7);
-    border-color: rgba(255,255,255,0.06);
-    color: rgba(255,255,255,0.4);
-    backdrop-filter: blur(8px);
-  }
-  body.theme-glass .control-btn:hover {
-    background: rgba(255,255,255,0.06);
-    color: rgba(255,255,255,0.7);
-  }
-  body.theme-glass .control-btn.active {
-    background: rgba(96,165,250,0.1);
-    border-color: rgba(96,165,250,0.3);
-    color: #60a5fa;
-  }
 
   /* TODAY HIGHLIGHT */
   .day-item.today {
@@ -348,21 +78,18 @@
 
   /* CALENDAR BAR */
   .calendar-bar {
-    position: fixed; top: 44px; left: 0; right: 0; height: 56px;
-    background: linear-gradient(180deg, rgba(245,248,255,0.95) 0%, rgba(255,255,255,0.9) 100%);
-    backdrop-filter: blur(20px);
+    position: fixed; top: 40px; left: 0; right: 0; height: 60px;
+    background: rgba(255,255,255,0.92); backdrop-filter: blur(8px);
     border-bottom: 1px solid var(--border-color);
-    z-index: 1000; padding: 0 20px; display: flex; align-items: center; gap: 16px;
-    transition: all 0.5s ease;
+    z-index: 1000; padding: 0 16px; display: flex; align-items: center; gap: 15px;
   }
-  .date-controls { display: flex; align-items: center; gap: 8px; background: rgba(0,0,0,0.03); padding: 6px 12px; border-radius: 8px; border: 1px solid var(--border-color); transition: all 0.5s ease; }
-  .year-display { font-family: 'Outfit'; font-size: 13px; color: var(--brand-blue); font-weight: 600; padding-right: 10px; border-right: 1px solid var(--border-color); letter-spacing: 1px; transition: all 0.5s ease; }
-  .month-btn { background: none; border: none; color: var(--text-primary); cursor: pointer; padding: 2px 6px; font-size: 10px; transition: all 0.3s; }
-  .month-btn:hover { opacity: 0.6; }
-  .month-name { font-family: 'Outfit'; font-size: 12px; font-weight: 500; min-width: 40px; text-align: center; color: var(--text-primary); letter-spacing: 1px; transition: all 0.5s ease; }
+  .date-controls { display: flex; align-items: center; gap: 8px; background: rgba(0,0,0,0.03); padding: 4px 8px; border-radius: 4px; border: 1px solid var(--border-color); }
+  .year-display { font-family: 'Inter'; font-size: 12px; color: var(--brand-blue); font-weight: 700; padding-right: 8px; border-right: 1px solid var(--border-color); }
+  .month-btn { background: none; border: none; color: var(--text-primary); cursor: pointer; padding: 0 4px; font-size: 10px; }
+  .month-name { font-family: 'Inter'; font-size: 11px; font-weight: 600; min-width: 40px; text-align: center; color: var(--text-primary); }
 
-  .days-strip { flex: 1; display: grid; grid-template-columns: repeat(31, 1fr); gap: 3px; height: 38px; }
-  .day-item { display: flex; flex-direction: column; align-items: center; justify-content: center; background: rgba(0,0,0,0.02); border: 1px solid var(--border-color); border-radius: 6px; cursor: pointer; font-size: 10px; color: var(--text-primary); transition: all 0.3s; }
+  .days-strip { flex: 1; display: grid; grid-template-columns: repeat(31, 1fr); gap: 2px; height: 42px; }
+  .day-item { display: flex; flex-direction: column; align-items: center; justify-content: center; background: rgba(0,0,0,0.02); border: 1px solid var(--border-color); border-radius: 3px; cursor: pointer; font-size: 10px; color: var(--text-primary); transition: 0.2s; }
   .day-item:hover { background: rgba(9,132,227,0.08); }
   .day-item.active { border-color: var(--brand-blue); background: rgba(9,132,227,0.12); }
   .day-item.saturday { background: rgba(9,132,227,0.06); }
@@ -373,10 +100,10 @@
   /* MAP */
 #map {
   position: fixed;
-  top: 100px;
+  top: 88px;
   left: 0;
   width: 100%;
-  height: calc(100vh - 100px);
+  height: calc(100vh - 88px);
   z-index: 1;
 }
 
@@ -408,14 +135,14 @@
     display: flex; flex-direction: column; gap: 6px;
   }
 
-  /* STYLE CONTROLS - RIGHT SIDE (below theme toggle) */
+  /* STYLE CONTROLS - RIGHT SIDE (above weather) */
   .style-controls {
-    position: fixed; top: 220px; right: 10px; z-index: 998;
+    position: fixed; top: 120px; right: 10px; z-index: 998;
     display: flex; flex-direction: column; gap: 6px;
   }
 
   /* SIDE PANEL & MODAL */
-  .side-panel { position: fixed; top: 44px; right: 0; width: 350px; height: calc(100vh - 44px); background: rgba(255,255,255,0.98); border-left: 2px solid var(--brand-blue); z-index: 997; transform: translateX(100%); transition: 0.3s ease; display: flex; flex-direction: column; }
+  .side-panel { position: fixed; top: 40px; right: 0; width: 350px; height: calc(100vh - 40px); background: rgba(255,255,255,0.98); border-left: 2px solid var(--brand-blue); z-index: 997; transform: translateX(100%); transition: 0.3s ease; display: flex; flex-direction: column; }
   .side-panel.open { transform: translateX(0); }
   .panel-header { padding: 16px; border-bottom: 1px solid var(--border-color); display: flex; justify-content: space-between; align-items: center; }
   .panel-content { flex: 1; overflow-y: auto; padding: 16px; }
@@ -432,7 +159,7 @@
   /* ── HEADLINES OVERLAY ── */
   .headlines-overlay {
     position: fixed;
-    top: 110px; left: 60px; transform: translateY(30px);
+    top: 100px; left: 60px; transform: translateY(30px);
     width: 420px; max-width: calc(100vw - 32px);
     z-index: 1200;
     opacity: 0;
@@ -579,20 +306,13 @@
   }
 
   .map-legend-filter {
-    top: 96px;
+    top: 92px;
     gap: 4px;
   }
   .legend-filter-btn {
     padding: 3px 8px;
     font-size: 9px;
   }
-
-  .theme-controls {
-    top: 96px;
-    right: 6px;
-  }
-  .theme-btn { width: 22px; height: 22px; }
-  .theme-label { display: none; }
 
 
 
@@ -703,19 +423,6 @@
   </button>
 </div>
 
-<!-- THEME TOGGLE -->
-<div class="theme-controls">
-  <button class="theme-btn theme-btn-light active" id="theme-light" onclick="setUITheme('light')" title="Light">
-    <span class="theme-label">Light</span>
-  </button>
-  <button class="theme-btn theme-btn-dark" id="theme-dark" onclick="setUITheme('dark')" title="Dark">
-    <span class="theme-label">Dark</span>
-  </button>
-  <button class="theme-btn theme-btn-glass" id="theme-glass" onclick="setUITheme('glass')" title="Glass">
-    <span class="theme-label">Glass</span>
-  </button>
-</div>
-
 <!-- STYLE: right side -->
 <div class="style-controls">
   <!-- Light -->
@@ -817,32 +524,13 @@
         <a href="https://autonomousship.org" target="_blank" style="color:var(--brand-blue); text-decoration:none;">autonomousship.org</a>
       </div>
     </div>
-    <div style="margin-top:20px; padding-top:15px; border-top:1px solid var(--border-color); font-size:10px; color:rgba(0,0,0,0.25); text-align:center;">v3.7.0</div>
+    <div style="margin-top:20px; padding-top:15px; border-top:1px solid var(--border-color); font-size:10px; color:rgba(0,0,0,0.25); text-align:center;">v3.6.0</div>
   </div>
 </div>
 
-<div class="version-tag">v3.7.0</div>
+<div class="version-tag">v3.6.0</div>
 
 <script data-cfasync="false" src="data.js"></script>
 <script data-cfasync="false" src="app.js"></script>
-<script>
-function setUITheme(theme) {
-  document.body.classList.remove('theme-dark', 'theme-glass');
-  if (theme !== 'light') {
-    document.body.classList.add('theme-' + theme);
-  }
-  // 버튼 활성화
-  document.querySelectorAll('.theme-btn').forEach(function(b) { b.classList.remove('active'); });
-  var btn = document.getElementById('theme-' + theme);
-  if (btn) btn.classList.add('active');
-  // 상태 저장
-  try { localStorage.setItem('maritime-ui-theme', theme); } catch(e) {}
-}
-// 저장된 테마 복원
-try {
-  var saved = localStorage.getItem('maritime-ui-theme');
-  if (saved && saved !== 'light') setUITheme(saved);
-} catch(e) {}
-</script>
 </body>
 </html>
