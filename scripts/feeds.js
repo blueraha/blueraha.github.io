@@ -1,5 +1,5 @@
 // ═══════════════════════════════════════════════════════════════
-// feeds.js - RSS/뉴스 소스 정의 (사고 + 자율운항 중심)
+// feeds.js - RSS/뉴스 소스 정의 (사고 + 자율운항 + 전시회/행사)
 // ═══════════════════════════════════════════════════════════════
 
 module.exports = [
@@ -20,7 +20,7 @@ module.exports = [
     name: "MAIB Reports",
     url: "https://www.gov.uk/maib-reports.atom",
     category: "accident",
-    keywords: []  // 모든 기사 수집
+    keywords: []
   },
   {
     name: "SAFETY4SEA - Accidents",
@@ -53,5 +53,31 @@ module.exports = [
     url: "https://www.offshore-energy.biz/feed/",
     category: "news",
     keywords: ["autonomous", "unmanned", "AI", "drone", "remote", "digital"]
+  },
+
+  // ── 전시회/박람회/행사 ──
+  {
+    name: "SAFETY4SEA Events",
+    url: "https://safety4sea.com/feed/",
+    category: "event",
+    keywords: ["conference", "forum", "expo", "summit", "workshop", "exhibition", "trade show", "boat show"]
+  },
+  {
+    name: "gCaptain - Events",
+    url: "https://gcaptain.com/feed/",
+    category: "event",
+    keywords: ["CES", "boat show", "expo", "exhibition", "trade show", "conference", "summit", "forum"]
+  },
+  {
+    name: "TechCrunch - AI/Robotics",
+    url: "https://techcrunch.com/feed/",
+    category: "event",
+    keywords: ["CES", "MWC", "robotics expo", "AI conference", "AI summit", "robot", "autonomous", "boat show"]
+  },
+  {
+    name: "The Robot Report",
+    url: "https://www.therobotreport.com/feed/",
+    category: "event",
+    keywords: ["expo", "conference", "summit", "CES", "trade show", "exhibition", "robotics", "autonomous", "AI"]
   }
 ];

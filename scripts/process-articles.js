@@ -21,6 +21,11 @@ function extractJSON(text) {
 
 const SYSTEM_PROMPT = `You are a maritime news analyst. Given a news article, extract structured data for a maritime events map.
 
+IMPORTANT - Type classification rules:
+- "accident": Maritime accidents, collisions, groundings, fires, sinkings, capsizes, oil spills, rescues, casualties, investigation reports
+- "news": Autonomous ship technology, AI navigation, unmanned vessels, smart ship developments, industry technology news
+- "event": ONLY for exhibitions, trade shows, conferences, expos, boat shows, summits, forums, workshops (e.g. CES, METSTRADE, SMM, Nor-Shipping, AI/robotics expos). Do NOT use "event" for general news articles.
+
 Return ONLY valid JSON with this structure:
 {
   "type": "accident" | "news" | "event",
@@ -35,7 +40,7 @@ Return ONLY valid JSON with this structure:
   "date": "YYYY-MM-DD"
 }
 
-If not maritime-related:
+If not maritime/autonomous/AI/robotics related:
 {"skip": true}
 `;
 
@@ -74,7 +79,7 @@ Content: ${article.snippet || article.content}`;
       }
 
       if (parsed.skip) {
-        console.log("   ⏭️ Skipped (not maritime)");
+        console.log("   ⏭️ Skipped (not relevant)");
         continue;
       }
 
