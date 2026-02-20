@@ -762,3 +762,33 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-02-19
+addEvents({
+  "2026-02-19": [
+    {
+      type: "event",
+      title: "Reach Subsea to begin six-month survey campaign for second Shetland HVDC link",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · Feb 19, 2026",
+      content: `<p>Norway's Reach Subsea is commencing an offshore survey campaign for the second Shetland HVDC link, with a six-month duration survey campaign set to begin.</p>`,
+      tags: ["HVDC","subsea survey","renewable energy","Shetland","infrastructure"],
+      link: "https://www.offshore-energy.biz/reach-subsea-about-to-begin-six-month-survey-campaign-for-second-shetland-hvdc-link/",
+      coords: [-1.3,60.5],
+      location: "Shetland, Scotland"
+    },
+    {
+      type: "news",
+      title: "Six LNG vessels to sport GTT's tank design",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · Feb 19, 2026",
+      content: `<p>France's Gaztransport & Technigaz (GTT) has been contracted to provide tank design for six new liquefied natural gas carriers, leveraging its expertise in technological containment systems for LNG vessels.</p>`,
+      tags: ["LNG","Tank Design","GTT","Vessel Construction","Shipping"],
+      link: "https://www.offshore-energy.biz/six-lng-vessels-to-sport-gtts-tank-design/",
+      coords: [2.3522,48.8566],
+      location: "France"
+    }
+  ]
+});
