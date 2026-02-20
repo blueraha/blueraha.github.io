@@ -1,20 +1,20 @@
 // ═══════════════════════════════════════════════════════════════
-// feeds.js - RSS/뉴스 소스 정의
+// feeds.js - RSS/뉴스 소스 정의 (사고 + 자율운항 중심)
 // ═══════════════════════════════════════════════════════════════
 
 module.exports = [
-  // ── 해양사고 ──
+  // ── 해양사고 (최우선) ──
   {
     name: "gCaptain",
     url: "https://gcaptain.com/feed/",
-    category: "accident",    // 기본 카테고리 (Claude가 실제 분류)
-    keywords: ["collision", "grounding", "fire", "sinking", "capsize", "spill", "accident", "incident", "casualty", "MAIB", "NTSB"]
+    category: "accident",
+    keywords: ["collision", "grounding", "fire", "sinking", "capsize", "spill", "accident", "incident", "casualty", "MAIB", "NTSB", "explosion", "rescue", "death", "injury"]
   },
   {
     name: "FleetMon",
     url: "https://www.fleetmon.com/maritime-news/feed/",
     category: "accident",
-    keywords: ["collision", "grounding", "accident", "incident", "rescue"]
+    keywords: ["collision", "grounding", "accident", "incident", "rescue", "fire", "sinking", "capsize"]
   },
   {
     name: "MAIB Reports",
@@ -22,33 +22,19 @@ module.exports = [
     category: "accident",
     keywords: []  // 모든 기사 수집
   },
-
-  // ── 해운뉴스 ──
   {
-    name: "Maritime Executive",
-    url: "https://maritime-executive.com/feed",
-    category: "news",
-    keywords: ["shipping", "fleet", "port", "IMO", "regulation", "trade", "container", "tanker", "bulk"]
-  },
-  {
-    name: "Splash247",
-    url: "https://splash247.com/feed/",
-    category: "news",
-    keywords: ["shipping", "maritime", "fleet", "port"]
-  },
-  {
-    name: "Offshore Energy",
-    url: "https://www.offshore-energy.biz/feed/",
-    category: "news",
-    keywords: ["offshore", "energy", "wind", "lng", "shipping"]
+    name: "SAFETY4SEA - Accidents",
+    url: "https://safety4sea.com/feed/",
+    category: "accident",
+    keywords: ["accident", "incident", "casualty", "collision", "grounding", "fire", "investigation"]
   },
 
-  // ── 자율운항 ──
+  // ── 자율운항/기술 ──
   {
     name: "gCaptain - Autonomous",
     url: "https://gcaptain.com/feed/",
     category: "news",
-    keywords: ["autonomous", "unmanned", "remote control", "MASS", "AI navigation", "Avikus", "Sea Machines", "Orca AI", "HiNAS"]
+    keywords: ["autonomous", "unmanned", "remote control", "MASS", "AI navigation", "Avikus", "Sea Machines", "Orca AI", "HiNAS", "smart ship"]
   },
   {
     name: "Riviera Maritime - Autonomy",
@@ -56,12 +42,16 @@ module.exports = [
     category: "news",
     keywords: ["autonomous", "MASS", "digital ship", "remote", "unmanned", "smart ship"]
   },
-
-  // ── 컨퍼런스/이벤트 ──
   {
-    name: "SAFETY4SEA Events",
-    url: "https://safety4sea.com/feed/",
-    category: "event",
-    keywords: ["conference", "forum", "expo", "summit", "workshop", "event", "exhibition"]
+    name: "Maritime Executive - Tech",
+    url: "https://maritime-executive.com/feed",
+    category: "news",
+    keywords: ["autonomous", "unmanned", "AI", "digital", "smart ship", "remote control", "MASS"]
+  },
+  {
+    name: "Offshore Energy - Tech",
+    url: "https://www.offshore-energy.biz/feed/",
+    category: "news",
+    keywords: ["autonomous", "unmanned", "AI", "drone", "remote", "digital"]
   }
 ];

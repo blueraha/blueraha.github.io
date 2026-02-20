@@ -1,14 +1,11 @@
 name: Maritime News Collector
-
 on:
   schedule:
-    # 매일 UTC 06:00 (KST 15:00) 실행
-    - cron: '0 22 * * *'
+    # 매일 UTC 00:00 (KST 09:00), UTC 06:00 (KST 15:00) 실행
+    - cron: '0 0,6 * * *'
   workflow_dispatch: # 수동 실행도 가능
-
 permissions:
   contents: write
-
 jobs:
   collect:
     runs-on: ubuntu-latest
@@ -16,30 +13,24 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-
       - name: Install dependencies
         run: |
           cd scripts
           npm install
-
       - name: Fetch RSS feeds
         run: node scripts/fetch-rss.js
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-
       - name: Process with Claude API
         run: node scripts/process-articles.js
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-
       - name: Merge into data.js
         run: node scripts/merge-data.js
-
       - name: Commit and push
         run: |
           git config user.name "Maritime News Bot"
@@ -48,17 +39,16 @@ jobs:
           # 변경사항 있을 때만 커밋
           git diff --staged --quiet || git commit -m "🚢 Auto-update: $(date +'%Y-%m-%d') news collection"
           git push
-- name: Notify Slack
-  if: always()
-  run: |
-    if [ "${{ job.status }}" = "success" ]; then
-      EMOJI="✅"
-      STATUS="성공"
-    else
-      EMOJI="❌"
-      STATUS="실패"
-    fi
-    curl -X POST -H 'Content-type: application/json' \
-      --data "{\"text\":\"${EMOJI} Maritime News Bot ${STATUS}\n📅 $(date -u +%Y-%m-%d) 뉴스 수집 완료\n🔗 https://autonomousship.org\"}" \
-      ${{ secrets.SLACK_WEBHOOK_URL }}
-
+      - name: Notify Slack
+        if: always()
+        run: |
+          if [ "${{ job.status }}" = "success" ]; then
+            EMOJI="✅"
+            STATUS="성공"
+          else
+            EMOJI="❌"
+            STATUS="실패"
+          fi
+          curl -X POST -H 'Content-type: application/json' \
+            --data "{\"text\":\"${EMOJI} Maritime News Bot ${STATUS}\n📅 $(date -u +%Y-%m-%d) 뉴스 수집 완료\n🔗 https://autonomousship.org\"}" \
+            ${{ secrets.SLACK_WEBHOOK_URL }}

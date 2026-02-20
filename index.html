@@ -159,7 +159,7 @@
   /* ── HEADLINES OVERLAY ── */
   .headlines-overlay {
     position: fixed;
-    top: 100px; left: 50%; transform: translateX(-50%) translateY(30px);
+    top: 100px; left: 60px; transform: translateY(30px);
     width: 420px; max-width: calc(100vw - 32px);
     z-index: 1200;
     opacity: 0;
@@ -168,12 +168,12 @@
   }
   .headlines-overlay.show {
     opacity: 1;
-    transform: translateX(-50%) translateY(0);
+    transform: translateY(0);
     pointer-events: auto;
   }
   .headlines-overlay.dismiss {
     opacity: 0;
-    transform: translateX(-50%) translateY(-20px);
+    transform: translateY(-20px);
     pointer-events: none;
   }
   .hl-card {
@@ -344,6 +344,13 @@
   .headlines-overlay {
     width: calc(100vw - 16px);
     top: 92px;
+    left: 50%; transform: translateX(-50%);
+  }
+  .headlines-overlay.show {
+    transform: translateX(-50%);
+  }
+  .headlines-overlay.dismiss {
+    transform: translateX(-50%) translateY(-20px);
   }
   .hl-card { border-radius: 12px; }
   .hl-header { padding: 14px 16px 10px; }
@@ -517,11 +524,11 @@
         <a href="https://autonomousship.org" target="_blank" style="color:var(--brand-blue); text-decoration:none;">autonomousship.org</a>
       </div>
     </div>
-    <div style="margin-top:20px; padding-top:15px; border-top:1px solid var(--border-color); font-size:10px; color:rgba(0,0,0,0.25); text-align:center;">v3.5.0</div>
+    <div style="margin-top:20px; padding-top:15px; border-top:1px solid var(--border-color); font-size:10px; color:rgba(0,0,0,0.25); text-align:center;">v3.6.0</div>
   </div>
 </div>
 
-<div class="version-tag">v3.5.0</div>
+<div class="version-tag">v3.6.0</div>
 
 <script data-cfasync="false" src="data.js"></script>
 <script data-cfasync="false" src="app.js"></script>
