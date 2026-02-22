@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Separate/manual workflow: ingest Slack channel links and append data.js entries.
+// Auto-ingest Slack channel links: automatically fetches title and assigns today's date!
 
 const fs = require('fs');
 const path = require('path');
@@ -7,26 +7,29 @@ const path = require('path');
 const DATA_JS_PATH = path.join(__dirname, '..', 'data.js');
 const DEFAULT_LIMIT = 30;
 
-function usage() {
-  console.log(`Usage:
-  node scripts/slack-to-datajs.js [--dry-run] [--limit=30] [--fixture=path/to/messages.json]
-
-Required env (live mode):
-  SLACK_BOT_TOKEN     xoxb-...
-  SLACK_CHANNEL_ID    C0123456789
-
-Message format (recommended):
-  [accident] https://www.bbc.com/korean/articles/c3rjrdzyz8zo
-  title: 신안 좌초 여객선 운항 과실로 가닥
-  date: 2025-11-19
-  update: 2025-11-20
-  location: Shinan, South Korea
-  coords: 126.10,34.67
-  tags: Grounding,Ferry,South Korea
-
-- date/title/link are mandatory to auto-append.
-- This script is independent from RSS automation scripts.
-`);
+// URL에서 웹페이지 제목(Title)을 자동으로 긁어오는 함수
+async function fetchTitleFromUrl(url) {
+  try {
+    const res = await fetch(url, {
+      headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' },
+      signal: AbortSignal.timeout(5000) // 5초 안에 못 가져오면 포기
+    });
+    if (res.ok) {
+      const html = await res.text();
+      const match = html.match(/<title[^>]*>([^<]+)<\/title>/i);
+      if (match && match[1]) {
+        return match[1].trim()
+          .replace(/&quot;/g, '"')
+          .replace(/&#39;/g, "'")
+          .replace(/&amp;/g, '&')
+          .replace(/&lt;/g, '<')
+          .replace(/&gt;/g, '>');
+      }
+    }
+  } catch (e) {
+    console.log(`⚠️ 자동 제목 수집 실패 (${url}): ${e.message}`);
+  }
+  return 'Maritime News Article (Auto)'; // 실패 시 기본 제목
 }
 
 function arg(name, fallback = null) {
@@ -46,19 +49,16 @@ function parseDateFlexible(text) {
     const [, y, m, d] = iso;
     return `${y}-${String(m).padStart(2, '0')}-${String(d).padStart(2, '0')}`;
   }
-  const kr = text.match(/(20\d{2})\s*년\s*(\d{1,2})\s*월\s*(\d{1,2})\s*일/);
-  if (kr) {
-    const [, y, m, d] = kr;
-    return `${y}-${String(m).padStart(2, '0')}-${String(d).padStart(2, '0')}`;
-  }
   return null;
 }
 
-function parseMessage(text) {
+// 비동기 파싱으로 변경 (제목을 웹에서 긁어와야 하므로)
+async function parseMessage(text) {
   if (!text) return null;
 
-  const linkMatch = text.match(/https?:\/\/[^\s>]+/i);
-  if (!linkMatch) return null;
+  // 슬랙은 링크를 <http...> 형태로 감싸거나 | 뒤에 텍스트를 붙이므로 깔끔하게 URL만 추출
+  const linkMatch = text.match(/https?:\/\/[^\s>|]+/i);
+  if (!linkMatch) return null; // 링크가 아예 없으면 무시
   const link = linkMatch[0];
 
   const lines = text.split('\n').map(s => s.trim()).filter(Boolean);
@@ -66,48 +66,44 @@ function parseMessage(text) {
 
   const titleLine = lines.find(l => /^title\s*:/i.test(l));
   const dateLine = lines.find(l => /^date\s*:/i.test(l));
-  const updateLine = lines.find(l => /^update\s*:/i.test(l));
   const locationLine = lines.find(l => /^location\s*:/i.test(l));
-  const coordsLine = lines.find(l => /^coords\s*:/i.test(l));
-  const tagsLine = lines.find(l => /^tags\s*:/i.test(l));
 
-  const bracketType = (joined.match(/\[(accident|news|event)\]/i) || [])[1];
+  // [태그]가 없으면 기본으로 'news' 할당
+  const bracketType = (joined.match(/\[(accident|news|event)\]/i) || [])[1] || 'news';
 
-  const title = titleLine ? titleLine.replace(/^title\s*:/i, '').trim() : null;
-  const dateRaw = dateLine ? dateLine.replace(/^date\s*:/i, '').trim() : joined;
-  const date = parseDateFlexible(dateRaw);
-  const update = updateLine ? parseDateFlexible(updateLine.replace(/^update\s*:/i, '').trim()) : null;
-  const location = locationLine ? locationLine.replace(/^location\s*:/i, '').trim() : 'Unknown';
+  // 사용자가 적어준 제목/날짜가 있는지 확인
+  let title = titleLine ? titleLine.replace(/^title\s*:/i, '').trim() : null;
+  let dateRaw = dateLine ? dateLine.replace(/^date\s*:/i, '').trim() : null;
 
-  let coords = [0, 0];
-  if (coordsLine) {
-    const raw = coordsLine.replace(/^coords\s*:/i, '').trim();
-    const m = raw.match(/(-?\d+(?:\.\d+)?)\s*,\s*(-?\d+(?:\.\d+)?)/);
-    if (m) coords = [Number(m[1]), Number(m[2])];
+  // 🔥 마법 1: 제목이 없으면 URL에 접속해서 긁어온다!
+  if (!title) {
+    console.log(`Fetching title for: ${link}`);
+    title = await fetchTitleFromUrl(link);
   }
 
-  const tags = tagsLine
-    ? tagsLine.replace(/^tags\s*:/i, '').split(',').map(t => t.trim()).filter(Boolean)
-    : [];
+  // 🔥 마법 2: 날짜가 없으면 오늘 날짜(UTC 기준)로 자동 입력한다!
+  if (!dateRaw) {
+    const today = new Date();
+    dateRaw = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
+  }
 
-  const source = /bbc\.com/i.test(link) ? 'BBC Korean' : 'Slack Manual';
-  const sourceMeta = update
-    ? `slack manual · ${date || 'date-missing'} (Updated ${update})`
-    : `slack manual · ${date || 'date-missing'}`;
+  const date = parseDateFlexible(dateRaw) || dateRaw;
+  const location = locationLine ? locationLine.replace(/^location\s*:/i, '').trim() : 'Global';
 
-  if (!title || !date) return { skip: true, reason: 'Missing title or date', link };
+  const source = /bbc\.com/i.test(link) ? 'BBC' : (/gcaptain\.com/i.test(link) ? 'gCaptain' : 'Slack Feed');
+  const sourceMeta = `slack auto · ${date}`;
 
   return {
     date,
     entry: {
-      type: bracketType ? bracketType.toLowerCase() : 'news',
+      type: bracketType.toLowerCase(),
       title,
       source,
       sourceMeta,
-      content: '<p>Manually ingested from Slack channel.</p>',
-      tags,
+      content: '<p>Shared from Maritime Hub Slack.</p>',
+      tags: ['Slack'],
       link,
-      coords,
+      coords: [0, 0],
       location,
     },
   };
@@ -129,11 +125,7 @@ async function slackApi(method, params, token) {
   return json;
 }
 
-async function readMessages({ token, channel, limit, fixture }) {
-  if (fixture) {
-    const raw = JSON.parse(fs.readFileSync(fixture, 'utf8'));
-    return raw.messages || raw;
-  }
+async function readMessages({ token, channel, limit }) {
   const result = await slackApi('conversations.history', { channel, limit }, token);
   return result.messages || [];
 }
@@ -144,11 +136,9 @@ function buildBlock(byDate) {
     const items = byDate[date].map((a) => {
       return `    {\n      type: "${esc(a.type)}",\n      title: "${esc(a.title)}",\n      source: "${esc(a.source)}",\n      sourceMeta: "${esc(a.sourceMeta)}",\n      content: \`${a.content}\`,\n      tags: ${JSON.stringify(a.tags || [])},\n      link: "${esc(a.link)}",\n      coords: ${JSON.stringify(a.coords || [0, 0])},\n      location: "${esc(a.location)}"\n    }`;
     }).join(',\n\n');
-
     return `addEvents({\n  "${date}": [\n${items}\n  ]\n});`;
   });
-
-  return `\n\n// ── Slack Manual Updates (Independent) ──\n${blocks.join('\n\n')}\n`;
+  return `\n\n// ── Slack Live Updates ──\n${blocks.join('\n\n')}\n`;
 }
 
 function esc(s) {
@@ -156,22 +146,20 @@ function esc(s) {
 }
 
 async function main() {
-  if (hasFlag('help')) return usage();
-
   const dryRun = hasFlag('dry-run');
   const limit = Number(arg('limit', DEFAULT_LIMIT));
-  const fixture = arg('fixture');
   const token = process.env.SLACK_BOT_TOKEN;
   const channel = process.env.SLACK_CHANNEL_ID;
 
-  if (!fixture && (!token || !channel)) {
-    usage();
+  if (!token || !channel) {
+    console.error("Missing SLACK_BOT_TOKEN or SLACK_CHANNEL_ID");
     process.exit(1);
   }
 
-  const messages = await readMessages({ token, channel, limit, fixture });
+  const messages = await readMessages({ token, channel, limit });
   const dataJs = fs.readFileSync(DATA_JS_PATH, 'utf8');
 
+  // 중복 링크 확인
   const existingLinks = new Set();
   const linkRegex = /link:\s*["'`]([^"'`]+)["'`]/g;
   let m;
@@ -181,15 +169,11 @@ async function main() {
   const skipped = [];
 
   for (const msg of messages) {
-    const parsed = parseMessage(msg.text || '');
+    const parsed = await parseMessage(msg.text || ''); // 비동기로 제목 추출 대기
     if (!parsed) continue;
-    if (parsed.skip) {
-      skipped.push(parsed);
-      continue;
-    }
 
     if (existingLinks.has(parsed.entry.link)) {
-      skipped.push({ link: parsed.entry.link, reason: 'Already exists' });
+      skipped.push({ link: parsed.entry.link, reason: 'Already exists in data.js' });
       continue;
     }
 
@@ -199,21 +183,19 @@ async function main() {
   }
 
   const total = Object.values(byDate).reduce((n, arr) => n + arr.length, 0);
-  console.log(`Prepared ${total} new entries from Slack messages.`);
-  if (skipped.length) console.log(`Skipped ${skipped.length} messages.`);
+  console.log(`\n✅ 준비된 새 기사: ${total}개`);
+  if (skipped.length) console.log(`⏭️ 건너뛴 중복 기사: ${skipped.length}개`);
 
   if (total === 0) return;
 
   const block = buildBlock(byDate);
   if (dryRun) {
-    console.log('--- DRY RUN BLOCK START ---');
     console.log(block);
-    console.log('--- DRY RUN BLOCK END ---');
     return;
   }
 
   fs.writeFileSync(DATA_JS_PATH, dataJs.trimEnd() + block);
-  console.log(`✅ Updated ${DATA_JS_PATH}`);
+  console.log(`\n🚀 [성공] ${DATA_JS_PATH} 파일이 업데이트되었습니다.`);
 }
 
 main().catch((err) => {
