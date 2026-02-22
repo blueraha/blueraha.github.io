@@ -1,4 +1,4 @@
-name: Maritime News Collector
+name: Maritime Data Collector
 on:
   schedule:
     # 매일 UTC 00:00 (KST 09:00), UTC 06:00 (KST 15:00) 실행
@@ -13,32 +13,49 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+          
       - name: Install dependencies
         run: |
           cd scripts
           npm install
+          
+      # 1. 기존: 뉴스 수집 및 처리
       - name: Fetch RSS feeds
         run: node scripts/fetch-rss.js
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          
       - name: Process with Claude API
         run: node scripts/process-articles.js
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          
       - name: Merge into data.js
         run: node scripts/merge-data.js
+
+      # 2. 신규: 슬랙 메시지 수집 (테스트 모드인 --dry-run 제거)
+      - name: Fetch Slack Alerts
+        run: node scripts/slack-to-datajs.js --limit=30
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
+
+      # 3. 통합 커밋 및 푸시
       - name: Commit and push
         run: |
-          git config user.name "Maritime News Bot"
+          git config user.name "Maritime Data Bot"
           git config user.email "bot@autonomousship.org"
           git add data.js
-          # 변경사항 있을 때만 커밋
-          git diff --staged --quiet || git commit -m "🚢 Auto-update: $(date +'%Y-%m-%d') news collection"
+          # 변경사항 있을 때만 커밋 (뉴스나 슬랙 중 하나라도 변경사항이 있으면 반영됨)
+          git diff --staged --quiet || git commit -m "🚢 Auto-update: $(date +'%Y-%m-%d') News & Slack data collection"
           git push
+          
+      # 4. 슬랙 알림 (결과 리포트)
       - name: Notify Slack
         if: always()
         run: |
@@ -50,5 +67,5 @@ jobs:
             STATUS="실패"
           fi
           curl -X POST -H 'Content-type: application/json' \
-            --data "{\"text\":\"${EMOJI} Maritime News Bot ${STATUS}\n📅 $(date -u +%Y-%m-%d) 뉴스 수집 완료\n🔗 https://autonomousship.org\"}" \
+            --data "{\"text\":\"${EMOJI} Maritime Data Bot ${STATUS}\n📅 $(date -u +%Y-%m-%d) 뉴스 및 슬랙 수집 완료\n🔗 https://autonomousship.org\"}" \
             ${{ secrets.SLACK_WEBHOOK_URL }}
