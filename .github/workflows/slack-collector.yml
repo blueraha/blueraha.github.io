@@ -1,0 +1,39 @@
+name: Slack Live Sync
+
+on:
+  schedule:
+    # 5분마다 실행 (비용 발생 없는 슬랙 동기화 전용)
+    - cron: '*/5 * * * *'
+  workflow_dispatch: # 수동 실행 가능
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          
+      - name: Fetch Slack Messages
+        # --dry-run 없이 실제 반영 모드로 실행
+        run: node scripts/slack-to-datajs.js --limit=30
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "Slack Sync Bot"
+          git config user.email "bot@autonomousship.org"
+          git add data.js
+          # 슬랙에서 가져온 새 글이 있어서 data.js가 변경되었을 때만 커밋
+          git diff --staged --quiet || git commit -m "⚡ Auto-update: Sync latest Slack messages"
+          git push
