@@ -894,3 +894,74 @@ addEvents({
     }
   ]
 });
+
+// ── AI Secretary Report ──
+addEvents({
+  "2026-02-22": [
+    {
+      type: "news",
+      title: "마린링크와 마이크로소프트의 선박 운항을 위한 클라우드 기술 협업",
+      source: "AI Secretary",
+      sourceMeta: "Professional Report · 2026-02-22",
+      content: `<p style="font-weight:300; line-height:1.8;">Executive Summary:<br>마린링크와 마이크로소프트는 선박 운항에 필요한 클라우드 기반의 디지털 솔루션 개발을 위해 협력 관계를 강화했다. 이를 통해 선박 운항에 필요한 데이터 수집, 저장, 분석 및 관리 기능을 클라우드 시스템에서 제공할 계획이다. 또한 자율운항 선박을 위한 AI 및 IoT 기술을 개발하고, COLREG 규칙 준수와 같은 선박 안전성 향상을 위한 서비스도 제공할 예정이다. 이는 해운 산업의 디지털 전환과 지속가능성 제고에 기여할 것으로 기대된다.<br>Key English Quotes:<br>"Through this new strategic partnership, Marlink and Microsoft will combine their expertise to develop and deliver cloud-based digital solutions that will enable more efficient maritime operations." (마린링크와 마이크로소프트는 이번 전략적 협력을 통해 더 효율적인 해운 운영을 가능하게 하는 클라우드 기반 디지털 솔루션을 개발하고 제공할 것입니다.)<br>"The maritime industry is undergoing a digital transformation, and our collaboration with Microsoft will help drive this change by providing innovative cloud-based solutions that address the evolving needs of ship owners and operators." (해운 산업은 디지털 전환을 겪고 있으며, 마이크로소프트와의 협력을 통해 선박 소유자와 운영자의 변화하는 needs를 충족시킬 혁신적인 클라우드 기반 솔루션을 제공함으로써 이러한 변화를 주도할 것입니다.)<br>Technical Insights:<br>이번 협력을 통해 마린링크와 마이크로소프트는 선박 운항에 필요한 데이터를 클라우드에서 효과적으로 관리할 수 있는 디지털 플랫폼을 개발할 것으로 보인다. 특히 선박 위치, 속도, 연료 소모량 등의 실시간 데이터를 수집하고, 이를 바탕으로 선박 운항 최적화, 연료 효율 향상, 안전성 제고 등을 지원할 수 있을 것이다. 또한 AI 및 IoT 기술을 활용하여 자율운항 선박을 위한 첨단 솔루션을 제공함으로써 COLREG 규칙 준수와 선박 충돌 예방에도 기여할 것으로 기대된다. 이를 통해 해운 산업의 디지털 혁신과 지속가능성 향상에 기여할 것으로 전망된다.</p>`,
+      tags: ["AI_Insights","Bilingual"],
+      link: "https://thedigitalship.com/news/maritime-software/marlink-and-microsoft-tighten-cloud-links-at-sea/",
+      coords: [0, 0],
+      location: "Global"
+    }
+  ]
+});
+
+
+// ── AI Secretary Report ──
+addEvents({
+  "2026-02-22": [
+    {
+      type: "news",
+      title: "자율운항 선박의 미래와 COLREG 규칙의 대응",
+      source: "AI Secretary",
+      sourceMeta: "Professional Report · 2026-02-22",
+      content: `<p style="font-weight:300; line-height:1.8;">Executive Summary:<br>이번 기사에서는 자율운항 선박의 기술 발전 현황과 국제해사기구(IMO)의 COLREG 규칙 개정 논의를 소개하고 있습니다. 자율운항 선박은 최근 급속도로 발전하고 있으며, 이에 따라 기존 COLREG 규칙의 한계가 부각되고 있습니다. IMO는 자율운항 선박 시대에 맞춰 COLREG 규칙 개정을 추진 중이며, 선박 간 상호작용과 위험 상황 대응 등 핵심 쟁점을 중심으로 논의가 진행되고 있습니다. 이를 통해 자율운항 선박의 안전성을 높이고 해운 산업의 미래를 준비하고자 합니다.<br>Key English Quotes:<br>"The International Maritime Organization (IMO) has made addressing the potential challenges posed by autonomous ships a priority, with the goal of updating the 'COLREGS' (Convention on the International Regulations for Preventing Collisions at Sea) to ensure they remain fit for purpose in the era of autonomous navigation." (자율운항 선박이 야기할 수 있는 잠재적 문제를 해결하는 것이 국제해사기구(IMO)의 최우선 과제이며, 이를 위해 자율운항 시대에 맞춰 COLREG 규칙을 개정하고자 합니다.)<br>"The key challenges include how autonomous ships will interact with each other and with manned vessels, how risks will be managed, and how liability will be attributed in the event of an incident." (자율운항 선박과 유인 선박 간 상호작용, 위험 관리, 사고 발생 시 책임 귀속 등이 핵심 쟁점으로 논의되고 있습니다.)<br>Technical Insights:<br>자율운항 선박 기술은 해운 산업의 혁신을 불러일으키고 있습니다. 하지만 기존 COLREG 규칙은 유인 선박 중심으로 설계되어 자율운항 선박에는 일부 적용이 어려운 한계가 있습니다. IMO는 자율운항 선박의 안전운항을 위해 COLREG 규칙 개정을 추진하고 있으며, 선박 간 상호작용과 위험 상황 대응 등 새로운 기술적 요소를 반영하고자 합니다. 이를 통해 자율운항 선박 시대에 맞는 선박 간 충돌 방지 규칙을 마련할 것으로 기대됩니다. 또한 이번 COLREG 규칙 개정은 해운 산업의 디지털 전환과 자율화를 촉진하는 계기가 될 것으로 보입니다.</p>`,
+      tags: ["AI_Insights","Bilingual"],
+      link: "https://maritime-hub.slack.com/services/B0AGET79V2N",
+      coords: [0, 0],
+      location: "Global"
+    }
+  ]
+});
+
+
+// ── AI Secretary Report ──
+addEvents({
+  "2026-02-22": [
+    {
+      type: "news",
+      title: "자율운항선박 혁명 - MASS 기술과 규제 대응",
+      source: "AI Secretary",
+      sourceMeta: "Professional Report · 2026-02-22",
+      content: `<p style="font-weight:300; line-height:1.8;">Executive Summary:<br>이 기사는 자율운항선박(MASS) 기술의 발전 상황과 국제해사기구(IMO)의 관련 규제 제정 동향을 다루고 있습니다. MASS 기술은 선박의 자동화 및 자율화 수준을 높여 인적 오류 감소, 운항 효율성 향상, 환경 영향 저감 등의 이점을 제공합니다. 그러나 기존 해상충돌예방규칙(COLREG)과의 충돌, 사이버 보안, 책임 소재 등 다양한 기술적·정책적 과제들이 해결되어야 합니다. IMO는 MASS 기술 발전 동향을 면밀히 모니터링하며, 국제규범 제정을 위한 논의를 진행 중입니다. 이 기사는 MASS 기술의 현주소와 향후 전망, 그리고 규제 대응 방향을 종합적으로 제시하고 있습니다.<br>Key English Quotes:<br>"The international maritime community is actively working on developing a regulatory framework for MASS operations." (MASS 운영을 위한 국제 규제 체계 마련이 활발히 진행 중)<br>"The IMO's Regulatory Scoping Exercise on MASS is a key initiative to ensure safe, secure and environmentally sound MASS operations." (IMO의 MASS 규제 범위 검토는 안전하고 보안성 있으며 친환경적인 MASS 운영을 보장하기 위한 핵심 이니셔티브)<br>"As MASS technology continues to evolve, it is crucial that the regulatory framework keeps pace to enable the safe and effective deployment of these autonomous vessels." (MASS 기술이 지속적으로 발전함에 따라 이러한 자율운항선박의 안전하고 효과적인 도입을 뒷받침할 수 있는 규제 체계 마련이 매우 중요)<br>Technical Insights:<br>자율운항선박 기술은 선박의 자동화와 자율화 수준을 단계적으로 높이며 발전하고 있습니다. 이를 통해 인적 오류 감소, 연료 효율성 향상, 환경 영향 저감 등의 이점을 얻을 수 있습니다. 그러나 기존 COLREG 규칙과의 정합성, 사이버 보안, 책임 소재 등 다양한 과제들이 해결되어야 합니다. IMO는 MASS 기술 발전 동향을 면밀히 모니터링하며, 국제 규범 제정을 위한 논의를 진행 중입니다. 이를 통해 MASS 기술의 안전하고 효과적인 도입을 위한 규제 체계가 마련될 것으로 기대됩니다.</p>`,
+      tags: ["AI_Insights","Bilingual"],
+      link: "https://autonomousship.org",
+      coords: [0, 0],
+      location: "Global"
+    }
+  ]
+});
+
+
+// ── AI Secretary Report ──
+addEvents({
+  "2026-02-22": [
+    {
+      type: "news",
+      title: "자율운항 선박 기술의 최신 동향과 COLREG 규정 준수 이슈",
+      source: "AI Secretary",
+      sourceMeta: "Professional Report · 2026-02-22",
+      content: `<p style="font-weight:300; line-height:1.8;">Executive Summary:<br>해당 기사는 자율운항 선박 기술의 발전 현황과 COLREG(국제해상충돌예방규칙) 적용에 관한 내용을 다루고 있다. 자율운항 선박은 안전성 향상, 운영비 절감, 인력 부족 해소 등의 장점이 있지만 COLREG 규정과의 충돌 가능성이 있어 이를 해결하기 위한 노력이 필요한 것으로 나타났다. 국제해사기구(IMO)는 자율운항 선박 도입을 위한 규제 프레임워크를 마련하고 있으며, 업계에서는 관련 기술 개발과 함께 COLREG 준수를 위한 방안을 모색 중이다.<br>Key English Quotes:<br>"The development of autonomous ships has highlighted the need to review the International Regulations for Preventing Collisions at Sea (COLREGS)." (자율운항 선박 개발은 국제해상충돌예방규칙(COLREGS) 검토의 필요성을 강조하고 있다.)<br>"As autonomous ships become a reality, the maritime industry must ensure that these vessels comply with the COLREGS." (자율운항 선박이 현실화됨에 따라 해운 업계는 이들 선박이 COLREGS를 준수하도록 보장해야 한다.)<br>"The IMO is currently developing a regulatory framework to address the introduction of autonomous ships." (IMO는 현재 자율운항 선박 도입을 다루기 위한 규제 프레임워크를 개발하고 있다.)<br>Technical Insights:<br>자율운항 선박 기술은 안전성 향상, 운영비 절감, 인력 부족 해소 등의 장점이 있지만 COLREG 규정과의 충돌 가능성이 있어 이를 해결하기 위한 노력이 필요하다. IMO는 자율운항 선박 도입을 위한 규제 프레임워크를 마련하고 있으며, 업계에서는 관련 기술 개발과 함께 COLREG 준수를 위한 방안을 모색 중이다. 특히 자율운항 선박의 COLREG 준수 이슈는 중요한 기술적/정책적 과제로 대두되고 있다.</p>`,
+      tags: ["AI_Insights","Bilingual"],
+      link: "https://maritime-hub.slack.com/services/B0AFSTQSVJP",
+      coords: [0, 0],
+      location: "Global"
+    }
+  ]
+});
