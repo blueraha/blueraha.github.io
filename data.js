@@ -843,7 +843,7 @@ addEvents({
   ]
 });
 
-// ── Slack Live Updates ──
+/// ── Slack Live Updates ──
 addEvents({
   "2026-02-22": [
     {
@@ -854,22 +854,9 @@ addEvents({
       content: `<p>Shared from Maritime Hub Slack.</p>`,
       tags: ["Slack"],
       link: "https://maritime-executive.com/article/japanese-cargo-ship-hits-fishing-boat-splitting-it-and-killing-two",
-      coords: [0,0],
-      location: "Global"
+      coords: [139.6917, 35.6895], // 임의 좌표 (일본 연안)
+      location: "Japan Coast"
     },
-
-    {
-      type: "news",
-      title: "Slack",
-      source: "Slack Feed",
-      sourceMeta: "slack auto · 2026-02-22",
-      content: `<p>Shared from Maritime Hub Slack.</p>`,
-      tags: ["Slack"],
-      link: "https://maritime-hub.slack.com/services/B0AGBHGCEDB",
-      coords: [0,0],
-      location: "Global"
-    },
-
     {
       type: "news",
       title: "U.S Navy Selects Fincantieri To Construct First 4 Medium Landing Ships",
@@ -878,10 +865,9 @@ addEvents({
       content: `<p>Shared from Maritime Hub Slack.</p>`,
       tags: ["Slack"],
       link: "https://www.marineinsight.com/shipping-news/u-s-navy-selects-fincantieri-to-construct-first-4-medium-landing-ships/",
-      coords: [0,0],
-      location: "Global"
+      coords: [-77.0369, 38.9072], // 임의 좌표 (미 해군 관련)
+      location: "USA"
     },
-
     {
       type: "news",
       title: "U.S Navy To Get The New Liberty-Class Of Autonomous Ships",
@@ -890,49 +876,10 @@ addEvents({
       content: `<p>Shared from Maritime Hub Slack.</p>`,
       tags: ["Slack"],
       link: "https://www.marineinsight.com/shipping-news/u-s-navy-to-get-the-new-liberty-class-of-autonomous-ships/",
-      coords: [0,0],
-      location: "Global"
-    },
-
-    {
-      type: "news",
-      title: "Slack",
-      source: "Slack Feed",
-      sourceMeta: "slack auto · 2026-02-22",
-      content: `<p>Shared from Maritime Hub Slack.</p>`,
-      tags: ["Slack"],
-      link: "https://maritime-hub.slack.com/services/B0AGET79V2N",
-      coords: [0,0],
-      location: "Global"
-    },
-
-    {
-      type: "news",
-      title: "Maritime Hub",
-      source: "Slack Feed",
-      sourceMeta: "slack auto · 2026-02-22",
-      content: `<p>Shared from Maritime Hub Slack.</p>`,
-      tags: ["Slack"],
-      link: "https://autonomousship.org",
-      coords: [0,0],
-      location: "Global"
-    },
-
-    {
-      type: "news",
-      title: "Slack",
-      source: "Slack Feed",
-      sourceMeta: "slack auto · 2026-02-22",
-      content: `<p>Shared from Maritime Hub Slack.</p>`,
-      tags: ["Slack"],
-      link: "https://maritime-hub.slack.com/services/B0AFSTQSVJP",
-      coords: [0,0],
-      location: "Global"
+      coords: [-122.3321, 47.6062], // 임의 좌표
+      location: "USA"
     }
-  ]
-});
-
-addEvents({
+  ],
   "2026-02-23": [
     {
       type: "news",
@@ -942,8 +889,8 @@ addEvents({
       content: `<p>Shared from Maritime Hub Slack.</p>`,
       tags: ["Slack"],
       link: "https://gcaptain.com/future-of-autonomous-shipping",
-      coords: [0,0],
-      location: "Global"
+      coords: [128.6, 34.8], // 거제 실증지 부근 좌표
+      location: "Geoje, South Korea"
     }
   ]
 });
