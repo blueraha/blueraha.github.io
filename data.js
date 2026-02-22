@@ -842,3 +842,108 @@ addEvents({
     }
   ]
 });
+
+// ── Slack Live Updates ──
+addEvents({
+  "2026-02-22": [
+    {
+      type: "news",
+      title: "Japanese Cargo Ship Hits Fishing Boat, Splitting It and Killing Two",
+      source: "Slack Feed",
+      sourceMeta: "slack auto · 2026-02-22",
+      content: `<p>Shared from Maritime Hub Slack.</p>`,
+      tags: ["Slack"],
+      link: "https://maritime-executive.com/article/japanese-cargo-ship-hits-fishing-boat-splitting-it-and-killing-two",
+      coords: [0,0],
+      location: "Global"
+    },
+
+    {
+      type: "news",
+      title: "Slack",
+      source: "Slack Feed",
+      sourceMeta: "slack auto · 2026-02-22",
+      content: `<p>Shared from Maritime Hub Slack.</p>`,
+      tags: ["Slack"],
+      link: "https://maritime-hub.slack.com/services/B0AGBHGCEDB",
+      coords: [0,0],
+      location: "Global"
+    },
+
+    {
+      type: "news",
+      title: "U.S Navy Selects Fincantieri To Construct First 4 Medium Landing Ships",
+      source: "Slack Feed",
+      sourceMeta: "slack auto · 2026-02-22",
+      content: `<p>Shared from Maritime Hub Slack.</p>`,
+      tags: ["Slack"],
+      link: "https://www.marineinsight.com/shipping-news/u-s-navy-selects-fincantieri-to-construct-first-4-medium-landing-ships/",
+      coords: [0,0],
+      location: "Global"
+    },
+
+    {
+      type: "news",
+      title: "U.S Navy To Get The New Liberty-Class Of Autonomous Ships",
+      source: "Slack Feed",
+      sourceMeta: "slack auto · 2026-02-22",
+      content: `<p>Shared from Maritime Hub Slack.</p>`,
+      tags: ["Slack"],
+      link: "https://www.marineinsight.com/shipping-news/u-s-navy-to-get-the-new-liberty-class-of-autonomous-ships/",
+      coords: [0,0],
+      location: "Global"
+    },
+
+    {
+      type: "news",
+      title: "Slack",
+      source: "Slack Feed",
+      sourceMeta: "slack auto · 2026-02-22",
+      content: `<p>Shared from Maritime Hub Slack.</p>`,
+      tags: ["Slack"],
+      link: "https://maritime-hub.slack.com/services/B0AGET79V2N",
+      coords: [0,0],
+      location: "Global"
+    },
+
+    {
+      type: "news",
+      title: "Maritime Hub",
+      source: "Slack Feed",
+      sourceMeta: "slack auto · 2026-02-22",
+      content: `<p>Shared from Maritime Hub Slack.</p>`,
+      tags: ["Slack"],
+      link: "https://autonomousship.org",
+      coords: [0,0],
+      location: "Global"
+    },
+
+    {
+      type: "news",
+      title: "Slack",
+      source: "Slack Feed",
+      sourceMeta: "slack auto · 2026-02-22",
+      content: `<p>Shared from Maritime Hub Slack.</p>`,
+      tags: ["Slack"],
+      link: "https://maritime-hub.slack.com/services/B0AFSTQSVJP",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
+
+addEvents({
+  "2026-02-23": [
+    {
+      type: "news",
+      title: "자율운항 선박 원격 제어 성공",
+      source: "gCaptain",
+      sourceMeta: "slack auto · 2026-02-23",
+      content: `<p>Shared from Maritime Hub Slack.</p>`,
+      tags: ["Slack"],
+      link: "https://gcaptain.com/future-of-autonomous-shipping",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
