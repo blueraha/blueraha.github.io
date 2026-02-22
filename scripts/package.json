@@ -6,5 +6,9 @@
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0",
     "rss-parser": "^3.13.0"
+  },
+  "scripts": {
+    "slack:ingest": "node slack-to-datajs.js --limit=30",
+    "slack:dry": "node slack-to-datajs.js --dry-run --limit=30"
   }
 }

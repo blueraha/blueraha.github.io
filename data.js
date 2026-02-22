@@ -340,6 +340,18 @@ addEvents({
     location: "Port of Tanjung Pelepas, Malaysia"
   }],
 
+  "2025-11-19": [{
+    type: "accident",
+    title: "신안 좌초 여객선 퀸제누비아2호 항해 과실 수사",
+    source: "BBC Korean",
+    sourceMeta: "bbc.com · 2025년 11월 19일 (2025년 11월 20일 업데이트)",
+    content: `<p>2만6천t급 카페리 <strong>퀸제누비아2호</strong>가 전남 신안 족도 인근 해상에서 좌초했다. 승객 246명은 전원 구조됐고, 선박은 사고 약 9시간 후 목포 삼학부두로 안전 입항했다. 해경은 1등 항해사·조타수를 긴급체포하고 CCTV/VDR 분석을 통해 항해 과실 여부를 수사 중이다.</p>`,
+    tags: ["Grounding","Ferry","South Korea","Shinan","Navigation"],
+    link: "https://www.bbc.com/korean/articles/c3rjrdzyz8zo",
+    coords: [126.10, 34.67],
+    location: "Jokdo area, Shinan, Jeollanam-do, South Korea"
+  }],
+
   "2025-11-23": [{
     type: "accident",
     title: "ONE Henry Hudson — Container Ship Fire at Port of Los Angeles",
