@@ -23,11 +23,13 @@ jobs:
           node-version: '20'
           
       - name: Fetch Slack Messages
-        # --dry-run 없이 실제 반영 모드로 실행
+        # --limit=30으로 최근 30개 메시지 확인
         run: node scripts/slack-to-datajs.js --limit=30
         env:
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
           SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
+          # ★ 아래 이 줄이 반드시 있어야 AI 비서가 정상 작동합니다! ★
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
       - name: Commit and push changes
         run: |
