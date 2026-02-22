@@ -811,3 +811,22 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-02-22
+addEvents({
+  "2026-02-22": [
+    {
+      type: "news",
+      title: "Trump Announces Greenland Hospital Ship Mission as Mercy and Comfort Sit in Alabama Shipyard",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · Feb 22, 2026",
+      content: `<p>President Donald Trump announced plans to send a U.S. hospital ship to Greenland to provide medical care. The announcement comes as the USNS Mercy and USNS Comfort remain in Alabama shipyard for maintenance and operations.</p>`,
+      tags: ["Hospital Ship","USNS Mercy","USNS Comfort","Greenland","Medical Operations","U.S. Navy"],
+      link: "https://gcaptain.com/trump-announces-greenland-hospital-ship-mission-as-mercy-and-comfort-sit-in-alabama-shipyard/",
+      coords: [-40.6432,71.9821],
+      location: "Greenland"
+    }
+  ]
+});
