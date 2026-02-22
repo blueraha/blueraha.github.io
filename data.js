@@ -965,3 +965,38 @@ addEvents({
     }
   ]
 });
+
+// ── AI Secretary Report ──
+addEvents({
+  "2026-02-22": [
+    {
+      type: "news",
+      title: "해운업계, 자율운항 선박 기술 개발에 박차",
+      source: "AI Secretary",
+      sourceMeta: "Professional Report · 2026-02-22",
+      content: `<p style="font-weight:300; line-height:1.8;">Executive Summary:<br>해운업계가 자율운항 선박 기술 개발에 박차를 가하고 있다. 유엔 산하 국제해사기구(IMO)는 2030년까지 무인자율운항 선박 상용화를 목표로 관련 규제 마련에 힘쓰고 있으며, 선진 해운사들도 자율운항 선박 기술 실증에 박차를 가하고 있다. 특히 선박 충돌 예방을 위한 COLREG 규칙 등 핵심 기술 개발과 더불어 선박-육상 간 통신 기술, 운항 모니터링 시스템 등 기반 기술 확보에도 주력하고 있다. 이를 통해 해운업계는 인건비 절감, 운항 효율성 제고, 안전성 향상 등의 효과를 기대하고 있다.<br>Key English Quotes:<br>"The International Maritime Organization (IMO) has set a target of 2030 for the commercialization of unmanned autonomous ships." (국제해사기구(IMO)는 2030년까지 무인자율운항 선박의 상용화를 목표로 하고 있다.)<br>"Ship-to-shore communication, monitoring systems, and the application of COLREG rules are some of the key technologies being developed." (선박-육상 간 통신, 모니터링 시스템, COLREG 규칙 적용 등이 핵심 개발 기술이다.)<br>"The shipping industry is aiming to achieve cost savings, improved operational efficiency, and enhanced safety through the adoption of autonomous ship technologies." (해운업계는 자율운항 선박 기술 도입을 통해 인건비 절감, 운항 효율성 제고, 안전성 향상을 목표로 하고 있다.)<br>Technical Insights:<br>자율운항 선박 기술은 선박-육상 간 통신 기술, 선박 운항 모니터링 시스템, COLREG 규칙 적용 기술 등을 포함한다. 이를 통해 선박 충돌 사고 예방, 운항 효율성 향상, 인건비 절감 등의 효과를 거둘 수 있다. 특히 COLREG 규칙은 선박 간 충돌 예방을 위한 핵심 국제 규정으로, 자율운항 선박에서도 이를 준수하는 것이 필수적이다. 해운업계는 이러한 기술 개발을 통해 미래 해운 산업의 경쟁력을 높일 것으로 기대하고 있다.</p>`,
+      tags: ["AI_Insights","Bilingual"],
+      link: "https://www.marinelog.com/ttb2026/",
+      coords: [0, 0],
+      location: "Global"
+    }
+  ]
+});
+
+
+// ── AI Secretary Report ──
+addEvents({
+  "2026-02-22": [
+    {
+      type: "news",
+      title: "현대중공업과 지멘스의 선박 데이터 통합 솔루션",
+      source: "AI Secretary",
+      sourceMeta: "Professional Report · 2026-02-22",
+      content: `<p style="font-weight:300; line-height:1.8;">Executive Summary:<br>현대중공업과 지멘스가 선박 설계, 건조, 운영을 아우르는 통합 디지털 솔루션을 개발했다. 이를 통해 데이터 기반의 선박 생애주기 관리가 가능해졌다. 특히 선박 운항 데이터와 엔지니어링 데이터의 실시간 연동으로 선박 운영 효율성을 크게 높일 수 있게 되었다. 또한 이 솔루션은 자율운항 선박 개발에도 활용될 것으로 기대된다.<br>Key English Quotes:<br>"The new digital solutions we are developing with Hyundai Heavy Industries will help to improve efficiency and productivity in shipbuilding as well as ship operations." (현대중공업과 함께 개발한 새로운 디지털 솔루션은 선박 건조와 운영의 효율성과 생산성 향상에 도움이 될 것입니다.)<br>"Connecting engineering and operations data in an open, scalable platform will enable our customers to make more informed decisions and improve their performance." (개방형, 확장형 플랫폼에서 엔지니어링 데이터와 운영 데이터를 연결함으로써 고객들이 더 나은 의사결정을 내리고 성과를 개선할 수 있게 될 것입니다.)<br>Technical Insights:<br>이번 협력을 통해 현대중공업과 지멘스는 선박 건조에서 운영에 이르는 전 생애주기 데이터를 통합하는 솔루션을 개발했다. 이를 통해 설계, 건조, 운항 데이터가 실시간으로 연동되어, 선박 운영 최적화와 자율운항 선박 개발에 활용될 수 있게 되었다. 특히 엔지니어링 데이터와 운영 데이터의 통합은 COLREG 규칙 준수, 연료 효율성 향상 등 선박 운항의 안전성과 효율성 제고에 기여할 것으로 기대된다.</p>`,
+      tags: ["AI_Insights","Bilingual"],
+      link: "https://thedigitalship.com/news/electronics-navigation/hd-hyundai-and-siemens-unify-shipyard-data/",
+      coords: [0, 0],
+      location: "Global"
+    }
+  ]
+});
