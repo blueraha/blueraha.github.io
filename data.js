@@ -1000,3 +1000,56 @@ addEvents({
     }
   ]
 });
+
+// ── AI Secretary Report ──
+addEvents({
+  "2026-02-23": [
+    {
+      type: "news",
+      title: "자율운항 선박 기술 발전에 박차를 가하는 DARPA의 Pulling Guard 프로그램",
+      source: "AI Secretary",
+      sourceMeta: "Professional Report · 2026-02-23",
+      content: `<p style="font-weight:300; line-height:1.8;">Executive Summary:<br>DARPA의 Pulling Guard 프로그램은 자율운항 선박 기술 발전을 위해 Saronic社와 협력을 체결했다. Saronic社는 센서 융합, 선박 운항 알고리즘, 인공지능 기반 의사결정 등 핵심 기술을 제공할 예정이다. 이를 통해 선박의 자율 운항 및 충돌 방지 기능이 크게 향상될 것으로 기대된다. 또한 이번 협력은 안전성과 효율성이 강화된 차세대 자율운항 선박 개발에 기여할 것으로 보인다.<br>Key English Quotes:<br>"Saronic will be providing sensor fusion, navigation algorithms, and AI-based decision-making capabilities to the program." (Saronic社는 센서 융합, 선박 운항 알고리즘, 인공지능 기반 의사결정 기능을 Pulling Guard 프로그램에 제공할 예정이다.)<br>"The goal is to develop highly autonomous vessel capabilities that can sense and avoid obstacles, navigate complex waterways, and ultimately enable safer, more efficient maritime operations." (이 프로그램의 목표는 장애물 감지 및 회피, 복잡한 수로 항해 등의 고도로 자율적인 선박 기능을 개발하여 보다 안전하고 효율적인 해상 운항을 가능하게 하는 것이다.)<br>Technical Insights:<br>이번 협력을 통해 DARPA는 자율운항 선박 기술의 핵심인 센서 융합, 선박 운항 알고리즘, 인공지능 기반 의사결정 등의 분야에서 Saronic社의 전문성을 활용할 수 있게 되었다. 이는 선박의 충돌 방지, 복잡한 수로 항해, 안전성 및 효율성 향상 등 자율운항 선박 기술의 발전을 가속화할 것으로 기대된다. 특히 COLREG 규칙에 부합하는 선박 운항 알고리즘 개발은 향후 자율운항 선박의 실용화에 있어 중요한 의미를 가질 것으로 보인다.</p>`,
+      tags: ["AI_Insights","Bilingual"],
+      link: "https://www.navalnews.com/naval-news/2026/02/saronic-tapped-to-assist-darpas-pulling-guard-program/",
+      coords: [0, 0],
+      location: "Global"
+    }
+  ]
+});
+
+
+// ── AI Secretary Report ──
+addEvents({
+  "2026-02-23": [
+    {
+      type: "news",
+      title: "자율운항 선박 기술의 COLREG 규칙 적용에 관한 주요 고려사항",
+      source: "AI Secretary",
+      sourceMeta: "Professional Report · 2026-02-23",
+      content: `<p style="font-weight:300; line-height:1.8;">Executive Summary:<br>이 기사는 자율운항 선박의 국제 해상 충돌 예방 규칙(COLREG) 적용에 대한 국내외 논의 현황을 소개하고 있다. 자율운항 선박의 안전 운항을 위해서는 COLREG 규칙의 명확한 해석과 적용이 필수적이며, 이를 위해 국제 기구와 각국 정부 차원의 노력이 이루어지고 있다. 또한 선박 자동화 기술의 발전에 따른 선박 운항 체계의 변화와 관련 법규 및 규정의 개정 필요성도 제기되고 있다.<br>Key English Quotes:<br>"In order for autonomous ships to operate safely, the clear interpretation and application of COLREG rules is essential." (자율운항 선박의 안전한 운항을 위해서는 COLREG 규칙의 명확한 해석과 적용이 필수적이다.)<br>"Discussions are underway at the International Maritime Organization (IMO) and national governments to address the COLREG application issues for autonomous ships." (자율운항 선박의 COLREG 적용 문제를 해결하기 위해 국제해사기구(IMO)와 각국 정부 차원의 논의가 진행 중이다.)<br>"The development of ship automation technology is changing the ship operation system, so revisions of relevant laws and regulations are needed." (선박 자동화 기술의 발전으로 선박 운항 체계가 변화하고 있어 관련 법규 및 규정의 개정이 필요하다.)<br>Technical Insights:<br>자율운항 선박의 안전한 운항을 위해서는 COLREG 규칙의 명확한 해석과 적용이 필수적이다. 현재 IMO와 각국 정부에서는 자율운항 선박의 COLREG 적용 문제를 해결하기 위한 논의가 진행 중이다. 특히 선박 자동화 기술의 발전에 따른 선박 운항 체계 변화에 맞춰 관련 법규 및 규정의 개정이 필요한 상황이다. 향후 이러한 노력을 통해 자율운항 선박의 안전성과 신뢰성 확보가 가능할 것으로 기대된다.</p>`,
+      tags: ["AI_Insights","Bilingual"],
+      link: "https://www.esnews.kr/news/articleView.html?idxno=2551",
+      coords: [0, 0],
+      location: "Global"
+    }
+  ]
+});
+
+
+// ── AI Secretary Report ──
+addEvents({
+  "2026-02-23": [
+    {
+      type: "news",
+      title: "해양 기관 네트워킹과 자율운항 기술 발전",
+      source: "AI Secretary",
+      sourceMeta: "Professional Report · 2026-02-23",
+      content: `<p style="font-weight:300; line-height:1.8;">Executive Summary: 싱가포르 해양 기자재 전시회 (SMW 2026)의 30주년 기념 행사가 열립니다. 이 행사에는 해운, 항만, 조선 등 해양 관련 기관들이 대거 참여할 예정이며, 자율운항 선박 기술, 해상교통법 (COLREG) 규정 개선, 디지털 트윈 등 최신 기술 동향이 소개될 것으로 보입니다. 특히 자율운항 선박 기술의 진화와 이에 따른 법/제도 변화가 핵심 이슈로 다뤄질 것으로 예상됩니다. 이번 행사를 통해 해양 산업 전반의 네트워킹과 기술 혁신이 촉진될 것으로 기대됩니다.<br>Key English Quotes:<br>"The 30th anniversary of the SMW exhibition will be a landmark event for the maritime industry, showcasing the latest innovations in autonomous shipping, digital twinning, and COLREG updates." (이번 SMW 전시회 30주년 행사는 해운 산업 발전의 이정표가 될 것이며, 자율운항 선박, 디지털 트윈, COLREG 규정 개선 등의 최신 기술이 선보일 것입니다.)<br>"Networking and knowledge-sharing among maritime stakeholders will be a key focus, as the industry navigates the transition towards greater automation and digitalization." (해양 이해관계자들 간의 네트워킹과 지식 공유가 핵심 초점이 될 것이며, 업계는 더 높은 자동화와 디지털화로의 전환을 모색할 것입니다.)<br>"The event will provide a platform for discussion on the regulatory and technological advances required to enable safe and efficient autonomous shipping operations." (이번 행사에서는 안전하고 효율적인 자율운항 선박 운영을 위한 규제와 기술 발전에 대한 논의가 이루어질 것입니다.)<br>Technical Insights:<br>이번 SMW 전시회는 자율운항 선박 기술의 발전 방향과 COLREG 규정 개선 방안을 집중적으로 다룰 것으로 보입니다. 현재 자율운항 선박 기술은 센서 융합, 의사결정 알고리즘, 통신 등의 분야에서 비약적인 발전을 이루고 있지만, 이를 실제 운항에 적용하기 위해서는 관련 법규 정비가 선행되어야 합니다. 특히 COLREG 규정은 인간 선장 중심으로 수립되어 있어, 자율운항 선박의 특성을 반영하지 못하고 있어 개정이 필요한 상황입니다. 이번 행사에서는 이러한 기술적, 정책적 과제에 대한 다양한 의견이 제시될 것으로 기대됩니다.</p>`,
+      tags: ["AI_Insights","Bilingual"],
+      link: "https://www.smw.sg/smw-2026/smw-anniversary-party",
+      coords: [0, 0],
+      location: "Global"
+    }
+  ]
+});
