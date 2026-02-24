@@ -1,17 +1,13 @@
 name: Slack Live Sync
 
 on:
-  # Slack에서 webhook으로 트리거할 때 실행
   repository_dispatch:
     types: [slack-message]
-  
-  # 수동 실행도 가능 (테스트용)
   workflow_dispatch:
 
 permissions:
   contents: write
 
-# 동시 실행 방지 (충돌 예방)
 concurrency:
   group: slack-sync
   cancel-in-progress: true
@@ -33,7 +29,10 @@ jobs:
         run: |
           cd scripts
           npm install
-          
+
+      - name: Save data.js before
+        run: cp data.js data.js.before
+
       - name: Fetch Slack Messages
         run: node scripts/slack-to-datajs.js --limit=10
         env:
@@ -41,10 +40,56 @@ jobs:
           SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
+      - name: Check diff and build summary
+        id: diff
+        run: |
+          if diff -q data.js data.js.before > /dev/null 2>&1; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            
+            # 새로 추가된 항목에서 title, type, location 추출
+            TITLES=$(diff data.js.before data.js | grep "^>" | grep "title:" | sed 's/^>.*title: "//' | sed 's/",$//' | head -5)
+            TYPES=$(diff data.js.before data.js | grep "^>" | grep "type:" | sed 's/^>.*type: "//' | sed 's/",$//' | head -5)
+            LOCATIONS=$(diff data.js.before data.js | grep "^>" | grep "location:" | sed 's/^>.*location: "//' | sed 's/"$//' | head -5)
+            
+            SUMMARY=""
+            i=1
+            while IFS= read -r title; do
+              type=$(echo "$TYPES" | sed -n "${i}p")
+              location=$(echo "$LOCATIONS" | sed -n "${i}p")
+              type_upper=$(echo "$type" | tr '[:lower:]' '[:upper:]')
+              SUMMARY="${SUMMARY}• [${type_upper}] ${title} (${location})\n"
+              i=$((i+1))
+            done <<< "$TITLES"
+            
+            EOF=$(dd if=/dev/urandom bs=15 count=1 status=none | base64)
+            echo "summary<<$EOF" >> $GITHUB_OUTPUT
+            echo -e "$SUMMARY" >> $GITHUB_OUTPUT
+            echo "$EOF" >> $GITHUB_OUTPUT
+          fi
+          
+          rm -f data.js.before
+
       - name: Commit and push changes
+        if: steps.diff.outputs.changed == 'true'
         run: |
           git config user.name "Slack Sync Bot"
           git config user.email "bot@autonomousship.org"
           git add data.js
           git diff --staged --quiet || git commit -m "⚡ Slack sync: $(date +'%Y-%m-%d %H:%M')"
           git push
+
+      - name: Notify Slack - success
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          curl -X POST -H 'Content-type: application/json' \
+            --data "{\"text\":\"✅ *Maritime Hub 업데이트 완료*\n\n${{ steps.diff.outputs.summary }}\n🔗 https://autonomousship.org\"}" \
+            ${{ secrets.SLACK_WEBHOOK_URL }}
+
+      - name: Notify Slack - no updates
+        if: steps.diff.outputs.changed != 'true'
+        run: |
+          curl -X POST -H 'Content-type: application/json' \
+            --data '{"text":"ℹ️ Slack Sync 실행 — 새로운 소식 없음"}' \
+            ${{ secrets.SLACK_WEBHOOK_URL }}
