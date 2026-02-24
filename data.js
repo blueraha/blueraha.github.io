@@ -1053,3 +1053,22 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-02-23
+addEvents({
+  "2026-02-23": [
+    {
+      type: "news",
+      title: "Panama Officially Cancels CK Hutchison Port Concessions, Clearing Path for Maersk",
+      source: "gCaptain",
+      sourceMeta: "gCaptain · Feb 23, 2026",
+      content: `<p>Panama's Supreme Court has canceled key port contracts held by CK Hutchison subsidiary, as published in the official gazette. This ruling clears the way for Maersk's APM Terminals to assume temporary control of the port operations.</p>`,
+      tags: ["Panama","Port Operations","Maersk","CK Hutchison","APM Terminals","Port Management"],
+      link: "https://gcaptain.com/panama-officially-cancels-ck-hutchison-port-concessions-clearing-path-for-maersk/",
+      coords: [-79.5,8.9],
+      location: "Panama"
+    }
+  ]
+});
