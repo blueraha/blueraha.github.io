@@ -1072,3 +1072,39 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-02-22
+addEvents({
+  "2026-02-22": [
+    {
+      type: "accident",
+      title: "Fin Whale Ship Strikes Surge In Chilean Waters",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · Feb 22, 2026",
+      content: `<p>Fin whales feeding in Chile's northern bays face escalating threats from ship collisions and fishing nets, making the region a global hotspot for whale strandings. Marine experts warn the deaths threaten climate-critical species.</p>`,
+      tags: ["whale strike","collision","marine life","Chile","northern bays"],
+      link: "https://gcaptain.com/fin-whale-ship-strikes-chile-collision-threat/",
+      coords: [-71.5,-20],
+      location: "Northern Chile Waters"
+    }
+  ]
+});
+
+// Auto-collected: 2026-02-23
+addEvents({
+  "2026-02-23": [
+    {
+      type: "news",
+      title: "Soaring Tanker Costs Force West African Oil Price Cuts",
+      source: "gCaptain",
+      sourceMeta: "gCaptain · Feb 23, 2026",
+      content: `<p>West African crude traders are slashing prices as soaring freight costs and unfavorable Brent-Dubai spreads reduce Asian demand. Tanker rates to Asia have hit five-year highs while Nigerian crude discounts deepen.</p>`,
+      tags: ["Tanker Rates","Oil Shipping","West Africa","Maritime Economics"],
+      link: "https://gcaptain.com/west-africa-crude-discounts-freight-rates-surge/",
+      coords: [0,5],
+      location: "West Africa"
+    }
+  ]
+});
