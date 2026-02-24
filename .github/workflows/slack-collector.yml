@@ -1,13 +1,20 @@
 name: Slack Live Sync
 
 on:
-  schedule:
-    # 5분마다 실행 (비용 발생 없는 슬랙 동기화 전용)
-    - cron: '*/5 * * * *'
-  workflow_dispatch: # 수동 실행 가능
+  # Slack에서 webhook으로 트리거할 때 실행
+  repository_dispatch:
+    types: [slack-message]
+  
+  # 수동 실행도 가능 (테스트용)
+  workflow_dispatch:
 
 permissions:
   contents: write
+
+# 동시 실행 방지 (충돌 예방)
+concurrency:
+  group: slack-sync
+  cancel-in-progress: true
 
 jobs:
   sync:
@@ -21,14 +28,17 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+
+      - name: Install dependencies
+        run: |
+          cd scripts
+          npm install
           
       - name: Fetch Slack Messages
-        # --limit=30으로 최근 30개 메시지 확인
-        run: node scripts/slack-to-datajs.js --limit=30
+        run: node scripts/slack-to-datajs.js --limit=10
         env:
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
           SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
-          # ★ 아래 이 줄이 반드시 있어야 AI 비서가 정상 작동합니다! ★
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
       - name: Commit and push changes
@@ -36,6 +46,5 @@ jobs:
           git config user.name "Slack Sync Bot"
           git config user.email "bot@autonomousship.org"
           git add data.js
-          # 슬랙에서 가져온 새 글이 있어서 data.js가 변경되었을 때만 커밋
-          git diff --staged --quiet || git commit -m "⚡ Auto-update: Sync latest Slack messages"
+          git diff --staged --quiet || git commit -m "⚡ Slack sync: $(date +'%Y-%m-%d %H:%M')"
           git push
