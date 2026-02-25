@@ -484,20 +484,6 @@ addEvents({
   ]
 });
 
-// ── 2026 MAR ──
-
-// AISS Conference - Mar 24-25
-addEvents(multiDay("2026-03-24", 2, {
-  type: "event",
-  title: "Autonomous Inland & Short Sea Shipping Conference (AISS)",
-  source: "AISS",
-  sourceMeta: "Mar 24-25",
-  content: `<p>Messe Düsseldorf, Germany</p>`,
-  tags: ["Autonomous","ShortSea","DigitalShipping"],
-  link: "https://aiss-conf.com",
-  coords: [6.7403, 51.2728],
-  location: "Düsseldorf"
-}));
 
 // ── 2026 APR ──
 
@@ -529,18 +515,7 @@ addEvents(multiDay("2026-04-22", 3, {
 
 // ── 2026 MAY ──
 
-// OTC - May 4-7
-addEvents(multiDay("2026-05-04", 4, {
-  type: "event",
-  title: "OTC 2026",
-  source: "OTC",
-  sourceMeta: "May 4-7",
-  content: `<p>NRG Park, Houston</p>`,
-  tags: ["Conference","Offshore","Energy"],
-  link: "https://2026.otcnet.org/",
-  coords: [-95.4094, 29.6844],
-  location: "Houston"
-}));
+
 
 // Digital@Sea - May 6-7
 addEvents(multiDay("2026-05-06", 2, {
@@ -568,47 +543,160 @@ addEvents(multiDay("2026-05-13", 10, {
   location: "London"
 }));
 
-// ── 2026 JUN ──
+// Dubai International Boat Show
+addEvents(multiDay("2026-04-08", 5, {
+  type: "event",
+  title: "Dubai International Boat Show",
+  source: "Official",
+  sourceMeta: "Apr 8–12",
+  content: `<p>Dubai Harbour, Dubai, UAE</p>`,
+  tags: ["Maritime","Boat Show","Yachting"],
+  link: "https://www.boatshowdubai.com",
+  coords: [55.2620, 25.0857],
+  location: "Dubai, UAE"
+}));
 
-// Posidonia - Jun 1-5
+// Posidonia 2026
 addEvents(multiDay("2026-06-01", 5, {
   type: "event",
-  title: "Posidonia 2026",
+  title: "Posidonia International Shipping Exhibition",
   source: "Posidonia",
-  sourceMeta: "Jun 1-5",
-  content: `<p>Athens Metropolitan Expo, Greece</p>`,
-  tags: ["Shipping","Global","Exhibition"],
-  link: "https://posidonia-events.com",
-  coords: [23.9554, 37.9366],
-  location: "Athens"
+  sourceMeta: "Jun 1–5",
+  content: `<p>Metropolitan Expo, Athens, Greece</p>`,
+  tags: ["Maritime","Shipping","Exhibition"],
+  link: "https://www.posidonia-events.com",
+  coords: [23.9485, 37.9369],
+  location: "Athens, Greece"
 }));
 
-// Autonomous Ship Expo - Jun 16-18
+// Autonomous Ship Expo & Conference
 addEvents(multiDay("2026-06-16", 3, {
   type: "event",
-  title: "Autonomous Ship Expo & Conference 2026",
-  source: "Autonomous Ship Expo",
-  sourceMeta: "Jun 16-18",
-  content: `<p>RAI Amsterdam Convention Centre</p>`,
-  tags: ["Autonomous","AI","MASS"],
-  link: "https://electricandhybridmarineworldexpo.com/autonomous-ship-expo",
-  coords: [4.8852, 52.3423],
-  location: "Amsterdam"
+  title: "Autonomous Ship Expo & Conference",
+  source: "Maritime Innovations",
+  sourceMeta: "Jun 16–18",
+  content: `<p>RAI Amsterdam, Netherlands</p>`,
+  tags: ["MASS","Autonomy","Conference"],
+  link: "https://maritime-innovations.com/event/autonomous-ship-expo-conference",
+  coords: [4.8883, 52.3546],
+  location: "Amsterdam, Netherlands"
 }));
 
-// ── 2026 SEP ──
+// Venice Boat Show
+addEvents(multiDay("2026-05-27", 5, {
+  type: "event",
+  title: "Salone Nautico Venezia (Venice Boat Show)",
+  source: "Salone Nautico Venezia",
+  sourceMeta: "May 27–31",
+  content: `<p>Arsenale di Venezia, Venice, Italy</p>`,
+  tags: ["Maritime","Boat Show"],
+  link: "https://salonenautico.venezia.it/en/",
+  coords: [12.3321, 45.4315],
+  location: "Venice, Italy"
+}));
 
-// SMM - Sep 1-4
+// Singapore Maritime Week
+addEvents(multiDay("2026-04-20", 5, {
+  type: "event",
+  title: "Singapore Maritime Week",
+  source: "SMW",
+  sourceMeta: "Apr 20–24",
+  content: `<p>Singapore</p>`,
+  tags: ["Maritime","Conference","Innovation"],
+  link: "https://www.smw.sg",
+  coords: [103.8198, 1.3521],
+  location: "Singapore"
+}));
+
+// Offshore Technology Conference 2026
+addEvents(multiDay("2026-05-04", 4, {
+  type: "event",
+  title: "Offshore Technology Conference (OTC)",
+  source: "OTC",
+  sourceMeta: "May 4–7",
+  content: `<p>NRG Park, Houston, Texas, USA</p>`,
+  tags: ["Energy","Offshore","Technology"],
+  link: "https://2026.otcnet.org",
+  coords: [-95.3903, 29.6836],
+  location: "Houston, TX, USA"
+}));
+
+// SMM Hamburg 2026
 addEvents(multiDay("2026-09-01", 4, {
   type: "event",
-  title: "SMM 2026",
-  source: "Hamburg Messe",
-  sourceMeta: "Sep 1-4",
-  content: `<p>Hamburg Messe und Congress</p>`,
-  tags: ["Shipbuilding","Digital","Maritime"],
+  title: "SMM Hamburg",
+  source: "SMM",
+  sourceMeta: "Sep 1–4",
+  content: `<p>Messeplatz 1, Hamburg, Germany</p>`,
+  tags: ["Maritime","Industry","Exhibition"],
   link: "https://www.smm-hamburg.com",
-  coords: [9.9749, 53.5585],
-  location: "Hamburg"
+  coords: [9.9841, 53.5438],
+  location: "Hamburg, Germany"
+}));
+
+// Gastech Shipping & Marine Exhibition
+addEvents(multiDay("2026-09-14", 4, {
+  type: "event",
+  title: "Gastech Shipping & Marine",
+  source: "Gastech",
+  sourceMeta: "Sep 14–17",
+  content: `<p>Bangkok, Thailand</p>`,
+  tags: ["Energy","Maritime","Trade"],
+  link: "https://www.gastechevent.com",
+  coords: [100.5018, 13.7563],
+  location: "Bangkok, Thailand"
+}));
+
+// World Maritime Day (Korea)
+addEvents(multiDay("2026-10-26", 2, {
+  type: "event",
+  title: "World Maritime Day",
+  source: "IMO",
+  sourceMeta: "Oct 26–27",
+  content: `<p>Hosted in Korea (City TBD)</p>`,
+  tags: ["IMO","Maritime"],
+  link: "https://www.imo.org",
+  coords: [126.9780, 37.5665],
+  location: "Seoul, Korea"
+}));
+
+// ADIPEC 2026
+addEvents(multiDay("2026-11-02", 4, {
+  type: "event",
+  title: "ADIPEC",
+  source: "ADIPEC",
+  sourceMeta: "Nov 2–5",
+  content: `<p>Abu Dhabi, UAE</p>`,
+  tags: ["Energy","Oil & Gas","Technology"],
+  link: "https://www.adipec.com",
+  coords: [54.3675, 24.4539],
+  location: "Abu Dhabi, UAE"
+}));
+
+// IMO MSC 112
+addEvents(multiDay("2026-12-07", 5, {
+  type: "event",
+  title: "IMO MSC 112",
+  source: "IMO",
+  sourceMeta: "Dec 7–11",
+  content: `<p>IMO Headquarters, London</p>`,
+  tags: ["IMO","Safety","MASS"],
+  link: "https://www.imo.org",
+  coords: [-0.1173, 51.4936],
+  location: "London, UK"
+}));
+
+// AISS – Autonomous Inland & Short Sea Shipping
+addEvents(multiDay("2026-03-24", 2, {
+  type: "event",
+  title: "AISS – Autonomous Inland & Short Sea Shipping Conference",
+  source: "AISS",
+  sourceMeta: "Mar 24–25",
+  content: `<p>Düsseldorf, Germany</p>`,
+  tags: ["Autonomy","Shipping","Conference"],
+  link: "https://aiss-conf.com",
+  coords: [6.7735, 51.2277],
+  location: "Düsseldorf, Germany"
 }));
 
 // SAFETY4SEA - Sep 24
