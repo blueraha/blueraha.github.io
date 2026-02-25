@@ -512,8 +512,7 @@ addEvents(multiDay("2026-04-22", 3, {
   coords: [139.7936, 35.6297],
   location: "Tokyo"
 }));
-// Asia
- Pacific Maritime (APM) 2026
+// Asia Pacific Maritime (APM) 2026
 addEvents(multiDay("2026-03-25", 3, {
   type: "event",
   title: "Asia Pacific Maritime (APM)",
