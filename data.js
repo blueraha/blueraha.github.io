@@ -882,75 +882,9 @@ addEvents({
   ]
 });
 
-// ── AI Secretary Report ──
-addEvents({
-  "2026-02-22": [
-    {
-      type: "news",
-      title: "자율운항 선박의 미래와 COLREG 규칙의 대응",
-      source: "AI Secretary",
-      sourceMeta: "Professional Report · 2026-02-22",
-      content: `<p style="font-weight:300; line-height:1.8;">Executive Summary:<br>이번 기사에서는 자율운항 선박의 기술 발전 현황과 국제해사기구(IMO)의 COLREG 규칙 개정 논의를 소개하고 있습니다. 자율운항 선박은 최근 급속도로 발전하고 있으며, 이에 따라 기존 COLREG 규칙의 한계가 부각되고 있습니다. IMO는 자율운항 선박 시대에 맞춰 COLREG 규칙 개정을 추진 중이며, 선박 간 상호작용과 위험 상황 대응 등 핵심 쟁점을 중심으로 논의가 진행되고 있습니다. 이를 통해 자율운항 선박의 안전성을 높이고 해운 산업의 미래를 준비하고자 합니다.<br>Key English Quotes:<br>"The International Maritime Organization (IMO) has made addressing the potential challenges posed by autonomous ships a priority, with the goal of updating the 'COLREGS' (Convention on the International Regulations for Preventing Collisions at Sea) to ensure they remain fit for purpose in the era of autonomous navigation." (자율운항 선박이 야기할 수 있는 잠재적 문제를 해결하는 것이 국제해사기구(IMO)의 최우선 과제이며, 이를 위해 자율운항 시대에 맞춰 COLREG 규칙을 개정하고자 합니다.)<br>"The key challenges include how autonomous ships will interact with each other and with manned vessels, how risks will be managed, and how liability will be attributed in the event of an incident." (자율운항 선박과 유인 선박 간 상호작용, 위험 관리, 사고 발생 시 책임 귀속 등이 핵심 쟁점으로 논의되고 있습니다.)<br>Technical Insights:<br>자율운항 선박 기술은 해운 산업의 혁신을 불러일으키고 있습니다. 하지만 기존 COLREG 규칙은 유인 선박 중심으로 설계되어 자율운항 선박에는 일부 적용이 어려운 한계가 있습니다. IMO는 자율운항 선박의 안전운항을 위해 COLREG 규칙 개정을 추진하고 있으며, 선박 간 상호작용과 위험 상황 대응 등 새로운 기술적 요소를 반영하고자 합니다. 이를 통해 자율운항 선박 시대에 맞는 선박 간 충돌 방지 규칙을 마련할 것으로 기대됩니다. 또한 이번 COLREG 규칙 개정은 해운 산업의 디지털 전환과 자율화를 촉진하는 계기가 될 것으로 보입니다.</p>`,
-      tags: ["AI_Insights","Bilingual"],
-      link: "https://maritime-hub.slack.com/services/B0AGET79V2N",
-      coords: [0, 0],
-      location: "Global"
-    }
-  ]
-});
 
 
-// ── AI Secretary Report ──
-addEvents({
-  "2026-02-22": [
-    {
-      type: "news",
-      title: "해운업계, 자율운항 선박 기술 개발에 박차",
-      source: "AI Secretary",
-      sourceMeta: "Professional Report · 2026-02-22",
-      content: `<p style="font-weight:300; line-height:1.8;">Executive Summary:<br>해운업계가 자율운항 선박 기술 개발에 박차를 가하고 있다. 유엔 산하 국제해사기구(IMO)는 2030년까지 무인자율운항 선박 상용화를 목표로 관련 규제 마련에 힘쓰고 있으며, 선진 해운사들도 자율운항 선박 기술 실증에 박차를 가하고 있다. 특히 선박 충돌 예방을 위한 COLREG 규칙 등 핵심 기술 개발과 더불어 선박-육상 간 통신 기술, 운항 모니터링 시스템 등 기반 기술 확보에도 주력하고 있다. 이를 통해 해운업계는 인건비 절감, 운항 효율성 제고, 안전성 향상 등의 효과를 기대하고 있다.<br>Key English Quotes:<br>"The International Maritime Organization (IMO) has set a target of 2030 for the commercialization of unmanned autonomous ships." (국제해사기구(IMO)는 2030년까지 무인자율운항 선박의 상용화를 목표로 하고 있다.)<br>"Ship-to-shore communication, monitoring systems, and the application of COLREG rules are some of the key technologies being developed." (선박-육상 간 통신, 모니터링 시스템, COLREG 규칙 적용 등이 핵심 개발 기술이다.)<br>"The shipping industry is aiming to achieve cost savings, improved operational efficiency, and enhanced safety through the adoption of autonomous ship technologies." (해운업계는 자율운항 선박 기술 도입을 통해 인건비 절감, 운항 효율성 제고, 안전성 향상을 목표로 하고 있다.)<br>Technical Insights:<br>자율운항 선박 기술은 선박-육상 간 통신 기술, 선박 운항 모니터링 시스템, COLREG 규칙 적용 기술 등을 포함한다. 이를 통해 선박 충돌 사고 예방, 운항 효율성 향상, 인건비 절감 등의 효과를 거둘 수 있다. 특히 COLREG 규칙은 선박 간 충돌 예방을 위한 핵심 국제 규정으로, 자율운항 선박에서도 이를 준수하는 것이 필수적이다. 해운업계는 이러한 기술 개발을 통해 미래 해운 산업의 경쟁력을 높일 것으로 기대하고 있다.</p>`,
-      tags: ["AI_Insights","Bilingual"],
-      link: "https://www.marinelog.com/ttb2026/",
-      coords: [0, 0],
-      location: "Global"
-    }
-  ]
-});
 
-
-// ── AI Secretary Report ──
-addEvents({
-  "2026-02-22": [
-    {
-      type: "news",
-      title: "현대중공업과 지멘스의 선박 데이터 통합 솔루션",
-      source: "AI Secretary",
-      sourceMeta: "Professional Report · 2026-02-22",
-      content: `<p style="font-weight:300; line-height:1.8;">Executive Summary:<br>현대중공업과 지멘스가 선박 설계, 건조, 운영을 아우르는 통합 디지털 솔루션을 개발했다. 이를 통해 데이터 기반의 선박 생애주기 관리가 가능해졌다. 특히 선박 운항 데이터와 엔지니어링 데이터의 실시간 연동으로 선박 운영 효율성을 크게 높일 수 있게 되었다. 또한 이 솔루션은 자율운항 선박 개발에도 활용될 것으로 기대된다.<br>Key English Quotes:<br>"The new digital solutions we are developing with Hyundai Heavy Industries will help to improve efficiency and productivity in shipbuilding as well as ship operations." (현대중공업과 함께 개발한 새로운 디지털 솔루션은 선박 건조와 운영의 효율성과 생산성 향상에 도움이 될 것입니다.)<br>"Connecting engineering and operations data in an open, scalable platform will enable our customers to make more informed decisions and improve their performance." (개방형, 확장형 플랫폼에서 엔지니어링 데이터와 운영 데이터를 연결함으로써 고객들이 더 나은 의사결정을 내리고 성과를 개선할 수 있게 될 것입니다.)<br>Technical Insights:<br>이번 협력을 통해 현대중공업과 지멘스는 선박 건조에서 운영에 이르는 전 생애주기 데이터를 통합하는 솔루션을 개발했다. 이를 통해 설계, 건조, 운항 데이터가 실시간으로 연동되어, 선박 운영 최적화와 자율운항 선박 개발에 활용될 수 있게 되었다. 특히 엔지니어링 데이터와 운영 데이터의 통합은 COLREG 규칙 준수, 연료 효율성 향상 등 선박 운항의 안전성과 효율성 제고에 기여할 것으로 기대된다.</p>`,
-      tags: ["AI_Insights","Bilingual"],
-      link: "https://thedigitalship.com/news/electronics-navigation/hd-hyundai-and-siemens-unify-shipyard-data/",
-      coords: [0, 0],
-      location: "Global"
-    }
-  ]
-});
-
-// ── AI Secretary Report ──
-addEvents({
-  "2026-02-23": [
-    {
-      type: "news",
-      title: "자율운항 선박 기술 발전에 박차를 가하는 DARPA의 Pulling Guard 프로그램",
-      source: "AI Secretary",
-      sourceMeta: "Professional Report · 2026-02-23",
-      content: `<p style="font-weight:300; line-height:1.8;">Executive Summary:<br>DARPA의 Pulling Guard 프로그램은 자율운항 선박 기술 발전을 위해 Saronic社와 협력을 체결했다. Saronic社는 센서 융합, 선박 운항 알고리즘, 인공지능 기반 의사결정 등 핵심 기술을 제공할 예정이다. 이를 통해 선박의 자율 운항 및 충돌 방지 기능이 크게 향상될 것으로 기대된다. 또한 이번 협력은 안전성과 효율성이 강화된 차세대 자율운항 선박 개발에 기여할 것으로 보인다.<br>Key English Quotes:<br>"Saronic will be providing sensor fusion, navigation algorithms, and AI-based decision-making capabilities to the program." (Saronic社는 센서 융합, 선박 운항 알고리즘, 인공지능 기반 의사결정 기능을 Pulling Guard 프로그램에 제공할 예정이다.)<br>"The goal is to develop highly autonomous vessel capabilities that can sense and avoid obstacles, navigate complex waterways, and ultimately enable safer, more efficient maritime operations." (이 프로그램의 목표는 장애물 감지 및 회피, 복잡한 수로 항해 등의 고도로 자율적인 선박 기능을 개발하여 보다 안전하고 효율적인 해상 운항을 가능하게 하는 것이다.)<br>Technical Insights:<br>이번 협력을 통해 DARPA는 자율운항 선박 기술의 핵심인 센서 융합, 선박 운항 알고리즘, 인공지능 기반 의사결정 등의 분야에서 Saronic社의 전문성을 활용할 수 있게 되었다. 이는 선박의 충돌 방지, 복잡한 수로 항해, 안전성 및 효율성 향상 등 자율운항 선박 기술의 발전을 가속화할 것으로 기대된다. 특히 COLREG 규칙에 부합하는 선박 운항 알고리즘 개발은 향후 자율운항 선박의 실용화에 있어 중요한 의미를 가질 것으로 보인다.</p>`,
-      tags: ["AI_Insights","Bilingual"],
-      link: "https://www.navalnews.com/naval-news/2026/02/saronic-tapped-to-assist-darpas-pulling-guard-program/",
-      coords: [0, 0],
-      location: "Global"
-    }
-  ]
-});
 
 
 // ── Auto-Collected (Bot) ──
@@ -991,60 +925,19 @@ addEvents({
   ]
 });
 
-// Auto-collected: 2026-02-23
+// Auto-collected: 2026-02-25
 addEvents({
-  "2026-02-23": [
+  "2026-02-25": [
     {
       type: "news",
       title: "Soaring Tanker Costs Force West African Oil Price Cuts",
       source: "gCaptain",
-      sourceMeta: "gCaptain · Feb 23, 2026",
+      sourceMeta: "gCaptain · Feb 25, 2026",
       content: `<p>West African crude traders are slashing prices as soaring freight costs and unfavorable Brent-Dubai spreads reduce Asian demand. Tanker rates to Asia have hit five-year highs while Nigerian crude discounts deepen.</p>`,
       tags: ["Tanker Rates","Oil Shipping","West Africa","Maritime Economics"],
       link: "https://gcaptain.com/west-africa-crude-discounts-freight-rates-surge/",
       coords: [0,5],
       location: "West Africa"
-    }
-  ]
-});
-
-// ── Auto-Collected (Bot) ──
-
-// Auto-collected: 2026-02-24
-addEvents({
-  "2026-02-24": [
-    {
-      type: "news",
-      title: "N-Sea's new cable layer arrives in the Netherlands for final outfitting",
-      source: "Offshore Energy",
-      sourceMeta: "offshore-energy.biz · Feb 24, 2026",
-      content: `<p>N-Sea Group's new dual-fuel cable installation and repair vessel has arrived in the Netherlands for final outfitting and completion before entering service.</p>`,
-      tags: ["Cable layer","Dual-fuel vessel","Ship construction","Offshore infrastructure"],
-      link: "https://www.offshore-energy.biz/n-seas-new-cable-layer-arrives-in-the-netherlands-for-final-outfitting/",
-      coords: [5.2913,52.0907],
-      location: "Netherlands"
-    },
-    {
-      type: "news",
-      title: "'First-ever' remote operated landing crafts to be built in Malaysia",
-      source: "Offshore Energy",
-      sourceMeta: "offshore-energy.biz · Feb 24, 2026",
-      content: `<p>Malaysia-based offshore support vessel provider Nam Cheong has been awarded shipbuilding contracts for the first-ever remote operated landing crafts, representing a significant advancement in autonomous maritime vessel technology.</p>`,
-      tags: ["Remote Operation","Autonomous Vessels","Landing Craft","Shipbuilding","Malaysia","OSV"],
-      link: "https://www.offshore-energy.biz/first-ever-remote-operated-landing-crafts-to-be-built-in-malaysia/",
-      coords: [101.6869,4.2105],
-      location: "Malaysia"
-    },
-    {
-      type: "news",
-      title: "Venezuela Readies Larger Oil Cargoes for Export, Targets India",
-      source: "gCaptain",
-      sourceMeta: "gcaptain.com · Feb 24, 2026",
-      content: `<p>Trading houses and buyers of Venezuelan oil have chartered the first very large crude carriers (VLCCs) to export from South America since a Caracas-Washington supply deal began, with shipments expected to accelerate in March and increase deliveries to India.</p>`,
-      tags: ["Oil Trade","VLCCs","Venezuela","India","Shipping"],
-      link: "https://gcaptain.com/venezuela-readies-larger-oil-cargoes-for-export-targets-india/",
-      coords: [-66.5897,6.4238],
-      location: "Venezuela"
     }
   ]
 });
