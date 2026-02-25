@@ -540,12 +540,66 @@ function showDetail(e) {
   document.getElementById('modal-title').textContent = e.title;
   document.getElementById('modal-text').innerHTML = e.content;
 
+  // Tags
+  var tagsEl = document.getElementById('modal-tags');
+  if (e.tags && e.tags.length > 0) {
+    tagsEl.innerHTML = e.tags.map(function(t) {
+      return '<span class="modal-tag-chip">' + t + '</span>';
+    }).join('');
+    tagsEl.style.display = 'flex';
+  } else {
+    tagsEl.style.display = 'none';
+  }
+
+  // Location
+  var locEl = document.getElementById('modal-location');
+  if (e.location && e.location !== 'Global') {
+    locEl.innerHTML = '📍 ' + e.location;
+    locEl.style.display = 'block';
+  } else {
+    locEl.style.display = 'none';
+  }
+
+  // Source info
+  var sourceInfo = document.getElementById('modal-source-info');
+  if (e.source || e.sourceMeta) {
+    sourceInfo.innerHTML = (e.source || '') + (e.sourceMeta ? ' · ' + e.sourceMeta : '');
+  }
+
+  // Right side: iframe or fallback
+  var iframe = document.getElementById('modal-iframe');
+  var fallback = document.getElementById('modal-iframe-fallback');
   var linkBtn = document.getElementById('modal-link');
-  if (e.link) {
+  var linkFallback = document.getElementById('modal-link-fallback');
+
+  if (e.link && e.link.length > 0) {
     linkBtn.href = e.link;
     linkBtn.style.display = 'inline-block';
+
+    // Try loading iframe
+    iframe.style.display = 'block';
+    fallback.style.display = 'none';
+    iframe.src = e.link;
+
+    // Timeout fallback (most sites block iframe)
+    setTimeout(function() {
+      try {
+        var iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
+        if (!iframeDoc || !iframeDoc.body || iframeDoc.body.innerHTML.length < 100) {
+          iframe.style.display = 'none';
+          fallback.style.display = 'flex';
+          linkFallback.href = e.link;
+        }
+      } catch(err) {
+        iframe.style.display = 'none';
+        fallback.style.display = 'flex';
+        linkFallback.href = e.link;
+      }
+    }, 3000);
   } else {
     linkBtn.style.display = 'none';
+    iframe.style.display = 'none';
+    fallback.style.display = 'none';
   }
 
   document.getElementById('detail-modal').classList.add('open');
@@ -583,7 +637,11 @@ function closePanel() {
   document.querySelectorAll('.day-item').forEach(function(i) { i.classList.remove('active'); });
 }
 
-function closeDetail() { document.getElementById('detail-modal').classList.remove('open'); }
+function closeDetail() {
+  document.getElementById('detail-modal').classList.remove('open');
+  var iframe = document.getElementById('modal-iframe');
+  if (iframe) iframe.src = 'about:blank';
+}
 
 function openAbout() { document.getElementById('about-modal').classList.add('open'); }
 function closeAbout() { document.getElementById('about-modal').classList.remove('open'); }

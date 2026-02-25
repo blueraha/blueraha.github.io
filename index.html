@@ -587,6 +587,94 @@
     text-decoration: none;
 }
 
+/* ── Split Modal Layout (v3.8) ── */
+.modal-split {
+    max-width: 1100px !important;
+    width: 95% !important;
+    max-height: 85vh;
+    padding: 30px 35px !important;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    position: relative;
+}
+.modal-close-btn {
+    position: absolute; top: 15px; right: 20px;
+    background: none; border: none; font-size: 18px;
+    color: rgba(0,0,0,0.3); cursor: pointer; z-index: 10;
+    transition: color 0.2s;
+}
+.modal-close-btn:hover { color: rgba(0,0,0,0.6); }
+.modal-tags {
+    display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 15px;
+}
+.modal-tag-chip {
+    font-size: 10px; padding: 3px 10px; border-radius: 12px;
+    background: rgba(9,132,227,0.08); color: var(--brand-blue);
+    font-weight: 500; letter-spacing: 0.3px;
+}
+.modal-body-split {
+    display: flex; gap: 0; flex: 1; min-height: 0; overflow: hidden;
+}
+.modal-left {
+    flex: 1; overflow-y: auto; padding-right: 20px;
+    min-width: 0;
+}
+.modal-divider {
+    width: 1px; background: linear-gradient(180deg, transparent, rgba(9,132,227,0.2), transparent);
+    flex-shrink: 0;
+}
+.modal-right {
+    flex: 1; overflow-y: auto; padding-left: 20px;
+    min-width: 0; display: flex; flex-direction: column;
+}
+.modal-section-label {
+    font-size: 11px; font-weight: 600; color: var(--brand-blue);
+    letter-spacing: 0.5px; margin-bottom: 12px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid rgba(9,132,227,0.1);
+}
+.modal-source-info {
+    font-size: 11px; color: var(--text-secondary); margin-bottom: 10px;
+}
+.modal-iframe {
+    flex: 1; width: 100%; border: 1px solid var(--border-color);
+    border-radius: 6px; min-height: 350px; background: #fafafa;
+}
+.modal-iframe-fallback {
+    flex: 1; display: flex; flex-direction: column;
+    align-items: center; justify-content: center;
+    background: rgba(0,0,0,0.02); border-radius: 6px;
+    padding: 40px; text-align: center; min-height: 200px;
+    color: var(--text-secondary); font-size: 13px;
+}
+.modal-original {
+    flex: 1; display: flex; flex-direction: column;
+}
+.modal-footer-bar {
+    display: flex; align-items: center; justify-content: space-between;
+    margin-top: 15px; padding-top: 15px;
+    border-top: 1px solid var(--border-color);
+}
+.modal-location-tag {
+    font-size: 11px; color: var(--text-secondary);
+}
+@media (max-width: 768px) {
+    .modal-split { max-width: 100% !important; width: 100% !important; max-height: 95vh; padding: 20px !important; border-radius: 12px !important; }
+    .modal-body-split { flex-direction: column; overflow-y: auto; }
+    .modal-left { padding-right: 0; padding-bottom: 15px; }
+    .modal-divider { width: 100%; height: 1px; }
+    .modal-right { padding-left: 0; padding-top: 15px; }
+    .modal-iframe { min-height: 250px; }
+}
+body.theme-dark .modal-close-btn { color: rgba(255,255,255,0.3); }
+body.theme-dark .modal-close-btn:hover { color: rgba(255,255,255,0.6); }
+body.theme-dark .modal-tag-chip { background: rgba(255,255,255,0.08); color: #60a5fa; }
+body.theme-dark .modal-iframe { background: #111; border-color: rgba(255,255,255,0.1); }
+body.theme-dark .modal-iframe-fallback { background: rgba(255,255,255,0.03); }
+body.theme-glass .modal-tag-chip { background: rgba(96,165,250,0.15); color: #60a5fa; }
+body.theme-glass .modal-close-btn { color: rgba(255,255,255,0.3); }
+
 /* 5. 타입 태그 (Accident, News 등) 스타일 */
 #modal-type {
     display: inline-block;
@@ -816,11 +904,33 @@
 </div>
 
 <div class="detail-modal" id="detail-modal" onclick="closeDetail()">
-  <div class="modal-content" onclick="event.stopPropagation()">
+  <div class="modal-content modal-split" onclick="event.stopPropagation()">
+    <button class="modal-close-btn" onclick="closeDetail()">✕</button>
     <div id="modal-type" style="font-size:9px; font-weight:600; text-transform:uppercase; margin-bottom:10px; letter-spacing:1px;">TYPE</div>
     <h2 class="modal-title" id="modal-title">TITLE</h2>
-    <div class="modal-text" id="modal-text"></div>
-    <a id="modal-link" href="#" target="_blank" class="news-link">READ FULL ARTICLE →</a>
+    <div id="modal-tags" class="modal-tags"></div>
+    <div class="modal-body-split">
+      <div class="modal-left">
+        <div class="modal-section-label">📋 AI Summary</div>
+        <div class="modal-text" id="modal-text"></div>
+      </div>
+      <div class="modal-divider"></div>
+      <div class="modal-right">
+        <div class="modal-section-label">📰 Original Article</div>
+        <div class="modal-original" id="modal-original">
+          <div id="modal-source-info" class="modal-source-info"></div>
+          <iframe id="modal-iframe" class="modal-iframe" sandbox="allow-same-origin allow-scripts"></iframe>
+          <div id="modal-iframe-fallback" class="modal-iframe-fallback" style="display:none;">
+            <p>원문 미리보기를 지원하지 않는 사이트입니다.</p>
+            <a id="modal-link-fallback" href="#" target="_blank" class="news-link">READ FULL ARTICLE →</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal-footer-bar">
+      <div id="modal-location" class="modal-location-tag"></div>
+      <a id="modal-link" href="#" target="_blank" class="news-link">READ FULL ARTICLE →</a>
+    </div>
   </div>
 </div>
 

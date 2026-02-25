@@ -879,39 +879,8 @@ addEvents({
       coords: [-122.3321, 47.6062], // 임의 좌표
       location: "USA"
     }
-  ],
-  "2026-02-23": [
-    {
-      type: "news",
-      title: "자율운항 선박 원격 제어 성공",
-      source: "gCaptain",
-      sourceMeta: "slack auto · 2026-02-23",
-      content: `<p>Shared from Maritime Hub Slack.</p>`,
-      tags: ["Slack"],
-      link: "https://gcaptain.com/future-of-autonomous-shipping",
-      coords: [128.6, 34.8], // 거제 실증지 부근 좌표
-      location: "Geoje, South Korea"
-    }
   ]
 });
-
-// ── AI Secretary Report ──
-addEvents({
-  "2026-02-22": [
-    {
-      type: "news",
-      title: "마린링크와 마이크로소프트의 선박 운항을 위한 클라우드 기술 협업",
-      source: "AI Secretary",
-      sourceMeta: "Professional Report · 2026-02-22",
-      content: `<p style="font-weight:300; line-height:1.8;">Executive Summary:<br>마린링크와 마이크로소프트는 선박 운항에 필요한 클라우드 기반의 디지털 솔루션 개발을 위해 협력 관계를 강화했다. 이를 통해 선박 운항에 필요한 데이터 수집, 저장, 분석 및 관리 기능을 클라우드 시스템에서 제공할 계획이다. 또한 자율운항 선박을 위한 AI 및 IoT 기술을 개발하고, COLREG 규칙 준수와 같은 선박 안전성 향상을 위한 서비스도 제공할 예정이다. 이는 해운 산업의 디지털 전환과 지속가능성 제고에 기여할 것으로 기대된다.<br>Key English Quotes:<br>"Through this new strategic partnership, Marlink and Microsoft will combine their expertise to develop and deliver cloud-based digital solutions that will enable more efficient maritime operations." (마린링크와 마이크로소프트는 이번 전략적 협력을 통해 더 효율적인 해운 운영을 가능하게 하는 클라우드 기반 디지털 솔루션을 개발하고 제공할 것입니다.)<br>"The maritime industry is undergoing a digital transformation, and our collaboration with Microsoft will help drive this change by providing innovative cloud-based solutions that address the evolving needs of ship owners and operators." (해운 산업은 디지털 전환을 겪고 있으며, 마이크로소프트와의 협력을 통해 선박 소유자와 운영자의 변화하는 needs를 충족시킬 혁신적인 클라우드 기반 솔루션을 제공함으로써 이러한 변화를 주도할 것입니다.)<br>Technical Insights:<br>이번 협력을 통해 마린링크와 마이크로소프트는 선박 운항에 필요한 데이터를 클라우드에서 효과적으로 관리할 수 있는 디지털 플랫폼을 개발할 것으로 보인다. 특히 선박 위치, 속도, 연료 소모량 등의 실시간 데이터를 수집하고, 이를 바탕으로 선박 운항 최적화, 연료 효율 향상, 안전성 제고 등을 지원할 수 있을 것이다. 또한 AI 및 IoT 기술을 활용하여 자율운항 선박을 위한 첨단 솔루션을 제공함으로써 COLREG 규칙 준수와 선박 충돌 예방에도 기여할 것으로 기대된다. 이를 통해 해운 산업의 디지털 혁신과 지속가능성 향상에 기여할 것으로 전망된다.</p>`,
-      tags: ["AI_Insights","Bilingual"],
-      link: "https://thedigitalship.com/news/maritime-software/marlink-and-microsoft-tighten-cloud-links-at-sea/",
-      coords: [0, 0],
-      location: "Global"
-    }
-  ]
-});
-
 
 // ── AI Secretary Report ──
 addEvents({
@@ -930,41 +899,6 @@ addEvents({
   ]
 });
 
-
-// ── AI Secretary Report ──
-addEvents({
-  "2026-02-22": [
-    {
-      type: "news",
-      title: "자율운항선박 혁명 - MASS 기술과 규제 대응",
-      source: "AI Secretary",
-      sourceMeta: "Professional Report · 2026-02-22",
-      content: `<p style="font-weight:300; line-height:1.8;">Executive Summary:<br>이 기사는 자율운항선박(MASS) 기술의 발전 상황과 국제해사기구(IMO)의 관련 규제 제정 동향을 다루고 있습니다. MASS 기술은 선박의 자동화 및 자율화 수준을 높여 인적 오류 감소, 운항 효율성 향상, 환경 영향 저감 등의 이점을 제공합니다. 그러나 기존 해상충돌예방규칙(COLREG)과의 충돌, 사이버 보안, 책임 소재 등 다양한 기술적·정책적 과제들이 해결되어야 합니다. IMO는 MASS 기술 발전 동향을 면밀히 모니터링하며, 국제규범 제정을 위한 논의를 진행 중입니다. 이 기사는 MASS 기술의 현주소와 향후 전망, 그리고 규제 대응 방향을 종합적으로 제시하고 있습니다.<br>Key English Quotes:<br>"The international maritime community is actively working on developing a regulatory framework for MASS operations." (MASS 운영을 위한 국제 규제 체계 마련이 활발히 진행 중)<br>"The IMO's Regulatory Scoping Exercise on MASS is a key initiative to ensure safe, secure and environmentally sound MASS operations." (IMO의 MASS 규제 범위 검토는 안전하고 보안성 있으며 친환경적인 MASS 운영을 보장하기 위한 핵심 이니셔티브)<br>"As MASS technology continues to evolve, it is crucial that the regulatory framework keeps pace to enable the safe and effective deployment of these autonomous vessels." (MASS 기술이 지속적으로 발전함에 따라 이러한 자율운항선박의 안전하고 효과적인 도입을 뒷받침할 수 있는 규제 체계 마련이 매우 중요)<br>Technical Insights:<br>자율운항선박 기술은 선박의 자동화와 자율화 수준을 단계적으로 높이며 발전하고 있습니다. 이를 통해 인적 오류 감소, 연료 효율성 향상, 환경 영향 저감 등의 이점을 얻을 수 있습니다. 그러나 기존 COLREG 규칙과의 정합성, 사이버 보안, 책임 소재 등 다양한 과제들이 해결되어야 합니다. IMO는 MASS 기술 발전 동향을 면밀히 모니터링하며, 국제 규범 제정을 위한 논의를 진행 중입니다. 이를 통해 MASS 기술의 안전하고 효과적인 도입을 위한 규제 체계가 마련될 것으로 기대됩니다.</p>`,
-      tags: ["AI_Insights","Bilingual"],
-      link: "https://autonomousship.org",
-      coords: [0, 0],
-      location: "Global"
-    }
-  ]
-});
-
-
-// ── AI Secretary Report ──
-addEvents({
-  "2026-02-22": [
-    {
-      type: "news",
-      title: "자율운항 선박 기술의 최신 동향과 COLREG 규정 준수 이슈",
-      source: "AI Secretary",
-      sourceMeta: "Professional Report · 2026-02-22",
-      content: `<p style="font-weight:300; line-height:1.8;">Executive Summary:<br>해당 기사는 자율운항 선박 기술의 발전 현황과 COLREG(국제해상충돌예방규칙) 적용에 관한 내용을 다루고 있다. 자율운항 선박은 안전성 향상, 운영비 절감, 인력 부족 해소 등의 장점이 있지만 COLREG 규정과의 충돌 가능성이 있어 이를 해결하기 위한 노력이 필요한 것으로 나타났다. 국제해사기구(IMO)는 자율운항 선박 도입을 위한 규제 프레임워크를 마련하고 있으며, 업계에서는 관련 기술 개발과 함께 COLREG 준수를 위한 방안을 모색 중이다.<br>Key English Quotes:<br>"The development of autonomous ships has highlighted the need to review the International Regulations for Preventing Collisions at Sea (COLREGS)." (자율운항 선박 개발은 국제해상충돌예방규칙(COLREGS) 검토의 필요성을 강조하고 있다.)<br>"As autonomous ships become a reality, the maritime industry must ensure that these vessels comply with the COLREGS." (자율운항 선박이 현실화됨에 따라 해운 업계는 이들 선박이 COLREGS를 준수하도록 보장해야 한다.)<br>"The IMO is currently developing a regulatory framework to address the introduction of autonomous ships." (IMO는 현재 자율운항 선박 도입을 다루기 위한 규제 프레임워크를 개발하고 있다.)<br>Technical Insights:<br>자율운항 선박 기술은 안전성 향상, 운영비 절감, 인력 부족 해소 등의 장점이 있지만 COLREG 규정과의 충돌 가능성이 있어 이를 해결하기 위한 노력이 필요하다. IMO는 자율운항 선박 도입을 위한 규제 프레임워크를 마련하고 있으며, 업계에서는 관련 기술 개발과 함께 COLREG 준수를 위한 방안을 모색 중이다. 특히 자율운항 선박의 COLREG 준수 이슈는 중요한 기술적/정책적 과제로 대두되고 있다.</p>`,
-      tags: ["AI_Insights","Bilingual"],
-      link: "https://maritime-hub.slack.com/services/B0AFSTQSVJP",
-      coords: [0, 0],
-      location: "Global"
-    }
-  ]
-});
 
 // ── AI Secretary Report ──
 addEvents({
@@ -1019,41 +953,6 @@ addEvents({
 });
 
 
-// ── AI Secretary Report ──
-addEvents({
-  "2026-02-23": [
-    {
-      type: "news",
-      title: "자율운항 선박 기술의 COLREG 규칙 적용에 관한 주요 고려사항",
-      source: "AI Secretary",
-      sourceMeta: "Professional Report · 2026-02-23",
-      content: `<p style="font-weight:300; line-height:1.8;">Executive Summary:<br>이 기사는 자율운항 선박의 국제 해상 충돌 예방 규칙(COLREG) 적용에 대한 국내외 논의 현황을 소개하고 있다. 자율운항 선박의 안전 운항을 위해서는 COLREG 규칙의 명확한 해석과 적용이 필수적이며, 이를 위해 국제 기구와 각국 정부 차원의 노력이 이루어지고 있다. 또한 선박 자동화 기술의 발전에 따른 선박 운항 체계의 변화와 관련 법규 및 규정의 개정 필요성도 제기되고 있다.<br>Key English Quotes:<br>"In order for autonomous ships to operate safely, the clear interpretation and application of COLREG rules is essential." (자율운항 선박의 안전한 운항을 위해서는 COLREG 규칙의 명확한 해석과 적용이 필수적이다.)<br>"Discussions are underway at the International Maritime Organization (IMO) and national governments to address the COLREG application issues for autonomous ships." (자율운항 선박의 COLREG 적용 문제를 해결하기 위해 국제해사기구(IMO)와 각국 정부 차원의 논의가 진행 중이다.)<br>"The development of ship automation technology is changing the ship operation system, so revisions of relevant laws and regulations are needed." (선박 자동화 기술의 발전으로 선박 운항 체계가 변화하고 있어 관련 법규 및 규정의 개정이 필요하다.)<br>Technical Insights:<br>자율운항 선박의 안전한 운항을 위해서는 COLREG 규칙의 명확한 해석과 적용이 필수적이다. 현재 IMO와 각국 정부에서는 자율운항 선박의 COLREG 적용 문제를 해결하기 위한 논의가 진행 중이다. 특히 선박 자동화 기술의 발전에 따른 선박 운항 체계 변화에 맞춰 관련 법규 및 규정의 개정이 필요한 상황이다. 향후 이러한 노력을 통해 자율운항 선박의 안전성과 신뢰성 확보가 가능할 것으로 기대된다.</p>`,
-      tags: ["AI_Insights","Bilingual"],
-      link: "https://www.esnews.kr/news/articleView.html?idxno=2551",
-      coords: [0, 0],
-      location: "Global"
-    }
-  ]
-});
-
-
-// ── AI Secretary Report ──
-addEvents({
-  "2026-02-23": [
-    {
-      type: "news",
-      title: "해양 기관 네트워킹과 자율운항 기술 발전",
-      source: "AI Secretary",
-      sourceMeta: "Professional Report · 2026-02-23",
-      content: `<p style="font-weight:300; line-height:1.8;">Executive Summary: 싱가포르 해양 기자재 전시회 (SMW 2026)의 30주년 기념 행사가 열립니다. 이 행사에는 해운, 항만, 조선 등 해양 관련 기관들이 대거 참여할 예정이며, 자율운항 선박 기술, 해상교통법 (COLREG) 규정 개선, 디지털 트윈 등 최신 기술 동향이 소개될 것으로 보입니다. 특히 자율운항 선박 기술의 진화와 이에 따른 법/제도 변화가 핵심 이슈로 다뤄질 것으로 예상됩니다. 이번 행사를 통해 해양 산업 전반의 네트워킹과 기술 혁신이 촉진될 것으로 기대됩니다.<br>Key English Quotes:<br>"The 30th anniversary of the SMW exhibition will be a landmark event for the maritime industry, showcasing the latest innovations in autonomous shipping, digital twinning, and COLREG updates." (이번 SMW 전시회 30주년 행사는 해운 산업 발전의 이정표가 될 것이며, 자율운항 선박, 디지털 트윈, COLREG 규정 개선 등의 최신 기술이 선보일 것입니다.)<br>"Networking and knowledge-sharing among maritime stakeholders will be a key focus, as the industry navigates the transition towards greater automation and digitalization." (해양 이해관계자들 간의 네트워킹과 지식 공유가 핵심 초점이 될 것이며, 업계는 더 높은 자동화와 디지털화로의 전환을 모색할 것입니다.)<br>"The event will provide a platform for discussion on the regulatory and technological advances required to enable safe and efficient autonomous shipping operations." (이번 행사에서는 안전하고 효율적인 자율운항 선박 운영을 위한 규제와 기술 발전에 대한 논의가 이루어질 것입니다.)<br>Technical Insights:<br>이번 SMW 전시회는 자율운항 선박 기술의 발전 방향과 COLREG 규정 개선 방안을 집중적으로 다룰 것으로 보입니다. 현재 자율운항 선박 기술은 센서 융합, 의사결정 알고리즘, 통신 등의 분야에서 비약적인 발전을 이루고 있지만, 이를 실제 운항에 적용하기 위해서는 관련 법규 정비가 선행되어야 합니다. 특히 COLREG 규정은 인간 선장 중심으로 수립되어 있어, 자율운항 선박의 특성을 반영하지 못하고 있어 개정이 필요한 상황입니다. 이번 행사에서는 이러한 기술적, 정책적 과제에 대한 다양한 의견이 제시될 것으로 기대됩니다.</p>`,
-      tags: ["AI_Insights","Bilingual"],
-      link: "https://www.smw.sg/smw-2026/smw-anniversary-party",
-      coords: [0, 0],
-      location: "Global"
-    }
-  ]
-});
-
 // ── Auto-Collected (Bot) ──
 
 // Auto-collected: 2026-02-23
@@ -1105,47 +1004,6 @@ addEvents({
       link: "https://gcaptain.com/west-africa-crude-discounts-freight-rates-surge/",
       coords: [0,5],
       location: "West Africa"
-    }
-  ]
-});
-
-// ── Auto-Collected (Bot) ──
-
-// Auto-collected: 2026-02-24
-addEvents({
-  "2026-02-24": [
-    {
-      type: "news",
-      title: "N-Sea's new cable layer arrives in the Netherlands for final outfitting",
-      source: "Offshore Energy",
-      sourceMeta: "offshore-energy.biz · Feb 24, 2026",
-      content: `<p>N-Sea Group's new dual-fuel cable installation and repair vessel has arrived in the Netherlands for final outfitting and commissioning.</p>`,
-      tags: ["Cable layer vessel","Offshore infrastructure","Ship construction","Dual-fuel technology"],
-      link: "https://www.offshore-energy.biz/n-seas-new-cable-layer-arrives-in-the-netherlands-for-final-outfitting/",
-      coords: [5.2913,52.1326],
-      location: "Netherlands"
-    },
-    {
-      type: "news",
-      title: "'First-ever' remote operated landing crafts to be built in Malaysia",
-      source: "Offshore Energy",
-      sourceMeta: "offshore-energy.biz · Feb 24, 2026",
-      content: `<p>Malaysia-based OSV provider Nam Cheong has been awarded shipbuilding contracts to construct the first-ever remote operated landing crafts, representing a significant advancement in autonomous maritime vessel technology.</p>`,
-      tags: ["Autonomous Vessels","Remote Operation","Shipbuilding","Maritime Technology","Malaysia"],
-      link: "https://www.offshore-energy.biz/first-ever-remote-operated-landing-crafts-to-be-built-in-malaysia/",
-      coords: [101.6869,4.2105],
-      location: "Malaysia"
-    },
-    {
-      type: "news",
-      title: "Venezuela Readies Larger Oil Cargoes for Export, Targets India",
-      source: "gCaptain",
-      sourceMeta: "gcaptain.com · Feb 24, 2026",
-      content: `<p>Trading houses and buyers of Venezuelan oil have chartered the first very large crude carriers (VLCCs) to export from the South American country since a Caracas-Washington supply deal began, which is set to speed up shipments starting in March while boosting deliveries to India.</p>`,
-      tags: ["Oil Shipping","VLCCs","Venezuela","India","Oil Trade"],
-      link: "https://gcaptain.com/venezuela-readies-larger-oil-cargoes-for-export-targets-india/",
-      coords: [-66.5897,6.4238],
-      location: "Venezuela"
     }
   ]
 });
