@@ -155,9 +155,22 @@ async function slackApi(method, params, token) {
   return await res.json();
 }
 
+// ── 무시할 URL 패턴 ─────────────────────────────────────────────
+
+const SKIP_URLS = [
+  'autonomousship.org',
+  'maritime-hub.slack.com',
+  'slack.com/archives',
+];
+
+function shouldSkipUrl(url) {
+  return SKIP_URLS.some(pattern => url.includes(pattern));
+}
+
 // ── 메시지 파싱 ────────────────────────────────────────────────
 
-async function parseMessage(text) {
+// existingLinks를 외부에서 주입받아 AI 호출 전에 중복 체크
+async function parseMessage(text, existingLinks) {
   if (!text) return null;
 
   // 1. 해시태그 파싱
@@ -168,7 +181,19 @@ async function parseMessage(text) {
   if (!linkMatch) return null;
   const link = linkMatch[0];
 
-  // 3. AI 분석 (type이 있으면 전달, 없으면 AI가 판단)
+  // 3. 자기 사이트/슬랙 내부 링크 건너뛰기
+  if (shouldSkipUrl(link)) {
+    console.log(`   ⏭️ 건너뜀 (내부 URL): ${link}`);
+    return null;
+  }
+
+  // 4. 중복 체크 (AI 호출 전에!)
+  if (existingLinks && existingLinks.has(link)) {
+    console.log(`   ⏭️ 이미 수집됨: ${link}`);
+    return null;
+  }
+
+  // 5. AI 분석 (type이 있으면 전달, 없으면 AI가 판단)
   const typeLabel = presetType ? `[${presetType.toUpperCase()}] ` : '[AUTO] ';
   console.log(`🤖 ${typeLabel}AI 비서가 전문 보고서를 작성 중: ${link}`);
 
@@ -234,11 +259,8 @@ async function main() {
   let addedCount = 0;
 
   for (const msg of messages) {
-    const parsed = await parseMessage(msg.text || '');
-    if (!parsed || existingLinks.has(parsed.entry.link)) {
-      if (parsed) console.log(`   ⏭️ 이미 수집됨: ${parsed.entry.link}`);
-      continue;
-    }
+    const parsed = await parseMessage(msg.text || '', existingLinks);
+    if (!parsed) continue;
 
     if (dryRun) {
       console.log(`\n[DRY RUN] Would add:`);
