@@ -1007,3 +1007,44 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-02-24
+addEvents({
+  "2026-02-24": [
+    {
+      type: "news",
+      title: "N-Sea's new cable layer arrives in the Netherlands for final outfitting",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · Feb 24, 2026",
+      content: `<p>N-Sea Group's new dual-fuel cable installation and repair vessel has arrived in the Netherlands for final outfitting and completion before entering service.</p>`,
+      tags: ["Cable layer","Dual-fuel vessel","Ship construction","Offshore infrastructure"],
+      link: "https://www.offshore-energy.biz/n-seas-new-cable-layer-arrives-in-the-netherlands-for-final-outfitting/",
+      coords: [5.2913,52.0907],
+      location: "Netherlands"
+    },
+    {
+      type: "news",
+      title: "'First-ever' remote operated landing crafts to be built in Malaysia",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · Feb 24, 2026",
+      content: `<p>Malaysia-based offshore support vessel provider Nam Cheong has been awarded shipbuilding contracts for the first-ever remote operated landing crafts, representing a significant advancement in autonomous maritime vessel technology.</p>`,
+      tags: ["Remote Operation","Autonomous Vessels","Landing Craft","Shipbuilding","Malaysia","OSV"],
+      link: "https://www.offshore-energy.biz/first-ever-remote-operated-landing-crafts-to-be-built-in-malaysia/",
+      coords: [101.6869,4.2105],
+      location: "Malaysia"
+    },
+    {
+      type: "news",
+      title: "Venezuela Readies Larger Oil Cargoes for Export, Targets India",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · Feb 24, 2026",
+      content: `<p>Trading houses and buyers of Venezuelan oil have chartered the first very large crude carriers (VLCCs) to export from South America since a Caracas-Washington supply deal began, with shipments expected to accelerate in March and increase deliveries to India.</p>`,
+      tags: ["Oil Trade","VLCCs","Venezuela","India","Shipping"],
+      link: "https://gcaptain.com/venezuela-readies-larger-oil-cargoes-for-export-targets-india/",
+      coords: [-66.5897,6.4238],
+      location: "Venezuela"
+    }
+  ]
+});
