@@ -512,7 +512,19 @@ addEvents(multiDay("2026-04-22", 3, {
   coords: [139.7936, 35.6297],
   location: "Tokyo"
 }));
-
+// Asia
+ Pacific Maritime (APM) 2026
+addEvents(multiDay("2026-03-25", 3, {
+  type: "event",
+  title: "Asia Pacific Maritime (APM)",
+  source: "APM",
+  sourceMeta: "Mar 25–27",
+  content: `<p>Marina Bay Sands, Singapore</p>`,
+  tags: ["Maritime","Exhibition","Shipbuilding","Technology"],
+  link: "https://www.apmaritime.com",
+  coords: [103.8607, 1.2834],
+  location: "Singapore"
+}));
 // ── 2026 MAY ──
 
 
