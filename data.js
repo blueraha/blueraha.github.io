@@ -1093,3 +1093,22 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-02-25
+addEvents({
+  "2026-02-25": [
+    {
+      type: "news",
+      title: "West Coast Gateway Ports Hold Ground Despite Tariff Turbulence and Policy Whiplash",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · Feb 25, 2026",
+      content: `<p>The nation's two busiest container ports experienced double-digit declines in January cargo volumes, but industry leaders attribute this to comparison against historic highs rather than structural weakness amid ongoing tariff policy uncertainty affecting trans-Pacific trade.</p>`,
+      tags: ["Container Ports","Cargo Volumes","Trade Policy","West Coast Ports","Tariffs"],
+      link: "https://gcaptain.com/west-coast-gateway-ports-hold-ground-despite-tariff-turbulence-and-policy-whiplash/",
+      coords: [-118.2437,33.749],
+      location: "West Coast, United States"
+    }
+  ]
+});
