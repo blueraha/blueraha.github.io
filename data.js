@@ -1074,3 +1074,22 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-02-25
+addEvents({
+  "2026-02-25": [
+    {
+      type: "accident",
+      title: "Florida Speedboat Incident in Cuban Waters Leaves Four Dead, Sparks Diplomatic Tensions",
+      source: "gCaptain",
+      sourceMeta: "gCaptain · Feb 25, 2026",
+      content: `<p>A confrontation between Cuban Border Guard forces and a Florida-registered speedboat in Cuban territorial waters has resulted in four deaths and six injuries, escalating tensions between the United States and Cuba.</p>`,
+      tags: ["maritime accident","casualties","speedboat","Cuban waters","confrontation"],
+      link: "https://gcaptain.com/florida-speedboat-incident-in-cuban-waters-leaves-four-dead-sparks-diplomatic-tensions/",
+      coords: [-77.5,21.5],
+      location: "Cuban Waters"
+    }
+  ]
+});
