@@ -1112,3 +1112,22 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-02-26
+addEvents({
+  "2026-02-26": [
+    {
+      type: "news",
+      title: "Permanent Docking Pier Reaches McMurdo Station After 9,100-Nautical-Mile Tow",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · Feb 26, 2026",
+      content: `<p>The McMurdo Docking Pier has successfully arrived at McMurdo Station in Antarctica after completing a 9,159-nautical-mile journey across the Pacific and Southern Oceans.</p>`,
+      tags: ["Antarctica","McMurdo Station","Infrastructure","Maritime Transport","Towing"],
+      link: "https://gcaptain.com/permanent-docking-pier-reaches-mcmurdo-station-after-9100-nautical-mile-tow/",
+      coords: [166.6,-77.85],
+      location: "McMurdo Station, Antarctica"
+    }
+  ]
+});
