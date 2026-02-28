@@ -48,6 +48,18 @@ function init() {
   });
 
   map.on('load', () => {
+    // ── Geocoder (Location Search) ──
+    if (typeof MapboxGeocoder !== 'undefined') {
+      map.addControl(new MapboxGeocoder({
+        accessToken: mapboxgl.accessToken,
+        mapboxgl: mapboxgl,
+        placeholder: 'Search location...',
+        collapsed: true,
+        marker: { color: '#0984e3' },
+        zoom: 8
+      }), 'top-left');
+    }
+
     // ── Atmosphere / Fog ──
     map.setFog({
       color: 'rgb(186, 210, 235)',        // 지평선 색
@@ -523,7 +535,9 @@ function openSidePanel(date, list) {
   var content = document.getElementById('panel-content');
   document.getElementById('panel-title').textContent = date;
 
-  content.innerHTML = list.length ? list.map(function(e) {
+  var enriched = list.map(function(e) { var copy = Object.assign({}, e); copy._dateKey = date; return copy; });
+
+  content.innerHTML = enriched.length ? enriched.map(function(e) {
     return '<div style="background:rgba(0,0,0,0.02); padding:12px; border-radius:6px; margin-bottom:10px; cursor:pointer; border:1px solid rgba(0,0,0,0.06); transition:0.2s;" onclick="flyToAndShowDetail(' + JSON.stringify(e).replace(/"/g, '&quot;') + ')" onmouseover="this.style.background=\'rgba(9,132,227,0.06)\'" onmouseout="this.style.background=\'rgba(0,0,0,0.02)\'">' +
       '<div style="font-size:9px; color:var(--' + e.type + '); font-weight:600; margin-bottom:4px;">' + e.type.toUpperCase() + '</div>' +
       '<div style="font-size:13px; font-weight:500; color:var(--text-primary);">' + e.title + '</div>' +
@@ -534,11 +548,36 @@ function openSidePanel(date, list) {
   panel.classList.add('open');
 }
 
+// ── Markdown to HTML converter ──
+function mdToHtml(text) {
+  if (!text) return '';
+  if (text.indexOf('<p') !== -1 && text.indexOf('#') === -1) return text;
+  var s = text;
+  s = s.replace(/^<p[^>]*>/i, '').replace(/<\/p>$/i, '');
+  s = s.replace(/^### (.+)$/gm, '<h4 style="color:var(--brand-blue);font-size:13px;font-weight:600;margin:16px 0 8px;">$1</h4>');
+  s = s.replace(/^## (.+)$/gm, '<h3 style="color:var(--brand-blue);font-size:14px;font-weight:600;margin:18px 0 8px;">$1</h3>');
+  s = s.replace(/^# (.+)$/gm, '<h3 style="color:var(--brand-blue);font-size:15px;font-weight:600;margin:18px 0 10px;">$1</h3>');
+  s = s.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+  s = s.replace(/^---+$/gm, '<hr style="border:none;border-top:1px solid var(--border-color);margin:12px 0;">');
+  s = s.replace(/\n/g, '<br>');
+  return '<div style="font-weight:300; line-height:1.85;">' + s + '</div>';
+}
+
 function showDetail(e) {
-  document.getElementById('modal-type').textContent = e.type;
-  document.getElementById('modal-type').style.color = 'var(--' + e.type + ')';
+  var typeEl = document.getElementById('modal-type');
+  typeEl.textContent = e.type;
+  typeEl.style.color = 'var(--' + e.type + ')';
   document.getElementById('modal-title').textContent = e.title;
-  document.getElementById('modal-text').innerHTML = e.content;
+
+  // Meta line
+  var metaParts = [];
+  if (e._dateKey) metaParts.push(e._dateKey);
+  else if (e.sourceMeta) {
+    var dateMatch = e.sourceMeta.match(/\d{4}-\d{2}-\d{2}/);
+    if (dateMatch) metaParts.push(dateMatch[0]);
+  }
+  if (e.source && e.source !== 'AI Secretary') metaParts.push(e.source);
+  document.getElementById('modal-meta').textContent = metaParts.join(' · ');
 
   // Tags
   var tagsEl = document.getElementById('modal-tags');
@@ -551,8 +590,14 @@ function showDetail(e) {
     tagsEl.style.display = 'none';
   }
 
-  // Location
-  var locEl = document.getElementById('modal-location');
+  // AI Summary (left)
+  document.getElementById('modal-text').innerHTML = mdToHtml(e.content);
+
+  // Source card (right)
+  document.getElementById('modal-source-name').textContent = e.source || 'Source';
+  document.getElementById('modal-source-meta').textContent = e.sourceMeta || '';
+
+  var locEl = document.getElementById('modal-source-location');
   if (e.location && e.location !== 'Global') {
     locEl.innerHTML = '📍 ' + e.location;
     locEl.style.display = 'block';
@@ -560,46 +605,12 @@ function showDetail(e) {
     locEl.style.display = 'none';
   }
 
-  // Source info
-  var sourceInfo = document.getElementById('modal-source-info');
-  if (e.source || e.sourceMeta) {
-    sourceInfo.innerHTML = (e.source || '') + (e.sourceMeta ? ' · ' + e.sourceMeta : '');
-  }
-
-  // Right side: iframe or fallback
-  var iframe = document.getElementById('modal-iframe');
-  var fallback = document.getElementById('modal-iframe-fallback');
-  var linkBtn = document.getElementById('modal-link');
-  var linkFallback = document.getElementById('modal-link-fallback');
-
+  var linkBtn = document.getElementById('modal-link-main');
   if (e.link && e.link.length > 0) {
     linkBtn.href = e.link;
-    linkBtn.style.display = 'inline-block';
-
-    // Try loading iframe
-    iframe.style.display = 'block';
-    fallback.style.display = 'none';
-    iframe.src = e.link;
-
-    // Timeout fallback (most sites block iframe)
-    setTimeout(function() {
-      try {
-        var iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
-        if (!iframeDoc || !iframeDoc.body || iframeDoc.body.innerHTML.length < 100) {
-          iframe.style.display = 'none';
-          fallback.style.display = 'flex';
-          linkFallback.href = e.link;
-        }
-      } catch(err) {
-        iframe.style.display = 'none';
-        fallback.style.display = 'flex';
-        linkFallback.href = e.link;
-      }
-    }, 3000);
+    linkBtn.style.display = 'inline-flex';
   } else {
     linkBtn.style.display = 'none';
-    iframe.style.display = 'none';
-    fallback.style.display = 'none';
   }
 
   document.getElementById('detail-modal').classList.add('open');
@@ -639,8 +650,6 @@ function closePanel() {
 
 function closeDetail() {
   document.getElementById('detail-modal').classList.remove('open');
-  var iframe = document.getElementById('modal-iframe');
-  if (iframe) iframe.src = 'about:blank';
 }
 
 function openAbout() { document.getElementById('about-modal').classList.add('open'); }
@@ -742,13 +751,12 @@ function showTodayHeadlines() {
 
   var list = document.getElementById('headlines-list');
   
-  // 날짜 표시
-  var latestDate = items[0].date;
-  var dateObj = new Date(latestDate + 'T00:00:00');
+  // 날짜 표시 - 오늘 날짜 기준
+  var now = new Date();
   var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
   var days = ['SUN','MON','TUE','WED','THU','FRI','SAT'];
-  document.getElementById('headlines-date-day').textContent = days[dateObj.getDay()];
-  document.getElementById('headlines-date-full').textContent = months[dateObj.getMonth()] + ' ' + dateObj.getDate() + ', ' + dateObj.getFullYear();
+  document.getElementById('headlines-date-day').textContent = days[now.getDay()];
+  document.getElementById('headlines-date-full').textContent = months[now.getMonth()] + ' ' + now.getDate() + ', ' + now.getFullYear();
 
   // 뉴스 수 카운트
   var accCount = 0, newsCount = 0, evtCount = 0;
