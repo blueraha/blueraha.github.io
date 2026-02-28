@@ -523,9 +523,7 @@ function openSidePanel(date, list) {
   var content = document.getElementById('panel-content');
   document.getElementById('panel-title').textContent = date;
 
-  var enriched = list.map(function(e) { var copy = Object.assign({}, e); copy._dateKey = date; return copy; });
-
-  content.innerHTML = enriched.length ? enriched.map(function(e) {
+  content.innerHTML = list.length ? list.map(function(e) {
     return '<div style="background:rgba(0,0,0,0.02); padding:12px; border-radius:6px; margin-bottom:10px; cursor:pointer; border:1px solid rgba(0,0,0,0.06); transition:0.2s;" onclick="flyToAndShowDetail(' + JSON.stringify(e).replace(/"/g, '&quot;') + ')" onmouseover="this.style.background=\'rgba(9,132,227,0.06)\'" onmouseout="this.style.background=\'rgba(0,0,0,0.02)\'">' +
       '<div style="font-size:9px; color:var(--' + e.type + '); font-weight:600; margin-bottom:4px;">' + e.type.toUpperCase() + '</div>' +
       '<div style="font-size:13px; font-weight:500; color:var(--text-primary);">' + e.title + '</div>' +
@@ -536,37 +534,11 @@ function openSidePanel(date, list) {
   panel.classList.add('open');
 }
 
-// ── Markdown to HTML converter ──
-function mdToHtml(text) {
-  if (!text) return '';
-  if (text.indexOf('<p') !== -1 && text.indexOf('#') === -1) return text;
-  var s = text;
-  s = s.replace(/^<p[^>]*>/i, '').replace(/<\/p>$/i, '');
-  s = s.replace(/^### (.+)$/gm, '<h4 style="color:var(--brand-blue);font-size:13px;font-weight:600;margin:16px 0 8px;">$1</h4>');
-  s = s.replace(/^## (.+)$/gm, '<h3 style="color:var(--brand-blue);font-size:14px;font-weight:600;margin:18px 0 8px;">$1</h3>');
-  s = s.replace(/^# (.+)$/gm, '<h3 style="color:var(--brand-blue);font-size:15px;font-weight:600;margin:18px 0 10px;">$1</h3>');
-  s = s.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
-  s = s.replace(/^---+$/gm, '<hr style="border:none;border-top:1px solid var(--border-color);margin:12px 0;">');
-  s = s.replace(/^> (.+)$/gm, '<blockquote style="border-left:3px solid var(--brand-blue);padding-left:12px;margin:8px 0;color:var(--text-secondary);font-style:italic;">$1</blockquote>');
-  s = s.replace(/\n/g, '<br>');
-  return '<div style="font-weight:300; line-height:1.85;">' + s + '</div>';
-}
-
 function showDetail(e) {
-  var typeEl = document.getElementById('modal-type');
-  typeEl.textContent = e.type;
-  typeEl.style.color = 'var(--' + e.type + ')';
+  document.getElementById('modal-type').textContent = e.type;
+  document.getElementById('modal-type').style.color = 'var(--' + e.type + ')';
   document.getElementById('modal-title').textContent = e.title;
-
-  // Meta line (date + source)
-  var metaParts = [];
-  if (e._dateKey) metaParts.push(e._dateKey);
-  else if (e.sourceMeta) {
-    var dateMatch = e.sourceMeta.match(/\d{4}-\d{2}-\d{2}/);
-    if (dateMatch) metaParts.push(dateMatch[0]);
-  }
-  if (e.source && e.source !== 'AI Secretary') metaParts.push(e.source);
-  document.getElementById('modal-meta').textContent = metaParts.join(' · ');
+  document.getElementById('modal-text').innerHTML = e.content;
 
   // Tags
   var tagsEl = document.getElementById('modal-tags');
@@ -579,14 +551,8 @@ function showDetail(e) {
     tagsEl.style.display = 'none';
   }
 
-  // AI Summary (left) — convert markdown if needed
-  document.getElementById('modal-text').innerHTML = mdToHtml(e.content);
-
-  // Source card (right)
-  document.getElementById('modal-source-name').textContent = e.source || 'Source';
-  document.getElementById('modal-source-meta').textContent = e.sourceMeta || '';
-
-  var locEl = document.getElementById('modal-source-location');
+  // Location
+  var locEl = document.getElementById('modal-location');
   if (e.location && e.location !== 'Global') {
     locEl.innerHTML = '📍 ' + e.location;
     locEl.style.display = 'block';
@@ -594,19 +560,49 @@ function showDetail(e) {
     locEl.style.display = 'none';
   }
 
-  var linkBtn = document.getElementById('modal-link-main');
+  // Source info
+  var sourceInfo = document.getElementById('modal-source-info');
+  if (e.source || e.sourceMeta) {
+    sourceInfo.innerHTML = (e.source || '') + (e.sourceMeta ? ' · ' + e.sourceMeta : '');
+  }
+
+  // Right side: iframe or fallback
+  var iframe = document.getElementById('modal-iframe');
+  var fallback = document.getElementById('modal-iframe-fallback');
+  var linkBtn = document.getElementById('modal-link');
+  var linkFallback = document.getElementById('modal-link-fallback');
+
   if (e.link && e.link.length > 0) {
     linkBtn.href = e.link;
-    linkBtn.style.display = 'inline-flex';
+    linkBtn.style.display = 'inline-block';
+
+    // Try loading iframe
+    iframe.style.display = 'block';
+    fallback.style.display = 'none';
+    iframe.src = e.link;
+
+    // Timeout fallback (most sites block iframe)
+    setTimeout(function() {
+      try {
+        var iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
+        if (!iframeDoc || !iframeDoc.body || iframeDoc.body.innerHTML.length < 100) {
+          iframe.style.display = 'none';
+          fallback.style.display = 'flex';
+          linkFallback.href = e.link;
+        }
+      } catch(err) {
+        iframe.style.display = 'none';
+        fallback.style.display = 'flex';
+        linkFallback.href = e.link;
+      }
+    }, 3000);
   } else {
     linkBtn.style.display = 'none';
+    iframe.style.display = 'none';
+    fallback.style.display = 'none';
   }
 
   document.getElementById('detail-modal').classList.add('open');
-}
-
-function closeDetail() {
-  document.getElementById('detail-modal').classList.remove('open');
 }
 
 function flyToAndShowDetail(e) {
@@ -639,6 +635,12 @@ function flyToAndShowDetail(e) {
 function closePanel() {
   document.getElementById('side-panel').classList.remove('open');
   document.querySelectorAll('.day-item').forEach(function(i) { i.classList.remove('active'); });
+}
+
+function closeDetail() {
+  document.getElementById('detail-modal').classList.remove('open');
+  var iframe = document.getElementById('modal-iframe');
+  if (iframe) iframe.src = 'about:blank';
 }
 
 function openAbout() { document.getElementById('about-modal').classList.add('open'); }
