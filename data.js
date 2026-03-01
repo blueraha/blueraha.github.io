@@ -1161,3 +1161,22 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-02-27
+addEvents({
+  "2026-02-27": [
+    {
+      type: "news",
+      title: "Fully certified Reach Remote USV to inspect Gassco's subsea pipelines",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · Feb 27, 2026",
+      content: `<p>Norway's Reach Subsea has won a contract to perform external inspection of subsea pipelines using a fully certified Reach Remote unmanned surface vehicle (USV) for Gassco.</p>`,
+      tags: ["USV","autonomous vessels","subsea inspection","unmanned surface vehicle","pipeline inspection","Norway"],
+      link: "https://www.offshore-energy.biz/fully-certified-reach-remote-usv-to-inspect-gasscos-subsea-pipelines/",
+      coords: [8.4689,60.472],
+      location: "Norway"
+    }
+  ]
+});
