@@ -1180,3 +1180,58 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-03-01
+addEvents({
+  "2026-03-01": [
+    {
+      type: "accident",
+      title: "Operation Epic Fury: Iranian Corvette Sunk as U.S. Reports First Fatalities in Widening Conflict",
+      source: "gCaptain",
+      sourceMeta: "gCaptain · Mar 01, 2026",
+      content: `<p>U.S. Central Command confirmed the sinking of an Iranian Jamaran-class corvette at a pier in Chah Bahar during Operation Epic Fury, with American forces sustaining their first combat losses in the escalating conflict.</p>`,
+      tags: ["military conflict","vessel sinking","Iranian Navy","U.S. Navy","combat operations"],
+      link: "https://gcaptain.com/operation-epic-fury-iranian-corvette-sunk-u-s-reports-first-fatalities-in-widening-conflict/",
+      coords: [60.3538,25.2928],
+      location: "Chah Bahar, Iran"
+    }
+  ]
+});
+
+// Auto-collected: 2026-02-27
+addEvents({
+  "2026-02-27": [
+    {
+      type: "news",
+      title: "Fully certified Reach Remote USV to inspect Gassco's subsea pipelines",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · Feb 27, 2026",
+      content: `<p>Norway's Reach Subsea has won a contract to perform external inspection of subsea pipelines using a fully certified Reach Remote USV (unmanned surface vessel), demonstrating advanced autonomous maritime technology for offshore energy infrastructure monitoring.</p>`,
+      tags: ["USV","autonomous vessels","subsea inspection","unmanned surface vessel","offshore energy","pipeline inspection"],
+      link: "https://www.offshore-energy.biz/fully-certified-reach-remote-usv-to-inspect-gasscos-subsea-pipelines/",
+      coords: [8.47,60.47],
+      location: "Norway"
+    }
+  ]
+});
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-02-27
+addEvents({
+  "2026-02-27": [
+    {
+      type: "news",
+      title: "Fully certified Reach Remote USV to inspect Gassco's subsea pipelines",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · Feb 27, 2026",
+      content: `<p>Norway's Reach Subsea has won a contract to perform external inspection of subsea pipelines using a fully certified Reach Remote unmanned surface vehicle (USV) for Gassco.</p>`,
+      tags: ["USV","Unmanned Surface Vehicle","Autonomous","Pipeline Inspection","Subsea","Gassco","Reach Subsea"],
+      link: "https://www.offshore-energy.biz/fully-certified-reach-remote-usv-to-inspect-gasscos-subsea-pipelines/",
+      coords: [8.4689,60.472],
+      location: "Norway"
+    }
+  ]
+});
