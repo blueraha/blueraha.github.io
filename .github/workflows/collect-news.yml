@@ -27,6 +27,7 @@ jobs:
       # 1. 기존: 뉴스 수집 및 처리
       - name: Fetch RSS feeds
         run: node scripts/fetch-rss.js
+	timeout-minutes: 12
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           

@@ -24,7 +24,7 @@ const OWM_LAYERS = {
 };
 
 function init() {
-  mapboxgl.accessToken = 'pk.eyJ1IjoiYmx1ZXJhaGEiLCJhIjoiY21scW5tOGRhMDJwMzNkcHVzeXVhcGw3dyJ9.3eBK-bIV99YgmxOycysRyA';
+  mapboxgl.accessToken = 'pk.eyJ1IjoiYmx1ZXJhaGEiLCJhIjoiY21tOG4xdHF2MGt3cjJyc2FxYnFqYnNkMSJ9._ilWg4sgPgozWPYf1FWeJw';
 
   map = new mapboxgl.Map({
     container: 'map',

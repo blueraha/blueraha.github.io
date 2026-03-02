@@ -82,7 +82,14 @@ async function fetchAllFeeds() {
   console.log('💾 Saved to scripts/raw-articles.json');
 }
 
-fetchAllFeeds().catch(err => {
+const GLOBAL_TIMEOUT = setTimeout(() => {
+  console.error('⏰ Global timeout (10 min) — force exit');
+  process.exit(1);
+}, 10 * 60 * 1000);
+
+fetchAllFeeds().then(() => {
+  clearTimeout(GLOBAL_TIMEOUT);
+}).catch(err => {
   console.error('Fatal error:', err);
   process.exit(1);
 });
