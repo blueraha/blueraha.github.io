@@ -1411,3 +1411,71 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-03-06
+addEvents({
+  "2026-03-06": [
+    {
+      type: "news",
+      title: "Samsung Heavy Industries Books GTT Tank Design for 180,000 cbm LNG Vessel",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-03-06",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/02/LNG-vessel-Source-GTT.jpg?image-crop-positioner-ts=1771505165",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>삼성중공업이 프랑스의 가즈트랑스포트&테크니가즈(GTT)로부터 180,000입방미터 용량의 LNG운반선 탱크설계 용역을 발주했다. GTT는 2026년 1분기에 유럽선주를 대신하여 이 신규 LNG선의 탱크설계 주문을 확보했으며, 극저온 탱크는 GTT의 Mark III Flex 멤브레인 방식으로 설계될 예정이다. 해당 선박의 인도는 2028년으로 예정되어 있으며, 이는 GTT가 한화오션과 체결한 7척의 LNG운반선 용역 계약에 이은 추가 주문이다.</p><h3>Key Quotes</h3><br><li>"GTT secured in the first quarter of 2026 an order from Samsung Heavy Industries for the tank design of one new LNG vessel on behalf of a European ship-owner." (GTT는 2026년 1분기에 유럽선주를 대신하여 삼성중공업으로부터 신규 LNG운반선의 탱크설계 용역 주문을 확보했다.)</li><br><li>"The tanks will be fitted with GTT's Mark III Flex membrane containment system, with the delivery of the vessel expected in 2028." (탱크는 GTT의 Mark III Flex 멤브레인 방식으로 설계되며, 선박 인도는 2028년으로 예정되어 있다.)</li></p><h3>Technical Insights</h3><br>GTT의 Mark III Flex 멤브레인 탱크시스템은 LNG운반선의 극저온 화물 보관에 있어 업계 표준으로 널리 인정받는 기술로, 180,000 cbm 규모의 대형 LNG운반선에 적용되는 것은 현대적 LNG 해운의 경제성과 안전성을 동시에 만족하는 설계임을 의미한다. 멤브레인 방식 탱크는 구형 탱크에 비해 화물창 공간 활용도가 우수하며 극저온(-163°C) 환경에서의 재료 특성과 구조 안정성이 검증된 기술이다. 2028년 인도 예정 일정은 조선업계의 공급망 최적화 및 설계-건조 통합 과정을 반영하며, 유럽 선주의 탈탄소화 전략과 LNG 연료 기반 해운 운영의 지속적 수요를 보여주는 사례이다.</p></div>`,
+      tags: ["LNG Carrier","Tank Design","Samsung Heavy Industries","GTT"],
+      link: "https://www.offshore-energy.biz/samsung-heavy-industries-books-french-firms-tank-design-for-new-lng-vessel/",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "Equinor Receives Approval for North Sea Drilling with Deepsea Bollsta Rig",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-03-06",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2025/05/Deepsea-Bollsta.jpg?image-crop-positioner-ts=1747121839",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>노르웨이 국영 에너지 기업 Equinor가 노르웨이 대륙붕(NCS)의 Johan Sverdrup 유전에서 시추 작업을 수행할 수 있는 허가를 노르웨이 해양산업청(Havtil)으로부터 획득했습니다. Odfjell Drilling이 관리하고 Northern Ocean이 소유한 반잠수식 시추선 Deepsea Bollsta가 본 프로젝트에 투입됩니다. 해당 유전은 스타방에르 서쪽 160km, 수심 110-120m의 북해 중앙부에 위치하며, Equinor(42.62%), Aker BP(31.6%), Petoro(17.36%), TotalEnergies EP Norge(8.44%)이 참여합니다. 8개 시추공 프로그램 완료를 위해 계약이 연장되었으며, 2025년 8월 31일부터 시작된 2년 정규 계약에 1년 옵션이 남아 있습니다.</p><h3>Key Quotes</h3><br><li>"The Norwegian Ocean Industry Authority (Havtil) has granted Equinor consent to use the Deepsea Bollsta rig for production drilling, completion, temporary plugging, and workover on the Johan Sverdrup field." (노르웨이 해양산업청이 Equinor에 Deepsea Bollsta 시추선을 Johan Sverdrup 유전의 시추, 완성, 임시 마개, 작업정지에 사용할 수 있도록 허가를 부여했습니다.)</li><br><li>"The Deepsea Bollsta sixth-generation semi-submersible rig of Moss CS60E design can operate in both benign and harsh environments at water depths of up to 3,000 meters." (Deepsea Bollsta는 Moss CS60E 설계의 6세대 반잠수식 시추선으로 최대 3,000m 수심의 온화한 환경과 악천후 환경에서 모두 운영 가능합니다.)</li></p><h3>Technical Insights</h3><br>Moss CS60E 설계의 반잠수식 시추선은 북해의 악천후 환경에서도 안정적인 운영이 가능한 고급 플랫폼으로, 최대 3,000m 수심까지 대응할 수 있어 심해 시추 작업의 글로벌 표준이 되고 있습니다. 이러한 대형 시추선의 운영에 있어 COLREG 준수, 해상 교통관리(VTS) 통합, 그리고 IMO의 에너지 효율 규제(EEDI/CII)를 충족하는 것이 중요한 과제입니다. 향후 자율화 기술 도입 시, 원격 모니터링 및 동적 포지셔닝(DP) 시스템의 자동화가 운영 효율성과 안전성을 대폭 향상시킬 수 있을 것으로 예상됩니다. 해상 에너지 산업의 탈탄소화 추세에 따라 하이브리드 또는 전기 추진 시추선의 개발과 도입이 향후 선택이 아닌 필수 과제가 될 것입니다.</p></div>`,
+      tags: ["North Sea","Equinor","Odfjell Drilling","Johan Sverdrup","Semi-submersible rig"],
+      link: "https://www.offshore-energy.biz/green-light-for-north-sea-drilling-ops-with-odfjell-drilling-managed-rig/",
+      coords: [2,59.2],
+      location: "North Sea, 160km west of Stavanger, Norway"
+    },
+    {
+      type: "news",
+      title: "K-Line Establishes Intermediate Holding Company for Ship Management Operations",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-03-06",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/03/K-Line-sets-up-entity-to-oversee-all-of-its-ship-management-companies.png?image-crop-positioner-ts=1772790353",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>일본의 주요 해운사 가와사키 기센 가이샤(K-Line)가 선박 관리 회사들을 감독할 중간 지주회사인 K Line Ship Management Holdings(KLSM-H)를 설립했다. KLSM-H는 2026년 4월 1일부터 운영을 시작하며, 환경 규제 준수 및 기술 혁신 등의 도전 과제에 신속하고 효과적으로 대응하기 위한 통합 구조를 구축하는 것을 목표로 한다. 이번 조직 개편을 통해 K-Line은 그룹 전체의 선박 관리 표준을 수립하고, 인적자원·데이터·노하우 등의 경영 자원을 유연하게 활용함으로써 선박 관리 운영의 감시 수준을 강화할 계획이다.</p><h3>Key Quotes</h3><br><li>"By further strengthening the expertise it has been developing for each ship type, 'K' LINE will enhance the management structure to enable the entire Group to more flexibly utilize management resources (human resources, data and know-how), thereby strengthening the management oversight of ship management operations and further enhancing their sophistication" (K-Line은 선박 유형별로 개발한 전문성을 강화함으로써 경영 구조를 개선하고, 그룹 전체가 인적자원, 데이터, 노하우 등의 경영 자원을 보다 유연하게 활용하여 선박 관리 운영의 감시 수준을 강화하고 운영 수준을 높일 것이다)</li></p><p><li>"Each ship management company will continue to focus on further improving safety in navigation and transportation service quality, building on its on-site capabilities and expertise" (각 선박 관리 회사는 현장 역량과 전문성을 바탕으로 항해 안전 및 운송 서비스 품질 개선에 계속 집중할 것이다)</li></p><h3>Technical Insights</h3><br>K-Line의 이번 조직 개편은 선박 관리 산업의 디지털 트랜스포메이션 시대에 대응하기 위한 전략적 움직임으로 해석된다. KLSM-H를 통한 중앙집중식 감시 체계 구축은 IMO의 환경 규제(황산화물 규제, 탄소 중립화 등)와 해양 안전 기준 준수를 보다 효율적으로 달성할 수 있는 구조를 마련한 것으로 평가된다. 특히 다양한 선박 유형에 대한 데이터와 노하우의 통합 관리는 선박의 연료 효율 최적화, 예방 정비 시스템 고도화, 그리고 향후 자율운항선 도입 시 필요한 기술 기반 구축에 유리할 것으로 예상된다. 이러한 그룹 차원의 표준화와 자원 통합은 선박 운영의 안전성, 경제성, 규제 준수 능력을 동시에 강화하는 해운사의 중요한 경쟁 전략이다.</p></div>`,
+      tags: ["Ship Management","K-Line","Organizational Structure","Maritime Operations"],
+      link: "https://www.offshore-energy.biz/k-line-sets-up-entity-to-oversee-all-of-its-ship-management-companies/",
+      coords: [139.767,35.6762],
+      location: "Tokyo, Japan"
+    },
+    {
+      type: "news",
+      title: "TGS Deploys Ramform Vanguard for Oil & Gas and Offshore Wind Campaigns in European Summer 2026",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-03-06",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/03/One-oil-gas-two-offshore-wind-campaigns-on-the-menu-for-TGS-seismic-vessel.jpg?image-crop-positioner-ts=1772784914",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>노르웨이의 에너지 데이터 회사 TGS가 보유한 지진 탐사선 Ramform Vanguard를 2026년 여름 유럽에서 석유·가스 부지 조사 및 해상풍력 사업에 투입할 계획이다. 86.2미터 길이의 1998년식 선박은 3월 중순부터 석유·가스 조사를 시작한 후 2개의 해상풍력 계약을 수행하며 3분기까지 작업을 지속할 예정이다. TGS의 CEO 크리스티안 요한센은 Ultra High Resolution 3D streamer 솔루션이 해상풍력 부지 특성파악 시장에서 입증된 성과를 보였으며, 석유·가스 조사로 기술 활용을 확대하고 있다고 밝혔다. 또한 TGS는 나이지리아 에너지 규제위원회(NUPRC)와 SeaSeis와 협력하여 나이지리아 외부 습곡대 지역에서 약 11,700제곱킬로미터 규모의 Nigeria Laide 다중 클라이언트 3D 조사를 실시 중이다.</p><h3>Key Quotes</h3><p><li>"We are very pleased to have secured a solid acquisition campaign for the Ramform Vanguard. We see opportunities for more work in the market, and if we are successful, the campaign may be extended further toward the end of Q3." (Ramform Vanguard의 견고한 취득 캠페인 확보에 만족하며, 시장 내 추가 작업 기회가 있으며 성공할 경우 3분기 말까지 캠페인을 연장할 수 있다)</li></p><p><li>"Our Ultra High Resolution 3D streamer solution has a proven track record within the offshore wind site characterization market. We are now taking another step and will do our first oil and gas site survey, thereby broadening our product offering and leveraging our technology to optimize asset utilization." (초고해상도 3D 스트리머 솔루션은 해상풍력 부지 특성화 시장에서 입증된 실적을 보유하고 있으며, 석유·가스 부지 조사를 통해 제품 포트폴리오를 확대하고 자산 활용을 최적화한다)</li></p><h3>Technical Insights</h3><p>Ramform Vanguard의 배치는 지진 탐사 기술이 재생에너지와 전통 에너지 산업 간의 교차 활용을 보여주는 사례이다. Ultra High Resolution 3D streamer 기술은 해상풍력 기초부지 평가와 석유·가스 지층 매핑 양쪽에 동일하게 적용되므로, 선박 자산의 유연한 활용을 가능하게 한다. 해상풍력 개발이 확대되면서 고정밀 지구물리 조사의 수요가 증가하고 있으며, 전통 에너지 기업들의 기술과 장비 다각화가 에너지 전환 시장에 진입하는 전략으로 활용되고 있다. 이러한 추세는 해양 조사선의 활용도 증가와 해양 기술 표준화의 중요성을 강조한다.</p></div>`,
+      tags: ["Seismic Survey","Offshore Wind","Oil & Gas","TGS","Ramform Vanguard"],
+      link: "https://www.offshore-energy.biz/one-oil-gas-two-offshore-wind-campaigns-on-schedule-for-tgs-seismic-vessel/",
+      coords: [0,0],
+      location: "Europe"
+    },
+    {
+      type: "news",
+      title: "US Provides $20 Billion Reinsurance for Maritime Losses in Gulf Region",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-03-06",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockpeter-168693.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>미국 국제개발금융공사(DFC)가 이란과의 분쟁으로 인한 페르시만만 지역의 해상 손실에 대해 최대 200억 달러 규모의 재보험을 제공하기로 발표했다. 트럼프 대통령의 지시에 따라 DFC는 호르무즈 해협을 통한 석유 및 LNG 유조선 운송 대란을 해결하기 위해 정치위험보험 및 재정보증을 제공할 예정이다. 현재 호르무즈 해협을 통해 전 세계 석유의 약 20%가 운송되고 있으나, 여러 유조선이 피격으로 손상되거나 좌초되어 운송이 거의 중단된 상태이다. 재보험은 선체/기계류 및 화물보험에 초점을 두고 미국 보험사 파트너들과 함께 시행될 것이며, 미 재무부와 중앙사령부가 조율하고 있다.</p><h3>Key Quotes</h3><p><li>"The U.S. will provide reinsurance for losses up to $20 billion in the Gulf region, to help provide confidence for oil and gas shippers during the war on Iran" (이란과의 분쟁 중 석유 및 가스 해운업체의 신뢰 회복을 위해 미국이 페르시만만 지역의 손실에 대해 최대 200억 달러 규모의 재보험을 제공할 것)</li></p><p><li>"Oil shipments have been largely blocked through the Strait with a number of tankers damaged by strikes and others stranded" (호르무즈 해협을 통한 석유 운송이 대부분 차단되었으며 여러 유조선이 피격으로 손상되거나 좌초됨)</li></p><p><li>"War-risk premiums have jumped and some providers have scaled back or withdrawn coverage" (전쟁 위험 보험료가 급상승하였고 일부 보험사들은 보험 범위를 축소하거나 철수함)</li></p><h3>Technical Insights</h3><p>이번 정책은 호르무즈 해협이라는 전략적 해상교통로의 안정성을 확보하기 위한 정부 차원의 개입으로, 국제해운산업에 미치는 영향이 상당하다. 전쟁위험보험료의 급등으로 인한 해운사의 운영비 증가와 보험 공급 부족 문제를 정부 재보험으로 해결함으로써 국제 해상무역의 연속성을 보장하려는 전략이다. COLREG 준수와 IMO 규정 이행 외에도 지정학적 위험요소가 현대 해운산업의 중요한 변수임을 시사하며, 이러한 정치적·군사적 리스크 관리가 해운회사의 운영전략 수립 시 필수적 고려 요소가 되고 있다는 점을 강조한다.</p></div>`,
+      tags: ["Reinsurance","Gulf Region","Oil & Gas Shipping","Political Risk Insurance","Strait of Hormuz"],
+      link: "https://www.marinelink.com/news/us-reinsure-maritime-losses-gulf-region-536653",
+      coords: [56.1499,25.2854],
+      location: "Strait of Hormuz, Gulf Region"
+    }
+  ]
+});
