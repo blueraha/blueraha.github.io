@@ -595,12 +595,30 @@ function showDetail(e) {
 
   // Source card (right)
   var sourceImg = document.getElementById('modal-source-img');
+  var safeImage = false;
   if (e.image && e.image.length > 0) {
+    // 신뢰할 수 있는 도메인만 이미지 표시
+    var trustedDomains = [
+      'gcaptain.com', 'marinelink.com', 'offshore-energy.biz',
+      'maritime-executive.com', 'navalnews.com', 'seatrade-maritime.com',
+      'windward.ai', 'reuters.com', 'bbc.co.uk', 'bbc.com',
+      'cnn.com', 'euronews.com', 'defensenews.com', 'usni.org',
+      'defence-blog.com', 'navaltoday.com', 'workboat.com',
+      'marineinsight.com', 'vesseltracker.com', 'vesselfinder.com',
+      'gov.uk', 'imo.org', 'static.euronews.com', 'defconalerts.com'
+    ];
+    try {
+      var imgHost = new URL(e.image).hostname.replace('www.', '');
+      safeImage = trustedDomains.some(function(d) { return imgHost.includes(d); });
+    } catch(err) { safeImage = false; }
+  }
+  if (safeImage) {
     sourceImg.src = e.image;
     sourceImg.alt = e.title || 'Article image';
     sourceImg.style.display = 'block';
     sourceImg.onerror = function() { this.style.display = 'none'; };
   } else {
+    sourceImg.src = '';
     sourceImg.style.display = 'none';
   }
   document.getElementById('modal-source-name').textContent = e.source || 'Source';

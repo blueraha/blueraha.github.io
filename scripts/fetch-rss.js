@@ -73,7 +73,27 @@ async function fetchArticleText(url) {
     }
 
     const ogImage = $('meta[property="og:image"]').attr('content') || '';
-    return { fullText: text.slice(0, 3000), ogImage };
+
+    // 신뢰할 수 있는 도메인 이미지만 허용
+    const trustedImgDomains = [
+      'gcaptain.com', 'marinelink.com', 'offshore-energy.biz',
+      'maritime-executive.com', 'navalnews.com', 'seatrade-maritime.com',
+      'windward.ai', 'reuters.com', 'bbc.co.uk', 'bbc.com',
+      'cnn.com', 'euronews.com', 'defensenews.com', 'usni.org',
+      'defence-blog.com', 'navaltoday.com', 'workboat.com',
+      'gov.uk', 'static.euronews.com'
+    ];
+    let safeOgImage = '';
+    if (ogImage) {
+      try {
+        const imgHost = new URL(ogImage).hostname.replace('www.', '');
+        if (trustedImgDomains.some(d => imgHost.includes(d))) {
+          safeOgImage = ogImage;
+        }
+      } catch(e) {}
+    }
+
+    return { fullText: text.slice(0, 3000), ogImage: safeOgImage };
   } catch (err) {
     return { fullText: '', ogImage: '' };
   }
