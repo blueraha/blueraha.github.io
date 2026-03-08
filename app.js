@@ -505,7 +505,7 @@ function renderMarkers() {
 
       marker.getElement().addEventListener('click', function(ev) {
         ev.stopPropagation();
-        openSidePanel(date, list);
+        openSidePanel(date, list, e);
       });
       markers.push(marker);
     });
@@ -530,15 +530,21 @@ function toggleTypeFilter(type) {
   renderMarkers();
 }
 
-function openSidePanel(date, list) {
+function openSidePanel(date, list, highlightEvent) {
   var panel = document.getElementById('side-panel');
   var content = document.getElementById('panel-content');
   document.getElementById('panel-title').textContent = date;
 
   var enriched = list.map(function(e) { var copy = Object.assign({}, e); copy._dateKey = date; return copy; });
+  var highlightIdx = -1;
 
-  content.innerHTML = enriched.length ? enriched.map(function(e) {
-    return '<div style="background:rgba(0,0,0,0.02); padding:12px; border-radius:6px; margin-bottom:10px; cursor:pointer; border:1px solid rgba(0,0,0,0.06); transition:0.2s;" onclick="flyToAndShowDetail(' + JSON.stringify(e).replace(/"/g, '&quot;') + ')" onmouseover="this.style.background=\'rgba(9,132,227,0.06)\'" onmouseout="this.style.background=\'rgba(0,0,0,0.02)\'">' +
+  content.innerHTML = enriched.length ? enriched.map(function(e, idx) {
+    var isHL = highlightEvent && e.title === highlightEvent.title;
+    if (isHL) highlightIdx = idx;
+    var bg = isHL ? 'rgba(9,132,227,0.10)' : 'rgba(0,0,0,0.02)';
+    var bc = isHL ? 'rgba(9,132,227,0.5)' : 'rgba(0,0,0,0.06)';
+    var bw = isHL ? '2px' : '1px';
+    return '<div id="panel-item-' + idx + '" style="background:' + bg + '; padding:12px; border-radius:6px; margin-bottom:10px; cursor:pointer; border:' + bw + ' solid ' + bc + '; transition:0.2s;" onclick="flyToAndShowDetail(' + JSON.stringify(e).replace(/"/g, '&quot;') + ')" onmouseover="this.style.background=\'rgba(9,132,227,0.06)\'" onmouseout="this.style.background=\'' + bg + '\'">' +
       '<div style="font-size:9px; color:var(--' + e.type + '); font-weight:600; margin-bottom:4px;">' + e.type.toUpperCase() + '</div>' +
       '<div style="font-size:13px; font-weight:500; color:var(--text-primary);">' + e.title + '</div>' +
       (e.location ? '<div style="font-size:10px; color:var(--text-secondary); margin-top:4px;">📍 ' + e.location + '</div>' : '') +
@@ -546,6 +552,14 @@ function openSidePanel(date, list) {
   }).join('') : '<div style="text-align:center; color:#aaa; margin-top:40px; font-size:11px;">No Data</div>';
 
   panel.classList.add('open');
+
+  // 하이라이트된 기사로 스크롤
+  if (highlightIdx >= 0) {
+    setTimeout(function() {
+      var el = document.getElementById('panel-item-' + highlightIdx);
+      if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }, 100);
+  }
 }
 
 // ── Markdown to HTML converter ──
@@ -597,15 +611,13 @@ function showDetail(e) {
   var sourceImg = document.getElementById('modal-source-img');
   var safeImage = false;
   if (e.image && e.image.length > 0) {
-    // 신뢰할 수 있는 도메인만 이미지 표시
     var trustedDomains = [
       'gcaptain.com', 'marinelink.com', 'offshore-energy.biz',
       'maritime-executive.com', 'navalnews.com', 'seatrade-maritime.com',
       'windward.ai', 'reuters.com', 'bbc.co.uk', 'bbc.com',
       'cnn.com', 'euronews.com', 'defensenews.com', 'usni.org',
       'defence-blog.com', 'navaltoday.com', 'workboat.com',
-      'marineinsight.com', 'vesseltracker.com', 'vesselfinder.com',
-      'gov.uk', 'imo.org', 'static.euronews.com', 'defconalerts.com'
+      'gov.uk', 'static.euronews.com', 'defconalerts.com'
     ];
     try {
       var imgHost = new URL(e.image).hostname.replace('www.', '');
