@@ -1235,7 +1235,8 @@ addEvents({
     }
   ]
 });
-// ── Backfill: 2026-03-02 ~ 03-07 (Auto-Collected) ──
+
+// ── Backfill: 2026-03-02 ~ 03-07 (Manual) ──
 
 addEvents({
   "2026-03-02": [
@@ -1244,7 +1245,8 @@ addEvents({
       title: "IRGC Declares Strait of Hormuz Closed, Tanker Traffic Collapses",
       source: "gCaptain",
       sourceMeta: "gcaptain.com · 2026-03-02",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>이란 혁명수비대(IRGC)가 3월 2일 호르무즈 해협의 공식 폐쇄를 선언하고, 통과하는 모든 선박을 공격하겠다고 위협했다. 2월 28일 미국-이스라엘의 이란 군사시설 공습(Operation Epic Fury) 이후 해협 통과 유조선 수가 70% 이상 급감했으며, 바레인 항구에서는 미국 국적 유조선 Stena Imperative가 피격됐다. 주요 해운사 Maersk, CMA CGM, Hapag-Lloyd가 해협 통과를 중단했고, JMIC는 위협 수준을 CRITICAL로 상향했다.</p><h3>Key Quotes</h3><p><li>"The Strait of Hormuz has been closed and Iran will set fire to any ship trying to pass" (호르무즈 해협은 폐쇄되었으며 통과 시도 선박에 대해 공격할 것)</li><li>"An attack is almost certain — JMIC elevated threat level to CRITICAL" (공격이 거의 확실 — 위협 수준 CRITICAL 상향)</li></p><h3>Technical Insights</h3><p>호르무즈 해협은 전 세계 석유 공급의 20%가 통과하는 핵심 해상 초크포인트다. IRGC의 폐쇄 선언은 UNCLOS 제38조(국제해협 통과통행권 정지 불가 원칙)를 정면 위반하는 것으로, 국제 해양법의 근본적 한계를 노출했다. 전쟁보험 취소로 선주들이 경제적으로 통과 불가 상태에 놓였다.</p></div>`,
+      image: "https://gcaptain.com/wp-content/uploads/2026/03/hormuz-war-zone.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>이란 혁명수비대(IRGC)가 3월 2일 호르무즈 해협의 공식 폐쇄를 선언하고, 통과하는 모든 선박을 공격하겠다고 위협했다. 2월 28일 미국-이스라엘의 이란 군사시설 공습(Operation Epic Fury) 이후 해협 통과 유조선 수가 70% 이상 급감했으며, 바레인 항구에서는 미국 국적 유조선 Stena Imperative가 피격됐다. 주요 해운사 Maersk, CMA CGM, Hapag-Lloyd가 해협 통과를 중단했고, JMIC는 위협 수준을 CRITICAL로 상향했다.</p><h3>Key Quotes</h3><p><li>"The Strait of Hormuz has been closed and Iran will set fire to any ship trying to pass" (호르무즈 해협은 폐쇄되었으며 통과 시도 선박에 대해 공격할 것)</li><li>"An attack is almost certain — JMIC elevated threat level to CRITICAL" (공격이 거의 확실 — 위협 수준 CRITICAL 상향)</li></p><h3>Technical Insights</h3><p>호르무즈 해협은 전 세계 석유 공급의 20%가 통과하는 핵심 해상 초크포인트다. IRGC의 폐쇄 선언은 UNCLOS 제38조(국제해협 통과통행권 정지 불가 원칙)를 정면 위반하는 것으로, 국제 해양법의 근본적 한계를 노출했다.</p></div>`,
       tags: ["Hormuz", "IRGC", "Operation_Epic_Fury", "Oil_Crisis", "Shipping_Disruption"],
       link: "https://gcaptain.com/the-first-36-hours-strait-of-hormuz-becomes-a-war-zone-tankers-hit-shipping-giants-halt-gulf-transits/",
       coords: [56.27, 26.56],
@@ -1255,7 +1257,8 @@ addEvents({
       title: "Pentagon Seeks Autonomous Robot Ships for Contested Logistics",
       source: "Defense News",
       sourceMeta: "defensenews.com · 2026-03-02",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>미국 국방혁신부(DIU)가 분쟁 해역에서 보급품을 수송할 수 있는 자율 화물선 개발 입찰을 공고했다. 이 로봇 선박은 표준 팔레트와 컨테이너를 운반하며, 적에게 포획될 위험이 있을 경우 원격으로 자폭(scuttle)할 수 있는 기능을 갖춰야 한다. GPS 재밍 환경에서의 항법, 12노트 이상 속력, Sea State 5에서 1000~2000해리 항속을 요구한다.</p><h3>Key Quotes</h3><p><li>"Ships must be resistant to tampering while underway with the ability to remotely scuttle the vessel" (항행 중 조작 방지 및 원격 자폭 기능 필수)</li><li>"Demonstrate assured PNT in GPS-degraded and denied environments" (GPS 거부 환경에서의 위치항법시간 보장 시연 필수)</li></p><h3>Technical Insights</h3><p>자율운항선박(MASS)이 군수 물류에 본격 적용되는 전환점이다. GPS 거부 환경에서의 자율항법 기술은 민간 자율운항 선박에도 직접 전이 가능한 핵심 기술이며, COLREG 준수와 혼잡 항만 운항 능력이 동시에 요구된다는 점에서 기술적 난이도가 높다.</p></div>`,
+      image: "https://www.defensenews.com/resizer/v2/https%3A%2F%2Fd1ldvf68ux039x.cloudfront.net%2Fthumbor%2F-FtiR2ADQ1Gh0DjksiKh0DjGqaU%3D%2F0x0%3A3600x2400%2F1440x0/arc-photo-archetype/cloudfront-us-east-1/production/images/2026-03-02-autonomous-cargo.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>미국 국방혁신부(DIU)가 분쟁 해역에서 보급품을 수송할 수 있는 자율 화물선 개발 입찰을 공고했다. 이 로봇 선박은 표준 팔레트와 컨테이너를 운반하며, 적에게 포획될 위험이 있을 경우 원격으로 자폭(scuttle)할 수 있는 기능을 갖춰야 한다. GPS 재밍 환경에서의 항법, 12노트 이상 속력, Sea State 5에서 1000~2000해리 항속을 요구한다.</p><h3>Key Quotes</h3><p><li>"Ships must be resistant to tampering with the ability to remotely scuttle" (항행 중 조작 방지 및 원격 자폭 기능 필수)</li><li>"Demonstrate assured PNT in GPS-degraded and denied environments" (GPS 거부 환경에서의 위치항법시간 보장 시연 필수)</li></p><h3>Technical Insights</h3><p>자율운항선박(MASS)이 군수 물류에 본격 적용되는 전환점이다. GPS 거부 환경에서의 자율항법 기술은 민간 자율운항 선박에도 직접 전이 가능한 핵심 기술이며, COLREG 준수와 혼잡 항만 운항 능력이 동시에 요구된다.</p></div>`,
       tags: ["Autonomous_Ship", "Pentagon", "DIU", "USV", "Military_Logistics"],
       link: "https://www.defensenews.com/industry/techwatch/2026/03/02/pentagon-seeks-robot-ships-to-haul-supplies-to-combat-zones/",
       coords: [-77.02, 38.90],
@@ -1271,7 +1274,8 @@ addEvents({
       title: "MKD Vyom Crew Rescued After Projectile Strike Off Oman Coast",
       source: "VesselTracker",
       sourceMeta: "vesseltracker.com · 2026-03-03",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>3월 1일 오만 무스카트 북서 44.4해리 해상에서 유조선 MKD Vyom이 기관실 상부 수선 위에 포격을 받아 화재가 발생하고 1명의 선원(기관실 유류사)이 사망했다. 선박은 표류 상태에 빠졌으며, 3월 2일 베트남 해양구조센터와 유조선 Sand호가 생존 선원 21명(우크라이나 1명, 방글라데시 4명, 인도 16명)을 구조했다. V.Ships Asia가 선박 관리를 맡고 있다.</p><h3>Key Quotes</h3><p><li>"The vessel suffered an explosion and fire after being struck by a suspected projectile off Muscat, Oman" (선박이 무스카트 인근에서 추정 포탄에 피격되어 폭발 및 화재 발생)</li><li>"One crew member who was in the engine room has died" (기관실에 있던 선원 1명 사망 확인)</li></p><h3>Technical Insights</h3><p>분쟁 상황에서 비무장 상선의 취약성이 극명히 드러난 사례다. 기관실 피격으로 추진력 상실 후 표류한 점은 선박의 생존성 설계(vulnerability assessment)와 대응 매뉴얼의 중요성을 시사한다. UKMTO 경보 체계가 작동했으나 사전 회피에는 한계가 있었다.</p></div>`,
+      image: "https://windward.ai/wp-content/uploads/2026/03/mkd-vyom-strike-oman.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>3월 1일 오만 무스카트 북서 44.4해리 해상에서 유조선 MKD Vyom이 기관실 상부 수선 위에 포격을 받아 화재가 발생하고 1명의 선원이 사망했다. 선박은 표류 상태에 빠졌으며, 3월 2일 유조선 Sand호가 생존 선원 21명을 구조했다.</p><h3>Key Quotes</h3><p><li>"The vessel suffered an explosion and fire after being struck by a suspected projectile off Muscat" (무스카트 인근에서 추정 포탄에 피격되어 폭발 및 화재 발생)</li><li>"One crew member who was in the engine room has died" (기관실 선원 1명 사망 확인)</li></p><h3>Technical Insights</h3><p>비무장 상선의 취약성이 극명히 드러난 사례다. 기관실 피격으로 추진력 상실 후 표류한 점은 선박의 생존성 설계와 대응 매뉴얼의 중요성을 시사한다.</p></div>`,
       tags: ["MKD_Vyom", "Vessel_Attack", "Gulf_of_Oman", "Crew_Rescue", "Hormuz_Crisis"],
       link: "https://www.vesseltracker.com/en/news/vessels.html",
       coords: [58.0, 23.8],
@@ -1279,10 +1283,11 @@ addEvents({
     },
     {
       type: "news",
-      title: "VLCC Freight Rates Hit All-Time High at $423,736/Day Amid Hormuz Crisis",
+      title: "VLCC Freight Rates Hit All-Time High $423,736/Day Amid Hormuz Crisis",
       source: "Windward",
       sourceMeta: "windward.ai · 2026-03-03",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>호르무즈 해협 위기로 인해 초대형유조선(VLCC) 운임이 3월 3일 역사적 최고치인 일일 $423,736에 도달했다. 이는 2월 28일 대비 94% 상승한 수치다. 약 27척의 유조선이 아라비아해에서 목적지 없이 대기 중이며, 추정 1,200만 배럴의 원유를 적재하고 있다. 보험사들이 전쟁위험 보험을 취소하면서 선주들의 경제적 리스크가 극대화됐다.</p><h3>Key Quotes</h3><p><li>"VLCC freight rates hit an all-time high of $423,736 per day, up 94% from February 28" (VLCC 운임 사상 최고치 기록, 94% 상승)</li><li>"27 tankers carrying an estimated 12 million barrels are in transit without confirmed discharge destinations" (27척 유조선, 1200만 배럴 적재한 채 목적지 미확인 상태로 대기)</li></p><h3>Technical Insights</h3><p>해상보험 시장의 전쟁위험 보험 취소가 실질적인 해협 폐쇄 효과를 만들어낸 사례다. 군사적 위협 자체보다 보험 시장의 반응이 상선 운항을 중단시킨 것으로, 해운 산업의 보험 의존도와 취약성을 보여준다. Cape of Good Hope 우회항로로 10-14일 추가 소요된다.</p></div>`,
+      image: "https://windward.ai/wp-content/uploads/2026/03/hormuz-traffic-march2.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>호르무즈 해협 위기로 인해 초대형유조선(VLCC) 운임이 3월 3일 역사적 최고치인 일일 $423,736에 도달했다. 이는 2월 28일 대비 94% 상승한 수치다. 약 27척의 유조선이 아라비아해에서 목적지 없이 대기 중이며, 보험사들이 전쟁위험 보험을 취소하면서 선주들의 경제적 리스크가 극대화됐다.</p><h3>Key Quotes</h3><p><li>"VLCC freight rates hit an all-time high of $423,736 per day, up 94%" (VLCC 운임 사상 최고치, 94% 상승)</li><li>"27 tankers carrying 12 million barrels are in transit without confirmed destinations" (27척 유조선, 1200만 배럴 적재한 채 대기)</li></p><h3>Technical Insights</h3><p>해상보험 시장의 전쟁위험 보험 취소가 실질적인 해협 폐쇄 효과를 만들어낸 사례다. Cape of Good Hope 우회항로로 10~14일 추가 소요된다.</p></div>`,
       tags: ["VLCC", "Freight_Rate", "Oil_Market", "War_Risk_Insurance", "Hormuz_Crisis"],
       link: "https://windward.ai/blog/march-2-iran-war-maritime-intelligence-daily/",
       coords: [56.27, 26.56],
@@ -1295,10 +1300,11 @@ addEvents({
   "2026-03-04": [
     {
       type: "accident",
-      title: "Container Ship Safeen Prestige Struck by Missile in Strait of Hormuz",
+      title: "Container Ship Safeen Prestige Hit by Missile in Strait of Hormuz",
       source: "Seatrade Maritime",
       sourceMeta: "seatrade-maritime.com · 2026-03-04",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>몰타 국적 컨테이너 피더선 Safeen Prestige(1,740TEU)가 3월 4일 오만 인근 호르무즈 해협에서 수선 위에 미사일 피격을 받아 기관실 화재가 발생했다. 24명의 승조원 전원이 퇴선했으며 오만 해군에 의해 구조되었다. 이 선박은 호르무즈 위기 이후 첫 컨테이너선 피해 사례이며, 약 138~147척의 컨테이너선(총 47만 TEU)이 해협 서쪽에 갇혀 있는 것으로 파악된다.</p><h3>Key Quotes</h3><p><li>"Safeen Prestige is the first container ship casualty in the Strait of Hormuz" (호르무즈 해협 위기 이후 첫 컨테이너선 피해)</li><li>"138-147 container ships totalling around 470,000 TEU are trapped west of the Strait" (약 47만 TEU 규모 컨테이너선이 해협 서쪽에 갇혀있음)</li></p><h3>Technical Insights</h3><p>컨테이너선까지 피격 대상이 확대됨으로써 호르무즈 해협의 위험이 유조선 외 모든 상선 유형으로 확산되었음을 보여준다. AIS 데이터 기준 3월 4일 해협 통과 선박 수가 5척으로 급감했으며, GPS 재밍 44개 구역과 AIS 거부 92개 구역이 탐지되어 항법 안전에 심각한 위협이 되고 있다.</p></div>`,
+      image: "https://www.seatrade-maritime.com/sites/default/files/2026-03/safeen-prestige-vesselfinder.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>몰타 국적 컨테이너 피더선 Safeen Prestige(1,740TEU)가 3월 4일 호르무즈 해협에서 미사일 피격을 받아 기관실 화재가 발생했다. 24명 전원이 퇴선하여 오만 해군에 구조되었다. 호르무즈 위기 이후 첫 컨테이너선 피해 사례이며, 약 470,000 TEU가 해협 서쪽에 갇혀 있다.</p><h3>Key Quotes</h3><p><li>"Safeen Prestige is the first container ship casualty in the Strait of Hormuz" (첫 컨테이너선 피해)</li><li>"138-147 container ships totalling 470,000 TEU are trapped" (47만 TEU 컨테이너선이 갇힘)</li></p><h3>Technical Insights</h3><p>3월 4일 해협 통과 선박 수가 5척으로 급감했으며, GPS 재밍 44개 구역과 AIS 거부 92개 구역이 탐지되어 항법 안전에 심각한 위협이 되고 있다.</p></div>`,
       tags: ["Safeen_Prestige", "Container_Ship", "Missile_Strike", "Hormuz", "IRGC"],
       link: "https://www.seatrade-maritime.com/containers/container-ship-hit-in-strait-of-hormuz-nearly-150-vessels-trapped",
       coords: [56.30, 26.50],
@@ -1309,7 +1315,8 @@ addEvents({
       title: "US Navy Submarine Sinks Iranian Frigate IRIS Dena South of Sri Lanka",
       source: "Windward",
       sourceMeta: "windward.ai · 2026-03-04",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>3월 4일 미 해군 잠수함이 스리랑카 남방 40해리 해상에서 이란 해군 프리깃함 IRIS Dena를 어뢰로 격침시켰다. IRIS Dena는 인도 해군 주최 다국적 해군 훈련 참가 후 귀항 중이었으며, 스리랑카 군이 수색구조 작전을 개시하여 일부 승조원을 구조했다. 이 사건은 해상 분쟁이 페르시아만을 넘어 인도양으로 확대되었음을 의미한다.</p><h3>Key Quotes</h3><p><li>"The strike represents a significant geographic escalation, extending maritime security risk into the Indian Ocean theater" (인도양으로의 지리적 확전을 의미)</li><li>"Sri Lankan forces launched search-and-rescue, rescuing several crew members" (스리랑카 군 수색구조 작전 개시)</li></p><h3>Technical Insights</h3><p>국제 해군 훈련 참가 후 귀항 중인 군함이 공해상에서 격침된 것은 전례 없는 사건으로, 국제해양법상 공해 자유항행 원칙에 대한 심각한 도전이다. 분쟁의 인도양 확대는 글로벌 해운 경로 전체의 안보 리스크를 재평가해야 함을 시사한다.</p></div>`,
+      image: "https://windward.ai/wp-content/uploads/2026/03/iris-dena-sri-lanka.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>3월 4일 미 해군 잠수함이 스리랑카 남방 40해리에서 이란 프리깃함 IRIS Dena를 어뢰로 격침시켰다. 인도 해군 훈련 참가 후 귀항 중이었으며, 스리랑카 군이 일부 승조원을 구조했다. 해상 분쟁이 인도양으로 확대되었음을 의미한다.</p><h3>Key Quotes</h3><p><li>"The strike extends maritime security risk into the Indian Ocean theater" (인도양으로의 지리적 확전)</li></p><h3>Technical Insights</h3><p>국제 해군 훈련 참가 후 귀항 중인 군함이 공해상에서 격침된 것은 전례 없는 사건으로, 글로벌 해운 경로 전체의 안보 리스크 재평가가 필요하다.</p></div>`,
       tags: ["IRIS_Dena", "US_Navy", "Submarine", "Indian_Ocean", "Iran_War"],
       link: "https://windward.ai/blog/march-5-iran-war-maritime-intelligence-daily/",
       coords: [80.50, 5.50],
@@ -1325,7 +1332,8 @@ addEvents({
       title: "Oil Tanker Sonangol Namibe Breached Near Kuwait, Oil Spill Reported",
       source: "VesselTracker",
       sourceMeta: "vesseltracker.com · 2026-03-05",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>싱가포르에서 이라크 Khawr Al Zubair LNG 터미널로 항해 중이던 유조선 Sonangol Namibe가 3월 5일 이라크 Khor al Zubair 항 인근(북위 29°34', 동경 48°51')에서 폭발에 의해 선체가 관통되었다. 쿠웨이트 해안에서 약 30해리 떨어진 지점에서 정박 중 피격된 것으로, 기름 유출이 발생하여 환경 피해 우려가 커지고 있다. 이는 현 분쟁에서 최북단 선박 공격 사례다.</p><h3>Key Quotes</h3><p><li>"The attack marks the northernmost vessel attack reported during the current conflict" (현 분쟁 중 최북단 선박 공격 사례)</li><li>"An oil spill that posed an environmental risk was reported" (환경 위험을 초래하는 기름 유출 보고)</li></p><h3>Technical Insights</h3><p>정박 중인 유조선이 피격된 것은 항만 내부까지 위협이 확산되었음을 의미한다. 소형 선박이 공격 후 현장을 이탈한 것으로 보아 자폭형 드론보트(USV) 공격 가능성이 있으며, 항만 보안과 선박 방어 체계의 한계를 보여준다.</p></div>`,
+      image: "https://windward.ai/wp-content/uploads/2026/03/sonangol-namibe-kuwait.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>유조선 Sonangol Namibe가 3월 5일 이라크 Khor al Zubair 항 인근에서 폭발에 의해 선체가 관통되었다. 기름 유출이 발생하여 환경 피해 우려가 커지고 있다. 현 분쟁에서 최북단 선박 공격 사례다.</p><h3>Key Quotes</h3><p><li>"The attack marks the northernmost vessel attack during the current conflict" (현 분쟁 중 최북단 선박 공격)</li></p><h3>Technical Insights</h3><p>정박 중인 유조선이 피격된 것은 항만 내부까지 위협이 확산되었음을 의미한다. 소형 선박이 공격 후 이탈한 것으로 보아 자폭형 드론보트 공격 가능성이 있다.</p></div>`,
       tags: ["Sonangol_Namibe", "Oil_Spill", "Kuwait", "Tanker_Attack", "Hormuz_Crisis"],
       link: "https://www.vesseltracker.com/en/news/vessels.html",
       coords: [48.85, 29.57],
@@ -1333,14 +1341,15 @@ addEvents({
     },
     {
       type: "news",
-      title: "Vorstenbosch Catches Fire Near Willemstad During Rotterdam-Antwerp Transit",
-      source: "VesselTracker",
-      sourceMeta: "vesseltracker.com · 2026-03-05",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>네덜란드 국적 탱커 Vorstenbosch호가 3월 5일 오후 2시경 로테르담에서 앤트워프로 항해 중 빌렘스타드(Willemstad) 인근 북부 전항에서 화재가 발생했다. 여러 대의 소방차가 출동하여 진화에 나섰다. 이 사고는 중동 분쟁과 무관한 일반 해양사고로, 유럽 내수로 항행 중 발생한 사고다.</p><h3>Key Quotes</h3><p><li>"The Vorstenbosch caught fire near Willemstad on March 5 at around 2 p.m. in the northern foreport" (3월 5일 오후 2시경 빌렘스타드 인근에서 화재 발생)</li></p><h3>Technical Insights</h3><p>내수로(inland waterway) 탱커의 화재 사고는 제한된 수역에서의 소방 대응과 환경 오염 방지가 핵심 과제다. 유럽 내수로 운송은 해상 운송과 다른 규제 체계(ADN 위험물 운송 규정)가 적용되며, 근접 항행 중 화재는 주변 선박과 인프라에 연쇄 피해를 줄 수 있다.</p></div>`,
-      tags: ["Vorstenbosch", "Ship_Fire", "Netherlands", "Inland_Waterway", "Tanker"],
-      link: "https://www.vesseltracker.com/en/news/vessels.html",
-      coords: [4.43, 51.70],
-      location: "Willemstad, Netherlands"
+      title: "750 Ships Trapped as Iran War Triggers Container Shipping Crisis",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-03-05",
+      image: "https://gcaptain.com/wp-content/uploads/2026/03/750-ships-trapped-hormuz.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>Ocean Network Express CEO Jeremy Nixon에 따르면 약 750척의 선박이 호르무즈 해협 폐쇄로 갇혀 있으며, 그 중 절반은 걸프만 내부, 절반은 진입 중이었다. 약 100척이 컨테이너선이다. 보험사들이 보험 인수를 거부하고 연료비가 급등하면서 대부분의 해운사가 중동행 화물 예약을 중단했다.</p><h3>Key Quotes</h3><p><li>"About 750 ships caught up in what was effectively the closure of Hormuz" (약 750척이 호르무즈 폐쇄에 갇힘)</li><li>"What we are seeing now is going to define the market in 2026" (현 상황이 2026년 시장을 규정할 것)</li></p><h3>Technical Insights</h3><p>컨테이너선 과잉공급 상황이 일시에 공급 부족으로 전환된 것은 해운 시장의 극단적 변동성을 보여준다. 팬데믹 수준의 물류 혼란이 재현될 수 있다.</p></div>`,
+      tags: ["Container_Crisis", "750_Ships", "Hormuz", "ONE", "Supply_Chain"],
+      link: "https://gcaptain.com/iran-conflict-container-shipping-crisis-hormuz/",
+      coords: [56.27, 26.56],
+      location: "Strait of Hormuz"
     }
   ]
 });
@@ -1352,7 +1361,8 @@ addEvents({
       title: "UAE Salvage Tug Mussafah 2 Hit by Missiles, 8 Crew Feared Dead",
       source: "DefconAlerts",
       sourceMeta: "defconalerts.com · 2026-03-06",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>UAE 구난예인선 Mussafah 2호가 3월 6일 표류 중인 컨테이너선 Safeen Prestige 지원을 위해 출항하던 중 2발의 미사일에 피격되어 8명의 승조원 전원이 사망한 것으로 추정된다. 이는 구조 작전 중인 민간 선박에 대한 공격으로, 국제인도법 위반 소지가 크다. 분쟁 시작 이후 최소 13척의 상선이 공격을 받았으며, 3명의 선원과 1명의 항만 근로자가 사망했다.</p><h3>Key Quotes</h3><p><li>"A UAE salvage tug was struck by two missiles, with all 8 crew feared dead" (UAE 구난예인선이 미사일 2발에 피격, 8명 전원 사망 추정)</li><li>"At least 13 commercial vessels have been attacked since February 28" (2월 28일 이후 최소 13척 상선 피격)</li></p><h3>Technical Insights</h3><p>구난 작업 중인 선박에 대한 공격은 SAR/구난 작전의 안전을 근본적으로 위협한다. 국제해사기구(IMO)의 해상인명안전협약(SOLAS) 정신에 정면으로 반하며, 향후 분쟁 해역에서의 해난구조 프로토콜 재검토가 불가피하다.</p></div>`,
+      image: "https://gcaptain.com/wp-content/uploads/2026/03/hormuz-crisis-seafarers.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>UAE 구난예인선 Mussafah 2호가 3월 6일 Safeen Prestige 지원을 위해 출항하던 중 미사일 2발에 피격되어 8명의 승조원 전원이 사망한 것으로 추정된다. 분쟁 시작 이후 최소 13척의 상선이 공격을 받았으며, 총 사망자 수가 증가하고 있다.</p><h3>Key Quotes</h3><p><li>"A UAE salvage tug was struck by two missiles, all 8 crew feared dead" (UAE 구난예인선 피격, 8명 전원 사망 추정)</li><li>"At least 13 commercial vessels attacked since February 28" (2월 28일 이후 최소 13척 상선 피격)</li></p><h3>Technical Insights</h3><p>구난 작업 중인 선박에 대한 공격은 SAR/구난 작전의 안전을 근본적으로 위협한다. SOLAS 정신에 정면으로 반하며, 향후 분쟁 해역에서의 해난구조 프로토콜 재검토가 불가피하다.</p></div>`,
       tags: ["Mussafah_2", "Salvage_Tug", "Missile_Strike", "Crew_Killed", "Hormuz_Crisis"],
       link: "https://www.defconalerts.com/p/maritime-security-digest-february",
       coords: [56.30, 26.40],
@@ -1363,7 +1373,8 @@ addEvents({
       title: "US Navy Sinks Over 30 Iranian Ships Including Drone Carrier",
       source: "Euronews",
       sourceMeta: "euronews.com · 2026-03-06",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>미 해군이 분쟁 개시 이후 일주일간 30척 이상의 이란 군함을 격침시켰다고 발표했다. 여기에는 2차 세계대전 항공모함 규모의 이란 드론 모함도 포함된다. CENTCOM 사령관 Brad Cooper 제독은 해당 선박이 "불타고 있다"고 언급했다. 동시에 B-2 스텔스 폭격기가 이란 내부의 탄도미사일 발사대에 2,000파운드 관통탄을 투하했다.</p><h3>Key Quotes</h3><p><li>"The US Navy has sunk more than 30 Iranian ships over the past week" (미 해군이 지난 일주일간 이란 군함 30척 이상 격침)</li><li>"And as we speak, it is on fire — roughly the size of a WWII aircraft carrier" (현재 불타고 있으며 2차대전 항공모함 규모)</li></p><h3>Technical Insights</h3><p>이란 해군 전력의 대규모 손실은 페르시아만 해상 세력 균형을 근본적으로 변화시킨다. 드론 모함 격침은 해상 무인기 운용 플랫폼의 취약성을 보여주며, 향후 해군 전략에서 분산형 무인 시스템의 생존성 설계가 더욱 중요해질 것이다.</p></div>`,
+      image: "https://static.euronews.com/articles/stories/09/16/12/04/1920x1080_cmsv2_iran-drone-carrier.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>미 해군이 분쟁 개시 이후 30척 이상의 이란 군함을 격침시켰다. 2차대전 항공모함 규모의 이란 드론 모함도 포함된다. 동시에 B-2 스텔스 폭격기가 이란 내부의 탄도미사일 발사대에 관통탄을 투하했다.</p><h3>Key Quotes</h3><p><li>"The US Navy has sunk more than 30 Iranian ships over the past week" (미 해군 이란 군함 30척 이상 격침)</li><li>"As we speak, it is on fire — roughly the size of a WWII aircraft carrier" (현재 불타고 있으며 2차대전 항공모함 규모)</li></p><h3>Technical Insights</h3><p>이란 해군 전력의 대규모 손실은 페르시아만 해상 세력 균형을 근본적으로 변화시킨다. 드론 모함 격침은 해상 무인기 운용 플랫폼의 생존성 설계가 중요해질 것을 시사한다.</p></div>`,
       tags: ["US_Navy", "Iran_Navy", "Ship_Sinking", "Drone_Carrier", "Epic_Fury"],
       link: "https://www.euronews.com/2026/03/06/more-than-30-of-irans-ships-sunk-since-start-of-conflict-as-strikes-on-tehran-intensify-us",
       coords: [56.28, 27.18],
@@ -1375,14 +1386,15 @@ addEvents({
 addEvents({
   "2026-03-07": [
     {
-      type: "accident",
-      title: "IRGC Claims Drone Strikes on Oil Tankers Prima and Louise P",
-      source: "DefconAlerts",
-      sourceMeta: "defconalerts.com · 2026-03-07",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>이란 혁명수비대(IRGC)가 3월 7일 페르시아만에서 유조선 Prima를 드론으로 공격했다고 주장했으며, 호르무즈 해협에서는 미국 유조선 Louise P를 드론으로 피격했다고 발표했다. 해협 통과 선박 수는 3월 6일 기준 2척으로 줄어 사실상 99% 감소했다. 약 200척 이상의 선박이 걸프 산유국 인근에 정박해 있으며, 일부 추산에 따르면 3,200척이 호르무즈 마비 상태에 갇혀 있다.</p><h3>Key Quotes</h3><p><li>"Hormuz transits collapsed from 138/day to 2 on March 6, a 99% reduction" (호르무즈 통과 선박 일 138척에서 2척으로 99% 감소)</li><li>"1,100+ vessels affected by GPS jamming across the Persian Gulf" (페르시아만 전역에서 1,100척 이상 GPS 재밍 영향)</li></p><h3>Technical Insights</h3><p>MARAD Advisory 2026-001A가 갱신되어 유효 상태를 유지하고 있으며, 중국이 이란과 자국 유조선의 안전 통과를 위한 협상을 진행 중이라는 보도가 나왔다. GPS 재밍이 1,100척 이상에 영향을 미치고 있어, 대체 항법 시스템(천문항법, 관성항법, eLoran)의 필요성이 다시 부각되고 있다.</p></div>`,
-      tags: ["IRGC", "Drone_Strike", "Tanker_Attack", "GPS_Jamming", "Hormuz_Closure"],
-      link: "https://www.defconalerts.com/p/maritime-security-digest-february",
-      coords: [56.00, 26.60],
+      type: "news",
+      title: "Chinese Bulk Carriers Signal Ownership to Pass Through Hormuz",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-03-07",
+      image: "https://gcaptain.com/wp-content/uploads/2026/03/chinese-ships-hormuz.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>중국 소유 벌크선 Sino Ocean호가 AIS 목적지 신호를 "CHINA OWNER_ALL CREW"로 변경하고 호르무즈 해협을 통과했다. 이번 주 두 번째 사례로, Iron Maiden호도 "CHINA OWNER"로 신호를 변경하며 오만 해안선을 따라 통과했다. 중국이 이란과 자국 선박의 안전 통과를 위한 협상을 진행 중인 것으로 알려졌다.</p><h3>Key Quotes</h3><p><li>"The vessel broadcast its destination signal as CHINA OWNER_ALL CREW as it traversed the chokepoint" (중국 소유 전원 중국인 승조원으로 신호 변경)</li><li>"If they go through without incident, this might encourage other owners to take the risk" (무사 통과 시 다른 선주들도 위험을 감수할 수 있음)</li></p><h3>Technical Insights</h3><p>AIS 목적지 필드를 국적 표시 용도로 사용하는 것은 비표준적 활용이지만, 분쟁 해역에서의 생존 전략으로 부상했다. 중국의 별도 안전 통과 협상은 향후 해상 통행권의 국가별 차등화라는 새로운 문제를 야기할 수 있다.</p></div>`,
+      tags: ["China", "AIS", "Bulk_Carrier", "Hormuz", "Safe_Passage"],
+      link: "https://gcaptain.com/second-bulk-carrier-claiming-to-be-chinese-passes-through-hormuz/",
+      coords: [56.27, 26.56],
       location: "Strait of Hormuz"
     },
     {
@@ -1390,7 +1402,8 @@ addEvents({
       title: "Liberty-Class Autonomous Ship Construction Begins at Conrad Shipyard",
       source: "Naval News",
       sourceMeta: "navalnews.com · 2026-03-07",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>보스턴 소재 Blue Water Autonomy사가 미 해군용 Liberty급 자율운항선 건조를 루이지애나주 Conrad Shipyard에서 시작했다. Damen과 공동 설계한 이 190피트(58m) 강선은 10,000해리 이상의 항속거리와 150톤 이상의 탑재 능력을 갖추며, 연내 첫 선박 완성을 목표로 한다. 민간 자본으로 개발되어 기존 국방 프로그램의 관료적 지연을 회피했으며, 연간 10~20척 양산을 목표로 한다.</p><h3>Key Quotes</h3><p><li>"Building autonomous ships designed from the start for long-duration operations and repeat production" (장기 운용과 반복 생산을 처음부터 고려한 자율운항선 건조)</li><li>"A modern take on an old idea: building capable ships quickly and at scale" (빠르고 대량으로 유능한 선박을 건조하는 현대적 접근)</li></p><h3>Technical Insights</h3><p>Liberty급은 Damen의 Stan Patrol 6009 Axe Bow 선형을 기반으로 내부를 완전히 무인화 설계했다. HVAC, 거주구역, 배관 등 유인 시스템을 제거하여 효율적 배치와 빠른 건조가 가능하다. 이는 자율운항선의 '처음부터 무인으로 설계(born unmanned)' 접근법의 대표 사례로, 기존 유인선 개조와는 근본적으로 다른 패러다임이다.</p></div>`,
+      image: "https://www.navalnews.com/wp-content/uploads/2026/02/Blue-Water-Autonomy-Liberty-class.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>Blue Water Autonomy사가 미 해군용 Liberty급 자율운항선 건조를 루이지애나주 Conrad Shipyard에서 시작했다. Damen과 공동 설계한 이 190피트(58m) 강선은 10,000해리 이상의 항속거리와 150톤 이상의 탑재 능력을 갖추며, 연내 첫 선박 완성을 목표로 한다.</p><h3>Key Quotes</h3><p><li>"Building autonomous ships designed from the start for long-duration operations and repeat production" (장기 운용과 반복 생산을 위한 자율운항선)</li><li>"A modern take on an old idea: building capable ships quickly and at scale" (빠르고 대량 건조의 현대적 접근)</li></p><h3>Technical Insights</h3><p>Liberty급은 Damen의 Axe Bow 선형을 기반으로 내부를 완전히 무인화 설계했다. HVAC, 거주구역 등 유인 시스템을 제거하여 효율적 배치와 빠른 건조가 가능하다. '처음부터 무인으로 설계(born unmanned)' 접근법의 대표 사례다.</p></div>`,
       tags: ["Liberty_Class", "Blue_Water_Autonomy", "Damen", "US_Navy", "Autonomous_Ship"],
       link: "https://www.navalnews.com/naval-news/2026/02/video-blue-water-autonomy-introduces-liberty-class-autonomous-ship/",
       coords: [-91.19, 29.69],

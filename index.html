@@ -665,6 +665,10 @@
     flex: 1; display: flex; flex-direction: column; gap: 12px;
     padding: 20px; background: rgba(0,0,0,0.02); border-radius: 8px; border: 1px solid var(--border-color);
 }
+.modal-source-img {
+    width: 100%; max-height: 220px; object-fit: cover; border-radius: 6px;
+    border: 1px solid var(--border-color);
+}
 .modal-source-name { font-size: 15px; font-weight: 600; color: var(--text-primary); }
 .modal-source-meta-text { font-size: 12px; color: var(--text-secondary); line-height: 1.6; }
 .modal-source-location { font-size: 12px; color: var(--text-secondary); }
@@ -938,6 +942,7 @@ body.theme-glass .modal-source-card { background: rgba(255,255,255,0.03); border
       <div class="modal-right">
         <div class="modal-section-label">📰 Source</div>
         <div class="modal-source-card" id="modal-source-card">
+          <img id="modal-source-img" class="modal-source-img" src="" alt="" style="display:none;" />
           <div id="modal-source-name" class="modal-source-name"></div>
           <div id="modal-source-meta" class="modal-source-meta-text"></div>
           <div id="modal-source-location" class="modal-source-location"></div>
@@ -987,7 +992,7 @@ body.theme-glass .modal-source-card { background: rgba(255,255,255,0.03); border
     <div style="font-size:12px; color:#555; line-height:2.2;">
       <div style="display:flex; align-items:center; gap:8px;">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#0984e3" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
-        <a href="mailto:kjwooshi@gmail.com" style="color:#0984e3; text-decoration:none;">kjwooshi@gmail.com</a>
+        <a href="/cdn-cgi/l/email-protection#d9b2b3aeb6b6aab1b099beb4b8b0b5f7bab6b4" style="color:#0984e3; text-decoration:none;"><span class="__cf_email__" data-cfemail="abc0c1dcc4c4d8c3c2ebccc6cac2c785c8c4c6">[email&#160;protected]</span></a>
       </div>
       <div style="display:flex; align-items:center; gap:8px;">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#0984e3" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
@@ -1000,7 +1005,7 @@ body.theme-glass .modal-source-card { background: rgba(255,255,255,0.03); border
 
 <div class="version-tag" style="font-size:8px; letter-spacing:1px;">autonomousship.org</div>
 
-<script data-cfasync="false" src="data.js"></script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script data-cfasync="false" src="data.js"></script>
 <script data-cfasync="false" src="app.js"></script>
 <script>
 function setUITheme(theme) {
@@ -1013,13 +1018,4 @@ function setUITheme(theme) {
   var btn = document.getElementById('theme-' + theme);
   if (btn) btn.classList.add('active');
   // 상태 저장
-  try { localStorage.setItem('maritime-ui-theme', theme); } catch(e) {}
-}
-// 저장된 테마 복원
-try {
-  var saved = localStorage.getItem('maritime-ui-theme');
-  if (saved && saved !== 'light') setUITheme(saved);
-} catch(e) {}
-</script>
-</body>
-</html>
+  try { localStorage.set

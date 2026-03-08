@@ -594,6 +594,15 @@ function showDetail(e) {
   document.getElementById('modal-text').innerHTML = mdToHtml(e.content);
 
   // Source card (right)
+  var sourceImg = document.getElementById('modal-source-img');
+  if (e.image && e.image.length > 0) {
+    sourceImg.src = e.image;
+    sourceImg.alt = e.title || 'Article image';
+    sourceImg.style.display = 'block';
+    sourceImg.onerror = function() { this.style.display = 'none'; };
+  } else {
+    sourceImg.style.display = 'none';
+  }
   document.getElementById('modal-source-name').textContent = e.source || 'Source';
   document.getElementById('modal-source-meta').textContent = e.sourceMeta || '';
 
