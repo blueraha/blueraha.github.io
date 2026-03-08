@@ -133,6 +133,7 @@ async function processArticles() {
       parsed.content = '<div style="font-weight:300; line-height:1.8;">' + reportBody + '</div>';
 
       if (!parsed.link && article.link) parsed.link = article.link;
+      if (article.ogImage) parsed.image = article.ogImage;
 
       processed.push(parsed);
       console.log(`   ✅ [${parsed.type}] ${parsed.title} [${parsed.location}]`);

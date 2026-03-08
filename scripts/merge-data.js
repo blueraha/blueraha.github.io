@@ -60,11 +60,12 @@ function run() {
     const entries = articles.map(a => {
       const tags = JSON.stringify(a.tags || []);
       const coords = JSON.stringify(a.coords || [0, 0]);
+      const imageLine = a.image ? `\n      image: "${escapeStr(a.image)}",` : '';
       return `    {
       type: "${a.type}",
       title: "${escapeStr(a.title)}",
       source: "${escapeStr(a.source)}",
-      sourceMeta: "${escapeStr(a.sourceMeta)}",
+      sourceMeta: "${escapeStr(a.sourceMeta)}",${imageLine}
       content: \`${a.content}\`,
       tags: ${tags},
       link: "${escapeStr(a.link)}",
