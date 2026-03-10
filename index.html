@@ -1020,4 +1020,25 @@ function setUITheme(theme) {
   var btn = document.getElementById('theme-' + theme);
   if (btn) btn.classList.add('active');
   // 상태 저장
-  try { localStorage.set
+  try { localStorage.setItem('uiTheme', theme); } catch(e) {}
+  // Mapbox 스타일 변경
+  if (typeof map !== 'undefined') {
+    if (theme === 'dark' || theme === 'glass') {
+      map.setStyle('mapbox://styles/mapbox/dark-v11');
+    } else {
+      map.setStyle('mapbox://styles/mapbox/light-v11');
+    }
+    map.once('style.load', function() {
+      renderMarkers();
+      if (typeof addWeatherSources === 'function') addWeatherSources();
+    });
+  }
+}
+// 저장된 테마 적용
+try {
+  var saved = localStorage.getItem('uiTheme');
+  if (saved) setUITheme(saved);
+} catch(e) {}
+</script>
+</body>
+</html>
