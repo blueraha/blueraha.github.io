@@ -1619,3 +1619,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-03-10
+addEvents({
+  "2026-03-10": [
+    {
+      type: "accident",
+      title: "Coast Guard Responding to Large Barge Fire in Delaware Bay",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-03-10",
+      image: "https://gcaptain.com/wp-content/uploads/2026/03/Barge-fire-delaware.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>2026년 3월 10일 미국 동부 델라웨어만에서 예인선 Douglas J가 예인 중이던 폐금속 적화 바지선이 화재를 일으키는 사건이 발생했다. 미국 해안경비대(USGS) 및 지역 소방기관들이 즉시 대응에 나섰으며, 화재 바지선을 모리스 리버 코브 인근 약 2마일 떨어진 지점으로 예인하여 주요 해상교통로로부터 격리했다. 현재까지 인명피해는 보고되지 않았으나 화재 원인은 조사 중이며, 해안경비대는 해상교통 안전을 위해 안전 해역(Safety Zone)을 설정하고 항해 공고를 발령했다. 이 사건은 2022년 같은 지역에서 발생한 26시간 지속된 대규모 바지선 화재 사건과 유사한 양상을 보여준다.</p><h3>Key Quotes</h3><p><li>"The U.S. Coast Guard and multiple partner agencies are responding to a barge fire in Delaware Bay on Tuesday after a tug reported that the vessel it was towing had caught fire." (미국 해안경비대와 여러 파트너 기관들이 예인선이 예인 중인 바지선이 화재를 일으켰다는 신고를 받고 델라웨어만의 바지선 화재에 대응하고 있다.)</li></p><p><li>"Authorities are towing the burning barge to a position about two miles off Maurice River Cove, New Jersey, in an effort to move the incident away from the main shipping channel while firefighting operations continue." (당국은 화재 바지선을 모리스 리버 코브 인근 약 2마일 떨어진 지점으로 예인하여 소방 작업이 진행되는 동안 사고 지점을 주요 해상교통로에서 벗어나게 하고 있다.)</li></p><h3>Technical Insights</h3><p>이번 사건은 내항 바지선 운영에서의 화재 방지 및 긴급 대응 체계의 중요성을 재확인시켜준다. 특히 폐금속 적화 바지선의 경우 자동 발화 위험이 높으므로 적절한 통풍, 습도 관리, 정기적인 화물 상태 점검이 필수적이다. 2022년의 선행 사건과 유사하게 델라웨어만의 혼잡한 항만 지역에서 화재가 발생하면 COLREG 준칙 준수뿐 아니라 IMO의 예인선 안전 지침(IMO Guidelines on Towing) 및 해상 환경 보호 규정이 중요하게 작동한다. 본 사건에서 빠른 격리와 안전 해역 설정은 해상교통 혼란을 최소화하고 2차 사고를 방지하는 우수한 대응 사례로 평가되며, 향후 내항 화물 바지선 운영자들은 화재 감지·진압 시스템 개선과 선원 훈련 강화가 필요하다.</p></div>`,
+      tags: ["Barge Fire","Delaware Bay","Coast Guard Response","Scrap Metal Cargo"],
+      link: "https://gcaptain.com/coast-guard-responding-to-large-barge-fire-in-delaware-bay/",
+      coords: [-75.5,39.1],
+      location: "Delaware Bay, New Jersey"
+    },
+    {
+      type: "accident",
+      title: "Barge Catches Fire in Delaware Bay",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-03-10",
+      image: "https://images.marinelink.com/images/maritime/w800/source-social-168806.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>2026년 3월 10일 오전 8시 20분경 델라웨어 만에서 예인선 Douglas J가 끌고 있던 선적 금속 자재를 운반하는 바지선에서 화재가 발생했습니다. 미국 해안경비대(Coast Guard)가 즉시 대응에 나섰으며, 화재 위험을 주 항로에서 제거하기 위해 뉴저지 모리스 강 만 인근 약 2마일 거리로 바지선을 예인했습니다. 현재까지 인명피해는 보고되지 않았으며, 델라웨어 만 및 주변 지역의 여러 소방 기관과 긴급 관리 기관들이 대응에 참여하고 있습니다. 화재의 원인은 현재 조사 중입니다.</p><h3>Key Quotes</h3><br><li>"The barge was carrying scrap metal." (바지선은 금속 폐기물을 운반 중이었습니다.)</li><br><li>"It has been towed to approximately 2 miles off Maurice River Cove, New Jersey, to remove the threat from the main ship channel." (주요 항로로부터의 위협을 제거하기 위해 뉴저지 모리스 강 만 인근 약 2마일 거리로 예인했습니다.)</li></p><h3>Technical Insights</h3><br>금속 폐기물 운반 바지선의 화재 발생은 화물 특성에 따른 자동 발화 위험성과 적절한 화물 관리의 중요성을 시사합니다. 델라웨어 만과 같은 혼잡한 항로에서의 사고 대응은 신속한 위험 격리가 주요 항로 안전을 유지하는 데 필수적임을 보여줍니다. 자율운항선박(MASS) 시대에는 화재 감지 및 자동 회피 기능이 더욱 중요해질 것이며, IMO의 국제해상안전관리규칙(ISPS) 및 국제안전관리규칙(ISM)에 따른 화물 안전 프로토콜 준수가 이러한 사고 예방에 핵심적 역할을 할 것으로 예상됩니다.</p></div>`,
+      tags: ["Fire","Barge","Delaware Bay","Coast Guard Response"],
+      link: "https://www.marinelink.com/news/barge-catches-fire-delaware-bay-536804",
+      coords: [-75.5,39.1],
+      location: "Delaware Bay, New Jersey"
+    }
+  ]
+});
