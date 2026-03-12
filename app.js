@@ -401,12 +401,16 @@ function toggleWeatherLayer(key) {
     if (btn) btn.classList.remove('active');
     if (key === 'radar') {
       hideRainViewerLayer();
+    } else if (key === 'nasa') {
+      hideNASALayer();
+    } else if (key === 'typhoon') {
+      hideTyphoonLayer();
     } else {
       hideOWMLayer(key);
     }
   } else {
     // 켜기
-    if (!OWM_APP_ID && key !== 'radar') {
+    if (!OWM_APP_ID && !['radar','nasa','typhoon'].includes(key)) {
       alert('OWM API 키가 필요합니다.\napp.js 상단의 OWM_APP_ID에 키를 입력하세요.\nhttps://openweathermap.org 에서 무료 발급 가능합니다.');
       return;
     }
@@ -414,10 +418,173 @@ function toggleWeatherLayer(key) {
     if (btn) btn.classList.add('active');
     if (key === 'radar') {
       showRainViewerLayer();
+    } else if (key === 'nasa') {
+      showNASALayer();
+    } else if (key === 'typhoon') {
+      showTyphoonLayer();
     } else {
       showOWMLayer(key);
     }
   }
+}
+
+// ── NASA GIBS Satellite Layer ──
+
+function showNASALayer() {
+  var today = new Date();
+  // NASA GIBS는 보통 1~2일 전 데이터가 최신
+  today.setDate(today.getDate() - 1);
+  var dateStr = today.toISOString().split('T')[0];
+
+  if (!map.getSource('nasa-gibs')) {
+    map.addSource('nasa-gibs', {
+      type: 'raster',
+      tiles: [
+        'https://gibs.earthdata.nasa.gov/wmts/epsg3857/best/VIIRS_SNPP_CorrectedReflectance_TrueColor/default/' + dateStr + '/GoogleMapsCompatible_Level9/{z}/{y}/{x}.jpg'
+      ],
+      tileSize: 256,
+      attribution: '© <a href="https://earthdata.nasa.gov/gibs">NASA GIBS</a>'
+    });
+  }
+  if (!map.getLayer('nasa-gibs-layer')) {
+    map.addLayer({
+      id: 'nasa-gibs-layer',
+      type: 'raster',
+      source: 'nasa-gibs',
+      paint: { 'raster-opacity': 0.7 }
+    }, 'aeroway-line');
+  }
+  map.setLayoutProperty('nasa-gibs-layer', 'visibility', 'visible');
+  console.log('🛰️ NASA satellite layer ON (' + dateStr + ')');
+}
+
+function hideNASALayer() {
+  if (map.getLayer('nasa-gibs-layer')) {
+    map.setLayoutProperty('nasa-gibs-layer', 'visibility', 'none');
+  }
+  console.log('🛰️ NASA satellite layer OFF');
+}
+
+// ── Typhoon / Active Tropical Cyclones Layer ──
+
+var typhoonMarkers = [];
+
+function showTyphoonLayer() {
+  // NOAA NHC CurrentStorms.json
+  fetch('https://www.nhc.noaa.gov/CurrentStorms.json')
+    .then(function(res) { return res.json(); })
+    .then(function(data) {
+      var storms = data.activeStorms || [];
+      if (storms.length === 0) {
+        // 활성 태풍 없음 — JTWC/서태평양도 체크
+        showTyphoonFallback();
+        return;
+      }
+      storms.forEach(function(storm) {
+        // 각 태풍에 대해 GIS 데이터 로드
+        if (storm.forecastGraphics && storm.forecastGraphics.forecastTrack) {
+          loadTyphoonTrack(storm);
+        }
+        // 현재 위치 마커
+        if (storm.latitudeNumeric && storm.longitudeNumeric) {
+          addTyphoonMarker(storm);
+        }
+      });
+      console.log('🌀 Loaded ' + storms.length + ' active storms from NHC');
+    })
+    .catch(function(err) {
+      console.warn('🌀 NHC fetch failed, trying fallback:', err.message);
+      showTyphoonFallback();
+    });
+}
+
+function showTyphoonFallback() {
+  // NHC에 활성 태풍이 없을 때 안내
+  var el = document.createElement('div');
+  el.id = 'typhoon-notice';
+  el.style.cssText = 'position:fixed; bottom:80px; left:50%; transform:translateX(-50%); background:rgba(0,0,0,0.8); color:#fff; padding:10px 20px; border-radius:8px; font-size:12px; z-index:999; backdrop-filter:blur(4px);';
+  el.textContent = '🌀 No active tropical cyclones at this time';
+  document.body.appendChild(el);
+  setTimeout(function() { if (el.parentNode) el.parentNode.removeChild(el); }, 4000);
+
+  // NOAA ArcGIS MapServer에서 대서양 + 동태평양 활성 태풍 시도
+  loadNOAAarcgis('https://idpgis.ncep.noaa.gov/arcgis/rest/services/NWS_Forecasts_Guidance_Warnings/NHC_Atl_trop_cyclones_active/MapServer/2/query?where=1%3D1&outFields=*&f=geojson');
+  loadNOAAarcgis('https://idpgis.ncep.noaa.gov/arcgis/rest/services/NWS_Forecasts_Guidance_Warnings/NHC_E_Pac_trop_cyclones_active/MapServer/2/query?where=1%3D1&outFields=*&f=geojson');
+}
+
+function loadNOAAarcgis(url) {
+  fetch(url)
+    .then(function(res) { return res.json(); })
+    .then(function(geojson) {
+      if (geojson.features && geojson.features.length > 0) {
+        var srcId = 'typhoon-arcgis-' + Math.random().toString(36).slice(2, 8);
+        map.addSource(srcId, { type: 'geojson', data: geojson });
+        map.addLayer({
+          id: srcId + '-line',
+          type: 'line',
+          source: srcId,
+          paint: { 'line-color': '#ff4757', 'line-width': 3, 'line-opacity': 0.8 }
+        });
+        map.addLayer({
+          id: srcId + '-point',
+          type: 'circle',
+          source: srcId,
+          paint: { 'circle-radius': 6, 'circle-color': '#ff4757', 'circle-stroke-color': '#fff', 'circle-stroke-width': 2 }
+        });
+        console.log('🌀 ArcGIS typhoon data loaded: ' + geojson.features.length + ' features');
+      }
+    })
+    .catch(function(err) { console.warn('ArcGIS typhoon error:', err.message); });
+}
+
+function addTyphoonMarker(storm) {
+  var el = document.createElement('div');
+  el.style.cssText = 'width:20px; height:20px; border-radius:50%; background:radial-gradient(circle, #ff4757 30%, rgba(255,71,87,0.3) 70%); border:2px solid #fff; cursor:pointer; animation:typhoon-pulse 1.5s infinite; box-shadow:0 0 10px rgba(255,71,87,0.6);';
+
+  var marker = new mapboxgl.Marker(el)
+    .setLngLat([storm.longitudeNumeric, storm.latitudeNumeric])
+    .addTo(map);
+
+  var popup = new mapboxgl.Popup({ offset: 15, closeButton: false })
+    .setHTML(
+      '<div style="font-size:12px; font-weight:600; color:#ff4757;">' + (storm.name || 'Unknown') + '</div>' +
+      '<div style="font-size:10px; color:#666;">' + (storm.classification || '') + '</div>' +
+      '<div style="font-size:10px;">Wind: ' + (storm.intensity || 'N/A') + ' kt</div>' +
+      '<div style="font-size:10px;">Movement: ' + (storm.movement || 'N/A') + '</div>'
+    );
+  marker.getElement().addEventListener('mouseenter', function() { popup.addTo(map).setLngLat([storm.longitudeNumeric, storm.latitudeNumeric]); });
+  marker.getElement().addEventListener('mouseleave', function() { popup.remove(); });
+
+  typhoonMarkers.push(marker);
+}
+
+function loadTyphoonTrack(storm) {
+  // NHC GIS shapefile → 일반적으로 KMZ/shapefile이라 직접 GeoJSON 사용 어려움
+  // ArcGIS REST에서 해당 태풍 forecast track 로드
+  var basin = storm.id && storm.id.startsWith('ep') ? 'E_Pac' : 'Atl';
+  var url = 'https://idpgis.ncep.noaa.gov/arcgis/rest/services/NWS_Forecasts_Guidance_Warnings/NHC_' + basin + '_trop_cyclones_active/MapServer/1/query?where=1%3D1&outFields=*&f=geojson';
+  loadNOAAarcgis(url);
+}
+
+function hideTyphoonLayer() {
+  // 마커 제거
+  typhoonMarkers.forEach(function(m) { m.remove(); });
+  typhoonMarkers = [];
+  // ArcGIS 레이어 제거
+  map.getStyle().layers.forEach(function(layer) {
+    if (layer.id.startsWith('typhoon-arcgis-')) {
+      map.removeLayer(layer.id);
+    }
+  });
+  Object.keys(map.getStyle().sources).forEach(function(src) {
+    if (src.startsWith('typhoon-arcgis-')) {
+      map.removeSource(src);
+    }
+  });
+  // 알림 제거
+  var notice = document.getElementById('typhoon-notice');
+  if (notice) notice.parentNode.removeChild(notice);
+  console.log('🌀 Typhoon layer OFF');
 }
 
 // ── 기존 기능 (변경 없음) ──
