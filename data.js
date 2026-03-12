@@ -1651,3 +1651,83 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-03-11
+addEvents({
+  "2026-03-11": [
+    {
+      type: "accident",
+      title: "Thai Bulk Carrier Mayuree Naree Attacked in Strait of Hormuz, 3 Crew Missing",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-03-11",
+      image: "https://gcaptain.com/wp-content/uploads/2026/03/Hormuz-attack-seafarer.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>태국 선적 벌크선 메유리 나리(Mayuree Naree, 30,000톤)가 2026년 3월 11일 호르무즈 해협에서 미사일 공격을 받아 기관실 화재가 발생하여 승무원 20명이 대피했으나 3명이 실종되었다. 공격으로 인해 선박이 심각한 손상을 입고 오만 해역으로 표류했으며, 같은 날 일본 컨테이너선 ONE Majesty와 마셜 제도 선적 벌크선 Star Gwyneth 등 최소 3척이 추가로 피격되었다. 이는 2월 28일 미국과 이스라엘의 이란 공격 이후 확대되는 해상 보안 위기의 일부로, 상선이 지정학적 분쟁의 최전선에 노출되어 있음을 보여준다.</p><h3>Key Quotes</h3><p><li>"These ships should go through the Strait of Hormuz and show some guts. There's nothing to be afraid of… they have no Navy, we sunk all their ships." (상선들이 호르무즈 해협을 통과해야 하고 용기를 보여야 한다. 두려워할 것이 없다. 그들은 해군이 없고, 우리가 그들의 배를 모두 격침시켰다.)</li></p><p><li>"A merchant mariner on the front lines of a conflict, caught between global trade and geopolitics." (상인 선원이 국제 무역과 지정학 사이에서 분쟁의 최전선에 놓여 있다.)</li></p><h3>Technical Insights</h3><p>호르무즈 해협은 전 세계 석유 해상 운송량의 약 21%가 통과하는 전략적 요충지로, 현재의 지정학적 긴장이 상업 해운에 미치는 영향은 심각하다. 메유리 나리 사건에서 확인되는 기관실 화재는 선박의 생명선을 차단하는 공격으로, SOLAS 국제 해상 안전 규약의 화재 대응 절차와 기관실 구획화(compartmentalization) 설계의 중요성을 재조명한다. 현재의 불안정한 해역에서 운항하는 선박들은 강화된 해상 보안 프로토콜, 실시간 위치 추적(AIS 모니터링), 그리고 비상 대피 절차에 대한 정기적인 훈련을 필수적으로 실시해야 한다. 자율운항선의 도입이 증가하는 추세에서, 분쟁 지역 운항 시 원격 제어 및 회피 기능의 강화가 향후 중요한 기술 개발 과제가 될 것으로 예상된다.</p></div>`,
+      tags: ["Attack","Strait of Hormuz","Bulk Carrier","Missing Crew","Iran Conflict"],
+      link: "https://gcaptain.com/photos-from-lifeboat-show-human-cost-of-hormuz-crisis/",
+      coords: [56.5,26.5],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "Iran Warns of $200 Oil Amid Merchant Ship Attacks and Regional Conflict",
+      source: "gCaptain/Reuters",
+      sourceMeta: "gcaptain.com · 2026-03-11",
+      image: "https://gcaptain.com/wp-content/uploads/2024/10/2024-10-06T115343Z_396684389_RC2YEAA974XL_RTRMADP_3_ISRAEL-PALESTINIANS-IRAN-OIL-MINISTER-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>이란이 페르시안 만에서 상선 3척을 공격하면서 배럴당 $200의 유가를 경고했으며, 국제에너지기구(IEA)는 전략비축유를 방출할 것을 권고했다. 미국과 이스라엘의 공중폭격으로 촉발된 분쟁으로 약 2,000명이 사망했고, 호르무즈 해협이 채광으로 봉쇄되면서 전 세계 석유 공급의 약 20%가 위험에 처했다. 유가는 주 초 배럴당 거의 $120까지 급등한 후 $90 근처에서 안정되었으나, 수요일에 4% 이상 상승했다. 현재까지 호르무즈 해협을 안전하게 통과할 수 있는 선박이 없는 상태이며, 이란이 채널에 약 12개의 기뢰를 배치한 것으로 알려졌다. 중동 지역의 항구와 도시들이 드론 및 미사일 공격의 대상이 되고 있어, 글로벌 해운 및 에너지 시장에 심각한 혼란이 초래되었다.</p><h3>Key Quotes</h3><p><li>"Any time I want it to end, it will end," (언제든지 원하면 전쟁을 끝낼 수 있다는 트럼프 대통령의 발언)</li><br>  <br><li>"So far there has been no sign that ships can safely sail through the Strait of Hormuz, the now-blockaded channel along the Iranian coast that serves as a conduit for around a fifth of the world's oil." (현재까지 호르무즈 해협을 통해 선박이 안전하게 운항할 수 있다는 신호가 없으며, 이 해협은 세계 석유의 약 5분의 1을 운송하는 경로이다)</li></p><p><li>"if the ports were threatened, economic and trade centers in the region would be 'legitimate targets.'" (항구가 위협받으면 지역의 경제 및 무역 센터가 '정당한 목표'가 될 것이라는 이란 군부의 경고)</li></p><h3>Technical Insights</h3><p>호르무즈 해협의 기뢰 배치와 상선 공격은 국제해사기구(IMO)의 SOLAS(국제해상인명안전규칙)와 COLREG(해상충돌방지규칙) 준수를 실질적으로 불가능하게 만들고 있다. 전 세계 석유 공급의 20%가 차단되는 상황에서 해운 업계는 대체 해로(아프리카 우회, 술루 해협 등)로의 우회 운항을 강요받고 있으며, 이는 운송 비용 증가와 배송 기간 연장을 초래한다. 현재의 지정학적 위험으로 인해 자율운항선박(MASS, Maritime Autonomous Surface Ships) 기술의 개발 필요성이 더욱 대두되고 있으며, 특히 위험 해역에서의 원격 조종 및 AI 기반 경로 최적화 기술이 해운 산업의 생존력 향상에 필수적이다. IMO는 현재의 해상 분쟁 상황에서 해운 보안과 선박 안전 프로토콜 강화에 관한 지침 개정을 검토해야 할 시점이다.</p></div>`,
+      tags: ["Iran","Oil Markets","Strait of Hormuz","Merchant Ships","Geopolitical Risk","Energy Crisis"],
+      link: "https://gcaptain.com/iran-warns-world-to-brace-for-200-oil/",
+      coords: [53.9195,25.2048],
+      location: "Persian Gulf / Strait of Hormuz"
+    }
+  ]
+});
+
+// Auto-collected: 2023-11-04
+addEvents({
+  "2023-11-04": [
+    {
+      type: "accident",
+      title: "Loss of propulsion in heavy weather - Spirit of Discovery: 100+ injuries and 1 fatality",
+      source: "MAIB (Marine Accident Investigation Branch)",
+      sourceMeta: "gov.uk · 2026-03-11",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>2023년 11월 4일 비스케이만에서 승객선 Spirit of Discovery가 악천후 중 추진력을 상실하는 중대 사고가 발생했습니다. 이 사건으로 100명 이상의 승객이 부상을 입었으며, 그 중 심각한 부상을 입은 8명의 승객이 입항 후 병원에 직송되었고 1명이 결국 사망했습니다. MAIB(해사사고조사국) 보고서 6-2026에 따르면, 해양청 및 분류사회, 추진시스템 제조업체, 크루즈라인협회 등에 대해 전자 경사계 설치 의무화, 조작 매뉴얼 개선, 고급 외상 생명유지술 자격을 갖춘 의료진 증원 등의 권고사항이 제시되었습니다.</p><h3>Key Quotes</h3><p><li>"Shortly after 1230 on 4 November 2023, the passenger vessel Spirit of Discovery lost propulsion in heavy weather while crossing the Bay of Biscay." (2023년 11월 4일 오후 12시 30분 직후, 승객선 Spirit of Discovery가 비스케이만을 횡단 중 악천후에서 추진력을 상실했습니다)</li></p><p><li>"Eight of the seriously injured passengers were taken directly to hospital on arrival into port and one of these passengers later died from his injuries." (심각한 부상을 입은 8명의 승객이 입항 후 즉시 병원으로 직송되었으며, 이 중 1명이 나중에 부상으로 인해 사망했습니다)</li></p><p><li>"Recommendations have been made to the Maritime and Coastguard Agency to propose that international carriage requirements include electronic inclinometers" (해양청에 국제운송 기준에 전자 경사계 포함을 제안하도록 권고되었습니다)</li></p><h3>Technical Insights</h3><p>본 사고는 악천후(높은 파도와 선박 경사)에서 추진 시스템의 고장으로 인한 심각한 결과를 초래한 전형적인 사례입니다. 전자 경사계(electronic inclinometer) 의무 장착 권고는 선박의 실시간 경사 모니터링을 통해 기관실 및 선교에서 해상 상태를 즉시 파악하고 적절한 조치를 취할 수 있도록 하는 기술적 개선방안입니다. Pod 추진시스템의 신뢰성 강화와 함께 선박 가구류(furniture) 고정 기준 개선, 승무원 훈련 강화는 해상 재난 시 2차 피해를 줄이는 중요한 대책입니다. 이는 IMO의 해사안전위원회(MSC)에서 다루는 승객선 안전 기준(SOLAS) 개정 논의로 이어질 가능성이 높으며, 크루즈 산업의 안전 문화 고도화를 촉구하는 신호입니다.</p></div>`,
+      tags: ["propulsion failure","heavy weather","Bay of Biscay","passenger vessel","casualties"],
+      link: "https://www.gov.uk/maib-reports/loss-of-propulsion-in-heavy-weather-experienced-by-the-passenger-vessel-spirit-of-discovery-leading-to-over-100-injuries-and-one-fatality",
+      coords: [45.5,-15],
+      location: "Bay of Biscay"
+    },
+    {
+      type: "accident",
+      title: "Spirit of Discovery Propulsion Loss in Bay of Biscay - MAIB Investigation Report",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-03-12",
+      image: "https://images.marinelink.com/images/maritime/w800/source-168843.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>2023년 11월 4일 크루즈선 Spirit of Discovery가 비스케이만에서 악천후 중 추진력을 상실한 해난사고에 대한 영국해양사고조사위원회(MAIB) 조사 보고서가 공개되었다. 이 사건으로 100명 이상의 승객이 부상을 입었으며 1명이 사망하였다. 주요 원인은 심한 동요로 인한 프로펠러 노출, 자동 셧다운 및 추진 포드의 예기치 않은 90도 회전이었다. 조사에서는 악천후 항로 선택의 부족한 검토, 대량 피해자 사건 대응 계획 미이행, 의료진 부족 등 다층적인 안전 결함이 확인되었다. MAIB는 국제 해상 운송 요건 개선, 제조사의 고객 권고 발행, 크루즈 업계의 의료인력 및 선내 가구 고정 기준 강화를 권고했다.</p><h3>Key Quotes</h3><p><li>"While cruising remains safe and accidents rare, Spirit of Discovery's violent motion in heavy weather caused injury to over 100 passengers and, very sadly, one passenger lost their life as a result of injuries sustained." (크루징은 여전히 안전하고 사고는 드물지만, Spirit of Discovery의 악천후에서의 격렬한 동요로 100명 이상의 승객이 부상을 입었고, 매우 안타깝게도 1명의 승객이 입은 부상으로 생명을 잃었다.)</li></p><p><li>"A complex sequence of events led to this accident, and we have identified a number of clear lessons around vessel safety, crew decision-making and medical response." (복잡한 사건의 연쇄가 이 사고를 초래했으며, 우리는 선박 안전, 승무원 의사결정, 의료 대응에 관한 다수의 명확한 교훈을 확인했다.)</li></p><h3>Technical Insights</h3><p>본 사건은 추진 시스템의 동적 응답 특성과 악천후 항해 중 선박 모션 제어의 복합성을 보여주는 중요한 사례이다. 프로펠러 노출에 따른 과속(overspeed) 및 자동 셧다운은 포드 추진 시스템의 알려진 취약점이며, 제조사의 상세한 운영 매뉴얼 및 승무원 훈련이 매우 중요함을 시사한다. 전자 경사계(electronic inclinometer)의 국제 의무 장착 권고는 실시간 선박 동요 모니터링을 통한 사전 예방적 항로 결정을 가능하게 할 것이다. 또한 대량 피해자 대응 계획(mass casualty incident plan)의 실질적 이행과 고급 외상 생명 구조 자격(ATLS) 의료진 확보는 선박 안전 문화의 중요한 구성 요소로서, IMO와 국제 크루즈 산업의 규제 강화가 시급한 상황이다.</p></div>`,
+      tags: ["propulsion loss","heavy weather","passenger vessel","Bay of Biscay","casualties","MAIB investigation"],
+      link: "https://www.marinelink.com/news/report-spirit-discovery-tragedy-released-536865",
+      coords: [0,0],
+      location: "Bay of Biscay, France"
+    }
+  ]
+});
+
+// Auto-collected: 2025-12-27
+addEvents({
+  "2025-12-27": [
+    {
+      type: "accident",
+      title: "Coral Adventurer Grounding off Papua New Guinea - ATSB Preliminary Report",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-03-12",
+      image: "https://images.marinelink.com/images/maritime/w800/source-168852.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>2025년 12월 27일, 호주 국적의 93미터 크루즈선 Coral Adventurer가 파푸아뉴기니 북동부 해안의 드레거하펜(Dregerhafen) 인근 암초에 좌초했습니다. 탑승한 승객 80명과 승무원 44명은 부상이 없었습니다. ATSB(호주 교통안전청) 예비 보고서에 따르면, ECDIS 경로 안전 확인 문제로 인한 지연, 자동항법장치와 수동조종 전환, 예상보다 빠른 선속 증가, 그리고 어두운 환경에서의 시각적 위치 확인 실패가 복합적으로 작용했습니다. 주 원인은 항해사의 경로 변경 시도 중 발생한 ECDIS 시스템 문제와 이후의 일련의 조종 오류입니다.</p><h3>Key Quotes</h3><p><li>"During this hard manual turn, the ship slowed considerably, to 3.8 knots. The chief mate, perceiving the loss of speed was due to a strong current, increased the RPM setting of both Azipull thrusters." </li><br>(수동 조종 중 선박 속력이 3.8노트로 현저히 저하되자, 항해사는 이를 강한 해류 때문이라고 판단하여 아지풀 추진기의 RPM을 증가시켰습니다.)</p><p><li>"At this point, in dark conditions and without navigational aids or lights ashore, the chief mate reported being unable to visually identify the surrounding topography in relation to what was being shown on the ECDIS."</li><br>(어두운 조건에서 해안의 항해 보조 장비나 조명이 없는 상황에서, 항해사는 ECDIS에 표시된 정보와 실제 주변 지형을 시각적으로 대응시킬 수 없었습니다.)</p><h3>Technical Insights</h3><p>본 사건은 ECDIS 시스템 운영 중 발생한 인적 오류와 함선의 역학적 특성 이해 부족이 복합적으로 작용한 전형적인 사례입니다. ECDIS의 경로 안전 확인 기능으로 인한 지연은 항해사의 상황 인식(Situational Awareness)을 저하시켰고, 자동항법에서 수동 조종으로의 전환 시 선속 관리 부실로 인해 예상과 다른 회전성능을 초래했습니다. IMO STCW 규정상 야간 항해 중 육안 확인이 불가능한 상황에서 ECDIS 정보에 과도하게 의존하는 것은 위험하며, 항해사는 동적 위치 추정(Dead Reckoning)과 타향기(Tactical Diameter) 계산을 통해 항상 선박의 실제 위치를 파악해야 합니다. 향후 ECDIS 사용자 교육 강화 및 자동항법 시스템의 신뢰성 향상이 필요합니다.</p></div>`,
+      tags: ["grounding","cruise ship","navigation error","ECDIS","Papua New Guinea"],
+      link: "https://www.marinelink.com/news/atsb-releases-preliminary-report-coral-536873",
+      coords: [145.5,-5.5],
+      location: "Dregerhafen, Papua New Guinea"
+    }
+  ]
+});
