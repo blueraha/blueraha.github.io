@@ -1861,3 +1861,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-03-12
+addEvents({
+  "2026-03-12": [
+    {
+      type: "news",
+      title: "DIU and U.S. Navy Select Anduril for XL-AUV Program (Combat Autonomous Maritime Platform Project)",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-03-12",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/03/DiveXL-DIU-Camp-1E.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>미국 국방혁신부(DIU)와 해군이 전투 자율해양 플랫폼 프로젝트(CAMP)의 일환으로 Anduril을 초대형 자율 수중 차량(XL-AUV) 개발 업체로 선정했다. Anduril은 지난 2025년 호주 해군과의 Ghost Shark 계약 성공과 42,355km, 6,752시간의 누적 운영 실적으로 장기간 자율 운영 능력을 입증했다. CAMP 프로젝트 하에서 Anduril의 Dive-XL은 4개월 내 장기간 작전 대표 시연을 완료할 예정이며, 현재 로드아일랜드 Quonset Point에 연간 수십 대의 Dive-XL과 수백 대의 Dive-LD를 생산할 수 있는 전문 시설을 운영 중이다. 이는 미 해군의 수중 영역 통제 능력 강화와 분산 해양 작전의 광범위 도입을 위한 중요한 전환점이다.</p><h3>Key Quotes</h3><p><li>"Long-range autonomous undersea systems have the potential to change the balance beneath the waves" (장거리 자율 수중 시스템은 수중 전략의 균형을 변화시킬 수 있는 잠재력을 가지고 있다)</li></p><p><li>"Control of the undersea domain underwrites control of the sea itself, and Dive-XL marks the shift from concept to reality" (수중 영역의 통제는 해양 자체의 통제를 뒷받침하며, Dive-XL은 개념에서 현실로의 전환을 의미한다)</li></p><h3>Technical Insights</h3><p>초대형 자율 수중 차량(XL-AUV)의 상용화는 해양 자율 운영 기술의 성숙도를 보여주는 사례로서, 42,355km의 누적 운항 거리와 6,752시간의 운영 시간은 장시간 미션 수행 시 시스템의 신뢰성과 에너지 효율성이 달성 가능함을 입증한다. 수중 환경에서의 자율 항법은 GPS 신호 부재로 인해 관성 항법 장치(INS), 음향 포지셔닝 시스템(USBL), 지형 참조 항법(TRN) 등 다중 센서 융합 기술이 필수적이며, Anduril의 성공적 운영은 이러한 기술의 성숙도를 입증한다. IMO 자율선박 규제 체계가 해상 표면 선박 중심으로 논의되고 있으나, 수중 자율 플랫폼의 확대는 향후 COLREG 및 규제 프레임워크 확장에 영향을 미칠 것으로 예상되며, 분산 해양 작전(Distributed Maritime Operations) 개념의 현실화는 미래 해전 양상의 근본적 변화를 의미한다.</p></div>`,
+      tags: ["Autonomous Underwater Vehicles","XL-AUV","CAMP Program","U.S. Navy","Defense Innovation Unit"],
+      link: "https://www.navalnews.com/naval-news/2026/03/diu-and-u-s-navy-select-anduril-for-xl-auv-program/",
+      coords: [0,0],
+      location: "Global/U.S. Navy Operations"
+    }
+  ]
+});
