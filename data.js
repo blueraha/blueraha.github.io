@@ -1811,3 +1811,53 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2023-11-04
+addEvents({
+  "2023-11-04": [
+    {
+      type: "accident",
+      title: "Loss of propulsion in heavy weather - Spirit of Discovery, Bay of Biscay",
+      source: "MAIB (Marine Accident Investigation Branch)",
+      sourceMeta: "gov.uk/maib-reports · 2026-03-11",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>2023년 11월 4일 비스케이만에서 여객선 Spirit of Discovery가 악천후 중 추진력을 상실하는 사고가 발생했습니다. 이 사고로 100명 이상의 승객이 부상을 입었으며, 그 중 8명이 중상을 입어 입항 후 직접 병원으로 이송되었고, 한 명의 승객이 부상으로 인해 사망했습니다. MAIB(해양사고조사위원회) 조사 결과에 따르면 추진 시스템 관련 문제가 주요 원인으로 파악되었습니다. 이를 받아 해양청, 선급협회, 추진 시스템 제조업체, 그리고 국제크루즈협회에 대해 여러 권고사항이 제시되었습니다.</p><h3>Key Quotes</h3><p><li>"Shortly after 1230 on 4 November 2023, the passenger vessel Spirit of Discovery lost propulsion in heavy weather while crossing the Bay of Biscay." (2023년 11월 4일 정오 직후, 여객선 Spirit of Discovery가 비스케이만을 횡단하던 중 악천후에서 추진력을 상실했습니다.)</li></p><p><li>"Over 100 passengers were injured during this period. Eight of the seriously injured passengers were taken directly to hospital on arrival into port and one of these passengers later died from his injuries." (이 기간 동안 100명 이상의 승객이 부상을 입었으며, 중상을 입은 8명의 승객이 입항 후 직접 병원으로 이송되었고, 그 중 한 명의 승객이 부상으로 인해 사망했습니다.)</li></p><h3>Technical Insights</h3><p>악천후 중 추진 시스템의 장애는 여객선의 안정성과 조종성에 심각한 영향을 미치며, 특히 비스케이만의 높은 파고와 강풍 조건에서는 선박의 자세 제어 및 추진력 유지가 극히 중요합니다. MAIB의 권고사항 중 전자식 기울기계(inclinometer) 장착은 해양 안전 규정의 중요한 개선으로, 선장과 항해사가 실시간으로 선박의 기울기를 정확히 파악하여 적절한 조선 결정을 내릴 수 있게 합니다. 또한 추진 시스템 제조사의 고객 공지와 선급협회의 지시서 품질 개선은 장비 신뢰성과 운영 절차의 표준화를 통해 유사 사고 재발 방지에 기여할 것으로 예상됩니다. 여객선의 의료 인력 강화 및 선내 가구 고정 규정 개선도 해상 재난 상황에서의 인명 피해 감소에 핵심적인 역할을 할 수 있습니다.</p></div>`,
+      tags: ["propulsion failure","heavy weather","passenger vessel","Bay of Biscay","casualties"],
+      link: "https://www.gov.uk/maib-reports/loss-of-propulsion-in-heavy-weather-experienced-by-the-passenger-vessel-spirit-of-discovery-leading-to-over-100-injuries-and-one-fatality",
+      coords: [-5.5,47.5],
+      location: "Bay of Biscay"
+    }
+  ]
+});
+
+// Auto-collected: 2026-03-12
+addEvents({
+  "2026-03-12": [
+    {
+      type: "accident",
+      title: "Swedish Coast Guard Boards Second Stateless Ship in a Week",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-03-12",
+      image: "https://images.marinelink.com/images/maritime/w800/source-swedish-168896.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>스웨덴 해안경비대가 지난 일주일 내 두 번째로 무국적선으로 의심되는 선박을 발트해 스웨덴 수역에서 나포했다. 228미터 길이의 탱커 씨 아울 I(Sea Owl I)은 코모로 국기를 게양하고 있었으나 거짓 기(false flag) 항해 혐의를 받고 있으며, 러시아 섀도우 플릿(shadow fleet)에 속한 것으로 의심된다. 해당 선박은 EU 등 여러 국가의 제재 대상 목록에 등재되어 있다. 스웨덴 해안경비대는 해양 안전 및 환경 위협이 심각하다는 이유로 개입 조치를 취했으며, 트렐레보르그 해역에서의 나포 직후 같은 지역에서 기니 국기 하에 항해하던 카파(Caffa) 선박도 동일한 조치 대상이 되었다.</p><h3>Key Quotes</h3><p><li>"The threats to maritime safety and the environment are too high. Therefore, there is reason to intervene against the vessel." (해양 안전과 환경에 대한 위협이 매우 심각하므로 해당 선박에 대한 개입이 정당화된다.)</li></p><p><li>"The ship is suspected of belonging to the Russian shadow fleet." (해당 선박은 러시아 섀도우 플릿에 속한 것으로 의심된다.)</li></p><h3>Technical Insights</h3><p>본 사건은 선박의 기국(flag state) 관리 및 해양 안전 규제 강화의 중요성을 부각시킨다. 러시아 섀도우 플릿은 국제 제재를 회피하기 위해 거짓 국기를 사용하는 행위로, IMO와 UNCLOS의 기본 원칙인 실질적 연계(genuine link) 원칙을 위반하고 있다. 스웨덴 해안경비대의 이러한 적극적 개입은 COLREG 및 국제 해양법 협약에 따른 연안국(coastal state)의 권리를 행사하는 사례이며, 해양 안전 및 환경 보호를 위한 국제 협력의 필요성을 시사한다. 향후 자율운항선박(autonomous vessels) 도입 시에도 기국 등록 및 추적 시스템의 신뢰성 확보가 해양 안전의 핵심 과제가 될 것으로 예상된다.</p></div>`,
+      tags: ["Maritime Safety","Russian Shadow Fleet","Baltic Sea","Flag State Control"],
+      link: "https://www.marinelink.com/news/swedish-coast-guard-boards-second-536933",
+      coords: [13.1447,55.3667],
+      location: "Trelleborg, Swedish waters, Baltic Sea"
+    },
+    {
+      type: "news",
+      title: "DIU and U.S. Navy Select Anduril for XL-AUV Program",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-03-12",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/03/DiveXL-DIU-Camp-1E.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>미국 방위혁신부(DIU)와 해군이 Anduril을 수중 장거리 작전능력 강화를 위한 XL-AUV 프로그램의 Combat Autonomous Maritime Platform Project(CAMP)에 선정했다. Anduril은 42,355km, 6,752시간의 누적 운영 실적과 업계 최장 거리의 XL-AUV 시연을 통해 장거리 성능과 시스템 내구성을 입증했다. 이 계약을 통해 Anduril의 Dive-XL 초대형 무인잠수정이 4개월 내 실전적 시연을 완료할 예정이며, 이는 미 해군의 수중 영역 통제 능력을 대변적으로 강화하는 단계를 의미한다. 오스트레일리아 로열해군과의 Ghost Shark 계약 성공사례와 미국 Rhode Island 등지의 전용 생산시설 확보는 신속한 대량 생산 체계 구축을 가능하게 한다.</p><h3>Key Quotes</h3><p><li>"Long-range autonomous undersea systems have the potential to change the balance beneath the waves. They are intended to allow the United States and its allies to extend reach, hold risk at distance, and operate persistently in contested environments." (장거리 자율 수중 시스템은 수중 전략균형을 변화시킬 수 있으며, 미국과 동맹국이 작전 범위를 확대하고 위험을 거리에서 유지하며 분쟁 환경에서 지속적으로 작전할 수 있게 한다.)</li></p><p><li>"Control of the undersea domain underwrites control of the sea itself, and Dive-XL marks the shift from concept to reality." (수중 영역에 대한 통제는 해상 통제의 기초이며, Dive-XL은 개념에서 현실로의 전환을 의미한다.)</li></p><h3>Technical Insights</h3><p>해상 자율시스템의 실용화 관점에서 이 선택은 중요한 기술적 의의를 갖는다. XL-AUV의 장거리 운영성은 기존 COLREG 및 IMO 해상교통관리 규정의 수중 영역 확대 적용 필요성을 시사하며, 특히 자율 수중 차량의 충돌회피 및 통신 프로토콜 표준화가 향후 국제해사 규제 개정 논의의 중심이 될 것으로 예상된다. Anduril의 42,355km 운영 실적은 장시간 자율 운영의 신뢰성과 에러 복구 메커니즘의 성숙도를 입증하는 지표로서, 분산 해상작전(DMO) 환경에서의 함대 통합 운영 기술 발전을 의미한다. Sydney 및 Quonset Point 시설의 연간 수십 대 규모의 생산계획은 자동화 제조 기술과 품질관리 표준화가 해양산업의 미래 경쟁력을 좌우할 것임을 보여준다.</p></div>`,
+      tags: ["Autonomous Underwater Vehicles","XL-AUV","U.S. Navy","Defense Innovation","Dive-XL"],
+      link: "https://www.navalnews.com/naval-news/2026/03/diu-and-u-s-navy-select-anduril-for-xl-auv-program/",
+      coords: [0,0],
+      location: "United States (Global)"
+    }
+  ]
+});
