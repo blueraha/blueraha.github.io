@@ -1881,3 +1881,40 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2023-11-04
+addEvents({
+  "2023-11-04": [
+    {
+      type: "accident",
+      title: "Loss of propulsion in heavy weather - Spirit of Discovery, 100+ injuries and 1 fatality",
+      source: "MAIB Reports",
+      sourceMeta: "gov.uk · 2026-03-11",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>2023년 11월 4일 비스케이만에서 여객선 Spirit of Discovery가 악천후 중 추진력을 상실하는 사고가 발생했습니다. 이 사건으로 100명 이상의 승객이 부상을 입었으며, 심각한 부상을 입은 8명이 직접 병원으로 이송되었고 그 중 1명이 나중에 사망했습니다. 영국 해양사고조사청(MAIB)의 조사 결과에 따르면 추진 시스템 고장이 주요 원인이었으며, 해사청, 선급, 추진 제조사, 크루즈선박협회 등에 다양한 권장사항이 제시되었습니다. 권장사항에는 전자 경사계 설치 의무화, 정비 매뉴얼 품질 개선, 악천후 시 가구 고정 정책 강화 등이 포함됩니다.</p><h3>Key Quotes</h3><p><li>"Shortly after 1230 on 4 November 2023, the passenger vessel Spirit of Discovery lost propulsion in heavy weather while crossing the Bay of Biscay." </li><br>(2023년 11월 4일 정오 이후 여객선 Spirit of Discovery가 비스케이만 횡단 중 악천후에서 추진력을 상실했습니다.)</p><p><li>"Eight of the seriously injured passengers were taken directly to hospital on arrival into port and one of these passengers later died from his injuries."</li><br>(심각한 부상을 입은 8명의 승객이 항구 도착 시 직접 병원으로 이송되었으며, 이 중 1명이 나중에 부상으로 인해 사망했습니다.)</p><h3>Technical Insights</h3><p>이번 Spirit of Discovery 사고는 악천후 중 추진 시스템 장애로 인한 대형 인명피해 사건으로, 해양산업에 중요한 교훈을 제시합니다. MAIB의 전자 경사계 설치 의무화 권장은 선박의 정확한 자세(trim/heel) 모니터링을 통해 악천후 상황에서 안정성을 증대할 수 있음을 시사합니다. 추진 포드(pod) 시스템 제조사의 고객 권고문 발급은 비슷한 추진 장치를 장착한 선박들의 예방 정비 및 운영 개선의 중요성을 강조하며, 이는 업계 전반의 설계 표준화 및 신뢰성 향상에 기여할 것으로 예상됩니다. 또한 크루즈선박협회의 의료인력 ATLS 자격 강화 및 선내 가구 고정 기준 개선은 사고 발생 시 2차 피해 최소화를 위한 구조적 안전 장치의 중요성을 재확인해줍니다.</p></div>`,
+      tags: ["propulsion failure","heavy weather","passenger vessel","casualties","Bay of Biscay"],
+      link: "https://www.gov.uk/maib-reports/loss-of-propulsion-in-heavy-weather-experienced-by-the-passenger-vessel-spirit-of-discovery-leading-to-over-100-injuries-and-one-fatality",
+      coords: [-5.5,48.5],
+      location: "Bay of Biscay"
+    }
+  ]
+});
+
+// Auto-collected: 2026-03-13
+addEvents({
+  "2026-03-13": [
+    {
+      type: "news",
+      title: "Missile Attacks Define Strait of Hormuz Risks, Officials Say",
+      source: "USNI News",
+      sourceMeta: "usni.org · 2026-03-13",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>미국 국방부 관계자들은 호르무즈 해협과 페르시만에서 상선에 대한 현재의 주요 위협이 기뢰가 아닌 미사일 공격이라고 발표했습니다. 이란이 해협 북부 지역의 선박을 공격하기 위해 지대지 미사일을 사용해왔으며, 합참의장 댄 케인 대장은 현재까지 이란의 무인 수상함정(USV) 활동은 감지되지 않았다고 언급했습니다. 이러한 미사일 위협의 확대는 전통적인 해상 광산 위협과는 달리 상선의 방어 능력과 국제 항로의 안전성에 새로운 도전을 제시하고 있습니다. 국방부와 해군은 백악관 지시에 따라 이 위협에 대응하는 계획을 수립 중입니다.</p><h3>Key Quotes</h3><br><li>"Missiles are currently the largest threat to merchant shipping in the Strait of Hormuz and Persian Gulf instead of sea mines" (현재 호르무즈 해협과 페르시만 해상 운송에 대한 가장 큰 위협은 기뢰가 아닌 미사일입니다)</li><br><li>"We've not seen any [unmanned surface vessel] activity out of Iran that we've seen in the Gulf at this point" (현재 페르시만에서 이란의 무인 수상함정 활동은 감지되지 않았습니다)</li></p><h3>Technical Insights</h3><br>호르무즈 해협은 전 세계 석유 운송량의 약 21%가 통과하는 전략적 요충지로, 전통적인 기뢰 위협에서 미사일 위협으로 패러다임이 변화하고 있습니다. 해상에서의 미사일 공격은 선박의 회피 능력과 방어 체계에 새로운 요구사항을 제시하며, IMO 국제해사기구의 기존 COLREG(해상충돌방지규칙) 및 선박안전 프레임워크로는 충분하지 않은 상황입니다. 자율항행선(autonomous vessels)의 도입 시 이러한 고위험 지역에서의 운영 가능성과 원격 운영 체계의 취약성이 중요한 고려사항이 되며, 향후 상선의 자동화된 항해 시스템은 미사일 위협 감지 및 회피 기능의 통합이 필수적입니다.</p></div>`,
+      tags: ["Strait of Hormuz","Missile Threats","Merchant Shipping","Iran","Maritime Security"],
+      link: "https://news.usni.org/2026/03/13/missile-attacks-define-strait-of-hormuz-risks-officials-say",
+      coords: [56.2628,26.5547],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
