@@ -591,147 +591,245 @@ function hideTyphoonLayer() {
   console.log('🌀 Typhoon layer OFF');
 }
 
-// ── AIS Virtual Fleet Layer ──
+// ── AIS Virtual Fleet Layer (Mapbox Native) ──
 
-var aisMarkers = [];
-var aisTrackLayers = [];
 var aisAnimationTimer = null;
 var aisVessels = null;
+var aisPopup = null;
+
+// Create ship icon on canvas (small elegant triangle)
+function createShipIcon() {
+  var size = 48;
+  var canvas = document.createElement('canvas');
+  canvas.width = size;
+  canvas.height = size;
+  var ctx = canvas.getContext('2d');
+
+  // Ship shape — sleek pointed hull
+  ctx.translate(size/2, size/2);
+  ctx.beginPath();
+  ctx.moveTo(0, -10);   // bow (top)
+  ctx.lineTo(4, 6);     // starboard
+  ctx.lineTo(1, 8);     // stern right
+  ctx.lineTo(-1, 8);    // stern left
+  ctx.lineTo(-4, 6);    // port
+  ctx.closePath();
+  ctx.fillStyle = '#ffffff';
+  ctx.fill();
+  ctx.strokeStyle = 'rgba(0,0,0,0.4)';
+  ctx.lineWidth = 0.8;
+  ctx.stroke();
+
+  return canvas;
+}
+
+function addShipImageToMap() {
+  if (map.hasImage('ship-icon')) return;
+  var canvas = createShipIcon();
+  map.addImage('ship-icon', canvas, { sdf: false });
+}
 
 function showAISLayer() {
   fetch('ais-data.json?t=' + Date.now())
     .then(function(res) { return res.json(); })
     .then(function(data) {
       aisVessels = data.vessels;
-      renderAISMarkers();
-      renderAISTracks();
+      addShipImageToMap();
+      renderAISNative();
       startAISInterpolation();
-      console.log('🚢 AIS fleet loaded: ' + data.count + ' vessels (updated: ' + data.updated + ')');
+      console.log('🚢 AIS fleet: ' + data.count + ' vessels (' + data.updated + ')');
     })
     .catch(function(err) {
-      console.warn('🚢 AIS data load failed:', err.message);
+      console.warn('🚢 AIS load failed:', err.message);
       var el = document.createElement('div');
       el.id = 'ais-notice';
-      el.style.cssText = 'position:fixed; bottom:80px; left:50%; transform:translateX(-50%); background:rgba(0,0,0,0.8); color:#fff; padding:10px 20px; border-radius:8px; font-size:12px; z-index:999;';
-      el.textContent = '🚢 AIS data not yet available. Run simulator first.';
+      el.style.cssText = 'position:fixed; bottom:80px; left:50%; transform:translateX(-50%); background:rgba(0,0,0,0.85); color:#fff; padding:10px 20px; border-radius:8px; font-size:12px; z-index:999; backdrop-filter:blur(4px);';
+      el.textContent = '🚢 AIS data not available yet';
       document.body.appendChild(el);
       setTimeout(function() { if (el.parentNode) el.parentNode.removeChild(el); }, 4000);
     });
 }
 
-function renderAISMarkers() {
-  // Clear existing
-  aisMarkers.forEach(function(m) { m.remove(); });
-  aisMarkers = [];
+function buildGeoJSON() {
+  return {
+    type: 'FeatureCollection',
+    features: aisVessels.map(function(v) {
+      return {
+        type: 'Feature',
+        geometry: { type: 'Point', coordinates: [v.lon, v.lat] },
+        properties: {
+          mmsi: v.mmsi, name: v.name, type: v.type,
+          color: v.color, speed: v.speed, heading: v.heading,
+          origin: v.origin, destination: v.destination
+        }
+      };
+    })
+  };
+}
 
+function buildTracksGeoJSON() {
+  var features = [];
   aisVessels.forEach(function(v) {
-    // Triangle marker rotated to heading
-    var el = document.createElement('div');
-    el.style.cssText = 'width:0; height:0; border-left:5px solid transparent; border-right:5px solid transparent; border-bottom:12px solid ' + v.color + '; cursor:pointer; filter:drop-shadow(0 0 2px rgba(0,0,0,0.5)); transform:rotate(' + v.heading + 'deg); transition:transform 2s linear;';
-    el.className = 'ais-vessel-marker';
-    el.setAttribute('data-mmsi', v.mmsi);
+    if (!v.track || v.track.length < 2) return;
+    features.push({
+      type: 'Feature',
+      geometry: {
+        type: 'LineString',
+        coordinates: v.track.map(function(t) { return [t[0], t[1]]; })
+      },
+      properties: { color: v.color }
+    });
+  });
+  return { type: 'FeatureCollection', features: features };
+}
 
-    var marker = new mapboxgl.Marker({ element: el, anchor: 'center' })
-      .setLngLat([v.lon, v.lat])
-      .addTo(map);
+function renderAISNative() {
+  var geojson = buildGeoJSON();
+  var tracksGJ = buildTracksGeoJSON();
 
-    // Popup on click
-    var popupHTML =
-      '<div style="font-size:12px; line-height:1.6;">' +
-      '<div style="font-weight:700; color:' + v.color + ';">' + v.name + '</div>' +
-      '<div style="font-size:10px; color:#888;">MMSI: ' + v.mmsi + ' · ' + v.type + '</div>' +
-      '<hr style="margin:4px 0; border:none; border-top:1px solid #eee;">' +
-      '<div>⚓ ' + v.origin + ' → ' + v.destination + '</div>' +
-      '<div>🧭 HDG ' + v.heading + '° · SOG ' + v.speed + ' kn</div>' +
-      '</div>';
+  // ── Track lines ──
+  if (map.getSource('ais-tracks')) {
+    map.getSource('ais-tracks').setData(tracksGJ);
+  } else {
+    map.addSource('ais-tracks', { type: 'geojson', data: tracksGJ });
+    map.addLayer({
+      id: 'ais-tracks-layer',
+      type: 'line',
+      source: 'ais-tracks',
+      paint: {
+        'line-color': ['get', 'color'],
+        'line-width': 1,
+        'line-opacity': 0.25,
+        'line-dasharray': [2, 4]
+      }
+    });
+  }
 
-    marker.getElement().addEventListener('click', function(ev) {
-      ev.stopPropagation();
-      new mapboxgl.Popup({ offset: 15 })
-        .setLngLat([v.lon, v.lat])
-        .setHTML(popupHTML)
+  // ── Vessel color circles (under ship icon) ──
+  if (map.getSource('ais-fleet')) {
+    map.getSource('ais-fleet').setData(geojson);
+  } else {
+    map.addSource('ais-fleet', { type: 'geojson', data: geojson });
+
+    // Color dot (type indicator)
+    map.addLayer({
+      id: 'ais-dots',
+      type: 'circle',
+      source: 'ais-fleet',
+      paint: {
+        'circle-radius': ['interpolate', ['linear'], ['zoom'], 2, 2.5, 5, 4, 8, 5],
+        'circle-color': ['get', 'color'],
+        'circle-opacity': 0.9,
+        'circle-stroke-color': '#ffffff',
+        'circle-stroke-width': ['interpolate', ['linear'], ['zoom'], 2, 0.5, 6, 1],
+        'circle-stroke-opacity': 0.8
+      }
+    });
+
+    // Ship icon with heading rotation (visible at higher zoom)
+    map.addLayer({
+      id: 'ais-ships',
+      type: 'symbol',
+      source: 'ais-fleet',
+      minzoom: 4,
+      layout: {
+        'icon-image': 'ship-icon',
+        'icon-size': ['interpolate', ['linear'], ['zoom'], 4, 0.4, 8, 0.7, 12, 1],
+        'icon-rotate': ['get', 'heading'],
+        'icon-rotation-alignment': 'map',
+        'icon-allow-overlap': true,
+        'icon-ignore-placement': true
+      }
+    });
+
+    // Vessel name label (high zoom only)
+    map.addLayer({
+      id: 'ais-labels',
+      type: 'symbol',
+      source: 'ais-fleet',
+      minzoom: 7,
+      layout: {
+        'text-field': ['get', 'name'],
+        'text-size': 9,
+        'text-offset': [0, 1.5],
+        'text-anchor': 'top',
+        'text-font': ['DIN Pro Regular', 'Arial Unicode MS Regular'],
+        'text-allow-overlap': false
+      },
+      paint: {
+        'text-color': '#555',
+        'text-halo-color': '#fff',
+        'text-halo-width': 1
+      }
+    });
+
+    // Click handler
+    map.on('click', 'ais-dots', function(e) {
+      var p = e.features[0].properties;
+      var coords = e.features[0].geometry.coordinates;
+      if (aisPopup) aisPopup.remove();
+      aisPopup = new mapboxgl.Popup({ offset: 12, closeButton: true, maxWidth: '240px' })
+        .setLngLat(coords)
+        .setHTML(
+          '<div style="font-size:12px; line-height:1.7;">' +
+          '<div style="font-weight:700; color:' + p.color + '; font-size:13px;">' + p.name + '</div>' +
+          '<div style="font-size:10px; color:#999; margin-bottom:4px;">MMSI ' + p.mmsi + ' · ' + p.type + '</div>' +
+          '<div style="border-top:1px solid #eee; padding-top:4px;">⚓ ' + p.origin + ' → ' + p.destination + '</div>' +
+          '<div>🧭 HDG ' + p.heading + '° · SOG ' + p.speed + ' kn</div>' +
+          '</div>'
+        )
         .addTo(map);
     });
 
-    aisMarkers.push(marker);
-  });
+    // Cursor
+    map.on('mouseenter', 'ais-dots', function() { map.getCanvas().style.cursor = 'pointer'; });
+    map.on('mouseleave', 'ais-dots', function() { map.getCanvas().style.cursor = ''; });
+  }
 }
 
-function renderAISTracks() {
-  // Remove old track layers
-  aisTrackLayers.forEach(function(id) {
-    if (map.getLayer(id)) map.removeLayer(id);
-    if (map.getSource(id)) map.removeSource(id);
-  });
-  aisTrackLayers = [];
-
-  // Add track for each vessel
-  aisVessels.forEach(function(v, idx) {
-    if (!v.track || v.track.length < 2) return;
-    var srcId = 'ais-track-' + idx;
-    var coords = v.track.map(function(t) { return [t[0], t[1]]; });
-
-    map.addSource(srcId, {
-      type: 'geojson',
-      data: {
-        type: 'Feature',
-        geometry: { type: 'LineString', coordinates: coords }
-      }
-    });
-    map.addLayer({
-      id: srcId,
-      type: 'line',
-      source: srcId,
-      paint: {
-        'line-color': v.color,
-        'line-width': 1.5,
-        'line-opacity': 0.4,
-        'line-dasharray': [2, 3]
-      }
-    });
-    aisTrackLayers.push(srcId);
-  });
-}
-
-// Client-side interpolation — move vessels smoothly between updates
 function startAISInterpolation() {
   if (aisAnimationTimer) clearInterval(aisAnimationTimer);
   aisAnimationTimer = setInterval(function() {
-    if (!aisVessels) return;
-    aisVessels.forEach(function(v, idx) {
-      // Move ~1 minute of travel (speed in knots / 60)
-      var distNM = v.speed / 60; // 1 minute
-      var hdgRad = v.heading * Math.PI / 180;
-      var R = 3440.065;
-      var d = distNM / R;
-      var lat1 = v.lat * Math.PI / 180;
-      var lon1 = v.lon * Math.PI / 180;
-      var lat2 = Math.asin(Math.sin(lat1)*Math.cos(d) + Math.cos(lat1)*Math.sin(d)*Math.cos(hdgRad));
-      var lon2 = lon1 + Math.atan2(Math.sin(hdgRad)*Math.sin(d)*Math.cos(lat1), Math.cos(d)-Math.sin(lat1)*Math.sin(lat2));
-      v.lat = parseFloat((lat2 * 180 / Math.PI).toFixed(5));
-      v.lon = parseFloat((lon2 * 180 / Math.PI).toFixed(5));
+    if (!aisVessels || !map.getSource('ais-fleet')) return;
 
-      // Update marker position
-      if (aisMarkers[idx]) {
-        aisMarkers[idx].setLngLat([v.lon, v.lat]);
+    aisVessels.forEach(function(v) {
+      var distNM = v.speed / 60;
+      var hdg = v.heading;
+      // If we have nextWp, use bearing to it instead of stored heading
+      if (v.nextWp) {
+        var dLon = (v.nextWp.lon - v.lon) * Math.PI / 180;
+        var y = Math.sin(dLon) * Math.cos(v.nextWp.lat * Math.PI / 180);
+        var x = Math.cos(v.lat * Math.PI / 180) * Math.sin(v.nextWp.lat * Math.PI / 180) -
+                Math.sin(v.lat * Math.PI / 180) * Math.cos(v.nextWp.lat * Math.PI / 180) * Math.cos(dLon);
+        hdg = (Math.atan2(y, x) * 180 / Math.PI + 360) % 360;
+        v.heading = +hdg.toFixed(1);
       }
+      var hdgRad = hdg * Math.PI / 180;
+      var R = 3440.065, d = distNM / R;
+      var la1 = v.lat * Math.PI / 180, lo1 = v.lon * Math.PI / 180;
+      var la2 = Math.asin(Math.sin(la1)*Math.cos(d) + Math.cos(la1)*Math.sin(d)*Math.cos(hdgRad));
+      var lo2 = lo1 + Math.atan2(Math.sin(hdgRad)*Math.sin(d)*Math.cos(la1), Math.cos(d)-Math.sin(la1)*Math.sin(la2));
+      v.lat = +(la2 * 180 / Math.PI).toFixed(5);
+      v.lon = +(lo2 * 180 / Math.PI).toFixed(5);
     });
-  }, 60000); // Every 60 seconds, advance 1 minute of travel
+
+    map.getSource('ais-fleet').setData(buildGeoJSON());
+  }, 60000);
 }
 
 function hideAISLayer() {
   if (aisAnimationTimer) { clearInterval(aisAnimationTimer); aisAnimationTimer = null; }
-  aisMarkers.forEach(function(m) { m.remove(); });
-  aisMarkers = [];
-  aisTrackLayers.forEach(function(id) {
+  if (aisPopup) { aisPopup.remove(); aisPopup = null; }
+  ['ais-labels','ais-ships','ais-dots','ais-tracks-layer'].forEach(function(id) {
     if (map.getLayer(id)) map.removeLayer(id);
+  });
+  ['ais-fleet','ais-tracks'].forEach(function(id) {
     if (map.getSource(id)) map.removeSource(id);
   });
-  aisTrackLayers = [];
   aisVessels = null;
   var notice = document.getElementById('ais-notice');
   if (notice) notice.parentNode.removeChild(notice);
-  console.log('🚢 AIS fleet layer OFF');
+  console.log('🚢 AIS fleet OFF');
 }
 
 // ── 기존 기능 (변경 없음) ──
