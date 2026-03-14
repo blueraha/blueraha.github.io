@@ -1918,3 +1918,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2023-11-04
+addEvents({
+  "2023-11-04": [
+    {
+      type: "accident",
+      title: "Loss of propulsion in heavy weather – Spirit of Discovery, Bay of Biscay (100+ injuries, 1 fatality)",
+      source: "MAIB (UK Marine Accident Investigation Branch)",
+      sourceMeta: "gov.uk · 2026-03-11",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>2023년 11월 4일 비스케이 만에서 여객선 Spirit of Discovery가 악천후 중 추진력 상실 사고를 경험했으며, 100명 이상의 승객이 부상을 입고 1명이 사망했다. 사고 발생 직후 심각한 부상자 8명이 항구 도착 시 직접 병원으로 후송되었으며, 이 중 한 명이 나중에 부상으로 인해 사망했다. MAIB 조사 결과에 따라 해양청(Maritime and Coastguard Agency)에 국제 운송 요구사항에 전자 경사계 포함을 제안할 것을 권고했으며, 분류 회사들에게는 지침서 품질 개선을, 추진 제조업체에는 고객 자문 통지 발급을 권고했다. 또한 순항선박국제협회(CLIA)에는 승선 의료 인력 확대와 악천후 시 선박 비품 고정 정책 업데이트를 권고했다.</p><h3>Key Quotes</h3><p><li>"Shortly after 1230 on 4 November 2023, the passenger vessel Spirit of Discovery lost propulsion in heavy weather while crossing the Bay of Biscay. Over 100 passengers were injured during this period." (2023년 11월 4일 정오 직후, 여객선 Spirit of Discovery는 비스케이 만을 횡단하는 중 악천후에서 추진력을 상실했으며, 이 기간 중 100명 이상의 승객이 부상을 입었다.)</li></p><p><li>"Recommendations have been made to the Maritime and Coastguard Agency to propose that international carriage requirements include electronic inclinometers" (해양청에는 국제 운송 요구사항에 전자 경사계 포함을 제안할 것을 권고했다.)</li></p><h3>Technical Insights</h3><p>본 사건은 악천후 상황에서 추진 시스템의 신뢰성 문제와 선박의 안정성 관리 부문의 중대한 허점을 드러냈다. 전자 경사계의 의무화 권고는 선장과 승무원이 선박의 실시간 경사각을 정확히 파악하여 조타 및 속도 조정을 통해 위험 상황을 조기에 인지하고 대응할 수 있게 하는 것이 핵심이다. Pod 추진 시스템 제조업체의 고객 자문 통지는 동일 시스템을 장착한 여타 선박의 정비 및 운영 절차 개선을 통해 유사 사고의 재발 방지를 목표로 하는 국제 해운 안전 표준의 확산을 의미한다. 악천후에서의 선박 비품 고정 및 의료 인력 증원은 인명피해 최소화라는 관점에서 여객선 운영의 새로운 기준을 제시하며, IMO의 해상 안전 규정(SOLAS) 개정과 동기화될 필요가 있다.</p></div>`,
+      tags: ["propulsion failure","heavy weather","passenger vessel","Bay of Biscay","casualties"],
+      link: "https://www.gov.uk/maib-reports/loss-of-propulsion-in-heavy-weather-experienced-by-the-passenger-vessel-spirit-of-discovery-leading-to-over-100-injuries-and-one-fatality",
+      coords: [-4.5,45],
+      location: "Bay of Biscay"
+    }
+  ]
+});
