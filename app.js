@@ -405,12 +405,14 @@ function toggleWeatherLayer(key) {
       hideNASALayer();
     } else if (key === 'typhoon') {
       hideTyphoonLayer();
+    } else if (key === 'ais') {
+      hideAISLayer();
     } else {
       hideOWMLayer(key);
     }
   } else {
     // 켜기
-    if (!OWM_APP_ID && !['radar','nasa','typhoon'].includes(key)) {
+    if (!OWM_APP_ID && !['radar','nasa','typhoon','ais'].includes(key)) {
       alert('OWM API 키가 필요합니다.\napp.js 상단의 OWM_APP_ID에 키를 입력하세요.\nhttps://openweathermap.org 에서 무료 발급 가능합니다.');
       return;
     }
@@ -422,6 +424,8 @@ function toggleWeatherLayer(key) {
       showNASALayer();
     } else if (key === 'typhoon') {
       showTyphoonLayer();
+    } else if (key === 'ais') {
+      showAISLayer();
     } else {
       showOWMLayer(key);
     }
@@ -585,6 +589,149 @@ function hideTyphoonLayer() {
   var notice = document.getElementById('typhoon-notice');
   if (notice) notice.parentNode.removeChild(notice);
   console.log('🌀 Typhoon layer OFF');
+}
+
+// ── AIS Virtual Fleet Layer ──
+
+var aisMarkers = [];
+var aisTrackLayers = [];
+var aisAnimationTimer = null;
+var aisVessels = null;
+
+function showAISLayer() {
+  fetch('ais-data.json?t=' + Date.now())
+    .then(function(res) { return res.json(); })
+    .then(function(data) {
+      aisVessels = data.vessels;
+      renderAISMarkers();
+      renderAISTracks();
+      startAISInterpolation();
+      console.log('🚢 AIS fleet loaded: ' + data.count + ' vessels (updated: ' + data.updated + ')');
+    })
+    .catch(function(err) {
+      console.warn('🚢 AIS data load failed:', err.message);
+      var el = document.createElement('div');
+      el.id = 'ais-notice';
+      el.style.cssText = 'position:fixed; bottom:80px; left:50%; transform:translateX(-50%); background:rgba(0,0,0,0.8); color:#fff; padding:10px 20px; border-radius:8px; font-size:12px; z-index:999;';
+      el.textContent = '🚢 AIS data not yet available. Run simulator first.';
+      document.body.appendChild(el);
+      setTimeout(function() { if (el.parentNode) el.parentNode.removeChild(el); }, 4000);
+    });
+}
+
+function renderAISMarkers() {
+  // Clear existing
+  aisMarkers.forEach(function(m) { m.remove(); });
+  aisMarkers = [];
+
+  aisVessels.forEach(function(v) {
+    // Triangle marker rotated to heading
+    var el = document.createElement('div');
+    el.style.cssText = 'width:0; height:0; border-left:5px solid transparent; border-right:5px solid transparent; border-bottom:12px solid ' + v.color + '; cursor:pointer; filter:drop-shadow(0 0 2px rgba(0,0,0,0.5)); transform:rotate(' + v.heading + 'deg); transition:transform 2s linear;';
+    el.className = 'ais-vessel-marker';
+    el.setAttribute('data-mmsi', v.mmsi);
+
+    var marker = new mapboxgl.Marker({ element: el, anchor: 'center' })
+      .setLngLat([v.lon, v.lat])
+      .addTo(map);
+
+    // Popup on click
+    var popupHTML =
+      '<div style="font-size:12px; line-height:1.6;">' +
+      '<div style="font-weight:700; color:' + v.color + ';">' + v.name + '</div>' +
+      '<div style="font-size:10px; color:#888;">MMSI: ' + v.mmsi + ' · ' + v.type + '</div>' +
+      '<hr style="margin:4px 0; border:none; border-top:1px solid #eee;">' +
+      '<div>⚓ ' + v.origin + ' → ' + v.destination + '</div>' +
+      '<div>🧭 HDG ' + v.heading + '° · SOG ' + v.speed + ' kn</div>' +
+      '</div>';
+
+    marker.getElement().addEventListener('click', function(ev) {
+      ev.stopPropagation();
+      new mapboxgl.Popup({ offset: 15 })
+        .setLngLat([v.lon, v.lat])
+        .setHTML(popupHTML)
+        .addTo(map);
+    });
+
+    aisMarkers.push(marker);
+  });
+}
+
+function renderAISTracks() {
+  // Remove old track layers
+  aisTrackLayers.forEach(function(id) {
+    if (map.getLayer(id)) map.removeLayer(id);
+    if (map.getSource(id)) map.removeSource(id);
+  });
+  aisTrackLayers = [];
+
+  // Add track for each vessel
+  aisVessels.forEach(function(v, idx) {
+    if (!v.track || v.track.length < 2) return;
+    var srcId = 'ais-track-' + idx;
+    var coords = v.track.map(function(t) { return [t[0], t[1]]; });
+
+    map.addSource(srcId, {
+      type: 'geojson',
+      data: {
+        type: 'Feature',
+        geometry: { type: 'LineString', coordinates: coords }
+      }
+    });
+    map.addLayer({
+      id: srcId,
+      type: 'line',
+      source: srcId,
+      paint: {
+        'line-color': v.color,
+        'line-width': 1.5,
+        'line-opacity': 0.4,
+        'line-dasharray': [2, 3]
+      }
+    });
+    aisTrackLayers.push(srcId);
+  });
+}
+
+// Client-side interpolation — move vessels smoothly between updates
+function startAISInterpolation() {
+  if (aisAnimationTimer) clearInterval(aisAnimationTimer);
+  aisAnimationTimer = setInterval(function() {
+    if (!aisVessels) return;
+    aisVessels.forEach(function(v, idx) {
+      // Move ~1 minute of travel (speed in knots / 60)
+      var distNM = v.speed / 60; // 1 minute
+      var hdgRad = v.heading * Math.PI / 180;
+      var R = 3440.065;
+      var d = distNM / R;
+      var lat1 = v.lat * Math.PI / 180;
+      var lon1 = v.lon * Math.PI / 180;
+      var lat2 = Math.asin(Math.sin(lat1)*Math.cos(d) + Math.cos(lat1)*Math.sin(d)*Math.cos(hdgRad));
+      var lon2 = lon1 + Math.atan2(Math.sin(hdgRad)*Math.sin(d)*Math.cos(lat1), Math.cos(d)-Math.sin(lat1)*Math.sin(lat2));
+      v.lat = parseFloat((lat2 * 180 / Math.PI).toFixed(5));
+      v.lon = parseFloat((lon2 * 180 / Math.PI).toFixed(5));
+
+      // Update marker position
+      if (aisMarkers[idx]) {
+        aisMarkers[idx].setLngLat([v.lon, v.lat]);
+      }
+    });
+  }, 60000); // Every 60 seconds, advance 1 minute of travel
+}
+
+function hideAISLayer() {
+  if (aisAnimationTimer) { clearInterval(aisAnimationTimer); aisAnimationTimer = null; }
+  aisMarkers.forEach(function(m) { m.remove(); });
+  aisMarkers = [];
+  aisTrackLayers.forEach(function(id) {
+    if (map.getLayer(id)) map.removeLayer(id);
+    if (map.getSource(id)) map.removeSource(id);
+  });
+  aisTrackLayers = [];
+  aisVessels = null;
+  var notice = document.getElementById('ais-notice');
+  if (notice) notice.parentNode.removeChild(notice);
+  console.log('🚢 AIS fleet layer OFF');
 }
 
 // ── 기존 기능 (변경 없음) ──
