@@ -51,14 +51,20 @@ If not maritime/autonomous/AI/robotics related:
 PART 2: Expert Report (Korean-English mixed) AFTER the JSON block:
 
 ## Executive Summary
-5-6 sentences in Korean summarizing key facts, vessels/organizations involved, and outcomes.
+Write 5-6 bullet points in Korean. Each bullet starts with "• " and covers one key fact.
+Example format:
+• 주요 사실 1
+• 관련 선박/기관명
+• 결과 및 영향
 
 ## Key Quotes
-2-3 important sentences quoted in original English with Korean meaning in parentheses.
-- "English original quote" (한글 해석)
+2-3 important quotes in original English with Korean meaning in parentheses.
+• "English original quote" (한글 해석)
 
 ## Technical Insights
-3-4 sentences in Korean about autonomous shipping/COLREG/IMO/industry implications from an expert perspective. Provide insights useful for maritime engineers.`;
+Write 3-4 bullet points in Korean about autonomous shipping/COLREG/IMO/industry implications.
+• 기술적 시사점 1
+• 산업적 영향 2`;
 
 async function processArticles() {
   const raw = JSON.parse(

@@ -220,11 +220,10 @@ async function askAI({ url, imageBase64, imageMediaType, plainText, presetType, 
     ? `\n\n중요: 이것은 YouTube 영상입니다. 영상 제목, 채널, 설명문(또는 자막)을 바탕으로 해양/자율운항/방위 관점에서 분석해주세요. 정보가 제한적이더라도 제목과 설명에서 최대한 유의미한 내용을 추출하세요. source는 "YouTube" 또는 채널명으로, sourceMeta는 "youtube.com · YYYY-MM-DD"로 작성하세요.`
     : '';
 
-  const prompt = `너는 해양 산업 기술 분석가이자 유능한 비서야. 아래 제공된 정보를 분석해서 2가지를 출력해줘.
+  const prompt = `너는 해양 산업 기술 분석가이자 유능한 비서야. 아래 제공된 정보를 분석해서 JSON + 리포트를 출력해줘.
 ${sourceDesc}${youtubeHint}
 
-═══ PART 1: 구조화 데이터 (JSON) ═══
-다음 JSON을 정확히 출력해. 반드시 \`\`\`json 코드블록으로 감싸줘.
+먼저 다음 JSON을 \`\`\`json 코드블록으로 출력해.
 
 ${typeInstruction}
 ${tagInstruction}
@@ -248,10 +247,25 @@ ${tagInstruction}
 - 특정 국가 관련이면 수도 좌표
 - 글로벌/불분명하면 [0, 0]
 
-═══ PART 2: 전문 리포트 (한영 혼합) ═══
-1. Executive Summary: 전체 내용을 5~6문장 한글 요약
-2. Key English Quotes: 원문에서 중요한 문장 2~3개를 영어 그대로 + (한글 의미) 괄호 첨부. 이미지나 한글 텍스트만 있으면 핵심 내용을 영어로 번역하여 인용.
-3. Technical Insights: 자율운항/COLREG/산업적 시사점을 전문가 관점에서 한글로 기술`;
+JSON 블록 다음에 바로 아래 리포트를 작성해. "PART 1", "PART 2", "구조화 데이터" 같은 메타 설명은 절대 쓰지 마. 바로 제목(##)부터 시작해.
+
+## Executive Summary
+핵심 내용을 5~6개 개조식(bullet point)으로 한글 작성. 각 항목은 "• "로 시작.
+예시:
+• 주요 사건/발표 요지
+• 관련 선박/기관/인물
+• 핵심 수치 및 결과
+
+## Key Quotes
+원문에서 중요한 문장 2~3개를 영어 그대로 인용 + (한글 해석) 괄호 첨부.
+• "English quote" (한글 해석)
+이미지나 한글 텍스트만 있으면 핵심 내용을 영어로 번역하여 인용.
+
+## Devil's Advocate
+반대 관점, 리스크, 간과된 문제점을 3~4개 개조식으로 한글 기술.
+• 하지만 ~라는 리스크가 있다
+• 반면 ~를 고려하면 낙관적 전망은 과도할 수 있다
+단순한 업계 시사점이 아니라, 비판적 사고를 자극하는 내용이어야 한다.`;
 
   // Claude API 메시지 content 구성 (멀티모달)
   const contentParts = [];
@@ -297,13 +311,36 @@ ${tagInstruction}
 
     const meta = JSON.parse(jsonMatch[1].trim());
 
-    // 리포트 본문 추출
+    // 리포트 본문 추출 — JSON 블록 제거 + 메타 라벨 필터링
     let reportBody = text.replace(/```json[\s\S]*?```/, '').trim();
+    
+    // AI가 넣는 메타 라벨 제거
+    reportBody = reportBody
+      .replace(/^#+\s*PART\s*\d+[:\s].*$/gim, '')
+      .replace(/^═+.*═+$/gm, '')
+      .replace(/^-{3,}$/gm, '')
+      .replace(/^#+\s*구조화\s*데이터.*$/gim, '')
+      .replace(/^#+\s*전문\s*리포트.*$/gim, '')
+      .replace(/^#+\s*JSON.*$/gim, '')
+      .replace(/해양 산업 기술 분석 보고서/g, '');
+    
+    // 마크다운 → HTML
+    reportBody = reportBody
+      .replace(/^## (.+)$/gm, '<h3>$1</h3>')
+      .replace(/^### (.+)$/gm, '<h3>$1</h3>')
+      .replace(/^> "(.+)$/gm, '<blockquote>"$1</blockquote>')
+      .replace(/^> (.+)$/gm, '<blockquote>$1</blockquote>')
+      .replace(/^- (.+)$/gm, '<li>$1</li>')
+      .replace(/^\d+\.\s+(.+)$/gm, '<li>$1</li>');
+    
     reportBody = reportBody.split('\n').map(line => line.trim()).filter(line => line.length > 0).join('<br>');
+    
+    // 연속 br 정리
+    reportBody = reportBody.replace(/(<br>){3,}/g, '<br><br>');
 
     return {
       ...meta,
-      content: `<p style="font-weight:300; line-height:1.8;">${reportBody}</p>`
+      content: `<div style="font-weight:300; line-height:1.8;">${reportBody}</div>`
     };
   } catch (e) {
     console.error(`⚠️ AI 리포트 생성 실패:`, e.message);
@@ -435,7 +472,7 @@ async function parseMessage(msg, existingLinks, token) {
   const finalImage = youtubeData ? youtubeData.thumbnail : '';
 
   return {
-    date: aiResult.date || dateStr,
+    date: youtubeData ? dateStr : (aiResult.date || dateStr),
     entry: {
       type: finalType,
       title: aiResult.title || "Maritime Report",
