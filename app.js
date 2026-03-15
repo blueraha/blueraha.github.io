@@ -1267,36 +1267,82 @@ function dismissHeadlines() {
   }
 }
 
-// ── Shore VDR Modal ──
+// ── Shore VDR Modal (Password Protected) ──
+var _vdrAuth = false; // session auth flag
+
 function openVDR(name, mmsi, type, origin, destination, hdg, sog) {
-  // Close AIS popup
   if (aisPopup) { aisPopup.remove(); aisPopup = null; }
 
-  // Remove existing modal if any
+  if (!_vdrAuth) {
+    // Show password modal
+    var old = document.getElementById('vdr-auth-modal');
+    if (old) old.remove();
+
+    var overlay = document.createElement('div');
+    overlay.id = 'vdr-auth-modal';
+    overlay.style.cssText = 'position:fixed;top:0;left:0;width:100vw;height:100vh;z-index:9999;background:rgba(0,0,0,0.6);display:flex;align-items:center;justify-content:center;animation:vdrFadeIn 0.2s ease;';
+
+    var box = document.createElement('div');
+    box.style.cssText = 'background:#fff;border-radius:12px;padding:28px 32px;width:340px;box-shadow:0 20px 60px rgba(0,0,0,0.3);text-align:center;';
+    box.innerHTML =
+      '<div style="width:48px;height:48px;border-radius:50%;background:#f0fdf4;display:flex;align-items:center;justify-content:center;margin:0 auto 12px;border:2px solid #16a34a;font-size:22px;">🔒</div>' +
+      '<div style="font-size:16px;font-weight:700;color:#1a2e23;margin-bottom:4px;">Shore VDR Access</div>' +
+      '<div style="font-size:12px;color:#6b8f74;margin-bottom:16px;">Authorized personnel only</div>' +
+      '<input id="vdr-pw" type="password" placeholder="Enter access code" style="width:100%;padding:10px 14px;border:1.5px solid #d1ddd5;border-radius:6px;font-size:13px;outline:none;text-align:center;letter-spacing:2px;" onkeydown="if(event.key===\'Enter\')checkVDR(\'' + name.replace(/'/g,"\\'") + '\',\'' + mmsi + '\',\'' + type + '\',\'' + (origin||'').replace(/'/g,"\\'") + '\',\'' + (destination||'').replace(/'/g,"\\'") + '\',' + hdg + ',' + sog + ')" />' +
+      '<div id="vdr-pw-err" style="font-size:11px;color:#dc2626;margin-top:6px;height:16px;"></div>' +
+      '<div style="display:flex;gap:8px;margin-top:12px;">' +
+      '<button onclick="document.getElementById(\'vdr-auth-modal\').remove()" style="flex:1;padding:8px 0;background:#f0f5f1;color:#4a6b52;border:1px solid #d1ddd5;border-radius:6px;font-size:12px;cursor:pointer;">Cancel</button>' +
+      '<button onclick="checkVDR(\'' + name.replace(/'/g,"\\'") + '\',\'' + mmsi + '\',\'' + type + '\',\'' + (origin||'').replace(/'/g,"\\'") + '\',\'' + (destination||'').replace(/'/g,"\\'") + '\',' + hdg + ',' + sog + ')" style="flex:1;padding:8px 0;background:#16a34a;color:#fff;border:none;border-radius:6px;font-size:12px;font-weight:600;cursor:pointer;">Authorize</button>' +
+      '</div>';
+    overlay.appendChild(box);
+    overlay.addEventListener('click', function(e) { if (e.target === overlay) overlay.remove(); });
+    document.body.appendChild(overlay);
+    setTimeout(function() { document.getElementById('vdr-pw').focus(); }, 100);
+    return;
+  }
+
+  // Authorized — open VDR
+  _openVDRModal(name, mmsi);
+}
+
+function checkVDR(name, mmsi, type, origin, destination, hdg, sog) {
+  var pw = document.getElementById('vdr-pw').value;
+  // SHA-256 would be better, but for demo: simple check
+  // Password: "vdr2026"
+  if (pw === 'vdr2026') {
+    _vdrAuth = true;
+    var authModal = document.getElementById('vdr-auth-modal');
+    if (authModal) authModal.remove();
+    _openVDRModal(name, mmsi);
+  } else {
+    var err = document.getElementById('vdr-pw-err');
+    err.textContent = '⚠ Invalid access code';
+    document.getElementById('vdr-pw').style.borderColor = '#ef4444';
+    document.getElementById('vdr-pw').value = '';
+    document.getElementById('vdr-pw').focus();
+  }
+}
+
+function _openVDRModal(name, mmsi) {
   var old = document.getElementById('vdr-modal');
   if (old) old.remove();
 
-  // Create fullscreen modal
   var modal = document.createElement('div');
   modal.id = 'vdr-modal';
   modal.style.cssText = 'position:fixed;top:0;left:0;width:100vw;height:100vh;z-index:9999;background:rgba(0,0,0,0.85);display:flex;flex-direction:column;animation:vdrFadeIn 0.3s ease;';
 
-  // Close button bar
   var topBar = document.createElement('div');
   topBar.style.cssText = 'height:32px;background:#064e3b;display:flex;align-items:center;justify-content:space-between;padding:0 12px;flex-shrink:0;';
   topBar.innerHTML = '<span style="color:#4ade80;font-size:11px;font-weight:600;letter-spacing:1px;">🖥 Shore VDR — ' + name + ' (MMSI ' + mmsi + ')</span>' +
     '<button onclick="closeVDR()" style="background:rgba(255,255,255,0.1);border:none;color:#fff;padding:4px 12px;border-radius:4px;cursor:pointer;font-size:11px;">✕ Close</button>';
   modal.appendChild(topBar);
 
-  // iframe to shore-vdr.html
   var iframe = document.createElement('iframe');
   iframe.src = 'shore-vdr.html';
   iframe.style.cssText = 'flex:1;border:none;width:100%;background:#f4f7f5;';
   modal.appendChild(iframe);
 
   document.body.appendChild(modal);
-
-  // ESC key to close
   modal._escHandler = function(e) { if (e.key === 'Escape') closeVDR(); };
   document.addEventListener('keydown', modal._escHandler);
 }
