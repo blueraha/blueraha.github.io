@@ -1978,3 +1978,75 @@ addEvents({
     }
   ]
 });
+
+// Manual: 2026-03-13 Samsung Heavy Industries
+addEvents({
+  "2026-03-13": [
+    {
+      type: "news",
+      title: "Samsung Heavy Industries Opens First U.S. Research Center in San Diego",
+      source: "Korea IT Times",
+      sourceMeta: "koreaittimes.com · 2026-03-13",
+      image: "https://www.koreaittimes.com/news/photo/202603/151832_101296_1120.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>삼성중공업(SHI)이 미국 최초의 해양 연구 거점을 확보했다. 샌디에이고 주립대학교(SDSU)와 공동으로 'SHI-SDSU Advanced Maritime Center'(SSAM Center)를 3월 13일 개소하며 한미 조선·해양 기술 협력의 교두보를 마련했다. 개소식에는 삼성중공업 이왕근 COO, SDSU 연구혁신 부총장 Hala Madanat, 샌디에이고시 글로벌 담당관 Ben Moore, 샌디에이고 지역경제개발공사 대표 Mark Cafferty 등 약 60명이 참석했다.</p><h3>Key Quotes</h3><p>"We expect this center to contribute to expanding technological cooperation between the Korean and U.S. shipbuilding and maritime industries." — Lee Wang-keun, COO of Samsung Heavy Industries</p><p>"We hope this partnership will advance innovation through the SDSU College of Engineering and support the development of talent that will lead future industries." — Adela de la Torre, President of SDSU</p><h3>Technical Insights</h3><p>샌디에이고는 미 서부 최대 조선소인 General Dynamics NASSCO가 위치한 전략적 요충지로, 한미 조선 산학 협력에 최적의 환경을 제공한다. SDSU 공대는 AI·자율시스템, 지능형 무선통신, 첨단 제조·소재, 지속가능 에너지 분야에서 강점을 보유하고 있으며, 삼성중공업은 이를 자사의 건조 기술·생산 자동화와 접목해 AI 기반 생산 자동화, 로보틱스, 친환경 해양 기술 분야에서 실질적 협력을 추진할 계획이다. MASGA(Maritime and Shipbuilding Global Alliance) 이니셔티브의 출발점으로서 미국 내 대학·정부·산업계 공동 연구 과제 발굴과 우수 연구 인력 확보에도 주력한다.</p></div>`,
+      tags: ["Samsung Heavy Industries","SHI","SDSU","San Diego","shipbuilding","R&D","Korea-US cooperation","NASSCO","MASGA"],
+      link: "https://www.koreaittimes.com/news/articleView.html?idxno=151832",
+      coords: [-117.16, 32.72],
+      location: "San Diego, USA"
+    }
+  ]
+});
+
+// Manual: 2026-03-11 NTNU Autonomous Ship Trust Study
+addEvents({
+  "2026-03-11": [
+    {
+      type: "news",
+      title: "Seafarers Have Little Confidence in Autonomous Ships — Largest Global Survey Reveals 12 Key Safety Concerns",
+      source: "NTNU / EurekAlert (AAAS)",
+      sourceMeta: "eurekalert.org · 2026-03-11",
+      image: "https://mediasvc.eurekalert.org/Api/v1/Multimedia/021f32f9-ac4f-443d-b16f-d13a4c9799c6/Rendition/low-res/Content/Public",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>노르웨이 과학기술대학교(NTNU)의 연구팀이 노르웨이 선박의 선장 및 항해사 1,009명을 대상으로 자율운항선박에 대한 신뢰도를 조사한 세계 최대 규모의 연구 결과를 발표했다. 연구진은 자율운항선박의 안전과 관련된 12가지 핵심 과제를 도출했으며, 해기사들의 가장 큰 우려는 '비상 상황 시 선내에 사람이 없으면 어떻게 하나'라는 점이었다. 2026년 가을부터 노르웨이 Lavik-Oppedal 구간에 세계 최초 자율운항 페리가 투입될 예정인 가운데, 연구진은 기술 개발자, 선사, 규제 당국이 해기사들의 우려를 적극적으로 수용해야 안전한 자율운항이 가능하다고 강조했다.</p><h3>Key Quotes</h3><p>"Trust is the key to collaboration between people and systems. If most seafarers are sceptical about the new technology, it provides a poor foundation for recruiting competent personnel." — Asbjørn Lein Aalberg, PhD researcher, NTNU</p><p>"In waves of over 4 metres, I do not want to encounter an autonomous ship that does not use the 'bad weather route' like we do." — Anonymous captain respondent</p><p>"Crews are becoming lazy because they expect an alarm on absolutely everything." — Anonymous seafarer respondent</p><h3>Technical Insights</h3><p>이 연구는 자율운항선박(MASS) 도입에 있어 기술적 완성도 못지않게 '인간-시스템 신뢰(Human-System Trust)'가 핵심 변수임을 실증적으로 보여준다. 해기사들은 비상 대응 능력 상실, 기량 퇴화(skill degradation), 자동화 의존(automation complacency), 악천후 대응 한계를 주요 우려로 꼽았다. NTNU Shore Control Lab은 인간을 시스템의 중심에 놓는 설계(Human-Centered Autonomy)를 연구 중이며, 이는 IMO의 MASS 규정 논의에도 직접적인 영향을 미칠 전망이다. 연구 결과는 WMU Journal of Maritime Affairs에 게재되었다(DOI: 10.1007/s13437-025-00401-9).</p></div>`,
+      tags: ["autonomous ship","MASS","seafarer trust","NTNU","Norway","human factors","Shore Control","automation","safety survey"],
+      link: "https://www.eurekalert.org/news-releases/1119638",
+      coords: [6.15, 62.47],
+      location: "Ålesund, Norway"
+    }
+  ]
+});
+
+// Manual: 2026-03-14 US strikes Kharg Island
+addEvents({
+  "2026-03-14": [
+    {
+      type: "accident",
+      title: "US Strikes 90+ Iranian Military Targets on Kharg Island — Hormuz Strait Blockade Intensifies",
+      source: "The National (UAE)",
+      sourceMeta: "thenationalnews.com · 2026-03-14",
+      image: "https://www.thenationalnews.com/resizer/v2/UYASZBRVF65DH5IJAMTLWZFDBU.jpg?smart=true&auth=482c8ca6b42359a2e3226a6fe8451c03457f87ed2d26904277816bf0bdc5fbd8&width=400&height=225",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>미군이 이란 카르그(Kharg) 섬의 군사 시설 90곳 이상을 정밀 타격했다. 미 중부사령부(CENTCOM)는 해상 기뢰 저장시설, 미사일 벙커 등 군사 목표물을 파괴하면서 석유 인프라는 보존했다고 밝혔다. 트럼프 대통령은 이란이 호르무즈 해협의 자유 항행을 방해할 경우 석유 시설도 타격 대상에 포함시킬 것이라고 경고했으며, 각국에 유조선 호위를 위한 해군 파견을 촉구했다. 이란은 피해를 축소하면서 카르그 섬 석유 수출이 정상 운영 중이라고 주장했으나, 에너지 시설 공격 시 보복하겠다고 위협했다. UAE는 이란의 탄도미사일 9발과 드론 33기를 요격했으며, 푸자이라에서 드론 잔해로 인한 화재가 발생했다.</p><h3>Key Quotes</h3><p>"US forces successfully struck more than 90 Iranian military targets on Kharg Island, while preserving the oil infrastructure." — US Central Command</p><p>Trump warned he would "immediately reconsider" the decision not to target oil facilities "should Iran, or anyone else, do anything to interfere with the free and safe passage of ships through the Strait of Hormuz."</p><h3>Technical Insights</h3><p>카르그 섬은 이란 석유 수출의 핵심 거점으로, 내륙 유전에서 해저 파이프라인을 통해 원유가 도착해 유조선에 선적되는 곳이다. 중국이 이란 석유 수출의 약 80%를 수입하고 있어, 카르그 섬 시설 파괴는 글로벌 에너지 시장에 직접적 충격을 줄 수 있다. 호르무즈 해협은 전 세계 해상 석유의 약 20%, LNG의 상당량이 통과하는 전략적 요충지로, 이란의 해협 봉쇄가 지속되면서 국제 유조선 운항이 사실상 마비 상태에 이르렀다. 인도가 자국 선박 22척의 안전 통과를 요청하는 등 각국이 독자적 대응에 나서고 있으며, 트럼프의 다국적 호위선단 구성 제안은 걸프전 당시 '어네스트 윌(Earnest Will)' 작전을 연상시킨다. 2월 28일 미-이스라엘 연합 공격으로 시작된 이 분쟁은 3주차에 접어들면서 걸프 국가 전역으로 확전되고 있다.</p></div>`,
+      tags: ["Kharg Island","Iran","US strikes","Hormuz Strait","oil crisis","CENTCOM","UAE defense","Gulf conflict","blockade","tanker escort"],
+      link: "https://www.thenationalnews.com/news/mena/2026/03/14/us-hits-more-than-90-iranian-military-targets-on-kharg-island/",
+      coords: [50.33, 29.23],
+      location: "Kharg Island, Iran"
+    }
+  ]
+});
+
+// Manual: 2026-03-13 Royal Navy USV & Counter-Drone
+addEvents({
+  "2026-03-13": [
+    {
+      type: "news",
+      title: "Royal Navy Orders 20 Drone Boats (Project Beehive USV) and Issues Urgent Counter-Drone RFIs",
+      source: "Meyka / Naval News",
+      sourceMeta: "meyka.com · 2026-03-13",
+      image: "",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>영국 해군이 3월 13일, 무인수상정(USV) 및 대드론(C-UAS) 분야에서 두 가지 핵심 조달을 동시에 추진했다. Kraken Technology Group에 1,230만 파운드 규모의 계약을 체결하여 Project Beehive USV 하에 20척의 모듈형 무인수상정을 발주했으며, 동시에 METIS 및 TALON이라는 긴급 정보요청서(RFI)를 발행해 함정 탑재형 컨테이너식 대드론 방어체계(NavyPODS)를 구했다. 이는 영국 해군이 자율운항 무인체계와 드론 방어를 최우선 과제로 인식하고 있음을 보여주는 신호로, NATO 동맹국 전반의 해양 방위 투자 파이프라인에 직접적 영향을 줄 전망이다.</p><h3>Key Quotes</h3><p>Kraken Technology Group won a £12.3 million contract to deliver 20 compact, modular USVs to the Royal Navy under Project Beehive USV.</p><p>METIS and TALON RFIs seek modular, embarkable counter-UAS pods that can mix radar, RF detection, EO/IR, electronic attack, and kinetic effectors in containerized form — fitting ships without deep refits.</p><h3>Technical Insights</h3><p>Project Beehive USV의 핵심은 모듈형 페이로드 베이로, ISR(정보·감시·정찰), 전자전 지원, 기뢰 대응 등 임무에 따라 장비를 교체할 수 있는 구조이다. 20척 규모의 초기 함대 운용은 군집(swarm) 운용 교리 개발과 신뢰성 검증을 위한 것으로, 성공적 시험 후 추가 발주와 페이로드 확장이 예상된다. NavyPODS 대드론 모듈은 레이더, RF 탐지, 전자공격, 운동에너지 요격 수단을 컨테이너에 통합해 기존 함정에 대규모 개조 없이 신속 장착이 가능하다. 이는 호르무즈 해협 위기 등 긴급 상황에서 함정 방어력을 신속히 증강하는 데 핵심적인 접근법이며, NATO 표준 데이터 포맷과 사이버 보안 인증이 공급업체 선정의 주요 기준이 될 것이다.</p></div>`,
+      tags: ["Royal Navy","USV","Project Beehive","Kraken","drone","C-UAS","NavyPODS","METIS","TALON","autonomous vessel","NATO","defense"],
+      link: "https://meyka.com/blog/royal-navy-march-13-20-drone-boats-ordered-urgent-c-uas-rfis-1303/",
+      coords: [-1.1, 50.8],
+      location: "Portsmouth, UK"
+    }
+  ]
+});
