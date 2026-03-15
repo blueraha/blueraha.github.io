@@ -32,7 +32,7 @@ const LANE = {
   japan_pacific: [[35.5,140.0],[36.0,142.0],[37.0,145.0]],
   china_coast: [[36.0,121.5],[31.5,122.5],[28.0,122.0],[25.0,120.0],[22.5,118.0]],
   taiwan_strait: [[25.0,120.0],[23.0,119.5],[22.0,118.5]],
-  south_china_sea: [[22.0,114.5],[18.0,114.0],[14.0,112.0],[10.0,109.0],[7.0,106.0],[4.0,105.0],[2.0,104.5]],
+  south_china_sea: [[22.0,114.5],[20.0,115.0],[18.0,115.5],[16.0,114.0],[14.0,112.5],[12.0,111.0],[10.0,109.0],[8.0,107.0],[6.0,105.5],[4.0,105.0],[2.0,104.5]],
 
   // Malacca Strait
   malacca: [[1.5,104.0],[2.5,102.0],[4.0,99.5],[5.5,97.0],[6.0,95.0]],
@@ -41,7 +41,7 @@ const LANE = {
   indian_east: [[6.0,95.0],[5.0,88.0],[5.5,82.0],[6.5,80.0]],
   indian_central: [[6.5,80.0],[5.0,73.0],[4.0,65.0],[5.0,58.0]],
   indian_west: [[5.0,58.0],[8.0,52.0],[12.0,45.0]],
-  indian_mumbai: [[6.5,80.0],[8.0,76.0],[12.0,74.0],[16.0,73.0],[19.0,72.5]],
+  indian_mumbai: [[6.5,80.0],[8.0,77.0],[10.0,75.5],[12.0,74.0],[15.0,73.0],[17.0,72.5],[19.0,72.5]],
 
   // Gulf of Aden → Red Sea → Suez
   gulf_aden: [[12.0,45.0],[12.5,44.0],[12.8,43.5]],
@@ -52,7 +52,7 @@ const LANE = {
   // Mediterranean
   med_east: [[31.5,32.0],[33.0,30.0],[34.5,28.0],[35.5,25.0],[36.0,22.0]],
   med_central: [[36.0,22.0],[37.0,18.0],[37.5,15.0],[38.0,12.0],[37.5,8.0]],
-  med_west: [[37.5,8.0],[37.0,3.0],[36.5,0.0],[36.2,-3.0],[36.0,-5.3]],
+  med_west: [[37.5,8.0],[37.5,5.0],[37.0,2.0],[36.8,-1.0],[36.5,-3.0],[36.1,-5.3]],
 
   // Gibraltar → Atlantic → North Europe
   gibraltar_biscay: [[36.0,-5.5],[37.0,-8.0],[39.0,-10.0],[42.0,-10.0],[44.0,-6.0],[46.0,-4.0]],
@@ -78,11 +78,11 @@ const LANE = {
 
   // Caribbean / Panama
   caribbean: [[40.0,-72.0],[35.0,-75.0],[30.0,-80.0],[25.0,-80.0],[18.0,-75.0],[15.0,-70.0],[12.0,-68.0],[10.0,-75.0],[9.5,-79.5]],
-  panama_pacific: [[9.0,-79.8],[8.0,-82.0],[8.0,-85.0],[10.0,-90.0]],
+  panama_pacific: [[9.0,-79.8],[8.0,-82.0],[7.5,-84.0],[8.0,-87.0],[9.0,-91.0],[11.0,-94.0],[13.0,-97.0],[15.0,-100.0],[16.5,-102.0],[18.0,-105.0],[20.0,-108.0],[22.0,-110.0],[24.0,-112.0]],
 
   // Trans-Pacific
-  pacific_north: [[10.0,-90.0],[15.0,-110.0],[20.0,-130.0],[25.0,-140.0],[30.0,-145.0],[33.0,-135.0],[34.0,-120.0]],
-  pacific_asia: [[37.0,145.0],[38.0,160.0],[40.0,170.0],[42.0,180.0],[42.0,-170.0],[40.0,-160.0],[38.0,-150.0],[35.0,-140.0],[33.0,-130.0],[34.0,-120.0]],
+  pacific_north: [[24.0,-112.0],[26.0,-114.0],[28.0,-116.5],[30.0,-118.0],[32.0,-119.0],[33.5,-118.5]],
+  pacific_asia: [[35.5,141.0],[37.0,145.0],[38.0,155.0],[39.0,165.0],[40.0,175.0],[40.5,-175.0],[40.0,-165.0],[39.0,-155.0],[37.0,-145.0],[35.0,-135.0],[34.0,-125.0],[33.8,-120.0]],
   pacific_south: [[34.0,-120.0],[30.0,-130.0],[25.0,-140.0],[15.0,-155.0],[5.0,-160.0],[-5.0,-165.0],[-15.0,-170.0],[-25.0,178.0],[-30.0,165.0],[-35.0,155.0],[-37.5,145.0]],
 
   // Australia
@@ -92,6 +92,7 @@ const LANE = {
   // US East Coast
   usec_coast: [[40.5,-73.5],[38.0,-75.0],[35.0,-76.0],[32.5,-80.0],[30.0,-81.5]],
   gulf_mexico: [[30.0,-81.5],[27.0,-84.0],[26.0,-88.0],[27.0,-93.0],[29.5,-94.5]],
+  caribbean_gulf: [[18.0,-75.0],[20.0,-80.0],[22.0,-84.0],[23.5,-86.0],[25.0,-88.0],[27.0,-92.0],[29.0,-94.0],[29.5,-94.5]],
 
   // Cape → Indian Ocean → Asia (eastbound)
   cape_indian_e: [[-34.8,18.5],[-33.0,25.0],[-30.0,35.0],[-25.0,45.0],[-18.0,55.0],[-10.0,65.0],[-5.0,75.0],[0.0,85.0],[3.0,93.0],[6.0,95.0]],
@@ -113,7 +114,8 @@ const ROUTES = [
   {from:['SIN','TPP'],to:['DXB'],via:['malacca','indian_east','indian_central','hormuz_indian','!hormuz_indian','hormuz']},
 
   // Europe ↔ US East Coast (Trans-Atlantic)
-  {from:['RTM','HAM','ANT','FEL','LEH'],to:['NYC','SAV','HOU'],via:['english_north','!english_north','biscay_english','!biscay_english','atlantic_europe','!atlantic_europe','n_atlantic','!n_atlantic','atlantic_usec','usec_coast','gulf_mexico']},
+  {from:['RTM','HAM','ANT','FEL','LEH'],to:['NYC','SAV'],via:['english_north','!english_north','biscay_english','!biscay_english','atlantic_europe','!atlantic_europe','n_atlantic','!n_atlantic','atlantic_usec','usec_coast']},
+  {from:['RTM','HAM','ANT','FEL','LEH'],to:['HOU'],via:['english_north','!english_north','biscay_english','!biscay_english','atlantic_europe','!atlantic_europe','n_atlantic','!n_atlantic','atlantic_usec','caribbean_gulf']},
 
   // Middle East → Europe
   {from:['DXB','JED'],to:['RTM','HAM','PIR','ALG'],via:['hormuz','hormuz_indian','gulf_aden','bab_mandeb','red_sea','suez_med','med_east','med_central','med_west','gibraltar_biscay','biscay_english','english_north']},
@@ -134,8 +136,10 @@ const ROUTES = [
   {from:['MUM','CMB'],to:['SIN','HKG','SHA'],via:['indian_mumbai','!indian_mumbai','indian_east','!indian_east','malacca','!malacca','south_china_sea']},
 
   // Panama route
-  {from:['NYC','SAV'],to:['LAX','VAN'],via:['usec_coast','!usec_coast','!gulf_mexico','caribbean','panama_pacific','pacific_north']},
-  {from:['LAX'],to:['NYC','SAV'],via:['!pacific_north','panama_pacific','!panama_pacific','caribbean','!caribbean','atlantic_usec','!atlantic_usec','usec_coast']},
+  {from:['NYC','SAV'],to:['LAX','VAN'],via:['!usec_coast','!gulf_mexico','caribbean','panama_pacific','pacific_north']},
+  {from:['LAX'],to:['NYC','SAV'],via:['!pacific_north','!panama_pacific','caribbean','!caribbean','atlantic_usec','usec_coast']},
+  {from:['LAX'],to:['HOU'],via:['!pacific_north','!panama_pacific','caribbean_gulf']},
+  {from:['SIN','HKG','SHA','BUS'],to:['HOU'],via:['south_china_sea','malacca','indian_east','indian_central','indian_west','gulf_aden','bab_mandeb','red_sea','suez_med','med_east','med_central','med_west','gibraltar_biscay','atlantic_europe','!atlantic_europe','n_atlantic','atlantic_usec','caribbean_gulf']},
 ];
 
 // ── Build full waypoint chain for a route ──
@@ -304,7 +308,7 @@ function updateFleet(vessels,hours){
     }
 
     v.track.push([v.lon,v.lat,now]);
-    if(v.track.length>72) v.track=v.track.slice(-72);
+    if(v.track.length>24) v.track=v.track.slice(-24);
   }
   return vessels;
 }
