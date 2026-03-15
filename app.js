@@ -780,6 +780,9 @@ function renderAISNative() {
           '<div style="font-size:10px; color:#999; margin-bottom:4px;">MMSI ' + p.mmsi + ' · ' + p.type + '</div>' +
           '<div style="border-top:1px solid #eee; padding-top:4px;">⚓ ' + p.origin + ' → ' + p.destination + '</div>' +
           '<div>🧭 HDG ' + p.heading + '° · SOG ' + p.speed + ' kn</div>' +
+          '<div style="margin-top:6px; border-top:1px solid #eee; padding-top:6px;">' +
+          '<button onclick="openVDR(\'' + p.name.replace(/'/g,"\\'") + '\', \'' + p.mmsi + '\', \'' + p.type + '\', \'' + (p.origin||'').replace(/'/g,"\\'") + '\', \'' + (p.destination||'').replace(/'/g,"\\'") + '\', ' + p.heading + ', ' + p.speed + ')" style="width:100%;padding:6px 0;background:#16a34a;color:#fff;border:none;border-radius:4px;font-size:11px;font-weight:700;cursor:pointer;letter-spacing:1px;">🖥 Shore VDR Playback</button>' +
+          '</div>' +
           '</div>'
         )
         .addTo(map);
@@ -1261,6 +1264,48 @@ function dismissHeadlines() {
     setTimeout(function() {
       overlay.classList.remove('show', 'dismiss');
     }, 600);
+  }
+}
+
+// ── Shore VDR Modal ──
+function openVDR(name, mmsi, type, origin, destination, hdg, sog) {
+  // Close AIS popup
+  if (aisPopup) { aisPopup.remove(); aisPopup = null; }
+
+  // Remove existing modal if any
+  var old = document.getElementById('vdr-modal');
+  if (old) old.remove();
+
+  // Create fullscreen modal
+  var modal = document.createElement('div');
+  modal.id = 'vdr-modal';
+  modal.style.cssText = 'position:fixed;top:0;left:0;width:100vw;height:100vh;z-index:9999;background:rgba(0,0,0,0.85);display:flex;flex-direction:column;animation:vdrFadeIn 0.3s ease;';
+
+  // Close button bar
+  var topBar = document.createElement('div');
+  topBar.style.cssText = 'height:32px;background:#064e3b;display:flex;align-items:center;justify-content:space-between;padding:0 12px;flex-shrink:0;';
+  topBar.innerHTML = '<span style="color:#4ade80;font-size:11px;font-weight:600;letter-spacing:1px;">🖥 Shore VDR — ' + name + ' (MMSI ' + mmsi + ')</span>' +
+    '<button onclick="closeVDR()" style="background:rgba(255,255,255,0.1);border:none;color:#fff;padding:4px 12px;border-radius:4px;cursor:pointer;font-size:11px;">✕ Close</button>';
+  modal.appendChild(topBar);
+
+  // iframe to shore-vdr.html
+  var iframe = document.createElement('iframe');
+  iframe.src = 'shore-vdr.html';
+  iframe.style.cssText = 'flex:1;border:none;width:100%;background:#f4f7f5;';
+  modal.appendChild(iframe);
+
+  document.body.appendChild(modal);
+
+  // ESC key to close
+  modal._escHandler = function(e) { if (e.key === 'Escape') closeVDR(); };
+  document.addEventListener('keydown', modal._escHandler);
+}
+
+function closeVDR() {
+  var modal = document.getElementById('vdr-modal');
+  if (modal) {
+    if (modal._escHandler) document.removeEventListener('keydown', modal._escHandler);
+    modal.remove();
   }
 }
 

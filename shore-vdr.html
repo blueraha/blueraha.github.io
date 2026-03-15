@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>e-VDR Shore Cloud Playback — EVER MAX</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;600;700&family=JetBrains+Mono:wght@400;700&display=swap');
+*{box-sizing:border-box;margin:0;padding:0}::-webkit-scrollbar{width:3px}::-webkit-scrollbar-thumb{background:#c5d5ca;border-radius:3px}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+body{font-family:'IBM Plex Sans','Noto Sans KR',sans-serif;background:#f4f7f5;color:#1a2e23;height:100vh;display:flex;flex-direction:column;overflow:hidden}
+.mono{font-family:'JetBrains Mono',monospace}
+.hdr{height:38px;background:linear-gradient(90deg,#064e3b,#065f46,#064e3b);display:flex;align-items:center;justify-content:space-between;padding:0 14px;border-bottom:2px solid #16a34a;flex-shrink:0}
+.hdr .left,.hdr .right{display:flex;align-items:center}.hdr .left{gap:6px}.hdr .right{gap:10px;font-size:9px;color:#6ee7b7}
+.logo{width:22px;height:22px;border-radius:3px;background:#16a34a;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:800;color:#fff}
+.ev-bar{height:34px;background:#fff;border-bottom:1px solid #e2ece5;display:flex;align-items:center;padding:0 10px;gap:4px;flex-shrink:0;overflow-x:auto}
+.ev-chip{display:flex;align-items:center;gap:4px;padding:3px 10px;border-radius:14px;font-size:8px;font-weight:600;cursor:pointer;white-space:nowrap;transition:all .15s;border:1.5px solid transparent;flex-shrink:0}
+.ev-chip:hover{filter:brightness(.95)}.ev-chip.on{border-color:#1a2e23;box-shadow:0 0 0 2px rgba(22,163,74,.2)}
+.ev-chip .d{width:6px;height:6px;border-radius:50%;flex-shrink:0}
+.ev-chip .tm{font-family:'JetBrains Mono',monospace;font-size:7px;opacity:.7}
+.ec-d{background:#fef2f2;color:#dc2626}.ec-w{background:#fffbeb;color:#b45309}.ec-i{background:#f0fdf4;color:#15803d}
+.body{flex:1;display:flex;gap:3px;padding:3px;overflow:hidden;min-height:0}
+.col{display:flex;flex-direction:column;gap:3px;min-height:0}.c1{flex:0 0 35%}.c2{flex:0 0 33%}.c3{flex:0 0 32%}
+.cd{background:#fff;border-radius:6px;padding:7px;border:1px solid #e2ece5;display:flex;flex-direction:column;min-height:0;overflow:hidden}
+.cl{font-size:8px;color:#4a6b52;font-weight:600;letter-spacing:.5px;margin-bottom:3px;flex-shrink:0;display:flex;justify-content:space-between;align-items:center}
+.mv{flex:1;border-radius:4px;overflow:hidden;position:relative;min-height:0;background:#0a0a0a}
+.mv img,.mv video{width:100%;height:100%;object-fit:cover;display:block}
+.rc{display:flex;align-items:center;gap:3px;background:#fef2f2;padding:1px 6px;border-radius:8px}
+.rc .dt{width:4px;height:4px;border-radius:50%;background:#ef4444;animation:pulse 1.5s infinite}
+.rc span{font-size:6.5px;color:#dc2626;font-weight:600}
+.gg{display:grid;grid-template-columns:1fr 1fr 1fr;gap:2px;align-content:center}
+.g{text-align:center;padding:2px 0}.g .l{font-size:6.5px;color:#6b8f74;text-transform:uppercase;font-weight:500}
+.g .v{font-size:14px;font-weight:700;color:#1a2e23;font-family:'JetBrains Mono',monospace;line-height:1}.g .v.w{color:#dc2626}
+.g .u{font-size:6px;color:#a3bfab}
+.vc{flex:1;border-radius:6px;padding:6px 8px;display:flex;flex-direction:column;border:1px solid #e2ece5;min-height:0;overflow:hidden}
+.vc.vhf{background:#fafcff}.vc.brg{background:#fffcf5}
+.vh{display:flex;justify-content:space-between;align-items:center;margin-bottom:3px;flex-shrink:0}
+.vh .t{display:flex;align-items:center;gap:4px;font-size:8px;color:#4a6b52;font-weight:600}
+.st{font-size:6px;color:#6b8f74;background:#f0fdf4;padding:0 4px;border-radius:3px;border:1px solid #d1ddd5}
+.vb{flex:1;overflow:auto;display:flex;flex-direction:column;gap:2px;min-height:0}
+.vl{font-size:8.5px;line-height:1.4;padding:2px 0;border-bottom:1px solid #f0f5f1}
+.tw{flex-shrink:0;background:#fff;border-top:1px solid #d1ddd5;padding:5px 12px 8px}
+.th{display:flex;justify-content:space-between;align-items:center;margin-bottom:4px}
+.tt{font-family:'JetBrains Mono',monospace;font-size:15px;font-weight:700;color:#16a34a;letter-spacing:2px}
+.tk{height:20px;background:#f0f5f1;border-radius:3px;position:relative;cursor:pointer;border:1px solid #d1ddd5;overflow:hidden}
+.tp{position:absolute;left:0;top:0;bottom:0;background:linear-gradient(90deg,#dcfce7,#86efac);opacity:.4;pointer-events:none;z-index:2}
+.thd{position:absolute;top:-1px;width:2.5px;height:22px;background:#16a34a;border-radius:1px;transform:translateX(-50%);box-shadow:0 0 5px rgba(22,163,74,.3);z-index:3;pointer-events:none}
+.twn{position:absolute;top:0;bottom:0;z-index:1;display:none}
+.ti{position:absolute;top:0;bottom:0;width:1px;background:#dce6de}
+.ti span{position:absolute;bottom:-9px;left:50%;transform:translateX(-50%);font-size:6px;color:#6b8f74}
+.td{height:14px;position:relative;margin-bottom:2px}
+.tdt{position:absolute;transform:translateX(-50%);cursor:pointer;text-align:center}
+.btn{border:none;border-radius:4px;cursor:pointer;font-weight:600}
+.bg{background:#16a34a;color:#fff;padding:3px 10px;font-size:9px}.bo{background:#f0f5f1;color:#4a6b52;border:1px solid #d1ddd5;padding:3px 7px;font-size:8px}
+.bw{display:none;align-items:center;gap:4px;margin-right:5px}
+.ac{font-size:6.5px;padding:1px 5px;border-radius:5px;font-weight:600}
+</style>
+</head>
+<body>
+<div class="hdr"><div class="left"><div class="logo">E</div><span style="font-size:13px;font-weight:700;color:#4ade80;letter-spacing:2px">e-VDR</span><span style="font-size:10px;font-weight:300;color:#a7f3d0">Shore Cloud Playback</span><span style="background:rgba(255,255,255,.08);padding:1px 7px;border-radius:7px;font-size:7.5px;color:#86efac;font-weight:600">SHORE</span></div><div class="right"><span style="color:#a7f3d0">🇵🇦 <b style="color:#fff;font-size:11px">EVER MAX</b></span><span>IMO 9919087</span><span>Yantian → Rotterdam</span><span style="color:#34d399;font-size:8px">400m×61.5m</span><div style="display:flex;align-items:center;gap:2px"><div style="width:5px;height:5px;border-radius:50%;background:#4ade80;box-shadow:0 0 6px #4ade80"></div><span style="color:#4ade80;font-size:8px;font-weight:700">LIVE</span></div></div></div>
+<div class="ev-bar" id="eb"></div>
+<div class="body">
+<div class="col c1">
+  <div class="cd" style="flex:1 1 45%"><div class="cl"><span>S-VISION / FRONT CAMERA</span><div class="rc"><div class="dt"></div><span>REC · Starlink</span></div></div><div class="mv"><video src="front_cam.mp4" muted loop autoplay playsinline></video><div style="position:absolute;top:6px;left:8px;border:1px dashed #22c55e;width:42px;height:30px;border-radius:2px"></div><div style="position:absolute;top:1px;left:8px;font-size:7px;color:#22c55e;background:rgba(0,0,0,.4);padding:0 3px;border-radius:2px">F/V 1.8NM</div><div id="ci" style="position:absolute;bottom:4px;left:6px;font-size:7px;color:rgba(255,255,255,.7);text-shadow:0 1px 2px rgba(0,0,0,.5)"></div></div></div>
+  <div class="cd" style="flex:1 1 28%"><div class="cl"><span>ECDIS</span><span style="font-size:6.5px;color:#a3bfab">26°46'N 121°59'E</span></div><div class="mv"><img src="ecdis_.png" style="object-fit:contain;background:#dde8d8"/></div></div>
+  <div class="cd" style="flex:1 1 27%"><div class="cl"><span>RADAR</span><span style="font-size:6.5px;color:#a3bfab">12.39NM North-Up</span></div><div class="mv" style="background:#111"><img src="radar.png" style="object-fit:contain"/></div></div>
+</div>
+<div class="col c2">
+  <div class="cd" style="flex:1 1 48%"><div class="cl"><span>VESSEL STATUS 2.5D</span><div id="ac" style="display:flex;gap:2px"></div></div><div style="flex:1;min-height:0"><svg id="ss" viewBox="0 0 400 140" width="100%" height="100%"><defs><linearGradient id="hg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#e8eeea"/><stop offset="100%" stop-color="#d5dfd8"/></linearGradient></defs><rect x="0" y="100" width="400" height="40" fill="#dbeafe" opacity=".15"/><path d="M40 95 L55 60 L330 60 L348 80 L344 97 Q310 104 195 104 Q85 104 44 97Z" fill="url(#hg)" stroke="#b0c4b5" stroke-width=".7"/><rect id="sb" x="280" y="33" width="42" height="27" rx="2" fill="#f0fdf4" stroke="#86efac" stroke-width=".6"/><rect x="283" y="36" width="36" height="8" rx="1" fill="#dcfce7"/><text x="301" y="53" text-anchor="middle" id="sbt" fill="#16a34a" font-size="4.5" font-weight="600">BRIDGE</text><circle id="sbw" cx="326" cy="35" r="2.5" fill="#ef4444" style="display:none"><animate attributeName="opacity" values="1;.2;1" dur=".8s" repeatCount="indefinite"/></circle><rect x="85" y="46" width="18" height="14" rx="1" fill="#16a34a" stroke="#fff" stroke-width=".2" opacity=".7"/><rect x="108" y="46" width="18" height="14" rx="1" fill="#15803d" stroke="#fff" stroke-width=".2" opacity=".7"/><rect x="131" y="46" width="18" height="14" rx="1" fill="#166534" stroke="#fff" stroke-width=".2" opacity=".7"/><rect x="154" y="46" width="18" height="14" rx="1" fill="#22c55e" stroke="#fff" stroke-width=".2" opacity=".7"/><rect x="177" y="46" width="18" height="14" rx="1" fill="#16a34a" stroke="#fff" stroke-width=".2" opacity=".7"/><rect x="200" y="46" width="18" height="14" rx="1" fill="#15803d" stroke="#fff" stroke-width=".2" opacity=".7"/><rect x="226" y="46" width="18" height="14" rx="1" fill="#166534" stroke="#fff" stroke-width=".2" opacity=".7"/><rect x="255" y="46" width="18" height="14" rx="1" fill="#22c55e" stroke="#fff" stroke-width=".2" opacity=".7"/><rect x="85" y="34" width="18" height="12" rx="1" fill="#15803d" stroke="#fff" stroke-width=".2" opacity=".45"/><rect x="108" y="34" width="18" height="12" rx="1" fill="#166534" stroke="#fff" stroke-width=".2" opacity=".45"/><rect x="131" y="34" width="18" height="12" rx="1" fill="#22c55e" stroke="#fff" stroke-width=".2" opacity=".45"/><rect x="154" y="34" width="18" height="12" rx="1" fill="#16a34a" stroke="#fff" stroke-width=".2" opacity=".45"/><rect x="177" y="34" width="18" height="12" rx="1" fill="#15803d" stroke="#fff" stroke-width=".2" opacity=".45"/><rect id="se" x="118" y="68" width="50" height="24" rx="2" fill="#f0fdf4" stroke="#86efac" stroke-width=".4"/><text id="set" x="143" y="82" text-anchor="middle" fill="#15803d" font-size="4.5" font-weight="600">M/E 68RPM</text><circle id="sew" cx="172" cy="70" r="2" fill="#f59e0b" style="display:none"><animate attributeName="opacity" values="1;.2;1" dur=".7s" repeatCount="indefinite"/></circle><rect x="270" y="27" width="8" height="13" rx="1" fill="#16a34a"/><text x="195" y="78" text-anchor="middle" fill="#c0ccb5" font-size="5" font-weight="700" letter-spacing="2" opacity=".25">EVER MAX</text><text id="sdp" x="195" y="125" text-anchor="middle" fill="#93c5fd" font-size="4.5" opacity=".5"></text><text x="48" y="90" fill="#b0c4b5" font-size="4">BOW</text><text x="338" y="93" fill="#b0c4b5" font-size="4">STERN</text></svg></div></div>
+  <div style="display:flex;gap:3px;flex:0 0 22%"><div class="cd" style="padding:4px;display:flex;align-items:center;justify-content:center;flex:0 0 auto"><div style="text-align:center"><svg width="72" height="72" viewBox="0 0 72 72"><circle cx="36" cy="36" r="32" fill="#f7f9f8" stroke="#d0ddd3" stroke-width="1"/><line x1="36" y1="8" x2="36" y2="4" stroke="#16a34a" stroke-width="1.2"/><line x1="68" y1="36" x2="64" y2="36" stroke="#16a34a" stroke-width="1.2"/><line x1="36" y1="64" x2="36" y2="68" stroke="#16a34a" stroke-width="1.2"/><line x1="4" y1="36" x2="8" y2="36" stroke="#16a34a" stroke-width="1.2"/><text x="36" y="18" text-anchor="middle" fill="#dc2626" font-size="7" font-weight="700">N</text><text x="55" y="39" text-anchor="middle" fill="#6b8f74" font-size="7" font-weight="700">E</text><text x="36" y="60" text-anchor="middle" fill="#6b8f74" font-size="7" font-weight="700">S</text><text x="17" y="39" text-anchor="middle" fill="#6b8f74" font-size="7" font-weight="700">W</text><polygon id="cn" points="36,8 33,36 39,36" fill="#16a34a" opacity=".85"/><circle cx="36" cy="36" r="2" fill="#16a34a"/></svg><div class="mono" style="font-size:11px;font-weight:700;color:#16a34a;margin-top:1px" id="ht">285.0°</div></div></div><div class="cd" style="flex:1"><div class="gg"><div class="g"><div class="l">SOG</div><div class="v" id="gs">16.8</div><div class="u">kts</div></div><div class="g"><div class="l">RPM</div><div class="v" id="gr">68</div><div class="u">rev</div></div><div class="g"><div class="l">Wind</div><div class="v" id="gw">9.2</div><div class="u">m/s</div></div><div class="g"><div class="l">Rudder</div><div class="v" id="gu">0.0</div><div class="u">°</div></div><div class="g"><div class="l">Depth</div><div class="v" id="gd">3200</div><div class="u">m</div></div><div class="g"><div class="l">Roll</div><div class="v" id="go">0.0</div><div class="u">°</div></div></div></div></div>
+  <div class="cd" style="flex:1 1 30%"><div class="cl"><span>BRIDGE SIDE VIEW</span></div><div class="mv"><img src="camera.png" style="object-fit:cover"/></div></div>
+</div>
+<div class="col c3">
+  <div class="vc vhf"><div class="vh"><div class="t"><span style="font-size:11px">📻</span>VHF Ch.16 — External</div><div style="display:flex;align-items:center;gap:3px"><span class="st">LLM STT</span><div style="width:4px;height:4px;border-radius:50%;background:#2563eb;animation:pulse 2s infinite"></div></div></div><div class="vb" id="vb"></div></div>
+  <div class="vc brg"><div class="vh"><div class="t"><span style="font-size:11px">🎙</span>Bridge — Internal</div><div style="display:flex;align-items:center;gap:3px"><span class="st">LLM STT</span><div style="width:4px;height:4px;border-radius:50%;background:#b45309;animation:pulse 2s infinite"></div></div></div><div class="vb" id="bb"></div></div>
+</div></div>
+<div class="tw"><div class="th"><div style="display:flex;align-items:center;gap:8px"><span style="font-size:8px;color:#4a6b52;font-weight:600">TIMELINE</span><span class="tt" id="tm">10:00</span><span style="font-size:7px;color:#a3bfab">UTC</span></div><div style="display:flex;align-items:center;gap:3px"><div class="bw" id="bw"></div><button class="btn bg" id="bp" onclick="tp()">▶ PLAY</button><button class="btn bo" onclick="rs()">⟳</button><button class="btn bo">📥 FULL</button></div></div><div class="td" id="td"></div><div class="tk" id="tk" onclick="sk(event)"><div class="twn" id="tw"></div><div class="tp" id="tpr"></div><div class="thd" id="thd"></div></div><div id="lg" style="margin-top:3px"></div></div>
+<script>
+var E=[{m:127,t:"warn",l:"High Swell",d:"Sig. wave 3.8m — motion alert"},{m:342,t:"info",l:"Watch Change",d:"2/O took bridge watch"},{m:488,t:"warn",l:"Fog Signal",d:"Vis<2NM fog horn on"},{m:612,t:"danger",l:"CPA Alert",d:"CPA 0.3NM MV Ocean Star (TCPA 11min)"},{m:618,t:"info",l:"Auto-Nav",d:"Course altered 310°"},{m:635,t:"info",l:"CPA Clear",d:"Target passed safely"},{m:780,t:"warn",l:"M/E Temp",d:"Cyl#4 exhaust 425°C"},{m:960,t:"info",l:"Noon Report",d:"398NM · HFO 142MT"},{m:1080,t:"danger",l:"Blackout",d:"G/E trip — restored 42s"},{m:1200,t:"info",l:"Watch Change",d:"C/O took bridge watch"}];
+var VF=[{m:100,s:"VTS",x:"Ever Max, Singapore VTS. Report position."},{m:102,s:"SHIP",x:"VTS, pos 1°15'N 103°50'E, proceeding pilot stn."},{m:340,s:"VTS",x:"All stations. Fog warning sector 7."},{m:488,s:"SHIP",x:"VTS, fog encountered. Reducing to 12kn."},{m:490,s:"VTS",x:"Ever Max, roger. Maintain radar watch."},{m:610,s:"TGT",x:"Ever Max, Ocean Star port bow. Alter course."},{m:613,s:"SHIP",x:"Ocean Star, altering starboard. Pass astern."},{m:636,s:"SHIP",x:"VTS, clear of close quarters."},{m:780,s:"C/E",x:"Bridge, Cyl 4 exhaust temp rising."},{m:1080,s:"C/E",x:"Bridge — Blackout! Restoring!"},{m:1082,s:"C/E",x:"Power restored. Generator online."}];
+var BR=[{m:95,s:"Capt",x:"Call me if CPA < 2mi."},{m:96,s:"2/O",x:"Understood Captain."},{m:340,s:"2/O",x:"Helmsman, hand steering."},{m:487,s:"2/O",x:"Fog signal on. Reduce 12kn."},{m:609,s:"2/O",x:"Target 320°, 3mi closing. Calling Master."},{m:611,s:"Capt",x:"I have the con. Stbd twenty."},{m:612,s:"Helm",x:"Stbd twenty aye. 310."},{m:634,s:"Capt",x:"Target clear. Resume course."},{m:1080,s:"2/O",x:"Blackout! Emergency steering!"},{m:1083,s:"2/O",x:"Power restored. Check nav."}];
+var T=[];(function(){var h=285,s=16.8,r=68,w=9.2,d=3200,u=0,o=0;for(var i=0;i<1440;i++){h+=(Math.random()-.5)*.8;s=Math.max(14,Math.min(20,s+(Math.random()-.5)*.2));r=Math.max(55,Math.min(82,r+(Math.random()-.5)*1.5));w=Math.max(3,Math.min(22,w+(Math.random()-.5)*.6));d=Math.max(80,Math.min(5e3,d+(Math.random()-.5)*40));u=Math.max(-30,Math.min(30,u+(Math.random()-.5)*3));o=Math.max(-8,Math.min(8,o+(Math.random()-.5)*1.5));T.push({h:+h.toFixed(1),s:+s.toFixed(1),r:Math.round(r),w:+w.toFixed(1),d:Math.round(d),u:+u.toFixed(1),o:+o.toFixed(1)});}})();
+var c=600,p=false,sv=null,ti=null;
+function fm(m){return String(m/60|0).padStart(2,'0')+':'+String(m%60).padStart(2,'0');}
+function ec(t){return t==='danger'?'#ef4444':t==='warn'?'#f59e0b':'#16a34a';}function el(t){return t==='danger'?'#dc2626':t==='warn'?'#b45309':'#15803d';}function eb(t){return t==='danger'?'#fef2f2':t==='warn'?'#fffbeb':'#f0fdf4';}
+function sc(s,a){return s==='SHIP'||s==='2/O'?a:s==='Capt'?'#b45309':s==='C/E'||s==='TGT'?'#dc2626':'#4a6b52';}
+// Event bar
+(function(){var b=document.getElementById('eb');b.innerHTML='<span style="font-size:7px;color:#6b8f74;font-weight:600;letter-spacing:.5px;flex-shrink:0;margin-right:4px">EVENTS ▸</span>';E.forEach(function(e,i){var d=document.createElement('div');var cls=e.t==='danger'?'ec-d':e.t==='warn'?'ec-w':'ec-i';d.className='ev-chip '+cls;d.id='ec'+i;d.innerHTML='<div class="d" style="background:'+ec(e.t)+'"></div><span class="tm">'+fm(e.m)+'</span><span>'+e.l+'</span>';d.onclick=function(){sv=sv===i?null:i;c=e.m;R();};b.appendChild(d);});})();
+// Timeline dots
+(function(){var d=document.getElementById('td');E.forEach(function(e,i){var t=document.createElement('div');t.className='tdt';t.style.left=(e.m/1440*100)+'%';t.id='dt'+i;t.innerHTML='<div style="width:5px;height:5px;border-radius:50%;background:'+ec(e.t)+';border:1px solid #f8faf9;margin:0 auto"></div><div style="font-size:5px;color:'+el(e.t)+';white-space:nowrap;margin-top:1px">'+e.l+'</div>';t.onclick=function(){sv=sv===i?null:i;c=e.m;R();};d.appendChild(t);});var tk=document.getElementById('tk');[0,4,8,12,16,20,24].forEach(function(h){var t=document.createElement('div');t.className='ti';t.style.left=(h/24*100)+'%';t.innerHTML='<span>'+String(h).padStart(2,'0')+'</span>';tk.appendChild(t);});})();
+function rv(el,lg,ac){el.innerHTML='';var v=lg.filter(function(l){return l.m<=c;}).slice(-6).reverse();if(!v.length){el.innerHTML='<div style="font-size:8px;color:#b5c9bb;font-style:italic;padding:4px">Waiting for audio...</div>';return;}v.forEach(function(l,i){el.innerHTML+='<div class="vl" style="opacity:'+(i===0?1:Math.max(.2,.8-i*.13))+'"><span class="mono" style="font-size:6.5px;color:#a3bfab;margin-right:3px">'+fm(l.m)+'</span><span style="font-weight:700;font-size:7.5px;color:'+sc(l.s,ac)+';margin-right:2px">'+l.s+'</span><span style="color:#374151">'+l.x+'</span></div>';});}
+function R(){var d=T[Math.min(c,1439)];
+document.getElementById('gs').textContent=d.s.toFixed(1);document.getElementById('gr').textContent=d.r;document.getElementById('gr').className='v'+(d.r>78?' w':'');
+document.getElementById('gw').textContent=d.w.toFixed(1);document.getElementById('gw').className='v'+(d.w>15?' w':'');
+document.getElementById('gu').textContent=d.u.toFixed(1);document.getElementById('gd').textContent=d.d;
+document.getElementById('go').textContent=d.o.toFixed(1);document.getElementById('go').className='v'+(Math.abs(d.o)>5?' w':'');
+document.getElementById('cn').setAttribute('transform','rotate('+d.h+' 36 36)');document.getElementById('ht').textContent=d.h.toFixed(1)+'°';
+document.getElementById('ci').textContent='HDG '+d.h.toFixed(1)+'° · '+d.s.toFixed(1)+'kn · Starlink';
+var a=E.filter(function(e){return Math.abs(e.m-c)<15;});var bW=a.some(function(e){return e.l.includes('CPA')||e.l.includes('Fog');});var eW=d.r>78||a.some(function(e){return e.l.includes('M/E')||e.l.includes('Blackout');});
+document.getElementById('sb').setAttribute('fill',bW?'#fef2f2':'#f0fdf4');document.getElementById('sb').setAttribute('stroke',bW?'#ef4444':'#86efac');document.getElementById('sbt').setAttribute('fill',bW?'#dc2626':'#16a34a');document.getElementById('sbw').style.display=bW?'':'none';
+document.getElementById('se').setAttribute('fill',eW?'#fefce8':'#f0fdf4');document.getElementById('se').setAttribute('stroke',eW?'#f59e0b':'#86efac');document.getElementById('set').textContent='M/E '+d.r+'RPM';document.getElementById('set').setAttribute('fill',eW?'#b45309':'#15803d');document.getElementById('sew').style.display=eW?'':'none';
+document.getElementById('sdp').textContent='⏛ '+d.d+'m';
+var ch=document.getElementById('ac');ch.innerHTML='';a.forEach(function(e){ch.innerHTML+='<span class="ac" style="background:'+eb(e.t)+';color:'+el(e.t)+';border:1px solid '+ec(e.t)+'33">'+e.l+'</span>';});
+rv(document.getElementById('vb'),VF,'#2563eb');rv(document.getElementById('bb'),BR,'#b45309');
+document.getElementById('tm').textContent=fm(c);var pc=c/1440*100;document.getElementById('tpr').style.width=pc+'%';document.getElementById('thd').style.left=pc+'%';
+var w=document.getElementById('tw'),bw=document.getElementById('bw');
+if(sv!==null){var e=E[sv],s=Math.max(0,(e.m-5)/1440*100),en=Math.min(100,(e.m+5)/1440*100);w.style.display='block';w.style.left=s+'%';w.style.width=(en-s)+'%';w.style.background=e.t==='danger'?'rgba(239,68,68,.08)':e.t==='warn'?'rgba(245,158,11,.08)':'rgba(22,163,74,.06)';w.style.borderLeft='2px solid '+ec(e.t);w.style.borderRight='2px solid '+ec(e.t);
+bw.style.display='flex';bw.innerHTML='<span style="background:'+eb(e.t)+';color:'+el(e.t)+';padding:2px 7px;border-radius:4px;font-size:7.5px;font-weight:600;border:1px solid '+ec(e.t)+'33">📌 '+e.l+' ±5min</span><button class="btn bg" style="padding:1px 6px;font-size:7px" onclick="alert(\'Export '+fm(Math.max(0,e.m-5))+'~'+fm(Math.min(1439,e.m+5))+'\')">📥</button>';
+}else{w.style.display='none';bw.style.display='none';}
+E.forEach(function(_,i){var ec=document.getElementById('ec'+i);ec.classList.toggle('on',sv===i);});
+var lg=document.getElementById('lg');lg.innerHTML='';E.filter(function(e){return e.m<=c;}).slice(-2).reverse().forEach(function(e,i){lg.innerHTML+='<div style="font-size:7.5px;display:flex;gap:4px;opacity:'+(i===0?1:.35)+';color:'+el(e.t)+';margin-bottom:1px"><span class="mono" style="color:#a3bfab;font-size:7px">['+fm(e.m)+']</span><span style="font-weight:'+(i===0?600:400)+'">'+e.d+'</span></div>';});}
+function tp(){p=!p;var b=document.getElementById('bp');if(p){b.textContent='❚❚';b.className='btn bo';ti=setInterval(function(){c++;if(c>=1439){c=1439;tp();}R();},400);}else{b.textContent='▶ PLAY';b.className='btn bg';clearInterval(ti);}}
+function rs(){c=0;if(p)tp();sv=null;R();}
+function sk(e){var r=document.getElementById('tk').getBoundingClientRect();c=Math.round((e.clientX-r.left)/r.width*1440);c=Math.max(0,Math.min(1439,c));R();}
+R();
+</script>
+</body></html>
