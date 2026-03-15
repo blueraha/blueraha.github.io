@@ -1,161 +1,176 @@
 // ═══════════════════════════════════════════════════════════════
-// simulate-ais.js v2.0 — Maritime Route AIS Fleet Simulator
-// 100 vessels on realistic ocean routes with waypoints
+// simulate-ais.js v3.0 — Realistic Ocean Route AIS Simulator
+// Dense waypoint chains along real shipping lanes
 // ═══════════════════════════════════════════════════════════════
 
 const fs = require('fs');
 const path = require('path');
-
 const STATE_PATH = path.join(__dirname, 'ais-state.json');
 const OUTPUT_PATH = path.join(__dirname, '..', 'ais-data.json');
 
-// ── Ports ──
-const PORTS = [
-  {id:"SIN",name:"Singapore",lat:1.26,lon:103.84,region:"SEA"},
-  {id:"SHA",name:"Shanghai",lat:31.23,lon:121.47,region:"EA"},
-  {id:"BUS",name:"Busan",lat:35.10,lon:129.04,region:"EA"},
-  {id:"RTM",name:"Rotterdam",lat:51.90,lon:4.50,region:"EU"},
-  {id:"HAM",name:"Hamburg",lat:53.55,lon:9.99,region:"EU"},
-  {id:"DXB",name:"Dubai",lat:25.27,lon:55.30,region:"ME"},
-  {id:"HKG",name:"Hong Kong",lat:22.30,lon:114.17,region:"EA"},
-  {id:"LAX",name:"Los Angeles",lat:33.74,lon:-118.27,region:"USWC"},
-  {id:"NYC",name:"New York",lat:40.67,lon:-74.02,region:"USEC"},
-  {id:"YOK",name:"Yokohama",lat:35.44,lon:139.64,region:"EA"},
-  {id:"KHH",name:"Kaohsiung",lat:22.62,lon:120.30,region:"EA"},
-  {id:"ANT",name:"Antwerp",lat:51.23,lon:4.40,region:"EU"},
-  {id:"FEL",name:"Felixstowe",lat:51.96,lon:1.33,region:"EU"},
-  {id:"JED",name:"Jeddah",lat:21.49,lon:39.19,region:"ME"},
-  {id:"MUM",name:"Mumbai",lat:19.00,lon:72.87,region:"SA"},
-  {id:"CMB",name:"Colombo",lat:6.94,lon:79.85,region:"SA"},
-  {id:"CPT",name:"Cape Town",lat:-33.92,lon:18.42,region:"AF"},
-  {id:"SAN",name:"Santos",lat:-23.95,lon:-46.30,region:"SA_AM"},
-  {id:"PAN",name:"Panama Canal",lat:9.08,lon:-79.68,region:"CA"},
-  {id:"SUE",name:"Suez",lat:29.97,lon:32.55,region:"ME"},
-  {id:"PIR",name:"Piraeus",lat:37.94,lon:23.65,region:"EU"},
-  {id:"ALG",name:"Algeciras",lat:36.13,lon:-5.44,region:"EU"},
-  {id:"VAN",name:"Vancouver",lat:49.29,lon:-123.11,region:"USWC"},
-  {id:"MEL",name:"Melbourne",lat:-37.82,lon:144.96,region:"OC"},
-  {id:"DUR",name:"Durban",lat:-29.87,lon:31.03,region:"AF"},
-  {id:"HOU",name:"Houston",lat:29.76,lon:-95.07,region:"USEC"},
-  {id:"SAV",name:"Savannah",lat:32.08,lon:-81.09,region:"USEC"},
-  {id:"LEH",name:"Le Havre",lat:49.49,lon:0.11,region:"EU"},
-  {id:"TPP",name:"Tanjung Pelepas",lat:1.36,lon:103.55,region:"SEA"},
-  {id:"QIN",name:"Qingdao",lat:36.07,lon:120.38,region:"EA"}
-];
+// ── PORTS ──
+const P = {
+  SIN:{lat:1.26,lon:103.84},SHA:{lat:31.23,lon:121.47},BUS:{lat:35.10,lon:129.04},
+  RTM:{lat:51.90,lon:4.50},HAM:{lat:53.55,lon:9.99},DXB:{lat:25.27,lon:55.30},
+  HKG:{lat:22.30,lon:114.17},LAX:{lat:33.74,lon:-118.27},NYC:{lat:40.67,lon:-74.02},
+  YOK:{lat:35.44,lon:139.64},KHH:{lat:22.62,lon:120.30},ANT:{lat:51.23,lon:4.40},
+  FEL:{lat:51.96,lon:1.33},JED:{lat:21.49,lon:39.19},MUM:{lat:19.00,lon:72.87},
+  CMB:{lat:6.94,lon:79.85},CPT:{lat:-33.92,lon:18.42},SAN:{lat:-23.95,lon:-46.30},
+  PAN:{lat:9.08,lon:-79.68},SUE:{lat:29.97,lon:32.55},PIR:{lat:37.94,lon:23.65},
+  ALG:{lat:36.13,lon:-5.44},VAN:{lat:49.29,lon:-123.11},MEL:{lat:-37.82,lon:144.96},
+  DUR:{lat:-29.87,lon:31.03},HOU:{lat:29.76,lon:-95.07},SAV:{lat:32.08,lon:-81.09},
+  LEH:{lat:49.49,lon:0.11},TPP:{lat:1.36,lon:103.55},QIN:{lat:36.07,lon:120.38}
+};
+const PORTS = Object.keys(P).map(k => ({id:k,...P[k]}));
 
-// ── Ocean Waypoints (chokepoints & sea lanes) ──
-const WP = {
-  malacca_w:  {lat:5.50, lon:95.50},   // Malacca Strait west entry
-  malacca_e:  {lat:1.30, lon:104.00},   // Malacca Strait east
-  indian_w:   {lat:8.00, lon:77.00},    // South India
-  indian_c:   {lat:5.00, lon:65.00},    // Central Indian Ocean
-  arabian:    {lat:13.00, lon:50.00},   // Gulf of Aden
-  bab:        {lat:12.60, lon:43.30},   // Bab el-Mandeb
-  red_sea_n:  {lat:27.50, lon:34.00},   // North Red Sea
-  suez_s:     {lat:29.90, lon:32.55},   // Suez south
-  med_e:      {lat:34.00, lon:28.00},   // East Mediterranean
-  med_c:      {lat:36.00, lon:16.00},   // Central Mediterranean
-  gibraltar:  {lat:36.00, lon:-5.50},   // Gibraltar
-  biscay:     {lat:45.00, lon:-5.00},   // Bay of Biscay
-  english:    {lat:50.00, lon:-1.00},   // English Channel
-  north_sea:  {lat:52.00, lon:3.00},    // North Sea
-  cape_good:  {lat:-34.50, lon:18.50},  // Cape of Good Hope
-  cape_ag:    {lat:-35.00, lon:20.00},  // Cape Agulhas
-  s_atlantic: {lat:-25.00, lon:-10.00}, // South Atlantic
-  w_africa:   {lat:5.00, lon:-10.00},   // West Africa
-  c_atlantic: {lat:20.00, lon:-40.00},  // Central Atlantic
-  n_atlantic: {lat:40.00, lon:-50.00},  // North Atlantic
-  caribbean:  {lat:15.00, lon:-70.00},  // Caribbean
-  panama_e:   {lat:9.30, lon:-79.50},   // Panama east
-  panama_w:   {lat:8.50, lon:-80.00},   // Panama west
-  e_pacific:  {lat:15.00, lon:-110.00}, // East Pacific
-  n_pacific:  {lat:35.00, lon:-150.00}, // North Pacific mid
-  w_pacific:  {lat:20.00, lon:140.00},  // West Pacific
-  nw_pacific: {lat:35.00, lon:145.00},  // NW Pacific (Japan east)
-  se_asia:    {lat:5.00, lon:110.00},   // South China Sea south
-  scs_n:      {lat:18.00, lon:115.00},  // South China Sea north
-  taiwan_s:   {lat:22.00, lon:120.50},  // Taiwan Strait south
-  korea_s:    {lat:34.00, lon:128.00},  // Korea Strait
-  aus_sw:     {lat:-35.00, lon:115.00}, // SW Australia
-  aus_se:     {lat:-38.00, lon:145.00}, // SE Australia
-  hormuz:     {lat:26.50, lon:56.50},   // Strait of Hormuz
-  s_indian:   {lat:-20.00, lon:60.00},  // South Indian Ocean
-  brazil_e:   {lat:-20.00, lon:-35.00}, // Brazil east coast
+// ── SHIPPING LANES (dense waypoint chains on ocean) ──
+// Each lane is an array of [lat,lon] that stays strictly in water
+
+const LANE = {
+  // East Asia coastal
+  korea_japan: [[35.0,129.5],[34.5,133.0],[34.0,137.0],[34.5,139.5]],
+  japan_pacific: [[35.5,140.0],[36.0,142.0],[37.0,145.0]],
+  china_coast: [[36.0,121.5],[31.5,122.5],[28.0,122.0],[25.0,120.0],[22.5,118.0]],
+  taiwan_strait: [[25.0,120.0],[23.0,119.5],[22.0,118.5]],
+  south_china_sea: [[22.0,114.5],[18.0,114.0],[14.0,112.0],[10.0,109.0],[7.0,106.0],[4.0,105.0],[2.0,104.5]],
+
+  // Malacca Strait
+  malacca: [[1.5,104.0],[2.5,102.0],[4.0,99.5],[5.5,97.0],[6.0,95.0]],
+
+  // Indian Ocean
+  indian_east: [[6.0,95.0],[5.0,88.0],[5.5,82.0],[6.5,80.0]],
+  indian_central: [[6.5,80.0],[5.0,73.0],[4.0,65.0],[5.0,58.0]],
+  indian_west: [[5.0,58.0],[8.0,52.0],[12.0,45.0]],
+  indian_mumbai: [[6.5,80.0],[8.0,76.0],[12.0,74.0],[16.0,73.0],[19.0,72.5]],
+
+  // Gulf of Aden → Red Sea → Suez
+  gulf_aden: [[12.0,45.0],[12.5,44.0],[12.8,43.5]],
+  bab_mandeb: [[12.8,43.5],[13.5,43.0],[14.5,42.0]],
+  red_sea: [[14.5,42.0],[17.0,40.5],[20.0,38.5],[23.0,36.5],[26.0,34.5],[28.0,33.5],[30.0,32.6]],
+  suez_med: [[30.0,32.6],[31.0,32.3],[31.5,32.0]],
+
+  // Mediterranean
+  med_east: [[31.5,32.0],[33.0,30.0],[34.5,28.0],[35.5,25.0],[36.0,22.0]],
+  med_central: [[36.0,22.0],[37.0,18.0],[37.5,15.0],[38.0,12.0],[37.5,8.0]],
+  med_west: [[37.5,8.0],[37.0,3.0],[36.5,0.0],[36.2,-3.0],[36.0,-5.3]],
+
+  // Gibraltar → Atlantic → North Europe
+  gibraltar_biscay: [[36.0,-5.5],[37.0,-8.0],[39.0,-10.0],[42.0,-10.0],[44.0,-6.0],[46.0,-4.0]],
+  biscay_english: [[46.0,-4.0],[48.0,-5.0],[49.0,-4.0],[49.5,-2.0],[50.0,0.0]],
+  english_north: [[50.0,0.0],[51.0,1.5],[51.5,2.5],[52.0,3.5],[52.5,4.0]],
+
+  // Persian Gulf
+  hormuz: [[25.3,55.5],[26.0,56.5],[26.5,57.0]],
+  hormuz_indian: [[26.5,57.0],[24.0,60.0],[20.0,62.0],[15.0,58.0],[12.0,50.0],[12.0,45.0]],
+
+  // Cape of Good Hope route
+  durban_cape: [[-30.0,31.5],[-33.0,28.0],[-34.5,22.0],[-34.8,18.5]],
+  cape_atlantic: [[-34.8,18.5],[-33.0,10.0],[-28.0,0.0],[-20.0,-10.0],[-10.0,-15.0]],
+  w_africa_up: [[-10.0,-15.0],[0.0,-10.0],[10.0,-18.0],[20.0,-20.0]],
+
+  // South Atlantic
+  brazil_atlantic: [[-24.0,-44.0],[-20.0,-35.0],[-15.0,-25.0],[-10.0,-15.0]],
+
+  // North Atlantic
+  n_atlantic: [[20.0,-20.0],[30.0,-35.0],[35.0,-45.0],[40.0,-50.0],[42.0,-55.0]],
+  atlantic_usec: [[42.0,-55.0],[41.0,-65.0],[40.0,-72.0]],
+  atlantic_europe: [[42.0,-55.0],[45.0,-40.0],[48.0,-20.0],[49.0,-5.0],[50.0,0.0]],
+
+  // Caribbean / Panama
+  caribbean: [[40.0,-72.0],[35.0,-75.0],[30.0,-80.0],[25.0,-80.0],[18.0,-75.0],[15.0,-70.0],[12.0,-68.0],[10.0,-75.0],[9.5,-79.5]],
+  panama_pacific: [[9.0,-79.8],[8.0,-82.0],[8.0,-85.0],[10.0,-90.0]],
+
+  // Trans-Pacific
+  pacific_north: [[10.0,-90.0],[15.0,-110.0],[20.0,-130.0],[25.0,-140.0],[30.0,-145.0],[33.0,-135.0],[34.0,-120.0]],
+  pacific_asia: [[37.0,145.0],[38.0,160.0],[40.0,170.0],[42.0,180.0],[42.0,-170.0],[40.0,-160.0],[38.0,-150.0],[35.0,-140.0],[33.0,-130.0],[34.0,-120.0]],
+  pacific_south: [[34.0,-120.0],[30.0,-130.0],[25.0,-140.0],[15.0,-155.0],[5.0,-160.0],[-5.0,-165.0],[-15.0,-170.0],[-25.0,178.0],[-30.0,165.0],[-35.0,155.0],[-37.5,145.0]],
+
+  // Australia
+  aus_approach: [[-20.0,115.0],[-25.0,113.0],[-30.0,114.0],[-34.0,118.0],[-36.0,130.0],[-38.0,142.0],[-37.8,145.0]],
+  aus_indian: [[6.0,95.0],[0.0,95.0],[-5.0,97.0],[-10.0,100.0],[-15.0,108.0],[-20.0,115.0]],
+
+  // US East Coast
+  usec_coast: [[40.5,-73.5],[38.0,-75.0],[35.0,-76.0],[32.5,-80.0],[30.0,-81.5]],
+  gulf_mexico: [[30.0,-81.5],[27.0,-84.0],[26.0,-88.0],[27.0,-93.0],[29.5,-94.5]],
+
+  // Cape → Indian Ocean → Asia (eastbound)
+  cape_indian_e: [[-34.8,18.5],[-33.0,25.0],[-30.0,35.0],[-25.0,45.0],[-18.0,55.0],[-10.0,65.0],[-5.0,75.0],[0.0,85.0],[3.0,93.0],[6.0,95.0]],
 };
 
-// ── Route Templates (port-to-port via waypoints) ──
-function getRoute(fromId, toId) {
-  var key = fromId + '-' + toId;
-  var routes = {
-    // Asia → Europe (via Suez)
-    'EA-EU': ['korea_s','scs_n','se_asia','malacca_e','malacca_w','indian_w','indian_c','arabian','bab','red_sea_n','suez_s','med_e','med_c','gibraltar','biscay','english','north_sea'],
-    'SEA-EU': ['malacca_w','indian_w','indian_c','arabian','bab','red_sea_n','suez_s','med_e','med_c','gibraltar','biscay','english','north_sea'],
-    // Europe → Asia (reverse)
-    'EU-EA': ['north_sea','english','biscay','gibraltar','med_c','med_e','suez_s','red_sea_n','bab','arabian','indian_c','indian_w','malacca_w','malacca_e','se_asia','scs_n','korea_s'],
-    'EU-SEA': ['north_sea','english','biscay','gibraltar','med_c','med_e','suez_s','red_sea_n','bab','arabian','indian_c','indian_w','malacca_w'],
-    // Asia → US West Coast (trans-Pacific)
-    'EA-USWC': ['nw_pacific','n_pacific'],
-    'SEA-USWC': ['se_asia','scs_n','taiwan_s','nw_pacific','n_pacific'],
-    // US West → Asia
-    'USWC-EA': ['n_pacific','nw_pacific','korea_s'],
-    'USWC-SEA': ['n_pacific','nw_pacific','taiwan_s','scs_n','se_asia'],
-    // Asia → US East Coast (via Panama)
-    'EA-USEC': ['nw_pacific','n_pacific','panama_w','panama_e','caribbean'],
-    'SEA-USEC': ['se_asia','scs_n','nw_pacific','n_pacific','panama_w','panama_e','caribbean'],
-    // Europe → US East Coast (trans-Atlantic)
-    'EU-USEC': ['english','n_atlantic'],
-    'USEC-EU': ['n_atlantic','english'],
-    // Middle East → Asia
-    'ME-EA': ['hormuz','arabian','indian_c','indian_w','malacca_w','malacca_e','se_asia','scs_n','korea_s'],
-    'ME-SEA': ['hormuz','arabian','indian_c','indian_w','malacca_w'],
-    'ME-EU': ['hormuz','arabian','bab','red_sea_n','suez_s','med_e','med_c','gibraltar','biscay','english','north_sea'],
-    // South Asia
-    'SA-EA': ['indian_w','malacca_w','malacca_e','se_asia','scs_n','korea_s'],
-    'SA-EU': ['indian_c','arabian','bab','red_sea_n','suez_s','med_e','med_c','gibraltar','biscay','english','north_sea'],
-    'SA-SEA': ['indian_w','malacca_w'],
-    // Africa (Cape route)
-    'AF-EU': ['cape_ag','s_atlantic','w_africa','c_atlantic','biscay','english','north_sea'],
-    'AF-EA': ['cape_ag','s_indian','indian_w','malacca_w','malacca_e','se_asia','scs_n','korea_s'],
-    'AF-USEC': ['cape_ag','s_atlantic','brazil_e','c_atlantic','caribbean'],
-    // South America
-    'SA_AM-EU': ['brazil_e','c_atlantic','biscay','english','north_sea'],
-    'SA_AM-USEC': ['brazil_e','caribbean'],
-    'SA_AM-EA': ['brazil_e','s_atlantic','cape_ag','s_indian','indian_w','malacca_w','malacca_e','se_asia','scs_n','korea_s'],
-    // Oceania
-    'OC-EA': ['aus_se','se_asia','scs_n','korea_s'],
-    'OC-SEA': ['aus_se','aus_sw','se_asia'],
-    'OC-EU': ['aus_sw','s_indian','arabian','bab','red_sea_n','suez_s','med_e','med_c','gibraltar','biscay','english','north_sea'],
-    // Central America
-    'CA-USWC': ['panama_w'],
-    'CA-USEC': ['panama_e','caribbean'],
-    'CA-EA': ['panama_w','e_pacific','n_pacific','nw_pacific','korea_s'],
-  };
+// ── ROUTE DEFINITIONS: origin → destination via lane segments ──
+const ROUTES = [
+  // Asia ↔ Europe (Suez)
+  {from:['BUS','SHA','QIN','YOK'],to:['RTM','HAM','ANT','FEL','LEH'],via:['korea_japan','japan_pacific','!japan_pacific','!korea_japan','china_coast','south_china_sea','malacca','indian_east','indian_central','indian_west','gulf_aden','bab_mandeb','red_sea','suez_med','med_east','med_central','med_west','gibraltar_biscay','biscay_english','english_north']},
+  {from:['HKG','KHH'],to:['RTM','HAM','ANT','FEL','LEH'],via:['south_china_sea','malacca','indian_east','indian_central','indian_west','gulf_aden','bab_mandeb','red_sea','suez_med','med_east','med_central','med_west','gibraltar_biscay','biscay_english','english_north']},
+  {from:['SIN','TPP'],to:['RTM','HAM','ANT','FEL','LEH'],via:['malacca','indian_east','indian_central','indian_west','gulf_aden','bab_mandeb','red_sea','suez_med','med_east','med_central','med_west','gibraltar_biscay','biscay_english','english_north']},
 
-  var from = PORTS.find(function(p){return p.id===fromId;});
-  var to = PORTS.find(function(p){return p.id===toId;});
-  if (!from || !to) return [];
+  // Asia ↔ US West Coast (Trans-Pacific)
+  {from:['BUS','SHA','QIN','YOK'],to:['LAX','VAN'],via:['pacific_asia']},
+  {from:['HKG','KHH','SIN','TPP'],to:['LAX','VAN'],via:['south_china_sea','!south_china_sea','!malacca','!indian_east','pacific_asia']},
 
-  // Try direct route key
-  var rKey = from.region + '-' + to.region;
-  var rKeyRev = to.region + '-' + from.region;
+  // Asia ↔ Middle East
+  {from:['BUS','SHA','HKG','SIN'],to:['DXB','JED'],via:['south_china_sea','malacca','indian_east','indian_central','hormuz_indian','!hormuz_indian','hormuz']},
+  {from:['SIN','TPP'],to:['DXB'],via:['malacca','indian_east','indian_central','hormuz_indian','!hormuz_indian','hormuz']},
 
-  var wpNames = routes[rKey];
-  if (!wpNames) {
-    // Try reverse
-    wpNames = routes[rKeyRev];
-    if (wpNames) wpNames = wpNames.slice().reverse();
+  // Europe ↔ US East Coast (Trans-Atlantic)
+  {from:['RTM','HAM','ANT','FEL','LEH'],to:['NYC','SAV','HOU'],via:['english_north','!english_north','biscay_english','!biscay_english','atlantic_europe','!atlantic_europe','n_atlantic','!n_atlantic','atlantic_usec','usec_coast','gulf_mexico']},
+
+  // Middle East → Europe
+  {from:['DXB','JED'],to:['RTM','HAM','PIR','ALG'],via:['hormuz','hormuz_indian','gulf_aden','bab_mandeb','red_sea','suez_med','med_east','med_central','med_west','gibraltar_biscay','biscay_english','english_north']},
+
+  // Asia → Australia
+  {from:['SHA','HKG','SIN'],to:['MEL'],via:['south_china_sea','!south_china_sea','aus_indian','aus_approach']},
+
+  // Africa routes
+  {from:['DUR','CPT'],to:['RTM','HAM'],via:['durban_cape','cape_atlantic','w_africa_up','n_atlantic','!n_atlantic','atlantic_europe','english_north']},
+  {from:['DUR','CPT'],to:['SHA','BUS','SIN'],via:['!durban_cape','cape_indian_e','malacca','south_china_sea']},
+
+  // South America
+  {from:['SAN'],to:['RTM','HAM'],via:['brazil_atlantic','cape_atlantic','!cape_atlantic','w_africa_up','n_atlantic','!n_atlantic','atlantic_europe','english_north']},
+  {from:['SAN'],to:['NYC','SAV'],via:['brazil_atlantic','!brazil_atlantic','!cape_atlantic','n_atlantic','atlantic_usec']},
+
+  // India/Sri Lanka
+  {from:['MUM','CMB'],to:['RTM','HAM'],via:['indian_mumbai','!indian_mumbai','indian_central','indian_west','gulf_aden','bab_mandeb','red_sea','suez_med','med_east','med_central','med_west','gibraltar_biscay','biscay_english','english_north']},
+  {from:['MUM','CMB'],to:['SIN','HKG','SHA'],via:['indian_mumbai','!indian_mumbai','indian_east','!indian_east','malacca','!malacca','south_china_sea']},
+
+  // Panama route
+  {from:['NYC','SAV'],to:['LAX','VAN'],via:['usec_coast','!usec_coast','!gulf_mexico','caribbean','panama_pacific','pacific_north']},
+  {from:['LAX'],to:['NYC','SAV'],via:['!pacific_north','panama_pacific','!panama_pacific','caribbean','!caribbean','atlantic_usec','!atlantic_usec','usec_coast']},
+];
+
+// ── Build full waypoint chain for a route ──
+function buildChain(fromPort, toPort, viaLanes) {
+  var chain = [{lat:fromPort.lat,lon:fromPort.lon}];
+
+  for (var i = 0; i < viaLanes.length; i++) {
+    var laneName = viaLanes[i];
+    var reverse = laneName.startsWith('!');
+    if (reverse) laneName = laneName.slice(1);
+
+    var pts = LANE[laneName];
+    if (!pts) continue;
+
+    var segment = pts.map(function(p){return{lat:p[0],lon:p[1]};});
+    if (reverse) segment = segment.slice().reverse();
+
+    // Skip first point if same as last chain point (avoid duplicate)
+    var start = 0;
+    if (chain.length > 0) {
+      var last = chain[chain.length-1];
+      if (Math.abs(last.lat - segment[0].lat) < 1 && Math.abs(last.lon - segment[0].lon) < 1) {
+        start = 1;
+      }
+    }
+    for (var j = start; j < segment.length; j++) {
+      chain.push(segment[j]);
+    }
   }
-  if (!wpNames) {
-    // Same region — direct
-    return [{lat:to.lat, lon:to.lon}];
-  }
 
-  var waypoints = wpNames.map(function(n){ return WP[n]; }).filter(Boolean);
-  waypoints.push({lat:to.lat, lon:to.lon});
-  return waypoints;
+  chain.push({lat:toPort.lat,lon:toPort.lon});
+  return chain;
 }
 
-// ── Vessel Definitions ──
+// ── Vessel Types ──
 var TYPES = [
   {type:"Container",prefix:"MV",color:"#3b82f6"},
   {type:"Tanker",prefix:"MT",color:"#ef4444"},
@@ -164,93 +179,64 @@ var TYPES = [
   {type:"Car Carrier",prefix:"MV",color:"#f59e0b"},
   {type:"General Cargo",prefix:"MV",color:"#06b6d4"}
 ];
-
-var NAMES = [
-  "Pacific Explorer","Atlantic Pioneer","Orient Star","Nordic Voyager","Arabian Wind",
-  "Coral Maiden","Golden Gate","Silver Wave","Crystal Bay","Iron Phoenix",
-  "Blue Horizon","Ocean Pride","Sea Dragon","Storm Runner","Cape Fortune",
-  "Emerald Spirit","Jade Emperor","Tiger Shark","Pearl River","Sunrise Glory",
-  "Maersk Aurora","Evergreen Faith","COSCO Harmony","Yang Ming Unity","MSC Diana",
-  "Hyundai Courage","K-Line Breeze","NYK Stellar","MOL Triumph","HMM Victory",
-  "Northern Light","Southern Cross","Eastern Promise","Western Frontier","Polar Star",
-  "Equator Sun","Monsoon Wind","Trade Arrow","Silk Road","Spice Route",
-  "Global Spirit","World Bridge","Neptune Force","Poseidon Grace","Triton Wave",
-  "Coral Reef","Deep Current","Tidal Express","Gulf Stream","Arctic Fox",
-  "Pacific Gem","Indian Ocean","Red Sea Star","Baltic Queen","Caspian Gold",
-  "Bosphorus Gate","Malacca Dawn","Sunda Spirit","Lombok Tide","Tsugaru Mist",
-  "Dover Knight","Gibraltar Sun","Hormuz Passage","Panama Light","Suez Champion",
-  "Santos Bay","Rio Grande","Amazon Queen","Yangtze King","Mekong Spirit",
-  "Danube Prince","Rhine Valley","Thames Trader","Seine Voyager","Elbe Pioneer",
-  "Han River","Nakdong Star","Sumida Wave","Huangpu Gold","Victoria Peak",
-  "Table Mountain","Fuji Spirit","Kilimanjaro","Denali Force","Everest Crown",
-  "Sahara Wind","Gobi Express","Tundra Ice","Savanna Sun","Rainforest Dream",
-  "Typhoon Rider","Cyclone Path","Tsunami Guard","Earthquake Shield","Volcano Fire",
-  "Constellation","Andromeda","Orion Belt","Sirius Bright","Polaris North"
-];
+var NAMES=["Pacific Explorer","Atlantic Pioneer","Orient Star","Nordic Voyager","Arabian Wind","Coral Maiden","Golden Gate","Silver Wave","Crystal Bay","Iron Phoenix","Blue Horizon","Ocean Pride","Sea Dragon","Storm Runner","Cape Fortune","Emerald Spirit","Jade Emperor","Tiger Shark","Pearl River","Sunrise Glory","Maersk Aurora","Evergreen Faith","COSCO Harmony","Yang Ming Unity","MSC Diana","Hyundai Courage","K-Line Breeze","NYK Stellar","MOL Triumph","HMM Victory","Northern Light","Southern Cross","Eastern Promise","Western Frontier","Polar Star","Equator Sun","Monsoon Wind","Trade Arrow","Silk Road","Spice Route","Global Spirit","World Bridge","Neptune Force","Poseidon Grace","Triton Wave","Coral Reef","Deep Current","Tidal Express","Gulf Stream","Arctic Fox","Pacific Gem","Indian Ocean","Red Sea Star","Baltic Queen","Caspian Gold","Bosphorus Gate","Malacca Dawn","Sunda Spirit","Lombok Tide","Tsugaru Mist","Dover Knight","Gibraltar Sun","Hormuz Passage","Panama Light","Suez Champion","Santos Bay","Rio Grande","Amazon Queen","Yangtze King","Mekong Spirit","Danube Prince","Rhine Valley","Thames Trader","Seine Voyager","Elbe Pioneer","Han River","Nakdong Star","Sumida Wave","Huangpu Gold","Victoria Peak","Table Mountain","Fuji Spirit","Kilimanjaro","Denali Force","Everest Crown","Sahara Wind","Gobi Express","Tundra Ice","Savanna Sun","Rainforest Dream","Typhoon Rider","Cyclone Path","Tsunami Guard","Earthquake Shield","Volcano Fire","Constellation","Andromeda","Orion Belt","Sirius Bright","Polaris North"];
 
 // ── Math ──
 function toRad(d){return d*Math.PI/180;}
 function toDeg(r){return r*180/Math.PI;}
-function gcBearing(la1,lo1,la2,lo2){
-  var dL=toRad(lo2-lo1);
-  var y=Math.sin(dL)*Math.cos(toRad(la2));
-  var x=Math.cos(toRad(la1))*Math.sin(toRad(la2))-Math.sin(toRad(la1))*Math.cos(toRad(la2))*Math.cos(dL);
-  return (toDeg(Math.atan2(y,x))+360)%360;
-}
-function gcDist(la1,lo1,la2,lo2){
-  var R=3440.065,dLa=toRad(la2-la1),dLo=toRad(lo2-lo1);
-  var a=Math.sin(dLa/2)**2+Math.cos(toRad(la1))*Math.cos(toRad(la2))*Math.sin(dLo/2)**2;
-  return R*2*Math.atan2(Math.sqrt(a),Math.sqrt(1-a));
-}
-function moveTo(la,lo,brg,distNM){
-  var R=3440.065,d=distNM/R,b=toRad(brg),la1=toRad(la),lo1=toRad(lo);
-  var la2=Math.asin(Math.sin(la1)*Math.cos(d)+Math.cos(la1)*Math.sin(d)*Math.cos(b));
-  var lo2=lo1+Math.atan2(Math.sin(b)*Math.sin(d)*Math.cos(la1),Math.cos(d)-Math.sin(la1)*Math.sin(la2));
-  return{lat:+toDeg(la2).toFixed(5),lon:+toDeg(lo2).toFixed(5)};
-}
+function gcBearing(la1,lo1,la2,lo2){var dL=toRad(lo2-lo1);var y=Math.sin(dL)*Math.cos(toRad(la2));var x=Math.cos(toRad(la1))*Math.sin(toRad(la2))-Math.sin(toRad(la1))*Math.cos(toRad(la2))*Math.cos(dL);return(toDeg(Math.atan2(y,x))+360)%360;}
+function gcDist(la1,lo1,la2,lo2){var R=3440.065,dLa=toRad(la2-la1),dLo=toRad(lo2-lo1);var a=Math.sin(dLa/2)**2+Math.cos(toRad(la1))*Math.cos(toRad(la2))*Math.sin(dLo/2)**2;return R*2*Math.atan2(Math.sqrt(a),Math.sqrt(1-a));}
+function moveTo(la,lo,brg,d){var R=3440.065,dr=d/R,b=toRad(brg),la1=toRad(la),lo1=toRad(lo);var la2=Math.asin(Math.sin(la1)*Math.cos(dr)+Math.cos(la1)*Math.sin(dr)*Math.cos(b));var lo2=lo1+Math.atan2(Math.sin(b)*Math.sin(dr)*Math.cos(la1),Math.cos(dr)-Math.sin(la1)*Math.sin(la2));return{lat:+toDeg(la2).toFixed(5),lon:+toDeg(lo2).toFixed(5)};}
 function rand(a,b){return a+Math.random()*(b-a);}
 
-function pickRandom(arr,excludeIdx){
-  var i; do{i=Math.floor(Math.random()*arr.length);}while(i===excludeIdx);
-  return i;
+// ── Pick route for a vessel ──
+function pickRoute() {
+  var r = ROUTES[Math.floor(Math.random() * ROUTES.length)];
+  var fromId = r.from[Math.floor(Math.random() * r.from.length)];
+  var toId = r.to[Math.floor(Math.random() * r.to.length)];
+  var fromPort = P[fromId]; if(!fromPort) return null;
+  var toPort = P[toId]; if(!toPort) return null;
+  var chain = buildChain({lat:fromPort.lat,lon:fromPort.lon},{lat:toPort.lat,lon:toPort.lon},r.via);
+  return {fromId:fromId,toId:toId,chain:chain};
 }
 
 // ── Init Fleet ──
 function initFleet(){
-  var vessels=[];
+  var vessels = [];
   for(var i=0;i<100;i++){
-    var vt=TYPES[i%TYPES.length];
-    var oi=Math.floor(Math.random()*PORTS.length);
-    var di=pickRandom(PORTS,oi);
-    var origin=PORTS[oi], dest=PORTS[di];
-    var route=getRoute(origin.id,dest.id);
-    var speed=+(rand(15,20)).toFixed(1);
+    var vt = TYPES[i%TYPES.length];
+    var rt = pickRoute();
+    if(!rt) { rt = pickRoute(); } // retry once
 
-    // Random progress along route
-    var totalWps=[{lat:origin.lat,lon:origin.lon}].concat(route);
-    var totalDist=0;
-    for(var w=1;w<totalWps.length;w++){
-      totalDist+=gcDist(totalWps[w-1].lat,totalWps[w-1].lon,totalWps[w].lat,totalWps[w].lon);
+    var chain = rt.chain;
+    var speed = +(rand(15,20)).toFixed(1);
+
+    // Calculate total chain distance
+    var totalDist = 0;
+    for(var w=1;w<chain.length;w++){
+      totalDist += gcDist(chain[w-1].lat,chain[w-1].lon,chain[w].lat,chain[w].lon);
     }
-    var targetDist=totalDist*Math.random();
-    var pos={lat:origin.lat,lon:origin.lon};
-    var wpIdx=0;
-    var remaining=targetDist;
-    for(var w=1;w<totalWps.length;w++){
-      var segDist=gcDist(totalWps[w-1].lat,totalWps[w-1].lon,totalWps[w].lat,totalWps[w].lon);
-      if(remaining<=segDist){
-        var brg=gcBearing(totalWps[w-1].lat,totalWps[w-1].lon,totalWps[w].lat,totalWps[w].lon);
-        pos=moveTo(totalWps[w-1].lat,totalWps[w-1].lon,brg,remaining);
-        wpIdx=w;
+
+    // Place vessel at random progress along chain
+    var targetDist = totalDist * Math.random();
+    var pos = chain[0];
+    var wpIdx = 0;
+    var remaining = targetDist;
+    for(var w=1;w<chain.length;w++){
+      var segDist = gcDist(chain[w-1].lat,chain[w-1].lon,chain[w].lat,chain[w].lon);
+      if(remaining <= segDist){
+        var brg = gcBearing(chain[w-1].lat,chain[w-1].lon,chain[w].lat,chain[w].lon);
+        pos = moveTo(chain[w-1].lat,chain[w-1].lon,brg,remaining);
+        wpIdx = w;
         break;
       }
-      remaining-=segDist;
-      wpIdx=w;
-      pos={lat:totalWps[w].lat,lon:totalWps[w].lon};
+      remaining -= segDist;
+      wpIdx = w;
+      pos = {lat:chain[w].lat,lon:chain[w].lon};
     }
 
-    var nextWp=wpIdx<route.length?route[wpIdx]:{lat:dest.lat,lon:dest.lon};
-    var heading=+(gcBearing(pos.lat,pos.lon,nextWp.lat,nextWp.lon)).toFixed(1);
+    var nextWp = wpIdx < chain.length ? chain[wpIdx] : chain[chain.length-1];
+    var heading = +(gcBearing(pos.lat,pos.lon,nextWp.lat,nextWp.lon)).toFixed(1);
 
     vessels.push({
       mmsi:"2100"+String(i).padStart(5,"0"),
@@ -258,10 +244,9 @@ function initFleet(){
       type:vt.type,color:vt.color,
       speed:speed,heading:heading,
       lat:pos.lat,lon:pos.lon,
-      originIdx:oi,destIdx:di,
-      origin:origin.name,destination:dest.name,
-      routeWaypoints:route,
-      currentWpIdx:wpIdx,
+      fromId:rt.fromId,toId:rt.toId,
+      origin:rt.fromId,destination:rt.toId,
+      chain:chain,wpIdx:wpIdx,
       track:[[pos.lon,pos.lat,new Date().toISOString()]]
     });
   }
@@ -270,56 +255,51 @@ function initFleet(){
 
 // ── Update Fleet ──
 function updateFleet(vessels,hours){
-  var now=new Date().toISOString();
+  var now = new Date().toISOString();
   for(var i=0;i<vessels.length;i++){
-    var v=vessels[i];
-    var distToTravel=v.speed*hours;
-    var wps=v.routeWaypoints;
-    var wpIdx=v.currentWpIdx||0;
+    var v = vessels[i];
+    var dist = v.speed * hours;
+    var chain = v.chain;
+    var wpIdx = v.wpIdx || 0;
 
-    while(distToTravel>0&&wpIdx<wps.length){
-      var target=wps[wpIdx];
-      var d=gcDist(v.lat,v.lon,target.lat,target.lon);
-      if(distToTravel>=d){
+    while(dist > 0 && wpIdx < chain.length){
+      var target = chain[wpIdx];
+      var d = gcDist(v.lat,v.lon,target.lat,target.lon);
+      if(dist >= d){
         v.lat=target.lat;v.lon=target.lon;
-        distToTravel-=d;
-        wpIdx++;
-      }else{
+        dist-=d; wpIdx++;
+      } else {
         var brg=gcBearing(v.lat,v.lon,target.lat,target.lon);
-        brg+=rand(-1,1); // small drift
-        var np=moveTo(v.lat,v.lon,brg,distToTravel);
+        brg+=rand(-0.5,0.5);
+        var np=moveTo(v.lat,v.lon,brg,dist);
         v.lat=np.lat;v.lon=np.lon;
-        v.heading=+(brg+360)%360;
-        v.heading=+v.heading.toFixed(1);
-        distToTravel=0;
+        v.heading=+((brg+360)%360).toFixed(1);
+        dist=0;
       }
     }
-    v.currentWpIdx=wpIdx;
+    v.wpIdx=wpIdx;
 
-    // Arrived at destination
-    if(wpIdx>=wps.length){
-      var dest=PORTS[v.destIdx];
-      v.lat=dest.lat;v.lon=dest.lon;
-      // New voyage
-      var newOi=v.destIdx;
-      var newDi=pickRandom(PORTS,newOi);
-      v.originIdx=newOi;v.destIdx=newDi;
-      v.origin=PORTS[newOi].name;v.destination=PORTS[newDi].name;
-      v.routeWaypoints=getRoute(PORTS[newOi].id,PORTS[newDi].id);
-      v.currentWpIdx=0;
-      v.speed=+(rand(15,20)).toFixed(1);
-      if(v.routeWaypoints.length>0){
-        var nxt=v.routeWaypoints[0];
-        v.heading=+(gcBearing(v.lat,v.lon,nxt.lat,nxt.lon)).toFixed(1);
+    // Arrived → new voyage
+    if(wpIdx >= chain.length){
+      var rt = pickRoute();
+      if(rt){
+        v.fromId=rt.fromId;v.toId=rt.toId;
+        v.origin=rt.fromId;v.destination=rt.toId;
+        v.chain=rt.chain;v.wpIdx=0;
+        v.lat=rt.chain[0].lat;v.lon=rt.chain[0].lon;
+        v.speed=+(rand(15,20)).toFixed(1);
+        if(rt.chain.length>1){
+          v.heading=+(gcBearing(v.lat,v.lon,rt.chain[1].lat,rt.chain[1].lon)).toFixed(1);
+        }
       }
     }
 
-    // Speed variation
+    // Speed drift
     v.speed=+Math.max(15,Math.min(20,v.speed+rand(-0.2,0.2))).toFixed(1);
 
-    // Update heading toward next waypoint
-    if(v.currentWpIdx<v.routeWaypoints.length){
-      var nwp=v.routeWaypoints[v.currentWpIdx];
+    // Heading to next wp
+    if(v.wpIdx<v.chain.length){
+      var nwp=v.chain[v.wpIdx];
       v.heading=+(gcBearing(v.lat,v.lon,nwp.lat,nwp.lon)).toFixed(1);
     }
 
@@ -333,31 +313,42 @@ function updateFleet(vessels,hours){
 function main(){
   var vessels;
   if(fs.existsSync(STATE_PATH)){
-    console.log('Loading fleet state...');
+    console.log('Loading fleet...');
     vessels=JSON.parse(fs.readFileSync(STATE_PATH,'utf8')).vessels;
     vessels=updateFleet(vessels,1);
   }else{
-    console.log('Initializing 100 vessels...');
+    console.log('Init 100 vessels...');
     vessels=initFleet();
   }
 
   fs.writeFileSync(STATE_PATH,JSON.stringify({vessels:vessels}));
 
+  // Port name lookup
+  var portNames={};Object.keys(P).forEach(function(k){portNames[k]=k;});
+  portNames.SIN="Singapore";portNames.SHA="Shanghai";portNames.BUS="Busan";
+  portNames.RTM="Rotterdam";portNames.HAM="Hamburg";portNames.DXB="Dubai";
+  portNames.HKG="Hong Kong";portNames.LAX="Los Angeles";portNames.NYC="New York";
+  portNames.YOK="Yokohama";portNames.KHH="Kaohsiung";portNames.ANT="Antwerp";
+  portNames.FEL="Felixstowe";portNames.JED="Jeddah";portNames.MUM="Mumbai";
+  portNames.CMB="Colombo";portNames.CPT="Cape Town";portNames.SAN="Santos";
+  portNames.PAN="Panama";portNames.SUE="Suez";portNames.PIR="Piraeus";
+  portNames.ALG="Algeciras";portNames.VAN="Vancouver";portNames.MEL="Melbourne";
+  portNames.DUR="Durban";portNames.HOU="Houston";portNames.SAV="Savannah";
+  portNames.LEH="Le Havre";portNames.TPP="Tanjung Pelepas";portNames.QIN="Qingdao";
+
   var pub=vessels.map(function(v){
+    var nwp=v.wpIdx<v.chain.length?v.chain[v.wpIdx]:null;
     return{mmsi:v.mmsi,name:v.name,type:v.type,color:v.color,
       speed:v.speed,heading:v.heading,lat:v.lat,lon:v.lon,
-      origin:v.origin,destination:v.destination,
-      nextWp:v.currentWpIdx<v.routeWaypoints.length?v.routeWaypoints[v.currentWpIdx]:null,
-      track:v.track};
+      origin:portNames[v.fromId]||v.fromId,
+      destination:portNames[v.toId]||v.toId,
+      nextWp:nwp,track:v.track};
   });
 
-  var out={updated:new Date().toISOString(),count:pub.length,vessels:pub};
-  fs.writeFileSync(OUTPUT_PATH,JSON.stringify(out));
-  console.log('Saved '+pub.length+' vessels to ais-data.json');
-
-  var types={};vessels.forEach(function(v){types[v.type]=(types[v.type]||0)+1;});
-  console.log('Fleet:',JSON.stringify(types));
-  console.log('Sample:',vessels[0].name,'@',vessels[0].lat,vessels[0].lon,'→',vessels[0].destination,vessels[0].speed+'kn HDG'+vessels[0].heading);
+  fs.writeFileSync(OUTPUT_PATH,JSON.stringify({updated:new Date().toISOString(),count:pub.length,vessels:pub}));
+  console.log('Saved '+pub.length+' vessels');
+  var sample=vessels.slice(0,5);
+  sample.forEach(function(v){console.log(' ',v.name,v.lat.toFixed(1),v.lon.toFixed(1),'→',v.toId,v.speed+'kn','HDG'+v.heading);});
 }
 
 main();
