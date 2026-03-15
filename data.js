@@ -1938,3 +1938,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2023-11-04
+addEvents({
+  "2023-11-04": [
+    {
+      type: "accident",
+      title: "Loss of propulsion in heavy weather - Passenger vessel Spirit of Discovery, Bay of Biscay",
+      source: "MAIB Reports",
+      sourceMeta: "gov.uk · 2026-03-11",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>2023년 11월 4일 스피릿 오브 디스커버리(Spirit of Discovery) 여객선이 비스케이만에서 악천후 중 추진력을 상실하는 사고를 겪었습니다. 이 사건으로 100명 이상의 승객이 부상을 입었으며, 그 중 8명이 심각한 상태로 입항 후 즉시 병원으로 옮겨졌고 1명이 나중에 사망했습니다. MAIB(해양사고조사국)의 조사 결과, 추진 장비 제조업체의 설계 결함과 승선 가구 고정 미흡, 의료 인력 부족 등이 주요 원인으로 파악되었습니다. 조사 결과에 따라 국제 운송 기준에 전자 경사계 포함, 분류 사회의 교육 자료 개선, 순양선 국제협회의 의료 인력 충원 권고 등이 제시되었습니다.</p><h3>Key Quotes</h3><p><li>"the passenger vessel Spirit of Discovery lost propulsion in heavy weather while crossing the Bay of Biscay. Over 100 passengers were injured during this period." (여객선 스피릿 오브 디스커버리가 비스케이만을 횡단하던 중 악천후에서 추진력을 잃었으며, 이 기간 동안 100명 이상의 승객이 부상을 입었습니다.)</li></p><p><li>"Recommendations have been made to the Maritime and Coastguard Agency to propose that international carriage requirements include electronic inclinometers" (해사청에 국제 운송 기준에 전자 경사계 포함을 제안하도록 권고했습니다.)</li></p><h3>Technical Insights</h3><p>본 사고는 Pod 추진 시스템의 설계 결함으로 인한 악천후 상황에서의 추진력 상실이 주요 원인으로 보입니다. 선박의 급격한 동요(rolling) 상황에서 Pod 추진기 제어 시스템의 불안정성이 노출되었으며, 이는 현대 여객선의 추진 시스템 이중화 및 중복성(redundancy) 설계에 대한 재검토 필요성을 제기합니다. COLREG 준수뿐 아니라 악천후 항해 시 선체 동요 각도를 실시간 모니터링할 수 있는 전자 경사계의 의무 탑재는 향후 IMO 규정 개정의 중요한 쟁점이 될 것으로 예상됩니다. 아울러 승객 보호를 위한 선내 가구 고정 기준 강화와 응급 의료 대응 체계 개선은 여객선 안전 운영의 핵심 요소로 재인식되어야 합니다.</p></div>`,
+      tags: ["propulsion failure","heavy weather","passenger vessel","casualties","Bay of Biscay"],
+      link: "https://www.gov.uk/maib-reports/loss-of-propulsion-in-heavy-weather-experienced-by-the-passenger-vessel-spirit-of-discovery-leading-to-over-100-injuries-and-one-fatality",
+      coords: [-3.5,46.5],
+      location: "Bay of Biscay"
+    }
+  ]
+});
