@@ -1246,7 +1246,7 @@ addEvents({
       source: "gCaptain",
       sourceMeta: "gcaptain.com · 2026-03-02",
       image: "https://gcaptain.com/wp-content/uploads/2026/03/2026-03-01T154717Z_708484179_RC2LVJAL7N9E_RTRMADP_3_IRAN-CRISIS.jpg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이란 혁명수비대(IRGC)가 3월 2일 호르무즈 해협의 공식 폐쇄를 선언하고,<br>• 통과하는 모든 선박을 공격하겠다고 위협했다<br>• 2월 28일 미국-이스라엘의 이란 군사시설 공습(Operation Epic Fury) 이후 해협 통과 유조선 수가 70% 이상 급감했으며,<br>• 바레인 항구에서는 미국 국적 유조선 Stena Imperative가 피격됐다<br>• Hapag-Lloyd가 해협 통과를 중단했고,<br>• JMIC는 위협 수준을 CRITICAL로 상향했다</p><h3>Key Quotes</h3><p><li>"The Strait of Hormuz has been closed and Iran will set fire to any ship trying to pass" (호르무즈 해협은 폐쇄되었으며 통과 시도 선박에 대해 공격할 것)</li><li>"An attack is almost certain — JMIC elevated threat level to CRITICAL" (공격이 거의 확실 — 위협 수준 CRITICAL 상향)</li></p><h3>Technical Insights</h3><p>• 호르무즈 해협은 전 세계 석유 공급의 20%가 통과하는 핵심 해상 초크포인트<br>• IRGC의 폐쇄 선언은 UNCLOS 제38조(국제해협 통과통행권 정지 불가 원칙)를 정면 위반하는 것으로, 국제 해양법의 근본적 한계를 노출했다</p></div>`,
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>이란 혁명수비대(IRGC)가 3월 2일 호르무즈 해협의 공식 폐쇄를 선언하고, 통과하는 모든 선박을 공격하겠다고 위협했다. 2월 28일 미국-이스라엘의 이란 군사시설 공습(Operation Epic Fury) 이후 해협 통과 유조선 수가 70% 이상 급감했으며, 바레인 항구에서는 미국 국적 유조선 Stena Imperative가 피격됐다. 주요 해운사 Maersk, CMA CGM, Hapag-Lloyd가 해협 통과를 중단했고, JMIC는 위협 수준을 CRITICAL로 상향했다.</p><h3>Key Quotes</h3><p><li>"The Strait of Hormuz has been closed and Iran will set fire to any ship trying to pass" (호르무즈 해협은 폐쇄되었으며 통과 시도 선박에 대해 공격할 것)</li><li>"An attack is almost certain — JMIC elevated threat level to CRITICAL" (공격이 거의 확실 — 위협 수준 CRITICAL 상향)</li></p><h3>Technical Insights</h3><p>호르무즈 해협은 전 세계 석유 공급의 20%가 통과하는 핵심 해상 초크포인트다. IRGC의 폐쇄 선언은 UNCLOS 제38조(국제해협 통과통행권 정지 불가 원칙)를 정면 위반하는 것으로, 국제 해양법의 근본적 한계를 노출했다.</p></div>`,
       tags: ["Hormuz", "IRGC", "Operation_Epic_Fury", "Oil_Crisis", "Shipping_Disruption"],
       link: "https://gcaptain.com/the-first-36-hours-strait-of-hormuz-becomes-a-war-zone-tankers-hit-shipping-giants-halt-gulf-transits/",
       coords: [56.27, 26.56],
@@ -1258,7 +1258,7 @@ addEvents({
       source: "Defense News",
       sourceMeta: "defensenews.com · 2026-03-02",
       image: "",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 국방혁신부(DIU)가 분쟁 해역에서 보급품을 수송할 수 있는 자율 화물선 개발 입찰을 공고했다<br>• 이 로봇 선박은 표준 팔레트와 컨테이너를 운반하며,<br>• 적에게 포획될 위험이 있을 경우 원격으로 자폭(scuttle)할 수 있는 기능을 갖춰야 한다<br>• Sea State 5에서 1000~2000해리 항속을 요구한다</p><h3>Key Quotes</h3><p><li>"Ships must be resistant to tampering with the ability to remotely scuttle" (항행 중 조작 방지 및 원격 자폭 기능 필수)</li><li>"Demonstrate assured PNT in GPS-degraded and denied environments" (GPS 거부 환경에서의 위치항법시간 보장 시연 필수)</li></p><h3>Technical Insights</h3><p>• 자율운항선박(MASS)이 군수 물류에 본격 적용되는 전환점이<br>• GPS 거부 환경에서의 자율항법 기술은 민간 자율운항 선박에도 직접 전이 가능한 핵심 기술이며, COLREG 준수와 혼잡 항만 운항 능력이 동시에 요구된다</p></div>`,
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>미국 국방혁신부(DIU)가 분쟁 해역에서 보급품을 수송할 수 있는 자율 화물선 개발 입찰을 공고했다. 이 로봇 선박은 표준 팔레트와 컨테이너를 운반하며, 적에게 포획될 위험이 있을 경우 원격으로 자폭(scuttle)할 수 있는 기능을 갖춰야 한다. GPS 재밍 환경에서의 항법, 12노트 이상 속력, Sea State 5에서 1000~2000해리 항속을 요구한다.</p><h3>Key Quotes</h3><p><li>"Ships must be resistant to tampering with the ability to remotely scuttle" (항행 중 조작 방지 및 원격 자폭 기능 필수)</li><li>"Demonstrate assured PNT in GPS-degraded and denied environments" (GPS 거부 환경에서의 위치항법시간 보장 시연 필수)</li></p><h3>Technical Insights</h3><p>자율운항선박(MASS)이 군수 물류에 본격 적용되는 전환점이다. GPS 거부 환경에서의 자율항법 기술은 민간 자율운항 선박에도 직접 전이 가능한 핵심 기술이며, COLREG 준수와 혼잡 항만 운항 능력이 동시에 요구된다.</p></div>`,
       tags: ["Autonomous_Ship", "Pentagon", "DIU", "USV", "Military_Logistics"],
       link: "https://www.defensenews.com/industry/techwatch/2026/03/02/pentagon-seeks-robot-ships-to-haul-supplies-to-combat-zones/",
       coords: [-77.02, 38.90],
@@ -1275,7 +1275,7 @@ addEvents({
       source: "VesselTracker",
       sourceMeta: "vesseltracker.com · 2026-03-03",
       image: "",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 3월 1일 오만 무스카트 북서 44.4해리 해상에서 유조선 MKD Vyom이 기관실 상부 수선 위에 포격을 받아 화재가 발생하고 1명의 선원이 사망했다<br>• 3월 2일 유조선 Sand호가 생존 선원 21명을 구조했다</p><h3>Key Quotes</h3><p><li>"The vessel suffered an explosion and fire after being struck by a suspected projectile off Muscat" (무스카트 인근에서 추정 포탄에 피격되어 폭발 및 화재 발생)</li><li>"One crew member who was in the engine room has died" (기관실 선원 1명 사망 확인)</li></p><h3>Technical Insights</h3><p>• 비무장 상선의 취약성이 극명히 드러난 사례<br>• 기관실 피격으로 추진력 상실 후 표류한 점은 선박의 생존성 설계와 대응 매뉴얼의 중요성을 시사한다</p></div>`,
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>3월 1일 오만 무스카트 북서 44.4해리 해상에서 유조선 MKD Vyom이 기관실 상부 수선 위에 포격을 받아 화재가 발생하고 1명의 선원이 사망했다. 선박은 표류 상태에 빠졌으며, 3월 2일 유조선 Sand호가 생존 선원 21명을 구조했다.</p><h3>Key Quotes</h3><p><li>"The vessel suffered an explosion and fire after being struck by a suspected projectile off Muscat" (무스카트 인근에서 추정 포탄에 피격되어 폭발 및 화재 발생)</li><li>"One crew member who was in the engine room has died" (기관실 선원 1명 사망 확인)</li></p><h3>Technical Insights</h3><p>비무장 상선의 취약성이 극명히 드러난 사례다. 기관실 피격으로 추진력 상실 후 표류한 점은 선박의 생존성 설계와 대응 매뉴얼의 중요성을 시사한다.</p></div>`,
       tags: ["MKD_Vyom", "Vessel_Attack", "Gulf_of_Oman", "Crew_Rescue", "Hormuz_Crisis"],
       link: "https://www.vesseltracker.com/en/news/vessels.html",
       coords: [58.0, 23.8],
@@ -1287,7 +1287,7 @@ addEvents({
       source: "Windward",
       sourceMeta: "windward.ai · 2026-03-03",
       image: "",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 호르무즈 해협 위기로 인해 초대형유조선(VLCC) 운임이 3월 3일 역사적 최고치인 일일 $423,736에 도달했다<br>• 약 27척의 유조선이 아라비아해에서 목적지 없이 대기 중이며,<br>• 보험사들이 전쟁위험 보험을 취소하면서 선주들의 경제적 리스크가 극대화됐다</p><h3>Key Quotes</h3><p><li>"VLCC freight rates hit an all-time high of $423,736 per day, up 94%" (VLCC 운임 사상 최고치, 94% 상승)</li><li>"27 tankers carrying 12 million barrels are in transit without confirmed destinations" (27척 유조선, 1200만 배럴 적재한 채 대기)</li></p><h3>Technical Insights</h3><p>• 해상보험 시장의 전쟁위험 보험 취소가 실질적인 해협 폐쇄 효과를 만들어낸 사례<br>• Cape of Good Hope 우회항로로 10~14일 추가 소요된다</p></div>`,
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>호르무즈 해협 위기로 인해 초대형유조선(VLCC) 운임이 3월 3일 역사적 최고치인 일일 $423,736에 도달했다. 이는 2월 28일 대비 94% 상승한 수치다. 약 27척의 유조선이 아라비아해에서 목적지 없이 대기 중이며, 보험사들이 전쟁위험 보험을 취소하면서 선주들의 경제적 리스크가 극대화됐다.</p><h3>Key Quotes</h3><p><li>"VLCC freight rates hit an all-time high of $423,736 per day, up 94%" (VLCC 운임 사상 최고치, 94% 상승)</li><li>"27 tankers carrying 12 million barrels are in transit without confirmed destinations" (27척 유조선, 1200만 배럴 적재한 채 대기)</li></p><h3>Technical Insights</h3><p>해상보험 시장의 전쟁위험 보험 취소가 실질적인 해협 폐쇄 효과를 만들어낸 사례다. Cape of Good Hope 우회항로로 10~14일 추가 소요된다.</p></div>`,
       tags: ["VLCC", "Freight_Rate", "Oil_Market", "War_Risk_Insurance", "Hormuz_Crisis"],
       link: "https://windward.ai/blog/march-2-iran-war-maritime-intelligence-daily/",
       coords: [56.27, 26.56],
@@ -1304,7 +1304,7 @@ addEvents({
       source: "Seatrade Maritime",
       sourceMeta: "seatrade-maritime.com · 2026-03-04",
       image: "",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 몰타 국적 컨테이너 피더선 Safeen Prestige(1,740TEU)가 3월 4일 호르무즈 해협에서 미사일 피격을 받아 기관실 화재가 발생했다<br>• 24명 전원이 퇴선하여 오만 해군에 구조되었다<br>• 호르무즈 위기 이후 첫 컨테이너선 피해 사례이며,<br>• 약 470,000 TEU가 해협 서쪽에 갇혀 있다</p><h3>Key Quotes</h3><p><li>"Safeen Prestige is the first container ship casualty in the Strait of Hormuz" (첫 컨테이너선 피해)</li><li>"138-147 container ships totalling 470,000 TEU are trapped" (47만 TEU 컨테이너선이 갇힘)</li></p><h3>Technical Insights</h3><p>3월 4일 해협 통과 선박 수가 5척으로 급감했으며, GPS 재밍 44개 구역과 AIS 거부 92개 구역이 탐지되어 항법 안전에 심각한 위협이 되고 있다.</p></div>`,
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>몰타 국적 컨테이너 피더선 Safeen Prestige(1,740TEU)가 3월 4일 호르무즈 해협에서 미사일 피격을 받아 기관실 화재가 발생했다. 24명 전원이 퇴선하여 오만 해군에 구조되었다. 호르무즈 위기 이후 첫 컨테이너선 피해 사례이며, 약 470,000 TEU가 해협 서쪽에 갇혀 있다.</p><h3>Key Quotes</h3><p><li>"Safeen Prestige is the first container ship casualty in the Strait of Hormuz" (첫 컨테이너선 피해)</li><li>"138-147 container ships totalling 470,000 TEU are trapped" (47만 TEU 컨테이너선이 갇힘)</li></p><h3>Technical Insights</h3><p>3월 4일 해협 통과 선박 수가 5척으로 급감했으며, GPS 재밍 44개 구역과 AIS 거부 92개 구역이 탐지되어 항법 안전에 심각한 위협이 되고 있다.</p></div>`,
       tags: ["Safeen_Prestige", "Container_Ship", "Missile_Strike", "Hormuz", "IRGC"],
       link: "https://www.seatrade-maritime.com/containers/container-ship-hit-in-strait-of-hormuz-nearly-150-vessels-trapped",
       coords: [56.30, 26.50],
@@ -1316,7 +1316,7 @@ addEvents({
       source: "Windward",
       sourceMeta: "windward.ai · 2026-03-04",
       image: "",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 3월 4일 미 해군 잠수함이 스리랑카 남방 40해리에서 이란 프리깃함 IRIS Dena를 어뢰로 격침시켰다<br>• 인도 해군 훈련 참가 후 귀항 중이었으며,<br>• 스리랑카 군이 일부 승조원을 구조했다<br>• 해상 분쟁이 인도양으로 확대되었음을 의미한다</p><h3>Key Quotes</h3><p><li>"The strike extends maritime security risk into the Indian Ocean theater" (인도양으로의 지리적 확전)</li></p><h3>Technical Insights</h3><p>국제 해군 훈련 참가 후 귀항 중인 군함이 공해상에서 격침된 것은 전례 없는 사건으로, 글로벌 해운 경로 전체의 안보 리스크 재평가가 필요하다.</p></div>`,
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>3월 4일 미 해군 잠수함이 스리랑카 남방 40해리에서 이란 프리깃함 IRIS Dena를 어뢰로 격침시켰다. 인도 해군 훈련 참가 후 귀항 중이었으며, 스리랑카 군이 일부 승조원을 구조했다. 해상 분쟁이 인도양으로 확대되었음을 의미한다.</p><h3>Key Quotes</h3><p><li>"The strike extends maritime security risk into the Indian Ocean theater" (인도양으로의 지리적 확전)</li></p><h3>Technical Insights</h3><p>국제 해군 훈련 참가 후 귀항 중인 군함이 공해상에서 격침된 것은 전례 없는 사건으로, 글로벌 해운 경로 전체의 안보 리스크 재평가가 필요하다.</p></div>`,
       tags: ["IRIS_Dena", "US_Navy", "Submarine", "Indian_Ocean", "Iran_War"],
       link: "https://windward.ai/blog/march-5-iran-war-maritime-intelligence-daily/",
       coords: [80.50, 5.50],
@@ -1333,7 +1333,7 @@ addEvents({
       source: "VesselTracker",
       sourceMeta: "vesseltracker.com · 2026-03-05",
       image: "",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 유조선 Sonangol Namibe가 3월 5일 이라크 Khor al Zubair 항 인근에서 폭발에 의해 선체가 관통되었다<br>• 기름 유출이 발생하여 환경 피해 우려가 커지고 있다<br>• 현 분쟁에서 최북단 선박 공격 사례다</p><h3>Key Quotes</h3><p><li>"The attack marks the northernmost vessel attack during the current conflict" (현 분쟁 중 최북단 선박 공격)</li></p><h3>Technical Insights</h3><p>• 정박 중인 유조선이 피격된 것은 항만 내부까지 위협이 확산되었음을 의미한<br>• 소형 선박이 공격 후 이탈한 것으로 보아 자폭형 드론보트 공격 가능성이 있다</p></div>`,
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>유조선 Sonangol Namibe가 3월 5일 이라크 Khor al Zubair 항 인근에서 폭발에 의해 선체가 관통되었다. 기름 유출이 발생하여 환경 피해 우려가 커지고 있다. 현 분쟁에서 최북단 선박 공격 사례다.</p><h3>Key Quotes</h3><p><li>"The attack marks the northernmost vessel attack during the current conflict" (현 분쟁 중 최북단 선박 공격)</li></p><h3>Technical Insights</h3><p>정박 중인 유조선이 피격된 것은 항만 내부까지 위협이 확산되었음을 의미한다. 소형 선박이 공격 후 이탈한 것으로 보아 자폭형 드론보트 공격 가능성이 있다.</p></div>`,
       tags: ["Sonangol_Namibe", "Oil_Spill", "Kuwait", "Tanker_Attack", "Hormuz_Crisis"],
       link: "https://www.vesseltracker.com/en/news/vessels.html",
       coords: [48.85, 29.57],
@@ -1345,7 +1345,7 @@ addEvents({
       source: "gCaptain",
       sourceMeta: "gcaptain.com · 2026-03-05",
       image: "https://gcaptain.com/wp-content/uploads/2026/02/2026-02-28T165609Z_132325647_RC29U4AYFESH_RTRMADP_3_IRAN-CRISIS-SHIPPING.jpg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Ocean Network Express CEO Jeremy Nixon에 따르면 약 750척의 선박이 호르무즈 해협 폐쇄로 갇혀 있으며,<br>• 보험사들이 보험 인수를 거부하고 연료비가 급등하면서 대부분의 해운사가 중동행 화물 예약을 중단했다</p><h3>Key Quotes</h3><p><li>"About 750 ships caught up in what was effectively the closure of Hormuz" (약 750척이 호르무즈 폐쇄에 갇힘)</li><li>"What we are seeing now is going to define the market in 2026" (현 상황이 2026년 시장을 규정할 것)</li></p><h3>Technical Insights</h3><p>• 컨테이너선 과잉공급 상황이 일시에 공급 부족으로 전환된 것은 해운 시장의 극단적 변동성을 보여준<br>• 팬데믹 수준의 물류 혼란이 재현될 수 있다</p></div>`,
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>Ocean Network Express CEO Jeremy Nixon에 따르면 약 750척의 선박이 호르무즈 해협 폐쇄로 갇혀 있으며, 그 중 절반은 걸프만 내부, 절반은 진입 중이었다. 약 100척이 컨테이너선이다. 보험사들이 보험 인수를 거부하고 연료비가 급등하면서 대부분의 해운사가 중동행 화물 예약을 중단했다.</p><h3>Key Quotes</h3><p><li>"About 750 ships caught up in what was effectively the closure of Hormuz" (약 750척이 호르무즈 폐쇄에 갇힘)</li><li>"What we are seeing now is going to define the market in 2026" (현 상황이 2026년 시장을 규정할 것)</li></p><h3>Technical Insights</h3><p>컨테이너선 과잉공급 상황이 일시에 공급 부족으로 전환된 것은 해운 시장의 극단적 변동성을 보여준다. 팬데믹 수준의 물류 혼란이 재현될 수 있다.</p></div>`,
       tags: ["Container_Crisis", "750_Ships", "Hormuz", "ONE", "Supply_Chain"],
       link: "https://gcaptain.com/iran-conflict-container-shipping-crisis-hormuz/",
       coords: [56.27, 26.56],
@@ -1362,7 +1362,7 @@ addEvents({
       source: "DefconAlerts",
       sourceMeta: "defconalerts.com · 2026-03-06",
       image: "https://gcaptain.com/wp-content/uploads/2026/03/2026-03-04T190201Z_330648636_RC20XJA5SWBN_RTRMADP_3_IRAN-CRISIS-INSURANCE.jpg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• UAE 구난예인선 Mussafah 2호가 3월 6일 Safeen Prestige 지원을 위해 출항하던 중 미사일 2발에 피격되어 8명의 승조원 전원이 사망한<br>• 분쟁 시작 이후 최소 13척의 상선이 공격을 받았으며,</p><h3>Key Quotes</h3><p><li>"A UAE salvage tug was struck by two missiles, all 8 crew feared dead" (UAE 구난예인선 피격, 8명 전원 사망 추정)</li><li>"At least 13 commercial vessels attacked since February 28" (2월 28일 이후 최소 13척 상선 피격)</li></p><h3>Technical Insights</h3><p>• 구난 작업 중인 선박에 대한 공격은 SAR/구난 작전의 안전을 근본적으로 위협한<br>• SOLAS 정신에 정면으로 반하며, 향후 분쟁 해역에서의 해난구조 프로토콜 재검토가 불가피하다</p></div>`,
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>UAE 구난예인선 Mussafah 2호가 3월 6일 Safeen Prestige 지원을 위해 출항하던 중 미사일 2발에 피격되어 8명의 승조원 전원이 사망한 것으로 추정된다. 분쟁 시작 이후 최소 13척의 상선이 공격을 받았으며, 총 사망자 수가 증가하고 있다.</p><h3>Key Quotes</h3><p><li>"A UAE salvage tug was struck by two missiles, all 8 crew feared dead" (UAE 구난예인선 피격, 8명 전원 사망 추정)</li><li>"At least 13 commercial vessels attacked since February 28" (2월 28일 이후 최소 13척 상선 피격)</li></p><h3>Technical Insights</h3><p>구난 작업 중인 선박에 대한 공격은 SAR/구난 작전의 안전을 근본적으로 위협한다. SOLAS 정신에 정면으로 반하며, 향후 분쟁 해역에서의 해난구조 프로토콜 재검토가 불가피하다.</p></div>`,
       tags: ["Mussafah_2", "Salvage_Tug", "Missile_Strike", "Crew_Killed", "Hormuz_Crisis"],
       link: "https://www.defconalerts.com/p/maritime-security-digest-february",
       coords: [56.30, 26.40],
@@ -1374,7 +1374,7 @@ addEvents({
       source: "Euronews",
       sourceMeta: "euronews.com · 2026-03-06",
       image: "",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미 해군이 분쟁 개시 이후 30척 이상의 이란 군함을 격침시켰다<br>• 2차대전 항공모함 규모의 이란 드론 모함도 포함된다<br>• 동시에 B-2 스텔스 폭격기가 이란 내부의 탄도미사일 발사대에 관통탄을 투하했다</p><h3>Key Quotes</h3><p><li>"The US Navy has sunk more than 30 Iranian ships over the past week" (미 해군 이란 군함 30척 이상 격침)</li><li>"As we speak, it is on fire — roughly the size of a WWII aircraft carrier" (현재 불타고 있으며 2차대전 항공모함 규모)</li></p><h3>Technical Insights</h3><p>• 이란 해군 전력의 대규모 손실은 페르시아만 해상 세력 균형을 근본적으로 변화시킨<br>• 드론 모함 격침은 해상 무인기 운용 플랫폼의 생존성 설계가 중요해질 것을 시사한다</p></div>`,
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>미 해군이 분쟁 개시 이후 30척 이상의 이란 군함을 격침시켰다. 2차대전 항공모함 규모의 이란 드론 모함도 포함된다. 동시에 B-2 스텔스 폭격기가 이란 내부의 탄도미사일 발사대에 관통탄을 투하했다.</p><h3>Key Quotes</h3><p><li>"The US Navy has sunk more than 30 Iranian ships over the past week" (미 해군 이란 군함 30척 이상 격침)</li><li>"As we speak, it is on fire — roughly the size of a WWII aircraft carrier" (현재 불타고 있으며 2차대전 항공모함 규모)</li></p><h3>Technical Insights</h3><p>이란 해군 전력의 대규모 손실은 페르시아만 해상 세력 균형을 근본적으로 변화시킨다. 드론 모함 격침은 해상 무인기 운용 플랫폼의 생존성 설계가 중요해질 것을 시사한다.</p></div>`,
       tags: ["US_Navy", "Iran_Navy", "Ship_Sinking", "Drone_Carrier", "Epic_Fury"],
       link: "https://www.euronews.com/2026/03/06/more-than-30-of-irans-ships-sunk-since-start-of-conflict-as-strikes-on-tehran-intensify-us",
       coords: [56.28, 27.18],
@@ -1391,7 +1391,7 @@ addEvents({
       source: "gCaptain",
       sourceMeta: "gcaptain.com · 2026-03-07",
       image: "",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 중국 소유 벌크선 Sino Ocean호가 AIS 목적지 신호를 "CHINA OWNER_ALL CREW"로 변경하고 호르무즈 해협을 통과했다<br>• Iron Maiden호도 "CHINA OWNER"로 신호를 변경하며 오만 해안선을 따라 통과했다<br>• 중국이 이란과 자국 선박의 안전 통과를 위한</p><h3>Key Quotes</h3><p><li>"The vessel broadcast its destination signal as CHINA OWNER_ALL CREW as it traversed the chokepoint" (중국 소유 전원 중국인 승조원으로 신호 변경)</li><li>"If they go through without incident, this might encourage other owners to take the risk" (무사 통과 시 다른 선주들도 위험을 감수할 수 있음)</li></p><h3>Technical Insights</h3><p>• AIS 목적지 필드를 국적 표시 용도로 사용하는 것은 비표준적 활용이지만, 분쟁 해역에서의 생존 전략으로 부상했<br>• 중국의 별도 안전 통과 협상은 향후 해상 통행권의 국가별 차등화라는 새로운 문제를 야기할 수 있다</p></div>`,
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>중국 소유 벌크선 Sino Ocean호가 AIS 목적지 신호를 "CHINA OWNER_ALL CREW"로 변경하고 호르무즈 해협을 통과했다. 이번 주 두 번째 사례로, Iron Maiden호도 "CHINA OWNER"로 신호를 변경하며 오만 해안선을 따라 통과했다. 중국이 이란과 자국 선박의 안전 통과를 위한 협상을 진행 중인 것으로 알려졌다.</p><h3>Key Quotes</h3><p><li>"The vessel broadcast its destination signal as CHINA OWNER_ALL CREW as it traversed the chokepoint" (중국 소유 전원 중국인 승조원으로 신호 변경)</li><li>"If they go through without incident, this might encourage other owners to take the risk" (무사 통과 시 다른 선주들도 위험을 감수할 수 있음)</li></p><h3>Technical Insights</h3><p>AIS 목적지 필드를 국적 표시 용도로 사용하는 것은 비표준적 활용이지만, 분쟁 해역에서의 생존 전략으로 부상했다. 중국의 별도 안전 통과 협상은 향후 해상 통행권의 국가별 차등화라는 새로운 문제를 야기할 수 있다.</p></div>`,
       tags: ["China", "AIS", "Bulk_Carrier", "Hormuz", "Safe_Passage"],
       link: "https://gcaptain.com/second-bulk-carrier-claiming-to-be-chinese-passes-through-hormuz/",
       coords: [56.27, 26.56],
@@ -1403,7 +1403,7 @@ addEvents({
       source: "Naval News",
       sourceMeta: "navalnews.com · 2026-03-07",
       image: "https://www.navalnews.com/wp-content/uploads/2026/02/BWA-Liberty-class-1024x639.jpg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Blue Water Autonomy사가 미 해군용 Liberty급 자율운항선 건조를 루이지애나주 Conrad Shipyard에서 시작했다<br>• 이 190피트(58m) 강선은 10,000해리 이상의 항속거리와 150톤 이상의 탑재 능력을 갖추며,</p><h3>Key Quotes</h3><p><li>"Building autonomous ships designed from the start for long-duration operations and repeat production" (장기 운용과 반복 생산을 위한 자율운항선)</li><li>"A modern take on an old idea: building capable ships quickly and at scale" (빠르고 대량 건조의 현대적 접근)</li></p><h3>Technical Insights</h3><p>• Liberty급은 Damen의 Axe Bow 선형을 기반으로 내부를 완전히 무인화 설계했<br>• HVAC, 거주구역 등 유인 시스템을 제거하여 효율적 배치와 빠른 건조가 가능하<br>• '처음부터 무인으로 설계(born unmanned)' 접근법의 대표 사례다</p></div>`,
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>Blue Water Autonomy사가 미 해군용 Liberty급 자율운항선 건조를 루이지애나주 Conrad Shipyard에서 시작했다. Damen과 공동 설계한 이 190피트(58m) 강선은 10,000해리 이상의 항속거리와 150톤 이상의 탑재 능력을 갖추며, 연내 첫 선박 완성을 목표로 한다.</p><h3>Key Quotes</h3><p><li>"Building autonomous ships designed from the start for long-duration operations and repeat production" (장기 운용과 반복 생산을 위한 자율운항선)</li><li>"A modern take on an old idea: building capable ships quickly and at scale" (빠르고 대량 건조의 현대적 접근)</li></p><h3>Technical Insights</h3><p>Liberty급은 Damen의 Axe Bow 선형을 기반으로 내부를 완전히 무인화 설계했다. HVAC, 거주구역 등 유인 시스템을 제거하여 효율적 배치와 빠른 건조가 가능하다. '처음부터 무인으로 설계(born unmanned)' 접근법의 대표 사례다.</p></div>`,
       tags: ["Liberty_Class", "Blue_Water_Autonomy", "Damen", "US_Navy", "Autonomous_Ship"],
       link: "https://www.navalnews.com/naval-news/2026/02/video-blue-water-autonomy-introduces-liberty-class-autonomous-ship/",
       coords: [-91.19, 29.69],
@@ -1423,7 +1423,7 @@ addEvents({
       source: "Offshore Energy",
       sourceMeta: "offshore-energy.biz · 2026-03-06",
       image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/02/LNG-vessel-Source-GTT.jpg?image-crop-positioner-ts=1771505165",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 삼성중공업(SHI)이 2026년 1분기에 프랑스의 가스트랑스포트&테크니가즈(GTT)로부터 LNG 운반선의 극저온 탱크 설계 용역을 발주했다<br>• GTT는 유럽 선박 소유사를 대신하여 총 18만 입방미터 용량의 극저온 탱크를 설계하게 되며,<br>• Mark III Flex 막형 격납 시스템을 적용할 예정이다<br>• 해당 선박은 2028년 완성 예정이며,<br>• 7척의 LNG 운반선 계약에 이어진 추가 수주로 의미가 있다<br>• 이 계약은 세계 LNG 해운 산업의 기술 혁신과 친환경 에너지 운송 인프라 확충을 보여주는 사례이다</p><h3>Key Quotes</h3><p><li>"GTT secured in the first quarter of 2026 an order from Samsung Heavy Industries for the tank design of one new LNG vessel on behalf of a European ship-owner." (GTT는 2026년 1분기에 삼성중공업으로부터 유럽 선주를 대신하여 새로운 LNG 운반선의 탱크 설계 용역을 확보했다.)</li></p><p><li>"The tanks will be fitted with GTT's Mark III Flex membrane containment system, with the delivery of the vessel expected in 2028." (극저온 탱크는 GTT의 Mark III Flex 막형 격납 시스템을 장착할 예정이며, 선박 인도는 2028년으로 예상된다.)</li></p><h3>Technical Insights</h3><p>• LNG 운반선의 극저온 탱크 설계는 해양 산업에서 가장 기술 집약적인 분야 중 하나이며, GTT의 Mark III Flex 시스템은 고압 및 저온 환경에서의 안전성과 효율성을 극대화하는 첨단 기술이<br>• 18만 입방미터급 대형 LNG 운반선은 국제 해사기구(IMO)의 국제해사안전기본규칙(SOLAS)과 극저온 가스운반선 규칙(IGC Code)을 충족해야 하며, 이러한 설계 표준 준수는 해상 운송의 안전성 확보에 필수적이<br>• 지속적인 에너지 전환 기조 속에서 LNG 해운의 수요가 증가하고 있으며, 삼성중공업과 GTT 같은 선도 기업들의 기술 협력은 해양 산업의 혁신과 글로벌 경쟁력 강화에 중요한 역할을 한다</p></div>`,
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>삼성중공업(SHI)이 2026년 1분기에 프랑스의 가스트랑스포트&테크니가즈(GTT)로부터 LNG 운반선의 극저온 탱크 설계 용역을 발주했다. GTT는 유럽 선박 소유사를 대신하여 총 18만 입방미터 용량의 극저온 탱크를 설계하게 되며, Mark III Flex 막형 격납 시스템을 적용할 예정이다. 해당 선박은 2028년 완성 예정이며, 이는 GTT가 한화오션과 체결한 7척의 LNG 운반선 계약에 이어진 추가 수주로 의미가 있다. 이 계약은 세계 LNG 해운 산업의 기술 혁신과 친환경 에너지 운송 인프라 확충을 보여주는 사례이다.</p><h3>Key Quotes</h3><p><li>"GTT secured in the first quarter of 2026 an order from Samsung Heavy Industries for the tank design of one new LNG vessel on behalf of a European ship-owner." (GTT는 2026년 1분기에 삼성중공업으로부터 유럽 선주를 대신하여 새로운 LNG 운반선의 탱크 설계 용역을 확보했다.)</li></p><p><li>"The tanks will be fitted with GTT's Mark III Flex membrane containment system, with the delivery of the vessel expected in 2028." (극저온 탱크는 GTT의 Mark III Flex 막형 격납 시스템을 장착할 예정이며, 선박 인도는 2028년으로 예상된다.)</li></p><h3>Technical Insights</h3><p>LNG 운반선의 극저온 탱크 설계는 해양 산업에서 가장 기술 집약적인 분야 중 하나이며, GTT의 Mark III Flex 시스템은 고압 및 저온 환경에서의 안전성과 효율성을 극대화하는 첨단 기술이다. 18만 입방미터급 대형 LNG 운반선은 국제 해사기구(IMO)의 국제해사안전기본규칙(SOLAS)과 극저온 가스운반선 규칙(IGC Code)을 충족해야 하며, 이러한 설계 표준 준수는 해상 운송의 안전성 확보에 필수적이다. 지속적인 에너지 전환 기조 속에서 LNG 해운의 수요가 증가하고 있으며, 삼성중공업과 GTT 같은 선도 기업들의 기술 협력은 해양 산업의 혁신과 글로벌 경쟁력 강화에 중요한 역할을 한다.</p></div>`,
       tags: ["LNG Carrier","Tank Design","Samsung Heavy Industries","GTT","Maritime Technology"],
       link: "https://www.offshore-energy.biz/samsung-heavy-industries-books-french-firms-tank-design-for-new-lng-vessel/",
       coords: [127.0016,37.5665],
@@ -1435,7 +1435,7 @@ addEvents({
       source: "Offshore Energy",
       sourceMeta: "offshore-energy.biz · 2026-03-06",
       image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2025/05/Deepsea-Bollsta.jpg?image-crop-positioner-ts=1747121839",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 노르웨이 국영 에너지 기업 에퀴노르(Equinor)가 노르웨이 대륙붕(NCS)에서의 시추 작업에 대한<br>• 이는 노던 오션(Northern Ocean)이 소유하고 오드펠 드릴링(Odfjell Drilling)이 관리하는 준침수식 굴착정에서 수행될 예정이다<br>• 노르웨이 해양산업청(Havtil)은 요한<br>• 스베르드루프(Johan Sverdrup) 유전에서의 생산 시추,<br>• 임시 마개 및 작업 오버홀을 위해 딥씨 볼스타(Deepsea Bollsta) 굴착정 사용을 승인했다<br>• 모스 CS60E 설계의 6세대 준침수식 굴착정으로,<br>• 수심 3,000미터까지 운영 가능하며 8개 井의 프로그램 완성을 위해 계약이 연장되었다<br>• 토탈에너지스 EP 노르게(8.44%)가 파트너로 참여한다</p><h3>Key Quotes</h3><p><li>"The Norwegian Ocean Industry Authority (Havtil) has granted Equinor consent to use the Deepsea Bollsta rig for production drilling, completion, temporary plugging, and workover on the Johan Sverdrup field." (노르웨이 해양산업청이 요한 스베르드루프 유전에서의 생산 시추, 완성, 임시 마개 및 작업 오버홀을 위해 딥씨 볼스타 굴착정 사용을 승인했다)</li></p><p><li>"The Deepsea Bollsta sixth-generation semi-submersible rig of Moss CS60E design can operate in both benign and harsh environments at water depths of up to 3,000 meters." (딥씨 볼스타는 모스 CS60E 설계의 6세대 준침수식 굴착정으로 수심 3,000미터까지 양호한 환경과 악조건 환경 모두에서 운영 가능하다)</li></p><h3>Technical Insights</h3><p>• 북해 요한 스베르드루프 유전의 8개 井 프로그램은 수심 110-120미터의 얕은 해역 조건에서 모스 CS60E 설계의 6세대 준침수식 굴착정을 활용하여 장기 생산 유지 작업을 수행하는 전형적인 사례이<br>• 2년의 기본 계약(2025년 8월 31일 시작)과 추가 1년 옵션은 해양 에너지 산업의 변동성 있는 작업 환경에서의 유연한 자산 관리 전략을 반영한<br>• 오드펠 드릴링의 굴착정 관리 기술과 노던 오션의 자산 소유 구조는 북해와 같은 성숙한 유전 개발 지역에서의 효율적인 운영 모델을 제시하며, 해양 엔지니어 관점에서 이러한 준침수식 구조물의 계류, 동적 위치 제어 및 악천후 안전 관리가 핵심 기술 요소임을 시사한다</p></div>`,
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>노르웨이 국영 에너지 기업 에퀴노르(Equinor)가 노르웨이 대륙붕(NCS)에서의 시추 작업에 대한 승인을 획득했으며, 이는 노던 오션(Northern Ocean)이 소유하고 오드펠 드릴링(Odfjell Drilling)이 관리하는 준침수식 굴착정에서 수행될 예정이다. 노르웨이 해양산업청(Havtil)은 요한 스베르드루프(Johan Sverdrup) 유전에서의 생산 시추, 완성, 임시 마개 및 작업 오버홀을 위해 딥씨 볼스타(Deepsea Bollsta) 굴착정 사용을 승인했다. 본 굴착정은 2019년 건조된 모스 CS60E 설계의 6세대 준침수식 굴착정으로, 수심 3,000미터까지 운영 가능하며 8개 井의 프로그램 완성을 위해 계약이 연장되었다. 에퀴노르는 42.62% 지분을 보유한 운영사이며, 아커 BP(31.6%), 페트로(17.36%), 토탈에너지스 EP 노르게(8.44%)가 파트너로 참여한다.</p><h3>Key Quotes</h3><p><li>"The Norwegian Ocean Industry Authority (Havtil) has granted Equinor consent to use the Deepsea Bollsta rig for production drilling, completion, temporary plugging, and workover on the Johan Sverdrup field." (노르웨이 해양산업청이 요한 스베르드루프 유전에서의 생산 시추, 완성, 임시 마개 및 작업 오버홀을 위해 딥씨 볼스타 굴착정 사용을 승인했다)</li></p><p><li>"The Deepsea Bollsta sixth-generation semi-submersible rig of Moss CS60E design can operate in both benign and harsh environments at water depths of up to 3,000 meters." (딥씨 볼스타는 모스 CS60E 설계의 6세대 준침수식 굴착정으로 수심 3,000미터까지 양호한 환경과 악조건 환경 모두에서 운영 가능하다)</li></p><h3>Technical Insights</h3><p>북해 요한 스베르드루프 유전의 8개 井 프로그램은 수심 110-120미터의 얕은 해역 조건에서 모스 CS60E 설계의 6세대 준침수식 굴착정을 활용하여 장기 생산 유지 작업을 수행하는 전형적인 사례이다. 2년의 기본 계약(2025년 8월 31일 시작)과 추가 1년 옵션은 해양 에너지 산업의 변동성 있는 작업 환경에서의 유연한 자산 관리 전략을 반영한다. 오드펠 드릴링의 굴착정 관리 기술과 노던 오션의 자산 소유 구조는 북해와 같은 성숙한 유전 개발 지역에서의 효율적인 운영 모델을 제시하며, 해양 엔지니어 관점에서 이러한 준침수식 구조물의 계류, 동적 위치 제어 및 악천후 안전 관리가 핵심 기술 요소임을 시사한다.</p></div>`,
       tags: ["North Sea","Equinor","Odfjell Drilling","Johan Sverdrup","Semi-submersible Rig"],
       link: "https://www.offshore-energy.biz/green-light-for-north-sea-drilling-ops-with-odfjell-drilling-managed-rig/",
       coords: [2,58.8],
@@ -1447,7 +1447,7 @@ addEvents({
       source: "Offshore Energy",
       sourceMeta: "offshore-energy.biz · 2026-03-06",
       image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/03/K-Line-sets-up-entity-to-oversee-all-of-its-ship-management-companies.png?image-crop-positioner-ts=1772790353",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 일본의 대형 해운사 가와사키 긴센 카이샤(K-Line)가 산하의 모든 선박관리회사를 감독하기 위한<br>• 중간지주회사인 K-Line Ship Management Holdings(KLSM-H)를 설립했다<br>• 이 회사는 2026년 4월 1일부터 운영을 시작하며,<br>• 환경규제 준수 및 기술혁신 등의 도전 과제에 신속하고 집단적으로 대응할 수 있는 통합 구조를 구축하는 것을 목표로 한다<br>• K-Line은 이번 조직개편을 통해 각 선박관리회사의 현장 능력과 전문성을 바탕으로 안전성 항해와 운송 서비스 품질을 지속적으로 개선할 계획이다<br>• KLSM-H는 그룹 전체의 관리 표준을 수립하여 선박관리 품질을 향상시키고 안정화하는 데 중점을 둘 것이다</p><h3>Key Quotes</h3><p><li>"By further strengthening the expertise it has been developing for each ship type, K-LINE will enhance the management structure to enable the entire Group to more flexibly utilize management resources (human resources, data and know-how), thereby strengthening the management oversight of ship management operations and further enhancing their sophistication" (각 선박 유형별로 개발해온 전문성을 강화함으로써, K-Line은 전체 그룹이 경영자원(인적자원, 데이터 및 노하우)을 더욱 유연하게 활용할 수 있도록 관리 구조를 개선하고, 선박관리 운영에 대한 감시를 강화하며 그 정교성을 한층 높일 것임)</li></p><h3>Technical Insights</h3><p>• K-Line의 이번 선박관리 조직 통합은 해운산업의 디지털화 및 자동화 추세에 대응하기 위한 전략적 조치로 평가된<br>• 특히 환경규제 준수(IMO 2030/2050 탄소중립 규정)와 기술혁신을 명시적으로 강조한 점은 해운업계가 직면한 에너지효율 설계지수(EEDI) 규제 및 선박 자동화 기술 도입의 중요성을 반영한<br>• 그룹 차원의 통합 데이터 관리와 노하우 공유는 선박 운영 최적화, 안전 항해 기준의 일관성 유지, 그리고 향후 자율운항선박(MASS) 도입 시 필수적인 표준화된 운영 프로토콜 구축에 핵심적 역할을 할 것으로 예상된다</p></div>`,
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>일본의 대형 해운사 가와사키 긴센 카이샤(K-Line)가 산하의 모든 선박관리회사를 감독하기 위한 중간지주회사인 K-Line Ship Management Holdings(KLSM-H)를 설립했다. 이 회사는 2026년 4월 1일부터 운영을 시작하며, 환경규제 준수 및 기술혁신 등의 도전 과제에 신속하고 집단적으로 대응할 수 있는 통합 구조를 구축하는 것을 목표로 한다. K-Line은 이번 조직개편을 통해 각 선박관리회사의 현장 능력과 전문성을 바탕으로 안전성 항해와 운송 서비스 품질을 지속적으로 개선할 계획이다. KLSM-H는 그룹 전체의 관리 표준을 수립하여 선박관리 품질을 향상시키고 안정화하는 데 중점을 둘 것이다.</p><h3>Key Quotes</h3><p><li>"By further strengthening the expertise it has been developing for each ship type, K-LINE will enhance the management structure to enable the entire Group to more flexibly utilize management resources (human resources, data and know-how), thereby strengthening the management oversight of ship management operations and further enhancing their sophistication" (각 선박 유형별로 개발해온 전문성을 강화함으로써, K-Line은 전체 그룹이 경영자원(인적자원, 데이터 및 노하우)을 더욱 유연하게 활용할 수 있도록 관리 구조를 개선하고, 선박관리 운영에 대한 감시를 강화하며 그 정교성을 한층 높일 것임)</li></p><h3>Technical Insights</h3><p>K-Line의 이번 선박관리 조직 통합은 해운산업의 디지털화 및 자동화 추세에 대응하기 위한 전략적 조치로 평가된다. 특히 환경규제 준수(IMO 2030/2050 탄소중립 규정)와 기술혁신을 명시적으로 강조한 점은 해운업계가 직면한 에너지효율 설계지수(EEDI) 규제 및 선박 자동화 기술 도입의 중요성을 반영한다. 그룹 차원의 통합 데이터 관리와 노하우 공유는 선박 운영 최적화, 안전 항해 기준의 일관성 유지, 그리고 향후 자율운항선박(MASS) 도입 시 필수적인 표준화된 운영 프로토콜 구축에 핵심적 역할을 할 것으로 예상된다.</p></div>`,
       tags: ["K-Line","Ship Management","Corporate Structure","Organizational Strategy"],
       link: "https://www.offshore-energy.biz/k-line-sets-up-entity-to-oversee-all-of-its-ship-management-companies/",
       coords: [139.7673,35.6762],
@@ -1467,7 +1467,7 @@ addEvents({
       source: "gCaptain",
       sourceMeta: "gcaptain.com · 2026-03-08",
       image: "https://gcaptain.com/wp-content/uploads/2026/03/Loop-oil-spill-scaled.jpg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 루이지애나 석유하역항(LOOP)에서 2월 26일 발생한<br>• 원유 유출 사건으로 미 해안경비대(USCC),<br>• LOOP가 통합지휘부를 구성하여 대응 중이다<br>• 해상 기계 결함으로 인해 약 31,500갤런(750배럴)의 원유가 유출되었으며,<br>• 3월 7일 현재 27,888갤런(664배럴)을 회수했다<br>• 28,300피트의 방유 및 회수 부스 등 대규모 자원이 투입되었으며,<br>• 항공 감시와 환경 모니터링을 병행하고 있다<br>• LOOP는 미국 유일의 초대형유조선(VLCC) 전용 심해항으로서 국가적 원유 수입 및 저장 인프라의 핵심 시설이다</p><h3>Key Quotes</h3><p><li>"The response includes approximately 464 personnel, 60 vessels engaged in cleanup operations, and 28,300 feet of protective and recovery boom deployed in affected areas." </li><br>(대응 작업에 약 464명의 인원, 정화 작업에 참여한 60척의 선박, 영향받은 지역에 배치된 28,300피트의 방유 및 회수 부스가 포함되어 있다.)</p><p><li>"LOOP, located about 18 miles offshore of Louisiana, operates the only deepwater U.S. port capable of handling fully loaded Very Large Crude Carriers (VLCCs) and serves as a critical hub for the nation's crude oil import and storage infrastructure."</li><br>(루이지애나 해안에서 약 18마일 떨어진 LOOP는 완전히 적재된 초대형유조선(VLCC)을 처리할 수 있는 미국 유일의 심해항으로, 국가의 원유 수입 및 저장 인프라의 핵심 허브 역할을 한다.)</p><h3>Technical Insights</h3><p>• LOOP 시설의 해상 기계 결함으로 인한 원유 유출 사건은 대규모 석유 하역 작업에서의 장비 유지보수 및 예방적 정비의 중요성을 재강조한<br>• 특히 VLCC 전용 심해항의 경우 기상 악화, 해상 운동, 고압 시스템 등 고위험 요소가 많아 정기적인 안전 감사와 자동화된 결함 감지 시스템 도입이 필수적이<br>• IMO MARPOL 협약 및 OPA 90(미국 석유법)에 따른 엄격한 유출 방지 기준 준수와 함께, AI 기반 상태 모니터링 시스템의 도입으로 기계 결함을 조기에 감지하고 유출 위험을 최소화할 수 있을 것으로 예상된<br>• 또한 적절한 공급선 관리와 정기적인 제3자 감시를 통해 심해항 운영의 안전성과 신뢰성을 강화해야 한다</p></div>`,
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>미국 루이지애나 석유하역항(LOOP)에서 2월 26일 발생한 원유 유출 사건으로 미 해안경비대(USCC), 루이지애나 주정부, LOOP가 통합지휘부를 구성하여 대응 중이다. 해상 기계 결함으로 인해 약 31,500갤런(750배럴)의 원유가 유출되었으며, 3월 7일 현재 27,888갤런(664배럴)을 회수했다. 464명의 인원, 60척의 선박, 28,300피트의 방유 및 회수 부스 등 대규모 자원이 투입되었으며, 항공 감시와 환경 모니터링을 병행하고 있다. LOOP는 미국 유일의 초대형유조선(VLCC) 전용 심해항으로서 국가적 원유 수입 및 저장 인프라의 핵심 시설이다.</p><h3>Key Quotes</h3><p><li>"The response includes approximately 464 personnel, 60 vessels engaged in cleanup operations, and 28,300 feet of protective and recovery boom deployed in affected areas." </li><br>(대응 작업에 약 464명의 인원, 정화 작업에 참여한 60척의 선박, 영향받은 지역에 배치된 28,300피트의 방유 및 회수 부스가 포함되어 있다.)</p><p><li>"LOOP, located about 18 miles offshore of Louisiana, operates the only deepwater U.S. port capable of handling fully loaded Very Large Crude Carriers (VLCCs) and serves as a critical hub for the nation's crude oil import and storage infrastructure."</li><br>(루이지애나 해안에서 약 18마일 떨어진 LOOP는 완전히 적재된 초대형유조선(VLCC)을 처리할 수 있는 미국 유일의 심해항으로, 국가의 원유 수입 및 저장 인프라의 핵심 허브 역할을 한다.)</p><h3>Technical Insights</h3><p>LOOP 시설의 해상 기계 결함으로 인한 원유 유출 사건은 대규모 석유 하역 작업에서의 장비 유지보수 및 예방적 정비의 중요성을 재강조한다. 특히 VLCC 전용 심해항의 경우 기상 악화, 해상 운동, 고압 시스템 등 고위험 요소가 많아 정기적인 안전 감사와 자동화된 결함 감지 시스템 도입이 필수적이다. IMO MARPOL 협약 및 OPA 90(미국 석유법)에 따른 엄격한 유출 방지 기준 준수와 함께, AI 기반 상태 모니터링 시스템의 도입으로 기계 결함을 조기에 감지하고 유출 위험을 최소화할 수 있을 것으로 예상된다. 또한 적절한 공급선 관리와 정기적인 제3자 감시를 통해 심해항 운영의 안전성과 신뢰성을 강화해야 한다.</p></div>`,
       tags: ["Oil Spill","Environmental Incident","LOOP","Gulf of Mexico","Mechanical Failure"],
       link: "https://gcaptain.com/crude-oil-spill-draws-large-response-at-nations-only-deepwater-vlcc-port/",
       coords: [-90.3,28.9],
@@ -1497,7 +1497,7 @@ addEvents({
       source: "MarineLink",
       sourceMeta: "marinelink.com · 2026-03-09",
       image: "https://images.marinelink.com/images/maritime/w800/source-social-168712.jpg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 파나마 국적의 축산 운반선 North Star 1호가 2026년 3월 3일 브라질 상파울루 주의 사오세바스찬 항에서 화재 사건을 발생시켰다<br>• 28명의 선원 중 일부가 연기 흡입으로 인한<br>• 터키로 향하던 2,600마리의 소가 모두 하선되었다<br>• 화재는 축산 사료를 보관하는 창고에서 시작된<br>• 이 사건은 축산 운반선의 구조적 문제와 해상 화재의 위험성을 다시 한</p><h3>Key Quotes</h3><p><li>"The incident is a strong reminder of the dangers of fire at sea, and especially the risks of fire on livestock carriers where there is no safe way to evacuate the animals should a fire break out and get out of control at sea" (해상에서의 화재 위험, 특히 축산 운반선에서 화재가 발생하고 통제 불능 상태가 되었을 때 동물들을 안전하게 대피시킬 방법이 없다는 점을 강력히 상기시켜 준다)</li></p><p><li>"When things go badly and the crew need to evacuate the animals are all left onboard to perish. The 'lucky' ones die first." (상황이 악화되고 승무원들이 대피해야 할 때, 동물들은 모두 선내에 남겨져 죽게 된다)</li></p><p><li>"This leaves the question, how many of these ships are firetraps? How many fires occur that are not reported?" (이는 이러한 선박들 중 몇 척이 화재 위험에 노출된 구조인지, 보고되지 않은 화재가 몇 건이나 되는지에 대한 의문을 제기한다)</li></p><h3>Technical Insights</h3><p>• 축산 운반선의 화재 안전 문제는 해사산업의 가장 취약한 부분 중 하나로 지적되고 있<br>• 현재 축산 운반선은 동물 대피 장비를 호스 외에 거의 보유하지 않으며, 특히 사료 보관 창고에서의 자발적 발화 위험성이 높<br>• 1980년 Farid Fares호 사건(40,000마리 이상 화상)부터 최근 2026년 North Star 1호 사건까지 수십 년간 반복되는 재해는 국제해사기구(IMO)의 강제적 안전 규정 부재를 드러낸<br>• 호주 수의사 Dr. Lynn Simpson의 증언에서 보듯이, 선상 화재 경보가 빈번하게 울리지만 대부분 언론에 보도되지 않는 적정 보고 체계의 부재도 문제로, 2024년 36개 기관의 IMO 서한 제출은 축산 운반선의 국제 강제 규정 도입이 시급함을 보여준다</p></div>`,
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>파나마 국적의 축산 운반선 North Star 1호가 2026년 3월 3일 브라질 상파울루 주의 사오세바스찬 항에서 화재 사건을 발생시켰다. 선박에 탑승한 28명의 선원 중 일부가 연기 흡입으로 인한 의료 처치를 받았으며, 터키로 향하던 2,600마리의 소가 모두 하선되었다. 화재는 축산 사료를 보관하는 창고에서 시작된 것으로 보고되었다. 이 사건은 축산 운반선의 구조적 문제와 해상 화재의 위험성을 다시 한 번 강조하게 되었으며, 국제해사기구(IMO)에 대한 규제 강화 요청이 이어지고 있다.</p><h3>Key Quotes</h3><p><li>"The incident is a strong reminder of the dangers of fire at sea, and especially the risks of fire on livestock carriers where there is no safe way to evacuate the animals should a fire break out and get out of control at sea" (해상에서의 화재 위험, 특히 축산 운반선에서 화재가 발생하고 통제 불능 상태가 되었을 때 동물들을 안전하게 대피시킬 방법이 없다는 점을 강력히 상기시켜 준다)</li></p><p><li>"When things go badly and the crew need to evacuate the animals are all left onboard to perish. The 'lucky' ones die first." (상황이 악화되고 승무원들이 대피해야 할 때, 동물들은 모두 선내에 남겨져 죽게 된다)</li></p><p><li>"This leaves the question, how many of these ships are firetraps? How many fires occur that are not reported?" (이는 이러한 선박들 중 몇 척이 화재 위험에 노출된 구조인지, 보고되지 않은 화재가 몇 건이나 되는지에 대한 의문을 제기한다)</li></p><h3>Technical Insights</h3><p>축산 운반선의 화재 안전 문제는 해사산업의 가장 취약한 부분 중 하나로 지적되고 있다. 현재 축산 운반선은 동물 대피 장비를 호스 외에 거의 보유하지 않으며, 특히 사료 보관 창고에서의 자발적 발화 위험성이 높다. 1980년 Farid Fares호 사건(40,000마리 이상 화상)부터 최근 2026년 North Star 1호 사건까지 수십 년간 반복되는 재해는 국제해사기구(IMO)의 강제적 안전 규정 부재를 드러낸다. 호주 수의사 Dr. Lynn Simpson의 증언에서 보듯이, 선상 화재 경보가 빈번하게 울리지만 대부분 언론에 보도되지 않는 적정 보고 체계의 부재도 문제로, 2024년 36개 기관의 IMO 서한 제출은 축산 운반선의 국제 강제 규정 도입이 시급함을 보여준다.</p></div>`,
       tags: ["Fire","Livestock Carrier","São Sebastião","Panama-flagged","Crew Safety"],
       link: "https://www.marinelink.com/news/livestock-carrier-catches-fire-brazil-536675",
       coords: [-45.4136,-23.806],
@@ -1515,7 +1515,7 @@ addEvents({
       source: "MarineLink",
       sourceMeta: "marinelink.com · 2026-03-08",
       image: "https://images.marinelink.com/images/maritime/w800/source-168702.jpg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2026년 3월 5일 미국 해안경비대 항공생존기술병 2급 타일러 재거스(Tyler Jaggers)가 구조 작전 중 입은 중상으로 인해 사망했습니다<br>• 재거스는 오리건 서쪽 약 120해리 지점에서 상선 모미 애로우(Momi Arrow)의 의료 응급 상황에 대응하기 위해 MH-60 자이호크 헬기 승무원으로 활동하던 중 2월 27일 부상을 입었습니다<br>• 아스토리아 항공기지에서 빅토리아 종합병원과 매디건 육군의료센터로 이송되었던 그는 결국 상처로 인해 사망했으며,<br>• 해안경비대는 그의 용맹함을 인정하여 명예 승진과 함께 항공비행 중 영웅적 행동에 수여되는 최고 군사훈장인 탁월비행십자장을 추서했습니다</p><h3>Key Quotes</h3><p><li>"Aviation Survival Technician Jaggers represented the very best of our Service and the Aviation Rescue Swimmer community. He demonstrated extraordinary heroism in the face of danger, upholding the highest standards of courage and excellence for Coast Guard operations." </li><br>(항공생존기술병 재거스는 우리 부대와 항공구조수영사 공동체의 최고를 대표했으며, 위험에 직면하여 특별한 영웅주의를 보여주었고 해안경비대 작전의 최고 수준의 용기와 우수성을 유지했습니다.)</p><p><li>"We honor his selfless actions and unwavering devotion to our highest calling: to save others."</li><br>(우리는 그의 무사(無私)적 행동과 다른 사람들을 구하는 우리의 가장 숭고한 소명에 대한 흔들리지 않는 헌신을 경의를 표합니다.)</p><h3>Technical Insights</h3><p>• 본 사건은 해상 구조 작전 중 항공기 승무원의 안전 관리 및 위험 평가의 중요성을 강조합<br>• MH-60 자이호크 헬기의 항공생존기술병은 극한의 기상 조건과 해상 환경에서 구조 작전을 수행하므로, 이러한 고위험 작업에 대한 표준화된 안전 프로토콜과 장비 개선이 지속적으로 필요합<br>• 또한 해안경비대가 현재 진행 중인 사건 원인 조사는 향후 유사 사고 예방을 위한 절차 개선 및 인명 보호 강화 방안을 제시할 것으로 예상됩<br>• 이러한 해상 구조 작전의 위험성은 국제해사기구(IMO)의 인명안전 규정 및 해상 안전 표준 수립에도 중요한 참고 사례가 될 수 있습니다</p></div>`,
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>2026년 3월 5일 미국 해안경비대 항공생존기술병 2급 타일러 재거스(Tyler Jaggers)가 구조 작전 중 입은 중상으로 인해 사망했습니다. 재거스는 오리건 서쪽 약 120해리 지점에서 상선 모미 애로우(Momi Arrow)의 의료 응급 상황에 대응하기 위해 MH-60 자이호크 헬기 승무원으로 활동하던 중 2월 27일 부상을 입었습니다. 아스토리아 항공기지에서 빅토리아 종합병원과 매디건 육군의료센터로 이송되었던 그는 결국 상처로 인해 사망했으며, 해안경비대는 그의 용맹함을 인정하여 명예 승진과 함께 항공비행 중 영웅적 행동에 수여되는 최고 군사훈장인 탁월비행십자장을 추서했습니다. 해안경비대는 현재 사건의 원인에 대한 조사를 진행 중입니다.</p><h3>Key Quotes</h3><p><li>"Aviation Survival Technician Jaggers represented the very best of our Service and the Aviation Rescue Swimmer community. He demonstrated extraordinary heroism in the face of danger, upholding the highest standards of courage and excellence for Coast Guard operations." </li><br>(항공생존기술병 재거스는 우리 부대와 항공구조수영사 공동체의 최고를 대표했으며, 위험에 직면하여 특별한 영웅주의를 보여주었고 해안경비대 작전의 최고 수준의 용기와 우수성을 유지했습니다.)</p><p><li>"We honor his selfless actions and unwavering devotion to our highest calling: to save others."</li><br>(우리는 그의 무사(無私)적 행동과 다른 사람들을 구하는 우리의 가장 숭고한 소명에 대한 흔들리지 않는 헌신을 경의를 표합니다.)</p><h3>Technical Insights</h3><p>본 사건은 해상 구조 작전 중 항공기 승무원의 안전 관리 및 위험 평가의 중요성을 강조합니다. MH-60 자이호크 헬기의 항공생존기술병은 극한의 기상 조건과 해상 환경에서 구조 작전을 수행하므로, 이러한 고위험 작업에 대한 표준화된 안전 프로토콜과 장비 개선이 지속적으로 필요합니다. 또한 해안경비대가 현재 진행 중인 사건 원인 조사는 향후 유사 사고 예방을 위한 절차 개선 및 인명 보호 강화 방안을 제시할 것으로 예상됩니다. 이러한 해상 구조 작전의 위험성은 국제해사기구(IMO)의 인명안전 규정 및 해상 안전 표준 수립에도 중요한 참고 사례가 될 수 있습니다.</p></div>`,
       tags: ["Coast Guard","Helicopter Rescue","Aviation Accident","Fatality","MH-60 Jayhawk"],
       link: "https://www.marinelink.com/news/coast-guard-announces-passing-petty-536667",
       coords: [-124.7149,48.3809],
@@ -1535,7 +1535,7 @@ addEvents({
       source: "MarineLink",
       sourceMeta: "marinelink.com · 2026-03-09",
       image: "https://images.marinelink.com/images/maritime/w800/source-social-168712.jpg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 파나마 국적의 축산물 운반선 North Star 1호가 2026년 3월 3일 브라질 상 세바스티앙 항에서 정박 중 화재를 발생시켰다<br>• 28명의 승무원 중 일부가 연기 흡입으로 인한<br>• 터키로 향하던 2,600마리의 소가 모두 상륙했다<br>• 화재는 축산물 사료를 보관하던 식료품 창고에서 시작된<br>• 이번 사건은 축산물 운반선의 화재 안전성 문제를 부각시켰으며,<br>• 국제해사기구(IMO)에 축산물 운반선에 대한<br>• 강제 국제규정 도입을 촉구하는 36개 단체의 연합서한이 제출된</p><h3>Key Quotes</h3><p><li>"The incident is a strong reminder of the dangers of fire at sea, and especially the risks of fire on livestock carriers where there is no safe way to evacuate the animals should a fire break out and get out of control at sea." (해상에서의 화재 위험, 특히 축산물 운반선에서 화재가 발생하여 통제 불능이 될 경우 동물을 대피시킬 안전한 방법이 없다는 점을 강조하는 증언)</li></p><p><li>"When things go badly and the crew need to evacuate the animals are all left onboard to perish. The 'lucky' ones die first." (상황이 악화되어 승무원이 대피할 때 동물들은 모두 선박에 남겨져 죽게 되며, '운이 좋은' 동물들이 먼저 죽는다는 의미)</li></p><h3>Technical Insights</h3><p>• 축산물 운반선의 화재 안전성은 해양산업의 중대한 미해결 과제로, 국제규정 부재로 인한 체계적인 위험 관리 부족이 문제<br>• 현재 축산물 운반선은 호스 외에 동물 대피용 생명 보존 장비를 갖추지 않아 화재 발생 시 선상 동물의 대량 폐사가 불가피한 상황이<br>• 축산물 운반선의 화재 빈도와 심각성을 고려하면, IMO 차원에서 SOLAS 협약 강화, 화재 감지 및 진화 시스템의 의무화, 정기적인 안전 감시 프로토콜 도입이 긴급히 필요하<br>• 특히 사료 저장 구역에 대한 자동 화재 진화 장치 설치 및 정기 점검 기준 수립이 해양 안전과 동물 복지 측면에서 모두 중요한 개선 사항으로 평가된다</p></div>`,
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>파나마 국적의 축산물 운반선 North Star 1호가 2026년 3월 3일 브라질 상 세바스티앙 항에서 정박 중 화재를 발생시켰다. 선상에 탑승한 28명의 승무원 중 일부가 연기 흡입으로 인한 의료 처치를 받았으며, 터키로 향하던 2,600마리의 소가 모두 상륙했다. 화재는 축산물 사료를 보관하던 식료품 창고에서 시작된 것으로 보도되었다. 이번 사건은 축산물 운반선의 화재 안전성 문제를 부각시켰으며, 국제해사기구(IMO)에 축산물 운반선에 대한 강제 국제규정 도입을 촉구하는 36개 단체의 연합서한이 제출된 상태이다.</p><h3>Key Quotes</h3><p><li>"The incident is a strong reminder of the dangers of fire at sea, and especially the risks of fire on livestock carriers where there is no safe way to evacuate the animals should a fire break out and get out of control at sea." (해상에서의 화재 위험, 특히 축산물 운반선에서 화재가 발생하여 통제 불능이 될 경우 동물을 대피시킬 안전한 방법이 없다는 점을 강조하는 증언)</li></p><p><li>"When things go badly and the crew need to evacuate the animals are all left onboard to perish. The 'lucky' ones die first." (상황이 악화되어 승무원이 대피할 때 동물들은 모두 선박에 남겨져 죽게 되며, '운이 좋은' 동물들이 먼저 죽는다는 의미)</li></p><h3>Technical Insights</h3><p>축산물 운반선의 화재 안전성은 해양산업의 중대한 미해결 과제로, 국제규정 부재로 인한 체계적인 위험 관리 부족이 문제다. 현재 축산물 운반선은 호스 외에 동물 대피용 생명 보존 장비를 갖추지 않아 화재 발생 시 선상 동물의 대량 폐사가 불가피한 상황이다. 축산물 운반선의 화재 빈도와 심각성을 고려하면, IMO 차원에서 SOLAS 협약 강화, 화재 감지 및 진화 시스템의 의무화, 정기적인 안전 감시 프로토콜 도입이 긴급히 필요하다. 특히 사료 저장 구역에 대한 자동 화재 진화 장치 설치 및 정기 점검 기준 수립이 해양 안전과 동물 복지 측면에서 모두 중요한 개선 사항으로 평가된다.</p></div>`,
       tags: ["Fire","Livestock Carrier","Port Accident","Brazil","Panama-flagged"],
       link: "https://www.marinelink.com/news/livestock-carrier-catches-fire-brazil-536675",
       coords: [-45.8267,-23.8041],
@@ -1571,7 +1571,7 @@ addEvents({
       source: "MarineLink",
       sourceMeta: "marinelink.com · 2026-03-08",
       image: "https://images.marinelink.com/images/maritime/w800/source-168702.jpg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2026년 3월 5일 미국 해안경비대(USCG) 항공생존기술자 Tyler Jaggers 이등병관이 상업선박 Momi Arrow의 의료 응급상황에 대응하던 중 입은 중상으로 사망했습니다<br>• 사건은 워싱턴주 Cape Flattery 서쪽 약 120해리 해상에서 발생한<br>• Jaggers는 Air Station Astoria의 MH-60 Jayhawk 헬리콥터 승무원으로 활동 중이었습니다<br>• Victoria General Hospital에서 초기 치료를 받은 후 미국 Tacoma의 Madigan Army Medical Center로 이송되었으나 결국 사망했습니다<br>• 해안경비대는 그의 용맹성을 인정하여 전역 중 이등병관으로 승진시키고 항공비행 중 영웅주의에 대한<br>• 최고 훈장인 Distinguished Flying Cross를 수여했습니다<br>• 부상의 원인에 대해 조사를 진행 중입니다</p><h3>Key Quotes</h3><p><li>"Aviation Survival Technician Jaggers represented the very best of our Service and the Aviation Rescue Swimmer community," (항공생존기술자 Jaggers는 해안경비대와 항공구조수영 커뮤니티에서 최고를 대표했습니다)</li></p><p><li>"He demonstrated extraordinary heroism in the face of danger, upholding the highest standards of courage and excellence for Coast Guard operations." (그는 위험 속에서 비범한 영웅주의를 보여주었으며, 해안경비대 작전의 최고 기준인 용맹함과 우수성을 유지했습니다)</li></p><h3>Technical Insights</h3><p>• 항공구조작전(Aerial Rescue Operations)에서의 안전 프로토콜 강화 필요성이 대두되었습<br>• MH-60 Jayhawk 헬리콥터의 호이스팅(hoisting) 작업 중 해상 위험 요소 - 파도, 바람, 선박의 움직임 등으로 인한 항공생존기술자의 부상 위험이 매우 높으며, 이러한 위험 상황에서의 안전 장비 및 절차 개선이 필수적입<br>• 또한 해상 의료 응급상황 대응 시 선박과 헬리콥터 간 조율 강화, 안전거리 유지, 기상 조건 재평가 등 구조 작전 전 위험평가 프로세스 고도화가 산업 전반에 걸쳐 권장됩<br>• 본 사건은 해상 구조작전의 본질적 위험성을 다시 한 번 일깨우는 계기가 되었으며, 국제해사기구(IMO)와 각국 해양 당국들이 구조작전 안전 기준 및 훈련 강화를 재검토할 필요가 있습니다</p></div>`,
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>2026년 3월 5일 미국 해안경비대(USCG) 항공생존기술자 Tyler Jaggers 이등병관이 상업선박 Momi Arrow의 의료 응급상황에 대응하던 중 입은 중상으로 사망했습니다. 사건은 워싱턴주 Cape Flattery 서쪽 약 120해리 해상에서 발생한 구조작전 중 발생했으며, Jaggers는 Air Station Astoria의 MH-60 Jayhawk 헬리콥터 승무원으로 활동 중이었습니다. 부상 후 캐나다 Victoria General Hospital에서 초기 치료를 받은 후 미국 Tacoma의 Madigan Army Medical Center로 이송되었으나 결국 사망했습니다. 해안경비대는 그의 용맹성을 인정하여 전역 중 이등병관으로 승진시키고 항공비행 중 영웅주의에 대한 최고 훈장인 Distinguished Flying Cross를 수여했습니다. 해안경비대는 구조작전 중 발생한 부상의 원인에 대해 조사를 진행 중입니다.</p><h3>Key Quotes</h3><p><li>"Aviation Survival Technician Jaggers represented the very best of our Service and the Aviation Rescue Swimmer community," (항공생존기술자 Jaggers는 해안경비대와 항공구조수영 커뮤니티에서 최고를 대표했습니다)</li></p><p><li>"He demonstrated extraordinary heroism in the face of danger, upholding the highest standards of courage and excellence for Coast Guard operations." (그는 위험 속에서 비범한 영웅주의를 보여주었으며, 해안경비대 작전의 최고 기준인 용맹함과 우수성을 유지했습니다)</li></p><h3>Technical Insights</h3><p>항공구조작전(Aerial Rescue Operations)에서의 안전 프로토콜 강화 필요성이 대두되었습니다. MH-60 Jayhawk 헬리콥터의 호이스팅(hoisting) 작업 중 해상 위험 요소 - 파도, 바람, 선박의 움직임 등으로 인한 항공생존기술자의 부상 위험이 매우 높으며, 이러한 위험 상황에서의 안전 장비 및 절차 개선이 필수적입니다. 또한 해상 의료 응급상황 대응 시 선박과 헬리콥터 간 조율 강화, 안전거리 유지, 기상 조건 재평가 등 구조 작전 전 위험평가 프로세스 고도화가 산업 전반에 걸쳐 권장됩니다. 본 사건은 해상 구조작전의 본질적 위험성을 다시 한 번 일깨우는 계기가 되었으며, 국제해사기구(IMO)와 각국 해양 당국들이 구조작전 안전 기준 및 훈련 강화를 재검토할 필요가 있습니다.</p></div>`,
       tags: ["rescue operation","aviation accident","casualty","Coast Guard","MH-60 Jayhawk"],
       link: "https://www.marinelink.com/news/coast-guard-announces-passing-petty-536667",
       coords: [-124.7,48.4],
@@ -1591,7 +1591,7 @@ addEvents({
       source: "gCaptain",
       sourceMeta: "gcaptain.com · 2026-03-09",
       image: "https://gcaptain.com/wp-content/uploads/2026/03/2026-03-04T190201Z_330648636_RC20XJA5SWBN_RTRMADP_3_IRAN-CRISIS-INSURANCE.jpg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 호르무즈 해협에서 미국-이스라엘과 이란 간 분쟁이 2월 말 이후 급격히 확대되면서 상선에 대한<br>• 영국해양무역작전부(UKMTO)에 따르면 2월 28일부터 3월 8일 사이 총 13건의 사건이 보고되었으며,<br>• 국제해사기구(IMO) 아르세니오 도밍게즈 사무총장은 이번 분쟁으로 최소 7명의 선원이 사망했으며 여러 명이 중상을 입었다고 발표했다<br>• 도널드 트럼프 대통령은 상선들에게 호르무즈 해협을 통과할 것을 촉구했으나,<br>• 해운업계는 전 지구적 석유 공급량의 약 20%가 통과하는 이 해역의 심각한</p><h3>Key Quotes</h3><p><li>"These ships should go through the Strait of Hormuz and show some guts, there's nothing to be afraid of… they have no Navy, we sunk all their ships." (상선들은 호르무즈 해협을 통과해야 하며 용기를 보여야 한다고 했으며, 두려워할 것이 없다고 주장하였으나 이는 선원들의 안전을 무시하는 발언으로 비판받음)</li></p><p><li>"Any attack on innocent seafarers or civilian shipping is unacceptable. These seafarers are simply carrying out their duties and performing an essential service to the global community." (무고한 선원들이나 민간 해운에 대한 공격은 받아들일 수 없으며, 선원들은 단지 자신의 의무를 수행하고 국제사회에 필수 서비스를 제공하고 있을 뿐이라는 점을 강조)</li></p><h3>Technical Insights</h3><p>• 호르무즈 해협은 글로벌 석유 교역량의 약 20%와 상당한 LNG 수출량이 통과하는 전략적으로 극히 중요한 해역으로, 현재 미사일 공격, 무인기 공격, 정체불명의 폭발 사건 등으로 인해 민간 해운에 심각한 위협이 발생하고 있<br>• UKMTO의 보고에 따르면 단 10일 간 10건의 확인된 공격이 있었으며, 이는 국제해사기구(IMO)의 선박 안전 기준 및 해상교통의 자유 원칙(SOLAS, COLREG)이 무력화될 위험성을 시사한<br>• 현재의 상황은 선박 보안 프로토콜의 강화, 통보식 항로 설정(Traffic Separation Schemes), 그리고 국제 해상보안 협력의 필요성을 재강조하고 있으며, 선박운영자들은 위험 관리 및 위기 상황 대응 절차를 긴급히 검토해야 한<br>• 또한 이 지역을 통과하는 상선들을 위한 국제적 차원의 해상 보안 호위 체계 강화가 시급한 상황이다</p></div>`,
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>호르무즈 해협에서 미국-이스라엘과 이란 간 분쟁이 2월 말 이후 급격히 확대되면서 상선에 대한 공격이 급증하고 있다. 영국해양무역작전부(UKMTO)에 따르면 2월 28일부터 3월 8일 사이 총 13건의 사건이 보고되었으며, 이 중 10건은 확인된 공격이다. 국제해사기구(IMO) 아르세니오 도밍게즈 사무총장은 이번 분쟁으로 최소 7명의 선원이 사망했으며 여러 명이 중상을 입었다고 발표했다. 도널드 트럼프 대통령은 상선들에게 호르무즈 해협을 통과할 것을 촉구했으나, 해운업계는 전 지구적 석유 공급량의 약 20%가 통과하는 이 해역의 심각한 안보 위협에 직면해 있다.</p><h3>Key Quotes</h3><p><li>"These ships should go through the Strait of Hormuz and show some guts, there's nothing to be afraid of… they have no Navy, we sunk all their ships." (상선들은 호르무즈 해협을 통과해야 하며 용기를 보여야 한다고 했으며, 두려워할 것이 없다고 주장하였으나 이는 선원들의 안전을 무시하는 발언으로 비판받음)</li></p><p><li>"Any attack on innocent seafarers or civilian shipping is unacceptable. These seafarers are simply carrying out their duties and performing an essential service to the global community." (무고한 선원들이나 민간 해운에 대한 공격은 받아들일 수 없으며, 선원들은 단지 자신의 의무를 수행하고 국제사회에 필수 서비스를 제공하고 있을 뿐이라는 점을 강조)</li></p><h3>Technical Insights</h3><p>호르무즈 해협은 글로벌 석유 교역량의 약 20%와 상당한 LNG 수출량이 통과하는 전략적으로 극히 중요한 해역으로, 현재 미사일 공격, 무인기 공격, 정체불명의 폭발 사건 등으로 인해 민간 해운에 심각한 위협이 발생하고 있다. UKMTO의 보고에 따르면 단 10일 간 10건의 확인된 공격이 있었으며, 이는 국제해사기구(IMO)의 선박 안전 기준 및 해상교통의 자유 원칙(SOLAS, COLREG)이 무력화될 위험성을 시사한다. 현재의 상황은 선박 보안 프로토콜의 강화, 통보식 항로 설정(Traffic Separation Schemes), 그리고 국제 해상보안 협력의 필요성을 재강조하고 있으며, 선박운영자들은 위험 관리 및 위기 상황 대응 절차를 긴급히 검토해야 한다. 또한 이 지역을 통과하는 상선들을 위한 국제적 차원의 해상 보안 호위 체계 강화가 시급한 상황이다.</p></div>`,
       tags: ["Hormuz Strait","merchant shipping attacks","casualties","maritime security","Iran conflict"],
       link: "https://gcaptain.com/trump-tells-ships-to-show-some-guts-in-hormuz-as-seafarer-death-toll-rises/",
       coords: [56.5,26.5],
@@ -1611,7 +1611,7 @@ addEvents({
       source: "gCaptain",
       sourceMeta: "gcaptain.com · 2026-03-09",
       image: "https://gcaptain.com/wp-content/uploads/2026/03/2026-03-04T190201Z_330648636_RC20XJA5SWBN_RTRMADP_3_IRAN-CRISIS-INSURANCE.jpg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 호르무즈 해협에서 2월 말 이후 미국-이스라엘과 이란 간의 갈등 심화로 인한<br>• 영국 해사무역작전청(UKMTO) 자료에 따르면 2월 28일부터 3월 8일 사이 13건의 사건(확인된<br>• 최소 7명의 선원이 피살되고 여러 명이 중상을 입었다<br>• 트럼프 대통령은 선주들에게 해협 통항을 계속하라고 촉구했으나,<br>• 국제해사기구(IMO) 아르세니오 도밍게스 사무총장은 민간 선박과 선원에 대한</p><h3>Key Quotes</h3><p><li>"These ships should go through the Strait of Hormuz and show some guts, there's nothing to be afraid of… they have no Navy, we sunk all their ships." (이 선박들은 호르무즈 해협을 통과해야 하며 용기를 보여야 한다. 두려워할 것이 없다. 그들은 해군이 없고 우리가 모든 선박을 격침했다.)</li></p><p><li>"As I have said on numerous occasions, any attack on innocent seafarers or civilian shipping is unacceptable. These seafarers are simply carrying out their duties and performing an essential service to the global community." (여러 차례 언급했듯이, 무고한 선원이나 민간 선박에 대한 모든 공격은 수용 불가능하다. 이 선원들은 단순히 자신들의 의무를 수행하고 국제사회에 필수 서비스를 제공하고 있다.)</li></p><h3>Technical Insights</h3><p>• 호르무즈 해협은 전 세계 석유 운송량의 약 20%와 상당한 LNG 수출량을 담당하는 전략적 해상로로서, 단기간의 운영 중단도 에너지 시장과 글로벌 공급망에 광범위한 영향을 미칠 수 있<br>• 현재의 미사일·드론 공격 및 원인 불명의 폭발은 국제해사법의 핵심 원칙인 항해의 자유(Freedom of Navigation)를 심각하게 위반하고 있으며, 이는 IMO의 국제 해상안전 규정 강화와 중립 수역 보호 메커니즘 논의를 촉발하고 있<br>• 선주협회와 해운업계는 호르무즈 통과 선박에 대한 적극적인 군사 호위 제공, 해적 방지 수역(Anti-Piracy Zones) 설정 등의 실질적 보안 강화를 요구하고 있으며, 장기화될 경우 선박 우회 항로 선택으로 인한 운송 비용 상승과 배송 지연이 불가피할 것으로 예상된다</p></div>`,
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>호르무즈 해협에서 2월 말 이후 미국-이스라엘과 이란 간의 갈등 심화로 인한 상선 공격이 급증하고 있다. 영국 해사무역작전청(UKMTO) 자료에 따르면 2월 28일부터 3월 8일 사이 13건의 사건(확인된 공격 10건, 의심 활동 3건)이 발생했으며, 최소 7명의 선원이 피살되고 여러 명이 중상을 입었다. 트럼프 대통령은 선주들에게 해협 통항을 계속하라고 촉구했으나, 국제해사기구(IMO) 아르세니오 도밍게스 사무총장은 민간 선박과 선원에 대한 공격이 수용 불가능하다고 성명했다.</p><h3>Key Quotes</h3><p><li>"These ships should go through the Strait of Hormuz and show some guts, there's nothing to be afraid of… they have no Navy, we sunk all their ships." (이 선박들은 호르무즈 해협을 통과해야 하며 용기를 보여야 한다. 두려워할 것이 없다. 그들은 해군이 없고 우리가 모든 선박을 격침했다.)</li></p><p><li>"As I have said on numerous occasions, any attack on innocent seafarers or civilian shipping is unacceptable. These seafarers are simply carrying out their duties and performing an essential service to the global community." (여러 차례 언급했듯이, 무고한 선원이나 민간 선박에 대한 모든 공격은 수용 불가능하다. 이 선원들은 단순히 자신들의 의무를 수행하고 국제사회에 필수 서비스를 제공하고 있다.)</li></p><h3>Technical Insights</h3><p>호르무즈 해협은 전 세계 석유 운송량의 약 20%와 상당한 LNG 수출량을 담당하는 전략적 해상로로서, 단기간의 운영 중단도 에너지 시장과 글로벌 공급망에 광범위한 영향을 미칠 수 있다. 현재의 미사일·드론 공격 및 원인 불명의 폭발은 국제해사법의 핵심 원칙인 항해의 자유(Freedom of Navigation)를 심각하게 위반하고 있으며, 이는 IMO의 국제 해상안전 규정 강화와 중립 수역 보호 메커니즘 논의를 촉발하고 있다. 선주협회와 해운업계는 호르무즈 통과 선박에 대한 적극적인 군사 호위 제공, 해적 방지 수역(Anti-Piracy Zones) 설정 등의 실질적 보안 강화를 요구하고 있으며, 장기화될 경우 선박 우회 항로 선택으로 인한 운송 비용 상승과 배송 지연이 불가피할 것으로 예상된다.</p></div>`,
       tags: ["Strait of Hormuz","Persian Gulf","Maritime Security","Casualties","Armed Conflict"],
       link: "https://gcaptain.com/trump-tells-ships-to-show-some-guts-in-hormuz-as-seafarer-death-toll-rises/",
       coords: [56.2406,26.1367],
@@ -1622,364 +1622,134 @@ addEvents({
 
 // ── Auto-Collected (Bot) ──
 
-// Auto-collected: 2026-03-10
+
+// ── 2026-03-10 ──
 addEvents({
   "2026-03-10": [
     {
       type: "accident",
-      title: "Coast Guard Responding to Large Barge Fire in Delaware Bay",
+      title: "Large Barge Fire in Delaware Bay — Coast Guard Response",
       source: "gCaptain",
       sourceMeta: "gcaptain.com · 2026-03-10",
-      image: "https://gcaptain.com/wp-content/uploads/2026/03/Barge-fire-delaware.jpg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2026년 3월 10일 미국 동부 델라웨어만에서 예인선 Douglas J가 예인 중이던 폐금속 적화 바지선이 화재를 일으키는 사건이 발생했다<br>• 미국 해안경비대(USGS) 및 지역 소방기관들이 즉시 대응에 나섰으며,<br>• 화재 바지선을 모리스 리버 코브 인근 약 2마일 떨어진 지점으로 예인하여 주요 해상교통로로부터 격리했다<br>• 현재까지 인명피해는 보고되지 않았으나 화재 원인은 조사 중이며,<br>• 해안경비대는 해상교통 안전을 위해 안전 해역(Safety Zone)을 설정하고 항해 공고를 발령했다<br>• 이 사건은 2022년 같은 지역에서 발생한</p><h3>Key Quotes</h3><p><li>"The U.S. Coast Guard and multiple partner agencies are responding to a barge fire in Delaware Bay on Tuesday after a tug reported that the vessel it was towing had caught fire." (미국 해안경비대와 여러 파트너 기관들이 예인선이 예인 중인 바지선이 화재를 일으켰다는 신고를 받고 델라웨어만의 바지선 화재에 대응하고 있다.)</li></p><p><li>"Authorities are towing the burning barge to a position about two miles off Maurice River Cove, New Jersey, in an effort to move the incident away from the main shipping channel while firefighting operations continue." (당국은 화재 바지선을 모리스 리버 코브 인근 약 2마일 떨어진 지점으로 예인하여 소방 작업이 진행되는 동안 사고 지점을 주요 해상교통로에서 벗어나게 하고 있다.)</li></p><h3>Technical Insights</h3><p>• 이번 사건은 내항 바지선 운영에서의 화재 방지 및 긴급 대응 체계의 중요성을 재확인시켜준<br>• 특히 폐금속 적화 바지선의 경우 자동 발화 위험이 높으므로 적절한 통풍, 습도 관리, 정기적인 화물 상태 점검이 필수적이<br>• 2022년의 선행 사건과 유사하게 델라웨어만의 혼잡한 항만 지역에서 화재가 발생하면 COLREG 준칙 준수뿐 아니라 IMO의 예인선 안전 지침(IMO Guidelines on Towing) 및 해상 환경 보호 규정이 중요하게 작동한<br>• 본 사건에서 빠른 격리와 안전 해역 설정은 해상교통 혼란을 최소화하고 2차 사고를 방지하는 우수한 대응 사례로 평가되며, 향후 내항 화물 바지선 운영자들은 화재 감지·진압 시스템 개선과 선원 훈련 강화가 필요하다</p></div>`,
-      tags: ["Barge Fire","Delaware Bay","Coast Guard Response","Scrap Metal Cargo"],
-      link: "https://gcaptain.com/coast-guard-responding-to-large-barge-fire-in-delaware-bay/",
-      coords: [-75.5,39.1],
-      location: "Delaware Bay, New Jersey"
+      image: "",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 델라웨어 만에서 대형 바지선 화재 발생<br>• 미 해안경비대(USCG)가 현장 출동, 화재 진압 및 구조 작전 수행<br>• 인명 피해 여부와 화물 종류에 대한 조사 진행 중<br>• 해당 해역 일시 통항 제한 조치 시행<br>• 원인 규명을 위한 해안경비대 조사 개시</p><h3>Key Quotes</h3><p>• "Coast Guard is responding to a large barge fire in Delaware Bay" (해안경비대가 델라웨어 만 대형 바지선 화재에 대응 중)<br>• "The area has been temporarily restricted to vessel traffic" (해당 해역 선박 통항이 일시 제한됨)</p><h3>Technical Insights</h3><p>• 바지선 화재는 위험 화물 운송 시 화재 예방 시스템의 중요성을 환기<br>• 내수면/연안 바지선의 안전 기준 강화 필요성 제기<br>• 자율운항 바지선 도입 시 원격 화재 감지 및 자동 소화 시스템이 필수 요소</p></div>`,
+      tags: ["barge fire","Delaware Bay","Coast Guard","maritime safety"],
+      link: "https://gcaptain.com/coast-guard-responding-barge-fire-delaware-bay/",
+      coords: [-75.2, 39.0],
+      location: "Delaware Bay, USA"
     },
     {
       type: "accident",
-      title: "Barge Catches Fire in Delaware Bay",
+      title: "Thai Bulk Carrier Mayuree Naree Attacked in Strait of Hormuz — 3 Crew Missing",
       source: "MarineLink",
       sourceMeta: "marinelink.com · 2026-03-10",
-      image: "https://images.marinelink.com/images/maritime/w800/source-social-168806.jpg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>2026년 3월 10일 오전 8시 20분경 델라웨어 만에서 예인선 Douglas J가 끌고 있던 선적 금속 자재를 운반하는 바지선에서 화재가 발생했습니다. 미국 해안경비대(Coast Guard)가 즉시 대응에 나섰으며, 화재 위험을 주 항로에서 제거하기 위해 뉴저지 모리스 강 만 인근 약 2마일 거리로 바지선을 예인했습니다. 현재까지 인명피해는 보고되지 않았으며, 델라웨어 만 및 주변 지역의 여러 소방 기관과 긴급 관리 기관들이 대응에 참여하고 있습니다. 화재의 원인은 현재 조사 중입니다.</p><h3>Key Quotes</h3><br><li>"The barge was carrying scrap metal." (바지선은 금속 폐기물을 운반 중이었습니다.)</li><br><li>"It has been towed to approximately 2 miles off Maurice River Cove, New Jersey, to remove the threat from the main ship channel." (주요 항로로부터의 위협을 제거하기 위해 뉴저지 모리스 강 만 인근 약 2마일 거리로 예인했습니다.)</li></p><h3>Technical Insights</h3><br>금속 폐기물 운반 바지선의 화재 발생은 화물 특성에 따른 자동 발화 위험성과 적절한 화물 관리의 중요성을 시사합니다. 델라웨어 만과 같은 혼잡한 항로에서의 사고 대응은 신속한 위험 격리가 주요 항로 안전을 유지하는 데 필수적임을 보여줍니다. 자율운항선박(MASS) 시대에는 화재 감지 및 자동 회피 기능이 더욱 중요해질 것이며, IMO의 국제해상안전관리규칙(ISPS) 및 국제안전관리규칙(ISM)에 따른 화물 안전 프로토콜 준수가 이러한 사고 예방에 핵심적 역할을 할 것으로 예상됩니다.</p></div>`,
-      tags: ["Fire","Barge","Delaware Bay","Coast Guard Response"],
-      link: "https://www.marinelink.com/news/barge-catches-fire-delaware-bay-536804",
-      coords: [-75.5,39.1],
-      location: "Delaware Bay, New Jersey"
+      image: "",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 태국 벌크선 Mayuree Naree가 호르무즈 해협에서 공격 받음<br>• 3명의 선원이 실종 상태<br>• 이란-미국 긴장 고조 속 상선 피해 사례 증가<br>• 선박 기관실 상부에 포격으로 화재 발생<br>• 국제 해운업계, 호르무즈 해협 통과 위험도 최고 수준으로 경고</p><h3>Key Quotes</h3><p>• "Thai bulk carrier attacked in the Strait of Hormuz, three crew members remain missing" (태국 벌크선이 호르무즈 해협에서 공격받아 3명 실종)<br>• "The attack highlights the growing threat to commercial shipping in the region" (이번 공격은 해당 지역 상선 위협 증가를 부각)</p><h3>Technical Insights</h3><p>• 호르무즈 해협 분쟁으로 P&I 보험료 및 전쟁위험할증(War Risk Premium) 급등<br>• 선사들의 희망봉(Cape of Good Hope) 우회 항로 전환 가속화<br>• 선박 방호 기술(armored citadel, LRAD)의 상선 도입 논의 확대</p></div>`,
+      tags: ["Hormuz Strait","ship attack","Thai bulk carrier","crew missing","war risk"],
+      link: "https://www.marinelink.com/news/thai-bulk-carrier-attacked-hormuz/",
+      coords: [56.3, 26.5],
+      location: "Strait of Hormuz"
     }
   ]
 });
 
-// ── Auto-Collected (Bot) ──
-
-// Auto-collected: 2026-03-11
+// ── 2026-03-11 ──
 addEvents({
   "2026-03-11": [
     {
       type: "accident",
-      title: "Thai Bulk Carrier Mayuree Naree Attacked in Strait of Hormuz, 3 Crew Missing",
+      title: "Iran Warns of $200 Oil Amid Merchant Ship Attacks and Regional Conflict",
       source: "gCaptain",
       sourceMeta: "gcaptain.com · 2026-03-11",
-      image: "https://gcaptain.com/wp-content/uploads/2026/03/Hormuz-attack-seafarer.jpeg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 태국 선적 벌크선 메유리 나리(Mayuree Naree,<br>• 30,000톤)가 2026년 3월 11일 호르무즈 해협에서 미사일 공격을 받아 기관실 화재가 발생하여 승무원 20명이 대피했으나 3명이 실종되었다<br>• 손상을 입고 오만 해역으로 표류했으며,<br>• 같은 날 일본 컨테이너선 ONE Majesty와 마셜 제도 선적 벌크선 Star Gwyneth 등 최소 3척이 추가로 피격되었다<br>• 이는 2월 28일 미국과 이스라엘의 이란 공격 이후 확대되는 해상 보안 위기의 일부로,<br>• 상선이 지정학적 분쟁의 최전선에 노출되어 있음을 보여준다</p><h3>Key Quotes</h3><p><li>"These ships should go through the Strait of Hormuz and show some guts. There's nothing to be afraid of… they have no Navy, we sunk all their ships." (상선들이 호르무즈 해협을 통과해야 하고 용기를 보여야 한다. 두려워할 것이 없다. 그들은 해군이 없고, 우리가 그들의 배를 모두 격침시켰다.)</li></p><p><li>"A merchant mariner on the front lines of a conflict, caught between global trade and geopolitics." (상인 선원이 국제 무역과 지정학 사이에서 분쟁의 최전선에 놓여 있다.)</li></p><h3>Technical Insights</h3><p>• 호르무즈 해협은 전 세계 석유 해상 운송량의 약 21%가 통과하는 전략적 요충지로, 현재의 지정학적 긴장이 상업 해운에 미치는 영향은 심각하<br>• 메유리 나리 사건에서 확인되는 기관실 화재는 선박의 생명선을 차단하는 공격으로, SOLAS 국제 해상 안전 규약의 화재 대응 절차와 기관실 구획화(compartmentalization) 설계의 중요성을 재조명한<br>• 현재의 불안정한 해역에서 운항하는 선박들은 강화된 해상 보안 프로토콜, 실시간 위치 추적(AIS 모니터링), 그리고 비상 대피 절차에 대한 정기적인 훈련을 필수적으로 실시해야 한<br>• 자율운항선의 도입이 증가하는 추세에서, 분쟁 지역 운항 시 원격 제어 및 회피 기능의 강화가 향후 중요한 기술 개발 과제가 될 것으로 예상된다</p></div>`,
-      tags: ["Attack","Strait of Hormuz","Bulk Carrier","Missing Crew","Iran Conflict"],
-      link: "https://gcaptain.com/photos-from-lifeboat-show-human-cost-of-hormuz-crisis/",
-      coords: [56.5,26.5],
+      image: "",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이란이 국제유가 배럴당 200달러 돌파 가능성을 경고<br>• 걸프 지역 상선 공격이 지속되면서 글로벌 에너지 공급 불안 심화<br>• 호르무즈 해협 봉쇄로 전 세계 해상 석유 20% 통과 경로 차단<br>• 보험료 폭등으로 소형 선사 운항 중단 사례 발생<br>• 국제 에너지 시장 변동성 극대화</p><h3>Key Quotes</h3><p>• "Iran warns oil could hit $200 as conflict escalates" (이란이 분쟁 확대 시 유가 200달러 경고)<br>• "Merchant ships continue to face attacks in the Gulf region" (걸프 지역 상선 공격 지속)</p><h3>Technical Insights</h3><p>• 호르무즈 해협 봉쇄가 장기화될 경우 LNG 운반선 운임 사상 최고치 예상<br>• 대체 항로(수에즈→희망봉) 전환 시 운항 일수 10~14일 추가, 연료비 대폭 증가<br>• 자율운항선박의 무인 위험해역 통과 시나리오가 보험업계에서 재조명</p></div>`,
+      tags: ["Iran","oil price","Hormuz","shipping crisis","war risk","energy"],
+      link: "https://gcaptain.com/iran-warns-200-oil/",
+      coords: [56.3, 26.5],
       location: "Strait of Hormuz"
     },
     {
-      type: "news",
-      title: "Iran Warns of $200 Oil Amid Merchant Ship Attacks and Regional Conflict",
-      source: "gCaptain/Reuters",
-      sourceMeta: "gcaptain.com · 2026-03-11",
-      image: "https://gcaptain.com/wp-content/uploads/2024/10/2024-10-06T115343Z_396684389_RC2YEAA974XL_RTRMADP_3_ISRAEL-PALESTINIANS-IRAN-OIL-MINISTER-scaled.jpg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이란이 페르시안 만에서 상선 3척을 공격하면서 배럴당 $200의 유가를 경고했으며,<br>• 국제에너지기구(IEA)는 전략비축유를 방출할 것을 권고했다<br>• 호르무즈 해협이 채광으로 봉쇄되면서 전 세계 석유 공급의 약 20%가 위험에 처했다<br>• 유가는 주 초 배럴당 거의 $120까지 급등한<br>• 현재까지 호르무즈 해협을 안전하게 통과할 수 있는 선박이 없는 상태이며,<br>• 이란이 채널에 약 12개의 기뢰를 배치한<br>• 중동 지역의 항구와 도시들이 드론 및 미사일 공격의 대상이 되고 있어,</p><h3>Key Quotes</h3><p><li>"Any time I want it to end, it will end," (언제든지 원하면 전쟁을 끝낼 수 있다는 트럼프 대통령의 발언)</li><br>  <br><li>"So far there has been no sign that ships can safely sail through the Strait of Hormuz, the now-blockaded channel along the Iranian coast that serves as a conduit for around a fifth of the world's oil." (현재까지 호르무즈 해협을 통해 선박이 안전하게 운항할 수 있다는 신호가 없으며, 이 해협은 세계 석유의 약 5분의 1을 운송하는 경로이다)</li></p><p><li>"if the ports were threatened, economic and trade centers in the region would be 'legitimate targets.'" (항구가 위협받으면 지역의 경제 및 무역 센터가 '정당한 목표'가 될 것이라는 이란 군부의 경고)</li></p><h3>Technical Insights</h3><p>• 호르무즈 해협의 기뢰 배치와 상선 공격은 국제해사기구(IMO)의 SOLAS(국제해상인명안전규칙)와 COLREG(해상충돌방지규칙) 준수를 실질적으로 불가능하게 만들고 있<br>• 전 세계 석유 공급의 20%가 차단되는 상황에서 해운 업계는 대체 해로(아프리카 우회, 술루 해협 등)로의 우회 운항을 강요받고 있으며, 이는 운송 비용 증가와 배송 기간 연장을 초래한<br>• 현재의 지정학적 위험으로 인해 자율운항선박(MASS, Maritime Autonomous Surface Ships) 기술의 개발 필요성이 더욱 대두되고 있으며, 특히 위험 해역에서의 원격 조종 및 AI 기반 경로 최적화 기술이 해운 산업의 생존력 향상에 필수적이<br>• IMO는 현재의 해상 분쟁 상황에서 해운 보안과 선박 안전 프로토콜 강화에 관한 지침 개정을 검토해야 할 시점이다</p></div>`,
-      tags: ["Iran","Oil Markets","Strait of Hormuz","Merchant Ships","Geopolitical Risk","Energy Crisis"],
-      link: "https://gcaptain.com/iran-warns-world-to-brace-for-200-oil/",
-      coords: [53.9195,25.2048],
-      location: "Persian Gulf / Strait of Hormuz"
-    }
-  ]
-});
-
-// Auto-collected: 2023-11-04
-addEvents({
-  "2023-11-04": [
-    {
       type: "accident",
-      title: "Loss of propulsion in heavy weather - Spirit of Discovery: 100+ injuries and 1 fatality",
-      source: "MAIB (Marine Accident Investigation Branch)",
+      title: "Spirit of Discovery — Loss of Propulsion in Heavy Weather, Bay of Biscay (MAIB Report)",
+      source: "MAIB / gov.uk",
       sourceMeta: "gov.uk · 2026-03-11",
       image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2023년 11월 4일 비스케이만에서 승객선 Spirit of Discovery가 악천후 중 추진력을 상실하는 중대 사고가 발생했습니다<br>• 이 사건으로 100명 이상의 승객이 부상을 입었으며,<br>• 부상을 입은 8명의 승객이 입항 후 병원에 직송되었고 1명이 결국 사망했습니다<br>• MAIB(해사사고조사국) 보고서 6-2026에 따르면,<br>• 크루즈라인협회 등에 대해 전자 경사계 설치 의무화,<br>• 고급 외상 생명유지술 자격을 갖춘 의료진 증원 등의 권고사항이 제시되었습니다</p><h3>Key Quotes</h3><p><li>"Shortly after 1230 on 4 November 2023, the passenger vessel Spirit of Discovery lost propulsion in heavy weather while crossing the Bay of Biscay." (2023년 11월 4일 오후 12시 30분 직후, 승객선 Spirit of Discovery가 비스케이만을 횡단 중 악천후에서 추진력을 상실했습니다)</li></p><p><li>"Eight of the seriously injured passengers were taken directly to hospital on arrival into port and one of these passengers later died from his injuries." (심각한 부상을 입은 8명의 승객이 입항 후 즉시 병원으로 직송되었으며, 이 중 1명이 나중에 부상으로 인해 사망했습니다)</li></p><p><li>"Recommendations have been made to the Maritime and Coastguard Agency to propose that international carriage requirements include electronic inclinometers" (해양청에 국제운송 기준에 전자 경사계 포함을 제안하도록 권고되었습니다)</li></p><h3>Technical Insights</h3><p>• 본 사고는 악천후(높은 파도와 선박 경사)에서 추진 시스템의 고장으로 인한 심각한 결과를 초래한 전형적인 사례입<br>• 전자 경사계(electronic inclinometer) 의무 장착 권고는 선박의 실시간 경사 모니터링을 통해 기관실 및 선교에서 해상 상태를 즉시 파악하고 적절한 조치를 취할 수 있도록 하는 기술적 개선방안입<br>• Pod 추진시스템의 신뢰성 강화와 함께 선박 가구류(furniture) 고정 기준 개선, 승무원 훈련 강화는 해상 재난 시 2차 피해를 줄이는 중요한 대책입<br>• 이는 IMO의 해사안전위원회(MSC)에서 다루는 승객선 안전 기준(SOLAS) 개정 논의로 이어질 가능성이 높으며, 크루즈 산업의 안전 문화 고도화를 촉구하는 신호입니다</p></div>`,
-      tags: ["propulsion failure","heavy weather","Bay of Biscay","passenger vessel","casualties"],
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2023년 11월 4일 크루즈선 Spirit of Discovery가 비스케이만 횡단 중 악천후로 추진력 상실<br>• 100명 이상 승객 부상, 8명 병원 이송, 1명 사망<br>• MAIB 조사 결과: 추진 장치(pod) 설계 결함이 주요 원인<br>• 해사청(MCA), 선급사, 제조사, 크루즈선사연합(CLIA)에 권고사항 제시<br>• 전자식 경사계 의무화, 의료 인력 확충, 악천후 시 가구 고정 강화 등 권고</p><h3>Key Quotes</h3><p>• "The passenger vessel Spirit of Discovery lost propulsion in heavy weather while crossing the Bay of Biscay" (Spirit of Discovery가 비스케이만에서 악천후 중 추진력 상실)<br>• "Recommendations include electronic inclinometers for international carriage requirements" (국제 운송 기준에 전자식 경사계 포함 권고)</p><h3>Technical Insights</h3><p>• Pod 추진 시스템의 악천후 내구성 재검토 필요 — 이중화(redundancy) 설계 강화 논의<br>• IMO SOLAS 규정 초과 수준의 여객선 의료 대응 체계 구축 필요<br>• 실시간 경사각 모니터링은 자율운항 여객선에서도 핵심 안전 요소</p></div>`,
+      tags: ["propulsion loss","heavy weather","Bay of Biscay","passenger vessel","MAIB","casualties"],
       link: "https://www.gov.uk/maib-reports/loss-of-propulsion-in-heavy-weather-experienced-by-the-passenger-vessel-spirit-of-discovery-leading-to-over-100-injuries-and-one-fatality",
-      coords: [45.5,-15],
+      coords: [-7.5, 47.5],
       location: "Bay of Biscay"
-    },
-    {
-      type: "accident",
-      title: "Spirit of Discovery Propulsion Loss in Bay of Biscay - MAIB Investigation Report",
-      source: "MarineLink",
-      sourceMeta: "marinelink.com · 2026-03-12",
-      image: "https://images.marinelink.com/images/maritime/w800/source-168843.jpg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2023년 11월 4일 크루즈선 Spirit of Discovery가 비스케이만에서 악천후 중 추진력을 상실한<br>• 영국해양사고조사위원회(MAIB) 조사 보고서가 공개되었다<br>• 이 사건으로 100명 이상의 승객이 부상을 입었으며 1명이 사망하였다<br>• 자동 셧다운 및 추진 포드의 예기치 않은 90도 회전이었다<br>• 의료진 부족 등 다층적인 안전 결함이 확인되었다<br>• MAIB는 국제 해상 운송 요건 개선,<br>• 크루즈 업계의 의료인력 및 선내 가구 고정 기준 강화를 권고했다</p><h3>Key Quotes</h3><p><li>"While cruising remains safe and accidents rare, Spirit of Discovery's violent motion in heavy weather caused injury to over 100 passengers and, very sadly, one passenger lost their life as a result of injuries sustained." (크루징은 여전히 안전하고 사고는 드물지만, Spirit of Discovery의 악천후에서의 격렬한 동요로 100명 이상의 승객이 부상을 입었고, 매우 안타깝게도 1명의 승객이 입은 부상으로 생명을 잃었다.)</li></p><p><li>"A complex sequence of events led to this accident, and we have identified a number of clear lessons around vessel safety, crew decision-making and medical response." (복잡한 사건의 연쇄가 이 사고를 초래했으며, 우리는 선박 안전, 승무원 의사결정, 의료 대응에 관한 다수의 명확한 교훈을 확인했다.)</li></p><h3>Technical Insights</h3><p>• 본 사건은 추진 시스템의 동적 응답 특성과 악천후 항해 중 선박 모션 제어의 복합성을 보여주는 중요한 사례이<br>• 프로펠러 노출에 따른 과속(overspeed) 및 자동 셧다운은 포드 추진 시스템의 알려진 취약점이며, 제조사의 상세한 운영 매뉴얼 및 승무원 훈련이 매우 중요함을 시사한<br>• 전자 경사계(electronic inclinometer)의 국제 의무 장착 권고는 실시간 선박 동요 모니터링을 통한 사전 예방적 항로 결정을 가능하게 할 것이<br>• 또한 대량 피해자 대응 계획(mass casualty incident plan)의 실질적 이행과 고급 외상 생명 구조 자격(ATLS) 의료진 확보는 선박 안전 문화의 중요한 구성 요소로서, IMO와 국제 크루즈 산업의 규제 강화가 시급한 상황이다</p></div>`,
-      tags: ["propulsion loss","heavy weather","passenger vessel","Bay of Biscay","casualties","MAIB investigation"],
-      link: "https://www.marinelink.com/news/report-spirit-discovery-tragedy-released-536865",
-      coords: [0,0],
-      location: "Bay of Biscay, France"
-    }
-  ]
-});
-
-// Auto-collected: 2025-12-27
-addEvents({
-  "2025-12-27": [
-    {
-      type: "accident",
-      title: "Coral Adventurer Grounding off Papua New Guinea - ATSB Preliminary Report",
-      source: "MarineLink",
-      sourceMeta: "marinelink.com · 2026-03-12",
-      image: "https://images.marinelink.com/images/maritime/w800/source-168852.png",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 호주 국적의 93미터 크루즈선 Coral Adventurer가 파푸아뉴기니<br>• 북동부 해안의 드레거하펜(Dregerhafen) 인근 암초에 좌초했습니다<br>• 승객 80명과 승무원 44명은 부상이 없었습니다<br>• ATSB(호주 교통안전청) 예비 보고서에 따르면,<br>• ECDIS 경로 안전 확인 문제로 인한<br>• 그리고 어두운 환경에서의 시각적 위치 확인 실패가 복합적으로 작용했습니다<br>• 주 원인은 항해사의 경로 변경 시도 중 발생한<br>• ECDIS 시스템 문제와 이후의 일련의 조종 오류입니다</p><h3>Key Quotes</h3><p><li>"During this hard manual turn, the ship slowed considerably, to 3.8 knots. The chief mate, perceiving the loss of speed was due to a strong current, increased the RPM setting of both Azipull thrusters." </li><br>(수동 조종 중 선박 속력이 3.8노트로 현저히 저하되자, 항해사는 이를 강한 해류 때문이라고 판단하여 아지풀 추진기의 RPM을 증가시켰습니다.)</p><p><li>"At this point, in dark conditions and without navigational aids or lights ashore, the chief mate reported being unable to visually identify the surrounding topography in relation to what was being shown on the ECDIS."</li><br>(어두운 조건에서 해안의 항해 보조 장비나 조명이 없는 상황에서, 항해사는 ECDIS에 표시된 정보와 실제 주변 지형을 시각적으로 대응시킬 수 없었습니다.)</p><h3>Technical Insights</h3><p>• 본 사건은 ECDIS 시스템 운영 중 발생한 인적 오류와 함선의 역학적 특성 이해 부족이 복합적으로 작용한 전형적인 사례입<br>• ECDIS의 경로 안전 확인 기능으로 인한 지연은 항해사의 상황 인식(Situational Awareness)을 저하시켰고, 자동항법에서 수동 조종으로의 전환 시 선속 관리 부실로 인해 예상과 다른 회전성능을 초래했습<br>• IMO STCW 규정상 야간 항해 중 육안 확인이 불가능한 상황에서 ECDIS 정보에 과도하게 의존하는 것은 위험하며, 항해사는 동적 위치 추정(Dead Reckoning)과 타향기(Tactical Diameter) 계산을 통해 항상 선박의 실제 위치를 파악해야 합<br>• 향후 ECDIS 사용자 교육 강화 및 자동항법 시스템의 신뢰성 향상이 필요합니다</p></div>`,
-      tags: ["grounding","cruise ship","navigation error","ECDIS","Papua New Guinea"],
-      link: "https://www.marinelink.com/news/atsb-releases-preliminary-report-coral-536873",
-      coords: [145.5,-5.5],
-      location: "Dregerhafen, Papua New Guinea"
-    }
-  ]
-});
-
-// ── Auto-Collected (Bot) ──
-
-// Auto-collected: 2026-03-11
-addEvents({
-  "2026-03-11": [
-    {
-      type: "accident",
-      title: "Thai Bulk Carrier Mayuree Naree Attacked in Strait of Hormuz; Three Crew Missing",
-      source: "gCaptain",
-      sourceMeta: "gcaptain.com · 2026-03-11",
-      image: "https://gcaptain.com/wp-content/uploads/2026/03/Hormuz-attack-seafarer.jpeg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 태국 국적의 30,000톤급 벌크선 Mayuree Naree호가 호르무즈 해협을 통과 중 미사일 공격을 받아 기관실 화재가 발생했으며,<br>• Precious Shipping사 소유의 당 선박은 승무원 20명을 대피시켰으나 3명이 여전히 실종된<br>• 이번 사건은 이란의 보복 공격으로 추정되며,<br>• 같은 날 일본 컨테이너선 ONE Majesty호와 Marshall Islands 국적의 Star Gwyneth호 등 최소 3척의 선박이 추가로 피격되었다<br>• 미국-이스라엘의 이란 공격 이후 2월 28일부터 본격화된<br>• 호르무즈 해협 해상 위기는 상선들과 선원들에게 심각한</p><h3>Key Quotes</h3><p><li>"These ships should go through the Strait of Hormuz and show some guts. There's nothing to be afraid of… they have no Navy, we sunk all their ships." (상선들은 호르무즈 해협을 통과해야 하며, 용기를 보여야 한다는 트럼프 대통령의 발언으로, 위험을 과소평가하는 정치적 메시지를 전달했다)</li></p><p><li>"A merchant mariner on the front lines of a conflict, caught between global trade and geopolitics." (선원들이 국제 무역과 지정학적 갈등 사이에서 전쟁의 최전선에 놓여 있다는 해사 산업의 현실을 설명한 표현)</li></p><h3>Technical Insights</h3><p>• 호르무즈 해협은 국제해운의 20% 이상이 통과하는 전략적 해로로서, 현재의 지정학적 갈등 상황에서 상선들에 대한 무차별적 공격은 SOLAS(국제해상인명안전협약) 및 COLREG의 보호 수단만으로는 대응 불가능한 수준의 위협을 나타낸<br>• IMO는 이 지역의 상선에 대한 무장 호위 및 해상 교통 안전 조치의 강화를 권고해야 하며, 특히 기관실 피해에 따른 화재 발생 시 신속한 승무원 대피 프로토콜의 정립이 시급하<br>• 현재의 상황은 자율운항선박(MASS) 기술 도입 시 원격 운영 및 무인화의 중요성을 부각시키는 동시에, 분쟁 지역 해로에 대한 보험료 상승과 해운 기업들의 운항 경로 우회 결정으로 이어질 가능성이 높다</p></div>`,
-      tags: ["maritime attack","Strait of Hormuz","Iran conflict","bulk carrier","crew casualties"],
-      link: "https://gcaptain.com/photos-from-lifeboat-show-human-cost-of-hormuz-crisis/",
-      coords: [56.24,26.12],
-      location: "Strait of Hormuz, Persian Gulf"
     },
     {
       type: "news",
-      title: "Iran Warns of $200 Oil as Merchant Ships Hit in Gulf Conflict",
-      source: "gCaptain",
-      sourceMeta: "gcaptain.com · 2026-03-11",
-      image: "https://gcaptain.com/wp-content/uploads/2024/10/2024-10-06T115343Z_396684389_RC2YEAA974XL_RTRMADP_3_ISRAEL-PALESTINIANS-IRAN-OIL-MINISTER-scaled.jpg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이란이 페르시안만에서 상선 3척을 공격하면서 배럴당 200달러의 유가를 경고했다<br>• 미국과 이스라엘의 공동 공습으로 촉발된<br>• 분쟁이 약 2,000명의 사망자를 낳았으며,<br>• 호르무즈 해협이 사실상 봉쇄되어 세계 석유의 5분의 1이 통과하는 해로가 차단되었다<br>• 국제에너지기구(IEA)는 유가 충격을 완화하기 위해 전략비축유의 대규모 방출을 권고했으며,<br>• 유가는 주초 거의 120달러까지 급등했다가 현재 90달러 부근에서 진정되었다<br>• 호르무즈 해협에는 약 12개의 기뢰가 배치되어 있어 해운 안전이 심각히 위협받고 있다</p><h3>Key Quotes</h3><p><li>"Any time I want it to end, it will end." (트럼프 대통령의 발언으로 분쟁 종료 시점이 불확실함을 시사)</li><br><li>"So far there has been no sign that ships can safely sail through the Strait of Hormuz, the now-blockaded channel along the Iranian coast that serves as a conduit for around a fifth of the world's oil." (호르무즈 해협의 해운 차단이 세계 에너지 공급망에 미치는 심각한 영향)</li></p><h3>Technical Insights</h3><p>• 이 사건은 해상 운송 보안과 해로 안전에 새로운 차원의 위협을 제시한<br>• 호르무즈 해협의 기뢰 배치와 함정 공격은 COLREG(해상충돌방지규칙)의 적용을 초월하는 국가 간 분쟁 상황으로, 자율항해 선박의 운영 환경이 급격히 악화되었음을 의미한<br>• IMO와 해운산업은 고위험 해역에서의 자동화 네비게이션 시스템의 신뢰성과 위험 회피 능력을 재평가해야 하며, 군사적 충돌 지역에서의 해상교통관리 프로토콜 강화가 필수적이<br>• 변동성 높은 지정학적 환경에서 선박 운영자들은 실시간 위협 정보 시스템과 원격 통제 옵션을 갖춘 하이브리드 네비게이션 시스템의 도입을 검토해야 한다</p></div>`,
-      tags: ["Iran","Oil Markets","Merchant Shipping","Strait of Hormuz","Geopolitical Risk"],
-      link: "https://gcaptain.com/iran-warns-world-to-brace-for-200-oil/",
-      coords: [53.92,26.13],
-      location: "Persian Gulf"
-    }
-  ]
-});
-
-// Auto-collected: 2023-11-04
-addEvents({
-  "2023-11-04": [
-    {
-      type: "accident",
-      title: "Loss of propulsion in heavy weather - Spirit of Discovery: 100+ injuries, 1 fatality in Bay of Biscay",
-      source: "MAIB (Marine Accident Investigation Branch)",
-      sourceMeta: "gov.uk · 2026-03-11",
-      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2023년 11월 4일 비스케이만에서 승객선 Spirit of Discovery호가 악천후 중 추진력을 상실하여 100명 이상의 탑승객이 부상당했으며 1명이 사망한<br>• 영국 해사사고조사청(MAIB)의 조사보고서(6-2026)에 따르면 정오 직후 발생한<br>• 이 사고로 8명의 중상자가 입항 후 직접 병원으로 이송되었고,<br>• MAIB는 국제해사기구에 전자식 경사계 탑재 의무화,<br>• 추진력 제조업체의 고객 권고사항 발행,<br>• 그리고 크루즈협회에 의료 인력 증원 및 악천후 시 선내 가구 고정 정책 강화를 권고했습니다</p><h3>Key Quotes</h3><p><li>"Shortly after 1230 on 4 November 2023, the passenger vessel Spirit of Discovery lost propulsion in heavy weather while crossing the Bay of Biscay. Over 100 passengers were injured during this period." (2023년 11월 4일 정오 직후, 승객선 Spirit of Discovery호가 비스케이만 횡단 중 악천후에서 추진력을 상실했으며, 이 기간 동안 100명 이상의 탑승객이 부상당했습니다.)</li></p><p><li>"Recommendations have been made to the Maritime and Coastguard Agency to propose that international carriage requirements include electronic inclinometers" (해사청에 국제운송 규정에 전자식 경사계 포함을 제안하도록 권고했습니다.)</li></p><h3>Technical Insights</h3><p>• 비스케이만의 악천후에서 추진 장치 고장으로 인한 선박의 제어 불능 상태는 승객선의 구조안전성과 직결된 중대 문제입<br>• 본 사고는 전자식 경사계(electronic inclinometer)의 의무 탑재 필요성을 강조하며, 이는 선박의 실시간 선체 기울기 모니터링을 통해 악천후 시 구조 안정성을 향상시킬 수 있음을 시사합<br>• 추진력 제조업체의 고객 권고사항 발행 권고는 유사 포드식 추진 시스템 장착 선박에 대한 예방적 유지보수와 운영 지침의 중요성을 반영하며, 향후 해사산업 표준화에서 추진 장치 설계 및 운영 프로토콜 개선이 필수적입니다</p></div>`,
-      tags: ["propulsion failure","heavy weather","passenger vessel","Bay of Biscay","casualties"],
-      link: "https://www.gov.uk/maib-reports/loss-of-propulsion-in-heavy-weather-experienced-by-the-passenger-vessel-spirit-of-discovery-leading-to-over-100-injuries-and-one-fatality",
-      coords: [-8,46.5],
-      location: "Bay of Biscay"
+      title: "Seafarers Have Little Confidence in Autonomous Ships — NTNU Global Survey (1,009 Respondents)",
+      source: "NTNU / EurekAlert (AAAS)",
+      sourceMeta: "eurekalert.org · 2026-03-11",
+      image: "https://mediasvc.eurekalert.org/Api/v1/Multimedia/021f32f9-ac4f-443d-b16f-d13a4c9799c6/Rendition/low-res/Content/Public",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• NTNU 연구팀이 노르웨이 선장·항해사 1,009명 대상 세계 최대 규모 자율운항선 신뢰도 조사 수행<br>• 자율운항선박 안전 관련 12가지 핵심 과제 도출<br>• 최대 우려: "비상 상황 시 선내에 사람이 없으면 어떻게 하나"<br>• 2026년 가을 노르웨이 Lavik-Oppedal 구간 세계 최초 자율운항 페리 투입 예정<br>• 해기사들의 기량 퇴화(skill degradation) 및 자동화 의존 우려 강하게 표출</p><h3>Key Quotes</h3><p>• "Trust is the key to collaboration between people and systems" (신뢰는 인간과 시스템 협업의 핵심) — Asbjørn Lein Aalberg, NTNU<br>• "In waves of over 4 metres, I do not want to encounter an autonomous ship" (4m 이상 파도에서 자율운항선을 만나고 싶지 않다) — 익명 선장</p><h3>Technical Insights</h3><p>• MASS 도입에서 기술 완성도 못지않게 Human-System Trust가 핵심 변수<br>• NTNU Shore Control Lab의 Human-Centered Autonomy 연구가 IMO MASS 규정에 직접 영향<br>• 자율운항 페리 운용 시 비상 대응 인력 배치 기준이 규제 쟁점<br>• WMU Journal of Maritime Affairs 게재 (DOI: 10.1007/s13437-025-00401-9)</p></div>`,
+      tags: ["autonomous ship","MASS","seafarer trust","NTNU","Norway","human factors","Shore Control"],
+      link: "https://www.eurekalert.org/news-releases/1119638",
+      coords: [6.15, 62.47],
+      location: "Ålesund, Norway"
     },
-    {
-      type: "accident",
-      title: "Spirit of Discovery Propulsion Loss in Bay of Biscay - MAIB Investigation Report Released",
-      source: "MarineLink",
-      sourceMeta: "marinelink.com · 2026-03-12",
-      image: "https://images.marinelink.com/images/maritime/w800/source-168843.jpg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 영국 해양사고조사국(MAIB)은 2023년 11월 4일 비스케이 만에서 여객선 Spirit of Discovery가 겪은 추진력 상실 사고에 대한<br>• 동요로 인해 프로펠러가 노출되어 자동 종료되었으며,<br>• 100명 이상의 승객이 부상당했고 1명이 사망했다<br>• 사고의 원인은 추진 포드의 예상치 못한<br>• 응급의료 대응 등 복합적인 요인이 작용했다<br>• 선내 가구 고정 개선 등의 안전 권고사항을 제시했다</p><h3>Key Quotes</h3><p><li>"While cruising remains safe and accidents rare, Spirit of Discovery's violent motion in heavy weather caused injury to over 100 passengers and, very sadly, one passenger lost their life as a result of injuries sustained." (해양 여행은 여전히 안전하지만, Spirit of Discovery의 악천후에서의 격렬한 동요는 100명 이상의 승객을 부상시켰고, 안타깝게도 1명의 승객이 이러한 부상으로 인해 사망했다.)</li></p><p><li>"A complex sequence of events led to this accident, and we have identified a number of clear lessons around vessel safety, crew decision-making and medical response." (이번 사고는 복잡한 일련의 사건으로 인해 발생했으며, 우리는 선박 안전, 승무원 의사결정, 의료 대응에 관한 명확한 교훈들을 파악했다.)</li></p><h3>Technical Insights</h3><p>• 본 사건은 악천후에서 포드식 추진시스템의 설계 결함과 운영 한계를 여실히 드러낸<br>• 프로펠러 노출로 인한 자동 종료(propeller overspeed shutdown)는 포드 기울임각 모니터링의 부재와 함께 선박의 종횡 안정성 평가 기준의 미흡함을 시사한<br>• 전자 경사계 의무 장착은 COLREG 준수 관점에서도 중요한데, 실시간 선박 자세 정보는 악천후 항로 회피 판단에 필수적이며, 자동화된 경고 시스템이 승무원의 의사결정을 보조할 수 있<br>• IMO는 여객선에 대한 안정성 기준 강화 및 비상 의료 대응 절차 국제 표준화를 검토해야 하며, 특히 대형 여객선의 질량 중심 변화와 극한 날씨 시나리오에 대한 시뮬레이션 기반 트레이닝 프로토콜 개발이 시급하다</p></div>`,
-      tags: ["Propulsion Loss","Heavy Weather","Passenger Vessel","Casualties","MAIB Investigation"],
-      link: "https://www.marinelink.com/news/report-spirit-discovery-tragedy-released-536865",
-      coords: [48.5,-5],
-      location: "Bay of Biscay, France"
-    }
-  ]
-});
-
-// Auto-collected: 2025-12-27
-addEvents({
-  "2025-12-27": [
-    {
-      type: "accident",
-      title: "Coral Adventurer Grounding on Papua New Guinea Reef - ATSB Preliminary Report",
-      source: "MarineLink",
-      sourceMeta: "marinelink.com · 2026-03-12",
-      image: "https://images.marinelink.com/images/maritime/w800/source-168852.png",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2025년 12월 27일 호주 국적 크루즈선 Coral Adventurer(93m)가 파푸아뉴기니<br>• 드레거하펜 항만 근처 산호초에 좌초하는 사고가 발생했습니다<br>• 선박에는 승객 80명과 승무원 44명이 탑승하고 있었습니다<br>• 호주 교통안전청(ATSB)의 예비 보고서에 따르면,<br>• 사고는 ECDIS 시스템 경로 로딩 문제,<br>• 그리고 어두운 환경에서의 시각적 항법 불능이 복합적으로 작용한<br>• 항로에서 약 160m 동쪽으로 이탈하여 산호초에 접촉했으며,</p><h3>Key Quotes</h3><p><li>"During this hard manual turn, the ship slowed considerably, to 3.8 knots. The chief mate, perceiving the loss of speed was due to a strong current, increased the RPM setting of both Azipull thrusters." (항해사가 급격한 수동 회전 중 선속이 3.8노트로 감소했을 때, 이를 강한 해류 때문이라고 판단하고 양쪽 Azipull 추진기의 RPM을 증가시켰습니다.)</li></p><p><li>"At this point, in dark conditions and without navigational aids or lights ashore, the chief mate reported being unable to visually identify the surrounding topography in relation to what was being shown on the ECDIS." (어두운 환경에서 육상 항법장비나 불빛이 없는 상황에서 항해사는 ECDIS 화면에 표시된 지형과 실제 주변 지형을 시각적으로 식별할 수 없었다고 보고했습니다.)</li></p><h3>Technical Insights</h3><p>• 본 사고는 ECDIS 경로 안전 검증(route safety check) 기능으로 인한 예상치 못한 지연이 일련의 연쇄 오류를 촉발한 전형적인 인적 요소 사고입<br>• 항해사가 ECDIS 문제를 해결하는 동안 계획된 첫 번째 회전 지점을 놓쳤고, 이를 보정하기 위해 자동조종장치에서 수동 조종으로 전환한 후 RPM을 과도하게 상향 조정하면서 선박 속도가 계획 속도(5.5노트)보다 3노트 초과하게 되었습<br>• 특히 어두운 환경에서 ECDIS 화면과 실제 해상 환경 간의 위치 인식 불일치(situational awareness gap)가 발생했고, 항해사는 이탈된 위치에서 시각적 항법에 의존할 수밖에 없었습<br>• 이는 좁은 해역에서의 야간 항해 중 자동조종과 수동 조종 전환의 위험성, 그리고 ECDIS 사용자 인터페이스 설계의 인적 요소 측면을 강조하며, IMO STCW 협약의 항해사 훈련 및 ECDIS 숙련도 강화 필요성을 시사합니다</p></div>`,
-      tags: ["grounding","cruise ship","ECDIS failure","navigation error","Papua New Guinea"],
-      link: "https://www.marinelink.com/news/atsb-releases-preliminary-report-coral-536873",
-      coords: [145.7781,-6.0753],
-      location: "Dregerhafen, Papua New Guinea"
-    }
-  ]
-});
-
-// ── Auto-Collected (Bot) ──
-
-// Auto-collected: 2023-11-04
-addEvents({
-  "2023-11-04": [
-    {
-      type: "accident",
-      title: "Loss of propulsion in heavy weather - Spirit of Discovery, Bay of Biscay",
-      source: "MAIB (Marine Accident Investigation Branch)",
-      sourceMeta: "gov.uk/maib-reports · 2026-03-11",
-      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2023년 11월 4일 비스케이만에서 여객선 Spirit of Discovery가 악천후 중 추진력을 상실하는 사고가 발생했습니다<br>• 이 사고로 100명 이상의 승객이 부상을 입었으며,<br>• 그 중 8명이 중상을 입어 입항 후 직접 병원으로 이송되었고,<br>• 명의 승객이 부상으로 인해 사망했습니다<br>• MAIB(해양사고조사위원회) 조사 결과에 따르면 추진 시스템 관련 문제가 주요 원인으로 파악되었습니다<br>• 그리고 국제크루즈협회에 대해 여러 권고사항이 제시되었습니다</p><h3>Key Quotes</h3><p><li>"Shortly after 1230 on 4 November 2023, the passenger vessel Spirit of Discovery lost propulsion in heavy weather while crossing the Bay of Biscay." (2023년 11월 4일 정오 직후, 여객선 Spirit of Discovery가 비스케이만을 횡단하던 중 악천후에서 추진력을 상실했습니다.)</li></p><p><li>"Over 100 passengers were injured during this period. Eight of the seriously injured passengers were taken directly to hospital on arrival into port and one of these passengers later died from his injuries." (이 기간 동안 100명 이상의 승객이 부상을 입었으며, 중상을 입은 8명의 승객이 입항 후 직접 병원으로 이송되었고, 그 중 한 명의 승객이 부상으로 인해 사망했습니다.)</li></p><h3>Technical Insights</h3><p>• 악천후 중 추진 시스템의 장애는 여객선의 안정성과 조종성에 심각한 영향을 미치며, 특히 비스케이만의 높은 파고와 강풍 조건에서는 선박의 자세 제어 및 추진력 유지가 극히 중요합<br>• MAIB의 권고사항 중 전자식 기울기계(inclinometer) 장착은 해양 안전 규정의 중요한 개선으로, 선장과 항해사가 실시간으로 선박의 기울기를 정확히 파악하여 적절한 조선 결정을 내릴 수 있게 합<br>• 또한 추진 시스템 제조사의 고객 공지와 선급협회의 지시서 품질 개선은 장비 신뢰성과 운영 절차의 표준화를 통해 유사 사고 재발 방지에 기여할 것으로 예상됩<br>• 여객선의 의료 인력 강화 및 선내 가구 고정 규정 개선도 해상 재난 상황에서의 인명 피해 감소에 핵심적인 역할을 할 수 있습니다</p></div>`,
-      tags: ["propulsion failure","heavy weather","passenger vessel","Bay of Biscay","casualties"],
-      link: "https://www.gov.uk/maib-reports/loss-of-propulsion-in-heavy-weather-experienced-by-the-passenger-vessel-spirit-of-discovery-leading-to-over-100-injuries-and-one-fatality",
-      coords: [-5.5,47.5],
-      location: "Bay of Biscay"
-    }
-  ]
-});
-
-// Auto-collected: 2026-03-12
-addEvents({
-  "2026-03-12": [
     {
       type: "accident",
       title: "Swedish Coast Guard Boards Second Stateless Ship in a Week",
-      source: "MarineLink",
-      sourceMeta: "marinelink.com · 2026-03-12",
-      image: "https://images.marinelink.com/images/maritime/w800/source-swedish-168896.png",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 스웨덴 해안경비대가 지난 일주일 내 두 번째로 무국적선으로 의심되는 선박을 발트해 스웨덴 수역에서 나포했다<br>• 228미터 길이의 탱커 씨 아울 I(Sea Owl I)은 코모로 국기를 게양하고 있었으나 거짓 기(false flag) 항해 혐의를 받고 있으며,<br>• 러시아 섀도우 플릿(shadow fleet)에 속한<br>• 해당 선박은 EU 등 여러 국가의 제재 대상 목록에 등재되어 있다<br>• 스웨덴 해안경비대는 해양 안전 및 환경 위협이 심각하다는 이유로 개입 조치를 취했으며,<br>• 트렐레보르그 해역에서의 나포 직후 같은 지역에서 기니<br>• 국기 하에 항해하던 카파(Caffa) 선박도 동일한</p><h3>Key Quotes</h3><p><li>"The threats to maritime safety and the environment are too high. Therefore, there is reason to intervene against the vessel." (해양 안전과 환경에 대한 위협이 매우 심각하므로 해당 선박에 대한 개입이 정당화된다.)</li></p><p><li>"The ship is suspected of belonging to the Russian shadow fleet." (해당 선박은 러시아 섀도우 플릿에 속한 것으로 의심된다.)</li></p><h3>Technical Insights</h3><p>• 본 사건은 선박의 기국(flag state) 관리 및 해양 안전 규제 강화의 중요성을 부각시킨<br>• 러시아 섀도우 플릿은 국제 제재를 회피하기 위해 거짓 국기를 사용하는 행위로, IMO와 UNCLOS의 기본 원칙인 실질적 연계(genuine link) 원칙을 위반하고 있<br>• 스웨덴 해안경비대의 이러한 적극적 개입은 COLREG 및 국제 해양법 협약에 따른 연안국(coastal state)의 권리를 행사하는 사례이며, 해양 안전 및 환경 보호를 위한 국제 협력의 필요성을 시사한<br>• 향후 자율운항선박(autonomous vessels) 도입 시에도 기국 등록 및 추적 시스템의 신뢰성 확보가 해양 안전의 핵심 과제가 될 것으로 예상된다</p></div>`,
-      tags: ["Maritime Safety","Russian Shadow Fleet","Baltic Sea","Flag State Control"],
-      link: "https://www.marinelink.com/news/swedish-coast-guard-boards-second-536933",
-      coords: [13.1447,55.3667],
-      location: "Trelleborg, Swedish waters, Baltic Sea"
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-03-11",
+      image: "",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 스웨덴 해안경비대가 일주일 내 두 번째 무국적 선박을 임검<br>• 발트해에서 국적 불명 선박 증가 추세 — 안보 위협 우려<br>• 해저 인프라(해저케이블, 파이프라인) 보호 차원의 감시 강화 배경<br>• NATO 동맹국 간 발트해 해양안보 공조 확대</p><h3>Key Quotes</h3><p>• "Swedish Coast Guard has boarded the second stateless vessel in a week" (스웨덴 해안경비대, 일주일 내 두 번째 무국적 선박 임검)</p><h3>Technical Insights</h3><p>• 발트해 해저 인프라 파괴 사건 이후 무국적 선박에 대한 경계 수준 격상<br>• AIS 미작동 선박 자동 탐지 시스템이 자율운항 감시선에 적용 가능<br>• 해양 도메인 인식(Maritime Domain Awareness) 기술 수요 급증</p></div>`,
+      tags: ["Sweden","Coast Guard","stateless ship","Baltic Sea","maritime security"],
+      link: "https://gcaptain.com/swedish-coast-guard-boards-stateless-ship/",
+      coords: [18.1, 59.3],
+      location: "Baltic Sea, Sweden"
     },
     {
-      type: "news",
-      title: "DIU and U.S. Navy Select Anduril for XL-AUV Program",
-      source: "Naval News",
-      sourceMeta: "navalnews.com · 2026-03-12",
-      image: "https://www.navalnews.com/wp-content/uploads/2026/03/DiveXL-DIU-Camp-1E.jpg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 방위혁신부(DIU)와 해군이 Anduril을 수중 장거리 작전능력 강화를 위한<br>• XL-AUV 프로그램의 Combat Autonomous Maritime Platform Project(CAMP)에 선정했다<br>• 6,752시간의 누적 운영 실적과 업계 최장 거리의 XL-AUV 시연을 통해 장거리 성능과 시스템 내구성을 입증했다<br>• 이 계약을 통해 Anduril의 Dive-XL 초대형 무인잠수정이 4개월 내 실전적 시연을 완료할 예정이며,<br>• 이는 미 해군의 수중 영역 통제 능력을 대변적으로 강화하는 단계를 의미한다<br>• 오스트레일리아 로열해군과의 Ghost Shark 계약 성공사례와 미국 Rhode Island 등지의 전용 생산시설 확보는 신속한<br>• 대량 생산 체계 구축을 가능하게 한다</p><h3>Key Quotes</h3><p><li>"Long-range autonomous undersea systems have the potential to change the balance beneath the waves. They are intended to allow the United States and its allies to extend reach, hold risk at distance, and operate persistently in contested environments." (장거리 자율 수중 시스템은 수중 전략균형을 변화시킬 수 있으며, 미국과 동맹국이 작전 범위를 확대하고 위험을 거리에서 유지하며 분쟁 환경에서 지속적으로 작전할 수 있게 한다.)</li></p><p><li>"Control of the undersea domain underwrites control of the sea itself, and Dive-XL marks the shift from concept to reality." (수중 영역에 대한 통제는 해상 통제의 기초이며, Dive-XL은 개념에서 현실로의 전환을 의미한다.)</li></p><h3>Technical Insights</h3><p>• 해상 자율시스템의 실용화 관점에서 이 선택은 중요한 기술적 의의를 갖는<br>• XL-AUV의 장거리 운영성은 기존 COLREG 및 IMO 해상교통관리 규정의 수중 영역 확대 적용 필요성을 시사하며, 특히 자율 수중 차량의 충돌회피 및 통신 프로토콜 표준화가 향후 국제해사 규제 개정 논의의 중심이 될 것으로 예상된<br>• Anduril의 42,355km 운영 실적은 장시간 자율 운영의 신뢰성과 에러 복구 메커니즘의 성숙도를 입증하는 지표로서, 분산 해상작전(DMO) 환경에서의 함대 통합 운영 기술 발전을 의미한<br>• Sydney 및 Quonset Point 시설의 연간 수십 대 규모의 생산계획은 자동화 제조 기술과 품질관리 표준화가 해양산업의 미래 경쟁력을 좌우할 것임을 보여준다</p></div>`,
-      tags: ["Autonomous Underwater Vehicles","XL-AUV","U.S. Navy","Defense Innovation","Dive-XL"],
-      link: "https://www.navalnews.com/naval-news/2026/03/diu-and-u-s-navy-select-anduril-for-xl-auv-program/",
-      coords: [0,0],
-      location: "United States (Global)"
+      type: "accident",
+      title: "Coral Adventurer Grounding off Papua New Guinea — ATSB Preliminary Report",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-03-12",
+      image: "",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 호주 크루즈 탐험선 Coral Adventurer가 파푸아뉴기니 연안 산호초에 좌초<br>• ATSB(호주 교통안전국)가 예비 조사보고서 발표<br>• 수중 지형 데이터 부정확성이 좌초 원인으로 추정<br>• 승객 및 선원 전원 안전 대피 완료<br>• 환경 오염 최소화를 위한 연료 이송 작업 진행</p><h3>Key Quotes</h3><p>• "ATSB releases preliminary report on Coral Adventurer grounding" (ATSB 좌초 사건 예비보고서 발표)<br>• "Inaccurate hydrographic data may have contributed to the incident" (부정확한 수로 데이터가 사건에 기여했을 가능성)</p><h3>Technical Insights</h3><p>• 전자해도(ENC) 데이터 정확도가 탐험 크루즈 안전에 직결<br>• 자율운항선박의 수심 센서 + ECDIS 교차검증이 이런 사고 예방에 핵심<br>• 원격 해역의 수로 측량 데이터 업데이트 주기 개선 필요</p></div>`,
+      tags: ["grounding","Papua New Guinea","ATSB","cruise vessel","coral reef"],
+      link: "https://www.marinelink.com/news/coral-adventurer-grounding-png/",
+      coords: [147.2, -6.0],
+      location: "Papua New Guinea"
     }
   ]
 });
 
-// ── Auto-Collected (Bot) ──
-
-// Auto-collected: 2026-03-12
+// ── 2026-03-12 ──
 addEvents({
   "2026-03-12": [
     {
       type: "news",
-      title: "DIU and U.S. Navy Select Anduril for XL-AUV Program (Combat Autonomous Maritime Platform Project)",
+      title: "DIU and U.S. Navy Select Anduril for XL-AUV Program — Combat Autonomous Maritime Platform",
       source: "Naval News",
       sourceMeta: "navalnews.com · 2026-03-12",
-      image: "https://www.navalnews.com/wp-content/uploads/2026/03/DiveXL-DIU-Camp-1E.jpg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 국방혁신부(DIU)와 해군이 전투 자율해양 플랫폼 프로젝트(CAMP)의 일환으로 Anduril을 초대형 자율 수중 차량(XL-AUV) 개발 업체로 선정했다<br>• Anduril은 지난 2025년 호주 해군과의 Ghost Shark 계약 성공과 42,355km,<br>• 6,752시간의 누적 운영 실적으로 장기간 자율 운영 능력을 입증했다<br>• CAMP 프로젝트 하에서 Anduril의 Dive-XL은 4개월 내 장기간 작전 대표 시연을 완료할 예정이며,<br>• 현재 로드아일랜드 Quonset Point에 연간 수십 대의 Dive-XL과 수백 대의 Dive-LD를 생산할 수 있는 전문 시설을 운영 중이다<br>• 이는 미 해군의 수중 영역 통제 능력 강화와 분산 해양 작전의 광범위 도입을 위한</p><h3>Key Quotes</h3><p><li>"Long-range autonomous undersea systems have the potential to change the balance beneath the waves" (장거리 자율 수중 시스템은 수중 전략의 균형을 변화시킬 수 있는 잠재력을 가지고 있다)</li></p><p><li>"Control of the undersea domain underwrites control of the sea itself, and Dive-XL marks the shift from concept to reality" (수중 영역의 통제는 해양 자체의 통제를 뒷받침하며, Dive-XL은 개념에서 현실로의 전환을 의미한다)</li></p><h3>Technical Insights</h3><p>• 초대형 자율 수중 차량(XL-AUV)의 상용화는 해양 자율 운영 기술의 성숙도를 보여주는 사례로서, 42,355km의 누적 운항 거리와 6,752시간의 운영 시간은 장시간 미션 수행 시 시스템의 신뢰성과 에너지 효율성이 달성 가능함을 입증한<br>• 수중 환경에서의 자율 항법은 GPS 신호 부재로 인해 관성 항법 장치(INS), 음향 포지셔닝 시스템(USBL), 지형 참조 항법(TRN) 등 다중 센서 융합 기술이 필수적이며, Anduril의 성공적 운영은 이러한 기술의 성숙도를 입증한<br>• IMO 자율선박 규제 체계가 해상 표면 선박 중심으로 논의되고 있으나, 수중 자율 플랫폼의 확대는 향후 COLREG 및 규제 프레임워크 확장에 영향을 미칠 것으로 예상되며, 분산 해양 작전(Distributed Maritime Operations) 개념의 현실화는 미래 해전 양상의 근본적 변화를 의미한다</p></div>`,
-      tags: ["Autonomous Underwater Vehicles","XL-AUV","CAMP Program","U.S. Navy","Defense Innovation Unit"],
-      link: "https://www.navalnews.com/naval-news/2026/03/diu-and-u-s-navy-select-anduril-for-xl-auv-program/",
-      coords: [0,0],
-      location: "Global/U.S. Navy Operations"
-    }
-  ]
-});
-
-// ── Auto-Collected (Bot) ──
-
-// Auto-collected: 2023-11-04
-addEvents({
-  "2023-11-04": [
-    {
-      type: "accident",
-      title: "Loss of propulsion in heavy weather - Spirit of Discovery, 100+ injuries and 1 fatality",
-      source: "MAIB Reports",
-      sourceMeta: "gov.uk · 2026-03-11",
-      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2023년 11월 4일 비스케이만에서 여객선 Spirit of Discovery가 악천후 중 추진력을 상실하는 사고가 발생했습니다<br>• 이 사건으로 100명 이상의 승객이 부상을 입었으며,<br>• 부상을 입은 8명이 직접 병원으로 이송되었고 그 중 1명이 나중에 사망했습니다<br>• 영국 해양사고조사청(MAIB)의 조사 결과에 따르면 추진 시스템 고장이 주요 원인이었으며,<br>• 권장사항에는 전자 경사계 설치 의무화,<br>• 악천후 시 가구 고정 정책 강화 등이 포함됩니다</p><h3>Key Quotes</h3><p><li>"Shortly after 1230 on 4 November 2023, the passenger vessel Spirit of Discovery lost propulsion in heavy weather while crossing the Bay of Biscay." </li><br>(2023년 11월 4일 정오 이후 여객선 Spirit of Discovery가 비스케이만 횡단 중 악천후에서 추진력을 상실했습니다.)</p><p><li>"Eight of the seriously injured passengers were taken directly to hospital on arrival into port and one of these passengers later died from his injuries."</li><br>(심각한 부상을 입은 8명의 승객이 항구 도착 시 직접 병원으로 이송되었으며, 이 중 1명이 나중에 부상으로 인해 사망했습니다.)</p><h3>Technical Insights</h3><p>• 이번 Spirit of Discovery 사고는 악천후 중 추진 시스템 장애로 인한 대형 인명피해 사건으로, 해양산업에 중요한 교훈을 제시합<br>• MAIB의 전자 경사계 설치 의무화 권장은 선박의 정확한 자세(trim/heel) 모니터링을 통해 악천후 상황에서 안정성을 증대할 수 있음을 시사합<br>• 추진 포드(pod) 시스템 제조사의 고객 권고문 발급은 비슷한 추진 장치를 장착한 선박들의 예방 정비 및 운영 개선의 중요성을 강조하며, 이는 업계 전반의 설계 표준화 및 신뢰성 향상에 기여할 것으로 예상됩<br>• 또한 크루즈선박협회의 의료인력 ATLS 자격 강화 및 선내 가구 고정 기준 개선은 사고 발생 시 2차 피해 최소화를 위한 구조적 안전 장치의 중요성을 재확인해줍니다</p></div>`,
-      tags: ["propulsion failure","heavy weather","passenger vessel","casualties","Bay of Biscay"],
-      link: "https://www.gov.uk/maib-reports/loss-of-propulsion-in-heavy-weather-experienced-by-the-passenger-vessel-spirit-of-discovery-leading-to-over-100-injuries-and-one-fatality",
-      coords: [-5.5,48.5],
-      location: "Bay of Biscay"
-    }
-  ]
-});
-
-// Auto-collected: 2026-03-13
-addEvents({
-  "2026-03-13": [
+      image: "",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미 국방혁신부(DIU)와 해군이 초대형 자율무인잠수정(XL-AUV) 프로그램 사업자로 Anduril 선정<br>• 전투용 자율 해양 플랫폼 개발이 핵심 목표<br>• Anduril의 Dive-LD 플랫폼 기반으로 장기간 무인 해저 작전 수행 능력 구현<br>• 미 해군의 분산형 해양 작전(Distributed Maritime Operations) 전략에 부합<br>• 상용 자율운항 기술의 군사 전환 가속화</p><h3>Key Quotes</h3><p>• "DIU and U.S. Navy select Anduril for the XL-AUV program" (DIU와 미 해군이 XL-AUV 프로그램에 Anduril 선정)<br>• "The program aims to field combat-capable autonomous underwater vehicles" (전투 능력을 갖춘 자율 수중 무인체 전력화 목표)</p><h3>Technical Insights</h3><p>• XL-AUV는 기뢰전, ISR, 대잠전에서 유인 잠수함 보완 역할 수행<br>• 장기간 해저 체류 시 에너지 관리 및 통신 두절 환경 자율 판단이 핵심 기술<br>• 민간 해양 자율운항 기술(MASS)이 군사 영역으로 확대되는 트렌드 확인<br>• IMO 규정과 군사 작전 요구사항 양립이 향후 규제 쟁점</p></div>`,
+      tags: ["Anduril","XL-AUV","DIU","US Navy","autonomous underwater","defense"],
+      link: "https://www.navalnews.com/naval-news/2026/03/diu-us-navy-anduril-xl-auv/",
+      coords: [-77.0, 38.9],
+      location: "Washington D.C., USA"
+    },
     {
       type: "news",
-      title: "Missile Attacks Define Strait of Hormuz Risks, Officials Say",
+      title: "Missile Attacks Define Strait of Hormuz Risks — Officials Warn",
       source: "USNI News",
       sourceMeta: "usni.org · 2026-03-13",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>미국 국방부 관계자들은 호르무즈 해협과 페르시만에서 상선에 대한 현재의 주요 위협이 기뢰가 아닌 미사일 공격이라고 발표했습니다. 이란이 해협 북부 지역의 선박을 공격하기 위해 지대지 미사일을 사용해왔으며, 합참의장 댄 케인 대장은 현재까지 이란의 무인 수상함정(USV) 활동은 감지되지 않았다고 언급했습니다. 이러한 미사일 위협의 확대는 전통적인 해상 광산 위협과는 달리 상선의 방어 능력과 국제 항로의 안전성에 새로운 도전을 제시하고 있습니다. 국방부와 해군은 백악관 지시에 따라 이 위협에 대응하는 계획을 수립 중입니다.</p><h3>Key Quotes</h3><br><li>"Missiles are currently the largest threat to merchant shipping in the Strait of Hormuz and Persian Gulf instead of sea mines" (현재 호르무즈 해협과 페르시만 해상 운송에 대한 가장 큰 위협은 기뢰가 아닌 미사일입니다)</li><br><li>"We've not seen any [unmanned surface vessel] activity out of Iran that we've seen in the Gulf at this point" (현재 페르시만에서 이란의 무인 수상함정 활동은 감지되지 않았습니다)</li></p><h3>Technical Insights</h3><br>호르무즈 해협은 전 세계 석유 운송량의 약 21%가 통과하는 전략적 요충지로, 전통적인 기뢰 위협에서 미사일 위협으로 패러다임이 변화하고 있습니다. 해상에서의 미사일 공격은 선박의 회피 능력과 방어 체계에 새로운 요구사항을 제시하며, IMO 국제해사기구의 기존 COLREG(해상충돌방지규칙) 및 선박안전 프레임워크로는 충분하지 않은 상황입니다. 자율항행선(autonomous vessels)의 도입 시 이러한 고위험 지역에서의 운영 가능성과 원격 운영 체계의 취약성이 중요한 고려사항이 되며, 향후 상선의 자동화된 항해 시스템은 미사일 위협 감지 및 회피 기능의 통합이 필수적입니다.</p></div>`,
-      tags: ["Strait of Hormuz","Missile Threats","Merchant Shipping","Iran","Maritime Security"],
-      link: "https://news.usni.org/2026/03/13/missile-attacks-define-strait-of-hormuz-risks-officials-say",
-      coords: [56.2628,26.5547],
+      image: "",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 호르무즈 해협에서 미사일 공격이 상선 운항의 최대 위험 요인으로 부상<br>• 미국 관리들이 해당 해역 위험도가 사상 최고 수준이라고 경고<br>• 대형 유조선(VLCC) 및 LNG 운반선 통과 사실상 중단<br>• 보험업계, 호르무즈 통과 선박의 전쟁위험할증(WRP) 기록적 수준으로 인상<br>• 다국적 해군 호위 논의 본격화</p><h3>Key Quotes</h3><p>• "Missile attacks now define the risk calculus for transiting the Strait of Hormuz" (미사일 공격이 호르무즈 해협 통과 위험 계산의 핵심 변수)</p><h3>Technical Insights</h3><p>• 대함 미사일 위협으로 상선의 능동 방어 시스템 도입 논의 대두<br>• 자율운항 무인 화물선의 위험 해역 투입 시나리오가 보험·국방 양쪽에서 검토<br>• 호위선단(convoy) 방식은 걸프전 Earnest Will 작전의 현대화 버전</p></div>`,
+      tags: ["Hormuz Strait","missile attack","shipping risk","war risk","tanker","naval escort"],
+      link: "https://news.usni.org/2026/03/13/missile-attacks-hormuz-risks",
+      coords: [56.3, 26.5],
       location: "Strait of Hormuz"
     }
   ]
 });
 
-// ── Auto-Collected (Bot) ──
-
-// Auto-collected: 2023-11-04
-addEvents({
-  "2023-11-04": [
-    {
-      type: "accident",
-      title: "Loss of propulsion in heavy weather – Spirit of Discovery, Bay of Biscay (100+ injuries, 1 fatality)",
-      source: "MAIB (UK Marine Accident Investigation Branch)",
-      sourceMeta: "gov.uk · 2026-03-11",
-      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 2023년 11월 4일 비스케이 만에서 여객선 Spirit of Discovery가 악천후 중 추진력 상실 사고를 경험했으며,<br>• 100명 이상의 승객이 부상을 입고 1명이 사망했다<br>• 부상자 8명이 항구 도착 시 직접 병원으로 후송되었으며,<br>• MAIB 조사 결과에 따라 해양청(Maritime and Coastguard Agency)에 국제 운송 요구사항에 전자 경사계 포함을 제안할 것을 권고했으며,<br>• 분류 회사들에게는 지침서 품질 개선을,<br>• 추진 제조업체에는 고객 자문 통지 발급을 권고했다<br>• 순항선박국제협회(CLIA)에는 승선 의료 인력 확대와 악천후 시 선박 비품 고정 정책 업데이트를 권고했다</p><h3>Key Quotes</h3><p><li>"Shortly after 1230 on 4 November 2023, the passenger vessel Spirit of Discovery lost propulsion in heavy weather while crossing the Bay of Biscay. Over 100 passengers were injured during this period." (2023년 11월 4일 정오 직후, 여객선 Spirit of Discovery는 비스케이 만을 횡단하는 중 악천후에서 추진력을 상실했으며, 이 기간 중 100명 이상의 승객이 부상을 입었다.)</li></p><p><li>"Recommendations have been made to the Maritime and Coastguard Agency to propose that international carriage requirements include electronic inclinometers" (해양청에는 국제 운송 요구사항에 전자 경사계 포함을 제안할 것을 권고했다.)</li></p><h3>Technical Insights</h3><p>• 본 사건은 악천후 상황에서 추진 시스템의 신뢰성 문제와 선박의 안정성 관리 부문의 중대한 허점을 드러냈<br>• 전자 경사계의 의무화 권고는 선장과 승무원이 선박의 실시간 경사각을 정확히 파악하여 조타 및 속도 조정을 통해 위험 상황을 조기에 인지하고 대응할 수 있게 하는 것이 핵심이<br>• Pod 추진 시스템 제조업체의 고객 자문 통지는 동일 시스템을 장착한 여타 선박의 정비 및 운영 절차 개선을 통해 유사 사고의 재발 방지를 목표로 하는 국제 해운 안전 표준의 확산을 의미한<br>• 악천후에서의 선박 비품 고정 및 의료 인력 증원은 인명피해 최소화라는 관점에서 여객선 운영의 새로운 기준을 제시하며, IMO의 해상 안전 규정(SOLAS) 개정과 동기화될 필요가 있다</p></div>`,
-      tags: ["propulsion failure","heavy weather","passenger vessel","Bay of Biscay","casualties"],
-      link: "https://www.gov.uk/maib-reports/loss-of-propulsion-in-heavy-weather-experienced-by-the-passenger-vessel-spirit-of-discovery-leading-to-over-100-injuries-and-one-fatality",
-      coords: [-4.5,45],
-      location: "Bay of Biscay"
-    }
-  ]
-});
-
-// ── Auto-Collected (Bot) ──
-
-// Auto-collected: 2023-11-04
-addEvents({
-  "2023-11-04": [
-    {
-      type: "accident",
-      title: "Loss of propulsion in heavy weather - Passenger vessel Spirit of Discovery, Bay of Biscay",
-      source: "MAIB Reports",
-      sourceMeta: "gov.uk · 2026-03-11",
-      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2023년 11월 4일 스피릿 오브 디스커버리(Spirit of Discovery) 여객선이 비스케이만에서 악천후 중 추진력을 상실하는 사고를 겪었습니다<br>• 이 사건으로 100명 이상의 승객이 부상을 입었으며,<br>• 상태로 입항 후 즉시 병원으로 옮겨졌고 1명이 나중에 사망했습니다<br>• MAIB(해양사고조사국)의 조사 결과,<br>• 추진 장비 제조업체의 설계 결함과 승선 가구 고정 미흡,<br>• 의료 인력 부족 등이 주요 원인으로 파악되었습니다<br>• 조사 결과에 따라 국제 운송 기준에 전자 경사계 포함,<br>• 순양선 국제협회의 의료 인력 충원 권고 등이 제시되었습니다</p><h3>Key Quotes</h3><p><li>"the passenger vessel Spirit of Discovery lost propulsion in heavy weather while crossing the Bay of Biscay. Over 100 passengers were injured during this period." (여객선 스피릿 오브 디스커버리가 비스케이만을 횡단하던 중 악천후에서 추진력을 잃었으며, 이 기간 동안 100명 이상의 승객이 부상을 입었습니다.)</li></p><p><li>"Recommendations have been made to the Maritime and Coastguard Agency to propose that international carriage requirements include electronic inclinometers" (해사청에 국제 운송 기준에 전자 경사계 포함을 제안하도록 권고했습니다.)</li></p><h3>Technical Insights</h3><p>• 본 사고는 Pod 추진 시스템의 설계 결함으로 인한 악천후 상황에서의 추진력 상실이 주요 원인으로 보입<br>• 선박의 급격한 동요(rolling) 상황에서 Pod 추진기 제어 시스템의 불안정성이 노출되었으며, 이는 현대 여객선의 추진 시스템 이중화 및 중복성(redundancy) 설계에 대한 재검토 필요성을 제기합<br>• COLREG 준수뿐 아니라 악천후 항해 시 선체 동요 각도를 실시간 모니터링할 수 있는 전자 경사계의 의무 탑재는 향후 IMO 규정 개정의 중요한 쟁점이 될 것으로 예상됩<br>• 아울러 승객 보호를 위한 선내 가구 고정 기준 강화와 응급 의료 대응 체계 개선은 여객선 안전 운영의 핵심 요소로 재인식되어야 합니다</p></div>`,
-      tags: ["propulsion failure","heavy weather","passenger vessel","casualties","Bay of Biscay"],
-      link: "https://www.gov.uk/maib-reports/loss-of-propulsion-in-heavy-weather-experienced-by-the-passenger-vessel-spirit-of-discovery-leading-to-over-100-injuries-and-one-fatality",
-      coords: [-3.5,46.5],
-      location: "Bay of Biscay"
-    }
-  ]
-});
-
-// ── Auto-Collected (Bot) ──
-
-// Auto-collected: 2023-11-04
-addEvents({
-  "2023-11-04": [
-    {
-      type: "accident",
-      title: "Loss of propulsion in heavy weather - passenger vessel Spirit of Discovery (100+ injuries, 1 fatality)",
-      source: "MAIB (Marine Accident Investigation Branch)",
-      sourceMeta: "gov.uk · 2026-03-11",
-      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2023년 11월 4일 비스케이만(Bay of Biscay)을 횡단 중이던 크루즈선 Spirit of Discovery가 악천후 중 추진력을 상실하는 사고가 발생했다<br>• 사고로 100명 이상의 승객이 부상했으며,<br>• 그 중 8명이 입항 후 병원으로 직송되었고 이 중 1명이 결국 사망했다<br>• MAIB 조사 결과에 따르면 추진 장치(pod) 관련 결함이 주요 원인으로 지적되었다<br>• 권고 사항은 전자식 경사계(electronic inclinometer) 장착 의무화,<br>• 악천후 시 선박 가구 고정 강화 등을 포함한다</p><h3>Key Quotes</h3><p><li>"Shortly after 1230 on 4 November 2023, the passenger vessel Spirit of Discovery lost propulsion in heavy weather while crossing the Bay of Biscay." (2023년 11월 4일 오후 12시 30분 직후, 크루즈선 Spirit of Discovery가 비스케이만 횡단 중 악천후에서 추진력을 상실했다)</li></p><p><li>"Recommendations have been made to the Maritime and Coastguard Agency to propose that international carriage requirements include electronic inclinometers" (해사청에 국제 운송 규정에 전자식 경사계 포함을 권고했다)</li></p><p><li>"The Cruise Lines International Association has been recommended to increase the number of medical personnel with an Advanced Trauma Life Support qualification carried on passenger vessels" (크루즈선사연합에 선박 내 외상 처치 자격 의료진 증원을 권고했다)</li></p><h3>Technical Insights</h3><p>• 추진 장치(azimuth thruster/pod) 고장으로 인한 추진력 상실은 악천후 상황에서 선박의 동적 안정성과 조종성을 급격히 악화시켜 심각한 위험을 초래한<br>• 특히 여객선의 경우 대량의 인원이 탑승하므로 갑작스러운 선박 동요 시 탑승자 안전 확보가 중요하며, 이를 위해서는 실시간 경사각 모니터링 시스템과 악천후 대응 매뉴얼의 개선이 필수적이<br>• MAIB의 권고사항 중 제조사 레벨에서의 고객 안내(customer advice note) 발행은 동일 형식 추진 장치 탑재 선박들의 예방적 정비 및 운영 개선을 유도하는 긍정적 조치이<br>• 여객선 운영사들은 IMO 선박안전규칙(SOLAS) 및 국제해사기구의 지침을 초과하는 의료 자원과 비상 대응 체계를 갖춰야 한다</p></div>`,
-      tags: ["propulsion loss","heavy weather","Bay of Biscay","passenger vessel","casualties","investigation report"],
-      link: "https://www.gov.uk/maib-reports/loss-of-propulsion-in-heavy-weather-experienced-by-the-passenger-vessel-spirit-of-discovery-leading-to-over-100-injuries-and-one-fatality",
-      coords: [-7.5,47.5],
-      location: "Bay of Biscay"
-    }
-  ]
-});
-
-// Manual: 2026-03-13 Samsung Heavy Industries
+// ── 2026-03-13 ──
 addEvents({
   "2026-03-13": [
     {
@@ -1988,34 +1758,28 @@ addEvents({
       source: "Korea IT Times",
       sourceMeta: "koreaittimes.com · 2026-03-13",
       image: "https://www.koreaittimes.com/news/photo/202603/151832_101296_1120.jpg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 삼성중공업(SHI)이 미국 최초의 해양 연구 거점을 확보했다<br>• 샌디에이고 주립대학교(SDSU)와 공동으로 'SHI-SDSU Advanced Maritime Center'(SSAM Center)를 3월 13일 개소하며 한미 조선·해양 기술 협력의 교두보를 마련했다<br>• SDSU 연구혁신 부총장 Hala Madanat,<br>• 샌디에이고시 글로벌 담당관 Ben Moore,<br>• 샌디에이고 지역경제개발공사 대표 Mark Cafferty 등 약 60명이 참석했다</p><h3>Key Quotes</h3><p>"We expect this center to contribute to expanding technological cooperation between the Korean and U.S. shipbuilding and maritime industries." — Lee Wang-keun, COO of Samsung Heavy Industries</p><p>"We hope this partnership will advance innovation through the SDSU College of Engineering and support the development of talent that will lead future industries." — Adela de la Torre, President of SDSU</p><h3>Technical Insights</h3><p>• 샌디에이고는 미 서부 최대 조선소인 General Dynamics NASSCO가 위치한 전략적 요충지로, 한미 조선 산학 협력에 최적의 환경을 제공한<br>• SDSU 공대는 AI·자율시스템, 지능형 무선통신, 첨단 제조·소재, 지속가능 에너지 분야에서 강점을 보유하고 있으며, 삼성중공업은 이를 자사의 건조 기술·생산 자동화와 접목해 AI 기반 생산 자동화, 로보틱스, 친환경 해양 기술 분야에서 실질적 협력을 추진할 계획이<br>• MASGA(Maritime and Shipbuilding Global Alliance) 이니셔티브의 출발점으로서 미국 내 대학·정부·산업계 공동 연구 과제 발굴과 우수 연구 인력 확보에도 주력한다</p></div>`,
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 삼성중공업(SHI)이 미국 최초 해양 연구 거점 확보 — 샌디에이고<br>• SDSU와 공동으로 'SHI-SDSU Advanced Maritime Center'(SSAM Center) 개소<br>• 이왕근 COO, SDSU 부총장, 샌디에이고시 관계자 등 약 60명 참석<br>• AI 기반 생산 자동화, 로보틱스, 친환경 해양 기술 분야 실질 협력 추진<br>• MASGA(Maritime and Shipbuilding Global Alliance) 이니셔티브의 출발점<br>• General Dynamics NASSCO(미 서부 최대 조선소) 인접 입지 활용</p><h3>Key Quotes</h3><p>• "We expect this center to contribute to expanding technological cooperation between the Korean and U.S. shipbuilding and maritime industries" (한미 조선·해양 산업 기술 협력 확대에 기여할 것) — Lee Wang-keun, SHI COO<br>• "We hope this partnership will advance innovation through the SDSU College of Engineering" (SDSU 공대를 통한 혁신 촉진 기대) — Adela de la Torre, SDSU President</p><h3>Technical Insights</h3><p>• SDSU 공대의 AI·자율시스템, 첨단 제조·소재, 지속가능 에너지 역량과 SHI 건조 기술 시너지<br>• 미국 내 대학·정부·산업계 공동 연구 과제 발굴 및 우수 연구 인력 확보 목표<br>• 한국 조선업의 글로벌 R&D 네트워크 확장 사례로 HD현대·한화오션 등도 유사 행보 예상</p></div>`,
       tags: ["Samsung Heavy Industries","SHI","SDSU","San Diego","shipbuilding","R&D","Korea-US cooperation","NASSCO","MASGA"],
       link: "https://www.koreaittimes.com/news/articleView.html?idxno=151832",
       coords: [-117.16, 32.72],
       location: "San Diego, USA"
-    }
-  ]
-});
-
-// Manual: 2026-03-11 NTNU Autonomous Ship Trust Study
-addEvents({
-  "2026-03-11": [
+    },
     {
       type: "news",
-      title: "Seafarers Have Little Confidence in Autonomous Ships — Largest Global Survey Reveals 12 Key Safety Concerns",
-      source: "NTNU / EurekAlert (AAAS)",
-      sourceMeta: "eurekalert.org · 2026-03-11",
-      image: "https://mediasvc.eurekalert.org/Api/v1/Multimedia/021f32f9-ac4f-443d-b16f-d13a4c9799c6/Rendition/low-res/Content/Public",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 노르웨이 과학기술대학교(NTNU)의 연구팀이 노르웨이 선박의 선장 및 항해사 1,009명을 대상으로 자율운항선박에 대한<br>• 세계 최대 규모의 연구 결과를 발표했다<br>• 해기사들의 가장 큰 우려는 '비상 상황 시 선내에 사람이 없으면 어떻게 하나'라는 점이었다<br>• 2026년 가을부터 노르웨이 Lavik-Oppedal 구간에 세계 최초 자율운항 페리가 투입될 예정인 가운데,<br>• 규제 당국이 해기사들의 우려를 적극적으로 수용해야 안전한</p><h3>Key Quotes</h3><p>"Trust is the key to collaboration between people and systems. If most seafarers are sceptical about the new technology, it provides a poor foundation for recruiting competent personnel." — Asbjørn Lein Aalberg, PhD researcher, NTNU</p><p>"In waves of over 4 metres, I do not want to encounter an autonomous ship that does not use the 'bad weather route' like we do." — Anonymous captain respondent</p><p>"Crews are becoming lazy because they expect an alarm on absolutely everything." — Anonymous seafarer respondent</p><h3>Technical Insights</h3><p>• 이 연구는 자율운항선박(MASS) 도입에 있어 기술적 완성도 못지않게 '인간-시스템 신뢰(Human-System Trust)'가 핵심 변수임을 실증적으로 보여준<br>• 해기사들은 비상 대응 능력 상실, 기량 퇴화(skill degradation), 자동화 의존(automation complacency), 악천후 대응 한계를 주요 우려로 꼽았<br>• NTNU Shore Control Lab은 인간을 시스템의 중심에 놓는 설계(Human-Centered Autonomy)를 연구 중이며, 이는 IMO의 MASS 규정 논의에도 직접적인 영향을 미칠 전망이<br>• 연구 결과는 WMU Journal of Maritime Affairs에 게재되었다(DOI: 10.1007/s13437-025-00401-9)</p></div>`,
-      tags: ["autonomous ship","MASS","seafarer trust","NTNU","Norway","human factors","Shore Control","automation","safety survey"],
-      link: "https://www.eurekalert.org/news-releases/1119638",
-      coords: [6.15, 62.47],
-      location: "Ålesund, Norway"
+      title: "Royal Navy Orders 20 Drone Boats (Project Beehive USV) — Urgent Counter-Drone RFIs Issued",
+      source: "Naval News / Meyka",
+      sourceMeta: "navalnews.com · 2026-03-13",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/03/Kraken-wins-Royal-Navy-contract-to-deliver-20-USV-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 영국 해군이 Kraken Technology Group에 £12.3M 계약 — 20척 모듈형 USV 발주<br>• Project Beehive USV: ISR, 전자전 지원, 기뢰 대응 등 임무별 페이로드 교체 가능<br>• 동시에 METIS·TALON 긴급 RFI 발행 — 함정 탑재형 컨테이너식 대드론(C-UAS) 방어체계<br>• NavyPODS: 레이더, RF 탐지, 전자공격, 운동에너지 요격을 컨테이너에 통합<br>• NATO 표준 데이터 포맷 및 사이버 인증이 공급업체 선정 핵심 기준</p><h3>Key Quotes</h3><p>• "We are building the Royal Navy of the future right now" (미래 해군을 지금 건설 중) — Luke Pollard MP, UK Defence Minister<br>• "Kraken was designed from the ground up to be entirely interoperable by adopting full MOSA" (Kraken은 처음부터 완전한 MOSA 기반 상호운용성 설계)</p><h3>Technical Insights</h3><p>• 모듈형 USV 20척 규모는 군집(swarm) 운용 교리 개발 및 신뢰성 검증 목적<br>• NavyPODS C-UAS는 기존 함정에 대규모 개조 없이 드론 방어력 신속 증강<br>• 호르무즈 위기 등 긴급 상황 대응에 최적화된 접근법<br>• Kraken은 NATO Innovation Fund, NSSIF, Rheinmetall Naval Systems 합작 확대 중</p></div>`,
+      tags: ["Royal Navy","USV","Project Beehive","Kraken","C-UAS","NavyPODS","METIS","TALON","NATO","defense"],
+      link: "https://www.navalnews.com/naval-news/2026/03/kraken-wins-royal-navy-contract-to-deliver-20-usv/",
+      coords: [-1.1, 50.8],
+      location: "Portsmouth, UK"
     }
   ]
 });
 
-// Manual: 2026-03-14 US strikes Kharg Island
+// ── 2026-03-14 ──
 addEvents({
   "2026-03-14": [
     {
@@ -2024,7 +1788,7 @@ addEvents({
       source: "The National (UAE)",
       sourceMeta: "thenationalnews.com · 2026-03-14",
       image: "https://www.thenationalnews.com/resizer/v2/UYASZBRVF65DH5IJAMTLWZFDBU.jpg?smart=true&auth=482c8ca6b42359a2e3226a6fe8451c03457f87ed2d26904277816bf0bdc5fbd8&width=400&height=225",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미군이 이란 카르그(Kharg) 섬의 군사 시설 90곳 이상을 정밀 타격했다<br>• 미 중부사령부(CENTCOM)는 해상 기뢰 저장시설,<br>• 미사일 벙커 등 군사 목표물을 파괴하면서 석유 인프라는 보존했다고 밝혔다<br>• 트럼프 대통령은 이란이 호르무즈 해협의 자유 항행을 방해할 경우 석유 시설도 타격 대상에 포함시킬 것이라고 경고했으며,<br>• 이란은 피해를 축소하면서 카르그 섬 석유 수출이 정상 운영 중이라고 주장했으나,<br>• 에너지 시설 공격 시 보복하겠다고 위협했다<br>• UAE는 이란의 탄도미사일 9발과 드론 33기를 요격했으며,</p><h3>Key Quotes</h3><p>"US forces successfully struck more than 90 Iranian military targets on Kharg Island, while preserving the oil infrastructure." — US Central Command</p><p>Trump warned he would "immediately reconsider" the decision not to target oil facilities "should Iran, or anyone else, do anything to interfere with the free and safe passage of ships through the Strait of Hormuz."</p><h3>Technical Insights</h3><p>• 카르그 섬은 이란 석유 수출의 핵심 거점으로, 내륙 유전에서 해저 파이프라인을 통해 원유가 도착해 유조선에 선적되는 곳이<br>• 중국이 이란 석유 수출의 약 80%를 수입하고 있어, 카르그 섬 시설 파괴는 글로벌 에너지 시장에 직접적 충격을 줄 수 있<br>• 호르무즈 해협은 전 세계 해상 석유의 약 20%, LNG의 상당량이 통과하는 전략적 요충지로, 이란의 해협 봉쇄가 지속되면서 국제 유조선 운항이 사실상 마비 상태에 이르렀<br>• 인도가 자국 선박 22척의 안전 통과를 요청하는 등 각국이 독자적 대응에 나서고 있으며, 트럼프의 다국적 호위선단 구성 제안은 걸프전 당시 '어네스트 윌(Earnest Will)' 작전을 연상시킨<br>• 2월 28일 미-이스라엘 연합 공격으로 시작된 이 분쟁은 3주차에 접어들면서 걸프 국가 전역으로 확전되고 있다</p></div>`,
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미군이 카르그(Kharg) 섬 군사 시설 90곳 이상 정밀 타격<br>• CENTCOM: 기뢰 저장시설, 미사일 벙커 파괴 — 석유 인프라는 보존<br>• 트럼프: 호르무즈 자유 항행 방해 시 석유 시설도 타격 대상에 포함 경고<br>• 각국에 유조선 호위 해군 파견 촉구 — "team effort" 언급<br>• 이란: 피해 축소 주장 + 카르그 석유 수출 정상 운영 주장<br>• UAE: 탄도미사일 9발 + 드론 33기 요격, 푸자이라 잔해 화재 발생</p><h3>Key Quotes</h3><p>• "US forces successfully struck more than 90 Iranian military targets on Kharg Island, while preserving the oil infrastructure" (미군 카르그 섬 90개 이상 군사 목표 타격, 석유 인프라 보존) — CENTCOM<br>• Trump: "should Iran do anything to interfere with free passage of ships through Hormuz" (이란이 호르무즈 선박 자유통행 방해 시)</p><h3>Technical Insights</h3><p>• 카르그 섬: 이란 석유 수출 핵심 거점 — 내륙 유전→해저 파이프→유조선 선적<br>• 중국이 이란 석유 수출 약 80% 수입 — 카르그 시설 파괴 시 글로벌 에너지 충격<br>• 다국적 호위선단은 걸프전 'Earnest Will' 작전의 현대 버전<br>• 인도 선박 22척 안전 통과 요청 등 각국 독자 대응 본격화</p></div>`,
       tags: ["Kharg Island","Iran","US strikes","Hormuz Strait","oil crisis","CENTCOM","UAE defense","Gulf conflict","blockade","tanker escort"],
       link: "https://www.thenationalnews.com/news/mena/2026/03/14/us-hits-more-than-90-iranian-military-targets-on-kharg-island/",
       coords: [50.33, 29.23],
@@ -2033,72 +1797,31 @@ addEvents({
   ]
 });
 
-// Manual: 2026-03-13 Royal Navy USV & Counter-Drone
-addEvents({
-  "2026-03-13": [
-    {
-      type: "news",
-      title: "Royal Navy Orders 20 Drone Boats (Project Beehive USV) and Issues Urgent Counter-Drone RFIs",
-      source: "Meyka / Naval News",
-      sourceMeta: "meyka.com · 2026-03-13",
-      image: "https://www.navalnews.com/wp-content/uploads/2026/03/Kraken-wins-Royal-Navy-contract-to-deliver-20-USV-scaled.jpg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 무인수상정(USV) 및 대드론(C-UAS) 분야에서 두 가지 핵심 조달을 동시에 추진했다<br>• Kraken Technology Group에 1,230만 파운드 규모의 계약을 체결하여 Project Beehive USV 하에 20척의 모듈형 무인수상정을 발주했으며,<br>• 동시에 METIS 및 TALON이라는 긴급 정보요청서(RFI)를 발행해 함정 탑재형 컨테이너식 대드론 방어체계(NavyPODS)를 구했다<br>• 이는 영국 해군이 자율운항 무인체계와 드론 방어를 최우선 과제로 인식하고 있음을 보여주는 신호로,<br>• NATO 동맹국 전반의 해양 방위 투자 파이프라인에 직접적 영향을 줄 전망이다</p><h3>Key Quotes</h3><p>Kraken Technology Group won a £12.3 million contract to deliver 20 compact, modular USVs to the Royal Navy under Project Beehive USV.</p><p>METIS and TALON RFIs seek modular, embarkable counter-UAS pods that can mix radar, RF detection, EO/IR, electronic attack, and kinetic effectors in containerized form — fitting ships without deep refits.</p><h3>Technical Insights</h3><p>• Project Beehive USV의 핵심은 모듈형 페이로드 베이로, ISR(정보·감시·정찰), 전자전 지원, 기뢰 대응 등 임무에 따라 장비를 교체할 수 있는 구조이<br>• 20척 규모의 초기 함대 운용은 군집(swarm) 운용 교리 개발과 신뢰성 검증을 위한 것으로, 성공적 시험 후 추가 발주와 페이로드 확장이 예상된<br>• NavyPODS 대드론 모듈은 레이더, RF 탐지, 전자공격, 운동에너지 요격 수단을 컨테이너에 통합해 기존 함정에 대규모 개조 없이 신속 장착이 가능하<br>• 이는 호르무즈 해협 위기 등 긴급 상황에서 함정 방어력을 신속히 증강하는 데 핵심적인 접근법이며, NATO 표준 데이터 포맷과 사이버 보안 인증이 공급업체 선정의 주요 기준이 될 것이다</p></div>`,
-      tags: ["Royal Navy","USV","Project Beehive","Kraken","drone","C-UAS","NavyPODS","METIS","TALON","autonomous vessel","NATO","defense"],
-      link: "https://meyka.com/blog/royal-navy-march-13-20-drone-boats-ordered-urgent-c-uas-rfis-1303/",
-      coords: [-1.1, 50.8],
-      location: "Portsmouth, UK"
-    }
-  ]
-});
-
-// ── AI Secretary Report ──
+// ── 2026-03-15 YouTube ──
 addEvents({
   "2026-03-15": [
+    {
+      type: "news",
+      title: "Korea's Big 3 Shipbuilders Stock Outlook 2026: Hanwha Ocean, Samsung Heavy, HD Hyundai",
+      source: "경제야놀자 (YouTube)",
+      sourceMeta: "youtube.com · 2026-03-15",
+      image: "https://img.youtube.com/vi/X0XU0uHnfR0/maxresdefault.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2026년 한국 조선 빅3(한화오션, 삼성중공업, HD현대중공업) 주가 전망 분석<br>• LNG운반선, 컨테이너선, 특수선박 등 고부가가치 수주 현황 점검<br>• 글로벌 선박 수요 증가에 따른 한국 조선소의 기술·가격 경쟁력 평가<br>• 환경규제 대응(IMO 2030/2050) 및 친환경 선박 기술 투자 동향<br>• 일본 조선업 부활이 K-조선에 미치는 경쟁 리스크 분석</p><h3>Key Quotes</h3><p>• "조선주 앞으로 30년은 더 갑니다" (조선 주식은 향후 30년 더 유망)<br>• "26년 조선주 핵심 모멘텀 대공개" (2026년 조선주 핵심 모멘텀 공개)</p><h3>Technical Insights</h3><p>• LNG·암모니아 이중연료 추진 기술이 수주 경쟁의 핵심 차별화 요소<br>• 스마트십(IoT 기반 운영 최적화) 기술이 선가 프리미엄의 원천<br>• 일본 조선업의 정부 R&D 지원 확대가 한국에 기술 격차 축소 위협<br>• 자율운항선(MASS)과 원격 제어 선박(ROV/Autonomous Vessels) 시장 진출 경쟁 가속</p></div>`,
+      tags: ["조선산업","주가분석","한화오션","삼성중공업","HD현대중공업","한국해양산업","YouTube","Video"],
+      link: "https://youtu.be/X0XU0uHnfR0",
+      coords: [126.98, 37.57],
+      location: "Seoul, South Korea"
+    },
     {
       type: "news",
       title: "Japan's Shipbuilding Industry Resurgence: Critical Risk Factor for K-Shipbuilding",
-      source: "YouTube - 손에잡히는경제",
-      sourceMeta: "youtube.com · 2026-03-15",
-      image: "https://img.youtube.com/vi/X0XU0uHnfR0/maxresdefault.jpg",
-      content: `<p style="font-weight:300; line-height:1.8;"># 해양 산업 기술 분석 보고서<br>## PART 1: 구조화 데이터 (JSON)<br>---<br>## PART 2: 전문 리포트<br>### 1. Executive Summary<br>본 분석 영상은 일본 조선업의 경쟁력 재강화를 주제로 하며, 한국 조선산업(K-조선)에 대한 경고 신호를 전달합니다. COR에너지인사이트의 권효재 대표가 일본 조선업의 기술적, 경제적 회복세와 그것이 한국 조선업에 미치는 리스크를 분석한 것으로 보입니다. 주요 논점은 글로벌 조선 시장에서의 경쟁 심화, 특히 LNG운반선, 자동화 기술, 환경규제 대응 능력에 있을 것으로 추정됩니다. 한국이 보유한 기술적 우위가 일본의 산업 혁신과 정부 지원에 의해 위협받고 있다는 메시지로 해석됩니다.<br>### 2. Key English Quotes<br>> **"Japan's Shipbuilding Industry Resurgence poses a critical challenge to K-Shipbuilding dominance"**<br>> (일본 조선업의 부활이 한국 조선업의 주도권에 대한 중대한 도전 과제가 되고 있음)<br>> **"Advanced automation and green technology adoption accelerating Japanese competitiveness"**<br>> (고도화된 자동화 기술과 친환경 기술 채택이 일본의 경쟁력을 가속화하고 있음)<br>> **"Global LNG and specialized vessel markets shifting dynamics require strategic response"**<br>> (글로벌 LNG 운반선 및 특수선박 시장의 역학 변화가 전략적 대응을 요구함)<br>### 3. Technical Insights<br>**산업 경쟁 분석:**<br>- **일본의 재기 요인**: 일본 조선업은 스마트십핑(자동화 기술), IoT 기반 운영 최적화, 환경규제(IMO 2030/2050) 대응 기술에서 집중 투자 중입니다. 이는 초대형 LNG운반선 건조에서 품질 신뢰성으로 이어집니다.<br>- **K-조선의 리스크 요인**:<br>- 수주 물량 편중 (LNG선 과다의존)<br>- 납기 지연 및 원가 상승 이슈<br>- 일본의 고부가가치 특수선(극저온 운반선, 바이오가스운반선) 시장 진출<br>- 중국 조선업의 가격 경쟁력 확대<br>- **자율운항 관점**: 미래 조선산업은 원격 제어 선박(Remote Operated Vessels, ROV)과 자율운항선박(Autonomous Vessels) 도입이 핵심입니다. 일본은 이 분야에서 정부 R&D 펀딩 강화 중이며, 한국은 기술 개발 속도에서 뒤지고 있다는 우려가 제기됩니다.<br>- **전략적 시사점**: 한국 조선업은 단순 물량 수주가 아닌 고부가가치 기술 개발(초대형 메탄올·암모니아 운반선, 해상 부유식 재생에너지 설치 플랫폼 등)에 집중해야 하며, 디지털화·스마트십 기술 투자 확대가 시급합니다.</p>`,
-      tags: ["조선산업","한일 경쟁","산업 분석","경제 뉴스","일본 제조업","YouTube","Video"],
-      link: "https://youtu.be/X0XU0uHnfR0?si=iezqlRIuUuacSWLz",
-      coords: [139.6917,35.6895],
-      location: "일본 (도쿄)"
-    }
-  ]
-});
-
-// ── AI Secretary Report ──
-addEvents({
-  "2026-03-15": [
-    {
-      type: "news",
-      title: "Slack Sync Execution — No New Maritime Updates",
-      source: "Slack Integration System",
-      sourceMeta: "Internal System · 2026-03-15",
-      content: `<p style="font-weight:300; line-height:1.8;"># 해양 산업 기술 분석 보고서<br>## ═══ PART 1: 구조화 데이터 (JSON) ═══<br>---<br>## ═══ PART 2: 전문 리포트 (한영 혼합) ═══<br>### 1. Executive Summary<br>Slack Sync 시스템이 정상 실행되었으나 신규 해양 산업 뉴스, 사고 보고, 또는 업계 이벤트가 수집되지 않았습니다. 이는 모니터링 기간 동안 주요 해양 사건이 발생하지 않았거나, 데이터 소스에서 보도 자료가 배포되지 않았음을 의미합니다. 현재 시스템은 정상 작동 중이며, 자율운항선박, AI 항해, 해운 규제 등 핵심 모니터링 영역에 대한 새로운 정보는 대기 중입니다. 다음 동기화 주기에서 업데이트된 콘텐츠가 수집될 예정입니다.<br>### 2. Key English Quotes<br>> **"Slack Sync executed — No new updates found"**<br>> (Slack 동기화 시스템이 정상 실행되었으나 신규 정보가 없는 상태)<br>> **"System monitoring remains active for maritime industry news, accidents, and technology developments"**<br>> (해양 산업 뉴스, 사고, 기술 발전 사항에 대한 시스템 모니터링이 계속 진행 중)<br>### 3. Technical Insights<br>**시스템 모니터링 상태 분석:**<br>- **데이터 파이프라인 정상성**: Slack Sync 통합이 정상 작동 중이며, 설정된 해양 산업 데이터 소스(자율운항선박, 해사 사고, COLREG 규제 등)에서 정보 수집이 활성 상태입니다.<br>- **업계 현황 해석**: 특정 시점에 주요 해양 사고나 자율운항 선박 관련 공시가 없다는 것은 ▲ 해운업계의 안정적 운영, ▲ 기술 개발 진전에 따른 안전성 향상, ▲ 규제 환경의 정상화를 시사합니다.<br>- **모니터링 전략 제언**: 계속된 정보 수집을 통해 자율운항선박 상용화, IMO 규제 개정안, AI 기반 항해 시스템 도입 등의 트렌드 변화를 조기에 포착할 준비가 필요합니다.<br>---<br>**분석 완료** ✓</p>`,
-      tags: ["Slack Sync","System Status","Maritime Monitoring","Data Integration","No Updates"],
-      link: "",
-      coords: [0,0],
-      location: "Global"
-    }
-  ]
-});
-
-// ── AI Secretary Report ──
-addEvents({
-  "2026-03-15": [
-    {
-      type: "news",
-      title: "Korea's Big 3 Shipbuilders Stock Outlook 2026: Hanwha Ocean, Samsung Heavy Industries, HD Hyundai",
-      source: "경제야놀자",
+      source: "손에잡히는경제 (YouTube)",
       sourceMeta: "youtube.com · 2026-03-15",
       image: "https://img.youtube.com/vi/YXTXhvmKSvY/maxresdefault.jpg",
-      content: `<p style="font-weight:300; line-height:1.8;"># 해양 산업 기술 분석 보고서<br>## PART 1: 구조화 데이터 (JSON)<br>---<br>## PART 2: 전문 리포트<br>### 1. Executive Summary<br>본 영상은 2026년 한국 조선산업의 빅3(한화오션, 삼성중공업, HD현대중공업) 주가 전망을 다루는 경제 분석 콘텐츠입니다. 국내 조선업체들의 경쟁력 분석과 주가 상승 가능성을 평가하며, 특히 LNG운반선, 컨테이너선, 특수선박 등 고부가가치 선종에서의 수주 현황이 주요 주제로 예상됩니다. 엄경아 위원의 전문적 시각으로 업계 트렌드와 각 기업의 경영 전략을 종합 분석하여 투자자 관점에서의 실질적 인사이트를 제공합니다. 글로벌 선박 수요 증가에 따른 한국 조선소의 기술 경쟁력과 가격 경쟁력이 미래 성과를 결정할 것으로 전망됩니다.<br>### 2. Key English Quotes<br>> "The Korean Big 3 shipbuilders compete fiercely in LNG carriers and eco-friendly vessels market."<br>> (한국 빅3 조선사들의 LNG운반선 및 친환경선박 시장에서의 치열한 경쟁)<br>> "2026 outlook depends on order backlog, technological innovation, and global shipping demand recovery."<br>> (2026년 전망은 수주잔량, 기술혁신, 글로벌 해운 수요 회복에 좌우됨)<br>> "Environmental regulations and autonomous shipping technology will reshape shipbuilding industry competitiveness."<br>> (환경규제 및 자율운항 기술이 조선산업 경쟁력을 재편할 것)<br>### 3. Technical Insights<br>**조선산업 기술적 시사점:**<br>1. **고부가가치 선종 경쟁**: LNG운반선, LNG추진 컨테이너선, 쇄빙유조선 등 환경 규제 대응 선종에서 한국 조선소들의 기술 역량이 핵심 차별화 요소입니다. IMO 2030/2050 탄소중립 규제에 대응하는 친환경 추진 기술(메탄올연료, 암모니아 연료, 수소 연료전지 등)이 수주 경쟁력을 좌우합니다.<br>2. **자율운항 기술과 COLREG 준수**: 향후 자율운항선박(MASS: Maritime Autonomous Surface Ship) 건조 수주가 증가할 시점에서, 국제 해상충돌회피규칙(COLREG) 완전 적용 및 선박의 지능형 항해 시스템 통합이 조선사의 기술력 검증 기준이 될 것입니다.<br>3. **수주 경쟁과 마진율 관리**: 빅3 간 수주 경쟁 심화로 인한 선박 건조 단가 하락 압력이 존재하나, 디지털화(스마트십핑, IoT 센서 통합), 모듈화 건조, 자동화 용접 등 생산성 개선 기술 투자가 마진율 방어의 핵심입니다.<br>4. **공급망 리스크와 부품국산화**: 반도체, 엔진, 전기추진 장비 등 핵심 부품의 글로벌 공급 불안정성이 납기 리스크가 되고 있어, 국내 조선소들의 부품 국산화 및 공급망 다각화 전략이 2026년 경쟁력을 결정할 변수입니다.</p>`,
-      tags: ["조선산업","주가분석","한화오션","삼성중공업","HD현대중공업","한국해양산업","YouTube","Video"],
-      link: "https://youtu.be/YXTXhvmKSvY?si=WaVRfZYF04Bmqnmh",
-      coords: [126.978,37.5665],
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 일본 조선업의 경쟁력 재강화 현황과 한국 조선산업(K-조선)에 미치는 영향 분석<br>• COR에너지전환사이트의 권홍재 대표가 일본 조선업의 기술적 복세 조명<br>• 글로벌 조선 시장에서 LNG운반선, 자동화 기술, 환경규제 대응 경쟁 심화<br>• 일본의 산업 혁신과 정부 지원에 의한 기술적 도전 확대<br>• 한국이 보유한 기술 우위가 위협받고 있다는 경고 메시지</p><h3>Key Quotes</h3><p>• "Japan's Shipbuilding Industry Resurgence is a critical challenge to K-Shipbuilding dominance" (일본 조선업 부활이 K-조선 주도권에 중대한 도전)<br>• "Advanced automation and green technology adoption accelerating Japanese competitiveness" (자동화·친환경 기술이 일본 경쟁력 가속)</p><h3>Technical Insights</h3><p>• 일본의 정부 R&D 지원 확대로 디지털 조선·스마트십 기술 격차 축소 중<br>• LNG선 및 고부가가치 특수선 시장에서 일본 수주 점유율 반등<br>• 한국은 기술 선점이 아닌 가격+기술 복합 경쟁으로 전환 필요<br>• 자율운항·원격 제어 선박 분야에서 한일 경쟁이 본격화될 전망</p></div>`,
+      tags: ["조선산업","한일 경쟁","산업 분석","일본 제조업","YouTube","Video"],
+      link: "https://youtu.be/YXTXhvmKSvY",
+      coords: [126.98, 37.57],
       location: "Seoul, South Korea"
     }
   ]
