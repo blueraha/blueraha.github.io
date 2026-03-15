@@ -158,14 +158,123 @@ body{font-family:'IBM Plex Sans','Noto Sans KR',sans-serif;height:100vh;display:
 <!-- 3 columns -->
 <div class="lb">
 <div class="co c1">
-  <div class="cd" style="flex:1 1 45%"><div class="cl"><span>S-VISION / FRONT CAMERA</span><div class="rc"><div class="dt"></div><span>REC · Starlink</span></div></div><div class="mv"><video src="front_cam.mp4" muted loop autoplay playsinline></video><div style="position:absolute;top:8px;left:10px;border:1px dashed #22c55e;width:48px;height:34px;border-radius:2px"></div><div style="position:absolute;top:2px;left:10px;font-size:9px;color:#22c55e;background:rgba(0,0,0,.5);padding:1px 4px;border-radius:3px">F/V 1.8NM</div><div id="ci" style="position:absolute;bottom:6px;left:8px;font-size:9px;color:rgba(255,255,255,.8);text-shadow:0 1px 3px rgba(0,0,0,.6)"></div></div></div>
-  <div class="cd" style="flex:1 1 28%"><div class="cl"><span>ECDIS</span><span style="font-size:9px;color:#a3bfab">26°46'N 121°59'E</span></div><div class="mv"><img src="ecdis_.png" style="object-fit:contain;background:#dde8d8"/></div></div>
-  <div class="cd" style="flex:1 1 27%"><div class="cl"><span>RADAR</span><span style="font-size:9px;color:#a3bfab">12.39NM North-Up</span></div><div class="mv" style="background:#111"><img src="radar.png" style="object-fit:contain"/></div></div>
+  <div class="cd" style="flex:0 0 45%"><div class="cl"><span>S-VISION / FRONT CAMERA</span><div class="rc"><div class="dt"></div><span>REC · Starlink</span></div></div><div class="mv"><video src="front_cam.mp4" muted loop autoplay playsinline></video><div style="position:absolute;top:8px;left:10px;border:1px dashed #22c55e;width:48px;height:34px;border-radius:2px"></div><div style="position:absolute;top:2px;left:10px;font-size:9px;color:#22c55e;background:rgba(0,0,0,.5);padding:1px 4px;border-radius:3px">F/V 1.8NM</div><div id="ci" style="position:absolute;bottom:6px;left:8px;font-size:9px;color:rgba(255,255,255,.8);text-shadow:0 1px 3px rgba(0,0,0,.6)"></div></div></div>
+  <div style="flex:1 1 55%;display:flex;gap:4px;min-height:0">
+    <div class="cd" style="flex:1"><div class="cl"><span>ECDIS</span><span style="font-size:9px;color:#a3bfab">26°46'N 121°59'E</span></div><div class="mv"><img src="ecdis_.png" style="object-fit:contain;background:#dde8d8"/></div></div>
+    <div class="cd" style="flex:1"><div class="cl"><span>RADAR</span><span style="font-size:9px;color:#a3bfab">12.39NM North-Up</span></div><div class="mv" style="background:#111"><img src="radar.png" style="object-fit:contain"/></div></div>
+  </div>
 </div>
 <div class="co c2">
-  <div class="cd" style="flex:1 1 48%"><div class="cl"><span>VESSEL STATUS — 2.5D</span><div id="ac" style="display:flex;gap:3px"></div></div><div style="flex:1;min-height:0"><svg id="ss" viewBox="0 0 400 140" width="100%" height="100%"><defs><linearGradient id="hg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#e8eeea"/><stop offset="100%" stop-color="#d5dfd8"/></linearGradient></defs><rect x="0" y="100" width="400" height="40" fill="#dbeafe" opacity=".15"/><path d="M40 95 L55 60 L330 60 L348 80 L344 97 Q310 104 195 104 Q85 104 44 97Z" fill="url(#hg)" stroke="#b0c4b5" stroke-width=".7"/><rect id="sb" x="280" y="33" width="42" height="27" rx="2" fill="#f0fdf4" stroke="#86efac" stroke-width=".6"/><rect x="283" y="36" width="36" height="8" rx="1" fill="#dcfce7"/><text x="301" y="53" text-anchor="middle" id="sbt" fill="#16a34a" font-size="4.5" font-weight="600">BRIDGE</text><circle id="sbw" cx="326" cy="35" r="2.5" fill="#ef4444" style="display:none"><animate attributeName="opacity" values="1;.2;1" dur=".8s" repeatCount="indefinite"/></circle><rect x="85" y="46" width="18" height="14" rx="1" fill="#16a34a" stroke="#fff" stroke-width=".2" opacity=".7"/><rect x="108" y="46" width="18" height="14" rx="1" fill="#15803d" stroke="#fff" stroke-width=".2" opacity=".7"/><rect x="131" y="46" width="18" height="14" rx="1" fill="#166534" stroke="#fff" stroke-width=".2" opacity=".7"/><rect x="154" y="46" width="18" height="14" rx="1" fill="#22c55e" stroke="#fff" stroke-width=".2" opacity=".7"/><rect x="177" y="46" width="18" height="14" rx="1" fill="#16a34a" stroke="#fff" stroke-width=".2" opacity=".7"/><rect x="200" y="46" width="18" height="14" rx="1" fill="#15803d" stroke="#fff" stroke-width=".2" opacity=".7"/><rect x="226" y="46" width="18" height="14" rx="1" fill="#166534" stroke="#fff" stroke-width=".2" opacity=".7"/><rect x="255" y="46" width="18" height="14" rx="1" fill="#22c55e" stroke="#fff" stroke-width=".2" opacity=".7"/><rect x="85" y="34" width="18" height="12" rx="1" fill="#15803d" stroke="#fff" stroke-width=".2" opacity=".45"/><rect x="108" y="34" width="18" height="12" rx="1" fill="#166534" stroke="#fff" stroke-width=".2" opacity=".45"/><rect x="131" y="34" width="18" height="12" rx="1" fill="#22c55e" stroke="#fff" stroke-width=".2" opacity=".45"/><rect x="154" y="34" width="18" height="12" rx="1" fill="#16a34a" stroke="#fff" stroke-width=".2" opacity=".45"/><rect x="177" y="34" width="18" height="12" rx="1" fill="#15803d" stroke="#fff" stroke-width=".2" opacity=".45"/><rect id="se" x="118" y="68" width="50" height="24" rx="2" fill="#f0fdf4" stroke="#86efac" stroke-width=".4"/><text id="set" x="143" y="82" text-anchor="middle" fill="#15803d" font-size="4.5" font-weight="600">M/E 68RPM</text><circle id="sew" cx="172" cy="70" r="2" fill="#f59e0b" style="display:none"><animate attributeName="opacity" values="1;.2;1" dur=".7s" repeatCount="indefinite"/></circle><rect x="270" y="27" width="8" height="13" rx="1" fill="#16a34a"/><text x="195" y="78" text-anchor="middle" fill="#c0ccb5" font-size="5" font-weight="700" letter-spacing="2" opacity=".25">EVER MAX</text><text id="sdp" x="195" y="125" text-anchor="middle" fill="#93c5fd" font-size="4.5" opacity=".5"></text></svg></div></div>
-  <div style="display:flex;gap:4px;flex:0 0 22%"><div class="cd" style="padding:4px;display:flex;align-items:center;justify-content:center;flex:0 0 auto"><svg width="70" height="70" viewBox="0 0 72 72"><circle cx="36" cy="36" r="32" fill="#f7f9f8" stroke="#d0ddd3" stroke-width="1"/><line x1="36" y1="8" x2="36" y2="4" stroke="#16a34a" stroke-width="1.2"/><line x1="68" y1="36" x2="64" y2="36" stroke="#16a34a" stroke-width="1.2"/><line x1="36" y1="64" x2="36" y2="68" stroke="#16a34a" stroke-width="1.2"/><line x1="4" y1="36" x2="8" y2="36" stroke="#16a34a" stroke-width="1.2"/><text x="36" y="18" text-anchor="middle" fill="#dc2626" font-size="7" font-weight="700">N</text><text x="55" y="39" text-anchor="middle" fill="#6b8f74" font-size="7" font-weight="700">E</text><text x="36" y="60" text-anchor="middle" fill="#6b8f74" font-size="7" font-weight="700">S</text><text x="17" y="39" text-anchor="middle" fill="#6b8f74" font-size="7" font-weight="700">W</text><polygon id="cn" points="36,8 33,36 39,36" fill="#16a34a" opacity=".85"/><circle cx="36" cy="36" r="2" fill="#16a34a"/></svg><div class="mono" style="font-size:13px;font-weight:700;color:#16a34a;margin-top:2px" id="ht">285.0°</div></div><div class="cd" style="flex:1"><div class="gg"><div class="g"><div class="l">SOG</div><div class="v" id="gs">16.8</div><div class="u">kts</div></div><div class="g"><div class="l">RPM</div><div class="v" id="gr">68</div><div class="u">rev</div></div><div class="g"><div class="l">Wind</div><div class="v" id="gw">9.2</div><div class="u">m/s</div></div><div class="g"><div class="l">Rudder</div><div class="v" id="gu">0.0</div><div class="u">°</div></div><div class="g"><div class="l">Depth</div><div class="v" id="gd">3200</div><div class="u">m</div></div><div class="g"><div class="l">Roll</div><div class="v" id="go">0.0</div><div class="u">°</div></div></div></div></div>
-  <div class="cd" style="flex:1 1 30%"><div class="cl"><span>BRIDGE SIDE VIEW</span></div><div class="mv"><img src="camera.png" style="object-fit:cover"/></div></div>
+  <!-- Ship Infographic -->
+  <div class="cd" style="flex:0 0 42%"><div class="cl"><span>VESSEL STATUS</span><div id="ac" style="display:flex;gap:3px"></div></div>
+    <div style="flex:1;min-height:0"><svg id="ss" viewBox="0 0 440 160" width="100%" height="100%">
+      <defs><linearGradient id="hg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#eef2ef"/><stop offset="100%" stop-color="#dce5de"/></linearGradient></defs>
+      <!-- Water -->
+      <rect x="0" y="118" width="440" height="42" fill="#e8f4fd" rx="4"/>
+      <!-- Hull -->
+      <path d="M42 110 L58 66 L350 66 L370 90 L366 112 Q330 120 210 120 Q95 120 46 112Z" fill="url(#hg)" stroke="#a8c4af" stroke-width="1"/>
+      <!-- Deck line -->
+      <line x1="58" y1="66" x2="350" y2="66" stroke="#b5ccba" stroke-width=".5"/>
+      <!-- Containers (green tones) -->
+      <rect x="90" y="50" width="20" height="16" rx="2" fill="#16a34a" stroke="#fff" stroke-width=".4" opacity=".8"/>
+      <rect x="114" y="50" width="20" height="16" rx="2" fill="#15803d" stroke="#fff" stroke-width=".4" opacity=".8"/>
+      <rect x="138" y="50" width="20" height="16" rx="2" fill="#166534" stroke="#fff" stroke-width=".4" opacity=".8"/>
+      <rect x="162" y="50" width="20" height="16" rx="2" fill="#22c55e" stroke="#fff" stroke-width=".4" opacity=".8"/>
+      <rect x="186" y="50" width="20" height="16" rx="2" fill="#16a34a" stroke="#fff" stroke-width=".4" opacity=".8"/>
+      <rect x="210" y="50" width="20" height="16" rx="2" fill="#15803d" stroke="#fff" stroke-width=".4" opacity=".8"/>
+      <rect x="240" y="50" width="20" height="16" rx="2" fill="#166534" stroke="#fff" stroke-width=".4" opacity=".7"/>
+      <rect x="270" y="50" width="20" height="16" rx="2" fill="#22c55e" stroke="#fff" stroke-width=".4" opacity=".6"/>
+      <!-- Second layer -->
+      <rect x="90" y="36" width="20" height="14" rx="2" fill="#15803d" stroke="#fff" stroke-width=".3" opacity=".5"/>
+      <rect x="114" y="36" width="20" height="14" rx="2" fill="#166534" stroke="#fff" stroke-width=".3" opacity=".5"/>
+      <rect x="138" y="36" width="20" height="14" rx="2" fill="#22c55e" stroke="#fff" stroke-width=".3" opacity=".5"/>
+      <rect x="162" y="36" width="20" height="14" rx="2" fill="#16a34a" stroke="#fff" stroke-width=".3" opacity=".5"/>
+      <rect x="186" y="36" width="20" height="14" rx="2" fill="#15803d" stroke="#fff" stroke-width=".3" opacity=".45"/>
+      <!-- Bridge -->
+      <rect id="sb" x="300" y="36" width="48" height="30" rx="4" fill="#f0fdf4" stroke="#86efac" stroke-width="1"/>
+      <rect x="304" y="39" width="40" height="10" rx="2" fill="#dcfce7"/>
+      <text x="324" y="59" text-anchor="middle" id="sbt" fill="#16a34a" font-size="7" font-weight="700">BRIDGE</text>
+      <circle id="sbw" cx="352" cy="38" r="3.5" fill="#ef4444" style="display:none"><animate attributeName="opacity" values="1;.2;1" dur=".8s" repeatCount="indefinite"/></circle>
+      <!-- Funnel -->
+      <rect x="290" y="28" width="10" height="16" rx="2" fill="#16a34a" stroke="#15803d" stroke-width=".5"/>
+      <!-- Engine Room -->
+      <rect id="se" x="126" y="76" width="64" height="30" rx="4" fill="#f0fdf4" stroke="#86efac" stroke-width="1"/>
+      <text id="set" x="158" y="94" text-anchor="middle" fill="#15803d" font-size="7" font-weight="700">M/E 68 RPM</text>
+      <circle id="sew" cx="195" cy="78" r="3" fill="#f59e0b" style="display:none"><animate attributeName="opacity" values="1;.2;1" dur=".7s" repeatCount="indefinite"/></circle>
+      <!-- Bow / Stern labels -->
+      <text x="50" y="100" fill="#94a3b8" font-size="7" font-weight="600">BOW</text>
+      <text x="356" y="105" fill="#94a3b8" font-size="7" font-weight="600">STERN</text>
+      <!-- Ship name -->
+      <text x="210" y="90" text-anchor="middle" fill="#b5ccba" font-size="8" font-weight="800" letter-spacing="3" opacity=".3">EVER MAX</text>
+      <!-- Depth -->
+      <text id="sdp" x="210" y="145" text-anchor="middle" fill="#60a5fa" font-size="8" opacity=".6"></text>
+      <!-- Zones labels -->
+      <text x="160" y="28" text-anchor="middle" fill="#64748b" font-size="6" font-weight="600" letter-spacing=".5">CARGO HOLD · 8 BAYS</text>
+      <text x="158" y="73" text-anchor="middle" fill="#64748b" font-size="5.5">ENGINE ROOM</text>
+      <text x="324" y="31" text-anchor="middle" fill="#64748b" font-size="5.5">NAVIGATION</text>
+    </svg></div>
+  </div>
+  <!-- Navigation + Engine split -->
+  <div style="display:flex;gap:4px;flex:1 1 35%">
+    <!-- Navigation -->
+    <div class="cd" style="flex:1">
+      <div class="cl"><span>⚓ NAVIGATION</span></div>
+      <div style="display:flex;gap:6px;align-items:center;margin-bottom:6px">
+        <svg width="64" height="64" viewBox="0 0 72 72"><circle cx="36" cy="36" r="32" fill="#f7f9f8" stroke="#d0ddd3" stroke-width="1"/><line x1="36" y1="8" x2="36" y2="4" stroke="#16a34a" stroke-width="1.2"/><line x1="68" y1="36" x2="64" y2="36" stroke="#16a34a" stroke-width="1.2"/><line x1="36" y1="64" x2="36" y2="68" stroke="#16a34a" stroke-width="1.2"/><line x1="4" y1="36" x2="8" y2="36" stroke="#16a34a" stroke-width="1.2"/><text x="36" y="18" text-anchor="middle" fill="#dc2626" font-size="7" font-weight="700">N</text><text x="55" y="39" text-anchor="middle" fill="#6b8f74" font-size="7" font-weight="700">E</text><text x="36" y="60" text-anchor="middle" fill="#6b8f74" font-size="7" font-weight="700">S</text><text x="17" y="39" text-anchor="middle" fill="#6b8f74" font-size="7" font-weight="700">W</text><polygon id="cn" points="36,8 33,36 39,36" fill="#16a34a" opacity=".85"/><circle cx="36" cy="36" r="2" fill="#16a34a"/></svg>
+        <div>
+          <div class="mono" style="font-size:18px;font-weight:700;color:#16a34a" id="ht">285.0°</div>
+          <div style="font-size:9px;color:#94a3b8">GYRO HEADING</div>
+        </div>
+      </div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:4px">
+        <div class="g"><div class="l">SOG</div><div class="v" id="gs">16.8</div><div class="u">kts</div></div>
+        <div class="g"><div class="l">RUDDER</div><div class="v" id="gu">0.0</div><div class="u">°</div></div>
+        <div class="g"><div class="l">DEPTH</div><div class="v" id="gd">3200</div><div class="u">m</div></div>
+        <div class="g"><div class="l">WIND</div><div class="v" id="gw">9.2</div><div class="u">m/s</div></div>
+      </div>
+      <div style="margin-top:6px;padding-top:5px;border-top:1px solid #e2ece5">
+        <div style="font-size:9px;color:#64748b;margin-bottom:3px">VOYAGE PROGRESS</div>
+        <div style="height:6px;background:#f0f5f1;border-radius:3px;overflow:hidden"><div style="width:62%;height:100%;background:linear-gradient(90deg,#16a34a,#22c55e);border-radius:3px"></div></div>
+        <div style="display:flex;justify-content:space-between;font-size:8px;color:#94a3b8;margin-top:2px"><span>Yantian</span><span>62%</span><span>Rotterdam</span></div>
+      </div>
+    </div>
+    <!-- Engine -->
+    <div class="cd" style="flex:1">
+      <div class="cl"><span>⚙ ENGINE</span></div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:4px">
+        <div class="g"><div class="l">M/E RPM</div><div class="v" id="gr">68</div><div class="u">rev/min</div></div>
+        <div class="g"><div class="l">ROLL</div><div class="v" id="go">0.0</div><div class="u">°</div></div>
+      </div>
+      <div style="margin-top:6px;padding-top:5px;border-top:1px solid #e2ece5">
+        <div style="font-size:9px;color:#64748b;margin-bottom:4px">RUNNING HOURS</div>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:4px">
+          <div style="background:#f8fafc;border:1px solid #e2ece5;border-radius:5px;padding:4px 6px">
+            <div style="font-size:8px;color:#94a3b8">M/E</div>
+            <div class="mono" style="font-size:14px;font-weight:700;color:#1e293b">14,280<span style="font-size:8px;color:#94a3b8"> h</span></div>
+          </div>
+          <div style="background:#f8fafc;border:1px solid #e2ece5;border-radius:5px;padding:4px 6px">
+            <div style="font-size:8px;color:#94a3b8">G/E #1</div>
+            <div class="mono" style="font-size:14px;font-weight:700;color:#1e293b">8,412<span style="font-size:8px;color:#94a3b8"> h</span></div>
+          </div>
+          <div style="background:#f8fafc;border:1px solid #e2ece5;border-radius:5px;padding:4px 6px">
+            <div style="font-size:8px;color:#94a3b8">G/E #2</div>
+            <div class="mono" style="font-size:14px;font-weight:700;color:#1e293b">6,891<span style="font-size:8px;color:#94a3b8"> h</span></div>
+          </div>
+          <div style="background:#f8fafc;border:1px solid #e2ece5;border-radius:5px;padding:4px 6px">
+            <div style="font-size:8px;color:#94a3b8">BOILER</div>
+            <div class="mono" style="font-size:14px;font-weight:700;color:#1e293b">3,205<span style="font-size:8px;color:#94a3b8"> h</span></div>
+          </div>
+        </div>
+      </div>
+      <div style="margin-top:5px;padding-top:4px;border-top:1px solid #e2ece5">
+        <div style="font-size:9px;color:#64748b;margin-bottom:3px">FUEL (HFO)</div>
+        <div style="height:6px;background:#f0f5f1;border-radius:3px;overflow:hidden"><div style="width:71%;height:100%;background:linear-gradient(90deg,#f59e0b,#fbbf24);border-radius:3px"></div></div>
+        <div style="display:flex;justify-content:space-between;font-size:8px;color:#94a3b8;margin-top:2px"><span>2,840 MT</span><span>71%</span><span>4,000 MT</span></div>
+      </div>
+    </div>
+  </div>
+  <!-- Bridge side camera -->
+  <div class="cd" style="flex:0 0 23%"><div class="cl"><span>BRIDGE SIDE VIEW</span></div><div class="mv"><img src="camera.png" style="object-fit:cover"/></div></div>
 </div>
 <div class="co c3">
   <div class="vc vf"><div class="v-hdr"><div class="v-title">📻 VHF Ch.16 — External</div><span class="v-stt">LLM STT</span></div><div class="v-body" id="vb"></div></div>
