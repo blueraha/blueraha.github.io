@@ -1958,3 +1958,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2023-11-04
+addEvents({
+  "2023-11-04": [
+    {
+      type: "accident",
+      title: "Loss of propulsion in heavy weather - passenger vessel Spirit of Discovery (100+ injuries, 1 fatality)",
+      source: "MAIB (Marine Accident Investigation Branch)",
+      sourceMeta: "gov.uk · 2026-03-11",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>2023년 11월 4일 비스케이만(Bay of Biscay)을 횡단 중이던 크루즈선 Spirit of Discovery가 악천후 중 추진력을 상실하는 사고가 발생했다. 사고로 100명 이상의 승객이 부상했으며, 그 중 8명이 입항 후 병원으로 직송되었고 이 중 1명이 결국 사망했다. MAIB 조사 결과에 따르면 추진 장치(pod) 관련 결함이 주요 원인으로 지적되었다. 조사 기관은 해사청(MCA), 선급사, 추진 제조사, 크루즈선사연합(CLIA) 등에 다양한 권고사항을 제시했다. 권고 사항은 전자식 경사계(electronic inclinometer) 장착 의무화, 의료 인력 확충, 악천후 시 선박 가구 고정 강화 등을 포함한다.</p><h3>Key Quotes</h3><p><li>"Shortly after 1230 on 4 November 2023, the passenger vessel Spirit of Discovery lost propulsion in heavy weather while crossing the Bay of Biscay." (2023년 11월 4일 오후 12시 30분 직후, 크루즈선 Spirit of Discovery가 비스케이만 횡단 중 악천후에서 추진력을 상실했다)</li></p><p><li>"Recommendations have been made to the Maritime and Coastguard Agency to propose that international carriage requirements include electronic inclinometers" (해사청에 국제 운송 규정에 전자식 경사계 포함을 권고했다)</li></p><p><li>"The Cruise Lines International Association has been recommended to increase the number of medical personnel with an Advanced Trauma Life Support qualification carried on passenger vessels" (크루즈선사연합에 선박 내 외상 처치 자격 의료진 증원을 권고했다)</li></p><h3>Technical Insights</h3><p>추진 장치(azimuth thruster/pod) 고장으로 인한 추진력 상실은 악천후 상황에서 선박의 동적 안정성과 조종성을 급격히 악화시켜 심각한 위험을 초래한다. 특히 여객선의 경우 대량의 인원이 탑승하므로 갑작스러운 선박 동요 시 탑승자 안전 확보가 중요하며, 이를 위해서는 실시간 경사각 모니터링 시스템과 악천후 대응 매뉴얼의 개선이 필수적이다. MAIB의 권고사항 중 제조사 레벨에서의 고객 안내(customer advice note) 발행은 동일 형식 추진 장치 탑재 선박들의 예방적 정비 및 운영 개선을 유도하는 긍정적 조치이다. 여객선 운영사들은 IMO 선박안전규칙(SOLAS) 및 국제해사기구의 지침을 초과하는 의료 자원과 비상 대응 체계를 갖춰야 한다.</p></div>`,
+      tags: ["propulsion loss","heavy weather","Bay of Biscay","passenger vessel","casualties","investigation report"],
+      link: "https://www.gov.uk/maib-reports/loss-of-propulsion-in-heavy-weather-experienced-by-the-passenger-vessel-spirit-of-discovery-leading-to-over-100-injuries-and-one-fatality",
+      coords: [-7.5,47.5],
+      location: "Bay of Biscay"
+    }
+  ]
+});
