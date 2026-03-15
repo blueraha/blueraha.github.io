@@ -1854,3 +1854,21 @@ addEvents({
     }
   ]
 });
+
+// Manual: 2026-03-17 fn조선해양포럼
+addEvents({
+  "2026-03-17": [
+    {
+      type: "event",
+      title: "2026 fn Shipbuilding & Maritime Forum — K-Shipbuilding Global Alliance Strategy",
+      source: "Financial News (파이낸셜뉴스)",
+      sourceMeta: "fnnews.com · 2026-03-17",
+      image: "https://event.fnnews.com/resource/event/1770612953651.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2026 fn조선해양포럼이 3월 17일 부산항국제전시컨벤션센터(BPEX)에서 개최<br>• 주제: '조선·해양 혁신을 위한 글로벌 동맹' — MASGA 전략, 해외 거점 확대, K-조선 미래 전략<br>• 세션1: K-조선 글로벌 동맹 시대 — 이상균 조선해양플랜트협회장 기조연설, HD현대·한화오션·삼성중공업·HJ중공업 임원 대담<br>• 세션2: 조선해양 기회와 위기 — 클락슨스 코리아 최재성 대표 선박 발주 분석, 북극항로 패널토론<br>• 주최: 파이낸셜뉴스, 부산파이낸셜뉴스<br>• 후원: 산업통상부, 해양수산부, 한국조선해양플랜트협회, 한국해운협회, 한국선급 등</p><h3>Key Quotes</h3><p>• 한미 조선협력 MASGA 추진과 트럼프 핵추진 잠수함 승인으로 K-조선 위상 고조<br>• 중국의 LNG 등 고부가가치 선박 건조 진출로 격차 축소 중 — 원팀 시너지 필요<br>• IMO 탄소세 부과 대응 및 친환경 선박 전략이 핵심 어젠다</p><h3>Technical Insights</h3><p>• HD현대(세계 1위 조선소), 한화오션(필리조선소 인수로 미국 진출), 삼성중공업(FLNG 독보적 강자)이 빅3 전략 공유<br>• 북극항로 상업화 시 선박 수요 구조 변화 — 내빙선, LNG 벙커링 인프라 투자 확대 예상<br>• 조선-해운 간 원팀 협력이 글로벌 공급망 재편 시대의 경쟁력 핵심<br>• 한국산업은행·수출입은행의 해양금융 지원과 투자 전략도 논의</p></div>`,
+      tags: ["fn forum","K-shipbuilding","MASGA","HD Hyundai","Hanwha Ocean","Samsung Heavy","Busan","maritime forum","event"],
+      link: "https://event.fnnews.com/event/384",
+      coords: [129.04, 35.10],
+      location: "Busan, South Korea"
+    }
+  ]
+});
