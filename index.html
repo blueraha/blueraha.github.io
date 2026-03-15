@@ -887,14 +887,8 @@ body.theme-glass .modal-source-card { background: rgba(255,255,255,0.03); border
 
 <!-- THEME TOGGLE -->
 <div class="theme-controls">
-  <button class="theme-btn theme-btn-light active" id="theme-light" onclick="setUITheme('light')" title="Light">
-    <span class="theme-label">Light</span>
-  </button>
-  <button class="theme-btn theme-btn-dark" id="theme-dark" onclick="setUITheme('dark')" title="Dark">
-    <span class="theme-label">Dark</span>
-  </button>
-  <button class="theme-btn theme-btn-glass" id="theme-glass" onclick="setUITheme('glass')" title="Glass">
-    <span class="theme-label">Glass</span>
+  <button class="theme-btn theme-btn-light active" id="theme-toggle" onclick="cycleTheme()" title="Switch Theme">
+    <span class="theme-label">Theme</span>
   </button>
 </div>
 
@@ -1033,13 +1027,12 @@ function setUITheme(theme) {
   if (theme !== 'light') {
     document.body.classList.add('theme-' + theme);
   }
-  // 버튼 활성화
-  document.querySelectorAll('.theme-btn').forEach(function(b) { b.classList.remove('active'); });
-  var btn = document.getElementById('theme-' + theme);
-  if (btn) btn.classList.add('active');
-  // 상태 저장
+  // 토글 버튼 색상 업데이트
+  var toggle = document.getElementById('theme-toggle');
+  if (toggle) {
+    toggle.className = 'theme-btn active theme-btn-' + theme;
+  }
   try { localStorage.setItem('uiTheme', theme); } catch(e) {}
-  // Mapbox 스타일 변경
   if (typeof map !== 'undefined') {
     if (theme === 'dark' || theme === 'glass') {
       map.setStyle('mapbox://styles/mapbox/dark-v11');
@@ -1052,10 +1045,19 @@ function setUITheme(theme) {
     });
   }
 }
-// 저장된 테마 적용
+var _themes = ['light', 'dark', 'glass'];
+var _themeIdx = 0;
+function cycleTheme() {
+  _themeIdx = (_themeIdx + 1) % _themes.length;
+  setUITheme(_themes[_themeIdx]);
+}
 try {
   var saved = localStorage.getItem('uiTheme');
-  if (saved) setUITheme(saved);
+  if (saved) {
+    setUITheme(saved);
+    _themeIdx = _themes.indexOf(saved);
+    if (_themeIdx < 0) _themeIdx = 0;
+  }
 } catch(e) {}
 </script>
 </body>

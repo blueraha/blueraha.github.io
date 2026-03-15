@@ -31,16 +31,12 @@ function init() {
     style: 'mapbox://styles/mapbox/light-v11',
     center: [127, 36.5],
     zoom: 1.5,
+    maxZoom: 18,
     projection: 'globe',
     attributionControl: false
   });
 
-  map.addControl(new mapboxgl.NavigationControl(), 'top-left');
-  map.addControl(new mapboxgl.GeolocateControl({
-    positionOptions: { enableHighAccuracy: true },
-    trackUserLocation: true
-  }), 'top-left');
-  map.addControl(new mapboxgl.FullscreenControl(), 'top-left');
+  map.addControl(new mapboxgl.NavigationControl({ showCompass: true, showZoom: true }), 'top-left');
   map.addControl(new mapboxgl.ScaleControl(), 'bottom-left');
 
   document.body.addEventListener('click', function() {
@@ -142,7 +138,7 @@ function startSpin() {
   spinEnabled = true;
   isGlobe = true;
   map.setProjection('globe');
-  var speed = 0.12; // degrees per frame (~60초에 한 바퀴)
+  var speed = 0.03; // degrees per frame (부드럽고 느린 자전)
 
   // Globe 버튼 활성화
   var globeBtn = document.getElementById('btn-globe');
