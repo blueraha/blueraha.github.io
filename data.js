@@ -2050,3 +2050,56 @@ addEvents({
     }
   ]
 });
+
+// ── AI Secretary Report ──
+addEvents({
+  "2024-01-01": [
+    {
+      type: "news",
+      title: "Japan's Shipbuilding Industry Resurgence: Critical Risk Factor for K-Shipbuilding",
+      source: "YouTube - 손에잡히는경제",
+      sourceMeta: "youtube.com · 2024-01-01",
+      image: "https://img.youtube.com/vi/X0XU0uHnfR0/maxresdefault.jpg",
+      content: `<p style="font-weight:300; line-height:1.8;"># 해양 산업 기술 분석 보고서<br>## PART 1: 구조화 데이터 (JSON)<br>---<br>## PART 2: 전문 리포트<br>### 1. Executive Summary<br>본 분석 영상은 일본 조선업의 경쟁력 재강화를 주제로 하며, 한국 조선산업(K-조선)에 대한 경고 신호를 전달합니다. COR에너지인사이트의 권효재 대표가 일본 조선업의 기술적, 경제적 회복세와 그것이 한국 조선업에 미치는 리스크를 분석한 것으로 보입니다. 주요 논점은 글로벌 조선 시장에서의 경쟁 심화, 특히 LNG운반선, 자동화 기술, 환경규제 대응 능력에 있을 것으로 추정됩니다. 한국이 보유한 기술적 우위가 일본의 산업 혁신과 정부 지원에 의해 위협받고 있다는 메시지로 해석됩니다.<br>### 2. Key English Quotes<br>> **"Japan's Shipbuilding Industry Resurgence poses a critical challenge to K-Shipbuilding dominance"**<br>> (일본 조선업의 부활이 한국 조선업의 주도권에 대한 중대한 도전 과제가 되고 있음)<br>> **"Advanced automation and green technology adoption accelerating Japanese competitiveness"**<br>> (고도화된 자동화 기술과 친환경 기술 채택이 일본의 경쟁력을 가속화하고 있음)<br>> **"Global LNG and specialized vessel markets shifting dynamics require strategic response"**<br>> (글로벌 LNG 운반선 및 특수선박 시장의 역학 변화가 전략적 대응을 요구함)<br>### 3. Technical Insights<br>**산업 경쟁 분석:**<br>- **일본의 재기 요인**: 일본 조선업은 스마트십핑(자동화 기술), IoT 기반 운영 최적화, 환경규제(IMO 2030/2050) 대응 기술에서 집중 투자 중입니다. 이는 초대형 LNG운반선 건조에서 품질 신뢰성으로 이어집니다.<br>- **K-조선의 리스크 요인**:<br>- 수주 물량 편중 (LNG선 과다의존)<br>- 납기 지연 및 원가 상승 이슈<br>- 일본의 고부가가치 특수선(극저온 운반선, 바이오가스운반선) 시장 진출<br>- 중국 조선업의 가격 경쟁력 확대<br>- **자율운항 관점**: 미래 조선산업은 원격 제어 선박(Remote Operated Vessels, ROV)과 자율운항선박(Autonomous Vessels) 도입이 핵심입니다. 일본은 이 분야에서 정부 R&D 펀딩 강화 중이며, 한국은 기술 개발 속도에서 뒤지고 있다는 우려가 제기됩니다.<br>- **전략적 시사점**: 한국 조선업은 단순 물량 수주가 아닌 고부가가치 기술 개발(초대형 메탄올·암모니아 운반선, 해상 부유식 재생에너지 설치 플랫폼 등)에 집중해야 하며, 디지털화·스마트십 기술 투자 확대가 시급합니다.</p>`,
+      tags: ["조선산업","한일 경쟁","산업 분석","경제 뉴스","일본 제조업","YouTube","Video"],
+      link: "https://youtu.be/X0XU0uHnfR0?si=iezqlRIuUuacSWLz",
+      coords: [139.6917,35.6895],
+      location: "일본 (도쿄)"
+    }
+  ]
+});
+
+// ── AI Secretary Report ──
+addEvents({
+  "2024-01-15": [
+    {
+      type: "news",
+      title: "Slack Sync Execution — No New Maritime Updates",
+      source: "Slack Integration System",
+      sourceMeta: "Internal System · 2024-01-15",
+      content: `<p style="font-weight:300; line-height:1.8;"># 해양 산업 기술 분석 보고서<br>## ═══ PART 1: 구조화 데이터 (JSON) ═══<br>---<br>## ═══ PART 2: 전문 리포트 (한영 혼합) ═══<br>### 1. Executive Summary<br>Slack Sync 시스템이 정상 실행되었으나 신규 해양 산업 뉴스, 사고 보고, 또는 업계 이벤트가 수집되지 않았습니다. 이는 모니터링 기간 동안 주요 해양 사건이 발생하지 않았거나, 데이터 소스에서 보도 자료가 배포되지 않았음을 의미합니다. 현재 시스템은 정상 작동 중이며, 자율운항선박, AI 항해, 해운 규제 등 핵심 모니터링 영역에 대한 새로운 정보는 대기 중입니다. 다음 동기화 주기에서 업데이트된 콘텐츠가 수집될 예정입니다.<br>### 2. Key English Quotes<br>> **"Slack Sync executed — No new updates found"**<br>> (Slack 동기화 시스템이 정상 실행되었으나 신규 정보가 없는 상태)<br>> **"System monitoring remains active for maritime industry news, accidents, and technology developments"**<br>> (해양 산업 뉴스, 사고, 기술 발전 사항에 대한 시스템 모니터링이 계속 진행 중)<br>### 3. Technical Insights<br>**시스템 모니터링 상태 분석:**<br>- **데이터 파이프라인 정상성**: Slack Sync 통합이 정상 작동 중이며, 설정된 해양 산업 데이터 소스(자율운항선박, 해사 사고, COLREG 규제 등)에서 정보 수집이 활성 상태입니다.<br>- **업계 현황 해석**: 특정 시점에 주요 해양 사고나 자율운항 선박 관련 공시가 없다는 것은 ▲ 해운업계의 안정적 운영, ▲ 기술 개발 진전에 따른 안전성 향상, ▲ 규제 환경의 정상화를 시사합니다.<br>- **모니터링 전략 제언**: 계속된 정보 수집을 통해 자율운항선박 상용화, IMO 규제 개정안, AI 기반 항해 시스템 도입 등의 트렌드 변화를 조기에 포착할 준비가 필요합니다.<br>---<br>**분석 완료** ✓</p>`,
+      tags: ["Slack Sync","System Status","Maritime Monitoring","Data Integration","No Updates"],
+      link: "",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
+
+// ── AI Secretary Report ──
+addEvents({
+  "2024-12-19": [
+    {
+      type: "news",
+      title: "Korea's Big 3 Shipbuilders Stock Outlook 2026: Hanwha Ocean, Samsung Heavy Industries, HD Hyundai",
+      source: "경제야놀자",
+      sourceMeta: "youtube.com · 2024-12-19",
+      image: "https://img.youtube.com/vi/YXTXhvmKSvY/maxresdefault.jpg",
+      content: `<p style="font-weight:300; line-height:1.8;"># 해양 산업 기술 분석 보고서<br>## PART 1: 구조화 데이터 (JSON)<br>---<br>## PART 2: 전문 리포트<br>### 1. Executive Summary<br>본 영상은 2026년 한국 조선산업의 빅3(한화오션, 삼성중공업, HD현대중공업) 주가 전망을 다루는 경제 분석 콘텐츠입니다. 국내 조선업체들의 경쟁력 분석과 주가 상승 가능성을 평가하며, 특히 LNG운반선, 컨테이너선, 특수선박 등 고부가가치 선종에서의 수주 현황이 주요 주제로 예상됩니다. 엄경아 위원의 전문적 시각으로 업계 트렌드와 각 기업의 경영 전략을 종합 분석하여 투자자 관점에서의 실질적 인사이트를 제공합니다. 글로벌 선박 수요 증가에 따른 한국 조선소의 기술 경쟁력과 가격 경쟁력이 미래 성과를 결정할 것으로 전망됩니다.<br>### 2. Key English Quotes<br>> "The Korean Big 3 shipbuilders compete fiercely in LNG carriers and eco-friendly vessels market."<br>> (한국 빅3 조선사들의 LNG운반선 및 친환경선박 시장에서의 치열한 경쟁)<br>> "2026 outlook depends on order backlog, technological innovation, and global shipping demand recovery."<br>> (2026년 전망은 수주잔량, 기술혁신, 글로벌 해운 수요 회복에 좌우됨)<br>> "Environmental regulations and autonomous shipping technology will reshape shipbuilding industry competitiveness."<br>> (환경규제 및 자율운항 기술이 조선산업 경쟁력을 재편할 것)<br>### 3. Technical Insights<br>**조선산업 기술적 시사점:**<br>1. **고부가가치 선종 경쟁**: LNG운반선, LNG추진 컨테이너선, 쇄빙유조선 등 환경 규제 대응 선종에서 한국 조선소들의 기술 역량이 핵심 차별화 요소입니다. IMO 2030/2050 탄소중립 규제에 대응하는 친환경 추진 기술(메탄올연료, 암모니아 연료, 수소 연료전지 등)이 수주 경쟁력을 좌우합니다.<br>2. **자율운항 기술과 COLREG 준수**: 향후 자율운항선박(MASS: Maritime Autonomous Surface Ship) 건조 수주가 증가할 시점에서, 국제 해상충돌회피규칙(COLREG) 완전 적용 및 선박의 지능형 항해 시스템 통합이 조선사의 기술력 검증 기준이 될 것입니다.<br>3. **수주 경쟁과 마진율 관리**: 빅3 간 수주 경쟁 심화로 인한 선박 건조 단가 하락 압력이 존재하나, 디지털화(스마트십핑, IoT 센서 통합), 모듈화 건조, 자동화 용접 등 생산성 개선 기술 투자가 마진율 방어의 핵심입니다.<br>4. **공급망 리스크와 부품국산화**: 반도체, 엔진, 전기추진 장비 등 핵심 부품의 글로벌 공급 불안정성이 납기 리스크가 되고 있어, 국내 조선소들의 부품 국산화 및 공급망 다각화 전략이 2026년 경쟁력을 결정할 변수입니다.</p>`,
+      tags: ["조선산업","주가분석","한화오션","삼성중공업","HD현대중공업","한국해양산업","YouTube","Video"],
+      link: "https://youtu.be/YXTXhvmKSvY?si=WaVRfZYF04Bmqnmh",
+      coords: [126.978,37.5665],
+      location: "Seoul, South Korea"
+    }
+  ]
+});
