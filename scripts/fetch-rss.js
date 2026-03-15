@@ -81,7 +81,10 @@ async function fetchArticleText(url) {
       'windward.ai', 'reuters.com', 'bbc.co.uk', 'bbc.com',
       'cnn.com', 'euronews.com', 'defensenews.com', 'usni.org',
       'defence-blog.com', 'navaltoday.com', 'workboat.com',
-      'gov.uk', 'static.euronews.com'
+      'gov.uk', 'static.euronews.com',
+      'koreaittimes.com', 'thenationalnews.com', 'eurekalert.org',
+      'mediasvc.eurekalert.org', 'img.youtube.com', 'i.ytimg.com',
+      'meyka.com'
     ];
     let safeOgImage = '';
     if (ogImage) {
