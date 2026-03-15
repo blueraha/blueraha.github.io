@@ -394,9 +394,21 @@ async function parseMessage(msg, existingLinks, token) {
   }
 
   // 6. 중복 체크 (AI 호출 전에!)
-  if (url && existingLinks && existingLinks.has(url)) {
-    console.log(`   ⏭️ 이미 수집됨: ${url}`);
-    return null;
+  // YouTube: videoId 기준으로도 체크 (youtu.be/xxx, youtube.com/watch?v=xxx, ?si= 파라미터 등 모두 동일 취급)
+  if (url && existingLinks) {
+    let isDup = existingLinks.has(url);
+    if (!isDup && isYouTubeUrl(url)) {
+      const vid = extractVideoId(url);
+      if (vid) {
+        for (const existing of existingLinks) {
+          if (existing.includes(vid)) { isDup = true; break; }
+        }
+      }
+    }
+    if (isDup) {
+      console.log(`   ⏭️ 이미 수집됨: ${url}`);
+      return null;
+    }
   }
 
   // 7. 입력 타입 로그
