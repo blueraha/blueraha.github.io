@@ -53,6 +53,85 @@ function shouldSkipUrl(url) {
   return SKIP_URLS.some(pattern => url.includes(pattern));
 }
 
+// ── YouTube 처리 ────────────────────────────────────────────────
+
+function isYouTubeUrl(url) {
+  return /(?:youtube\.com\/watch|youtu\.be\/|youtube\.com\/shorts\/)/.test(url);
+}
+
+function extractVideoId(url) {
+  const patterns = [
+    /(?:youtube\.com\/watch\?v=|youtu\.be\/|youtube\.com\/shorts\/)([a-zA-Z0-9_-]{11})/,
+    /[?&]v=([a-zA-Z0-9_-]{11})/
+  ];
+  for (const p of patterns) {
+    const m = url.match(p);
+    if (m) return m[1];
+  }
+  return null;
+}
+
+function getYouTubeThumbnail(videoId) {
+  return `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`;
+}
+
+async function fetchYouTubeTranscript(videoId) {
+  try {
+    // Method 1: youtube-transcript via innertube API (no key needed)
+    const url = `https://www.youtube.com/watch?v=${videoId}`;
+    const res = await fetch(url, {
+      headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' }
+    });
+    const html = await res.text();
+
+    // Extract captions player response
+    const captionMatch = html.match(/"captions":\s*(\{.*?"playerCaptionsTracklistRenderer".*?\})\s*,\s*"videoDetails"/s);
+    if (!captionMatch) {
+      console.log('   ⚠️ No captions found, trying description...');
+      // Fallback: extract video title + description
+      const titleMatch = html.match(/<meta name="title" content="([^"]+)"/);
+      const descMatch = html.match(/<meta name="description" content="([^"]+)"/);
+      const title = titleMatch ? titleMatch[1] : '';
+      const desc = descMatch ? descMatch[1] : '';
+      return { transcript: `Title: ${title}\n\nDescription: ${desc}`, method: 'description' };
+    }
+
+    // Parse caption tracks
+    const captionData = JSON.parse(captionMatch[1]);
+    const tracks = captionData?.playerCaptionsTracklistRenderer?.captionTracks || [];
+    
+    if (tracks.length === 0) {
+      console.log('   ⚠️ No caption tracks available');
+      const titleMatch = html.match(/<meta name="title" content="([^"]+)"/);
+      const descMatch = html.match(/<meta name="description" content="([^"]+)"/);
+      return { transcript: `Title: ${titleMatch?.[1] || ''}\n\nDescription: ${descMatch?.[1] || ''}`, method: 'description' };
+    }
+
+    // Prefer English, then auto-generated, then first available
+    let track = tracks.find(t => t.languageCode === 'en') 
+             || tracks.find(t => t.languageCode?.startsWith('en'))
+             || tracks.find(t => t.kind === 'asr')
+             || tracks[0];
+
+    const captionRes = await fetch(track.baseUrl + '&fmt=json3');
+    const captionJson = await captionRes.json();
+
+    const lines = (captionJson.events || [])
+      .filter(e => e.segs)
+      .map(e => e.segs.map(s => s.utf8).join(''))
+      .filter(l => l.trim().length > 0);
+
+    const transcript = lines.join(' ').slice(0, 6000);
+    console.log(`   ✅ Transcript: ${transcript.length} chars (${track.languageCode})`);
+    return { transcript, method: 'captions' };
+
+  } catch (err) {
+    console.error(`   ⚠️ Transcript fetch failed: ${err.message}`);
+    // Last resort: just use URL
+    return { transcript: '', method: 'failed' };
+  }
+}
+
 // ── 이미지 다운로드 (Slack에서) ─────────────────────────────────
 
 async function downloadSlackFile(fileUrl, token) {
@@ -256,6 +335,28 @@ async function parseMessage(msg, existingLinks, token) {
   console.log(`🤖 ${typeLabel} [${inputs.join('+')}] AI 비서가 보고서 작성 중...`);
   if (url) console.log(`   📎 ${url}`);
 
+  // 7.5 YouTube 처리 — 자막 추출 + 썸네일
+  let youtubeData = null;
+  if (url && isYouTubeUrl(url)) {
+    const videoId = extractVideoId(url);
+    if (videoId) {
+      console.log(`   🎬 YouTube 감지! (${videoId}) 자막 추출 중...`);
+      const { transcript, method } = await fetchYouTubeTranscript(videoId);
+      youtubeData = {
+        videoId,
+        thumbnail: getYouTubeThumbnail(videoId),
+        transcript,
+        method
+      };
+      // 자막을 plainText로 합쳐서 AI에 전달
+      if (transcript) {
+        plainText = (plainText || '') + '\n\n[YouTube Transcript]:\n' + transcript;
+      }
+      console.log(`   📹 Thumbnail: ${youtubeData.thumbnail}`);
+      console.log(`   📝 Transcript method: ${method}`);
+    }
+  }
+
   // 8. 이미지 다운로드
   let imageBase64 = null;
   let imageMediaType = null;
@@ -285,8 +386,17 @@ async function parseMessage(msg, existingLinks, token) {
   const finalType = presetType || aiResult.type || 'news';
   const allTags = [...new Set([...(aiResult.tags || []), ...extraTags])];
 
+  // YouTube인 경우 태그에 추가
+  if (youtubeData) {
+    if (!allTags.includes('YouTube')) allTags.push('YouTube');
+    if (!allTags.includes('Video')) allTags.push('Video');
+  }
+
   // link가 없으면 (이미지/텍스트만 입력) 고유 식별자 생성
   const finalLink = url || `user-submit-${Date.now()}`;
+
+  // 이미지: YouTube 썸네일 우선, 없으면 빈값
+  const finalImage = youtubeData ? youtubeData.thumbnail : '';
 
   return {
     date: aiResult.date || dateStr,
@@ -295,6 +405,7 @@ async function parseMessage(msg, existingLinks, token) {
       title: aiResult.title || "Maritime Report",
       source: aiResult.source || (url ? "AI Secretary" : "User Submitted"),
       sourceMeta: aiResult.sourceMeta || `Report · ${dateStr}`,
+      image: finalImage,
       content: aiResult.content,
       tags: allTags.length > 0 ? allTags : ["AI_Insights", "Bilingual"],
       link: url || "",
@@ -353,6 +464,7 @@ async function main() {
     }
 
     const e = parsed.entry;
+    const imageLine = e.image ? `\n      image: "${escapeStr(e.image)}",` : '';
     const entryStr = `\n\n// ── AI Secretary Report ──
 addEvents({
   "${parsed.date}": [
@@ -360,7 +472,7 @@ addEvents({
       type: "${e.type}",
       title: "${escapeStr(e.title)}",
       source: "${escapeStr(e.source)}",
-      sourceMeta: "${escapeStr(e.sourceMeta)}",
+      sourceMeta: "${escapeStr(e.sourceMeta)}",${imageLine}
       content: \`${e.content}\`,
       tags: ${JSON.stringify(e.tags)},
       link: "${escapeStr(e.link)}",
