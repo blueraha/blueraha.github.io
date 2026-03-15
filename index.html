@@ -88,8 +88,8 @@
 
   /* ── THEME TOGGLE ── */
   .theme-controls {
-    position: fixed; top: 120px; right: 52px; z-index: 998;
-    display: flex; flex-direction: column; gap: 4px;
+    position: fixed; bottom: 10px; left: 10px; z-index: 999;
+    display: flex; flex-direction: row; gap: 3px;
   }
   .theme-btn {
     width: 28px; height: 28px;
@@ -218,18 +218,21 @@
     color: rgba(255,255,255,0.3);
   }
   body.theme-dark .control-btn {
-    background: rgba(28,28,28,0.8);
-    border-color: rgba(255,255,255,0.06);
+    background: transparent;
+    border: none;
     color: rgba(255,255,255,0.4);
   }
   body.theme-dark .control-btn:hover {
-    background: rgba(255,255,255,0.07);
+    background: rgba(255,255,255,0.1);
     color: rgba(255,255,255,0.7);
   }
   body.theme-dark .control-btn.active {
-    background: rgba(255,255,255,0.08);
-    border-color: rgba(255,255,255,0.2);
-    color: rgba(255,255,255,0.8);
+    background: rgba(255,255,255,0.12);
+    color: rgba(255,255,255,0.9);
+  }
+  body.theme-dark .weather-controls {
+    background: rgba(20,20,30,0.85);
+    border-color: rgba(255,255,255,0.08);
   }
 
   /* ── THEME: GLASS ── */
@@ -407,22 +410,28 @@
 
   /* SHARED BUTTON STYLE */
   .control-btn { 
-    width: 34px; height: 34px; 
-    background: #fff; border: 1px solid var(--border-color); 
-    border-radius: 4px; cursor: pointer; 
+    width: 30px; height: 30px; 
+    background: transparent; border: none; 
+    border-radius: 6px; cursor: pointer; 
     display: flex; align-items: center; justify-content: center; 
     color: var(--text-secondary); transition: all 0.2s ease;
-    box-shadow: 0 1px 4px rgba(0,0,0,0.1);
   }
-  .control-btn:hover { background: #f0f0f0; color: var(--text-primary); border-color: rgba(0,0,0,0.15); }
-  .control-btn.active { background: rgba(9,132,227,0.1); border-color: var(--brand-blue); color: var(--brand-blue); }
-  .control-btn svg { width: 18px; height: 18px; stroke-width: 2px; }
+  .control-btn:hover { background: rgba(0,0,0,0.08); color: var(--text-primary); }
+  .control-btn.active { background: rgba(9,132,227,0.15); color: var(--brand-blue); }
+  .control-btn svg { width: 16px; height: 16px; stroke-width: 2px; }
 
   /* WEATHER CONTROLS - BOTTOM RIGHT (above style controls) */
   .weather-controls {
-    position: fixed; bottom: 10px; right: 10px;
+    position: fixed; bottom: 10px; left: 50px;
     z-index: 998;
-    display: flex; flex-direction: column; gap: 6px;
+    display: flex; flex-direction: row; gap: 4px;
+    align-items: center;
+    background: rgba(255,255,255,0.85);
+    backdrop-filter: blur(8px);
+    padding: 4px 6px;
+    border-radius: 20px;
+    border: 1px solid rgba(0,0,0,0.08);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
   }
 
   /* STYLE CONTROLS - RIGHT SIDE (below theme toggle) */
@@ -785,9 +794,10 @@ body.theme-glass .modal-source-card { background: rgba(255,255,255,0.03); border
   }
 
   .weather-controls {
-    bottom: 20px;
-    right: 6px;
-    padding: 4px;
+    bottom: 10px;
+    left: 10px;
+    right: auto;
+    padding: 3px 5px;
   }
 
   .side-panel {
