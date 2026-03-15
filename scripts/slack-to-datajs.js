@@ -77,58 +77,89 @@ function getYouTubeThumbnail(videoId) {
 
 async function fetchYouTubeTranscript(videoId) {
   try {
-    // Method 1: youtube-transcript via innertube API (no key needed)
+    // Step 1: Get video title & description via noembed (no API key needed)
+    let videoTitle = '';
+    let videoAuthor = '';
+    try {
+      const oeRes = await fetch(`https://noembed.com/embed?url=https://www.youtube.com/watch?v=${videoId}`);
+      const oeData = await oeRes.json();
+      videoTitle = oeData.title || '';
+      videoAuthor = oeData.author_name || '';
+      console.log(`   📌 Title: ${videoTitle}`);
+      console.log(`   📌 Author: ${videoAuthor}`);
+    } catch(e) {
+      console.log(`   ⚠️ oEmbed failed: ${e.message}`);
+    }
+
+    // Step 2: Try to get captions from YouTube page
     const url = `https://www.youtube.com/watch?v=${videoId}`;
     const res = await fetch(url, {
-      headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' }
+      headers: { 
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+        'Accept-Language': 'en-US,en;q=0.9'
+      }
     });
     const html = await res.text();
 
-    // Extract captions player response
-    const captionMatch = html.match(/"captions":\s*(\{.*?"playerCaptionsTracklistRenderer".*?\})\s*,\s*"videoDetails"/s);
-    if (!captionMatch) {
-      console.log('   ⚠️ No captions found, trying description...');
-      // Fallback: extract video title + description
-      const titleMatch = html.match(/<meta name="title" content="([^"]+)"/);
-      const descMatch = html.match(/<meta name="description" content="([^"]+)"/);
-      const title = titleMatch ? titleMatch[1] : '';
-      const desc = descMatch ? descMatch[1] : '';
-      return { transcript: `Title: ${title}\n\nDescription: ${desc}`, method: 'description' };
+    // Extract description from meta tag
+    const descMatch = html.match(/(?:"shortDescription"\s*:\s*")((?:[^"\\]|\\.)*)"/);
+    let description = '';
+    if (descMatch) {
+      description = descMatch[1]
+        .replace(/\\n/g, '\n')
+        .replace(/\\"/g, '"')
+        .replace(/\\\\/g, '\\')
+        .slice(0, 2000);
+      console.log(`   📝 Description: ${description.length} chars`);
     }
 
-    // Parse caption tracks
-    const captionData = JSON.parse(captionMatch[1]);
-    const tracks = captionData?.playerCaptionsTracklistRenderer?.captionTracks || [];
-    
-    if (tracks.length === 0) {
-      console.log('   ⚠️ No caption tracks available');
-      const titleMatch = html.match(/<meta name="title" content="([^"]+)"/);
-      const descMatch = html.match(/<meta name="description" content="([^"]+)"/);
-      return { transcript: `Title: ${titleMatch?.[1] || ''}\n\nDescription: ${descMatch?.[1] || ''}`, method: 'description' };
+    // Try to extract captions
+    const captionMatch = html.match(/"captionTracks"\s*:\s*(\[.*?\])/s);
+    if (captionMatch) {
+      try {
+        const tracks = JSON.parse(captionMatch[1]);
+        if (tracks.length > 0) {
+          let track = tracks.find(t => t.languageCode === 'en')
+                   || tracks.find(t => t.languageCode && t.languageCode.startsWith('en'))
+                   || tracks.find(t => t.kind === 'asr')
+                   || tracks[0];
+
+          const captionUrl = track.baseUrl.replace(/\\u0026/g, '&');
+          const captionRes = await fetch(captionUrl + '&fmt=json3');
+          const captionJson = await captionRes.json();
+
+          const lines = (captionJson.events || [])
+            .filter(e => e.segs)
+            .map(e => e.segs.map(s => s.utf8 || '').join(''))
+            .filter(l => l.trim().length > 0);
+
+          if (lines.length > 10) {
+            const transcript = lines.join(' ').slice(0, 6000);
+            console.log(`   ✅ Captions: ${transcript.length} chars (${track.languageCode})`);
+            return { transcript: `Title: ${videoTitle}\nAuthor: ${videoAuthor}\n\nTranscript:\n${transcript}`, method: 'captions' };
+          }
+        }
+      } catch(e) {
+        console.log(`   ⚠️ Caption parse error: ${e.message}`);
+      }
     }
 
-    // Prefer English, then auto-generated, then first available
-    let track = tracks.find(t => t.languageCode === 'en') 
-             || tracks.find(t => t.languageCode?.startsWith('en'))
-             || tracks.find(t => t.kind === 'asr')
-             || tracks[0];
+    // Step 3: Fallback - use title + description (always available)
+    console.log('   ℹ️ No captions, using title + description');
+    const fallback = [
+      `Video Title: ${videoTitle}`,
+      `Channel: ${videoAuthor}`,
+      `YouTube URL: https://www.youtube.com/watch?v=${videoId}`,
+      '',
+      `Description:`,
+      description || '(No description available)'
+    ].join('\n');
 
-    const captionRes = await fetch(track.baseUrl + '&fmt=json3');
-    const captionJson = await captionRes.json();
-
-    const lines = (captionJson.events || [])
-      .filter(e => e.segs)
-      .map(e => e.segs.map(s => s.utf8).join(''))
-      .filter(l => l.trim().length > 0);
-
-    const transcript = lines.join(' ').slice(0, 6000);
-    console.log(`   ✅ Transcript: ${transcript.length} chars (${track.languageCode})`);
-    return { transcript, method: 'captions' };
+    return { transcript: fallback, method: 'description' };
 
   } catch (err) {
-    console.error(`   ⚠️ Transcript fetch failed: ${err.message}`);
-    // Last resort: just use URL
-    return { transcript: '', method: 'failed' };
+    console.error(`   ⚠️ YouTube fetch failed: ${err.message}`);
+    return { transcript: `YouTube Video: https://www.youtube.com/watch?v=${videoId}`, method: 'failed' };
   }
 }
 
@@ -184,8 +215,13 @@ async function askAI({ url, imageBase64, imageMediaType, plainText, presetType, 
   if (plainText) sourceDesc += `\n\n사용자가 제공한 텍스트:\n${plainText}`;
   if (imageBase64) sourceDesc += `\n\n[첨부된 이미지를 함께 분석하세요]`;
 
+  // YouTube인 경우 추가 지시
+  const youtubeHint = (url && /youtube\.com|youtu\.be/.test(url))
+    ? `\n\n중요: 이것은 YouTube 영상입니다. 영상 제목, 채널, 설명문(또는 자막)을 바탕으로 해양/자율운항/방위 관점에서 분석해주세요. 정보가 제한적이더라도 제목과 설명에서 최대한 유의미한 내용을 추출하세요. source는 "YouTube" 또는 채널명으로, sourceMeta는 "youtube.com · YYYY-MM-DD"로 작성하세요.`
+    : '';
+
   const prompt = `너는 해양 산업 기술 분석가이자 유능한 비서야. 아래 제공된 정보를 분석해서 2가지를 출력해줘.
-${sourceDesc}
+${sourceDesc}${youtubeHint}
 
 ═══ PART 1: 구조화 데이터 (JSON) ═══
 다음 JSON을 정확히 출력해. 반드시 \`\`\`json 코드블록으로 감싸줘.
