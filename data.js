@@ -1797,35 +1797,7 @@ addEvents({
   ]
 });
 
-// ── 2026-03-15 YouTube ──
-addEvents({
-  "2026-03-15": [
-    {
-      type: "news",
-      title: "Korea's Big 3 Shipbuilders Stock Outlook 2026: Hanwha Ocean, Samsung Heavy, HD Hyundai",
-      source: "경제야놀자 (YouTube)",
-      sourceMeta: "youtube.com · 2026-03-15",
-      image: "https://img.youtube.com/vi/X0XU0uHnfR0/maxresdefault.jpg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2026년 한국 조선 빅3(한화오션, 삼성중공업, HD현대중공업) 주가 전망 분석<br>• LNG운반선, 컨테이너선, 특수선박 등 고부가가치 수주 현황 점검<br>• 글로벌 선박 수요 증가에 따른 한국 조선소의 기술·가격 경쟁력 평가<br>• 환경규제 대응(IMO 2030/2050) 및 친환경 선박 기술 투자 동향<br>• 일본 조선업 부활이 K-조선에 미치는 경쟁 리스크 분석</p><h3>Key Quotes</h3><p>• "조선주 앞으로 30년은 더 갑니다" (조선 주식은 향후 30년 더 유망)<br>• "26년 조선주 핵심 모멘텀 대공개" (2026년 조선주 핵심 모멘텀 공개)</p><h3>Technical Insights</h3><p>• LNG·암모니아 이중연료 추진 기술이 수주 경쟁의 핵심 차별화 요소<br>• 스마트십(IoT 기반 운영 최적화) 기술이 선가 프리미엄의 원천<br>• 일본 조선업의 정부 R&D 지원 확대가 한국에 기술 격차 축소 위협<br>• 자율운항선(MASS)과 원격 제어 선박(ROV/Autonomous Vessels) 시장 진출 경쟁 가속</p></div>`,
-      tags: ["조선산업","주가분석","한화오션","삼성중공업","HD현대중공업","한국해양산업","YouTube","Video"],
-      link: "https://youtu.be/X0XU0uHnfR0",
-      coords: [126.98, 37.57],
-      location: "Seoul, South Korea"
-    },
-    {
-      type: "news",
-      title: "Japan's Shipbuilding Industry Resurgence: Critical Risk Factor for K-Shipbuilding",
-      source: "손에잡히는경제 (YouTube)",
-      sourceMeta: "youtube.com · 2026-03-15",
-      image: "https://img.youtube.com/vi/YXTXhvmKSvY/maxresdefault.jpg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 일본 조선업의 경쟁력 재강화 현황과 한국 조선산업(K-조선)에 미치는 영향 분석<br>• COR에너지전환사이트의 권홍재 대표가 일본 조선업의 기술적 복세 조명<br>• 글로벌 조선 시장에서 LNG운반선, 자동화 기술, 환경규제 대응 경쟁 심화<br>• 일본의 산업 혁신과 정부 지원에 의한 기술적 도전 확대<br>• 한국이 보유한 기술 우위가 위협받고 있다는 경고 메시지</p><h3>Key Quotes</h3><p>• "Japan's Shipbuilding Industry Resurgence is a critical challenge to K-Shipbuilding dominance" (일본 조선업 부활이 K-조선 주도권에 중대한 도전)<br>• "Advanced automation and green technology adoption accelerating Japanese competitiveness" (자동화·친환경 기술이 일본 경쟁력 가속)</p><h3>Technical Insights</h3><p>• 일본의 정부 R&D 지원 확대로 디지털 조선·스마트십 기술 격차 축소 중<br>• LNG선 및 고부가가치 특수선 시장에서 일본 수주 점유율 반등<br>• 한국은 기술 선점이 아닌 가격+기술 복합 경쟁으로 전환 필요<br>• 자율운항·원격 제어 선박 분야에서 한일 경쟁이 본격화될 전망</p></div>`,
-      tags: ["조선산업","한일 경쟁","산업 분석","일본 제조업","YouTube","Video"],
-      link: "https://youtu.be/YXTXhvmKSvY",
-      coords: [126.98, 37.57],
-      location: "Seoul, South Korea"
-    }
-  ]
-});
+
 
 // ── AI Secretary Report ──
 addEvents({
@@ -1834,7 +1806,7 @@ addEvents({
       type: "news",
       title: "Korean Shipbuilding Industry's Growth Opportunities Amid Global Tensions: MASGA Project and Future Prospects",
       source: "Financial News",
-      sourceMeta: "youtube.com · 2024-01-15",
+      sourceMeta: "youtube.com · 2026-03-15",
       image: "https://img.youtube.com/vi/THL0-UrSv0A/maxresdefault.jpg",
       content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 전쟁 및 글로벌 불안정으로 인한 방위산업 수요 증가가 한국 조선업의 성장 기회로 작용하고 있음<br>• MASGA 프로젝트(자율운항선박 및 신기술 관련)가 K-조선의 향후 성장 동력으로 강조됨<br>• 권효재 대표 등 업계 리더들이 현 지정학적 상황을 한국 조선업의 경쟁력 강화 기회로 해석<br>• 자율운항, AI 기술, 친환경 선박 등 신기술 영역에서의 한국 산업의 차별성 확보 필요<br>• 기존 상선 산업뿐 아니라 방위함정, 특수선박 분야로의 다각화 추진<br>• 글로벌 공급망 재편 속에서 한국 조선소의 기술 경쟁력과 납기 신뢰도가 핵심 차별화 요소<br><h3>Key Quotes</h3><br>• "전쟁 속 한국 조선업이 웃을 수 있는 이유" (지정학적 위험이 역설적으로 국내 방위산업과 조선 분야에 수주 기회를 창출하고 있다는 의미)<br>• "마스가 프로젝트와 K-조선의 미래" (자율운항선박, 스마트 조선 기술 등 미래형 선박 개발이 한국 조선업의 경쟁력 재정의의 핵심)<br>• "Geopolitical tensions driving demand for naval vessels and advanced maritime technologies in Korea" (지정학적 긴장이 한국의 함정, 특수선박, 최첨단 해양기술 수요를 촉발)<br><h3>Devil's Advocate</h3><br>• **과도한 낙관주의의 함정**: 방위산업 수주 증가가 단기 호황을 가져올 수 있으나, 이는 특정 고객(국방부, 해군)에의 의존도 심화를 의미하며 상업적 수익성과는 별개의 문제일 수 있다. 정부 예산 축소 시 급격한 수주 감소 위험 존재.<br>• **기술 격차 과소평가**: MASGA 프로젝트 등 자율운항선박 기술에서 한국이 선도적이라는 주장이 있으나, 노르웨이, 싱가포르, 유럽의 경쟁 기술 수준도 빠르게 발전 중. 실제 상용화 시점과 규제 환경 불확실성이 높음.<br>• **건조 원가 상승의 간과**: 고급 기술 적용, 친환경 규제 대응, 인건비 상승 등으로 인한 원가 상승이 지속되는데, 이를 수주가에 충분히 반영하기 어려운 구조. 마진율 개선이 수주 증가를 따라가지 못할 가능성.<br>• **공급망 리스크**: 중국 조선업의 저가 공세와 일본의 고부가가치 선박 전문화 사이에서 한국의 포지셔닝이 중장기적으로 불안정할 수 있으며, 핵심 부품(엔진, 전장품)의 해외 의존도 문제 미해결.</div>`,
       tags: ["K-조선","MASGA 프로젝트","해양산업","방위산업","자율운항선박","조선업 전망","YouTube","Video"],
@@ -1852,7 +1824,7 @@ addEvents({
       type: "news",
       title: "Japan's Shipbuilding Industry Resurgence: Major Risk Factor for K-Shipbuilding Sector",
       source: "손에잡히는경제",
-      sourceMeta: "youtube.com · 2024-01-15",
+      sourceMeta: "youtube.com · 2026-03-15",
       image: "https://img.youtube.com/vi/X0XU0uHnfR0/maxresdefault.jpg",
       content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 일본 조선업이 경쟁력 회복으로 K-조선의 시장 지위에 새로운 위협이 되고 있는 상황 분석<br>• COR에너지인사이트 권효재 대표의 업계 전문가 관점에서 한국 조선산업의 구조적 리스크 지적<br>• 글로벌 조선 시장에서 일본의 기술 혁신 및 가격 경쟁력 강화에 대한 우려<br>• 한국 조선업이 직면한 원가 상승, 인력 확보, 기술 차별화의 다중 압박 요인<br>• LNG 운반선, 극지 관련 선박 등 고부가가치 선종에서의 경쟁 심화 예상<br>• 정책적 지원 및 산업 구조 개혁이 시급한 상황<br><h3>Key Quotes</h3><br>• "일본 조선업의 부활은 단순한 회복이 아니라 기술 고도화 기반의 경쟁 강화" (Japanese shipbuilding resurgence is not merely recovery but competition intensification based on technological advancement)<br>• "K-조선 최대 리스크는 외부 경쟁이 아닌 내부 구조적 문제의 심화" (The greatest risk for K-shipbuilding is not external competition but deepening internal structural issues)<br><h3>Devil's Advocate</h3><br>• 그럼에도 불구하고 한국 조선업은 이미 세계 시장의 50% 이상을 점유하고 있으며, 일본의 기술 추격이 단기간에 이를 뒤집기는 어려울 수 있다는 낙관론을 간과할 수 없다<br>• 일본의 조선 인프라 노후화와 숙련 인력 감소 문제가 한국보다 더 심각할 수 있으므로, 장기적 경쟁력 평가에서는 한국이 여전히 우위를 유지할 가능성이 존재한다<br>• 조선산업의 국제 경쟁력은 원가와 기술만이 아니라 정치적 리스크, 공급망 안정성, 고객사 신뢰도 등 다층적 요소에 좌우되는데, 이러한 총체적 평가 없이 일본 위협론만 강조하는 것은 불완전한 분석일 수 있다<br>• 나아가 한국 조선업의 저가 수주 관행과 무리한 납기 준수가 이미 경쟁력을 훼손하고 있으므로, 일본의 도전이 없더라도 자체 경영 혁신이 절실한 상황이라는 점을 간과해서는 안 된다</div>`,
       tags: ["조선업","한국 조선","일본 조선","조선산업 경쟁","해양산업","YouTube","Video"],
@@ -1863,22 +1835,7 @@ addEvents({
   ]
 });
 
-// ── AI Secretary Report ──
-addEvents({
-  "2024-01-01": [
-    {
-      type: "news",
-      title: "Slack Sync Execution — No New Updates",
-      source: "User Submitted",
-      sourceMeta: "User Submitted · 2024-01-01",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Slack 동기화 시스템이 정상 실행되었으나 새로운 정보나 데이터 업데이트가 없는 상태<br>• 해양 산업 관련 뉴스, 사고, 이벤트 정보가 현재 수집되지 않음<br>• 시스템은 정상 작동 중이나 정보 입수 경로에서 새로운 콘텐츠 부재<br>• 통상적인 정보 수집 주기 내에서 의미 있는 데이터 포인트 미검출<br>• 해양 산업 모니터링 대시보드 상 현재 주목할 만한 사건이나 발전사항 없음<br><h3>Key Quotes</h3><br>• "Slack Sync 실행 — 새로운 소식 없음" (정보 동기화 시스템이 작동하고 있으나 신규 뉴스 또는 업데이트 사항이 발생하지 않음)<br><h3>Devil's Advocate</h3><br>• 정보 수집 경로의 편향성 문제 — 특정 지역(예: 아시아-태평양, 유럽)의 해양 뉴스는 충분히 수집되지 않을 수 있으며, 실제로는 주요 사건이 발생하고 있을 수 있다<br>• 시간 차(Time Lag) 리스크 — Slack 동기화 시스템의 지연으로 인해 실시간 중요 정보(선박 사고, 규제 변경)가 놓칠 수 있음<br>• 정보원 다양성 부족 — 주류 매체만 모니터링할 경우, 소규모 해운업체나 신흥 기술 동향(예: 자율운항선 시험)이 누락될 가능성<br>• 알고리즘 필터링의 한계 — "새로운 소식 없음"이라는 판정 자체가 필터링 기준의 엄격함이나 데이터 분류 오류로 인한 위양성(false negative)일 수 있음</div>`,
-      tags: ["Information Management","System Sync","Data Update","Operational Status"],
-      link: "",
-      coords: [0,0],
-      location: "Global"
-    }
-  ]
-});
+
 
 // ── AI Secretary Report ──
 addEvents({
@@ -1887,7 +1844,7 @@ addEvents({
       type: "news",
       title: "2026 Korean Shipbuilding Big 3 Stock Price Outlook: Hanwha Ocean, Samsung Heavy Industries, HD Hyundai Heavy Industries",
       source: "경제야놀자 (YouTube Channel)",
-      sourceMeta: "youtube.com · 2024-12-19",
+      sourceMeta: "youtube.com · 2026-03-15",
       image: "https://img.youtube.com/vi/YXTXhvmKSvY/maxresdefault.jpg",
       content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 한국 조선산업 빅3(한화오션, 삼성중공업, HD현대중공업)의 2026년 주가 전망을 비교 분석하는 콘텐츠로, 경제 전문가 엄경아 위원의 심층 해석 포함<br>• 조선업계의 구조적 경쟁력 변화, 수주잔액(Orderbook), 기술 혁신 역량 등을 바탕으로 각 사 간 승패를 가름하는 분석 제시<br>• LNG선, 컨테이너선, 유조선, 특수선박 등 선종별 수요 전망과 고부가가치선 수주 능력이 중장기 주가 결정의 핵심 변수<br>• 에너지 전환, 해운경기 사이클, 글로벌 해양산업 지정학적 리스크 등 거시경제 환경 변화가 각 조선사의 실적과 밸류에이션에 미치는 영향 논의<br>• 한화오션의 적극적 M&A 전략, 삼성중공업의 기술력 기반 고부가가치 선박 포트폴리오, HD현대의 규모의 경제 등 차별화 전략 비교<br>• 향후 2년(2025~2026)간 수주 수익화 시점, 원가율 개선, 환율 변동성 등이 각 사 주가 상승률을 결정하는 단기 트리거로 작용할 가능성<br><h3>Key Quotes</h3><br>• "2026 조선주 주가전망은 단순한 실적 개선이 아니라, 각 조선사의 전략적 포지셔닝과 산업 구조 변화에 얼마나 신속하게 적응하는가의 문제"<br>(2026년 조선주 주가 전망은 단순 실적 개선이 아니라 각사의 전략적 대응 능력에 달려있음)<br>• "한국 조선산업의 경쟁력은 고부가가치선 수주 능력과 건조 납기 준수율에서 결정된다"<br>(고부가가치선 확보와 납기 이행 능력이 한국 조선사의 경쟁 우위 결정 요소)<br>• "빅3 중 최후의 승자는 2026년까지의 수주-수익화 사이클과 해운경기 회복 시점을 정확히 타격한 기업이 될 것"<br>(수주-수익화 타이밍과 해운경기 회복 국면을 잘 활용한 기업이 최종 승자가 될 것으로 예상)<br><h3>Devil's Advocate</h3><br>• **조선산업 호황의 지속성 불확실성**: 현재의 LNG선·특수선박 수요 호황이 2026년까지 지속된다는 보장이 없으며, 글로벌 경기 둔화, 해운경기 악화 시나리오에서 각 사의 주가는 급락할 가능성. 역사적으로 조선업은 극단적 사이클 산업이라는 점 간과.<br>• **원가 인상 압력의 과소평가**: 강철·반도체·인력 수급 관련 비용이 지속적으로 상승하는 환경에서 고정가 수주 계약의 마진율 악화 리스크가 분석에 충분히 반영되지 않았을 가능성. 특히 저가 수주로 점유율 확대 경쟁이 심화되면 수익성 문제 심화.<br>• **지정학적 변수의 최소화**: 한반도 긴장, 미중 갈등, 러시아 제재 심화 등이 조선사의 수주처(중국, 일본, 미국)와 공급망에 미치는 영향이 과도하게 낙관적으로 평가되었을 가능성. 특히 방위산업 관련 특수선박 수주의 지정학적 리스크 간과.<br>• **기술 격차 축소의 가속화**: 중국 조선사의 기술 추격이 가속화되고 있으며, 한국 조선사의 기술 우위 지속 기간이 시장 예상보다 짧을 수 있음. 특히 자율운항선, 친환경선 분야에서 글로벌 기술 경쟁이 가파르게 진행 중이라는 점이 중기 실적에 부정적 영향 미칠 가능성.</div>`,
       tags: ["Korean Shipbuilding","Stock Analysis","Hanwha Ocean","Samsung Heavy Industries","HD Hyundai","Maritime Industry","YouTube","Video"],
