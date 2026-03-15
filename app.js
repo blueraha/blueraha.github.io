@@ -599,7 +599,7 @@ var aisPopup = null;
 
 // Create ship icon on canvas (small elegant triangle)
 function createShipIcon() {
-  var size = 48;
+  var size = 32;
   var canvas = document.createElement('canvas');
   canvas.width = size;
   canvas.height = size;
@@ -608,25 +608,29 @@ function createShipIcon() {
   // Ship shape — sleek pointed hull
   ctx.translate(size/2, size/2);
   ctx.beginPath();
-  ctx.moveTo(0, -10);   // bow (top)
-  ctx.lineTo(4, 6);     // starboard
+  ctx.moveTo(0, -10);   // bow
+  ctx.lineTo(4, 5);     // starboard
   ctx.lineTo(1, 8);     // stern right
   ctx.lineTo(-1, 8);    // stern left
-  ctx.lineTo(-4, 6);    // port
+  ctx.lineTo(-4, 5);    // port
   ctx.closePath();
   ctx.fillStyle = '#ffffff';
   ctx.fill();
-  ctx.strokeStyle = 'rgba(0,0,0,0.4)';
-  ctx.lineWidth = 0.8;
+  ctx.strokeStyle = 'rgba(0,0,0,0.5)';
+  ctx.lineWidth = 1;
   ctx.stroke();
 
-  return canvas;
+  return ctx.getImageData(0, 0, size, size);
 }
 
 function addShipImageToMap() {
   if (map.hasImage('ship-icon')) return;
-  var canvas = createShipIcon();
-  map.addImage('ship-icon', canvas, { sdf: false });
+  var imgData = createShipIcon();
+  map.addImage('ship-icon', {
+    width: imgData.width,
+    height: imgData.height,
+    data: imgData.data
+  });
 }
 
 function showAISLayer() {
