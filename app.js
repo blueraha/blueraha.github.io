@@ -960,9 +960,10 @@ function openSidePanel(date, list, highlightEvent) {
     var bc = isHL ? 'rgba(9,132,227,0.5)' : 'rgba(0,0,0,0.06)';
     var bw = isHL ? '2px' : '1px';
     return '<div id="panel-item-' + idx + '" style="background:' + bg + '; padding:12px; border-radius:6px; margin-bottom:10px; cursor:pointer; border:' + bw + ' solid ' + bc + '; transition:0.2s;" onclick="flyToAndShowDetail(' + JSON.stringify(e).replace(/"/g, '&quot;') + ')" onmouseover="this.style.background=\'rgba(9,132,227,0.06)\'" onmouseout="this.style.background=\'' + bg + '\'">' +
-      '<div style="font-size:9px; color:var(--' + e.type + '); font-weight:600; margin-bottom:4px;">' + e.type.toUpperCase() + '</div>' +
+      '<div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;"><span style="font-size:9px; color:var(--' + e.type + '); font-weight:600;">' + e.type.toUpperCase() + '</span><span style="font-size:9px; color:#999;">' + (e._dateKey || '') + '</span></div>' +
       '<div style="font-size:13px; font-weight:500; color:var(--text-primary);">' + e.title + '</div>' +
-      (e.location ? '<div style="font-size:10px; color:var(--text-secondary); margin-top:4px;">📍 ' + e.location + '</div>' : '') +
+      (e.source ? '<div style="font-size:9px; color:#aaa; margin-top:3px;">' + e.source + '</div>' : '') +
+      (e.location ? '<div style="font-size:10px; color:var(--text-secondary); margin-top:3px;">📍 ' + e.location + '</div>' : '') +
     '</div>';
   }).join('') : '<div style="text-align:center; color:#aaa; margin-top:40px; font-size:11px;">No Data</div>';
 
