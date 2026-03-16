@@ -1872,3 +1872,58 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2023-11-04
+addEvents({
+  "2023-11-04": [
+    {
+      type: "accident",
+      title: "Loss of propulsion in heavy weather - Spirit of Discovery: 100+ injuries, 1 fatality in Bay of Biscay",
+      source: "MAIB (UK Maritime Accident Investigation Branch)",
+      sourceMeta: "gov.uk · 2026-03-11",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 2023년 11월 4일 12시 30분경, 여객선 Spirit of Discovery가 비스케이만에서 악천후 중 추진력을 상실하여 100명 이상의 승객이 부상하고 1명이 사망<br>• **피해 규모**: 중증 부상자 8명이 입항 시 직접 병원으로 후송되었으며, 이 중 1명이 이후 부상으로 인해 사망<br>• **원인 분석**: 선박의 추진 시스템 장애로 인한 악천후 상황에서의 통제 불가능한 상황 발생<br>• **조사 기관**: 영국 해양사고조사청(MAIB)에서 공식 조사 보고서(6-2026) 발간<br>• **권고사항**: 국제 운송 요구사항에 전자 경사계(electronic inclinometer) 포함, 선급사회의 지침서 개선, 추진 제조업체의 고객 공고, 크루즈선사 협회의 의료진 및 가구 고정 규정 강화<br>• **후속 조치**: 유사 추진 시스템 장착 선박 운영사에 대한 제조업체의 고객 권고 발행</p><h3>Key Quotes</h3><p>• "Shortly after 1230 on 4 November 2023, the passenger vessel Spirit of Discovery lost propulsion in heavy weather while crossing the Bay of Biscay. Over 100 passengers were injured during this period." <br>  (2023년 11월 4일 12시 30분 이후, 여객선 Spirit of Discovery가 비스케이만 횡단 중 악천후에서 추진력을 상실했으며, 이 기간 중 100명 이상의 승객이 부상)</p><p>• "Eight of the seriously injured passengers were taken directly to hospital on arrival into port and one of these passengers later died from his injuries."<br>  (중증 부상자 8명이 입항 시 직접 병원으로 후송되었고, 이 중 한 명이 이후 부상으로 인해 사망)</p><h3>Technical Insights</h3><p>• **추진 시스템 신뢰성**: 현대 여객선의 포드 추진 시스템의 고장 메커니즘과 악천후 상황에서의 이중 안전장치 부재가 대형 참사로 확대되는 경로 분석 필요<br>• **규제 강화 방향**: IMO 및 국제 운송 규정에 전자 경사계 의무화로 악천후 상황의 선박 자세 모니터링 강화 및 조기 경보 시스템 구축<br>• **의료 및 안전 기준**: 크루즈 선사의 의료 인원 확충(Advanced Trauma Life Support 자격 보유) 및 악천후 상황에서의 선내 가구 고정 기준 강화로 2차 피해 방지<br>• **제조업체 책임**: 유사 추진 시스템 장착 선박 운영사에 대한 적극적 정보 공유 및 정기 점검 프로토콜 개발로 예방적 유지보수 체계 구축</p></div>`,
+      tags: ["propulsion failure","passenger vessel","heavy weather","Bay of Biscay","casualties"],
+      link: "https://www.gov.uk/maib-reports/loss-of-propulsion-in-heavy-weather-experienced-by-the-passenger-vessel-spirit-of-discovery-leading-to-over-100-injuries-and-one-fatality",
+      coords: [-3.5,47],
+      location: "Bay of Biscay"
+    }
+  ]
+});
+
+// Auto-collected: 2026-03-12
+addEvents({
+  "2026-03-12": [
+    {
+      type: "news",
+      title: "DIU and U.S. Navy select Anduril for XL-AUV program",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-03-12",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/03/DiveXL-DIU-Camp-1E.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **Anduril이 DIU 및 미 해군의 Combat Autonomous Maritime Platform Project(CAMP) 프로그램에서 XL-AUV 공급자로 선정됨** - 장거리 수중 임무 수행 능력을 갖춘 대형 자율무인잠수정(Dive-XL) 개발·배치 담당</p><p>• **검증된 성숙 기술 및 운영 능력** - Anduril 자율잠수정들이 누적 42,355km, 6,752시간의 실제 임무를 수행하며 장시간 운영 신뢰성 입증</p><p>• **호주 로열 해군과의 Ghost Shark 프로그램 성공** - 2025년 호주 해군과의 사업 수주 및 시드니 생산시설 구축으로 기술 검증 완료</p><p>• **미 동부 로드 아일랜드 쿠온셋 포인트에 전용 생산시설 구축** - 연간 수십 대의 Dive-XL과 수백 대의 Dive-LD 생산 능력 보유</p><p>• **해양 영역 통제 전략의 전환점** - 개념 단계에서 실제 운영 단계로 이동하여 분산 해양 작전 및 분쟁 해역 지속 운영 가능</p><h3>Key Quotes</h3><p>• "The United States needs the ability to deploy large payloads across extended ranges underwater." (미국이 수중에서 넓은 거리에 걸쳐 대형 탑재물을 배치할 수 있는 능력이 필요함)</p><p>• "Control of the undersea domain underwrites control of the sea itself, and Dive-XL marks the shift from concept to reality." (수중 영역의 통제가 해양 지배력의 기초가 되며, Dive-XL은 개념에서 현실로의 전환을 의미함)</p><h3>Technical Insights</h3><p>• **자율 해양 플랫폼의 성숙도 및 신뢰성 검증** - 42,355km 누적 운항거리와 6,752시간의 실제 임무 수행 데이터는 장시간 자율운영 기술이 운영 단계에 진입했음을 입증하며, 향후 IMO 자율선박 규정 제정 시 수중 플랫폼의 국제 안전 기준 수립에 참고될 가능성</p><p>• **분산 해양 작전(Distributed Maritime Operations) 개념의 실현** - XL-AUV 기술 도입으로 전통적 함정 중심의 해양 전술에서 자율 플랫폼 네트워크 기반의 새로운 작전 체계로 전환되며, 이는 상용 해운 및 해양 탐사 산업에도 영향을 미칠 것으로 예상</p><p>• **빠른 프로토타입-배치 사이클의 산업화** - Anduril의 호주 프로그램 성공 사례는 전통적 방위사업의 장시간 개발 주기를 단축할 수 있는 상업적 기술 적용 모델을 제시하며, 이는 자율 해양 시스템의 상용화 가속화에 기여할 것으로 평가</p><p>• **전략적 수중 도메인 인식(Underwater Domain Awareness)의 핵심 자산** - 분쟁 지역에서 지속적으로 운영 가능한 XL-AUV는 COLREG 등 국제 해양 규칙의 적용 범위 확대와 자율 잠수정의 충돌 회피(collision avoidance) 알고리즘 고도화 필요성을 야기할 것으로 예상</p></div>`,
+      tags: ["Autonomous Underwater Vehicles","XL-AUV","U.S. Navy","Defense Innovation Unit","Dive-XL"],
+      link: "https://www.navalnews.com/naval-news/2026/03/diu-and-u-s-navy-select-anduril-for-xl-auv-program/",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
+
+// Auto-collected: 2026-03-13
+addEvents({
+  "2026-03-13": [
+    {
+      type: "news",
+      title: "Missile Attacks Define Strait of Hormuz Risks, Officials Say",
+      source: "USNI News",
+      sourceMeta: "usni.org · 2026-03-13",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 페르시아만과 호르무즈 해협에서 해상 위협이 기뢰에서 미사일로 변화하고 있으며, 이란이 표면-표면 미사일을 사용하여 북부 해협 선박에 대한 공격을 지속 중<br>• 미 국방부 합참의장 댄 케인 장군이 펜타곤 브리핑에서 현재 이란의 무인수상함정(USV) 활동은 감지되지 않는다고 발표<br>• 호르무즈 해협 상업 해운의 최대 위협으로 미사일 공격이 지적되었으며, 이는 전통적 해상 위협(기뢰)의 순위 변화를 의미<br>• 백악관의 지시에 따라 국방부와 해군이 이 위협에 대응하기 위한 계획 수립 중<br>• 호르무즈 해협은 글로벌 석유 공급의 약 20-30%가 통과하는 전략적 해상 교통로로, 안보 상황이 국제 해운과 에너지 시장에 직접 영향</p><h3>Key Quotes</h3><br>• "Missiles are currently the largest threat to merchant shipping in the Strait of Hormuz and Persian Gulf instead of sea mines" (현재 호르무즈 해협과 페르시아만의 상선에 대한 최대 위협은 기뢰가 아닌 미사일이라는 의미)<br>• "We've not seen any [unmanned surface vessel] activity out of Iran that we've seen in the Gulf at this point" (현재까지 페르시아만에서 이란의 무인수상함정 활동은 감지되지 않았다는 의미)</p><h3>Technical Insights</h3><br>• 호르무즈 해협의 새로운 위협 환경 변화: 기뢰에서 미사일로의 위협 전환은 해상 감시 및 조기 경고 시스템(EWS) 고도화의 중요성을 강조<br>• COLREG와 IMO 규정 관점에서 전쟁 지역 항행 상황에 대한 선박 책임자(Master) 판단 기준의 모호성 문제로, 국제해사기구의 명확한 지침 필요<br>• 자율운항선박(MASS)의 호르무즈 해협 운영 가능성 제약: 미사일 위협이 있는 고위험 해역에서는 자율시스템보다 선원의 즉각적 대응 능력이 필수적임을 시사<br>• 상선의 방어 장비 및 회피 기동(evasive maneuvers) 능력 강화: 기존의 수동적 해상 보안 조치에서 능동적 위협 회피 기술로의 산업 패러다임 전환 필요</p></div>`,
+      tags: ["Strait of Hormuz","Maritime Security","Missile Threats","Iran"],
+      link: "https://news.usni.org/2026/03/13/missile-attacks-define-strait-of-hormuz-risks-officials-say",
+      coords: [56.2,26.5],
+      location: "Strait of Hormuz, Persian Gulf"
+    }
+  ]
+});
