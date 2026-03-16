@@ -1927,3 +1927,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2023-11-04
+addEvents({
+  "2023-11-04": [
+    {
+      type: "accident",
+      title: "Loss of propulsion in heavy weather experienced by the passenger vessel Spirit of Discovery, leading to over 100 injuries and one fatality",
+      source: "MAIB Reports",
+      sourceMeta: "gov.uk · 2026-03-11",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Spirit of Discovery 여객선이 2023년 11월 4일 비스케이 만에서 악천후 중 추진력을 상실하여 100명 이상의 승객이 부상당하고 1명이 사망함<br>• MAIB(해양사고조사국) 조사 보고서 6-2026을 통해 사고 원인과 재발 방지 대책이 제시됨<br>• 심각한 부상을 입은 8명의 승객이 입항 시 직접 병원으로 이송되었으며, 그 중 1명이 부상으로 인해 사망<br>• 전자 경사계 설치 및 조종실 지침서 품질 개선이 권고사항에 포함됨<br>• 선박의 가구 고정 기준 강화 및 응급의료 인력 확충 등 운영상 개선사항이 권고됨<br>• 추진 장치 제조사에 동일 유형 포드 장착 선박 운영사에 고객 권고사항 발행 권고</p><h3>Key Quotes</h3><br>• "Shortly after 1230 on 4 November 2023, the passenger vessel Spirit of Discovery lost propulsion in heavy weather while crossing the Bay of Biscay." (2023년 11월 4일 정오 이후 얼마 지나지 않아 Spirit of Discovery 여객선이 비스케이 만 횡단 중 악천후에서 추진력을 상실함)</p><p>• "Recommendations have been made to the Maritime and Coastguard Agency to propose that international carriage requirements include electronic inclinometers" (국제 운송 규정에 전자 경사계 포함을 제안하도록 해사청에 권고됨)</p><h3>Technical Insights</h3><br>• 악천후 중 선박의 동적 안정성 모니터링을 위해 전자 경사계와 같은 첨단 센서 장착이 국제 규정에 포함되어야 함을 시사<br>• 추진 장치의 설계 결함이나 운영 오류가 중대 사고로 이어질 수 있으므로, 제조사 지침서의 품질 관리 및 주기적 업데이트가 중요함<br>• 여객선의 경우 악천후 시 선내 가구 고정 및 응급의료 체계 강화를 통해 2차 피해 최소화 필요<br>• 이 사고는 조종실 운영 절차, 추진 시스템 모니터링, 승객 안전 관리 측면의 통합적 개선을 요구하는 사례로서 업계 표준화에 영향을 미칠 것으로 예상됨</p></div>`,
+      tags: ["propulsion failure","passenger vessel","heavy weather","Bay of Biscay","casualties"],
+      link: "https://www.gov.uk/maib-reports/loss-of-propulsion-in-heavy-weather-experienced-by-the-passenger-vessel-spirit-of-discovery-leading-to-over-100-injuries-and-one-fatality",
+      coords: [-6.5,47.5],
+      location: "Bay of Biscay"
+    }
+  ]
+});
+
+// Auto-collected: 2026-03-12
+addEvents({
+  "2026-03-12": [
+    {
+      type: "news",
+      title: "DIU and U.S. Navy Select Anduril for XL-AUV Combat Platform Program",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-03-12",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/03/DiveXL-DIU-Camp-1E.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **미국 국방혁신부(DIU)와 해군, 안두릴사의 초대형 자율수중차량(XL-AUV) 선정** - CAMP(전투용 자율해양플랫폼 프로젝트)에 참여하기 위해 안두릴이 경쟁입찰을 통해 선정됨</p><p>• **안두릴의 Dive-XL 시스템 성숙도 입증** - 누적 42,355km, 6,752시간의 실전 운영 시간으로 장거리 성능과 시스템 내구성 검증 완료</p><p>• **4개월 내 장기 운영 시연 예정** - 계약 체결 후 4개월 내 Dive-XL의 작전 중심 시연 완료 계획</p><p>• **호주 고스트 샤크 프로그램 성공 기반** - 2025년 호주 해군과의 계약을 통해 전통 방식 대비 빠른 납기와 낮은 리스크 입증</p><p>• **산업 기반 구축** - 시드니(호주), 로드아일랜드 쿠온셋포인트에 연간 수십 개의 Dive-XL, 수백 개의 Dive-LD 생산 가능한 시설 운영</p><h3>Key Quotes</h3><p>• "Anduril's autonomous undersea vehicles to-date have accumulated over 42,355km and 6,752 hours of mission time, proving the maturity, reliability, and long-duration capability required for distributed maritime operations." <br>(안두릴의 자율수중차량들이 누적 42,355km와 6,752시간의 운영 시간을 기록하며 분산 해양작전에 필요한 성숙도, 신뢰성, 장시간 운영 능력을 증명했다.)</p><p>• "Long-range autonomous undersea systems have the potential to change the balance beneath the waves... Control of the undersea domain underwrites control of the sea itself."<br>(장거리 자율수중시스템은 수중 전력 균형을 변화시킬 잠재력을 가지고 있으며, 수중 영역의 통제가 해상 자체의 통제를 뒷받침한다.)</p><h3>Technical Insights</h3><p>• **XL-AUV 기술의 실전 전환** - 수십 년간 개념 단계에 있던 초대형 자율수중차량이 이제 실제 운영 배포 단계로 진입, 자율해양 시스템의 기술적 성숙도 도달</p><p>• **분산 해양작전(DMO) 패러다임 실현** - 장거리 자율시스템을 통해 미국과 동맹국이 해상에서 리스크를 거리에 두고 분쟁 환경에서 지속적 운영 가능해지는 해전 개념 변화</p><p>• **생산 기반과 공급망 확보** - 다국적 생산 시설(호주-미국)과 대량 생산 계획으로 XL-AUV의 광범위한 배포 기반 마련, 전술적 자율성(Tactical Autonomy) 구현 준비</p><p>• **IMO/SOLAS와 독립적인 방위 응용** - 민간 자율선박과 달리, 군사용 XL-AUV는 국제 규정 제약 없이 운영되어 해양 패권 경쟁 심화 가능성</p></div>`,
+      tags: ["Autonomous Underwater Vehicles","XL-AUV","U.S. Navy","Defense Technology","Dive-XL"],
+      link: "https://www.navalnews.com/naval-news/2026/03/diu-and-u-s-navy-select-anduril-for-xl-auv-program/",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
