@@ -1965,3 +1965,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-03-02
+addEvents({
+  "2026-03-02": [
+    {
+      type: "accident",
+      title: "Arctic Metagaz LNG Tanker Explosion in Mediterranean - First Russian LNG Carrier Returns",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-03-16",
+      image: "https://gcaptain.com/wp-content/uploads/2018/09/gCaptain_Logo.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **사건 개요**: Arctic Metagaz LNG 탱커가 몰타 남동쪽 약 170해리 지점에서 폭발하여 침몰했으며, 러시아 당국은 우크라이나 드론 공격으로 추정</p><p>• **운항 재개**: 폭발 후 지중해 운항을 중단했던 러시아 LNG 선박들이 3월 14일 LNG Merak이 지브롤터 해협을 통과하면서 운항 재개 시작</p><p>• **선박 특성**: LNG Merak은 홍콩 국적, 일본 MOL 운영 선박으로 기존 제재 대상 선박(Arctic Metagaz)과 달리 국제 상용 체계로 운영 중</p><p>• **공급망 변화**: 폭발 후 최소 5척의 LNG 탱커가 수에즈 운하 대신 희망봉 경로로 우회했으나, Yamal LNG 프로젝트 화물은 계속 운송</p><p>• **지정학적 영향**: 우크라이나 해상 드론의 위협으로 러시아 LNG 수출 경로 변경 및 해상 운송 보험 비용 상승 우려</p><p>• **운영 대응**: 킬딘 해상 정박지에서 북극 쇄빙선에서 일반 LNG 운반선으로의 화물 이적 작업으로 공급망 우회 시도 중</p><h3>Key Quotes</h3><p>• "an explosion destroyed the tanker Arctic Metagaz roughly 170 nautical miles southeast of Malta in what Russian officials described as a suspected Ukrainian drone attack" (몰타 남동쪽 약 170해리 지점에서 Arctic Metagaz가 폭발했으며, 러시아 관계자는 우크라이나 드론 공격으로 추정)</p><p>• "Russia began directing LNG carriers transporting its gas away from the Mediterranean and the Suez Canal, apparently to keep them beyond the perceived operational range of Ukrainian maritime drones" (러시아는 LNG 운반선들을 지중해와 수에즈 운하에서 우크라이나 해상 드론의 작전 범위 외로 우회시키기 시작)</p><p>• "LNG Merak operates under conventional commercial arrangements" and is "flagged in Hong Kong and managed by Japan's Mitsui O.S.K. Lines (MOL), the world's largest operator of LNG carriers" (LNG Merak은 일반 상용 체계로 운영되며, 세계 최대 규모 LNG 운반선 운영사인 일본 MOL이 관리)</p><h3>Technical Insights</h3><p>• **해상 보안 위협**: 우크라이나 드론의 지중해 작전 범위 확장으로 인해 러시아 LNG 수출 경로 재설정 필요 - 기존 수에즈 운하 경로 대신 희망봉 우회 항로 증가</p><p>• **선복 운용 최적화**: 북극 쇄빙선(Arc7 급)에서 일반 LNG 운반선으로의 해상 이적(ship-to-ship transfer) 확대로 EU 항만 기반 환적 규제 우회</p><p>• **제재 회피 전략**: 제재 대상 Arctic LNG 2 대신 기존 Yamal LNG 프로젝트 화물 운송으로 기술적·법적 제재 회피 - 일반 상용 운영사(MOL) 활용</p><p>• **IMO 규정 영향**: 전시 상황에서의 LNG 운반선 운항 경로 변경, 보험료 인상, 대체 항로(희망봉) 운용으로 인한 연료비 증가 및 배송 기간 연장 문제 발생</p></div>`,
+      tags: ["LNG tanker","explosion","Arctic Metagaz","Mediterranean","Russian gas","maritime security"],
+      link: "https://gcaptain.com/first-lng-tanker-carrying-russian-gas-enters-mediterranean-since-arctic-metagaz-explosion/",
+      coords: [20,35.5],
+      location: "Mediterranean Sea, southeast of Malta"
+    }
+  ]
+});
+
+// Auto-collected: 2025-10-13
+addEvents({
+  "2025-10-13": [
+    {
+      type: "accident",
+      title: "ATSB Releases Preliminary Report on Nuyina Grounding off Heard Island",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-03-17",
+      image: "https://images.marinelink.com/images/maritime/w800/source-168972.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 호주 해양학연구선 뉘이나(Nuyina)호가 2025년 10월 13일 호드 섬 인근 해역에서 기저부 수심 15m 지점에 좌초<br>• **선박 및 운영**: 호주 남극청 소속 연구·보급선, 승선 인원 해상승무원 37명, 탐사대원 85명<br>• **근본 원인**: 음파측심기(멀티빔) 심도 데이터가 해상 정보표시시스템(ECDIS)과 연동되지 않아 항해 경보 발생 불가, 항법 음향시스템 가동 중단<br>• **운영 오류**: 레이더 방위선을 신규 경로로 착오 인식, ECDIS 계획 경로 표시 오류로 인한 항해 혼란<br>• **결과**: 선박 일시적 좌초 후 복구, 확장형 드롭 킬(drop keel) 손상</p><h3>Key Quotes</h3><p>• "Depth information from the multi-beam system was shown on a dedicated display on the bridge but was not fed into the ship's integrated bridge system. This meant the depth information was not displayed on the electronic chart display and information system (ECDIS), and could not be used to generate navigational alarms." <br>(멀티빔 음향시스템의 수심 정보가 독립된 브리지 디스플레이에만 표시되었으며, 통합 항해 시스템(ECDIS)과 연동되지 않아 항해 경보 생성 불가)</p><p>• "This bearing line was in a similar direction to the planned route, taking the ship between an unsurveyed area to the west and a charted bank to the east."<br>(이전 방위선이 신규 계획 경로와 유사한 방향으로 설정되어 미조사 해역과 해도상 천소 사이를 통과하도록 유도)</p><h3>Technical Insights</h3><p>• **항해시스템 통합 부재**: 고해상 멀티빔 음향측심 데이터가 ECDIS 시스템과 분리되어 실시간 수심 경보 및 자동 항법 알람 기능 불가 - 현대 선박의 통합 항해 시스템 설계 결함<br>• **항법 절차 오류**: 동위치 유지(DP) 시스템에서 자동 항법으로 전환 시 이전 방위선 재확인 부족, ECDIS 경로 계획 로드 오류 확인 미흡 - 선체 회전 중 스러스터 부하 증가 상황에서의 주의 분산<br>• **미조사 해역 운항**: 4,000km 남양 극지 미지역 운항에도 불구하고 음향시스템 의존도 과다, 항법 시스템 이중화 부족 - 극지역 연구선의 자동화 장비 신뢰성 및 수동 조종 능력 균형 문제<br>• **IMO 규정 준수 공백**: 음향 간섭 회피를 위한 항법음향기 차단이 대체 수심 확보 수단 없이 시행 - 선박 안전 규칙의 시스템 신뢰도 평가 및 대체 안전 조치 명확화 필요</p></div>`,
+      tags: ["grounding","research vessel","navigation system failure","ATSB investigation"],
+      link: "https://www.marinelink.com/news/atsb-releases-preliminary-report-nuyina-537033",
+      coords: [73.5,-53.1],
+      location: "Heard Island, 4,000 km south-west of Perth, Australia"
+    }
+  ]
+});
+
+// Auto-collected: 2026-03-16
+addEvents({
+  "2026-03-16": [
+    {
+      type: "news",
+      title: "ABS Reflects on Technology, Innovation Growth in Southeast Asia",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-03-16",
+      image: "https://images.marinelink.com/images/maritime/w800/group-photo-168962.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• ABS가 동남아시아 지역 위원회 연례 회의에서 자율 시스템과 기술 혁신이 해운 산업을 데이터 중심의 연결 산업으로 변환 중임을 강조<br>• 존 맥도널드 ABS 회장겸 CEO가 글로벌 경제 변화, 지정학적 갈등, 조선소 용량 제약 등 산업 과제 해결을 위한 기술 투자 확대 방침 발표<br>• 싱가포르에 새로운 운영 센터 설립 예정으로 태평양 지역 원격 검사 능력 확대 계획<br>• ABS는 싱가포르 및 남태평양 지역에서 클래스 1위 지위 유지 중이며, 전 세계 선박 건조 발주량에서도 선도적 입장<br>• 태평양 캐리어스(Pacific Carriers Limited)의 호르 웡 이우 회장이 ABS 동남아 지역 위원회 신임 의장으로 취임</p><h3>Key Quotes</h3><p>• "Rapid technology innovation and autonomous systems are transforming shipping into a highly connected, data-driven industry." (빠른 기술 혁신과 자율 시스템이 해운 산업을 고도로 연결된 데이터 중심 산업으로 변환 중)</p><p>• "ABS is well-positioned to support the industry in Southeast Asia through this era of accelerated change" (ABS는 가속화된 변화의 시대에 동남아 해운 산업을 지원할 수 있도록 최적의 위치에 있음)</p><h3>Technical Insights</h3><p>• 자율 시스템 기술 도입으로 해운 산업의 디지털화 및 데이터 기반 의사결정 체계 확대 추진 중이며, 이는 IMO의 스마트십 규제 방향과 부합<br>• 원격 검사(Remote Survey) 능력 강화는 선급 검사의 효율성 증대 및 운영 비용 절감을 가능하게 하며, 자율 운항 선박의 검사 표준화에 기여할 것으로 전망<br>• 동남아 지역의 해운 중심지 위치를 활용한 기술 서비스 확대는 SOLAS, MARPOL 등 국제 규제 대응 능력 강화와 연계되어 전 지역 해운 안전 수준 향상 도모<br>• ABS의 지속가능성 기술 투자 확대는 국제 해사기구(IMO)의 탄소중립 목표(2050년)와 선박에너지효율지수(EEXI) 규제 등에 대한 산업 대응 강화를 의미</p></div>`,
+      tags: ["Autonomous Systems","Technology Innovation","Maritime Digitalization","Southeast Asia"],
+      link: "https://www.marinelink.com/news/abs-reflects-technology-innovation-growth-537023",
+      coords: [103.8198,1.3521],
+      location: "Singapore"
+    }
+  ]
+});
