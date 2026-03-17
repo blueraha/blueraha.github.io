@@ -2021,3 +2021,52 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-03-16
+addEvents({
+  "2026-03-16": [
+    {
+      type: "accident",
+      title: "Arctic Metagaz LNG Tanker Explosion in Mediterranean; First Russian LNG Carrier Returns Post-Incident",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-03-16",
+      image: "https://gcaptain.com/wp-content/uploads/2018/09/gCaptain_Logo.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **Arctic Metagaz 폭발 사건**: 3월 초 몰타 남동쪽 약 170해리 지점에서 LNG 탱커 Arctic Metagaz가 폭발하여 침몰. 러시아 관리자들은 우크라이나 드론 공격으로 추정되며, 우크라이나는 공식 성명을 발표하지 않음</p><p>• **지역 운항 중단 및 재개**: 폭발 이후 러시아는 Mediterranean과 Suez Canal 통항을 회피하도록 지시했으며, 최소 5척 이상의 LNG 탱커가 Cape of Good Hope로 우회 항로 변경. LNG Merak은 3월 14일 지브롤타 해협을 통과하여 첫 복귀 항해 수행</p><p>• **선박의 차이점**: Arctic Metagaz는 미국·EU 제재 대상이었던 반면, LNG Merak은 홍콩 선적, 일본 MOL(Mitsui O.S.K. Lines) 관리로 제재 대상이 아님. Yamal LNG 프로젝트(가동 중)에서 화물 적재로 Arctic LNG 2(중제재)와 구별됨</p><p>• **해상 환적 작업 증대**: 3월 6일 Vladimir Vize로부터 Murmansk 인근 Kildin 정박지에서 선박간 환적(STS)으로 화물 수령. EU 항만 환적 금지 이후 Arctic 지역 얼음급(Arc7) 탱커에서 일반 LNG 운반선으로의 환적이 증가 추세</p><p>• **러시아 그림자 함대의 해상 운영 재개**: 보안 우려에도 불구하고 상업적 정상 구조 선박을 통한 LNG 운송 재개, 러시아의 에너지 수출 회복력 시사</p><h3>Key Quotes</h3><p>• "An explosion destroyed the tanker Arctic Metagaz roughly 170 nautical miles southeast of Malta in what Russian officials described as a suspected Ukrainian drone attack." <br>(몰타 남동쪽 약 170해리 지점에서 Arctic Metagaz가 폭발했으며, 러시아 관리자들은 이를 우크라이나 드론 공격으로 추정)</p><p>• "Russia began directing LNG carriers transporting its gas away from the Mediterranean and the Suez Canal, apparently to keep them beyond the perceived operational range of Ukrainian maritime drones."<br>(러시아는 LNG 운반선들을 Mediterranean과 Suez Canal에서 우크라이나 해상 드론의 작전 범위 밖으로 우회시키기 시작)</p><p>• "LNG Merak operates under conventional commercial arrangements... Neither the vessel nor its operator is subject to U.S. or EU sanctions."<br>(LNG Merak은 통상적인 상업 구조로 운영되며, 선박과 운영사 모두 미국·EU 제재 대상이 아님)</p><h3>Technical Insights</h3><p>• **해상 드론 위협의 전술적 대응**: 우크라이나의 추정 드론 공격에 따른 러시아 함대의 광역 우회 항로 변경은 해상 자율무기 시대의 새로운 해상 전술을 반영. 176,000m³급 LNG 탱커도 비규격 선박으로 인한 위험 노출 가능성 증대</p><p>• **선적 구조 변화의 IMO 규제 영향**: EU의 항만 환적 금지 이후 고위도 해역(Arctic)에서의 선박간 환적(STS)이 급증. IMO SOLAS/MARPOL 규제 강화로 야외 해역 환적 안전 기준 재검토 필요</p><p>• **제재 회피의 구조적 진화**: 제재 대상 Arctic LNG 2 대신 합법 운영 Yamal LNG 프로젝트 활용 및 MOL 같은 제재 비대상 운영사 활용으로 그림자 함대의 "합법화" 추세. COLREG 및 선박 식별 투명성 강화 필요</p><p>• **LNG 운송 경로 재구성의 산업적 영향**: Mediterranean 우회로 인한 Cape of Good Hope 항로 집중화는 운송 비용 증가(약 3-4주 연장), 해적</p></div>`,
+      tags: ["LNG tanker","explosion","Arctic Metagaz","Mediterranean","Russian gas","maritime security"],
+      link: "https://gcaptain.com/first-lng-tanker-carrying-russian-gas-enters-mediterranean-since-arctic-metagaz-explosion/",
+      coords: [20.5,35.5],
+      location: "Mediterranean Sea, 170 nm southeast of Malta"
+    },
+    {
+      type: "news",
+      title: "U.S. Navy Establishes Five New Program Acquisition Executives for Maritime and Autonomous Systems",
+      source: "USNI News",
+      sourceMeta: "usni.org · 2026-03-16",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 미 해군이 함정 및 장비 구매·유지보수 방식 개혁의 일환으로 5개의 신규 프로그램 획득 담당자(PAE) 직책을 신설<br>• 2025년 12월 PAE 로봇 및 자율시스템 사무실 첫 개설 이후 추가 4개 사무실 신설 완료<br>• Chris Miller 현 Naval Sea Systems Command 전무이사가 PAE Maritime 담당, Vice Adm. Robert Gaucher가 PAE Undersea 담당<br>• Vice Adm. Jim Downey가 PAE Industrial Operations 지휘<br>• 해군 장비 획득 구조의 현대화 및 자율화 시스템 도입 가속화 의도<br>• 국방 조달 체계의 효율성 및 전력화 속도 향상 목표</p><h3>Key Quotes</h3><br>• "Navy Secretary John Phelan announced the creation of five new program acquisition executives after standing up the first new office, PAE robotic and autonomous systems, in December." (해군 장관 John Phelan은 12월에 첫 번째 자율·로봇시스템 프로그램 획득 사무실을 신설한 이후 추가 5개 신규 프로그램 획득 담당자 직책 신설을 발표)</p><h3>Technical Insights</h3><br>• 미 해군의 자율시스템 및 로봇 기술 도입 가속화로 미래형 무인 해상 플랫폼 개발 추진 강화<br>• 프로그램 획득 구조 개편을 통한 의사결정 신속화 및 신기술 도입 사이클 단축으로 산업경쟁력 강화<br>• 해양 자율화 기술의 국방 적용 확대로 민간 해운업 자율선박 도입에도 기술 파급 효과 기대<br>• IMO 규정 대비 미 국방부의 자율해상시스템 표준 수립 및 COLREG 적용 방안 마련 필요성 증대</p></div>`,
+      tags: ["U.S. Navy","Autonomous Systems","Maritime Acquisition","Defense Procurement","Organizational Reform"],
+      link: "https://news.usni.org/2026/03/16/secnav-phelan-stands-up-5-new-offices-for-navy-marine-acquisition",
+      coords: [38.8816,-77.0369],
+      location: "Washington, D.C."
+    }
+  ]
+});
+
+// Auto-collected: 2023-11-04
+addEvents({
+  "2023-11-04": [
+    {
+      type: "accident",
+      title: "Loss of propulsion in heavy weather - Spirit of Discovery: 100+ injuries and 1 fatality in Bay of Biscay",
+      source: "MAIB (Marine Accident Investigation Branch)",
+      sourceMeta: "gov.uk · 2026-03-11",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사고 개요**: Spirit of Discovery 여객선이 2023년 11월 4일 비스케이만에서 악천후 중 추진력을 상실하여 100명 이상의 승객이 부상당했으며, 이 중 1명이 입원 후 사망</p><p>• **피해 규모**: 8명의 중상자가 입항 후 즉시 병원으로 이송되었으며, 한 승객이 부상으로 인해 사망</p><p>• **원인 분석**: 악천후 시 포드(pod) 형 추진 장치의 결함으로 인한 추진 시스템 고장</p><p>• **권장사항**: IMO 국제 해상 운송 규정에 전자 경사계 탑재 의무화, 분류 협회의 매뉴얼 개선, 여객선의 의료진 확충(외상 전문가) 및 악천후 대비 가구 고정 정책 강화</p><p>• **관련 기관**: Maritime and Coastguard Agency(MCA), 분류 협회, 추진 시스템 제조사, Cruise Lines International Association(CLIA)</p><h3>Key Quotes</h3><p>• "Shortly after 1230 on 4 November 2023, the passenger vessel Spirit of Discovery lost propulsion in heavy weather while crossing the Bay of Biscay. Over 100 passengers were injured during this period." (2023년 11월 4일 오후 12시 30분경, Spirit of Discovery 여객선이 비스케이만 횡단 중 악천후에서 추진력을 잃었고, 이 과정에서 100명 이상의 승객이 부상당했다)</p><p>• "Eight of the seriously injured passengers were taken directly to hospital on arrival into port and one of these passengers later died from his injuries." (중상자 8명이 입항 직후 병원으로 이송되었고, 이 중 1명이 부상으로 인해 사망했다)</p><h3>Technical Insights</h3><p>• **추진 시스템 설계 결함**: 포드형 추진 장치의 고장 메커니즘 분석 필요 - 악천후에서의 안정성 및 백업 시스템 강화 필수</p><p>• **IMO 규정 개선**: 전자 경사계(electronic inclinometer) 탑재 의무화로 선박의 경사각 모니터링 및 조기 대응 체계 구축 필요</p><p>• **의료 대응 능력**: 여객선의 Advanced Trauma Life Support(ATLS) 자격 의료진 확충으로 해상 응급상황의 생존율 향상 필요</p><p>• **악천후 대비**: 가구 및 장비의 고정 강화, 선내 이동 제한 등 승객 안전 정책 개선으로 인명피해 최소화</p></div>`,
+      tags: ["propulsion failure","heavy weather","passenger vessel","Bay of Biscay","casualties"],
+      link: "https://www.gov.uk/maib-reports/loss-of-propulsion-in-heavy-weather-experienced-by-the-passenger-vessel-spirit-of-discovery-leading-to-over-100-injuries-and-one-fatality",
+      coords: [-6.5,46],
+      location: "Bay of Biscay"
+    }
+  ]
+});
