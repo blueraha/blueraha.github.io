@@ -2132,3 +2132,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2025-10-13
+addEvents({
+  "2025-10-13": [
+    {
+      type: "accident",
+      title: "RSV Nuyina Research Icebreaker Grounding Off Heard Island - ATSB Report",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-03-17",
+      image: "https://gcaptain.com/wp-content/uploads/2024/10/RSV-Nuyina.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 호주 남극해양 연구선 RSV Nuyina가 2025년 10월 13일 허드 아일랜드 인근 해역에서 좌초 사고 발생. 초기 보도는 경미한 해저 접촉으로 기술했으나 ATSB 보고서에서 선체와 수심 측정용 드롭 킬(drop keel) 모두 해저와 접촉한 것으로 확인됨</p><p>• **기술적 원인**: 과학 장비 간섭 회피를 위해 항해용 해깊이 탐지기(echo sounder)를 끈 상태에서 다중빔 음향 시스템의 수심 데이터가 ECDIS(전자해도표시시스템)와 미연동되어 자동 천수역 경보가 작동 불가능한 상태였음</p><p>• **항해상 오류**: 선장이 후방 ECDIS로 계획한 항로가 전방 ECDIS에 표시되지 않아 이전 드론 운용 중 사용한 구식 전자 방위선을 따라 항해. 수심 정보 부족 지역의 좁은 통로를 통과하며 좌초</p><p>• **선박 피해**: 드롭 킬과 탑재 과학 장비에 주요 손상 발생. 선체는 경미한 긁힘과 도장 손상만 입어 선박 복원력 유지</p><p>• **안전 시사점**: 과학 조사와 항해 안전 간의 장비 운용 충돌로 인한 시스템 통합 문제. 해도 데이터 불완전 지역에서의 독립적 항로 추종의 위험성 드러남</p><h3>Key Quotes</h3><p>• "The vessel was operating with its drop keel extended approximately 75 centimeters below its nominal 9-meter draft. The keel housed scientific equipment, including a high-resolution multi-beam echo sounder that remained active following overnight seabed mapping operations." (선박은 명목상 9미터 흘수보다 약 75센티미터 아래로 연장된 드롭 킬로 운항 중이었으며, 수심 측정용 고해상도 다중빔 음향 시스템을 탑재한 상태에서 야간 해저 매핑 작업 후에도 계속 작동 중이었음)</p><p>• "To avoid interference with the survey equipment, the ship's navigational echo sounders had been switched off. While the multi-beam system continued to provide depth data, that information was not integrated into the vessel's electronic chart display and information system (ECDIS), meaning it was not visible on the primary navigation display or capable of triggering automated shallow-water alarms." (조사 장비의 간섭을 회피하기 위해 항해용 해깊이 탐지기를 껐으며, 다중빔 시스템의 수심 데이터는 ECDIS에 미연동되어 주 항해 디스플레이에 표시되지 않고 자동 천수역 경보를 트리거할 수 없었음)</p><h3>Technical Insights</h3><p>• **ECDIS 통합 문제**: 과학 관측 장비와 항해 시스템의 분리로 인한 정보 비대칭 문제. 다중빔 음향 데이터의 실시간 항해 시스템 통합 필요성 강조</p><p>• **항로 계획의 일관성 부재**: 전방·후방 ECDIS 간 표시 오류로 인한 이중 항해 기준 발생. 현대식 선박의 통합 항해 시스템 검증 절차의 중요성 드러남</p><p>• **해도 데이터 신뢰성**: 미측정 해역에서의 항해 시 위험성 증가. 극지역 및 오지 해역의 수심 정보 완성도 개선과 보완 항해 기법의 필요성 제기</p><p>• **선박 설계와 운용의 상충**: 과학 조사를 위한 장비 확장(드롭 킬)이 항해 안전 마진을 감소시키는 설계 트레이드오프 문제. 극지역 연구선의 특수성을 반영한 운용 절차 표준화 필요</p></div>`,
+      tags: ["grounding","research vessel","icebreaker","navigation error","ATSB investigation"],
+      link: "https://gcaptain.com/atsb-preliminary-report-sheds-light-on-research-icebreakers-grounding-off-heard-island/",
+      coords: [72.9211,-53.1],
+      location: "Heard Island, Southern Ocean"
+    }
+  ]
+});
+
+// Auto-collected: 2023-11-04
+addEvents({
+  "2023-11-04": [
+    {
+      type: "accident",
+      title: "Loss of propulsion in heavy weather - Spirit of Discovery: 100+ injuries, 1 fatality",
+      source: "MAIB (Marine Accident Investigation Branch)",
+      sourceMeta: "gov.uk · 2026-03-11",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 2023년 11월 4일 크루즈선 Spirit of Discovery가 비스케이 만의 악천후 중 추진력을 상실하여 100명 이상의 승객이 부상당했고 1명이 사망함</p><p>• **피해 규모**: 100명 이상의 승객이 부상했으며, 심각한 부상을 입은 8명의 승객이 입항 후 직접 병원으로 이송됨. 이 중 1명이 나중에 사망</p><p>• **사고 원인**: 비스케이 만의 악천후 중 선박의 포드식(pod) 추진 시스템의 추진력 상실로 인한 선박의 불안정한 동요(rolling) 발생</p><p>• **권장사항**: 전자 경사계(inclinometer) 국제 운송 요건 포함, 추진기 제조업체의 고객 권고사항 발행, 크루즈 업계의 의료진 자격 강화 및 악천후 시 가구 고정 정책 개선 권고</p><p>• **분류사 및 제조업체 조치**: 선박 분류사에 지시 매뉴얼 품질 개선 권고, 동일 포드식 추진 시스템 장착 선박 소유자를 위한 제조업체 고객 조언 발행</p><p>• **관련 기관**: 해운청(Maritime and Coastguard Agency), 크루즈선 국제협회(Cruise Lines International Association), 선박 분류사</p><h3>Key Quotes</h3><p>• "Shortly after 1230 on 4 November 2023, the passenger vessel Spirit of Discovery lost propulsion in heavy weather while crossing the Bay of Biscay."<br>(2023년 11월 4일 정오 직후, 크루즈선 Spirit of Discovery가 비스케이 만을 횡단 중 악천후에서 추진력을 상실했다.)</p><p>• "Over 100 passengers were injured during this period. Eight of the seriously injured passengers were taken directly to hospital on arrival into port and one of these passengers later died from his injuries."<br>(이 기간 동안 100명 이상의 승객이 부상당했다. 심각하게 부상당한 8명의 승객이 입항 후 직접 병원으로 이송되었고, 이 중 1명이 나중에 부상으로 사망했다.)</p><h3>Technical Insights</h3><p>• **포드식 추진 시스템의 취약성**: 악천후에서 선박의 추진력 상실로 인한 선박 안정성 저하 문제. 동력 손실 시 선박이 파도에 노출되어 급격한 횡동요(rolling) 발생으로 대규모 인명피해 초래</p><p>• **해운 규제 강화 필요성**: 전자 경사계와 같은 선박 안정성 모니터링 장비의 국제 운송 요건 포함 추진으로, 악천후 조기 감지 및 대응 능력 향상 필요</p><p>• **크루즈산업 안전 개선**: 의료진의 고급 외상 응급처치(ATLS) 자격 강화 및 악천후 시 선내 가구·물건 고정 정책 개선으로 승객 안전성 강화</p><p>• **메뉴얼 및 운영 표준 개선**: 추진 시스템 제조업체의 지시 매뉴얼 품질 개선 및 선주/선박 운영사의 정보 공유로 유사 사고 재발 방지</p></div>`,
+      tags: ["passenger vessel","propulsion failure","heavy weather","Bay of Biscay","casualties"],
+      link: "https://www.gov.uk/maib-reports/loss-of-propulsion-in-heavy-weather-experienced-by-the-passenger-vessel-spirit-of-discovery-leading-to-over-100-injuries-and-one-fatality",
+      coords: [-5.5,47],
+      location: "Bay of Biscay"
+    }
+  ]
+});
+
+// Auto-collected: 2026-03-17
+addEvents({
+  "2026-03-17": [
+    {
+      type: "news",
+      title: "IMO Advances Fire Safety Regulations for Vehicle Carriers and Ro-Ro Ships",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-03-17",
+      image: "https://images.marinelink.com/images/maritime/w800/source-169001.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• IMO 선박시스템장비 소위원회(SSE12)가 2026년 3월 9일 개최되어 신에너지 차량 운송 선박의 화재 위험 감소를 위한 화재 방호, 감지 및 소화 장치 적절성 평가 계획을 수정함</p><p>• Interferry가 참여한 회의에서 PCTCs(순수 자동차/트럭 운반선) 및 영상 모니터링 감지 시스템에 대한 잠정 지침 개발을 우선시하기로 결정</p><p>• 로로화물선과 로로여객선(Ro-Pax)의 기본적인 설계 차이에도 불구하고 동일한 규제가 적용될 우려로, 세그먼트별 맞춤형 규제 필요성 강조</p><p>• 전기자동차 화재 진화를 위해 차량운반선의 CO2 시스템은 불충분하나, 로로 데크용 드렌처 시스템(대량 물사용)은 효과적임을 입증</p><p>• 2027년 3월 SSE 13까지 특별대응 그룹에서 진행되며, SOLAS 개정안은 2032년 1월 1일 이상에서 발효 예정</p><p>• 신규 로로여객선(2026년 1월 1일)과 기존 로로여객선(2028년 1월 1일)에 의무화된 영상 모니터링 시스템 요구사항 준수 방법의 불명확성으로 과도한 카메라 설치 우려</p><h3>Key Quotes</h3><p>• "We have historically had to spend a lot of effort making sure that ferries are not dragged into regulations that emanate from another segment's needs." (페리 선사들은 역사적으로 다른 세그먼트의 규제 요구사항이 페리 선박에 부당하게 적용되지 않도록 많은 노력을 기울여왔음)</p><p>• "It is well established that the CO2 systems used to extinguish fires on the ro-ro deck of vehicle carriers may not be sufficient to deal with EV fires, but that is not a ro-ro deck issue." (차량운반선의 로로 데크 화재 진화용 CO2 시스템은 전기자동차 화재 대응에 불충분할 수 있으나, 이는 로로 데크 문제가 아님을 확인함)</p><p>• "We hear from members that it is unclear exactly how to comply with these requirements, which may lead to an excessive number of cameras having to be fitted." (회원사들로부터 영상 모니터링 요구사항 준수 방법이 불명확하여 과도한 수의 카메라 설치가 필요할 수 있다는 의견을 전달받음)</p><h3>Technical Insights</h3><p>• **선박 세그먼트별 규제 차별화의 필요성**: 순수 자동차운반선(PCTC), 로로화물선, 로로여객선(Ro-Pax)은 로로 데크를 보유하지만 근본적인 설계 차이가 존재하므로, 전기자동차 화재 대응 규제 시 세그먼트별 맞춤형 기준 수립이 필수적임</p><p>• **화재 진화 시스템의 기술적 차이 인식**: CO2 시스템(차량운반선)과 드렌처 시스템(로로여객선)의 성능 차이를 IMO 규제에 반영하여 과도한 규제 부담 방지 필요</p><p>• **영상 모니터링 시스템 표준 명확화**: Resolution MSC.550(108)에 따른 "연속 모니터링" 요구사항의 구체적 해석 지침 부재로 인한 산업계 혼선 해소를 위해 IMO 차원의 기술 표준 개발 시급</p><p>• **2027-2028년 규제 개발 로드맵 확립**: SSE 13(2027년 3월)까지 특별대응 그룹 검토 후 2028년부터 로로/로로여객선 관련 추가 협의를 거쳐 2032년 SOLAS 개정 발효 예정으로, 산업계에 충분한 준비 기간 제공</p></div>`,
+      tags: ["Fire Safety","SOLAS Amendments","Ro-Ro Ships","Electric Vehicles","IMO SSE12"],
+      link: "https://www.marinelink.com/news/interferry-says-vessel-differences-need-537059",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
