@@ -2070,3 +2070,65 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2025-10-13
+addEvents({
+  "2025-10-13": [
+    {
+      type: "accident",
+      title: "RSV Nuyina Grounding Near Heard Island - ATSB Preliminary Report",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-03-17",
+      image: "https://gcaptain.com/wp-content/uploads/2024/10/RSV-Nuyina.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 호주의 남극 쇄빙 연구선 RSV Nuyina가 2025년 10월 13일 허드 아일랜드 근처에서 좌초 사고 발생 - 초기 보도와 달리 선체와 드롭 킬(retractable keel) 모두 해저에 접촉</p><p>• **근본 원인**: 측량 장비 간섭 방지를 위해 항해용 초음파 탐지기를 꺼둔 상태에서, ECDIS(전자해도정보시스템)에 멀티빔 음향 데이터가 통합되지 않아 수심 정보가 항해 디스플레이에 표시되지 않음</p><p>• **항해상 오류**: 마스터가 선계획한 항로가 전방 ECDIS에 표시되지 않아, 차관사가 드론 작업 시 사용한 기존의 전자 방위선을 따라 항행하여 미상사 해저 지역을 통과</p><p>• **피해 현황**: 드롭 킬과 탑재된 과학 장비 손상/손실, 선체는 경미한 긁힘과 페인트 손상만 발생 - 선박은 항해능력 유지</p><p>• **호주교통안전위원회(ATSB)**: 앙거스 미첼 위원장 주도로 상세한 사고 경위 보고서 발표</p><p>• **운영자**: 서코(Serco), 호주 남극부(Australian Antarctic Division)</p><h3>Key Quotes</h3><p>• "the vessel briefly grounded near Heard Island—clarifying earlier descriptions of the event as a minor seabed contact" (초기 보도에서 경미한 해저 접촉이라던 것이 실제로는 선박이 일시적으로 좌초한 사건임을 명확히 함)</p><p>• "the ship's navigational echo sounders had been switched off. While the multi-beam system continued to provide depth information, that information was not integrated into the vessel's electronic chart display and information system (ECDIS)" (측량용 멀티빔 음향 데이터가 항해용 ECDIS에 통합되지 않아 주 항해 디스플레이에 수심 정보가 나타나지 않음)</p><p>• "That track led the vessel through a narrow corridor between a charted bank and an adjacent area of uncharted seabed—an area where hydrographic data was incomplete" (해도에 기록된 천소와 미상사 해저 지역 사이의 좁은 항로로 선박을 인도하여 항해수심 자료가 불완전한 해역을 통과)</p><h3>Technical Insights</h3><p>• **ECDIS 시스템 통합 문제**: 측량 장비(멀티빔 음향)와 항해 시스템(ECDIS) 간 데이터 연동 부족으로 인한 항해 위험성 증대 - IMO SOLAS 규정상 모든 수심 정보의 통합 필요성 재확인</p><p>• **항해계획과 실행의 불일치**: 마스터가 계획한 항로가 전방 ECDIS에 미표시되어 차관사가 과거 방위선(bearing line)을 따라 항행하는 상황 발생 - 자동화 시대의 인적 오류 리스크 및 이중화 시스템의 한계 노출</p><p>• **미상사 해역 항해의 위험성**: 수로 자료가 불완전한 해역에서의 항해 시 고해상도 음향 탐지기와 ECDIS의 실시간 통합이 필수적 - 쇄빙선의 과학 미션과 항해 안전 간 시스템 설계 개선 요구</p><p>• **드롭 킬(Retractable Keel) 운영 관리**: 과학 장비 탑재로 인한 추가 흘수 증가(약 75cm) 상황에서 항해계획 수립 시 이를 반영한 수심 마진 산출의 중요성 - 특수 장비 운영과 항해 안전의 조화 필요</p></div>`,
+      tags: ["grounding","research vessel","navigation error","ECDIS failure","Antarctica"],
+      link: "https://gcaptain.com/atsb-preliminary-report-sheds-light-on-research-icebreakers-grounding-off-heard-island/",
+      coords: [73.5,-53.1],
+      location: "Heard Island, Southern Ocean"
+    }
+  ]
+});
+
+// Auto-collected: 2026-03-17
+addEvents({
+  "2026-03-17": [
+    {
+      type: "news",
+      title: "IMO SSE12 Advances Fire Safety Guidelines for RoRo and Vehicle Carrier Ships",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-03-17",
+      image: "https://images.marinelink.com/images/maritime/w800/source-169001.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• IMO의 선박시스템장비소위원회(SSE12) 12차 회의에서 신에너지차량을 운반하는 선박의 화재 위험 감소를 위한 화재 보호·탐지·소화 기준 개정안 추진 계획 수립</p><p>• Interferry는 ro-ro 화물선과 ro-pax 페리선의 차별화된 특성을 고려하여 차량운반선의 규정이 다른 선종에 동일하게 적용되지 않도록 규제 영향 최소화 요청</p><p>• IMO는 2027년 3월까지 자동차·트럭운반선(PCTC) 임시지침 및 영상감시·탐지시스템 임시지침 개발을 우선화하며, SOLAS 개정안은 2032년 1월 1일 이후 시행 예정</p><p>• Ro-pax 선박의 영상감시시스템 요구사항(2026년 1월 신조선, 2028년 1월 기존선 적용)이 모호하여 과도한 수의 카메라 설치 우려</p><p>• 전기차 화재 대응을 위해 차량운반선은 CO₂ 시스템의 한계를 보이나, ro-pax 페리선의 분사시스템(drencher)은 대량 물사용으로 효과적 대응 가능</p><h3>Key Quotes</h3><p>• "We have historically had to spend a lot of effort making sure that ferries are not dragged into regulations that emanate from another segment's needs." <br>(역사적으로 페리선이 다른 선종의 규정에 무분별하게 적용되지 않도록 노력해왔음)</p><p>• "Ro-ro cargo and ro-pax ferries use drencher systems, which use large amounts of water to demonstrably deal with an EV fire on the ro-ro deck."<br>(ro-ro 화물선과 ro-pax 페리는 대량의 물을 사용하는 분사시스템으로 ro-ro 갑판의 전기차 화재에 효과적으로 대응 가능)</p><p>• "We hear from members that it is unclear exactly how to comply with these requirements, which may lead to an excessive number of cameras having to be fitted."<br>(회원사로부터 영상감시시스템 요구사항 준수 방식이 모호하여 과도한 카메라 설치가 필요할 수 있다는 피드백)</p><h3>Technical Insights</h3><p>• **선종별 기술 차별화의 중요성**: 차량운반선(PCTC)과 ro-pax 페리선의 화재 소화 방식 차이(CO₂ vs 분사시스템)를 인식하여 규제 개정 시 선종의 기술적 특성을 충분히 반영해야 함</p><p>• **전기차 화재 규제의 타당성**: 신에너지차량의 확대로 인한 li-ion 배터리 화재 위험이 증가하면서 IMO가 기존 SOLAS 규정의 적절성을 재평가하고 2027-2028년 추가 검토 계획 수립</p><p>• **영상감시시스템 표준화 미흡**: MSC.550(108) 결의안에 따른 ro-pax 선박의 영상감시시스템 요구사항이 정의되지 않아 산업 현장에서의 규제 해석 불일치로 이어질 수 있으므로 상세 지침 필요</p><p>• **규제 이행 일정의 현실성**: SOLAS 개정안 시행까지 6년 이상의 유예 기간을 두어 업계의 기술 개발과 설비 투자에 충분한 시간 제공하는 현실적 규제 추진 방식 반영</p></div>`,
+      tags: ["Fire Safety","SOLAS Amendments","RoRo Ships","Electric Vehicles","IMO Regulations"],
+      link: "https://www.marinelink.com/news/interferry-says-vessel-differences-need-consideration-fire-regulations-537059",
+      coords: [0,0],
+      location: "Global (IMO)"
+    },
+    {
+      type: "accident",
+      title: "US Aircraft Carrier Gerald R. Ford Suffers Laundry Fire in Red Sea",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-03-17",
+      image: "https://images.marinelink.com/images/maritime/w800/source-petty-168999.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 미 해군의 최신 항공모함 Gerald R. Ford에서 주 세탁실 구역에 대형 화재 발생으로 약 200명의 선원이 연기 흡입 피해를 입었음</p><p>• **피해 규모**: 화재 진화에 수 시간 소요되었으며, 약 100개의 수면 침대에 영향을 미쳤고 1명의 승무원이 부상으로 함정에서 이송됨</p><p>• **함정 현황**: 5,000명 이상의 승무원이 탑승한 세계 최대 항공모함이 홍해에서 이란 작전 중 임시로 그리스 크레타섬 수다만 항구로 입항 예정</p><p>• **전술적 영향**: 함정의 추진 시스템과 항공기 운용 능력에는 손상이 없으며 완전 작전능력 유지 상태이지만, 장기 배치(9개월)로 인한 승무원 사기 저하가 사전에 문제되고 있었음</p><p>• **지원 전력**: Ticonderoga급 유도미사일 순양함 Normandy, Arleigh Burke급 구축함 4척이 함대 호위 중이며 대함, 대공, 대잠전 능력 보유</p><h3>Key Quotes</h3><p>• "Nearly 200 sailors were treated for smoke-related injuries when the fire broke out in the ship's main laundry area. The fire took hours to bring under control." <br>(선박 주 세탁실에서 화재 발생 시 약 200명의 선원이 연기 흡입 피해를 받았으며, 화재 진화에 수 시간이 소요됨)</p><p>• "After the fire initially broke out, the U.S. military had said that there was no damage to the ship's propulsion plant and the aircraft carrier was fully operational." <br>(화재 발생 직후 미군은 함정의 추진 시스템에 손상이 없고 항공모함이 완전히 작전 가능하다고 발표함)</p><h3>Technical Insights</h3><p>• **함정 화재 대응 체계**: 항공모함의 밀폐된 구획 환경에서 대규모 화재 진화 시 연기 제어 및 승무원 대피 절차의 미흡이 다수의 연기 흡입 피해로 이어짐</p><p>• **함정 가동성 유지**: 추진 시스템 손상 회피로 함정의 전술적 이동성은 보존되었으나, 주거 및 생활 구역 손상으로 장기 배치 승무원의 피로도 심화 우려</p><p>• **해군 운용 효율성**: 9개월 장기 배치 중 발생한 사건으로 현대 항공모함 운용의 승무원 관리 및 정비 체계 재점검 필요성 대두</p></div>`,
+      tags: ["Fire","Aircraft Carrier","Gerald R. Ford","Red Sea","Casualties"],
+      link: "https://www.marinelink.com/news/us-aircraft-carrier-ford-suffers-laundry-537057",
+      coords: [32.7683,34.3313],
+      location: "Red Sea"
+    },
+    {
+      type: "news",
+      title: "Advanced Navigation Raises $110M Series C for PNT Technology Expansion",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-03-17",
+      image: "https://images.marinelink.com/images/maritime/w800/advanced-navigation-168997.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **자금 조성 규모**: Advanced Navigation이 Series C 펀딩라운드에서 1억 1,000만 달러를 조성하여 대체 위치항법시각(PNT) 기술 개발 가속화</p><p>• **투자 주도 기관**: Airtree Ventures가 주도, Quadrant Private Equity와 호주 국가재건펀드공사(NRFC)가 참여하여 국가 차원의 자율시스템 기술 개발 전략 반영</p><p>• **핵심 기술**: GPS 신호 차단/교란 환경에서 다중센서 융합 기반 자동항법 소프트웨어(AdNav Intelligence)로 자율해운/방위산업 지원</p><p>• **글로벌 배포 현황**: 100,000개 이상의 시스템이 전 세계 배포되었으며, 수익의 80% 이상이 미국·유럽에서 창출</p><p>• **시장 확장 전략**: 미국·유럽 주요 지역에 PNT 우수센터(Centers of Excellence) 설립으로 자율선박·무인기·방위산업 시장 진출 강화</p><h3>Key Quotes</h3><p>• "As autonomous vehicles scale into contested and high-stakes frontiers, the world's reliance on any single navigation technology has evolved from a technical limitation into a systemic vulnerability" <br>(자율 차량이 분쟁 지역과 고위험 환경으로 확대되면서 단일 항법 기술에 대한 의존도는 기술적 한계를 넘어 시스템 차원의 취약점으로 진화했다)</p><p>• "GPS is no longer a reliable single source of truth. Challenges once considered 'edge cases,' like electronic warfare threats, GPS spoofing, and infrastructure-denied regions, are now a daily reality"<br>(GPS는 더 이상 신뢰할 수 있는 유일한 정보원이 아니며, 전자전 위협·GPS 신호 위조·통신 두절 지역 등 과거 예외상황으로 간주되던 문제들이 일상화되었다)</p><h3>Technical Insights</h3><p>• **다중센서 융합 기술의 중요성**: GPS 거부 환경(GPS-Denied Environment)에서 관성항법장치(INS), LiDAR, 기타 센서의 AI 기반 통합으로 자율해운의 항법 신뢰성 획기적 향상 가능</p><p>• **해상자율시스템 표준화 영향**: 대체 PNT 기술의 상용화는 IMO/IHO의 자율선박 국제 기준 개발 및 COLREG 디지털화 논의에 중요한 기술적 근거 제공</p><p>• **방위-민간 이중 용도 기술**: Anduril, Hanwha, Rheinmetall 등 방위산업 파트너와 NOAA, BHP 등 민간 파트너 동시 지원으로 기술의 다층적 상용화 가속화</p><p>• **지정학적 자율성 확보**: 미국·유럽 중심의 기술 패권 경쟁 속에서 GPS 독립성 확보는 자율해운의 국가 전략적 자산화 추세 반영</p></div>`,
+      tags: ["autonomous systems","navigation technology","PNT","funding","AI","autonomous maritime"],
+      link: "https://www.marinelink.com/news/advanced-navigation-raises-m-series-c-537055",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
