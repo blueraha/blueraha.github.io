@@ -2243,3 +2243,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-03-18
+addEvents({
+  "2026-03-18": [
+    {
+      type: "accident",
+      title: "Iran Fires Missiles at Qatar Energy Hub in Middle East Escalation",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-03-18",
+      image: "https://images.marinelink.com/images/maritime/w800/wollwerth-imagery-169039.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이란이 카타르의 라스 라판 산업도시에 미사일을 발사하여 QatarEnergy의 주요 에너지 허브에 광범위한 손상 초래<br>• 이스라엘의 이란 남파스 가스전 시설 공격에 대한 보복으로, 사우디아라비아도 4발의 탄도미사일과 드론 공격 격퇴<br>• 세계 최대 천연가스 매장지인 남파스 지역의 양측 시설 손상으로 전 지구적 에너지 공급 차질 심화<br>• 유가(브렌트유) 배럴당 $108 이상으로 약 5% 상승, 미국 디젤유가 갤런당 $5 초과(2022년 이후 최고 수준)<br>• 페르시안만 지역 해운 전면 중단 상태이며, 에너지 인프라에 대한 장기적 손상 가능성 높음<br>• 카타르 외교부, 이스라엘의 "위험하고 무책임한" 공격 규탄하고 이란 고위 외교관 2명 추방 조치</p><h3>Key Quotes</h3><p>• "extensive damage after the Ras Laffan Industrial City, an energy-industry hub, was hit by Iranian missiles" (라스 라판 산업 허브가 이란 미사일에 타격을 받아 광범위한 손상 발생)</p><p>• "The conflict quickly spread to neighboring countries and has already halted shipping from the world's most important energy-producing region" (분쟁이 인접국으로 빠르게 확산되었으며 세계 최대 에너지 생산 지역으로부터의 해운이 이미 전면 중단)</p><p>• "Trump knew of Israel's plan to attack the gas field in advance and supported it" (트럼프 대통령이 이스라엘의 가스전 공격 계획을 사전에 인지하고 지지함)</p><h3>Technical Insights</h3><p>• **해상 에너지 인프라 보호**: 페르시안만의 전략적 에너지 시설 손상은 해운 경로 통제 및 에너지 수송 안보에 심각한 영향을 미치며, 국제 해상 보안 체계의 재정립 필요</p><p>• **COLREG 및 국제해사법 적용의 한계**: 무장 분쟁 지역에서의 상선 및 에너지 수송선에 대한 국제 규칙 적용 불가능 상태로, IMO와 국제사회의 중립 해역 보호 메커니즘 강화 촉구</p><p>• **유가 변동성과 해운업 경영 위기**: 유가 급등(5%)과 연료비 상승은 해운사의 연료 유(bunker) 비용 폭증을 초래하며, 장기 공급 차질로 운임 급등 예상</p><p>• **자율항해 기술의 전환적 수요**: 고위험 분쟁 지역의 해운 감소로 인한 자동화·자율선박 기술 도입 가속화 및 원격 운영 시스템 수요 급증 예상</p></div>`,
+      tags: ["missile attack","energy infrastructure","Gulf conflict","oil disruption","geopolitical"],
+      link: "https://www.marinelink.com/news/iran-fires-missiles-qatar-energy-hub-537096",
+      coords: [51.5,25.3],
+      location: "Ras Laffan Industrial City, Qatar / Persian Gulf"
+    }
+  ]
+});
