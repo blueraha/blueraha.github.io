@@ -2188,3 +2188,58 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-03-18
+addEvents({
+  "2026-03-18": [
+    {
+      type: "accident",
+      title: "Two Dead in Confined Space Accident Aboard Barge Near Alaska",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-03-18",
+      image: "https://gcaptain.com/wp-content/uploads/2022/05/FT_qsOjXoAAuPMp.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **사건 개요**: 알래스카 케치칸 인근 유조선 바지선(Waynehoe)에서 폐쇄공간 작업 중 4명의 선원이 사고를 당해 2명이 사망하고 2명이 입원</p><p>• **피해자**: Ben Fowler와 Sidney Mohorovich 사망, 나머지 2명의 선원은 구조되어 안정적 상태로 보고됨</p><p>• **사고 상황**: 일요일 오전 9시 14분 예인선 Chukchi Sea 승무원이 폐쇄공간 내 4명과의 연락 두절을 메이데이 신호로 보고</p><p>• **대응 활동**: 미국 해안경비대 45피트 대응정과 자원봉사소방대가 출동하여 선원 2명을 구조했으나, 화요일에 두 번째 사망자가 회수됨</p><p>• **산업적 문제**: IMO의 강화된 안전규정에도 불구하고 2023년 폐쇄공간 사고는 34명 사망으로 전년도의 약 2배 증가</p><p>• **근본 원인**: 산소 부족이 주요 사인이며, 화물 관련 처리 및 환기 부족이 복합적으로 작용</p><p>---</p><h3>Key Quotes</h3><p>• "Our deepest condolences are with the families and colleagues of the crewmembers affected by this tragic incident. This is a heartbreaking reminder that confined spaces on vessels can contain extremely dangerous, invisible hazards."<br>(이 비극적 사건으로 영향을 받은 선원들의 가족과 동료들에게 깊은 애도를 표합니다. 선박의 폐쇄공간이 극도로 위험하고 눈에 띄지 않는 위해를 포함할 수 있다는 것을 상기시키는 비극입니다.)</p><p>• "These are not new risks, and yet people are still dying. We need to understand what's really happening onboard."<br>(이것은 새로운 위험이 아닌데도 여전히 사람들이 죽고 있습니다. 선박 내에서 실제로 무엇이 일어나고 있는지 이해해야 합니다.)</p><p>---</p><h3>Technical Insights</h3><p>• **폐쇄공간 안전규정의 한계**: IMO의 강화된 안전요구사항이 시행되고 있음에도 불구하고 1990년대 후반 이래로 폐쇄공간 사고의 감소 추세가 미미한 상황으로, 규정의 이행과 교육의 실효성에 의문 제기</p><p>• **산업 데이터 분석**: 2023년 14건의 사고로 34명 사망(2022년 대비 약 2배)으로 집계되었으며, 벌크선이 폐쇄공간 사고의 약 41%를 차지하고 있어 화물 취급 작업의 위험성이 극대화됨</p><p>• **주요 위험 인자**: 산소 결핍(oxygen depletion)이 사망의 주요 원인이며, 이는 불완전한 환기와 화물 관련 생화학적 반응에 의해 유발되는 점에서 선박별 환기 시스템 개선과 지속적인 모니터링 강화 필요</p><p>• **조사 및 예방의 중요성**: 미국 해안경비대의 철저한 조사와 InterManager의 글로벌 안전 설문 참여 확대를 통해 실제 현장 데이터 수집 및 맞춤형 예방 전략 수립이 시급한 상황</p></div>`,
+      tags: ["confined space","fatality","barge","Alaska","Coast Guard investigation"],
+      link: "https://gcaptain.com/two-dead-in-confined-space-accident-aboard-barge-near-alaska/",
+      coords: [-131.6433,55.3417],
+      location: "Ketchikan, Alaska"
+    },
+    {
+      type: "accident",
+      title: "Arctic Metagaz LNG Tanker Drifts Back Into Libyan Waters Two Weeks After Explosion",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-03-18",
+      image: "https://gcaptain.com/wp-content/uploads/2026/03/2026-03-13T101857Z_1372017699_RC2M3KAQZ2JJ_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-LNG-TANKER.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 러시아 LNG 운반선 Arctic Metagaz는 3월 초 폭발 사건 이후 2주간 지중해를 떠돌아다니다가 리비아 수색구조 구역으로 복귀한 상태로, 현재 승무원이 없는 유령선 상태로 운항 중</p><p>• 선박의 4개 LNG 탱크 중 2개만 온전하며, 수백 톤의 액화메탄과 최대 800톤의 석유 제품을 여전히 적재하고 있을 가능성으로 인해 환경 오염 위험성 극대화</p><p>• 이탈리아 민방위청(Protezione Civile)과 남부 EU 6개국(이탈리아, 프랑스, 스페인, 몰타, 그리스, 키프로스)은 당해 선박을 "실질적 해양 환경 위험"으로 분류하며 긴급 대응 태세 유지</p><p>• 초기 폭발 원인은 드론 공격으로 추정되며, 우크라이나-러시아 전쟁의 해상 영역 확대 가능성 시사</p><p>• 러시아 노바텍 계열사 소유 선박의 법적 지위 불명확로 인해 국제적 대응 지연</p><h3>Key Quotes</h3><p>• "The dispersion of gas is a very concrete possibility" <br>(기체의 확산은 매우 현실적인 가능성이다 - 이탈리아 민방위청 대변인)</p><p>• "The vessel is an environmental bomb that risks doing serious damage to the entire surrounding area"<br>(당해 선박은 주변 전역에 심각한 피해를 초래할 위험이 있는 환경 폭탄이다 - 이탈리아 총리 차관 알프레도 만토바노)</p><p>• "If asked by Malta or by the EU, we are ready to intervene within hours"<br>(몰타나 EU의 요청이 있으면 우리는 수시간 내에 개입할 준비가 되어 있다 - 이탈리아 총리 차관)</p><h3>Technical Insights</h3><p>• **국제해양법 및 SAR 구역 문제**: 선박이 세 개의 검색구조 구역(리비아, 몰타, 이탈리아)을 횡단하면서 어느 국가도 책임을 인정하지 않는 '법적 공백' 발생으로, UNCLOS 및 SAR 협약 개선의 필요성 대두</p><p>• **LNG 운반선의 안전 규제 강화**: Arctic Metagaz의 경우처럼 폭발 후에도 장시간 운항하는 위험한 상황을 방지하기 위해 IMO의 LNG 운반선 구조 안전 기준 및 자동 격리 시스템 도입 검토 필요</p><p>• **해상 군사 분쟁의 민간 해운 영향**: 우크라이나-러시아 전쟁이 지중해까지 확대되면서 민간 에너지 운송 선박이 전쟁 대상화 위험 증가, 선박 보안 및 경로 다변화 전략 필수화</p><p>• **환경 재해 대응 체계**: 부유식 LNG 탱크의 누출 방지 및 회수 기술 개발, 그리고 국제적 환경 재해 공동 대응 프로토콜 수립의 시급성 강조</p></div>`,
+      tags: ["LNG tanker","explosion","environmental hazard","Mediterranean","ghost ship"],
+      link: "https://gcaptain.com/two-weeks-after-explosion-arctic-metagaz-drifts-back-into-libyan-waters-amid-continued-fears-of-explosion-and-environmental-disaster/",
+      coords: [18.5,34.5],
+      location: "Mediterranean Sea between Malta and Libya"
+    },
+    {
+      type: "accident",
+      title: "Iran Fires Missiles at Qatar Energy Hub, Escalates Gulf Conflict",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-03-18",
+      image: "https://images.marinelink.com/images/maritime/w800/wollwerth-imagery-169039.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이란이 카타르 라스 라판 산업도시의 에너지 허브를 미사일로 공격하여 광범위한 피해 발생 - QatarEnergy가 심각한 손상 보고<br>• 공격으로 인해 벤치마크 브렌트유가 5% 상승하여 배럴당 $108 이상으로 급등하고 글로벌 에너지 공급 차질 심화<br>• 이란은 사우디아라비아 4개 탄도미사일 격추되었으나 지역 내 석유·가스 시설을 "정당한 목표물"로 지정하여 추가 공격 위협<br>• 분쟁으로 인해 세계 최대 에너지 생산 지역에서의 해운이 이미 중단되었으며 인프라 장기 손상 가능성 대두<br>• 미국 디젤유가 갤런당 $5 이상으로 상승하여 2022년 인플레이션 이후 최고 수준에 도달, 글로벌 경제에 영향</p><h3>Key Quotes</h3><p>• "extensive damage" after the Ras Laffan Industrial City was hit by Iranian missiles (이란 미사일이 라스 라판 산업도시를 타격하면서 광범위한 피해 발생)<br>• Iran listed several prominent regional oil and gas facilities it called "direct and legitimate targets" (이란이 지역 내 여러 석유·가스 시설을 "직접적이고 정당한 목표물"로 지정)<br>• The conflict quickly spread to neighboring countries and has already halted shipping from the world's most important energy-producing region (분쟁이 주변국으로 빠르게 확산되었으며 세계 최대 에너지 생산 지역에서의 해운이 이미 중단됨)</p><h3>Technical Insights</h3><p>• **해운 중단의 심각성**: 페르시아만 해역의 전략적 위치로 인한 해운 완전 중단은 글로벌 해상 물류 및 에너지 공급망에 즉각적 영향을 미치며, 국제 해운 규제 및 COLREG 준수 자체가 불가능한 상황 발생<br>• **에너지 인프라 보호 필요성**: IMO 및 국제해사기구는 에너지 수송 선박 및 해상 에너지 시설에 대한 보안 강화 지침(ISPS Code) 재검토 필요<br>• **자율운항선 운영의 위험성**: 현재와 같은 분쟁 상황에서 자율운항선의 운영은 인적 판단이 제한되어 더욱 위험하며, 전략적 요충지에서의 AI 항법 시스템 신뢰성 확보 필수<br>• **산업 연쇄 효과**: 원유 가격 급등으로 인한 운영비 상승이 해운 업계의 경제성을 악화시키고, 자동화 및 연료 효율 개선에 대한 투자 재검토 필요</p></div>`,
+      tags: ["missile attack","energy infrastructure","Qatar","Iran","oil prices","shipping disruption"],
+      link: "https://www.marinelink.com/news/iran-fires-missiles-qatar-energy-hub-537096",
+      coords: [51.5531,25.2854],
+      location: "Ras Laffan Industrial City, Qatar / Persian Gulf"
+    },
+    {
+      type: "news",
+      title: "Netherlands Equips Warships with V-BAT Drones for Naval Reconnaissance",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-03-18",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 네덜란드 해군이 V-BAT 무인항공시스템 12대를 획득하여 함정에 장착 - 노르웨이 인근 Cold Response 훈련 중 실전 시험 완료<br>• 레이더 및 카메라 시스템으로 장시간 정찰 및 정보 수집 임무 수행 가능한 플랫폼<br>• 함정 기반 무인 정찰 체계 도입으로 해군의 감시 및 정보 수집 능력 대폭 강화<br>• 해양 방위 작전에서 자동화 및 무인화 기술의 확대 적용 추세 반영<br>• V-BAT의 확장 운용 시간과 장거리 정찰 능력이 해상 작전 효율성 증대</p><h3>Key Quotes</h3><br>• "V-BAT drones are equipped with radar and camera systems designed to conduct reconnaissance and gather intelligence over extended periods" <br>(V-BAT 드론은 레이더와 카메라 시스템을 탑재하여 장시간 정찰 및 정보 수집 임무 수행 가능)</p><h3>Technical Insights</h3><br>• 함정 기반 무인항공시스템(UAS) 도입으로 해군 전술의 자동화 및 무인화 추세 가속화 - 탑승 인원 감소 및 안전성 향상<br>• V-BAT의 레이더 탑재로 해상 감시 범위 확대 및 초지평선 능력(BVLOS) 강화 - IMO 자율운항 기술과 유사한 센서 기반 의사결정 시스템 활용<br>• 다국적 훈련 참여를 통한 무인 체계 운용 기준 표준화 - 향후 해상 자율 운항 선박의 항해 안전 규제(COLREG) 적용 기반 구축</p></div>`,
+      tags: ["Naval Technology","Unmanned Aerial Systems","Dutch Navy","Reconnaissance Drones"],
+      link: "https://defence-blog.com/netherlands-equips-warships-with-v-bat-drones/",
+      coords: [5.2913,52.1326],
+      location: "Netherlands"
+    }
+  ]
+});
