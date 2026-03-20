@@ -2330,3 +2330,70 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-03-18
+addEvents({
+  "2026-03-18": [
+    {
+      type: "accident",
+      title: "Safeen Prestige Containership Reported Burning After Second Strike in Strait of Hormuz",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-03-19",
+      image: "https://gcaptain.com/wp-content/uploads/2026/03/Safeen-Prestige-scaled.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **이중 피격 사건**: 이집트 소유, 몰타 기국의 컨테이너선 Safeen Prestige(IMO 9593517)가 호르무즈 해협에서 의심스러운 두 번째 공격으로 화재 발생 보고</p><p>• **선박 및 피해**: 3월 4일 첫 피격으로 엔진실 화재 발생 및 승무원 기선탈출, 3월 6일 보조 예인선 공격으로 최소 4명 사망</p><p>• **광역 공격 캠페인**: 지난 2월 말 분쟁 이후 20건 이상의 사건 발생, 호르무즈 해협 통행량 95% 이상 감소</p><p>• **지역 maritime threat level**: 합동해양정보센터(JMIC)에서 CRITICAL 경고 유지, 3월 18-19일 추가 2건 피격 사건 보고</p><p>• **광범위한 운영 영향**: 아라비아만, 호르무즈 해협, 오만만에 걸친 광범위한 해운 운영 차질 및 선사들의 해역 회피</p><h3>Key Quotes</h3><p>• "The Safeen Prestige may have been struck again," adding that the vessel appeared to be on fire as of March 18. (Safeen Prestige가 다시 피격되었을 가능성이 있으며, 3월 18일 현재 화재 발생 상태)</p><p>• "The International Maritime Organization warned at the time that civilian mariners were increasingly being caught in the crossfire as the Strait of Hormuz deteriorates into an active conflict zone." (국제해사기구는 호르무즈 해협이 활성 분쟁 지역으로 악화되면서 민간 해원들이 교전 중에 점점 더 피해를 입고 있다고 경고)</p><p>• "Vessel traffic through the strait has collapsed to just a handful of daily transits—down more than 95% from normal levels—as shipowners avoid the area." (선사들의 해역 회피로 해협 통행량이 일일 수 척으로 붕괴되어 정상 수준 대비 95% 이상 감소)</p><h3>Technical Insights</h3><p>• **해양 보안 위협 에스컬레이션**: 호르무즈 해협에서의 반복적 피격 사건은 특정 선박이 아닌 광역 해운 운영 마비를 목표로 한 체계적 캠페인 특성을 나타내며, IMO 차원의 해역 위험도 재평가 필요</p><p>• **승무원 안전 및 인도주의적 우려**: 예인선 공격으로 인한 사상자 발생은 COLREG/IMO 국제협약상 민간 선박 및 승무원 보호 의무의 심각한 위반으로, 국제 해양법 집행 메커니즘의 강화 필요</p><p>• **해운 산업 경제적 영향**: 통행량 95% 급감은 국제 에너지, 무역 공급망에 심각한 영향을 초래하며, 자율운항선박(MASS) 도입 시 이러한 고위험 해역에서의 운영 안전성 및 통제 능력 검증의 중요성 강조</p><p>• **해역 회피 및 대체 경로 운영**: 광역 해운 마비로 인한 장거리 우회항로 증가는 연료비, 운항 시간 증가로 이어져 업계 전체 수익성 악화 및 항로 보험료 인상 유발</p></div>`,
+      tags: ["Strait of Hormuz","Containership Fire","Suspected Attack","Maritime Security","Safeen Prestige"],
+      link: "https://gcaptain.com/second-strike-safeen-prestige-reported-burning-near-hormuz/",
+      coords: [56.5,26.5],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
+
+// Auto-collected: 2026-03-19
+addEvents({
+  "2026-03-19": [
+    {
+      type: "accident",
+      title: "Missile strikes cause fires and extensive damage at QatarEnergy's LNG facilities in Ras Laffan",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-03-19",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2025/11/Ras-Laffan-petrochemicals-project-in-Qatar-aerial-view-Source-CPChem.jpg?image-crop-positioner-ts=1762177598",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2026년 3월 18-19일 카타르의 라스 라판 산업도시에 소재한 카타르에너지(QatarEnergy)의 LNG 시설들이 미사일 공격으로 광범위한 손상과 화재 발생<br>• 이란의 보복 공격으로 인한 사건으로, 펄 GTL(가스-액화) 시설을 포함한 여러 LNG 인프라 시설이 피해를 입음<br>• 카타르에너지는 긴급대응팀을 즉시 배치하였으며 인명피해는 보고되지 않았으나 경제적 피해는 상당<br>• 호르무즈 해협 폐쇄에 따른 LNG 생산 중단 및 불가항력 선언으로 글로벌 에너지 시장에 영향<br>• 카타르 외교부는 이를 "주권 침해 및 국가 안보에 대한 직접적 위협"으로 규정하고 이란 대사관 인원을 비인도적 선언</p><h3>Key Quotes</h3><p>• "Emergency response teams were deployed immediately to contain the resulting fires, as extensive damage has been caused. All personnel have been accounted for and no casualties have been reported at this time" (긴급대응팀이 즉시 배치되어 화재를 진압하려 했으며, 광범위한 손상이 발생했으나 인원의 안전은 확보되고 인명피해는 없었다)</p><p>• "a dangerous escalation, a flagrant violation of its sovereignty, and a direct threat to its national security" (카타르 외교부의 성명으로, 이를 위험한 escalation과 주권 침해, 국가 안보에 대한 직접적 위협으로 평가)</p><h3>Technical Insights</h3><p>• 미사일 공격으로 인한 LNG 시설 피해는 호르무즈 해협 폐쇄와 겹쳐 글로벌 LNG 공급망에 심각한 영향을 초래하며, 아시아-유럽 간 LNG 경쟁 심화 예상<br>• 카타르에너지의 불가항력(Force Majeure) 선언은 계약상 LNG 공급 의무를 일시 중단시키며, 장기 LNG 가격 급등(배럴당 $100 이상 가능성) 우려<br>• 해상 에너지 인프라의 군사적 위협에 따른 보안 강화 필요성 및 IMO와 국제해사기구의 에너지 해상 운송로 보호에 대한 규정 재검토 필요</p></div>`,
+      tags: ["LNG","missile attack","Qatar","Ras Laffan","infrastructure damage","force majeure"],
+      link: "https://www.offshore-energy.biz/missile-strikes-leave-fires-and-extensive-damage-in-its-wake-at-qatarenergys-lng-assets/",
+      coords: [51.5,25.2],
+      location: "Ras Laffan Industrial City, Qatar"
+    },
+    {
+      type: "news",
+      title: "MSC Formalizes Joint Control of Tanker Giant Sinokor After Massive VLCC Buying Spree",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-03-19",
+      image: "https://gcaptain.com/wp-content/uploads/2023/03/shutterstock_1779485036-800x600.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **MSC와 Sinokor의 공식적 지배구조 변경**: 3월 11일 키프로스에 제출된 경쟁 심사 서류에서 MSC가 룩셈부르크 자회사 SAS Shipping Agencies Services를 통해 한국 선사 Sinokor Maritime의 공동 지배권을 확보하기로 결정했음이 공식화됨</p><p>• **대규모 VLCC 확보 및 시장 지배력**: Sinokor는 2026년 초 극도로 공격적인 중고선박 구매 및 용선을 통해 초대형유조선(VLCC) 100~120척을 확보하여 현물 시장의 약 3분의 1을 장악한 것으로 추정됨</p><p>• **유조선 운임 급등의 배경**: 이 같은 구매 공세는 유조선 운임 급등(VLCC 현물 운임이 연초 일일 $100,000을 초과)과 동시에 진행되었으며, 선주들이 공급 부족에 대응하기 위해 용선을 급히 확보한 상황임을 반영</p><p>• **MSC의 다각화 전략 심화**: 세계 최대 컨테이너선사 MSC가 전통적 정기선 사업에서 벗어나 터미널, 로지스틱스, 크루즈, 그리고 원유유조선 시장으로의 대규모 진출을 추진 중</p><p>• **불명확했던 관계의 공식화**: 기존에는 창립자 Gianluigi Aponte 관련 회사가 Sinokor 선박 취득에 자금을 지원한다는 업계 추측이 있었으나, 이번 키프로스 서류 제출로 공식적인 파트너십이 형성되었음</p><p>• **거래 조건 미공개**: 재무 조건 및 구체적 거래 내용은 공개되지 않았으며, MSC와 Sinokor 모두 정식 성명을 발표하지 않은 상태</p><h3>Key Quotes</h3><p>• "Sinokor has stunned tanker markets in early 2026 after rapidly building a massive position in very large crude carriers (VLCCs). Industry estimates suggest the company now controls on the order of 100 to 120 supertankers—potentially up to a third of the available spot fleet" <br>(Sinokor는 2026년 초 초대형유조선에서 대규모 포지션을 빠르게 구축하여 유조선 시장을 놀라게 했으며, 업계 추정에 따르면 약 100~120척의 초대형유조선을 보유하여 현물 시장의 최대 3분의 1을 지배하고 있음)</p><p>• "That buying spree has coincided with a sharp surge in tanker earnings, with VLCC spot rates jumping above $100,000 per day earlier this year as charterers rushed to secure tonnage amid tightening availability"<br>(이러한 구매 공세는 유조선 운임의 급등과 동시에 진행되었으며, VLCC 현물 운임이 올해 초 일일 $100,000을 초과하며 급증함에 따라 용선자들이 공급 부족 속에서 선복을 급히 확보하려 함)</p><h3>Technical Insights</h3><p>• **해운 시장 집중도 심화**: MSC-Sinokor 제휴를 통해 단일 엔티티가 VLCC 현물 시장의 3분의 1 이상을 장악하게 되어 시장 집중도가 극도로 높아지고 있으며, 이는 해운 업계 규제 및 독점 정책에 대한 감시 강화를 야기할 가능성이 높음</p><p>• **컨테이너선사의 유조선 시장 진출**: 기존에 정기선(liner) 사업에 집중하던 MSC가 벌크선 및 유조선 시장으로 적극 진출하는 추세는 해운 산업의 경계 붕괴와 대형 선사들의 다각화 전략이 심화되고 있음을 의미</p><p>• **용선 시장의 구조적 변화**: 대형 선사가 자체 선복 장악 및 용</p></div>`,
+      tags: ["MSC","Sinokor Maritime","VLCC","Tanker Market","Joint Control","Shipping Business"],
+      link: "https://gcaptain.com/msc-formalizes-tie-up-with-tanker-giant-sinokor-after-massive-vlcc-buying-spree/",
+      coords: [24.9383,60.1695],
+      location: "Cyprus (Filing Location) / South Korea (Sinokor HQ)"
+    }
+  ]
+});
+
+// Auto-collected: 2026-03-16
+addEvents({
+  "2026-03-16": [
+    {
+      type: "news",
+      title: "US Navy Establishes 5 New Program Acquisition Executives for Maritime and Autonomous Systems",
+      source: "USNI News",
+      sourceMeta: "usni.org · 2026-03-16",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미 해군은 전함 및 장비 구매 및 유지 체계 개혁의 일환으로 5개의 새로운 프로그램 획득 임원(PAE) 직책 신설 발표<br>• 존 펠란 해군장관 주도로 로봇 및 자율시스템 PAE를 12월에 처음 설립한 후 4개 추가 직책 신설<br>• 크리스 밀러(해군해상시스템사령부 행정이사)가 PAE 해양담당 리더로, 로버트 가우처 중장이 PAE 해저전력 리더로 임명<br>• 짐 다우니 중장이 PAE 산업운영 담당 리더로 지정되어 해군의 획득 구조 현대화 추진<br>• 자율시스템과 해양기술 중심의 획득 체계 개편으로 미래 전력 구축 가속화 목표</p><h3>Key Quotes</h3><p>• "Navy established five new program acquisition executives as the service continues to reform how it buys and sustains platforms and equipment" <br>(해군이 함정과 장비 구매 및 유지 방식을 개혁하면서 5개의 새로운 프로그램 획득 임원을 신설했다)</p><p>• "PAE robotic and autonomous systems" first standing up in December<br>(12월에 로봇 및 자율시스템 획득임원실이 처음 신설되었다)</p><h3>Technical Insights</h3><p>• 해군의 자율시스템 획득 체계 분리 신설은 무인선박(USV), 수중무인체(UUV) 등 차세대 해양 자동화 기술 도입 가속화 신호<br>• 해양과 해저전력 획득 임원 분리로 민간 자율해운과 국방 자율시스템 기술 동향의 상호 영향 증대 가능성<br>• IMO 자율선박 규정 논의와 미해군의 자율화 전략이 병행되는 시기로, 국제 해양기술 표준화에 미국 영향력 강화 예상<br>• 산업운영 PAE 신설은 선박/장비 공급망과 자동화 기술 통합을 통한 획득 효율성 제고 목표, 민간 해운업계 자동화 투자에도 참고 사례 제공</p></div>`,
+      tags: ["Navy Acquisition","Autonomous Systems","Maritime Technology","Defense Reform"],
+      link: "https://news.usni.org/2026/03/16/secnav-phelan-stands-up-5-new-offices-for-navy-marine-acquisition",
+      coords: [38.8816,-77.0369],
+      location: "Washington, D.C."
+    }
+  ]
+});
