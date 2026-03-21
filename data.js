@@ -2397,3 +2397,64 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-03-20
+addEvents({
+  "2026-03-20": [
+    {
+      type: "accident",
+      title: "Fire-Damaged LNG Tanker Arctic Metagaz Drifting Toward Libya, Posing Environmental Risk",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-03-20",
+      image: "https://gcaptain.com/wp-content/uploads/2026/03/2026-03-13T101857Z_188682229_RC2M3KA8J6V7_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-LNG-TANKER.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **피해 선박**: 러시아 LNG 운반선 Arctic Metagaz가 3월 초 우크라이나 해상드론 공격으로 손상되어 2주 이상 지중해에서 무인 표류 중<br>• **현재 상황 및 위험**: 리비아 해안으로부터 53해리 떨어진 국제해역에서 남쪽으로 표류하고 있으며, 4-6일 내 리비아 해안 도달 예상<br>• **환경적 위협**: 선박에 450톤의 중유와 250톤의 디젤유, 불명확한 양의 LNG 적재 중이며, EU 10개국이 "대규모 생태재앙의 심각한 위험"으로 경고<br>• **선박 상태**: 선체에 큰 균열 발생했으나 즉시 침몰 위험은 낮음, 그러나 좌초 또는 해상 석유시설 충돌 가능성 우려<br>• **대응 체계**: 리비아의 수색구조구역 내 위치하여 리비아의 책임이지만, 이탈리아 해안경비대와 해군이 모니터링 중이며 지원 준비 상태<br>• **외교적 문제**: 현재까지 리비아 당국과의 직접 접촉 없음, 우크라이나는 공격 책임 부인</p><h3>Key Quotes</h3><p>• "An imminent and serious risk of a major ecological disaster" (대규모 생태재앙의 임박한 심각한 위험)<br>  <br>• "It could take four, five or six days, more or less, for the vessel to reach Libyan land" (선박이 리비아 육지에 도달하기까지 대략 4-6일 소요될 것)</p><p>• "While it has a large gash on its side it does not appear to be at imminent risk of sinking" (측면에 큰 균열이 있지만 즉시 침몰 위험은 낮아 보임)</p><h3>Technical Insights</h3><p>• **해상 안전 규정 적용의 공백**: 국제해역에서 발생한 선박 사고로 리비아와 이탈리아 간의 책임 범위 불명확, IMO 국제해상법상 기국(러시아) 책임 원칙과 현실의 괴리</p><p>• **LNG 운반선의 구조적 취약성**: 우크라이나 드론의 선체 공격에 대한 방어력 부족, 러시아 "그림자 함대"의 보안 문제 노출로 해양 보안의 심각한 문제 제기</p><p>• **환경재해 대응 체계의 한계**: 무인 표류 선박에 대한 즉각적인 제거 또는 피난 기술 부족, EU 국가들의 경고에도 불구하고 적극적 개입 수단 제한</p><p>• **지중해 해상교통 안전 위협**: LNG 운반선의 표류가 해상 석유시설 및 주변 해역 기반시설에 미칠 수 있는 연쇄적 재해 위험, 해양 보험 및 책임 문제의 복잡성</p></div>`,
+      tags: ["LNG tanker","fire damage","Mediterranean","environmental hazard","unmanned vessel"],
+      link: "https://gcaptain.com/fire-damaged-lng-tanker-arctic-metagaz-could-reach-libyan-coast-within-days-officials-warn/",
+      coords: [13.1913,32.8872],
+      location: "Mediterranean Sea, off Libya"
+    },
+    {
+      type: "accident",
+      title: "Damaged Russian LNG Tanker Arctic Metagaz Drifts Towards Libya, Ecological Disaster Risk",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-03-20",
+      image: "https://images.marinelink.com/images/maritime/w800/tomkorcak-stockadobecom-169081.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **피해선박 및 사건**: 러시아 LNG 탱커 '아크틱 메타가즈'호가 2026년 3월 초 우크라이나 해상 드론의 공격으로 손상되어 2주 이상 무인 표류 중<br>• **현재 상황 및 위험**: 지중해 국제해역에서 리비아 트리폴리 북동쪽 약 53해리 떨어진 지점에서 남향 바람과 해류에 의해 리비아 연안으로 4~6일 거리에 위치<br>• **오염 물질**: 중유 450톤, 디젤유 250톤, 불확실한 양의 LNG 적재로 대규모 생태재해 위험 초래<br>• **EU 국가들의 대응**: 이탈리아, 프랑스, 스페인 등 남부 EU 국가 10개국이 유럽위원회에 "임박한 심각한 생태재해 위험" 경고<br>• **해상 피난 구역**: 선박이 리비아의 해상구조 관할 해역(SAR zone)에 위치하여 리비아가 1차 대응 책임을 갖지만, 직접 접촉 없는 상황<br>• **관련 기관**: 이탈리아 해안경비대 및 해군이 모니터링 중이며, 필요 시 지원 준비 상태</p><h3>Key Quotes</h3><p>• "The Arctic Metagaz, carrying LNG from the Arctic port of Murmansk, has been unmanned since early March, when it was hit by Ukrainian naval drones, according to Russia's Transport Ministry." (무르만스크 북극항에서 출발한 LNG 탱커가 3월 초 우크라이나 해상드론의 공격을 받아 무인 상태로 표류 중)</p><p>• "Italy, France, Spain and six other southern EU members wrote last week to the European Commission warning that the Arctic Metagaz poses 'an imminent and serious risk of a major ecological disaster.'" (남부 EU 10개국이 유럽위원회에 이 선박이 임박한 심각한 생태재해 위험을 초래한다고 경고)</p><p>• "While it has a 'large gash on its side' it does not appear to be at imminent risk of sinking, but the concern is that it may run aground or crash into an offshore oil platform" (선체 측면의 대형 손상에도 불구하고 침몰 위험은 낮으나, 좌초 또는 해양유전시설 충돌의 위험 존재)</p><h3>Technical Insights</h3><p>• **해상사고 대응 관할권**: 국제해역의 선박 표류 사건이라도 SAR(Search and Rescue) 구역에 따라 리비아의 1차 책임이 발생하며, EU 인접국들의 협력적 대응이 필요한 복잡한 국제법적 상황 초래</p><p>• **LNG 선박의 위험성**: LNG 부분 기화(regasification)로 인한 불확실한 화물 상태, 중유 및 디젤유의 누출 위험 등 복합적 해양오염 위협 증대 - 자동항행 시스템 부재 시 사고 대응의 어려움</p><p>• **무인 표류의 기술적 문제**: 선박의 통신 및 위치추적 시스템 단절로 실시간 상황파악 곤란, 자율항행/원격제어 기술의 필요성 대두</p><p>• **해상 충돌 방지(COLREG)**: 표류하는 대형 LNG 탱커에 대한 조기 경보 체계 미흡, IMO의 위기선박 추적 및 자동 대응 규정 강화 필요</p></div>`,
+      tags: ["LNG tanker","Mediterranean","ecological disaster","Ukraine-Russia conflict","maritime accident"],
+      link: "https://www.marinelink.com/news/damaged-russian-tanker-drifts-towards-537135",
+      coords: [13.1913,32.8872],
+      location: "Mediterranean Sea, near Libya (Tripoli)"
+    },
+    {
+      type: "news",
+      title: "SBM Offshore Advances FPSO Technology Through Standardization, Robotics, and AI Solutions",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-03-20",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/03/Fast4Ward-SBM-Offshore.jpg?image-crop-positioner-ts=1773765098",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• SBM Offshore는 Fast4Ward 프로그램을 통해 일회성 맞춤형 FPSO 설계에서 표준화되고 모듈화된 데이터 중심 운영 모델로 전환했습니다.</p><p>• 로봇공학, AI 예측 유지보수, 디지털 트윈, 그리고 탄소 포집 기술을 적극 도입하여 미래 에너지 환경에 대응하고 있습니다.</p><p>• 데이터 단편화, 조직 문화 변화, 배출 감소라는 세 가지 주요 과제를 디지털 통합, 교육, 전략적 파트너십(SLB, Cognite, 미쓰비시 중공업)으로 해결 중입니다.</p><p>• COO Alex Glenn은 표준화된 선체와 상부 구조 모듈을 통해 납기 시간 단축과 원가 예측 가능성을 향상시켰다고 설명했습니다.</p><p>• 안전성, 지속 가능성, 효율성이 주요 추진 동력이며, 글로벌 실행 센터 확대와 디지털 플랫폼 활용이 핵심 성장 전략입니다.</p><h3>Key Quotes</h3><p>• "We have moved from one-off, bespoke FPSOs to a standardized, modular, and data-powered operating model" (일회성 맞춤형 FPSO에서 표준화된 모듈식 데이터 기반 운영 모델로 전환했습니다)</p><p>• "Robotics, AI-enabled solutions, electrification, and carbon-capture technologies would remain in use to position the firm for future growth" (로봇공학, AI 솔루션, 전기화, 탄소 포집 기술이 향후 성장을 위한 핵심 기술입니다)</p><h3>Technical Insights</h3><p>• **AI 기반 예측 유지보수 및 디지털 트윈 기술**: SBM Offshore는 Cognite 및 SLB와의 파트너십을 통해 FPSO 운영의 실시간 모니터링과 장애 예측 능력을 강화하고 있으며, 이는 운영 비용 절감과 가용성 향상으로 이어집니다.</p><p>• **표준화와 모듈화의 산업적 파급효과**: 사전 설계된 선체와 상부 구조 모듈은 건조 기간 단축과 예측 가능한 원가 관리를 실현하며, 이는 해양 산업 전반의 효율성 개선 모델로 작용할 것으로 예상됩니다.</p><p>• **탄소 저감 및 지속 가능성 이행**: 전기화 기술과 탄소 포집 솔루션의 도입은 IMO 규제 강화에 대응하는 동시에 에너지 전환기의 부유식 생산 설비의 경쟁력을 확보하는 전략입니다.</p><p>• **데이터 거버넌스와 디지털 통합의 과제**: 기존 사일로화된 데이터 환경 극복과 조직 문화 변화는 대규모 오프쇼어 운영 기업의 디지털 혁신 단계에서 가장 높은 리스크 요소이며, 이를 성공적으로 관리하는 것이 향후 경쟁력의 핵심입니다.</p></div>`,
+      tags: ["FPSO","AI","Robotics","Standardization","Digital Transformation","Offshore Operations"],
+      link: "https://www.offshore-energy.biz/sbm-offshore-interview-advancing-future-ready-fpsos-through-standarization-robotics-ai-and-lower-carbon-solutions/",
+      coords: [4.8952,52.3676],
+      location: "Netherlands (SBM Offshore HQ)"
+    }
+  ]
+});
+
+// Auto-collected: 2026-03-16
+addEvents({
+  "2026-03-16": [
+    {
+      type: "news",
+      title: "Navy Establishes 5 New Program Acquisition Executives for Platform and Equipment Procurement",
+      source: "USNI News",
+      sourceMeta: "usni.org · 2026-03-16",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 미 해군이 5개의 새로운 프로그램 획득 담당자(PAE) 직책을 신설하여 함정 및 장비 구매 및 유지 체계를 개혁<br>• 2025년 12월 로봇 및 자율 시스템 부문 첫 PAE 사무실 설립 이후, John Phelan 해군장관이 추가 4개 PAE 신설 발표<br>• Chris Miller 해군해양시스템사령부 집행이사가 해양 부문(PAE Maritime) 담당, Robert Gaucher 중장이 수중 부문(PAE Undersea) 겸임<br>• Jim Downey 중장이 산업운영 부문 지휘, 자율화 및 무인 시스템 기술에 대한 해군의 전략적 우선순위 반영<br>• 방위산업 구조 개편으로 로봇 및 자율 선박 기술의 개발·도입 가속화 예상</p><h3>Key Quotes</h3><br>• "Navy established five new program acquisition executives as the service continues to reform how it buys and sustains platforms and equipment" (해군이 함정과 장비 구매 및 유지 방식을 계속 개혁하면서 5개의 새로운 프로그램 획득 담당자 직책 신설)</p><h3>Technical Insights</h3><br>• 미 해군의 조직 개편은 자율 시스템, 로봇 기술, 무인 수중 플랫폼 등 첨단 기술 도입 가속화를 목표로 함<br>• PAE Robotic and Autonomous Systems 신설은 COLREG 준수형 자율 선박 기술 개발 및 검증 체계 강화를 의미<br>• 국방 조달 체계의 효율화를 통해 자율화 기술 상용화 속도 향상 및 산업 표준화 추진 가능성 증대<br>• 해양 방위산업의 구조 개편이 민간 해운 자동화 기술 개발에도 긍정적 파급 효과 제공 가능</p></div>`,
+      tags: ["Navy Acquisition","Autonomous Systems","Robotic Systems","Defense Procurement","Maritime Acquisition"],
+      link: "https://news.usni.org/2026/03/16/secnav-phelan-stands-up-5-new-offices-for-navy-marine-acquisition",
+      coords: [38.8951,-77.0369],
+      location: "Washington, D.C."
+    }
+  ]
+});
