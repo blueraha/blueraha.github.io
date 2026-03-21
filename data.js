@@ -2458,3 +2458,64 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-03-20
+addEvents({
+  "2026-03-20": [
+    {
+      type: "accident",
+      title: "Fire-Damaged LNG Tanker Arctic Metagaz Drifting Toward Libya, Ecological Disaster Risk",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-03-20",
+      image: "https://gcaptain.com/wp-content/uploads/2026/03/2026-03-13T101857Z_188682229_RC2M3KA8J6V7_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-LNG-TANKER.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **Arctic Metagaz LNG 탱커 표류 사건**: 러시아 Arctic Metagaz호가 3월 초 우크라이나 해군 드론 공격으로 손상된 후 2주 이상 지중해에서 무인 표류 중</p><p>• **즉각적 환경 위험**: 이탈리아 민방위청에 따르면 현재 리비아 수색구조 해역(트리폴리 북쪽 53해리)에 위치하며 4-6일 내 리비아 해안에 도달할 위험</p><p>• **적재 물질 및 오염 우려**: 선박에 450톤의 중유, 250톤의 디젤유, 그리고 불확실한 양의 LNG를 적재 중이며, 측면에 큰 균열 발생</p><p>• **국제 대응**: 이탈리아, 프랑스, 스페인 등 EU 남부 10개국이 유럽연합에 "중대한 생태 재앙" 경고, 리비아 해역의 책임 당국이지만 이탈리아가 지원 준비 중</p><p>• **현재 상황**: 침몰 임박 위험은 낮으나, 좌초 또는 해상유전 플랫폼 충돌 가능성 우려, 리비아 당국과의 직접 접촉 미진행</p><h3>Key Quotes</h3><p>• "The vessel is currently in international waters falling under Libya's search and rescue zone, some 53 nautical miles north of the capital Tripoli" (선박은 현재 트리폴리 북쪽 53해리 떨어진 리비아의 수색구조 해역에 위치)</p><p>• "An imminent and serious risk of a major ecological disaster" (임박한 대규모 생태 재앙의 심각한 위험)</p><p>• "While it has a large gash on its side it does not appear to be at imminent risk of sinking, but the concern is that it may run aground or crash into an offshore oil platform" (측면의 큰 균열에도 불구하고 침몰 위험은 즉시적이지 않지만, 좌초 또는 해상 플랫폼 충돌 우려)</p><h3>Technical Insights</h3><p>• **해양 오염 방지 협약 적용**: 450톤 중유, 250톤 디젤유의 광범위한 해양 유출 시 MARPOL 협약 위반으로 심각한 환경 피해 초래 예상, 지중해 해역 보호 필요</p><p>• **무인 표류선박 대응 문제**: 리비아 수색구조 해역 관할권으로 인한 국제법상 책임 불명확으로 신속한 개입 어려움, IMO 가이드라인 개선 필요</p><p>• **선박 추적 및 통제 체계**: 드론 공격으로 인한 통신 두절 및 동력 상실 후 실시간 위치 추적 및 원격 조종 기술의 필요성 부각, 자율운항선박(MASS) 안전 제어 시스템의 중요성</p><p>• **지정학적 영향**: 러시아-우크라이나 분쟁이 민간 해운에 미치는 영향으로 해역 안전성 악화, 선박 배치 전략 재검토 필요</p></div>`,
+      tags: ["LNG Tanker","Fire Damage","Mediterranean Sea","Ecological Disaster","Unmanned Vessel"],
+      link: "https://gcaptain.com/fire-damaged-lng-tanker-arctic-metagaz-could-reach-libyan-coast-within-days-officials-warn/",
+      coords: [13.1913,32.8872],
+      location: "Mediterranean Sea (between Malta and Libya)"
+    },
+    {
+      type: "accident",
+      title: "Damaged Russian LNG Tanker Arctic Metagaz Drifting Toward Libya, Poses Ecological Threat",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-03-20",
+      image: "https://images.marinelink.com/images/maritime/w800/tomkorcak-stockadobecom-169081.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **피해 선박**: 러시아 LNG 탱커 Arctic Metagaz가 3월 초 우크라이나 해양 드론 공격으로 손상된 후 2주 이상 무인 상태로 지중해에서 표류 중</p><p>• **현재 위치 및 위험성**: 리비아 수색구조 구역 내 트리폴리 북쪽 53해리 지점에 위치하며, 현재 해상 풍향과 해류 조건에 따라 4~6일 내 리비아 해안에 도달할 것으로 예상</p><p>• **적재 화물**: 중유 450톤, 디젤유 250톤 및 미확정 규모의 LNG 운반 중이며, LNG의 일부는 기화되어 분산되었을 가능성</p><p>• **생태계 위협**: EU 남부 국가 10개국이 유럽위원회에 "대규모 생태 재난의 임박한 심각한 위험"을 경고하는 공식 서한 발송</p><p>• **선체 손상**: 선박의 측면에 대형 균열이 있으나 즉시 침몰 위험은 낮으나, 좌초 또는 해상 석유 시설 충돌 위험 존재</p><p>• **대응 체계**: 현재 리비아의 수색구조 관할권이므로 리비아 당국의 개입이 필요하며, 이탈리아는 요청 시 해안경비대와 해군 지원 준비 중</p><h3>Key Quotes</h3><p>• "The Arctic Metagaz poses 'an imminent and serious risk of a major ecological disaster.'" (Arctic Metagaz는 "대규모 생태 재난의 임박한 심각한 위험"을 야기한다 - EU 남부 10개 회원국의 경고)</p><p>• "Four, five or six days, more or less" for the vessel to reach Libyan land (현재 해상 조건 유지 시 리비아 해안까지 약 4~6일 소요 예상)</p><p>• "While it has a 'large gash on its side' it does not appear to be at imminent risk of sinking" (측면의 큰 균열에도 불구하고 즉각적인 침몰 위험은 낮은 상태)</p><h3>Technical Insights</h3><p>• **해양 재난 대응 체계**: 국제해역 내 선박의 수색구조 구역 관할권이 명확히 정의되어 있으나, 실제 대응은 해당 국가(리비아)의 역량과 의지에 의존하는 구조적 한계 노출</p><p>• **무인 표류 선박 감시 기술**: GPS 추적, 해상 기상 데이터, 해류 예측 모델을 활용한 충돌 위험 예측 체계가 작동하고 있으나, 실제 개입 권한과 기술적 대응 능력의 국제적 조화 필요</p><p>• **LNG 운송의 전쟁 리스크**: 무장 충돌 지역에서의 LNG 운송 안전성 문제 대두. 기존 IMO 규정은 군사 공격 시나리오를 충분히 다루지 못하며, 신규 해상 보안 프로토콜 수립 시급</p><p>• **환경 오염 예방 규제**: 선박의 중유 및 디젤유 유출로 인한 해양 오염 위험으로 인해 EU는 해상 연료유 규제 강화(IMO 2030/2050 탄소중립) 및 대체 추진 연료 도입 가속화 논의 가속화 예상</p></div>`,
+      tags: ["LNG tanker","Mediterranean","environmental disaster","Ukrainian drone attack","unmanned vessel"],
+      link: "https://www.marinelink.com/news/damaged-russian-tanker-drifts-towards-537135",
+      coords: [13.1913,32.8872],
+      location: "Mediterranean Sea, north of Tripoli, Libya"
+    },
+    {
+      type: "news",
+      title: "SBM Offshore Advancing Future-Ready FPSOs Through Standardization, Robotics, and AI",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-03-20",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/03/Fast4Ward-SBM-Offshore.jpg?image-crop-positioner-ts=1773765098",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• SBM Offshore는 Fast4Ward 프로그램을 통해 맞춤형 FPSO 설계에서 표준화된 모듈형 데이터 기반 운영 모델로 전환하여 납기 단축 및 비용 예측성 향상을 달성</p><p>• 최고운영책임자(COO) Alex Glenn은 로봇공학, AI 기반 솔루션, 전기화, 탄소 포집 기술이 미래 성장을 위한 핵심 기술이라고 강조</p><p>• 데이터 분산화, 조직 문화 적응, 배출 감소 등의 과제를 디지털 통합, 직원 교육, SLB 및 Cognite와의 전략적 파트너십을 통해 해결</p><p>• AI 기반 예측 유지보수, 디지털 트윈, 심해 전문화를 통해 산업화된 실행 능력 강화</p><p>• Cognite, SLB, 미쓰비시 중공업 등 글로벌 파트너와의 협력으로 혁신 가속화 추진</p><h3>Key Quotes</h3><p>• "Over the last ten years we have moved from one-off, bespoke FPSOs to a standardized, modular, and data-powered operating model." (지난 10년간 맞춤형 FPSO에서 표준화되고 모듈화된 데이터 기반 운영 모델로 전환)</p><p>• "The launch of our Fast4Ward execution approach created a consistent reference—standardized hulls and topside modules—to continuously improve throughout the asset lifecycle" (Fast4Ward 실행 방식의 출범으로 자산 전체 생명주기에 걸쳐 지속적 개선을 위한 일관된 기준 마련)</p><h3>Technical Insights</h3><p>• **표준화 및 모듈화의 해운 산업 파급력**: FPSO 설계의 표준화와 모듈화는 조선 및 해양 플랫폼 업계에서 비용 효율성, 납기 단축, 품질 일관성을 동시에 달성하는 핵심 전략으로 부상</p><p>• **AI/디지털 트윈 기반 예측 유지보수**: 해양 플랫폼의 예측 유지보수는 운영 중단 시간 감소, 안전성 강화, 생애주기 비용 절감을 통해 해양산업의 경제성 혁신 추진</p><p>• **데이터 거버넌스의 디지털 변환 필수성**: 데이터 분산화 해결과 통합된 데이터 플랫폼 구축은 해양산업의 자동화, 자율운항, AI 기반 의사결정의 선행 조건으로 작용</p><p>• **다중 기술 통합의 탄소 중립 경로**: 전기화, 탄소 포집, 재생에너지 통합은 글로벌 IMO 2030/2050 규제 대응 및 해양산업의 그린 전환을 가속화하는 핵심 요소</p></div>`,
+      tags: ["FPSO","AI","Robotics","Standardization","Digital Transformation"],
+      link: "https://www.offshore-energy.biz/sbm-offshore-interview-advancing-future-ready-fpsos-through-standarization-robotics-ai-and-lower-carbon-solutions/",
+      coords: [4.8952,52.3676],
+      location: "Netherlands"
+    }
+  ]
+});
+
+// Auto-collected: 2026-03-16
+addEvents({
+  "2026-03-16": [
+    {
+      type: "news",
+      title: "US Navy Establishes 5 New Program Acquisition Executives Including Autonomous Systems Office",
+      source: "USNI News",
+      sourceMeta: "usni.org · 2026-03-16",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 미 해군이 함정 및 장비 구매·유지 방식 개혁의 일환으로 5개의 신규 프로그램 인수 담당자(PAE) 직책 신설<br>• Navy Secretary John Phelan이 주도한 조직 개편으로 2025년 12월 이후 자율 로봇 시스템 담당 PAE 포함<br>• Chris Miller(해군 해상시스템사령부 집행이사)가 PAE 해양 부문 리더십, Vice Adm. Robert Gaucher가 수중 시스템 담당<br>• 자율 시스템(robotic and autonomous systems) 전담 조직 신설로 미래 해군 무기체계 자동화 가속화<br>• 국방 조달 효율성 및 신기술 도입 체계화를 위한 구조적 개선</p><h3>Key Quotes</h3><br>• "Navy established five new program acquisition executives as the service continues to reform how it buys and sustains platforms and equipment" (해군이 함정과 장비 구매 및 유지 방식을 개선하기 위해 5개의 신규 프로그램 인수 담당자를 신설)<br>• "PAE robotic and autonomous systems" office standing up in December (12월에 신설된 자율 로봇 시스템 전담 조직)</p><h3>Technical Insights</h3><br>• 자율항해 및 무인 해상 플랫폼 기술의 전담 조직화로 해군의 자율시스템 개발 속도 가속 전망<br>• 해사산업의 자율화 추세(COLREG 준수 자율항해 기술)와 국방 조달 체계의 동기화로 민간-군사 기술 이전 가능성 증대<br>• PAE 구조 개편을 통한 획기적 조달 개혁으로 신기술(AI, 로봇, 자율시스템) 도입의 제도적 기반 마련</p></div>`,
+      tags: ["Navy Acquisition","Autonomous Systems","PAE Reform","Defense Procurement"],
+      link: "https://news.usni.org/2026/03/16/secnav-phelan-stands-up-5-new-offices-for-navy-marine-acquisition",
+      coords: [38.8951,-77.0369],
+      location: "Washington, D.C."
+    }
+  ]
+});
