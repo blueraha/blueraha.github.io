@@ -2519,3 +2519,75 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-03-20
+addEvents({
+  "2026-03-20": [
+    {
+      type: "accident",
+      title: "Fire-Damaged LNG Tanker Arctic Metagaz Drifting Toward Libya, Poses Environmental Risk",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-03-20",
+      image: "https://gcaptain.com/wp-content/uploads/2026/03/2026-03-13T101857Z_188682229_RC2M3KA8J6V7_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-LNG-TANKER.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Russian LNG 운반선 Arctic Metagaz가 3월 초 우크라이나 해상 드론 공격으로 손상된 후 지중해에서 2주 이상 무인 상태로 표류 중<br>• 현재 리비아 수색구조 구역 내 국제해역에 위치하며, 남풍과 해류에 따라 4~6일 내 리비아 해안에 도달할 가능성<br>• 선박에는 중유 450톤, 디젤유 250톤, 그리고 불확실한 양의 LNG가 탑재되어 있으며, 대형 측면 손상 보유<br>• 이탈리아, 프랑스, 스페인 등 남부 EU 국가들이 EU 집행위원회에 주요 생태 재난 위험 경고<br>• 리비아 당국의 개입이 필수이나 현재까지 직접 접촉 없음; 이탈리아는 필요 시 지원 의사 표명<br>• 침몰 직접 위험은 낮으나 좌초 또는 해상 석유 플랫폼 충돌 위험 존재</p><h3>Key Quotes</h3><br>• "Four, five or six days, more or less, for the vessel to reach Libyan land" (지중해 해류와 바람 조건에 따라 선박이 리비아 해안에 도달하는 데 4~6일 소요 예상)</p><p>• "Poses an imminent and serious risk of a major ecological disaster" (대규모 생태 재난의 임박한 심각한 위험 초래)</p><p>• "Large gash on its side" but "does not appear to be at imminent risk of sinking" (측면에 대형 손상이 있으나 즉시 침몰 위험은 낮음)</p><h3>Technical Insights</h3><br>• 무인 표류 선박의 해상 교통 안전: 통제 불가능한 LNG 운반선이 해상 석유시설이나 연안 인프라에 충돌할 경우 해양 오염 및 에너지 공급망 차질 가능성<br>• LNG 및 벙커유의 복합 적재 위험: 부분 재기화된 LNG와 중유 450톤 동시 탑재로 인한 복합 환경 오염 시나리오 발생 가능성<br>• 국제해역 내 해양사고 대응 체계: 리비아 수색구조 구역 관할권이지만 리비아 당국과의 소통 부재로 인한 국제 협력 체계 문제 노출<br>• 러시아 쉐도우 플릿 운영과 안전 기준: 우크라이나 전쟁 관련 제재 회피 선박의 안전 유지 체계 미흡으로 인한 중대 해양사고 발생 위험 증대</p></div>`,
+      tags: ["LNG tanker","fire damage","Mediterranean Sea","environmental hazard","unmanned vessel"],
+      link: "https://gcaptain.com/fire-damaged-lng-tanker-arctic-metagaz-could-reach-libyan-coast-within-days-officials-warn/",
+      coords: [13.19,32.89],
+      location: "Mediterranean Sea (north of Tripoli, Libya)"
+    },
+    {
+      type: "accident",
+      title: "Damaged Russian LNG Tanker Arctic Metagaz Drifts Toward Libya After Ukrainian Drone Attack",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-03-20",
+      image: "https://images.marinelink.com/images/maritime/w800/tomkorcak-stockadobecom-169081.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **Arctic Metagaz 러시아 LNG 탱커가 2주 이상 무인 상태로 지중해를 표류 중이며, 리비아 해안까지 4-6일 남은 상황**</p><p>• **우크라이나 해군 드론 공격으로 3월 초 피해 입음 - 선체 측면에 대규모 손상(large gash) 발생**</p><p>• **선박은 450톤의 중유와 250톤의 디젤유, 그리고 일부 기화된 액화천연가스(LNG)를 적재 중으로 생각되며, 해양 생태계 재앙의 위험성 상존**</p><p>• **이탈리아, 프랑스, 스페인 등 EU 남부 국가들이 유럽위원회에 "즉각적이고 심각한 생태 재앙 위험"을 경고하는 공식 서한 제출**</p><p>• **선박이 국제해역 및 리비아 수색구조구역에 위치하므로, 리비아의 개입 책임이 있으나 현재까지 리비아 당국과의 직접 접촉 없음**</p><p>• **대형 접지(grounding) 또는 해상 석유 시설과의 충돌 우려 - 침몰 위험은 즉각적이지 않으나 환경 오염 가능성 높음**</p><h3>Key Quotes</h3><p>• "The vessel is estimated to be carrying 450 metric tons of heavy oil and 250 tons of diesel as fuel supplies, and an 'uncertain' quantity of LNG" <br>(선박은 450톤의 중유, 250톤의 디젤유, 그리고 불확실한 양의 액화천연가스를 적재하고 있음)</p><p>• "imminent and serious risk of a major ecological disaster"<br>(임박한 대규모 생태 재앙의 심각한 위험)</p><p>• "While it has a 'large gash on its side' it does not appear to be at imminent risk of sinking"<br>(선체 측면에 대규모 손상이 있음에도 불구하고 즉각적인 침몰 위험은 없어 보임)</p><h3>Technical Insights</h3><p>• **무인 표류 선박의 해상교통 관리(VTS) 및 긴급 대응 체계의 한계 노출 - 국제해역에서의 소유권/책임 문제 재조명**</p><p>• **LNG 탱커의 부분 기화 현상(partial regasification)이 오염 범위 예측을 어렵게 만들며, IMO의 위험화물 운송 규정 강화 필요성 대두**</p><p>• **지중해 남부 해역의 해상 안보 위협(드론 공격) 증가에 따른 선박 방호 기준 및 자동 식별 시스템(AIS) 강제화의 중요성 증대**</p><p>• **리비아 수색구조구역(SAR) 내 조정 부재 시 환경 피해 확대 가능 - 국제해사기구(IMO) 및 지역 해양 협력 메커니즘 개선 필요**</p></div>`,
+      tags: ["LNG tanker","maritime accident","Mediterranean","environmental hazard","drone attack","oil spill risk"],
+      link: "https://www.marinelink.com/news/damaged-russian-tanker-drifts-towards-537135",
+      coords: [13.1913,32.8872],
+      location: "Mediterranean Sea, off Libya (Tripoli)"
+    }
+  ]
+});
+
+// Auto-collected: 2026-03-21
+addEvents({
+  "2026-03-21": [
+    {
+      type: "news",
+      title: "Bluebottle USV to Feature in Australian Navy's Fleet Review for the First Time",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-03-21",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/03/Ocius-Bluebottle-in-Sydney-Harbour-1-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **오션스 블루보틀 USV의 역사적 첫 참가**: 호주 해군이 정식 함대 검열에 무인 수상함을 처음으로 포함시키며 자율 해양 시스템의 운영 도입 단계 진입을 공식화</p><p>• **대규모 장비 도입 계약**: $176M 규모의 프로그램 기록 협약으로 기존 15척에 추가로 40척의 블루보틀 USV를 도입하며, 글로벌 무인 수상함 획득 계약 중 최대 규모</p><p>• **친환경 자율 운영 기술**: 태양광, 풍력, 파력으로 구동되는 연료 무동력 설계로 수개월 운용 지속성 확보와 음향 정숙성을 동시 달성</p><p>• **해양 국경 모니터링 강화**: 호주가 담당하는 세계 최대 규모 해양 지역의 감시 및 보호 능력을 비용 효율적이고 주권적으로 확대</p><p>• **익스서사이즈 카카두 2026**: 호주 해군 125주년 기념 행사로 시드니 항만에서 호주 및 18개국의 약 30척 함정과 함께 블루보틀 USV 전시</p><p>• **다층 자산 통합 운영**: 무인 수상함이 수중/표면 자산과 팀 환경에서 상호운용 가능한 통합 전력 체계의 핵심 요소로 기능</p><h3>Key Quotes</h3><p>• **"The Bluebottle USV is an operational capability already delivering persistent maritime surveillance for Australia."** <br>  (블루보틀 USV는 호주를 위해 이미 지속적인 해양 감시 역량을 제공하고 있는 실전 운용 능력)</p><p>• **"By participating in the Exercise Kakadu Fleet Review 2026, the Royal Australian Navy is making clear that uncrewed systems are an integral part of Australia's advanced maritime capabilities."**<br>  (익스서사이즈 카카두 2026 참가를 통해 호주 해군은 무인 시스템이 호주의 첨단 해양 역량의 핵심 부분임을 명확히 함)</p><p>• **"Importantly, Bluebottle USVs are powered by renewable energy, utilising solar, wind and wave energy, meaning they require no fuel and are capable of long-endurance operations."**<br>  (특히 블루보틀 USV는 태양광, 풍력, 파력 신재생에너지로 구동되어 연료가 불필요하며 장시간 운용 가능)</p><h3>Technical Insights</h3><p>• **자율 해양 시스템의 COLREG 적용 확대**: 공식 함대 검열 참가는 국제 충돌 방지 규칙(COLREG)을 준수하는 완전 자율 운영 USV의 해군 인정을 의미하며, IMO 자율선박 규제 프레임워크 개발에 실질적 근거 제공</p><p>• **신재생에너지 기반 해양 감시 패러다임 전환**: 연료 무동력 설계로 운영 비용 절감 및 환경 영향 최소화, 향후 글로벌 해군의 그린 쉬핑 전환 가속화 예상</p><p>• **다중 자산 네트워크 중심 전술 운영**: 무인 시스템이 크루드 함정과 수중 자산을 통합하는 중추 역할로 지정되며, 분산형 자율 운영 네트워크(DANN) 구현의 실제 사례 제시</p><p>• **국가 주권 기반 무인 해양 방위 산업화**: 호주 설계·제조 USV의 대규모 도입은 선진국의 자국 기술 자립도 강화 추세를 반영하며, 글로벌 방위 무인화 시장에서 비미국 진영의 기술 경쟁력 입증</p></div>`,
+      tags: ["Autonomous Ships","USV","Royal Australian Navy","Uncrewed Surface Vessel"],
+      link: "https://www.navalnews.com/naval-news/2026/03/bluebottle-usv-to-feature-in-australian-navys-fleet-review-for-the-first-time/",
+      coords: [151.2093,-33.8688],
+      location: "Sydney Harbour, Australia"
+    },
+    {
+      type: "news",
+      title: "Turkish MKE Reveals PİRANA Kamikaze Unmanned Surface Vessel for Naval Operations",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-03-21",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 터키 국방회사 MKE가 PİRANA라는 차세대 자살 공격용 무인수상선(USV) 공개 - 터키 해군의 해상 작전 능력 강화를 목표로 개발된 스트라이크 자산</p><p>• 무인 수상선은 완전 자동화된 해상 플랫폼으로 육상 및 항공 전력 외 새로운 해전 영역 확보의 일환</p><p>• 이 시스템은 향후 터키 해군 운용 전개 예정이며 해양 무인 시스템의 군사적 활용 추세 반영</p><p>• 방위사업 다각화 및 자체 기술 개발을 통한 국방력 증강 전략의 실질적 사례</p><p>• 무인 수상선의 전술적 운용 개념과 해상 전역에서의 자율 작전 능력이 핵심 특징</p><h3>Key Quotes</h3><p>• "Platform was developed for maritime operations as part of a broader push beyond land and air" (육상과 항공 전력을 넘어 해상 영역으로 확대하는 광범위한 전략의 일환으로 개발됨)</p><h3>Technical Insights</h3><p>• **무인수상선의 자율 운용**: PİRANA와 같은 USV는 GPS 네비게이션, 자동 장애물 회피, 원격 제어 등 첨단 자율화 기술을 기반으로 작동하며, 기존 COLREG 규정의 적용 문제 제기</p><p>• **해군 전술의 혁신**: 무인 스트라이크 자산의 도입은 해군 전력 구성의 패러다임 전환을 의미하며, 인명 손실 감소와 작전 비용 절감의 장점 제시</p><p>• **국제 규범의 공백**: 자살 공격용 무인 수상선의 운용은 국제인도법(IHL) 및 IMO 해상 안전 규정과의 충돌 가능성이 있으며, 차기 IMO 규범 개정 논의 필요</p><p>• **해상 보안의 복잡성 증가**: 무인 공격 자산의 다각화는 해상 경계 및 방어 시스템의 고도화 필요성을 촉발하고, 대해역 국가들의 무인 시스템 군비 경쟁 심화 우려</p></div>`,
+      tags: ["unmanned surface vessel","USV","autonomous weapons","Turkish Navy","defense technology"],
+      link: "https://defence-blog.com/turkish-firm-develops-new-gen-kamikaze-drone-boat/",
+      coords: [35.1856,39.925],
+      location: "Turkey"
+    },
+    {
+      type: "news",
+      title: "U.S.-made military naval drone AEGIR-W discovered off Turkish coast",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-03-21",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 Sierra Nevada Corporation 제조 AEGIR-W 군사급 무인수상선(USV)이 터키 오르두 해안에서 발견됨<br>• 분쟁 지역 작전용으로 설계된 군사 드론으로, 정찰 및 전자전 임무 수행 가능<br>• 현지 주민에 의해 발견되었으며 터키 당국이 검사 후 폐기할 예정<br>• 미국 군사 장비의 예기치 않은 발견으로 지정학적 관심 증가<br>• 무인수상선 기술의 운용 손실 및 보안 문제 노출</p><h3>Key Quotes</h3><p>• "military-grade unmanned surface vessel, or USV, designed for operations in contested environments" (분쟁 지역 작전을 위해 설계된 군사급 무인수상선)</p><h3>Technical Insights</h3><p>• **자율운항 군사 플랫폼의 취약성**: AEGIR-W와 같은 고급 USV의 예기치 않은 손실은 극악의 해상 환경에서의 운용 안정성과 추적 시스템의 한계를 시사함</p><p>• **해양 드론 보안 규제**: IMO 및 국제 해사법에서 군사 무인선박의 운용, 손실, 회수 절차에 대한 명확한 기준 부재로 인한 국제 분쟁 소지</p><p>• **산업적 영향**: 무인수상선 기술의 실전 배치 증가에 따라 해상 충돌 회피 규칙(COLREG)과 자율운항 선박의 국제 안전 표준 개정 필요성 대두</p></div>`,
+      tags: ["autonomous ships","unmanned surface vessel","USV","naval technology","geopolitics"],
+      link: "https://defence-blog.com/u-s-made-naval-drone-found-off-turkish-coast/",
+      coords: [35.9242,40.9054],
+      location: "Ordu, Turkey"
+    }
+  ]
+});
