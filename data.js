@@ -527,7 +527,6 @@ addEvents(multiDay("2026-03-25", 3, {
 // ── 2026 MAY ──
 
 
-
 // Digital@Sea - May 6-7
 addEvents(multiDay("2026-05-06", 2, {
   type: "event",
@@ -982,10 +981,6 @@ addEvents({
 });
 
 
-
-
-
-
 // ── Auto-Collected (Bot) ──
 
 // Auto-collected: 2026-02-23
@@ -1164,25 +1159,6 @@ addEvents({
 
 // ── Auto-Collected (Bot) ──
 
-// Auto-collected: 2026-02-27
-addEvents({
-  "2026-02-27": [
-    {
-      type: "news",
-      title: "Fully certified Reach Remote USV to inspect Gassco's subsea pipelines",
-      source: "Offshore Energy",
-      sourceMeta: "offshore-energy.biz · Feb 27, 2026",
-      content: `<p>Norway's Reach Subsea has won a contract to perform external inspection of subsea pipelines using a fully certified Reach Remote unmanned surface vehicle (USV) for Gassco.</p>`,
-      tags: ["USV","autonomous vessels","subsea inspection","unmanned surface vehicle","pipeline inspection","Norway"],
-      link: "https://www.offshore-energy.biz/fully-certified-reach-remote-usv-to-inspect-gasscos-subsea-pipelines/",
-      coords: [8.4689,60.472],
-      location: "Norway"
-    }
-  ]
-});
-
-// ── Auto-Collected (Bot) ──
-
 // Auto-collected: 2026-03-01
 addEvents({
   "2026-03-01": [
@@ -1199,44 +1175,6 @@ addEvents({
     }
   ]
 });
-
-// Auto-collected: 2026-02-27
-addEvents({
-  "2026-02-27": [
-    {
-      type: "news",
-      title: "Fully certified Reach Remote USV to inspect Gassco's subsea pipelines",
-      source: "Offshore Energy",
-      sourceMeta: "offshore-energy.biz · Feb 27, 2026",
-      content: `<p>Norway's Reach Subsea has won a contract to perform external inspection of subsea pipelines using a fully certified Reach Remote USV (unmanned surface vessel), demonstrating advanced autonomous maritime technology for offshore energy infrastructure monitoring.</p>`,
-      tags: ["USV","autonomous vessels","subsea inspection","unmanned surface vessel","offshore energy","pipeline inspection"],
-      link: "https://www.offshore-energy.biz/fully-certified-reach-remote-usv-to-inspect-gasscos-subsea-pipelines/",
-      coords: [8.47,60.47],
-      location: "Norway"
-    }
-  ]
-});
-
-// ── Auto-Collected (Bot) ──
-
-// Auto-collected: 2026-02-27
-addEvents({
-  "2026-02-27": [
-    {
-      type: "news",
-      title: "Fully certified Reach Remote USV to inspect Gassco's subsea pipelines",
-      source: "Offshore Energy",
-      sourceMeta: "offshore-energy.biz · Feb 27, 2026",
-      content: `<p>Norway's Reach Subsea has won a contract to perform external inspection of subsea pipelines using a fully certified Reach Remote unmanned surface vehicle (USV) for Gassco.</p>`,
-      tags: ["USV","Unmanned Surface Vehicle","Autonomous","Pipeline Inspection","Subsea","Gassco","Reach Subsea"],
-      link: "https://www.offshore-energy.biz/fully-certified-reach-remote-usv-to-inspect-gasscos-subsea-pipelines/",
-      coords: [8.4689,60.472],
-      location: "Norway"
-    }
-  ]
-});
-
-// ── Backfill: 2026-03-02 ~ 03-07 (Manual) ──
 
 addEvents({
   "2026-03-02": [
@@ -1798,7 +1736,6 @@ addEvents({
 });
 
 
-
 // ── AI Secretary Report ──
 addEvents({
   "2026-03-15": [
@@ -1834,7 +1771,6 @@ addEvents({
     }
   ]
 });
-
 
 
 // ── AI Secretary Report ──
@@ -2355,18 +2291,6 @@ addEvents({
 addEvents({
   "2026-03-19": [
     {
-      type: "accident",
-      title: "Missile strikes cause fires and extensive damage at QatarEnergy's LNG facilities in Ras Laffan",
-      source: "Offshore Energy",
-      sourceMeta: "offshore-energy.biz · 2026-03-19",
-      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2025/11/Ras-Laffan-petrochemicals-project-in-Qatar-aerial-view-Source-CPChem.jpg?image-crop-positioner-ts=1762177598",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2026년 3월 18-19일 카타르의 라스 라판 산업도시에 소재한 카타르에너지(QatarEnergy)의 LNG 시설들이 미사일 공격으로 광범위한 손상과 화재 발생<br>• 이란의 보복 공격으로 인한 사건으로, 펄 GTL(가스-액화) 시설을 포함한 여러 LNG 인프라 시설이 피해를 입음<br>• 카타르에너지는 긴급대응팀을 즉시 배치하였으며 인명피해는 보고되지 않았으나 경제적 피해는 상당<br>• 호르무즈 해협 폐쇄에 따른 LNG 생산 중단 및 불가항력 선언으로 글로벌 에너지 시장에 영향<br>• 카타르 외교부는 이를 "주권 침해 및 국가 안보에 대한 직접적 위협"으로 규정하고 이란 대사관 인원을 비인도적 선언</p><h3>Key Quotes</h3><p>• "Emergency response teams were deployed immediately to contain the resulting fires, as extensive damage has been caused. All personnel have been accounted for and no casualties have been reported at this time" (긴급대응팀이 즉시 배치되어 화재를 진압하려 했으며, 광범위한 손상이 발생했으나 인원의 안전은 확보되고 인명피해는 없었다)</p><p>• "a dangerous escalation, a flagrant violation of its sovereignty, and a direct threat to its national security" (카타르 외교부의 성명으로, 이를 위험한 escalation과 주권 침해, 국가 안보에 대한 직접적 위협으로 평가)</p><h3>Technical Insights</h3><p>• 미사일 공격으로 인한 LNG 시설 피해는 호르무즈 해협 폐쇄와 겹쳐 글로벌 LNG 공급망에 심각한 영향을 초래하며, 아시아-유럽 간 LNG 경쟁 심화 예상<br>• 카타르에너지의 불가항력(Force Majeure) 선언은 계약상 LNG 공급 의무를 일시 중단시키며, 장기 LNG 가격 급등(배럴당 $100 이상 가능성) 우려<br>• 해상 에너지 인프라의 군사적 위협에 따른 보안 강화 필요성 및 IMO와 국제해사기구의 에너지 해상 운송로 보호에 대한 규정 재검토 필요</p></div>`,
-      tags: ["LNG","missile attack","Qatar","Ras Laffan","infrastructure damage","force majeure"],
-      link: "https://www.offshore-energy.biz/missile-strikes-leave-fires-and-extensive-damage-in-its-wake-at-qatarenergys-lng-assets/",
-      coords: [51.5,25.2],
-      location: "Ras Laffan Industrial City, Qatar"
-    },
-    {
       type: "news",
       title: "MSC Formalizes Joint Control of Tanker Giant Sinokor After Massive VLCC Buying Spree",
       source: "gCaptain",
@@ -2629,18 +2553,6 @@ addEvents({
   "2026-03-21": [
     {
       type: "news",
-      title: "Bluebottle USV to Feature in Australian Navy's Fleet Review for the First Time",
-      source: "Naval News",
-      sourceMeta: "navalnews.com · 2026-03-21",
-      image: "https://www.navalnews.com/wp-content/uploads/2026/03/Ocius-Bluebottle-in-Sydney-Harbour-1-scaled.jpg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **호주 해군의 역사적 이정표**: 무인수상함선(USV) Bluebottle이 호주 해군 역사상 처음으로 Exercise Kakadu 함대 검열에 유인함정과 함께 참여하여 자율 해양 시스템의 운영 도입을 공식화<br>• **Ocius Bluebottle의 성능**: 태양광, 풍력, 파력으로 구동되는 연료 무관 설계로 수개월의 지속 운영이 가능하며 음향 신호가 적어 수중 감시에 최적화<br>• **대규모 확보 계획**: 호주 해군이 기존 15척에 추가로 40척의 Bluebottle USV를 도입하는 $176M 규모의 획기적 획득 계약 체결<br>• **전략적 해양 감시**: 호주의 광대한 해역 관리 및 해상 국경 보호를 위한 비용 효율적이고 지속 가능한 주권 능력 강화<br>• **국제 해양 참여**: 호주 및 18개국 총 30척 함정이 참가한 Exercise Kakadu 2026에서 통합 함대 운영 역량 시연</p><h3>Key Quotes</h3><p>• "The Bluebottle USV is an operational capability already delivering persistent maritime surveillance for Australia. By participating in the Exercise Kakadu Fleet Review 2026, the Royal Australian Navy is making clear that uncrewed systems are an integral part of Australia's advanced maritime capabilities." (Bluebottle USV는 호주의 지속적인 해양 감시 능력을 이미 제공하고 있으며, 이번 참여로 호주 해군은 무인 시스템이 첨단 해양 능력의 필수 구성 요소임을 명확히 함)</p><p>• "With Bluebottle USVs designed and manufactured right here in Australia, this important milestone also reflects the world-leading innovation of our maritime defence technology industry." (호주에서 설계·제조된 Bluebottle USV는 호주 해양 방위 기술 산업의 세계 수준의 혁신을 반영)</p><h3>Technical Insights</h3><p>• **자율 해양 시스템의 전술 통합**: Bluebottle USV가 다른 수중·수상 자산과 팀 환경에서 작동하여 통합 함대 운영 능력 구현, IMO 자율선박 규제 프레임워크 발전에 선도적 역할<br>• **신재생 에너지 기반 지속성**: 연료 무관 운영으로 인한 비용 효율화 및 환경 규제 준수는 향후 해군 USV 획득의 표준 모델로 설정될 가능성<br>• **호주 해양 방위 주권**: 국내 설계·제조 능력 확보로 공급망 자주성 확보 및 인도-태평양 지역 해양 안보 태세 강화, COLREG 준수 체계 강화 필요</p></div>`,
-      tags: ["Autonomous Surface Vessel","Royal Australian Navy","USV Technology","Maritime Defence"],
-      link: "https://www.navalnews.com/naval-news/2026/03/bluebottle-usv-to-feature-in-australian-navys-fleet-review-for-the-first-time/",
-      coords: [151.2093,-33.8688],
-      location: "Sydney Harbour, Australia"
-    },
-    {
-      type: "news",
       title: "Turkish MKE Develops PİRANA Kamikaze Unmanned Surface Vessel for Naval Operations",
       source: "Defence Blog",
       sourceMeta: "defence-blog.com · 2026-03-21",
@@ -2669,18 +2581,6 @@ addEvents({
 // Auto-collected: 2026-03-21
 addEvents({
   "2026-03-21": [
-    {
-      type: "news",
-      title: "Bluebottle USV to Feature in Australian Navy's Fleet Review for the First Time",
-      source: "Naval News",
-      sourceMeta: "navalnews.com · 2026-03-21",
-      image: "https://www.navalnews.com/wp-content/uploads/2026/03/Ocius-Bluebottle-in-Sydney-Harbour-1-scaled.jpg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 오시우스(Ocius)의 블루보틀(Bluebottle) 무인표면선(USV)이 호주 해군 카카두 해상훈련(Exercise Kakadu) 2026에 처음으로 정식 함대 검열(Fleet Review)에 참여하는 역사적 이정표 달성</p><p>• 블루보틀은 태양광, 풍력, 파력 에너지로 구동되는 연료 불필요 설계로 음향 조용한 특성을 가지며 수개월 지속력 제공</p><p>• 호주 해군이 오시우스와 체결한 $176M 규모 대량구매 계약으로 기존 15척에 40척 추가 도입 계획, 무인해상시스템 최대급 국방 구매 계약</p><p>• 블루보틀은 호주 최초의 해군 정식 등록 무인표면선으로, 다른 해양 자산과의 통합 운영을 통해 해양 감시 및 국경 보호 능력 강화</p><p>• 시드니 항에서 개최되는 카카두 훈련에 호주 및 18개국 약 30척 함정 참여, 호주 해군 125주년 기념행사 겸행</p><h3>Key Quotes</h3><p>• "The Bluebottle USV is an operational capability already delivering persistent maritime surveillance for Australia. By participating in the Exercise Kakadu Fleet Review 2026, the Royal Australian Navy is making clear that uncrewed systems are an integral part of Australia's advanced maritime capabilities." <br>(블루보틀 USV는 이미 호주를 위한 지속적 해양 감시 능력을 제공하고 있으며, 이번 참여를 통해 호주 해군은 무인시스템이 첨단 해양 능력의 핵심 일부임을 명확히 하고 있다)</p><p>• "Bluebottle USVs are powered by renewable energy, utilising solar, wind and wave energy, meaning they require no fuel and are capable of long-endurance operations."<br>(블루보틀 USV는 재생에너지로 구동되어 연료가 필요 없으며 장기 작전 수행이 가능하다)</p><h3>Technical Insights</h3><p>• 태양광·풍력·파력 하이브리드 추진 시스템으로 연료 없는 무인선 운영 가능하며, 음향 조용성을 활용한 고충실도 수중 감시 능력 제공 - 향후 자율운항선박의 에너지 지속가능성 표준 모델 제시</p><p>• 호주 해군의 대규모 USV 함대 도입($176M 계약)은 국제 해상 자율화 추세 가속화 신호로, 국방부문에서의 무인시스템 통합 운영 체계 확립 필요성 강조</p><p>• 블루보틀의 해군 정식 등록 및 함대검열 참여는 IMO/COLREG 차원의 무인선 국제해양규칙 정비 시급성 제기, 민간·군사 자율선박 규제체계 통합 논의 촉발 예상</p><p>• 호주의 자국 설계·제조 USV 대량 도입 사례는 신산업 생태계 구축(공급망 자립화, 기술 주권) 관점에서 전략적 중요성 제시, 인도-태평양 해역 해양 통제력 강화 전략과 연계</p></div>`,
-      tags: ["autonomous vessels","USV","Royal Australian Navy","Exercise Kakadu"],
-      link: "https://www.navalnews.com/naval-news/2026/03/bluebottle-usv-to-feature-in-australian-navys-fleet-review-for-the-first-time/",
-      coords: [151.2093,-33.8688],
-      location: "Sydney Harbour, Australia"
-    },
     {
       type: "news",
       title: "Turkish Defense Firm Develops PİRANA Kamikaze Unmanned Surface Vessel",
@@ -2718,18 +2618,6 @@ addEvents({
 // Auto-collected: 2026-03-21
 addEvents({
   "2026-03-21": [
-    {
-      type: "news",
-      title: "Bluebottle USV to Feature in Australian Navy's Fleet Review for the First Time",
-      source: "Naval News",
-      sourceMeta: "navalnews.com · 2026-03-21",
-      image: "https://www.navalnews.com/wp-content/uploads/2026/03/Ocius-Bluebottle-in-Sydney-Harbour-1-scaled.jpg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 호주 해군이 무인수상선(USV) 블루보틀을 처음으로 정식 함대 검열식(Exercise Kakadu Fleet Review 2026)에 포함시켜 자율 해양 시스템의 운영 역량을 입증<br>• 블루보틀 USV는 태양광, 풍력, 파력으로 구동되는 연료 무 무인선박으로, 수개월간의 지속성과 수음성(acoustic silence)을 제공하는 호주 자체 설계 기술<br>• 오시우스사(Ocius Technology)와의 1억7,600만 달러 규모 대형 계약으로 기존 15대에서 추가 40대의 블루보틀 USV 도입 예정<br>• 블루보틀 USV는 해양 감시, 국경 보호 및 수중 정보수집을 위해 다른 수상·수중 자산과 통합 운용되는 상호운용 가능한 시스템<br>• 호주 해군 125주년 기념 함대 검열식에 호주 및 18개국의 약 30대 함정과 함께 참여</p><h3>Key Quotes</h3><p>• "The Bluebottle USV is an operational capability already delivering persistent maritime surveillance for Australia. By participating in the Exercise Kakadu Fleet Review 2026, the Royal Australian Navy is making clear that uncrewed systems are an integral part of Australia's advanced maritime capabilities." (블루보틀 USV는 호주의 지속적인 해양 감시 능력을 제공하는 운영 중인 시스템이며, 2026년 카카두 함대 검열식 참가는 무인 시스템이 호주의 고급 해양 능력의 필수 요소임을 명확히 함)</p><p>• "With Bluebottle USVs designed and manufactured right here in Australia, this important milestone also reflects the world-leading innovation of our maritime defence technology industry. Importantly, Bluebottle USVs are powered by renewable energy, utilising solar, wind and wave energy, meaning they require no fuel and are capable of long-endurance operations." (블루보틀이 호주에서 설계·제조되며 재생에너지로 구동되어 연료가 불필요하고 장시간 운용이 가능하다는 점은 호주의 세계 수준의 해양 방위 기술 혁신을 반영)</p><h3>Technical Insights</h3><p>• **자율 해양 시스템의 통합 운용**: 블루보틀 USV는 단독 운용이 아닌 다른 수상·수중 자산과의 통합 운영을 통해 상호운용성(interoperability)을 확보하고 있으며, 이는 현대 해군력의 네트워크 중심 전술(NCW) 개념과 부합</p><p>• **신재생 에너지 기반 해양 자산**: 태양광·풍력·파력 하이브리드 동력 시스템은 극도의 저소음 운용을 가능하게 하여 수중 감시 임무에 최적화된 설계이며, 장기 지속성으로 인한 운영 비용 절감 효과가 중대</p><p>• **IMO/국제 규제 적응**: 블루보틀이 해군 정식 등록 선박(Navy-registered vessel)으로 인정됨은 무인선박의 국제 규제 및 안전 기준 적용이 진행 중임을 의미하며, 자율선박의 COLREG 준수 및 규제 프레임워크 정립의 선례가 될 가능성</p><p>• **국방력 자주성 강화**: 호주 자체 기술로 설계·제조되는 블루보틀 대량 도입(55대)은 대규모 해역 감시 능력 확보와 동시에 방위 산업 자주성 및 기술 주권 강화를 의도하며, 인도-태평양 지역의 해양 안보 전략 변화를 반영</p></div>`,
-      tags: ["Autonomous Ships","USV","Australian Navy","Bluebottle","Maritime Technology"],
-      link: "https://www.navalnews.com/naval-news/2026/03/bluebottle-usv-to-feature-in-australian-navys-fleet-review-for-the-first-time/",
-      coords: [151.2093,-33.8688],
-      location: "Sydney Harbour, Australia"
-    },
     {
       type: "news",
       title: "Turkish MKE Develops PİRANA Kamikaze Unmanned Surface Vessel for Naval Strike Operations",
