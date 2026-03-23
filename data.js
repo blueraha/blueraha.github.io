@@ -2663,3 +2663,34 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-03-21
+addEvents({
+  "2026-03-21": [
+    {
+      type: "news",
+      title: "Bluebottle USV to Feature in Australian Navy's Fleet Review for the First Time",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-03-21",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/03/Ocius-Bluebottle-in-Sydney-Harbour-1-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 오시우스(Ocius)의 블루보틀(Bluebottle) 무인표면선(USV)이 호주 해군 카카두 해상훈련(Exercise Kakadu) 2026에 처음으로 정식 함대 검열(Fleet Review)에 참여하는 역사적 이정표 달성</p><p>• 블루보틀은 태양광, 풍력, 파력 에너지로 구동되는 연료 불필요 설계로 음향 조용한 특성을 가지며 수개월 지속력 제공</p><p>• 호주 해군이 오시우스와 체결한 $176M 규모 대량구매 계약으로 기존 15척에 40척 추가 도입 계획, 무인해상시스템 최대급 국방 구매 계약</p><p>• 블루보틀은 호주 최초의 해군 정식 등록 무인표면선으로, 다른 해양 자산과의 통합 운영을 통해 해양 감시 및 국경 보호 능력 강화</p><p>• 시드니 항에서 개최되는 카카두 훈련에 호주 및 18개국 약 30척 함정 참여, 호주 해군 125주년 기념행사 겸행</p><h3>Key Quotes</h3><p>• "The Bluebottle USV is an operational capability already delivering persistent maritime surveillance for Australia. By participating in the Exercise Kakadu Fleet Review 2026, the Royal Australian Navy is making clear that uncrewed systems are an integral part of Australia's advanced maritime capabilities." <br>(블루보틀 USV는 이미 호주를 위한 지속적 해양 감시 능력을 제공하고 있으며, 이번 참여를 통해 호주 해군은 무인시스템이 첨단 해양 능력의 핵심 일부임을 명확히 하고 있다)</p><p>• "Bluebottle USVs are powered by renewable energy, utilising solar, wind and wave energy, meaning they require no fuel and are capable of long-endurance operations."<br>(블루보틀 USV는 재생에너지로 구동되어 연료가 필요 없으며 장기 작전 수행이 가능하다)</p><h3>Technical Insights</h3><p>• 태양광·풍력·파력 하이브리드 추진 시스템으로 연료 없는 무인선 운영 가능하며, 음향 조용성을 활용한 고충실도 수중 감시 능력 제공 - 향후 자율운항선박의 에너지 지속가능성 표준 모델 제시</p><p>• 호주 해군의 대규모 USV 함대 도입($176M 계약)은 국제 해상 자율화 추세 가속화 신호로, 국방부문에서의 무인시스템 통합 운영 체계 확립 필요성 강조</p><p>• 블루보틀의 해군 정식 등록 및 함대검열 참여는 IMO/COLREG 차원의 무인선 국제해양규칙 정비 시급성 제기, 민간·군사 자율선박 규제체계 통합 논의 촉발 예상</p><p>• 호주의 자국 설계·제조 USV 대량 도입 사례는 신산업 생태계 구축(공급망 자립화, 기술 주권) 관점에서 전략적 중요성 제시, 인도-태평양 해역 해양 통제력 강화 전략과 연계</p></div>`,
+      tags: ["autonomous vessels","USV","Royal Australian Navy","Exercise Kakadu"],
+      link: "https://www.navalnews.com/naval-news/2026/03/bluebottle-usv-to-feature-in-australian-navys-fleet-review-for-the-first-time/",
+      coords: [151.2093,-33.8688],
+      location: "Sydney Harbour, Australia"
+    },
+    {
+      type: "news",
+      title: "Turkish Defense Firm Develops PİRANA Kamikaze Unmanned Surface Vessel",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-03-21",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 터키 국방회사 MKE가 신세대 카미카제식 무인수상함정 PİRANA(피라나)를 공개했으며, 이는 터키 해군의 공격자산으로 운영될 예정</p><p>• 무인수상함정(USV) 기술로 터키의 해양 방위 능력을 육상과 공중을 넘어 확대하는 전략의 일환</p><p>• 자동화된 드론 보트 시스템으로 해양 작전의 전술적 혁신과 원격 공격 능력 강화를 목표</p><p>• 터키 국방 산업의 무기 체계 현대화 추진 및 자주 국방력 강화 의지 표현</p><p>• 국제해사규칙(COLREG)과의 충돌 가능성 및 자율무기 규제 필요성 대두</p><h3>Key Quotes</h3><p>• "The platform was developed for maritime operations as part of a broader push beyond land and air" (이 플랫폼은 육상과 공중을 넘어 해양 작전 능력을 강화하려는 광범위한 노력의 일환으로 개발됨)</p><h3>Technical Insights</h3><p>• **자율무기 규제 이슈**: PİRANA와 같은 무인 공격 플랫폼은 국제해사기구(IMO)와 COLREG 규칙, 나아가 자율무기 국제 규제 논의의 중요한 대상이 될 전망</p><p>• **해양 감시 및 방어의 패러다임 전환**: 전통적 유인 전함 대신 저비용, 고성능의 무인 드론 보트 도입으로 해군 운영 비용 절감 및 인명피해 회피 가능</p><p>• **해양 교통 안전 우려**: 비-투명 자율 공격 시스템의 운영은 국제 해로에서의 충돌 회피 의무(Give-Way Rule) 준수 및 AIS 식별 문제와 직결되어 국제해사안전 협약 개정 필요</p><p>• **해양 분쟁 확대 우려**: 중동과 동지중해 지역의 지정학적 긴장 속에서 자율무기의 도입은 우발적 해상 충돌과 국제 분쟁 확산 가능성 증가</p></div>`,
+      tags: ["Unmanned Surface Vessel","USV","Turkish Navy","Autonomous Weapons","Naval Defense"],
+      link: "https://defence-blog.com/turkish-firm-develops-new-gen-kamikaze-drone-boat/",
+      coords: [35.2433,38.9597],
+      location: "Turkey"
+    }
+  ]
+});
