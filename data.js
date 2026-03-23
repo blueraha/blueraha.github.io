@@ -2694,3 +2694,52 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-03-20
+addEvents({
+  "2026-03-20": [
+    {
+      type: "accident",
+      title: "Damaged Russian LNG Tanker Arctic Metagaz Drifts Towards Libya, Poses Ecological Risk",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-03-20",
+      image: "https://images.marinelink.com/images/maritime/w800/tomkorcak-stockadobecom-169081.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 러시아 LNG 탱커 '아틱 메타가즈'호가 2026년 3월 초 우크라이나 해양드론 공격으로 손상된 후 2주 이상 무인 표류 중<br>• 현재 리비아 수색구조구역 내 트리폴리 북쪽 53해리 지점에 위치하며, 4~6일 내 리비아 해안에 도달할 것으로 예상<br>• 선박에 적재된 중유 450톤, 디젤 250톤, 및 미확정량의 LNG로 인한 대규모 생태재해 위험<br>• 선박 측면에 대형 손상(large gash)이 있으나 즉시 침몰 위험은 낮은 상태이지만, 좌초 또는 해상 석유 플랫폼 충돌 가능성 존재<br>• 이탈리아, 프랑스, 스페인 등 EU 남부 10개국이 유럽위원회에 생태재해 경고 문서 제출<br>• 리비아 당국과의 직접 접촉 없는 상태이며, 이탈리아 해안경비대와 해군이 모니터링 중</p><h3>Key Quotes</h3><br>• "Arctic Metagaz poses an imminent and serious risk of a major ecological disaster" (아틱 메타가즈호가 임박한 대규모 생태재해의 심각한 위험을 초래함)<br>• "The vessel is estimated to be carrying 450 metric tons of heavy oil and 250 tons of diesel as fuel supplies, and an 'uncertain' quantity of LNG" (선박은 연료유 중유 450톤, 디젤 250톤, 및 미확정량의 LNG를 적재한 것으로 추정됨)<br>• "While it has a 'large gash on its side' it does not appear to be at imminent risk of sinking" (선박 측면에 대형 손상이 있지만 즉시 침몰 위험은 없어 보임)</p><h3>Technical Insights</h3><br>• 무인 표류 선박의 해양 환경 위협 - LNG 탱커의 경우 부분적 재기화 및 연료유 유출로 인한 광범위한 생태계 오염 가능성이 높음<br>• 지중해 남부 해역의 해상교통 안전 및 환경보호 협약(Particularly Sensitive Sea Areas) 관련 국제해사기구(IMO) 규정의 실질적 적용 필요성 제기<br>• 분쟁 지역 해역에서의 선박 피해 및 무인 표류에 대한 국제법상 책임 문제 - 리비아 수색구조구역 내 사고로 리비아의 구조 의무 발생하나 실질적 역량 부족 시 국제적 공조 체계 작동<br>• 자율항해 및 원격조종 기술의 발전이 이러한 위기 상황에서 긴급 제어, 예인 또는 좌초 방지 등의 선제적 개입을 가능하게 할 수 있는 대안으로 검토 필요</p></div>`,
+      tags: ["LNG tanker","Mediterranean","oil spill risk","unmanned vessel","Ukraine-Russia conflict"],
+      link: "https://www.marinelink.com/news/damaged-russian-tanker-drifts-towards-537135",
+      coords: [13.1939,32.8872],
+      location: "Mediterranean Sea (north of Tripoli, Libya)"
+    }
+  ]
+});
+
+// Auto-collected: 2026-03-21
+addEvents({
+  "2026-03-21": [
+    {
+      type: "news",
+      title: "Bluebottle USV to Feature in Australian Navy's Fleet Review for the First Time",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-03-21",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/03/Ocius-Bluebottle-in-Sydney-Harbour-1-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 호주 해군이 무인수상선(USV) 블루보틀을 처음으로 정식 함대 검열식(Exercise Kakadu Fleet Review 2026)에 포함시켜 자율 해양 시스템의 운영 역량을 입증<br>• 블루보틀 USV는 태양광, 풍력, 파력으로 구동되는 연료 무 무인선박으로, 수개월간의 지속성과 수음성(acoustic silence)을 제공하는 호주 자체 설계 기술<br>• 오시우스사(Ocius Technology)와의 1억7,600만 달러 규모 대형 계약으로 기존 15대에서 추가 40대의 블루보틀 USV 도입 예정<br>• 블루보틀 USV는 해양 감시, 국경 보호 및 수중 정보수집을 위해 다른 수상·수중 자산과 통합 운용되는 상호운용 가능한 시스템<br>• 호주 해군 125주년 기념 함대 검열식에 호주 및 18개국의 약 30대 함정과 함께 참여</p><h3>Key Quotes</h3><p>• "The Bluebottle USV is an operational capability already delivering persistent maritime surveillance for Australia. By participating in the Exercise Kakadu Fleet Review 2026, the Royal Australian Navy is making clear that uncrewed systems are an integral part of Australia's advanced maritime capabilities." (블루보틀 USV는 호주의 지속적인 해양 감시 능력을 제공하는 운영 중인 시스템이며, 2026년 카카두 함대 검열식 참가는 무인 시스템이 호주의 고급 해양 능력의 필수 요소임을 명확히 함)</p><p>• "With Bluebottle USVs designed and manufactured right here in Australia, this important milestone also reflects the world-leading innovation of our maritime defence technology industry. Importantly, Bluebottle USVs are powered by renewable energy, utilising solar, wind and wave energy, meaning they require no fuel and are capable of long-endurance operations." (블루보틀이 호주에서 설계·제조되며 재생에너지로 구동되어 연료가 불필요하고 장시간 운용이 가능하다는 점은 호주의 세계 수준의 해양 방위 기술 혁신을 반영)</p><h3>Technical Insights</h3><p>• **자율 해양 시스템의 통합 운용**: 블루보틀 USV는 단독 운용이 아닌 다른 수상·수중 자산과의 통합 운영을 통해 상호운용성(interoperability)을 확보하고 있으며, 이는 현대 해군력의 네트워크 중심 전술(NCW) 개념과 부합</p><p>• **신재생 에너지 기반 해양 자산**: 태양광·풍력·파력 하이브리드 동력 시스템은 극도의 저소음 운용을 가능하게 하여 수중 감시 임무에 최적화된 설계이며, 장기 지속성으로 인한 운영 비용 절감 효과가 중대</p><p>• **IMO/국제 규제 적응**: 블루보틀이 해군 정식 등록 선박(Navy-registered vessel)으로 인정됨은 무인선박의 국제 규제 및 안전 기준 적용이 진행 중임을 의미하며, 자율선박의 COLREG 준수 및 규제 프레임워크 정립의 선례가 될 가능성</p><p>• **국방력 자주성 강화**: 호주 자체 기술로 설계·제조되는 블루보틀 대량 도입(55대)은 대규모 해역 감시 능력 확보와 동시에 방위 산업 자주성 및 기술 주권 강화를 의도하며, 인도-태평양 지역의 해양 안보 전략 변화를 반영</p></div>`,
+      tags: ["Autonomous Ships","USV","Australian Navy","Bluebottle","Maritime Technology"],
+      link: "https://www.navalnews.com/naval-news/2026/03/bluebottle-usv-to-feature-in-australian-navys-fleet-review-for-the-first-time/",
+      coords: [151.2093,-33.8688],
+      location: "Sydney Harbour, Australia"
+    },
+    {
+      type: "news",
+      title: "Turkish MKE Develops PİRANA Kamikaze Unmanned Surface Vessel for Naval Strike Operations",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-03-21",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 터키 국방회사 MKE가 신세대 카미카제 무인수상함정 PİRANA를 개발·공개하였으며, 터키 해군의 타격 자산으로 운용될 예정<br>• 무인수상함정(USV, Unmanned Surface Vessel)은 해상 작전을 위한 플랫폼으로, 육상·공중을 넘어 해양 영역으로의 방위력 확대 전략의 일환<br>• 자율 해양 시스템의 군사적 활용이 급속도로 증가하는 국방 산업 추세를 반영<br>• COLREG 및 국제 해상법상 무인 전투 함정의 운영 기준 미확립으로 국제적 논의 필요<br>• 해상 드론 기술의 발전으로 인한 해역 안보 환경의 급변적 변화</p><h3>Key Quotes</h3><p>• "The platform was developed for maritime operations as part of a broader push beyond land and air" (해당 플랫폼은 육상 및 공중을 넘어 해양 영역으로의 방위력 확대 전략의 일환으로 개발됨)</p><h3>Technical Insights</h3><p>• 무인수상함정의 자율항법 기술은 인공지능 기반의 표적 인식, 회피 및 타격 시스템과 통합되어 기술적 난제 해결 중<br>• IMO 및 국제해사기구는 현재 자율 무기 시스템의 운영 규범 및 안전 기준 마련을 추진 중이나, 군사용 무인 함정은 제도적 공백 상태<br>• 해상 자율 시스템의 확산은 해역 통항 안전, 오인사격 위험, 국제 분쟁 확대 가능성 등 해양 안보 환경의 근본적 변화를 야기할 전망<br>• 터키의 PİRANA 개발은 해양 무기 체계의 자동화·자율화 추세를 가속화하며, 다국적 해군 간 해상 작전 개념의 재정의 필요성을 제시</p></div>`,
+      tags: ["Unmanned Surface Vessel","Autonomous Maritime Systems","Turkish Navy","Naval Weapons","Defense Technology"],
+      link: "https://defence-blog.com/turkish-firm-develops-new-gen-kamikaze-drone-boat/",
+      coords: [35.2433,38.9637],
+      location: "Turkey"
+    }
+  ]
+});
