@@ -1905,23 +1905,6 @@ addEvents({
 // ── Auto-Collected (Bot) ──
 
 // Auto-collected: 2026-03-02
-addEvents({
-  "2026-03-02": [
-    {
-      type: "accident",
-      title: "Arctic Metagaz LNG Tanker Explosion in Mediterranean - First Russian LNG Carrier Returns",
-      source: "gCaptain",
-      sourceMeta: "gcaptain.com · 2026-03-16",
-      image: "https://gcaptain.com/wp-content/uploads/2018/09/gCaptain_Logo.jpg",
-      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **사건 개요**: Arctic Metagaz LNG 탱커가 몰타 남동쪽 약 170해리 지점에서 폭발하여 침몰했으며, 러시아 당국은 우크라이나 드론 공격으로 추정</p><p>• **운항 재개**: 폭발 후 지중해 운항을 중단했던 러시아 LNG 선박들이 3월 14일 LNG Merak이 지브롤터 해협을 통과하면서 운항 재개 시작</p><p>• **선박 특성**: LNG Merak은 홍콩 국적, 일본 MOL 운영 선박으로 기존 제재 대상 선박(Arctic Metagaz)과 달리 국제 상용 체계로 운영 중</p><p>• **공급망 변화**: 폭발 후 최소 5척의 LNG 탱커가 수에즈 운하 대신 희망봉 경로로 우회했으나, Yamal LNG 프로젝트 화물은 계속 운송</p><p>• **지정학적 영향**: 우크라이나 해상 드론의 위협으로 러시아 LNG 수출 경로 변경 및 해상 운송 보험 비용 상승 우려</p><p>• **운영 대응**: 킬딘 해상 정박지에서 북극 쇄빙선에서 일반 LNG 운반선으로의 화물 이적 작업으로 공급망 우회 시도 중</p><h3>Key Quotes</h3><p>• "an explosion destroyed the tanker Arctic Metagaz roughly 170 nautical miles southeast of Malta in what Russian officials described as a suspected Ukrainian drone attack" (몰타 남동쪽 약 170해리 지점에서 Arctic Metagaz가 폭발했으며, 러시아 관계자는 우크라이나 드론 공격으로 추정)</p><p>• "Russia began directing LNG carriers transporting its gas away from the Mediterranean and the Suez Canal, apparently to keep them beyond the perceived operational range of Ukrainian maritime drones" (러시아는 LNG 운반선들을 지중해와 수에즈 운하에서 우크라이나 해상 드론의 작전 범위 외로 우회시키기 시작)</p><p>• "LNG Merak operates under conventional commercial arrangements" and is "flagged in Hong Kong and managed by Japan's Mitsui O.S.K. Lines (MOL), the world's largest operator of LNG carriers" (LNG Merak은 일반 상용 체계로 운영되며, 세계 최대 규모 LNG 운반선 운영사인 일본 MOL이 관리)</p><h3>Technical Insights</h3><p>• **해상 보안 위협**: 우크라이나 드론의 지중해 작전 범위 확장으로 인해 러시아 LNG 수출 경로 재설정 필요 - 기존 수에즈 운하 경로 대신 희망봉 우회 항로 증가</p><p>• **선복 운용 최적화**: 북극 쇄빙선(Arc7 급)에서 일반 LNG 운반선으로의 해상 이적(ship-to-ship transfer) 확대로 EU 항만 기반 환적 규제 우회</p><p>• **제재 회피 전략**: 제재 대상 Arctic LNG 2 대신 기존 Yamal LNG 프로젝트 화물 운송으로 기술적·법적 제재 회피 - 일반 상용 운영사(MOL) 활용</p><p>• **IMO 규정 영향**: 전시 상황에서의 LNG 운반선 운항 경로 변경, 보험료 인상, 대체 항로(희망봉) 운용으로 인한 연료비 증가 및 배송 기간 연장 문제 발생</p></div>`,
-      tags: ["LNG tanker","explosion","Arctic Metagaz","Mediterranean","Russian gas","maritime security"],
-      link: "https://gcaptain.com/first-lng-tanker-carrying-russian-gas-enters-mediterranean-since-arctic-metagaz-explosion/",
-      coords: [20,35.5],
-      location: "Mediterranean Sea, southeast of Malta"
-    }
-  ]
-});
-
 // Auto-collected: 2025-10-13
 addEvents({
   "2025-10-13": [
@@ -1963,18 +1946,6 @@ addEvents({
 // Auto-collected: 2026-03-16
 addEvents({
   "2026-03-16": [
-    {
-      type: "accident",
-      title: "Arctic Metagaz LNG Tanker Explosion in Mediterranean; First Russian LNG Carrier Returns Post-Incident",
-      source: "gCaptain",
-      sourceMeta: "gcaptain.com · 2026-03-16",
-      image: "https://gcaptain.com/wp-content/uploads/2018/09/gCaptain_Logo.jpg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **Arctic Metagaz 폭발 사건**: 3월 초 몰타 남동쪽 약 170해리 지점에서 LNG 탱커 Arctic Metagaz가 폭발하여 침몰. 러시아 관리자들은 우크라이나 드론 공격으로 추정되며, 우크라이나는 공식 성명을 발표하지 않음</p><p>• **지역 운항 중단 및 재개**: 폭발 이후 러시아는 Mediterranean과 Suez Canal 통항을 회피하도록 지시했으며, 최소 5척 이상의 LNG 탱커가 Cape of Good Hope로 우회 항로 변경. LNG Merak은 3월 14일 지브롤타 해협을 통과하여 첫 복귀 항해 수행</p><p>• **선박의 차이점**: Arctic Metagaz는 미국·EU 제재 대상이었던 반면, LNG Merak은 홍콩 선적, 일본 MOL(Mitsui O.S.K. Lines) 관리로 제재 대상이 아님. Yamal LNG 프로젝트(가동 중)에서 화물 적재로 Arctic LNG 2(중제재)와 구별됨</p><p>• **해상 환적 작업 증대**: 3월 6일 Vladimir Vize로부터 Murmansk 인근 Kildin 정박지에서 선박간 환적(STS)으로 화물 수령. EU 항만 환적 금지 이후 Arctic 지역 얼음급(Arc7) 탱커에서 일반 LNG 운반선으로의 환적이 증가 추세</p><p>• **러시아 그림자 함대의 해상 운영 재개**: 보안 우려에도 불구하고 상업적 정상 구조 선박을 통한 LNG 운송 재개, 러시아의 에너지 수출 회복력 시사</p><h3>Key Quotes</h3><p>• "An explosion destroyed the tanker Arctic Metagaz roughly 170 nautical miles southeast of Malta in what Russian officials described as a suspected Ukrainian drone attack." <br>(몰타 남동쪽 약 170해리 지점에서 Arctic Metagaz가 폭발했으며, 러시아 관리자들은 이를 우크라이나 드론 공격으로 추정)</p><p>• "Russia began directing LNG carriers transporting its gas away from the Mediterranean and the Suez Canal, apparently to keep them beyond the perceived operational range of Ukrainian maritime drones."<br>(러시아는 LNG 운반선들을 Mediterranean과 Suez Canal에서 우크라이나 해상 드론의 작전 범위 밖으로 우회시키기 시작)</p><p>• "LNG Merak operates under conventional commercial arrangements... Neither the vessel nor its operator is subject to U.S. or EU sanctions."<br>(LNG Merak은 통상적인 상업 구조로 운영되며, 선박과 운영사 모두 미국·EU 제재 대상이 아님)</p><h3>Technical Insights</h3><p>• **해상 드론 위협의 전술적 대응**: 우크라이나의 추정 드론 공격에 따른 러시아 함대의 광역 우회 항로 변경은 해상 자율무기 시대의 새로운 해상 전술을 반영. 176,000m³급 LNG 탱커도 비규격 선박으로 인한 위험 노출 가능성 증대</p><p>• **선적 구조 변화의 IMO 규제 영향**: EU의 항만 환적 금지 이후 고위도 해역(Arctic)에서의 선박간 환적(STS)이 급증. IMO SOLAS/MARPOL 규제 강화로 야외 해역 환적 안전 기준 재검토 필요</p><p>• **제재 회피의 구조적 진화**: 제재 대상 Arctic LNG 2 대신 합법 운영 Yamal LNG 프로젝트 활용 및 MOL 같은 제재 비대상 운영사 활용으로 그림자 함대의 "합법화" 추세. COLREG 및 선박 식별 투명성 강화 필요</p><p>• **LNG 운송 경로 재구성의 산업적 영향**: Mediterranean 우회로 인한 Cape of Good Hope 항로 집중화는 운송 비용 증가(약 3-4주 연장), 해적</p></div>`,
-      tags: ["LNG tanker","explosion","Arctic Metagaz","Mediterranean","Russian gas","maritime security"],
-      link: "https://gcaptain.com/first-lng-tanker-carrying-russian-gas-enters-mediterranean-since-arctic-metagaz-explosion/",
-      coords: [20.5,35.5],
-      location: "Mediterranean Sea, 170 nm southeast of Malta"
-    },
     {
       type: "news",
       title: "U.S. Navy Establishes Five New Program Acquisition Executives for Maritime and Autonomous Systems",
@@ -2328,30 +2299,6 @@ addEvents({
 addEvents({
   "2026-03-20": [
     {
-      type: "accident",
-      title: "Fire-Damaged LNG Tanker Arctic Metagaz Drifting Toward Libya, Posing Environmental Risk",
-      source: "gCaptain",
-      sourceMeta: "gcaptain.com · 2026-03-20",
-      image: "https://gcaptain.com/wp-content/uploads/2026/03/2026-03-13T101857Z_188682229_RC2M3KA8J6V7_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-LNG-TANKER.jpeg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **피해 선박**: 러시아 LNG 운반선 Arctic Metagaz가 3월 초 우크라이나 해상드론 공격으로 손상되어 2주 이상 지중해에서 무인 표류 중<br>• **현재 상황 및 위험**: 리비아 해안으로부터 53해리 떨어진 국제해역에서 남쪽으로 표류하고 있으며, 4-6일 내 리비아 해안 도달 예상<br>• **환경적 위협**: 선박에 450톤의 중유와 250톤의 디젤유, 불명확한 양의 LNG 적재 중이며, EU 10개국이 "대규모 생태재앙의 심각한 위험"으로 경고<br>• **선박 상태**: 선체에 큰 균열 발생했으나 즉시 침몰 위험은 낮음, 그러나 좌초 또는 해상 석유시설 충돌 가능성 우려<br>• **대응 체계**: 리비아의 수색구조구역 내 위치하여 리비아의 책임이지만, 이탈리아 해안경비대와 해군이 모니터링 중이며 지원 준비 상태<br>• **외교적 문제**: 현재까지 리비아 당국과의 직접 접촉 없음, 우크라이나는 공격 책임 부인</p><h3>Key Quotes</h3><p>• "An imminent and serious risk of a major ecological disaster" (대규모 생태재앙의 임박한 심각한 위험)<br>  <br>• "It could take four, five or six days, more or less, for the vessel to reach Libyan land" (선박이 리비아 육지에 도달하기까지 대략 4-6일 소요될 것)</p><p>• "While it has a large gash on its side it does not appear to be at imminent risk of sinking" (측면에 큰 균열이 있지만 즉시 침몰 위험은 낮아 보임)</p><h3>Technical Insights</h3><p>• **해상 안전 규정 적용의 공백**: 국제해역에서 발생한 선박 사고로 리비아와 이탈리아 간의 책임 범위 불명확, IMO 국제해상법상 기국(러시아) 책임 원칙과 현실의 괴리</p><p>• **LNG 운반선의 구조적 취약성**: 우크라이나 드론의 선체 공격에 대한 방어력 부족, 러시아 "그림자 함대"의 보안 문제 노출로 해양 보안의 심각한 문제 제기</p><p>• **환경재해 대응 체계의 한계**: 무인 표류 선박에 대한 즉각적인 제거 또는 피난 기술 부족, EU 국가들의 경고에도 불구하고 적극적 개입 수단 제한</p><p>• **지중해 해상교통 안전 위협**: LNG 운반선의 표류가 해상 석유시설 및 주변 해역 기반시설에 미칠 수 있는 연쇄적 재해 위험, 해양 보험 및 책임 문제의 복잡성</p></div>`,
-      tags: ["LNG tanker","fire damage","Mediterranean","environmental hazard","unmanned vessel"],
-      link: "https://gcaptain.com/fire-damaged-lng-tanker-arctic-metagaz-could-reach-libyan-coast-within-days-officials-warn/",
-      coords: [13.1913,32.8872],
-      location: "Mediterranean Sea, off Libya"
-    },
-    {
-      type: "accident",
-      title: "Damaged Russian LNG Tanker Arctic Metagaz Drifts Towards Libya, Ecological Disaster Risk",
-      source: "MarineLink",
-      sourceMeta: "marinelink.com · 2026-03-20",
-      image: "https://images.marinelink.com/images/maritime/w800/tomkorcak-stockadobecom-169081.jpeg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **피해선박 및 사건**: 러시아 LNG 탱커 '아크틱 메타가즈'호가 2026년 3월 초 우크라이나 해상 드론의 공격으로 손상되어 2주 이상 무인 표류 중<br>• **현재 상황 및 위험**: 지중해 국제해역에서 리비아 트리폴리 북동쪽 약 53해리 떨어진 지점에서 남향 바람과 해류에 의해 리비아 연안으로 4~6일 거리에 위치<br>• **오염 물질**: 중유 450톤, 디젤유 250톤, 불확실한 양의 LNG 적재로 대규모 생태재해 위험 초래<br>• **EU 국가들의 대응**: 이탈리아, 프랑스, 스페인 등 남부 EU 국가 10개국이 유럽위원회에 "임박한 심각한 생태재해 위험" 경고<br>• **해상 피난 구역**: 선박이 리비아의 해상구조 관할 해역(SAR zone)에 위치하여 리비아가 1차 대응 책임을 갖지만, 직접 접촉 없는 상황<br>• **관련 기관**: 이탈리아 해안경비대 및 해군이 모니터링 중이며, 필요 시 지원 준비 상태</p><h3>Key Quotes</h3><p>• "The Arctic Metagaz, carrying LNG from the Arctic port of Murmansk, has been unmanned since early March, when it was hit by Ukrainian naval drones, according to Russia's Transport Ministry." (무르만스크 북극항에서 출발한 LNG 탱커가 3월 초 우크라이나 해상드론의 공격을 받아 무인 상태로 표류 중)</p><p>• "Italy, France, Spain and six other southern EU members wrote last week to the European Commission warning that the Arctic Metagaz poses 'an imminent and serious risk of a major ecological disaster.'" (남부 EU 10개국이 유럽위원회에 이 선박이 임박한 심각한 생태재해 위험을 초래한다고 경고)</p><p>• "While it has a 'large gash on its side' it does not appear to be at imminent risk of sinking, but the concern is that it may run aground or crash into an offshore oil platform" (선체 측면의 대형 손상에도 불구하고 침몰 위험은 낮으나, 좌초 또는 해양유전시설 충돌의 위험 존재)</p><h3>Technical Insights</h3><p>• **해상사고 대응 관할권**: 국제해역의 선박 표류 사건이라도 SAR(Search and Rescue) 구역에 따라 리비아의 1차 책임이 발생하며, EU 인접국들의 협력적 대응이 필요한 복잡한 국제법적 상황 초래</p><p>• **LNG 선박의 위험성**: LNG 부분 기화(regasification)로 인한 불확실한 화물 상태, 중유 및 디젤유의 누출 위험 등 복합적 해양오염 위협 증대 - 자동항행 시스템 부재 시 사고 대응의 어려움</p><p>• **무인 표류의 기술적 문제**: 선박의 통신 및 위치추적 시스템 단절로 실시간 상황파악 곤란, 자율항행/원격제어 기술의 필요성 대두</p><p>• **해상 충돌 방지(COLREG)**: 표류하는 대형 LNG 탱커에 대한 조기 경보 체계 미흡, IMO의 위기선박 추적 및 자동 대응 규정 강화 필요</p></div>`,
-      tags: ["LNG tanker","Mediterranean","ecological disaster","Ukraine-Russia conflict","maritime accident"],
-      link: "https://www.marinelink.com/news/damaged-russian-tanker-drifts-towards-537135",
-      coords: [13.1913,32.8872],
-      location: "Mediterranean Sea, near Libya (Tripoli)"
-    },
-    {
       type: "news",
       title: "SBM Offshore Advances FPSO Technology Through Standardization, Robotics, and AI Solutions",
       source: "Offshore Energy",
@@ -2383,100 +2330,7 @@ addEvents({
   ]
 });
 
-// ── Auto-Collected (Bot) ──
 
-// Auto-collected: 2026-03-20
-addEvents({
-  "2026-03-20": [
-    {
-      type: "accident",
-      title: "Fire-Damaged LNG Tanker Arctic Metagaz Drifting Toward Libya, Ecological Disaster Risk",
-      source: "gCaptain",
-      sourceMeta: "gcaptain.com · 2026-03-20",
-      image: "https://gcaptain.com/wp-content/uploads/2026/03/2026-03-13T101857Z_188682229_RC2M3KA8J6V7_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-LNG-TANKER.jpeg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **Arctic Metagaz LNG 탱커 표류 사건**: 러시아 Arctic Metagaz호가 3월 초 우크라이나 해군 드론 공격으로 손상된 후 2주 이상 지중해에서 무인 표류 중</p><p>• **즉각적 환경 위험**: 이탈리아 민방위청에 따르면 현재 리비아 수색구조 해역(트리폴리 북쪽 53해리)에 위치하며 4-6일 내 리비아 해안에 도달할 위험</p><p>• **적재 물질 및 오염 우려**: 선박에 450톤의 중유, 250톤의 디젤유, 그리고 불확실한 양의 LNG를 적재 중이며, 측면에 큰 균열 발생</p><p>• **국제 대응**: 이탈리아, 프랑스, 스페인 등 EU 남부 10개국이 유럽연합에 "중대한 생태 재앙" 경고, 리비아 해역의 책임 당국이지만 이탈리아가 지원 준비 중</p><p>• **현재 상황**: 침몰 임박 위험은 낮으나, 좌초 또는 해상유전 플랫폼 충돌 가능성 우려, 리비아 당국과의 직접 접촉 미진행</p><h3>Key Quotes</h3><p>• "The vessel is currently in international waters falling under Libya's search and rescue zone, some 53 nautical miles north of the capital Tripoli" (선박은 현재 트리폴리 북쪽 53해리 떨어진 리비아의 수색구조 해역에 위치)</p><p>• "An imminent and serious risk of a major ecological disaster" (임박한 대규모 생태 재앙의 심각한 위험)</p><p>• "While it has a large gash on its side it does not appear to be at imminent risk of sinking, but the concern is that it may run aground or crash into an offshore oil platform" (측면의 큰 균열에도 불구하고 침몰 위험은 즉시적이지 않지만, 좌초 또는 해상 플랫폼 충돌 우려)</p><h3>Technical Insights</h3><p>• **해양 오염 방지 협약 적용**: 450톤 중유, 250톤 디젤유의 광범위한 해양 유출 시 MARPOL 협약 위반으로 심각한 환경 피해 초래 예상, 지중해 해역 보호 필요</p><p>• **무인 표류선박 대응 문제**: 리비아 수색구조 해역 관할권으로 인한 국제법상 책임 불명확으로 신속한 개입 어려움, IMO 가이드라인 개선 필요</p><p>• **선박 추적 및 통제 체계**: 드론 공격으로 인한 통신 두절 및 동력 상실 후 실시간 위치 추적 및 원격 조종 기술의 필요성 부각, 자율운항선박(MASS) 안전 제어 시스템의 중요성</p><p>• **지정학적 영향**: 러시아-우크라이나 분쟁이 민간 해운에 미치는 영향으로 해역 안전성 악화, 선박 배치 전략 재검토 필요</p></div>`,
-      tags: ["LNG Tanker","Fire Damage","Mediterranean Sea","Ecological Disaster","Unmanned Vessel"],
-      link: "https://gcaptain.com/fire-damaged-lng-tanker-arctic-metagaz-could-reach-libyan-coast-within-days-officials-warn/",
-      coords: [13.1913,32.8872],
-      location: "Mediterranean Sea (between Malta and Libya)"
-    },
-    {
-      type: "accident",
-      title: "Damaged Russian LNG Tanker Arctic Metagaz Drifting Toward Libya, Poses Ecological Threat",
-      source: "MarineLink",
-      sourceMeta: "marinelink.com · 2026-03-20",
-      image: "https://images.marinelink.com/images/maritime/w800/tomkorcak-stockadobecom-169081.jpeg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **피해 선박**: 러시아 LNG 탱커 Arctic Metagaz가 3월 초 우크라이나 해양 드론 공격으로 손상된 후 2주 이상 무인 상태로 지중해에서 표류 중</p><p>• **현재 위치 및 위험성**: 리비아 수색구조 구역 내 트리폴리 북쪽 53해리 지점에 위치하며, 현재 해상 풍향과 해류 조건에 따라 4~6일 내 리비아 해안에 도달할 것으로 예상</p><p>• **적재 화물**: 중유 450톤, 디젤유 250톤 및 미확정 규모의 LNG 운반 중이며, LNG의 일부는 기화되어 분산되었을 가능성</p><p>• **생태계 위협**: EU 남부 국가 10개국이 유럽위원회에 "대규모 생태 재난의 임박한 심각한 위험"을 경고하는 공식 서한 발송</p><p>• **선체 손상**: 선박의 측면에 대형 균열이 있으나 즉시 침몰 위험은 낮으나, 좌초 또는 해상 석유 시설 충돌 위험 존재</p><p>• **대응 체계**: 현재 리비아의 수색구조 관할권이므로 리비아 당국의 개입이 필요하며, 이탈리아는 요청 시 해안경비대와 해군 지원 준비 중</p><h3>Key Quotes</h3><p>• "The Arctic Metagaz poses 'an imminent and serious risk of a major ecological disaster.'" (Arctic Metagaz는 "대규모 생태 재난의 임박한 심각한 위험"을 야기한다 - EU 남부 10개 회원국의 경고)</p><p>• "Four, five or six days, more or less" for the vessel to reach Libyan land (현재 해상 조건 유지 시 리비아 해안까지 약 4~6일 소요 예상)</p><p>• "While it has a 'large gash on its side' it does not appear to be at imminent risk of sinking" (측면의 큰 균열에도 불구하고 즉각적인 침몰 위험은 낮은 상태)</p><h3>Technical Insights</h3><p>• **해양 재난 대응 체계**: 국제해역 내 선박의 수색구조 구역 관할권이 명확히 정의되어 있으나, 실제 대응은 해당 국가(리비아)의 역량과 의지에 의존하는 구조적 한계 노출</p><p>• **무인 표류 선박 감시 기술**: GPS 추적, 해상 기상 데이터, 해류 예측 모델을 활용한 충돌 위험 예측 체계가 작동하고 있으나, 실제 개입 권한과 기술적 대응 능력의 국제적 조화 필요</p><p>• **LNG 운송의 전쟁 리스크**: 무장 충돌 지역에서의 LNG 운송 안전성 문제 대두. 기존 IMO 규정은 군사 공격 시나리오를 충분히 다루지 못하며, 신규 해상 보안 프로토콜 수립 시급</p><p>• **환경 오염 예방 규제**: 선박의 중유 및 디젤유 유출로 인한 해양 오염 위험으로 인해 EU는 해상 연료유 규제 강화(IMO 2030/2050 탄소중립) 및 대체 추진 연료 도입 가속화 논의 가속화 예상</p></div>`,
-      tags: ["LNG tanker","Mediterranean","environmental disaster","Ukrainian drone attack","unmanned vessel"],
-      link: "https://www.marinelink.com/news/damaged-russian-tanker-drifts-towards-537135",
-      coords: [13.1913,32.8872],
-      location: "Mediterranean Sea, north of Tripoli, Libya"
-    },
-    {
-      type: "news",
-      title: "SBM Offshore Advancing Future-Ready FPSOs Through Standardization, Robotics, and AI",
-      source: "Offshore Energy",
-      sourceMeta: "offshore-energy.biz · 2026-03-20",
-      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/03/Fast4Ward-SBM-Offshore.jpg?image-crop-positioner-ts=1773765098",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• SBM Offshore는 Fast4Ward 프로그램을 통해 맞춤형 FPSO 설계에서 표준화된 모듈형 데이터 기반 운영 모델로 전환하여 납기 단축 및 비용 예측성 향상을 달성</p><p>• 최고운영책임자(COO) Alex Glenn은 로봇공학, AI 기반 솔루션, 전기화, 탄소 포집 기술이 미래 성장을 위한 핵심 기술이라고 강조</p><p>• 데이터 분산화, 조직 문화 적응, 배출 감소 등의 과제를 디지털 통합, 직원 교육, SLB 및 Cognite와의 전략적 파트너십을 통해 해결</p><p>• AI 기반 예측 유지보수, 디지털 트윈, 심해 전문화를 통해 산업화된 실행 능력 강화</p><p>• Cognite, SLB, 미쓰비시 중공업 등 글로벌 파트너와의 협력으로 혁신 가속화 추진</p><h3>Key Quotes</h3><p>• "Over the last ten years we have moved from one-off, bespoke FPSOs to a standardized, modular, and data-powered operating model." (지난 10년간 맞춤형 FPSO에서 표준화되고 모듈화된 데이터 기반 운영 모델로 전환)</p><p>• "The launch of our Fast4Ward execution approach created a consistent reference—standardized hulls and topside modules—to continuously improve throughout the asset lifecycle" (Fast4Ward 실행 방식의 출범으로 자산 전체 생명주기에 걸쳐 지속적 개선을 위한 일관된 기준 마련)</p><h3>Technical Insights</h3><p>• **표준화 및 모듈화의 해운 산업 파급력**: FPSO 설계의 표준화와 모듈화는 조선 및 해양 플랫폼 업계에서 비용 효율성, 납기 단축, 품질 일관성을 동시에 달성하는 핵심 전략으로 부상</p><p>• **AI/디지털 트윈 기반 예측 유지보수**: 해양 플랫폼의 예측 유지보수는 운영 중단 시간 감소, 안전성 강화, 생애주기 비용 절감을 통해 해양산업의 경제성 혁신 추진</p><p>• **데이터 거버넌스의 디지털 변환 필수성**: 데이터 분산화 해결과 통합된 데이터 플랫폼 구축은 해양산업의 자동화, 자율운항, AI 기반 의사결정의 선행 조건으로 작용</p><p>• **다중 기술 통합의 탄소 중립 경로**: 전기화, 탄소 포집, 재생에너지 통합은 글로벌 IMO 2030/2050 규제 대응 및 해양산업의 그린 전환을 가속화하는 핵심 요소</p></div>`,
-      tags: ["FPSO","AI","Robotics","Standardization","Digital Transformation"],
-      link: "https://www.offshore-energy.biz/sbm-offshore-interview-advancing-future-ready-fpsos-through-standarization-robotics-ai-and-lower-carbon-solutions/",
-      coords: [4.8952,52.3676],
-      location: "Netherlands"
-    }
-  ]
-});
-
-// Auto-collected: 2026-03-16
-addEvents({
-  "2026-03-16": [
-    {
-      type: "news",
-      title: "US Navy Establishes 5 New Program Acquisition Executives Including Autonomous Systems Office",
-      source: "USNI News",
-      sourceMeta: "usni.org · 2026-03-16",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 미 해군이 함정 및 장비 구매·유지 방식 개혁의 일환으로 5개의 신규 프로그램 인수 담당자(PAE) 직책 신설<br>• Navy Secretary John Phelan이 주도한 조직 개편으로 2025년 12월 이후 자율 로봇 시스템 담당 PAE 포함<br>• Chris Miller(해군 해상시스템사령부 집행이사)가 PAE 해양 부문 리더십, Vice Adm. Robert Gaucher가 수중 시스템 담당<br>• 자율 시스템(robotic and autonomous systems) 전담 조직 신설로 미래 해군 무기체계 자동화 가속화<br>• 국방 조달 효율성 및 신기술 도입 체계화를 위한 구조적 개선</p><h3>Key Quotes</h3><br>• "Navy established five new program acquisition executives as the service continues to reform how it buys and sustains platforms and equipment" (해군이 함정과 장비 구매 및 유지 방식을 개선하기 위해 5개의 신규 프로그램 인수 담당자를 신설)<br>• "PAE robotic and autonomous systems" office standing up in December (12월에 신설된 자율 로봇 시스템 전담 조직)</p><h3>Technical Insights</h3><br>• 자율항해 및 무인 해상 플랫폼 기술의 전담 조직화로 해군의 자율시스템 개발 속도 가속 전망<br>• 해사산업의 자율화 추세(COLREG 준수 자율항해 기술)와 국방 조달 체계의 동기화로 민간-군사 기술 이전 가능성 증대<br>• PAE 구조 개편을 통한 획기적 조달 개혁으로 신기술(AI, 로봇, 자율시스템) 도입의 제도적 기반 마련</p></div>`,
-      tags: ["Navy Acquisition","Autonomous Systems","PAE Reform","Defense Procurement"],
-      link: "https://news.usni.org/2026/03/16/secnav-phelan-stands-up-5-new-offices-for-navy-marine-acquisition",
-      coords: [38.8951,-77.0369],
-      location: "Washington, D.C."
-    }
-  ]
-});
-
-// ── Auto-Collected (Bot) ──
-
-// Auto-collected: 2026-03-20
-addEvents({
-  "2026-03-20": [
-    {
-      type: "accident",
-      title: "Fire-Damaged LNG Tanker Arctic Metagaz Drifting Toward Libya, Poses Environmental Risk",
-      source: "gCaptain",
-      sourceMeta: "gcaptain.com · 2026-03-20",
-      image: "https://gcaptain.com/wp-content/uploads/2026/03/2026-03-13T101857Z_188682229_RC2M3KA8J6V7_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-LNG-TANKER.jpeg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Russian LNG 운반선 Arctic Metagaz가 3월 초 우크라이나 해상 드론 공격으로 손상된 후 지중해에서 2주 이상 무인 상태로 표류 중<br>• 현재 리비아 수색구조 구역 내 국제해역에 위치하며, 남풍과 해류에 따라 4~6일 내 리비아 해안에 도달할 가능성<br>• 선박에는 중유 450톤, 디젤유 250톤, 그리고 불확실한 양의 LNG가 탑재되어 있으며, 대형 측면 손상 보유<br>• 이탈리아, 프랑스, 스페인 등 남부 EU 국가들이 EU 집행위원회에 주요 생태 재난 위험 경고<br>• 리비아 당국의 개입이 필수이나 현재까지 직접 접촉 없음; 이탈리아는 필요 시 지원 의사 표명<br>• 침몰 직접 위험은 낮으나 좌초 또는 해상 석유 플랫폼 충돌 위험 존재</p><h3>Key Quotes</h3><br>• "Four, five or six days, more or less, for the vessel to reach Libyan land" (지중해 해류와 바람 조건에 따라 선박이 리비아 해안에 도달하는 데 4~6일 소요 예상)</p><p>• "Poses an imminent and serious risk of a major ecological disaster" (대규모 생태 재난의 임박한 심각한 위험 초래)</p><p>• "Large gash on its side" but "does not appear to be at imminent risk of sinking" (측면에 대형 손상이 있으나 즉시 침몰 위험은 낮음)</p><h3>Technical Insights</h3><br>• 무인 표류 선박의 해상 교통 안전: 통제 불가능한 LNG 운반선이 해상 석유시설이나 연안 인프라에 충돌할 경우 해양 오염 및 에너지 공급망 차질 가능성<br>• LNG 및 벙커유의 복합 적재 위험: 부분 재기화된 LNG와 중유 450톤 동시 탑재로 인한 복합 환경 오염 시나리오 발생 가능성<br>• 국제해역 내 해양사고 대응 체계: 리비아 수색구조 구역 관할권이지만 리비아 당국과의 소통 부재로 인한 국제 협력 체계 문제 노출<br>• 러시아 쉐도우 플릿 운영과 안전 기준: 우크라이나 전쟁 관련 제재 회피 선박의 안전 유지 체계 미흡으로 인한 중대 해양사고 발생 위험 증대</p></div>`,
-      tags: ["LNG tanker","fire damage","Mediterranean Sea","environmental hazard","unmanned vessel"],
-      link: "https://gcaptain.com/fire-damaged-lng-tanker-arctic-metagaz-could-reach-libyan-coast-within-days-officials-warn/",
-      coords: [13.19,32.89],
-      location: "Mediterranean Sea (north of Tripoli, Libya)"
-    },
-    {
-      type: "accident",
-      title: "Damaged Russian LNG Tanker Arctic Metagaz Drifts Toward Libya After Ukrainian Drone Attack",
-      source: "MarineLink",
-      sourceMeta: "marinelink.com · 2026-03-20",
-      image: "https://images.marinelink.com/images/maritime/w800/tomkorcak-stockadobecom-169081.jpeg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **Arctic Metagaz 러시아 LNG 탱커가 2주 이상 무인 상태로 지중해를 표류 중이며, 리비아 해안까지 4-6일 남은 상황**</p><p>• **우크라이나 해군 드론 공격으로 3월 초 피해 입음 - 선체 측면에 대규모 손상(large gash) 발생**</p><p>• **선박은 450톤의 중유와 250톤의 디젤유, 그리고 일부 기화된 액화천연가스(LNG)를 적재 중으로 생각되며, 해양 생태계 재앙의 위험성 상존**</p><p>• **이탈리아, 프랑스, 스페인 등 EU 남부 국가들이 유럽위원회에 "즉각적이고 심각한 생태 재앙 위험"을 경고하는 공식 서한 제출**</p><p>• **선박이 국제해역 및 리비아 수색구조구역에 위치하므로, 리비아의 개입 책임이 있으나 현재까지 리비아 당국과의 직접 접촉 없음**</p><p>• **대형 접지(grounding) 또는 해상 석유 시설과의 충돌 우려 - 침몰 위험은 즉각적이지 않으나 환경 오염 가능성 높음**</p><h3>Key Quotes</h3><p>• "The vessel is estimated to be carrying 450 metric tons of heavy oil and 250 tons of diesel as fuel supplies, and an 'uncertain' quantity of LNG" <br>(선박은 450톤의 중유, 250톤의 디젤유, 그리고 불확실한 양의 액화천연가스를 적재하고 있음)</p><p>• "imminent and serious risk of a major ecological disaster"<br>(임박한 대규모 생태 재앙의 심각한 위험)</p><p>• "While it has a 'large gash on its side' it does not appear to be at imminent risk of sinking"<br>(선체 측면에 대규모 손상이 있음에도 불구하고 즉각적인 침몰 위험은 없어 보임)</p><h3>Technical Insights</h3><p>• **무인 표류 선박의 해상교통 관리(VTS) 및 긴급 대응 체계의 한계 노출 - 국제해역에서의 소유권/책임 문제 재조명**</p><p>• **LNG 탱커의 부분 기화 현상(partial regasification)이 오염 범위 예측을 어렵게 만들며, IMO의 위험화물 운송 규정 강화 필요성 대두**</p><p>• **지중해 남부 해역의 해상 안보 위협(드론 공격) 증가에 따른 선박 방호 기준 및 자동 식별 시스템(AIS) 강제화의 중요성 증대**</p><p>• **리비아 수색구조구역(SAR) 내 조정 부재 시 환경 피해 확대 가능 - 국제해사기구(IMO) 및 지역 해양 협력 메커니즘 개선 필요**</p></div>`,
-      tags: ["LNG tanker","maritime accident","Mediterranean","environmental hazard","drone attack","oil spill risk"],
-      link: "https://www.marinelink.com/news/damaged-russian-tanker-drifts-towards-537135",
-      coords: [13.1913,32.8872],
-      location: "Mediterranean Sea, off Libya (Tripoli)"
-    }
-  ]
-});
-
-// Auto-collected: 2026-03-21
 addEvents({
   "2026-03-21": [
     {
@@ -2516,118 +2370,5 @@ addEvents({
   ]
 });
 
-// ── Auto-Collected (Bot) ──
 
-// Auto-collected: 2026-03-20
-addEvents({
-  "2026-03-20": [
-    {
-      type: "accident",
-      title: "Fire-Damaged LNG Tanker Arctic Metagaz Drifting in Mediterranean, Risk of Environmental Disaster",
-      source: "gCaptain",
-      sourceMeta: "gcaptain.com · 2026-03-20",
-      image: "https://gcaptain.com/wp-content/uploads/2026/03/2026-03-13T101857Z_188682229_RC2M3KA8J6V7_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-LNG-TANKER.jpeg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 러시아 LNG 운반선 Arctic Metagaz가 3월 초 우크라이나 해상 드론 공격으로 손상되어 지중해에서 무인 상태로 표류 중</p><p>• 현재 리비아 수색·구조 구역 내 국제해역에 위치하며, 4~6일 내 리비아 해안에 도달할 가능성</p><p>• 선박에 탑재된 중유 450톤, 디젤유 250톤, 및 불명량의 LNG로 인한 대규모 환경재앙 위험성 경고</p><p>• 선체 측면에 큰 손상(대규모 틈새)이 있으나 즉시 침몰 위험은 낮음, 좌초 또는 해양 구조물 충돌 우려</p><p>• 이탈리아 등 EU 남부 9개국이 유럽 위원회에 긴급 대응을 촉구하는 서한 제출</p><p>• 리비아가 공식적 책임 지역이나 현재까지 리비아 당국과의 직접 접촉 없음</p><h3>Key Quotes</h3><p>• "The Arctic Metagaz, carrying LNG from the Arctic port of Murmansk, has been unmanned since early March, when it was hit by Ukrainian naval drones" <br>(무르만스크 항에서 출발한 Arctic Metagaz가 3월 초 우크라이나 해상 드론의 공격으로 피해를 입은 후 무인 상태로 표류 중)</p><p>• "Based on prevailing southbound winds and sea currents – assuming they do not change – it could take 'four, five or six days, more or less,' for the vessel to reach Libyan land"<br>(현재의 남향 바람과 해수 흐름이 유지된다면 4~6일 후 리비아 해안에 도달할 것으로 예상)</p><p>• "poses 'an imminent and serious risk of a major ecological disaster'"<br>(대규모 환경재앙에 대한 즉각적이고 심각한 위험 초래)</p><h3>Technical Insights</h3><p>• **해양사고 대응 체계의 공백**: 리비아 수색·구조 구역 내 국제해역에서의 무인 표류 선박에 대해 책임 국가와의 직접 연락 부재로 신속한 대응이 어려운 상황 - 해양법 상 SAR(Search and Rescue) 협약의 실효성 문제 부각</p><p>• **환경오염 리스크 평가**: LNG 운반선의 부분 가스화(regasification) 및 450톤 중유, 250톤 디젤유로 인한 복합 환경재해 위험으로 지중해 생태계 및 인근 국가 경제에 영향</p><p>• **해상 분쟁과 해양 안전의 교차점**: 러-우크라이나 분쟁의 해상 확산으로 인한 민간 선박의 피해가 국제해역에서의 환경재난으로 확대되는 문제 - 전쟁 중 상선 보호 규정의 강화 필요성 대두</p><p>• **국제해양관할권의 모호성**: 국제해역에 표류 중인 손상 선박의 처리 책임이 SAR 구역과 기국(러시아)의 책임 범위가 불명확하여 실질적 구조 활동 지연</p></div>`,
-      tags: ["LNG Tanker","Fire Damage","Mediterranean","Environmental Risk","Unmanned Vessel"],
-      link: "https://gcaptain.com/fire-damaged-lng-tanker-arctic-metagaz-could-reach-libyan-coast-within-days-officials-warn/",
-      coords: [15.5,33],
-      location: "Mediterranean Sea (between Malta and Libya)"
-    },
-    {
-      type: "accident",
-      title: "Damaged Russian LNG Tanker Arctic Metagaz Drifts Towards Libya, Environmental Disaster Risk",
-      source: "MarineLink",
-      sourceMeta: "marinelink.com · 2026-03-20",
-      image: "https://images.marinelink.com/images/maritime/w800/tomkorcak-stockadobecom-169081.jpeg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **손상된 러시아 LNG 탱커 사건**: 아르틱 메타가즈(Arctic Metagaz)호가 3월 초 우크라이나 해상드론 공격으로 손상 후 2주 이상 지중해에서 무인 표류 중</p><p>• **선박 정보 및 위치**: 무르만스크 항에서 출발한 LNG 탱커, 현재 리비아 트리폴리 북쪽 약 98km(53해리) 떨어진 국제해역(리비아 해상조난구조존)에서 표류</p><p>• **환경 위협 규모**: 선박에 450톤의 중유, 250톤의 디젤유, 그리고 불명확한 양의 LNG 적재 – 대규모 생태 재앙 위험</p><p>• **시간 임박**: 이탈리아 민간보호청에 따르면 현재 남향 바람과 해류 조건 시 4~6일 내 리비아 육지 도달 예상</p><p>• **국제적 대응**: 이탈리아, 프랑스, 스페인 등 9개 EU 남부 회원국이 유럽위원회에 긴급 경고 – 선박 우현에 큰 균열 있으나 즉시 침몰 위험은 낮음</p><p>• **주권 및 개입 문제**: 해당 구조구역이 리비아 관할로 리비아에 개입 책임 있으나 아직 리비아 당국과 직접 연락 없음, 이탈리아 해양경찰·해군이 모니터링 중</p><h3>Key Quotes</h3><p>• "Four, five or six days, more or less, for the vessel to reach Libyan land" (현재 바람과 해류 기준 4~6일 내 리비아 육지 도달 예상)</p><p>• "An imminent and serious risk of a major ecological disaster" (즉각적이고 심각한 대규모 생태 재앙 위험)</p><p>• "Large gash on its side" it does not appear to be at imminent risk of sinking (우현에 큰 균열이 있으나 즉시 침몰 위험은 낮음)</p><h3>Technical Insights</h3><p>• **해상 표류 선박의 환경 위험성**: LNG 탱커의 부분적 재기화 및 300톤 이상의 유류 유출 가능성 – 지중해 생태계에 미치는 장기적 영향 분석 필요</p><p>• **IMO 해상조난구조(SAR) 협약 한계**: 리비아 구조존 내 선박이나 국제해역 무인 선박의 개입 책임 불명확으로 인한 대응 지연 – 국경 간 해양사고 대응 체계 개선 필요</p><p>• **자율운항선박(MASS) 안전성 논의**: 무인 표류 선박의 위험성이 향후 자율운항선박 도입 시 필수 안전장치(자동복귀, 충돌회피, 원격제어) 요구사항 강화를 뒷받침</p><p>• **지정학적 해양사고의 복합성**: 전쟁 관련 해상 피해 선박의 환경 책임 및 국제법상 지위 불명확 – IMO와 UN이 함께 처리해야 할 신규 국제해양법 문제 대두</p></div>`,
-      tags: ["LNG tanker","Mediterranean","environmental hazard","unmanned vessel","Ukraine-Russia"],
-      link: "https://www.marinelink.com/news/damaged-russian-tanker-drifts-towards-537135",
-      coords: [13.1913,32.8872],
-      location: "Mediterranean Sea, Libya (Tripoli area)"
-    }
-  ]
-});
 
-// Auto-collected: 2026-03-21
-addEvents({
-  "2026-03-21": [
-    {
-      type: "news",
-      title: "Turkish MKE Develops PİRANA Kamikaze Unmanned Surface Vessel for Naval Operations",
-      source: "Defence Blog",
-      sourceMeta: "defence-blog.com · 2026-03-21",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 터키 국방회사 MKE가 차세대 무인 수상 전투 시스템(USV) 'PİRANA' 공개 - 터키 해군의 타격 자산으로 운영될 예정<br>• PİRANA는 자율 항해 및 무인 제어 기술을 기반한 신세대 무인선박 플랫폼으로, 해상 작전 전문 설계<br>• 터키의 육상/항공 플랫폼에 이어 해상 도메인으로 무인화 전략 확대의 일환<br>• 자율 수상 선박의 군사적 응용 분야 확대로 해양 안보 패러다임 변화 시작<br>• IMO 및 국제 해사법규에서 규제되지 않은 군용 무인선박 기술의 급속한 발전</p><h3>Key Quotes</h3><p>• "a system designed to serve as a strike asset for the Turkish Navy once it enters service" (터키 해군의 타격 자산으로 운영되도록 설계된 시스템)<br>• "platform was developed for maritime operations as part of a broader push beyond land and air" (육상 및 항공 분야를 넘어 해상 작전까지 확대하는 광범위한 전략의 일환)</p><h3>Technical Insights</h3><p>• 자율 항해 무인선박(USV)의 군사화: 민간 해운 산업의 자율화 기술이 군사 목적으로 전환되고 있으며, 이는 국제해양법상 회색지대 기술로 분류됨<br>• COLREG 및 IMO 규제의 공백: 무인 전투 선박은 기존 선박 충돌 규칙(COLREG)의 적용 범위 밖에 있어, 국제 해양 안전 기준의 재정의 필요<br>• 해상 무인화 기술의 군사 확산: NATO 및 동맹국들의 무인 수상 전투 플랫폼 개발 경쟁 심화로 국제 해양 안보 불확실성 증대</p></div>`,
-      tags: ["Unmanned Surface Vessel","Autonomous Maritime","Turkish Navy","Defense Technology"],
-      link: "https://defence-blog.com/turkish-firm-develops-new-gen-kamikaze-drone-boat/",
-      coords: [35.1264,38.9637],
-      location: "Turkey"
-    },
-    {
-      type: "news",
-      title: "U.S.-made AEGIR-W naval drone discovered off Turkish coast",
-      source: "Defence Blog",
-      sourceMeta: "defence-blog.com · 2026-03-21",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 미국 Sierra Nevada Corporation 제조 AEGIR-W 무인수상함정이 터키 Ordu 연안에서 민간인에 의해 발견됨<br>• 군사급 무인수상함정(USV)으로 전술환경에서의 정찰, 전자전 등 다목적 운영용으로 설계된 장비<br>• 터키 당국이 해당 함정을 검사 후 파괴할 예정<br>• 무인수상함정의 분실 또는 표류 사건으로 국방 기술 유출 및 지역 해양 안보 영향 가능성<br>• 자율항해 군사장비의 운영 안전성 및 통제 시스템 문제 노출</p><h3>Key Quotes</h3><br>• "military-grade unmanned surface vessel, or USV, designed for operations in contested environments, including reconnaissance, electronic" <br>(분쟁 지역에서의 정찰 및 전자전 작전용으로 설계된 군사급 무인수상함정)</p><h3>Technical Insights</h3><br>• AEGIR-W는 자율항해 기술과 원격조종 능력을 갖춘 차세대 무인수상함정으로, 해양에서의 자율시스템 운영 안전성 문제를 제기함<br>• 무인함정의 분실 사건은 자동 추적 및 긴급 정지 메커니즘(COLREG 준수 포함)의 강화 필요성을 시사<br>• 군사용 USV의 해양에서의 의도하지 않은 표류는 국제 해상 안보 규제 및 자율시스템 통제 기준의 재검토 필요</p></div>`,
-      tags: ["autonomous vessels","unmanned surface vessel","USV","military technology","naval security"],
-      link: "https://defence-blog.com/u-s-made-naval-drone-found-off-turkish-coast/",
-      coords: [35.6526,40.905],
-      location: "Ordu, Turkey"
-    }
-  ]
-});
-
-// ── Auto-Collected (Bot) ──
-
-// Auto-collected: 2026-03-21
-addEvents({
-  "2026-03-21": [
-    {
-      type: "news",
-      title: "Turkish Defense Firm Develops PİRANA Kamikaze Unmanned Surface Vessel",
-      source: "Defence Blog",
-      sourceMeta: "defence-blog.com · 2026-03-21",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 터키 국방회사 MKE가 신세대 카미카제식 무인수상함정 PİRANA(피라나)를 공개했으며, 이는 터키 해군의 공격자산으로 운영될 예정</p><p>• 무인수상함정(USV) 기술로 터키의 해양 방위 능력을 육상과 공중을 넘어 확대하는 전략의 일환</p><p>• 자동화된 드론 보트 시스템으로 해양 작전의 전술적 혁신과 원격 공격 능력 강화를 목표</p><p>• 터키 국방 산업의 무기 체계 현대화 추진 및 자주 국방력 강화 의지 표현</p><p>• 국제해사규칙(COLREG)과의 충돌 가능성 및 자율무기 규제 필요성 대두</p><h3>Key Quotes</h3><p>• "The platform was developed for maritime operations as part of a broader push beyond land and air" (이 플랫폼은 육상과 공중을 넘어 해양 작전 능력을 강화하려는 광범위한 노력의 일환으로 개발됨)</p><h3>Technical Insights</h3><p>• **자율무기 규제 이슈**: PİRANA와 같은 무인 공격 플랫폼은 국제해사기구(IMO)와 COLREG 규칙, 나아가 자율무기 국제 규제 논의의 중요한 대상이 될 전망</p><p>• **해양 감시 및 방어의 패러다임 전환**: 전통적 유인 전함 대신 저비용, 고성능의 무인 드론 보트 도입으로 해군 운영 비용 절감 및 인명피해 회피 가능</p><p>• **해양 교통 안전 우려**: 비-투명 자율 공격 시스템의 운영은 국제 해로에서의 충돌 회피 의무(Give-Way Rule) 준수 및 AIS 식별 문제와 직결되어 국제해사안전 협약 개정 필요</p><p>• **해양 분쟁 확대 우려**: 중동과 동지중해 지역의 지정학적 긴장 속에서 자율무기의 도입은 우발적 해상 충돌과 국제 분쟁 확산 가능성 증가</p></div>`,
-      tags: ["Unmanned Surface Vessel","USV","Turkish Navy","Autonomous Weapons","Naval Defense"],
-      link: "https://defence-blog.com/turkish-firm-develops-new-gen-kamikaze-drone-boat/",
-      coords: [35.2433,38.9597],
-      location: "Turkey"
-    }
-  ]
-});
-
-// ── Auto-Collected (Bot) ──
-
-// Auto-collected: 2026-03-20
-addEvents({
-  "2026-03-20": [
-    {
-      type: "accident",
-      title: "Damaged Russian LNG Tanker Arctic Metagaz Drifts Towards Libya, Poses Ecological Risk",
-      source: "MarineLink",
-      sourceMeta: "marinelink.com · 2026-03-20",
-      image: "https://images.marinelink.com/images/maritime/w800/tomkorcak-stockadobecom-169081.jpeg",
-      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 러시아 LNG 탱커 '아틱 메타가즈'호가 2026년 3월 초 우크라이나 해양드론 공격으로 손상된 후 2주 이상 무인 표류 중<br>• 현재 리비아 수색구조구역 내 트리폴리 북쪽 53해리 지점에 위치하며, 4~6일 내 리비아 해안에 도달할 것으로 예상<br>• 선박에 적재된 중유 450톤, 디젤 250톤, 및 미확정량의 LNG로 인한 대규모 생태재해 위험<br>• 선박 측면에 대형 손상(large gash)이 있으나 즉시 침몰 위험은 낮은 상태이지만, 좌초 또는 해상 석유 플랫폼 충돌 가능성 존재<br>• 이탈리아, 프랑스, 스페인 등 EU 남부 10개국이 유럽위원회에 생태재해 경고 문서 제출<br>• 리비아 당국과의 직접 접촉 없는 상태이며, 이탈리아 해안경비대와 해군이 모니터링 중</p><h3>Key Quotes</h3><br>• "Arctic Metagaz poses an imminent and serious risk of a major ecological disaster" (아틱 메타가즈호가 임박한 대규모 생태재해의 심각한 위험을 초래함)<br>• "The vessel is estimated to be carrying 450 metric tons of heavy oil and 250 tons of diesel as fuel supplies, and an 'uncertain' quantity of LNG" (선박은 연료유 중유 450톤, 디젤 250톤, 및 미확정량의 LNG를 적재한 것으로 추정됨)<br>• "While it has a 'large gash on its side' it does not appear to be at imminent risk of sinking" (선박 측면에 대형 손상이 있지만 즉시 침몰 위험은 없어 보임)</p><h3>Technical Insights</h3><br>• 무인 표류 선박의 해양 환경 위협 - LNG 탱커의 경우 부분적 재기화 및 연료유 유출로 인한 광범위한 생태계 오염 가능성이 높음<br>• 지중해 남부 해역의 해상교통 안전 및 환경보호 협약(Particularly Sensitive Sea Areas) 관련 국제해사기구(IMO) 규정의 실질적 적용 필요성 제기<br>• 분쟁 지역 해역에서의 선박 피해 및 무인 표류에 대한 국제법상 책임 문제 - 리비아 수색구조구역 내 사고로 리비아의 구조 의무 발생하나 실질적 역량 부족 시 국제적 공조 체계 작동<br>• 자율항해 및 원격조종 기술의 발전이 이러한 위기 상황에서 긴급 제어, 예인 또는 좌초 방지 등의 선제적 개입을 가능하게 할 수 있는 대안으로 검토 필요</p></div>`,
-      tags: ["LNG tanker","Mediterranean","oil spill risk","unmanned vessel","Ukraine-Russia conflict"],
-      link: "https://www.marinelink.com/news/damaged-russian-tanker-drifts-towards-537135",
-      coords: [13.1939,32.8872],
-      location: "Mediterranean Sea (north of Tripoli, Libya)"
-    }
-  ]
-});
-
-// Auto-collected: 2026-03-21
-addEvents({
-  "2026-03-21": [
-    {
-      type: "news",
-      title: "Turkish MKE Develops PİRANA Kamikaze Unmanned Surface Vessel for Naval Strike Operations",
-      source: "Defence Blog",
-      sourceMeta: "defence-blog.com · 2026-03-21",
-      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 터키 국방회사 MKE가 신세대 카미카제 무인수상함정 PİRANA를 개발·공개하였으며, 터키 해군의 타격 자산으로 운용될 예정<br>• 무인수상함정(USV, Unmanned Surface Vessel)은 해상 작전을 위한 플랫폼으로, 육상·공중을 넘어 해양 영역으로의 방위력 확대 전략의 일환<br>• 자율 해양 시스템의 군사적 활용이 급속도로 증가하는 국방 산업 추세를 반영<br>• COLREG 및 국제 해상법상 무인 전투 함정의 운영 기준 미확립으로 국제적 논의 필요<br>• 해상 드론 기술의 발전으로 인한 해역 안보 환경의 급변적 변화</p><h3>Key Quotes</h3><p>• "The platform was developed for maritime operations as part of a broader push beyond land and air" (해당 플랫폼은 육상 및 공중을 넘어 해양 영역으로의 방위력 확대 전략의 일환으로 개발됨)</p><h3>Technical Insights</h3><p>• 무인수상함정의 자율항법 기술은 인공지능 기반의 표적 인식, 회피 및 타격 시스템과 통합되어 기술적 난제 해결 중<br>• IMO 및 국제해사기구는 현재 자율 무기 시스템의 운영 규범 및 안전 기준 마련을 추진 중이나, 군사용 무인 함정은 제도적 공백 상태<br>• 해상 자율 시스템의 확산은 해역 통항 안전, 오인사격 위험, 국제 분쟁 확대 가능성 등 해양 안보 환경의 근본적 변화를 야기할 전망<br>• 터키의 PİRANA 개발은 해양 무기 체계의 자동화·자율화 추세를 가속화하며, 다국적 해군 간 해상 작전 개념의 재정의 필요성을 제시</p></div>`,
-      tags: ["Unmanned Surface Vessel","Autonomous Maritime Systems","Turkish Navy","Naval Weapons","Defense Technology"],
-      link: "https://defence-blog.com/turkish-firm-develops-new-gen-kamikaze-drone-boat/",
-      coords: [35.2433,38.9637],
-      location: "Turkey"
-    }
-  ]
-});
