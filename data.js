@@ -2370,5 +2370,40 @@ addEvents({
   ]
 });
 
+// ── Auto-Collected (Bot) ──
 
+// Auto-collected: 2026-03-21
+addEvents({
+  "2026-03-21": [
+    {
+      type: "news",
+      title: "Bluebottle USV to Feature in Australian Navy's Fleet Review for the First Time",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-03-21",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/03/Ocius-Bluebottle-in-Sydney-Harbour-1-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 호주 해군(Royal Australian Navy)이 Exercise Kakadu 함대 훈련에서 처음으로 무인 표면 함정(USV, Uncrewed Surface Vessel) Bluebottle을 정식 함대 리뷰에 포함시킴<br>• Ocius Technology가 제조한 Bluebottle USV는 태양광, 풍력, 파력으로 구동되는 연료 불필요 자율 감시 플랫폼으로 수개월 지속 운영 가능<br>• 호주 해군은 Ocius와 1억 7,600만 달러(약 176M AUD) 규모의 Program of Record 계약을 체결하여 기존 15척에서 40척 추가 도입 계획<br>• Bluebottle은 호주 최초의 해군 정식 등록 무인함정이며, 2026년 시드니 항구에서 호주 해군 창립 125주년 기념 행사에 약 30척의 호주 함정과 18개 국가 함정과 함께 참가<br>• 무인 자율 시스템의 도입은 호주의 광대한 해상 영역 감시 및 해양 국경 보호 능력을 크게 강화하며, 비용 효율성과 작전 지속성 향상</p><h3>Key Quotes</h3><br>• "The Bluebottle USV is an operational capability already delivering persistent maritime surveillance for Australia. By participating in the Exercise Kakadu Fleet Review 2026, the Royal Australian Navy is making clear that uncrewed systems are an integral part of Australia's advanced maritime capabilities." (Bluebottle USV는 호주를 위해 지속적인 해상 감시 능력을 이미 제공하고 있는 실용 운영 시스템이며, Exercise Kakadu 함대 리뷰 참가를 통해 호주 해군은 무인 시스템이 호주의 첨단 해양 능력의 필수 구성 요소임을 명확히 하고 있음)</p><p>• "With Bluebottle USVs designed and manufactured right here in Australia, this important milestone also reflects the world-leading innovation of our maritime defence technology industry." (Bluebottle USV가 호주에서 설계·제조되고 있으며, 이는 호주의 세계 최고 수준의 해양 방위 기술 산업 혁신을 반영함)</p><h3>Technical Insights</h3><br>• **자율 해양 시스템의 전력화**: Bluebottle USV는 연료 불필요한 재생 에너지 기반 무인함정으로, 수개월 지속 운영이 가능하여 기존 유인함의 운영 비용과 인력 소비를 대폭 감소시킬 수 있는 신 개념의 해양 감시 플랫폼임</p><p>• **통합 작전 능력**: Bluebottle USV는 다른 수상/수중 자산과 협업하는 팀 환경에서 작동하도록 설계되어, 통합 전력 운영 개념(integrated force architecture)의 구현을 가능하게 함</p><p>• **호주 해양 방위 산업의 국제 경쟁력**: 호주 자체 설계·제조 USV의 대량 도입(총 55척 규모)은 인도-태평양 지역 해양 안보 강화와 함께 호주의 방위 기술 수출 기반 강화를 의미함</p><p>• **IMO/COLREG 자율항행 규제 선행 사례**: 호주 해군의 Bluebottle 정식 등록 및 함대 운영은 국제 해사 자율항행 규제 정립 이전에 이미 실용 운영되는 사례로, 국제 해사기구(IMO) 자율항행 기준 개발에 실전 데이터를 제공할 것으로 예상됨</p></div>`,
+      tags: ["Autonomous Systems","USV","Royal Australian Navy","Bluebottle","Exercise Kakadu","Maritime Surveillance"],
+      link: "https://www.navalnews.com/naval-news/2026/03/bluebottle-usv-to-feature-in-australian-navys-fleet-review-for-the-first-time/",
+      coords: [151.2093,-33.8688],
+      location: "Sydney Harbour, Australia"
+    }
+  ]
+});
 
+// Auto-collected: 2026-03-23
+addEvents({
+  "2026-03-23": [
+    {
+      type: "news",
+      title: "QatarEnergy reports $20 billion loss from missile attacks on LNG facilities",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-03-23",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2024/12/QatarEnergy.jpg?image-crop-positioner-ts=1733911553",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **주요 사건**: 3월 18일 이란의 미사일 공격으로 카타르의 라스 라판 산업도시 내 LNG 시설에 광범위한 피해 발생</p><p>• **피해 규모**: QatarEnergy의 LNG 수출 능력 17% 감소(12.8 mtpa) 및 연간 약 $200억 규모의 손실 발생</p><p>• **복구 기간**: 손상된 LNG 생산 시설 복구에 3~5년 소요 예상으로 장기 Force Majeure 선언</p><p>• **영향 지역**: 중국, 한국, 이탈리아, 벨기에 등 주요 LNG 수입국에 공급 중단</p><p>• **글로벌 영향**: 호르무즈 해협 폐쇄로 인한 유가 상승($100 예상) 및 글로벌 에너지 안보 위기 심화</p><p>• **동반 피해**: Pearl GTL 시설(Shell 운영)도 공격 대상으로 포함되어 고급 연료 및 윤활유 생산 중단</p><h3>Key Quotes</h3><p>• "This was an attack on all of us who stand for development and human progress that is sustained by a fair, reliable, and secure access to energy." <br>(에너지의 공정하고 신뢰할 수 있는 접근을 통한 발전과 인류 진보를 지지하는 우리 모두에 대한 공격)</p><p>• "The damage sustained by the LNG facilities will take between three to five years to repair. The impact is on China, South Korea, Italy and Belgium."<br>(LNG 시설 복구에는 3~5년이 소요되며, 중국, 한국, 이탈리아, 벨기에에 영향을 미친다)</p><h3>Technical Insights</h3><p>• **LNG 공급망 위기**: 카타르 LNG 생산 능력 17% 손실로 글로벌 LNG 시장의 공급 부족 심화 및 장기 계약 불이행 가능성 대두</p><p>• **해운 물류 영향**: 호르무즈 해협 폐쇄로 인한 LNG 수송 경로 변경 필요 및 해상 운송료 급등으로 해운업체의 비용 부담 증가</p><p>• **에너지 보안 및 IMO 규제**: 유사 지정학적 위기 상황에서 해상 화물 운송의 안전성 강화 및 자율운항선박(MASS) 도입을 통한 인명 손실 최소화 필요성 증대</p><p>• **산업 복구력(Resilience)**: 주요 에너지 인프라의 손상 대응 능력 강화 및 대체 해운 루트 구축을 통한 글로벌 공급망 안정화 전략 수립 시급</p></div>`,
+      tags: ["LNG","QatarEnergy","Middle East Crisis","Energy Security","Force Majeure"],
+      link: "https://www.offshore-energy.biz/qatarenergy-missile-attacks-spur-20-billion-loss-with-drop-in-lng-exports/",
+      coords: [51.6163,25.2854],
+      location: "Ras Laffan Industrial City, Qatar"
+    }
+  ]
+});
