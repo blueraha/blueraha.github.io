@@ -2445,3 +2445,53 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2024-10-14
+addEvents({
+  "2024-10-14": [
+    {
+      type: "accident",
+      title: "Pilot's Tug Mix-Up Caused Tanker Pier Strike in California",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2024-10-14",
+      image: "https://gcaptain.com/wp-content/uploads/2026/03/Platanos.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 2024년 10월 14일 샌프란시스코 만 카르키네즈 해협의 마르티네즈 정유소 부두에서 원유 탱커 플라타노스호(820피트)가 접안 해제 중 콘크리트 돌핀 구조물에 충돌</p><p>• **원인**: 숙련된 파일럿(30년 경력)이 보조 예인선 2척의 위치를 참조 카드에 잘못 기입하여 전후 위치를 뒤바꾸고 명령을 잘못된 예인선에 전달</p><p>• **결과**: 후미(stern)가 부두 방향으로 급속히 이동하여 콘크리트 구조물 충돌, $500,000 이상의 복합 손상 발생(오염/인명피해 없음)</p><p>• **인적 요소**: 파일럿의 순환생리 저기간(0300-0500) 조기 운항 수행, 약 4.5시간 수면 후 작업 진행으로 집중력 저하 가능성 확인</p><p>• **NTSB 결론**: 기계 결함 없음, 기상 양호 - 단순 인적 오류(slip/lapse)로 판정되었으며 선교팀의 개입 시점에는 사고 방지 불가능</p><p>• **관련 기관**: NTSB(미국 운송안전위원회), Martinez Refining Company, Samos Steamship Co.</p><h3>Key Quotes</h3><p>• **"The bow [was] rapidly pulled away from the pier, causing the stern of the ship to move toward the pier,"** (선수가 부두에서 급속히 떨어지면서 선미가 부두 방향으로 이동하게 됨)</p><p>• **"The master did recognize the developing risk and warned the pilot that the stern was 'too close' roughly 30 seconds before impact."** (선장이 충돌 약 30초 전에 선미가 '너무 가깝다'고 경고했으나 이미 회피 시간 상실)</p><p>• **"That error led to an incorrect mental model of how the ship would respond to tug inputs."** (참조 카드 오류로 인해 파일럿의 예인선 명령에 대한 선박 반응에 대한 잘못된 정신 모형 형성)</p><h3>Technical Insights</h3><p>• **예인선 운용 안전성**: 디지털 식별 시스템 부재로 인한 수작업 참조 카드 사용의 위험성 - 아날로그 시스템의 개선 필요성 대두</p><p>• **순환생리와 해양 안전**: 0300-0500 시간대의 인적 오류 발생률 증가 구간으로 항만 조종 관행 개선(최소 휴식 요구사항, 파일럿 교대 제도) 필요</p><p>• **IMO/선박관리**: STCW 협약 상 피로도 관리 강화 및 선교 시스템에서 예인선 위치/상태를 자동 시각화하는 Decision Support System(DSS) 도입 필요성</p><p>• **산업 교훈**: 숙련도 높은 파일럿도 루틴 작업 중 발생하는 "Slip" 유형 오류로부터 안전하지 않음 - CRM(Crew Resource Management) 및 이중 확인 절차의 지속적 강화 필요</p></div>`,
+      tags: ["tanker","allision","pilot error","tug operation","California"],
+      link: "https://gcaptain.com/pilots-tug-mix-up-caused-tanker-pier-strike-in-california/",
+      coords: [-122.2171,38.0553],
+      location: "Martinez Refining Company Wharf, Carquinez Strait, California"
+    }
+  ]
+});
+
+// Auto-collected: 2026-03-24
+addEvents({
+  "2026-03-24": [
+    {
+      type: "news",
+      title: "IQUA Robotics Successfully Proves AUV Technology for Autonomous Ship Hull Inspection",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-03-24",
+      image: "https://images.marinelink.com/images/maritime/w800/sparus-vehicle-169156.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• IQUA Robotics가 개발한 ESCABVENTS 프로젝트가 자율수중선(AUV, Sparus II)을 선박 선체 검사에 사용하는 개념증명(PoC) 테스트를 성공적으로 완료했으며, EU NextGenerationEU 자금 지원을 받음</p><p>• Zamakona Yards 조선소와 협력하여 어선, 연구선, 국방함 등 다양한 선종 4척을 대상으로 실항해 시험을 수행하고 센티미터 해상도의 3D 재구성 데이터 획득</p><p>• 부식, 해양생물 부착(바이오파울링), 페인트 손상 등 선체 상태를 자동으로 식별 가능하며, 다이버나 유선식 로봇(ROV)에 비해 안전성 및 효율성 향상</p><p>• 복잡한 형상의 영역(프로펠러, 러더 등)에서 음향 반사로 인한 어려움과 고광도 대비로 인한 측면 촬영 문제 등 개선 과제 확인</p><p>• 선박 유지보수 외에도 항만 보안, 중요 인프라 검사, 수중 불법물품 탐지 등의 확대 적용 가능성 제시</p><h3>Key Quotes</h3><p>• "The use of an autonomous vehicle like the Sparus II AUV allows for systematic hull scanning without direct intervention from an operator in piloting." (Sparus II AUV 같은 자율수중선을 사용하면 운영자의 직접 조종 개입 없이 체계적인 선체 스캔이 가능함)</p><p>• "These campaigns allowed the collection of multiple datasets on four vessels of different types, including fishing, research, and defense ships. The results show that it is possible to obtain 3D reconstructions with centimetric resolution, facilitating the identification of corrosion, marine fouling, or paint damage." (다양한 선종 4척에서 수집한 데이터로 센티미터 단위 해상도의 3D 재구성이 가능하며, 부식 및 해양생물 부착 식별 용이)</p><h3>Technical Insights</h3><p>• **AUV 기반 자동화 검사 체계**: 유인 다이버 또는 유선식 ROV에 의존하던 전통적 선체 검사 방식에서 완전 자율운영 시스템으로의 전환으로, 작업 안전성 향상 및 운영 비용 절감 가능</p><p>• **센티미터급 음향 영상 정밀도**: Sparus II AUV의 고해상도 소나 및 영상 센서를 통해 선체 부식, 바이오파울링 등 미시적 손상까지 자동 탐지 가능하며, 예방적 선박 유지보수 고도화의 기반 제공</p><p>• **복합기하 영역 및 고광도 환경의 극복 과제**: 프로펠러/러더 부근의 음향 반사 간섭, 선체 측면의 고광도 대비 문제 등은 향후 알고리즘 개선 및 센서 융합 기술 개발 필요성을 시사하며, 자율 선박 운영 시 해양 환경 적응성 강화 필수</p><p>• **항만보안 및 항해 안전 확대 응용**: 선체 검사 기술의 확장으로 항만 인프라 보안, 수중 불법물품 및 위협 요소 탐지 등 해양 보안 및 해양법 집행 분야의 기술 혁신 가능성을 제시하며, IMO 해양 자율화 규제 프레임워크와 연계된 산업 표준화 논의 필요</p></div>`,
+      tags: ["Autonomous Underwater Vehicles","Hull Inspection","Ship Maintenance","Maritime Technology","EU-funded Research"],
+      link: "https://www.marinelink.com/news/iqua-robotics-successful-proves-auv-537258",
+      coords: [0,0],
+      location: "Spain (Zamakona Yards, Canary Islands)"
+    },
+    {
+      type: "news",
+      title: "Japan Certifies First RoRo with Autonomous Navigation Capability",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-03-24",
+      image: "https://maritime-executive.com/media/images/article/Photos/Vessels_Large/Hokuren-Maru-No-2_1.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **일본 최초 자율운항 RoRo 인증 완료**: 가와사키기센카이샤(K LINE)가 운영하는 6,890톤급 호쿠렌마루 2호가 상업운항 중 완전 자율운항을 수행할 수 있는 국제 인증을 획득</p><p>• **ClassNK 및 일본 국토교통성 인증 취득**: 2026년 1월 27일 ClassNK로부터 자율선박 인증을, 2월 9일 일본 국토교통성으로부터 정기검사 합격을 획득하여 모든 법적 요건 완료</p><p>• **니폰재단의 MEGURI2040 프로젝트의 진전**: 2020년 시작된 프로젝트로 2040년까지 국내선의 50% 무인운항 달성을 목표로 하며, 현재 세 번째 시범선박의 인증 완료</p><p>• **운항 노선 및 시스템 특성**: 홋카이도 쿠시로항과 도쿄 북부 히타치항 간 국내노선에서 낙농 및 농산물 운송 담당, 어선 통행과 악천후·안개 등 도전적 환경에서 평균 96% 운영율 달성</p><p>• **개발 팀 및 기술 개선**: K LINE, Japan Radio, YDK Technologies의 협업으로 2023년부터 개발 시작, 2025년까지 자동속력제어시스템 개발 포함 지속적 개선</p><p>• **해상 인력 부족 대응**: 일본의 고령화·감소하는 해사 인력 대비, 인적 오류로 인한 해상사고 예방, 해기사의 업무 경감이 주요 추진 목표</p><h3>Key Quotes</h3><p>• "The 6,890-dwt RoRo Hokuren Maru No. 2, owned and operated by Kawasaki Kisen Kaisha, Ltd. ("K" LINE), completed a series of certifications in January and February on its way to becoming the first autonomous RoRo." (가와사키기센카이샤가 운영하는 호쿠렌마루 2호가 1월과 2월의 일련의 인증을 완료하여 일본 최초의 자율운항 RoRo가 됨)</p><p>• "They reported the system achieved an average operational rate of 96 percent in the sea area during its first tests." (초기 시험에서 해역 평균 운영율 96% 달성을 보고)</p><p>• "The Nippon Foundation launched the project in 2020, known as MEGURI2040, with the goal of achieving 50 percent unmanned operation of domestic vessels by 2040." (니폰재단이 2040년까지 국내선의 50% 무인운항 달성을 목표로 2020년 MEGURI2040 프로젝트 시작)</p><h3>Technical Insights</h3><p>• **COLREG 준수 및 자동항법 시스템**: 센서 기반 데이터 수집 및 처리를 통한 자동항법 시스템은 국제해사법규(COLREG) 준수와 혼잡해역(도쿄만) 및 악천후 환경에서의 안전한 운항 능력 입증이 핵심 요건</p><p>• **ClassNK 자율선박 인증 기준**: 국제해사기구(IMO)의 MASS(Maritime Autonomous Surface Ships) 규제 프레임워크 선행 구현으로, 정부 인증과 선급사 인증의 이중 검증 체계 완성</p><p>• **국내선 자율화의 산업적 의의**: RoRo는 일본 경제에서 중요한 역할을 하는 선종으로, 장거리 국제항로보다 규칙적 국내항로가 자율운항 기술 검증에 유리하며 경제성 입증에 적합</p><p>• **해운산업 인력 문제 해결 모델**: 고령화 사회의 해사 인력 부족을 자율화로 대응하는 사례로, IMO 2050 탄소중립 목표와 함께 고효율·저비용 운영 모델 구축에 기여할 수 있는 기술적 기반 마련</p></div>`,
+      tags: ["Autonomous Ships","Japan","RoRo","MEGURI2040","ClassNK Certification"],
+      link: "https://maritime-executive.com/article/japan-certifies-its-first-roro-with-autonomous-navigation",
+      coords: [141.5,43.5],
+      location: "Kushiro Port to Hitachi Port, Japan"
+    }
+  ]
+});
