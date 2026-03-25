@@ -2495,3 +2495,53 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2024-10-14
+addEvents({
+  "2024-10-14": [
+    {
+      type: "accident",
+      title: "Pilot's Tug Mix-Up Caused Tanker Pier Strike in California",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-03-24",
+      image: "https://gcaptain.com/wp-content/uploads/2026/03/Platanos.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 2024년 10월 14일 새벽 캘리포니아 카르퀴네즈 해협의 마르티네즈 정유소 부두에서 원유 탱커 플라타노스(Platanos, 820피트)가 이안(undocking) 중 선착장 돌핀에 충돌하여 50만 달러 이상의 피해 발생</p><p>• **사고 원인**: 항해사 파일럿이 조종선(assist tug) 2척의 위치를 참고 카드에 잘못 기록하여 선수 튜그 명령을 선미 튜그에 전달, 선미가 부두 쪽으로 급속 접근</p><p>• **인명 및 오염**: 인명피해 없음, 해양오염 없음, 선체 관통 손상만 발생(선수 펌프실 void space)</p><p>• **파일럿 요인**: 30년 이상 경력의 경험 많은 파일럿도 실수 범위 내 포함, 사고 전 4.5시간 수면에 새벽 0412시 시간대 순환리듬 저점에서 발생</p><p>• **NTSB 판정**: 기계적 결함 없음, 기상 양호, 고전적인 "slip/lapse" 유형의 인적 오류로 판정, 선장의 경고에도 불구하고 교정 불가능한 상황으로 악화</p><h3>Key Quotes</h3><p>• **"The bow [was] rapidly pulled away from the pier, causing the stern of the ship to move toward the pier"** (선수가 부두에서 급속히 멀어지면서 선미가 부두 쪽으로 이동하게 됨 - 반대 방향 튜그 명령의 결과)</p><p>• **"The master did recognize the developing risk and warned the pilot that the stern was 'too close' roughly 30 seconds before impact"** (선장이 충돌 약 30초 전 선미가 너무 가깝다고 경고했으나 이미 교정 불가능한 상태)</p><p>• **"The pilot had written the tug positions incorrectly on a handheld 'radio card' used for quick reference while maneuvering from the bridge wing"** (파일럿이 선교익에서 신속 참조용 휴대용 라디오 카드에 튜그 위치를 잘못 기록)</p><h3>Technical Insights</h3><p>• **조종선 명령 체계의 취약성**: 음성 기반 튜그 명령에서 참고 자료의 오류가 직접적인 선박 응력(stern drift)으로 즉시 전환되며, 암흑 중 가시성 제한으로 인한 실시간 교정 불가능성 노출</p><p>• **인적 오류의 극심한 위험성**: COLREG 및 해상안전 규정은 기계적 장애를 중심으로 하나, 30년 경력 파일럿도 일상적 작업의 "slip/lapse"에 취약함을 입증 - 자동화/CAS(Collision Avoidance System) 도입의 필요성 강화</p><p>• **IMO/해운 산업 정책 시사점**: 항구 조종 절차의 이중 점검(dual verification), 디지털 튜그 포지셔닝 시스템(GPS 기반 자동 표시), 파일럿 피로도 관리(fatigue risk management) 강화 규정 도입 필요성 증대</p><p>• **순환리듬(Circadian Rhythm) 조종 안전**: 0300-0500 시간대 저점에서의 조종 작업 제한 또는 강화된 감시체계 도입으로 조종 오류 감소 가능 - 자율운항선(MASS) 도입 시 인적 피로 요인 완전 제거의 이점 부각</p></div>`,
+      tags: ["tanker allision","harbor pilot error","NTSB investigation","human factors"],
+      link: "https://gcaptain.com/pilots-tug-mix-up-caused-tanker-pier-strike-in-california/",
+      coords: [-122.258,38.058],
+      location: "Carquinez Strait, Martinez, California"
+    }
+  ]
+});
+
+// Auto-collected: 2026-03-24
+addEvents({
+  "2026-03-24": [
+    {
+      type: "news",
+      title: "IQUA Robotics Successfully Demonstrates AUV Technology for Autonomous Ship Hull Inspection",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-03-24",
+      image: "https://images.marinelink.com/images/maritime/w800/sparus-vehicle-169156.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **IQUA Robotics가 개발한 ESCABVENTS 프로젝트가 자율수중로봇(AUV) 기반 선박 선체검사 개념증명 성공**<br>• **Sparus II AUV를 활용하여 다양한 선박 유형(어선, 연구선, 방위사업선)에 대한 실해역 시험 완료**<br>• **센티미터 단위 해상도의 3D 재구성으로 부식, 생물부착, 도료손상 등 식별 가능 확인**<br>• **운영자 개입 없이 체계적 선체검사 수행으로 다이버 및 유선로봇(ROV) 대체 가능성 입증**<br>• **복잡한 기하학 구조(선미부, 프로펠러) 및 광 대비 문제 등 추가 개선과제 식별**<br>• **선박 예방정비 효율성 개선뿐만 아니라 항만보안 및 위협감지 분야로 활용 확대 예상**</p><h3>Key Quotes</h3><p>• "The use of an autonomous vehicle like the Sparus II AUV allows for systematic hull scanning without direct intervention from an operator in piloting." (Sparus II AUV와 같은 자율수중로봇을 활용하면 운영자의 직접적인 조종 개입 없이 체계적인 선체 검사가 가능하다는 의미)</p><p>• "The results show that it is possible to obtain 3D reconstructions with centimetric resolution, facilitating the identification of corrosion, marine fouling (biofouling), or paint damage." (선체 부식, 생물부착, 도료손상 등을 식별하는 데 도움이 되는 센티미터 단위 해상도의 3D 재구성이 가능함을 보여줌)</p><h3>Technical Insights</h3><p>• **자율수중로봇의 해양 인프라 검사 적용으로 기존 다이버 및 유선로봇 운영 비용 및 안전위험 감소 기대**<br>• **선체 선회부(stern) 및 고대비 조명 환경에서의 음향반사 및 이미지 언더노출 문제는 향후 AI 기반 자동추적 및 다중센서 융합으로 해결 방향**<br>• **EU의 NextGenerationEU 지원 하에 스페인 선박산업 경쟁력 강화 프로젝트로 추진되며, 해양방위사업 및 항만보안 활용까지 확대 가능한 전략적 기술**<br>• **IMO의 선박 예방정비 및 구조검사 기준(SOLAS, MARPOL)과의 연계를 통해 자율로봇 검사의 규제 표준화 필요성 대두**</p></div>`,
+      tags: ["Autonomous Underwater Vehicles","Hull Inspection","Maritime Technology","Preventive Maintenance"],
+      link: "https://www.marinelink.com/news/iqua-robotics-successful-proves-auv-537258",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "Japan Certifies First RoRo with Autonomous Navigation - Hokuren Maru No. 2",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-03-24",
+      image: "https://maritime-executive.com/media/images/article/Photos/Vessels_Large/Hokuren-Maru-No-2_1.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 일본 최초의 자율항행 RoRo선박 호쿠렌마루 2호가 2026년 1월-2월 인증 완료, 상업운항 면허 취득 달성<br>• 니혼재단의 'MEGURI2040' 프로젝트 일환으로 가와사키 기센(K LINE) 소유, 홋카이도 쿠시로항-히타치항 정기항로 운영<br>• 6,890톤급 6년식 선박에 AI 센서 탑재, 초기 운용률 96% 달성, 2023년부터 2년간 개발 진행<br>• ClassNK 자율선박 인증(1월 27일), 일본 국토교통성 통과검사(2월 9일) 모두 완료<br>• 2040년까지 국내 선박 50% 무인운영 목표, 선원 고령화·인력 부족 및 인적오류 사고 감소 목표</p><h3>Key Quotes</h3><p>• "The 6,890-dwt RoRo Hokuren Maru No. 2...became the first vessel of its kind to complete the licensing requirements to conduct fully autonomous navigation during commercial operations." <br>  (6,890톤급 RoRo 호쿠렌마루 2호가 상업운항 중 완전 자율항행 인증을 취득한 첫 RoRo선박이 되었음)</p><p>• "They reported the system achieved an average operational rate of 96 percent in the sea area during its first tests."<br>  (초기 실해역 시험에서 시스템의 평균 운용률이 96%에 도달했음을 보고)</p><p>• "The Nippon Foundation launched the project in 2020, known as MEGURI2040, with the goal of achieving 50 percent unmanned operation of domestic vessels by 2040."<br>  (니혼재단이 2020년 MEGURI2040 프로젝트를 시작해 2040년까지 국내 선박 50% 무인운영 달성 목표 설정)</p><h3>Technical Insights</h3><p>• **자율항행 기술 진화**: K LINE·Japan Radio·YDK Technologies 컨소시엄이 센서 기반 AI 항법 시스템 개발, 도쿄만 혼잡 해역·장거리(500마일)·18시간 이상 내구성 테스트 통과로 실운용 준비 완료<br>• **규제 체계 정립**: ClassNK 선급 인증과 국토교통성 통과검사 이원화 승인 시스템 구축으로 자율선박 상업운항의 법적 기초 마련<br>• **산업적 파급력**: RoRo 화물선의 자율화는 농산물·축산물 수송 효율화, 선원 부족 해소, 악천후·안개 해역 안전성 향상으로 지역 공급망 안정화에 기여 예상<br>• **IMO COLREG 적용**: 어선 밀집 항로에서의 충돌회피, 기상악화 자동속도 제어 등 자율시스템이 국제해상충돌방지규칙 준수 능력 입증, 글로벌 자율선박 표준화 참고사례 제공</p></div>`,
+      tags: ["Autonomous Ships","RoRo Vessel","Japan Maritime","MEGURI2040 Project","Unmanned Operations"],
+      link: "https://maritime-executive.com/article/japan-certifies-its-first-roro-with-autonomous-navigation",
+      coords: [141.5731,35.6762],
+      location: "Japan (Tokyo/Hokkaido route)"
+    }
+  ]
+});
