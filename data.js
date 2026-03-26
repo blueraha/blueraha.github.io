@@ -2583,3 +2583,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-03-25
+addEvents({
+  "2026-03-25": [
+    {
+      type: "accident",
+      title: "Russian Baltic Port Halts Crude Loading as Ukrainian Drones Cause Fire at Ust-Luga",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-03-25",
+      image: "https://gcaptain.com/wp-content/uploads/2026/03/Project-23550.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 러시아 발트해 우스트-루가 항구의 노바텍(Novatek) 터미널에서 우크라이나 드론 공격으로 화재 발생, 유해 적재 일시 중단<br>• 저장 탱크 및 적재 장비 화재, 지역 당국에서 화재 진화 중 – 일일 45만 배럴의 원유 수출 영향<br>• 우크라이나 총참모부는 드론으로 석유제품 시설 직격, 러시아 방위부는 야간 우크라이나 드론 389기 격추(2025년 3월 10일 이후 최대)<br>• 프리모르스크 항구도 같은 주 공격으로 36시간 이상 적재 중단 – 발트해 러시아 석유 수출 능력 심각 약화<br>• 중동 전쟁(4주째)으로 호르무즈 해협 폐쇄, 브렌트유 배럴당 $100 이상, 글로벌 석유 부족 우려 심화</p><h3>Key Quotes</h3><br>• "Ukraine's General Staff said in a Telegram statement that drones hit Novatek PJSC's oil-product facilities at the port, setting ablaze storage tanks and loading equipment." (우크라이나 총참모부가 드론으로 저장 탱크와 적재 장비에 불을 붙였다고 발표)</p><p>• "Ust-Luga is a key Russian oil-export outlet, shipping some 450,000 barrels of crude per day last month." (우스트-루가는 러시아 석유 수출의 핵심 항구로 월간 45만 배럴 수출)</p><p>• "Officials in Kyiv have previously said their attacks on Russia's energy infrastructure aim to curtail the Kremlin's oil revenue, which helps finance the invasion." (키예프 당국은 러시아 에너지 기반시설 공격으로 침략 전쟁 자금을 차단한다고 설명)</p><h3>Technical Insights</h3><br>• **해상 석유 인프라 안전성 위협**: 드론 공격에 취약한 고정식 석유 터미널 시설의 대규모 손상 가능성이 해양 에너지 공급망의 회복력(resilience) 문제 부각<br>• **지정학적 해상 운송 위협**: 발트해 주요 석유 수출항(우스트-루가, 프리모르스크) 반복 피해로 글로벌 유가 및 해운 보험료 상승 우려<br>• **국제 해운 안전 협약의 한계**: COLREG, IMO 해사안전규칙이 무력 분쟁 지역 선박/항만 보호 범위 재검토 필요 – 해전 환경에서의 항만 운영 국제 기준 부재<br>• **에너지 공급망 다원화**: 러시아 발트해 항구 마비로 대체 석유 운송로(파이프라인, 극동 항구) 수요 증가, 글로벌 해운업의 운송 경로 재편성</p></div>`,
+      tags: ["Port Fire","Drone Attack","Oil Terminal","Russia-Ukraine War","Baltic Sea"],
+      link: "https://gcaptain.com/russian-baltic-port-halts-crude-loading-as-drones-cause-fire/",
+      coords: [37.6667,59.6667],
+      location: "Ust-Luga, Baltic Sea, Russia"
+    }
+  ]
+});
+
+// Auto-collected: 2026-03-24
+addEvents({
+  "2026-03-24": [
+    {
+      type: "news",
+      title: "Japan Certifies First RoRo with Autonomous Navigation",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-03-24",
+      image: "https://maritime-executive.com/media/images/article/Photos/Vessels_Large/Hokuren-Maru-No-2_1.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 일본의 Hokuren Maru No. 2 RoRo가 완전 자율운항 상용화 인증을 획득하여 첫 자율항행 RoRo 선박이 되었음</p><p>• K LINE(가와사키 기센 카이샤)가 소유·운영하며 홋카이도 쿠시로항과 도쿄 북부 히타치항 사이의 국내 항로에서 낙농제품 운송 담당</p><p>• 2020년 출범한 니혼 재단의 MEGURI2040 프로젝트의 일환으로 2023년부터 2025년까지 지속적인 기술 개선 수행</p><p>• ClassNK의 자율운항 인증(2026년 1월 27일)과 일본 국토교통부 법정검사 통과(2026년 2월 9일) 완료로 상용운항 승인</p><p>• 해기사 인구 감소, 업무 부하 경감, 인적오류로 인한 사고 예방이 주요 추진 배경이며 2040년까지 국내 선박 50% 무인운항 목표</p><h3>Key Quotes</h3><p>• "The ship was selected for the project both because of the critical importance of RoRos in the Japanese economy and because it travels a route that is busy with fishing vessels and subject to rough weather and fog." (RoRo 선박이 일본 경제에서 매우 중요하고, 어선이 많으며 악천후와 안개가 많은 항로를 운항하기 때문에 선정되었음을 의미)</p><p>• "The system achieved an average operational rate of 96 percent in the sea area during its first tests." (초기 테스트 당시 해역에서 96% 평균 운영률을 달성했음을 보여줌)</p><p>• "The Nippon Foundation launched the project in 2020, known as MEGURI2040, with the goal of achieving 50 percent unmanned operation of domestic vessels by 2040." (2040년까지 국내 선박의 50% 무인운항이라는 야심찬 목표를 설정)</p><h3>Technical Insights</h3><p>• **자율운항 센서 시스템**: 선박에 장착된 센서로부터 수집한 데이터를 기반으로 항법을 결정하는 통합 자율운항 시스템이 96% 이상의 안정적 운영률 달성으로 실용성 입증</p><p>• **COLREG 및 IMO 규격 준수**: ClassNK 인증 획득으로 국제 해사 규정 및 자율운항 선박 안전 기준 충족, 향후 국제 자율운항 기준 개발에 선도적 사례 제시</p><p>• **혼잡 항로 운항 역량**: 도쿄만의 혼잡 해역 실증, 약 500해리 장거리 운항, 18시간 이상 지구력 테스트 등 다양한 운영 환경에서의 기술 검증으로 실제 상용화 조건 충족</p><p>• **산업적 영향**: 해기사 부족 문제 해결, 운영비 절감, 인적오류 사고 예방 등 일본 해운산업의 구조적 문제 해결 방안 제시로 향후 국내외 자율운항 선박 확산의 롤모델 역할 예상</p></div>`,
+      tags: ["Autonomous Ships","RoRo","Japan","MEGURI2040","ClassNK Certification"],
+      link: "https://maritime-executive.com/article/japan-certifies-its-first-roro-with-autonomous-navigation",
+      coords: [141.5469,35.6762],
+      location: "Japan (Hokkaido-Hitachi route)"
+    }
+  ]
+});
