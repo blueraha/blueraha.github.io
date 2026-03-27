@@ -2621,3 +2621,71 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-03-26
+addEvents({
+  "2026-03-26": [
+    {
+      type: "news",
+      title: "China Escalates Panama Port Dispute With Surge in Ship Detentions, U.S. Regulator Warns",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-03-26",
+      image: "https://gcaptain.com/wp-content/uploads/2021/06/2021-06-07T075423Z_597754064_RC2JVN9NFGKZ_RTRMADP_3_CHINA-ECONOMY-TRADE.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 중국이 파나마 운하 터미널 경영권 분쟁과 관련하여 파나마 국기 선박에 대한 항만 검사 및 억류를 대폭 증가시키고 있으며, 미 해양위원회(FMC)가 이를 모니터링 중</p><p>• 파나마가 CK 허치슨 홀딩스(홍콩 기반)의 발보아 및 크리스토발 컨테이너 터미널 운영 양허권을 박탈하고 마에르스크 APM 터미널스와 지중해 운송회사(MSC) 자회사로 교체</p><p>• 허치슨의 2억 달러 이상의 중재 청구 및 220억 달러 규모의 글로벌 항만 사업 매각 제안과 관련하여 중국의 지정학적 우려가 배경</p><p>• FMC 의장 로라 디벨라 위원, "선박 이동을 방해하는 외국 정부의 조치는 미국의 글로벌 공급망 신뢰성 보호 권한에 위배"라고 성명</p><p>• 미국 법률에 따라 FMC는 외국 규제 또는 관행이 미국 대외 무역 해운에 불리한 조건을 만드는지 조사할 권한 보유</p><h3>Key Quotes</h3><p>• "Actions by foreign governments that detain, delay, or otherwise impede the movement of vessels… are inconsistent with the Commission's mandate to protect the reliability and integrity of America's global supply chain" (외국 정부가 선박의 이동을 억류, 지연 또는 방해하는 행위는 미국의 글로벌 공급망 신뢰성과 무결성 보호 임무와 맞지 않음)</p><p>• "The immediate concern for carriers and cargo owners is operational delays, inspections, and uncertainty tied to one of the world's largest ship registry" (운송회사와 화주들의 즉각적 우려는 세계 최대 규모 선박 등록국과 관련된 운영 지연, 검사, 불확실성)</p><h3>Technical Insights</h3><p>• 파나마 국기 선박에 대한 중국 항만의 비정상적 검사 및 억류는 국제 해사법의 항만국통제(PSC) 기준을 초과하는 것으로 판단되며, 이는 지정학적 갈등의 해사 무역 영역 확대를 의미</p><p>• 운하 터미널 운영권 분쟁이 선박 억류로 확대될 경우, 글로벌 해운 네트워크의 불확실성 증가 및 해운 요율 상승으로 이어질 가능성 높음</p><p>• FMC의 조사 및 규제 조치가 미국 대외 무역 해운에 미칠 영향 검토 필요하며, 중국-미국 간 무역 분쟁의 해사 산업 파급 효과 모니터링 필수</p><p>• 파나마 운하는 글로벌 컨테이너 물동량의 약 5% 통과하는 전략적 해상 통로로, 이 지역의 정치·경제적 갈등이 국제 해운 산업 전반에 미치는 리스크 관리 중요</p></div>`,
+      tags: ["Panama Canal","Port Dispute","Ship Detention","China-Panama Tensions","Maritime Trade","FMC"],
+      link: "https://gcaptain.com/china-is-escalating-panama-port-dispute-with-surge-in-ship-detentions-u-s-regulator-warns/",
+      coords: [0,0],
+      location: "Panama Canal / China Ports"
+    },
+    {
+      type: "accident",
+      title: "Russian Oil Port Primorsk Resumes Loading After Ukrainian Drone Attack",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-03-26",
+      image: "https://gcaptain.com/wp-content/uploads/2018/10/shutterstock_1014183544.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **공격 사건**: 우크라이나 드론이 2026년 3월 23일 러시아 발트해 최대 유전 수출항인 프리모르스크 항을 공격하여 화재 발생 및 하역 중단</p><p>• **운영 재개**: 슈에즈맥스급 유조선 미네르바 조지아(약 100만 배럴 적재)가 며칠 후 3월 26일 입항하여 하역 재개, 또 다른 유조선 안란은 목요일 출항 예정</p><p>• **인프라 피해**: 우스트-루가 항과 키리시 정유소도 같은 주에 공격 대상이 되었으며, 러시아 석유회사 트랜스네프트가 발트해 항구에서의 유량 우회 계획 추진</p><p>• **유가 영향**: 이란 전쟁으로 인한 유가 충격에 더해 러시아 석유 공급 차질이 발생할 우려, 흑해에서도 유조선 공격 사건 발생</p><p>• **글로벌 해운 영향**: 하팍-로이드는 중동 분쟁으로 주당 4,000~5,000만 달러 추가 비용 발생, 페르시아만에 6척의 선박(150명 승무원) 좌초 중</p><h3>Key Quotes</h3><p>• "The company that pipes crude there said it is trying to divert barrels elsewhere because of the incidents." (해당 지역에 석유를 공급하는 회사는 공격 사건으로 인해 석유를 다른 곳으로 우회 공급하려고 시도 중)</p><p>• "Kyiv's moves could disrupt the flow of Russian petroleum at a time when the Iran war has already caused an unprecedented oil-supply shock." (이란 전쟁이 이미 전례 없는 유가 충격을 야기한 상황에서 키이우의 행동이 러시아 석유 공급 흐름을 방해할 수 있음)</p><p>• "Not sustainable for a long time" - Rolf Habben Jansen, CEO Hapag-Lloyd (장기적으로 지속 불가능한 상황 - 하팍-로이드 최고경영자 롤프 하벤 얀센)</p><h3>Technical Insights</h3><p>• **항만 운영 복원력**: 전략적 요충지인 프리모르스크 항의 신속한 재개작업은 러시아의 에너지 수출 능력 유지 의지를 보여주지만, 반복적 공격으로 인한 구조적 취약성 노출</p><p>• **공급망 우회전략**: 트랜스네프트의 발트해 항구 우회 시도는 글로벌 에너지 시장의 재편을 초래할 가능성이 있으며, 해운 경로 변경에 따른 비용 증가 예상</p><p>• **해운산업 연쇄 영향**: 중동 갈등과 러시아-우크라이나 분쟁이 동시 진행되면서 글로벌 해운 회사들의 운영 비용이 급증하고 있으며, 호르무즈 해협 등 주요 해상로의 폐쇄로 인한 대체 항로 검토 필수화</p><p>• **지정학적 위험 재평가**: IMO 규정상 중립적 통항권 원칙이 실제 분쟁 상황에서 실제로 보장되지 않음을 시사하며, 해운회사들의 지역별 위험 재평가 및 보험료 인상 요인으로 작용</p></div>`,
+      tags: ["Oil Port Attack","Ukraine-Russia Conflict","Drone Strike","Baltic Sea","Oil Infrastructure"],
+      link: "https://gcaptain.com/key-russian-oil-port-resumes-loading-amid-attempt-to-divert-flow/",
+      coords: [29.33,60.35],
+      location: "Primorsk, Baltic Sea"
+    }
+  ]
+});
+
+// Auto-collected: 2024-07-13
+addEvents({
+  "2024-07-13": [
+    {
+      type: "accident",
+      title: "Fatal crew member crushing accident on ro-ro cargo vessel Laureline",
+      source: "MAIB (Marine Accident Investigation Branch)",
+      sourceMeta: "gov.uk · 2026-03-26",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **사건 개요**: 2024년 7월 13일 몰타 국적 자동차 운반선(ro-ro) Laureline호에서 크루원이 움직이는 트레일러와 선박 구조물 사이에 압축되어 사망한 치명적 사고 발생</p><p>• **사고 원인**: 크루원이 트레일러 이동이 완료되었다고 가정하고 뒤를 지나갔으나, 튜그 운전자가 크루원의 위치를 인지하지 못한 채 트레일러를 후진시켜 충돌</p><p>• **안전 절차의 결함**: 선박 운영사가 새로운 차량 갑판 안전 절차를 도입했으나, 교육 및 이행 과정에서 약점이 있었고 현장 크루들이 절차를 제대로 이해하지 못함</p><p>• **감독 및 관리 부실**: 차량 갑판 감독이 비효과적이었으며, 선박 관리사가 새로운 안전 절차가 선박 내에서 제대로 이해되고 이행되었는지 확인하기 위한 효과적인 보증을 제공하지 않음</p><p>• **업계 지침의 문제**: 자동차 갑판 운영에 대한 업계 지침이 "운전자들이 마샬러(방향지시원)에 의존하여 안전하게 위치하고, 마샬러가 보이지 않으면 정지할 것"이라는 오해에 크게 의존</p><p>• **후속 조치**: MAIB는 비슷한 사고(Clipper Pennant, 보고서 16/2024)에 기반하여 영국선주협회 및 Port Skills and Safety Limited에 자동차 운반선 차량 갑판 안전에 대한 산업 행동강령 개발을 권고</p><h3>Key Quotes</h3><p>• "The deceased crew member passed behind the trailer probably assuming that it was safe to do so because it had completed manoeuvring." <br>(사망한 크루원은 트레일러의 이동이 완료되었다고 가정하고 뒤를 지나갔을 가능성이 높음)</p><p>• "The tug driver was unaware of the crew member's position and reversed the trailer to realign it, crushing the crew member against the vessel's structure."<br>(튜그 운전자는 크루원의 위치를 인지하지 못하고 트레일러를 재정렬하기 위해 후진시켜 크루원을 선박 구조물에 압축함)</p><p>• "Industry guidance on ro-ro vehicle deck operations relied heavily on the misconception that the drivers depend on marshallers to safely position their trailers and will stop their vehicle if they lose sight of their marshaller."<br>(자동차 갑판 운영에 대한 업계 지침은 운전자들이 방향지시원에 의존한다는 잘못된 가정에 크게 의존하고 있음)</p><h3>Technical Insights</h3><p>• **안전 문화 및 절차 이행의 격차**: 선박 운영사가 새로운 차량 갑판 안전 절차를 도입했음에도 불구하고, 교육 부실과 현장에서의 실제 관행과의 불일치로 인해 절차가 제대로 이행되지 않은 점은 해운업계의 구조적 문제를 드러냄</p><p>• **위험 지역(Danger Zone) 관리의 중요성**: 튜그 운전자와 크루원 간의 의사소통 부재 및 시야 확보 실패가 사망 사고로 이어진 만큼, IMO 및 해운 선진국들이 자동차 운반선의 차량 갑판 안전에 대한 국제 기준 강화 필요</p><p>• **산업 행동강령의 시급성**: 비슷한 사고 재발을 방지하기 위해 MAIB가 영국선주협회에 권고한 산업 행동강령은 자동차 운반선의 장비·절차·교육 표준화의 필요성을 시사하며, 국제해사기구(IMO)의 정규 규정 개정으로 확대될 가능성</p><p>• **시각적 감시 시스템의 보완 필요**: 현재의 마샬</p></div>`,
+      tags: ["Fatal Accident","Ro-Ro Vessel","Vehicle Deck Safety","Procedural Failure","Crew Injury"],
+      link: "https://www.gov.uk/maib-reports/fatal-accident-to-a-crew-member-on-board-the-roll-on-slash-roll-off-cargo-vessel-laureline",
+      coords: [0.26,51.48],
+      location: "Purfleet, England"
+    }
+  ]
+});
+
+// Auto-collected: 2026-03-24
+addEvents({
+  "2026-03-24": [
+    {
+      type: "news",
+      title: "Japan Certifies Its First RoRo with Autonomous Navigation",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-03-24",
+      image: "https://maritime-executive.com/media/images/article/Photos/Vessels_Large/Hokuren-Maru-No-2_1.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 일본의 호쿠렌마루 No. 2(Hokuren Maru No. 2) RoRo선이 일본 최초로 상용 자율항해 운항을 위한 완전 인증을 취득했으며, 이는 자동화된 해상운송의 획기적 이정표를 나타냄</p><p>• 가와사키 기센(K Line)이 운영하는 6,890톤급 선박은 2016년 건조되었으며 홋카이도 쿠시로항과 도쿄 북쪽 히타치항 간 농산물 운송 노선을 담당</p><p>• 니혼 재단(The Nippon Foundation)의 MEGURI2040 프로젝트 일환으로 2023년부터 3년간 개발되었으며, 2026년 1월 27일 ClassNK 인증 획득 및 2월 9일 일본 국토교통성 검사 통과</p><p>• 센서 기반 자율항해 시스템은 초기 테스트에서 96% 운영 효율을 기록했으며, 일본 해운 산업의 급속한 고령화 및 선원 부족 대응이 주요 동기</p><p>• MEGURI2040 프로젝트의 목표는 2040년까지 국내선의 50% 무인운항 달성이며, 지난해 RoPax 페리에 이어 세 번째 실증 선박으로서의 의의를 가짐</p><h3>Key Quotes</h3><p>• "The 6,890-dwt RoRo Hokuren Maru No. 2, owned and operated by Kawasaki Kisen Kaisha, Ltd. ("K" LINE), completed a series of certifications in January and February on its way to becoming the first autonomous RoRo." (K Line이 운영하는 호쿠렌마루 No. 2가 1월과 2월에 일련의 인증을 완료하여 일본 최초의 자율운항 RoRo선이 됨)</p><p>• "The working group...reported the system achieved an average operational rate of 96 percent in the sea area during its first tests." (개발 팀이 초기 테스트에서 해역 평균 운영 효율 96%를 달성했다고 보고함)</p><p>• "The Nippon Foundation launched the project in 2020, known as MEGURI2040, with the goal of achieving 50 percent unmanned operation of domestic vessels by 2040." (니혼 재단이 2040년까지 국내선의 50% 무인운항 달성을 목표로 하는 MEGURI2040 프로젝트를 2020년에 시작함)</p><h3>Technical Insights</h3><p>• **자율항해 센서 및 시스템 고도화**: 호쿠렌마루 No. 2는 센서 기반 데이터 수집 시스템과 자동 속도 제어 시스템을 장착했으며, 어선이 많고 악천후·안개가 빈번한 노선에서의 운영으로 실해역 검증의 신뢰성을 확보함</p><p>• **규제 및 인증 체계 발전**: ClassNK의 자율선박 인증 및 일본 국토교통성의 법정 검사 통과는 국제해사법(COLREG) 및 IMO 기준에 부합하는 자율항해 규제 프레임워크 구축을 의미하며, 향후 국제 표준화의 선례가 될 가능성이 높음</p><p>• **일본 해운산업의 인적자원 문제 해결**: 선원 고령화 및 부족 문제 대응을 위해 자율운항으로 승무원 수 감축 및 업무 부담 경감을 도모하며, 2040년까지 국내선의 50% 무인화 목표는 일본 해운산업의 구조적 변화를 촉발할 것으로 예상됨</p><p>• **해상안전 및 인적오류 감소**: 자율항해 시스템은 인적오류로 인한 해상사고 예방 효과를 기대하며, 특히 혼잡한 해역과 악천후 조건에서의 안정적 운항 데이터 축적은 국제해사기구(IMO)의 해상안전 규제 강화 추세와도 부합함</p></div>`,
+      tags: ["Autonomous Ships","RoRo Vessel","Japan","MEGURI2040","ClassNK Certification"],
+      link: "https://maritime-executive.com/article/japan-certifies-its-first-roro-with-autonomous-navigation",
+      coords: [141.6741,43.1935],
+      location: "Kushiro Port, Hokkaido, Japan"
+    }
+  ]
+});
