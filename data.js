@@ -2689,3 +2689,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2024-07-13
+addEvents({
+  "2024-07-13": [
+    {
+      type: "accident",
+      title: "Fatal Crushing Accident on Ro-Ro Vessel Laureline at Purfleet",
+      source: "MAIB (Marine Accident Investigation Branch)",
+      sourceMeta: "gov.uk · 2026-03-26",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 2024년 7월 13일 몰타 등록 로로(ro-ro) 화물선 Laureline호에서 선원이 움직이는 트레일러와 선박 구조물 사이에 압축되어 사망<br>• 사고는 Purfleet 항만에서 화물 적재/양하 중 발생, shore worker가 운전하는 tugs에 의해 트레일러가 조종되던 상황<br>• 선원이 트레일러 통행이 안전하다고 판단하고 뒤쪽으로 지나갔으나, 운전자가 선원의 위치를 인지하지 못하고 트레일러를 후진시켜 사고 발생<br>• 선박 운영사의 새로운 차량갑판 안전 절차 도입에도 불구하고 훈련 및 이행 미흡, 선원들이 위험구역을 일상적으로 통행<br>• MAIB의 이전 유사 사건(Clipper Pennant, 2024) 조사 권고사항을 고려하여, UK Chamber of Shipping과 Port Skills and Safety Limited에 산업 안전 행동강령 개발 권고</p><h3>Key Quotes</h3><p>• "The deceased crew member passed behind the trailer probably assuming that it was safe to do so because it had completed manoeuvring." (사망한 선원은 트레일러의 기동이 완료되었다고 판단하고 뒤쪽을 통행했을 가능성)</p><p>• "The tug driver was unaware of the crew member's position and reversed the trailer to realign it, crushing the crew member against the vessel's structure." (운전자가 선원의 위치를 인지하지 못한 채 정렬을 위해 트레일러를 후진시켜 사건 발생)</p><p>• "Industry guidance on ro-ro vehicle deck operations relied heavily on the misconception that the drivers depend on marshallers to safely position their trailers and will stop their vehicle if they lose sight of their marshaller." (업계 지침이 운전자가 안내원에 의존하여 안전하게 정렬하고 시야 상실 시 정지한다는 잘못된 가정에 기반)</p><h3>Technical Insights</h3><p>• **로로 선박 갑판 안전 절차의 실행 격차**: 선박 운영사가 새로운 안전 절차를 도입했으나 훈련 미흡, 관리 감시 무효화, 현장 관행과 절차 불일치 등으로 실질적 효과 부재 — 조직 차원의 안전 문화 강화 필요</p><p>• **위험구역(Danger Zone) 인식 부족**: 운전자의 위험구역 지식과 시야 상실 시 정지 요건이 실제 작업 관행과 불일치, 업계 안내원(marshaller) 의존도 과도한 것으로 드러남 — COLREG 원칙을 ro-ro 화물취급에 적용하는 산업 표준화 필요</p><p>• **산업 표준화 강화 필요**: MAIB의 Clipper Pennant(2024) 및 Laureline 사건 이후 UK Chamber of Shipping과 Port Skills and Safety Limited에 통합 행동강령 개발 권고 — IMO 안전 관리 코드(ISM Code) 내 차량갑판 특화 지침 부재 보완 필요</p><p>• **선박-항만 인터페이스 안전 관리**: Shore worker 운전, 선박 crew 감시 구조에서 책임 범위 모호성과 의사소통 체계 부족 — 항만 운영 표준과 선박 안전관리 시스템 통합 필요</p></div>`,
+      tags: ["ro-ro cargo","fatal accident","vehicle deck","crushing injury","safety procedure"],
+      link: "https://www.gov.uk/maib-reports/fatal-accident-to-a-crew-member-on-board-the-roll-on-slash-roll-off-cargo-vessel-laureline",
+      coords: [0.3,51.5],
+      location: "Purfleet, England"
+    }
+  ]
+});
+
+// Auto-collected: 2026-03-26
+addEvents({
+  "2026-03-26": [
+    {
+      type: "news",
+      title: "U.S. Navy Unveils Medium Unmanned Surface Vessel (MUSV) Family of Systems for Golden Fleet Initiative",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-03-26",
+      image: "https://www.navalnews.com/wp-content/uploads/2025/07/Ekran-goruntusu-2025-07-20-010005.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **MUSV 프로그램 출범**: 미 해군이 중형 무인 표면선박(MUSV) 계획을 공식 발표하며 골든 플릿 이니셔티브의 핵심 자산으로 포지셔닝. 기존 MASC 프로토타입 프로젝트를 대체하는 확장된 개념</p><p>• **컨테이너형 다중임무 플랫폼**: MUSV는 최소 2개의 40피트 ISO 컨테이너 페이로드를 탑재 가능하며, 센서, 수리 장비 등 다양한 미션 모듈을 컨테이너선처럼 교환 가능한 구조</p><p>• **빠른 자율성 능력 확대**: 포트폴리오 인수 담당자 Rebecca Gassler가 제시한 '마켓플레이스' 개념으로 다수 벤더의 MUSV 자격 획득을 가속화하려는 산업 협력 전략</p><p>• **COLREG 준수 및 검증**: 연말까지 해상 시험 완료 및 충돌 회피 규정(COLREGs) 준수 검증을 포함한 단축된 테스트 캠페인 추진</p><p>• **다중역할 운영 능력**: 장거리 미사일, 반탄도 미사일 요격기 등 다양한 무기 체계 탑재 시험을 거친 확장된 작전 개념으로 기존 MASC의 한정된 용도를 극복</p><h3>Key Quotes</h3><p>• "We have as of 7am opened the MUSV marketplace to accelerate autonomous capability to the fleet" (함대의 자율주행 능력을 가속화하기 위해 MUSV 마켓플레이스를 개시했음)</p><p>• "Inside containers you could have a sensor, repair equipment, or any number of payloads that can be swapped like a container ship" (컨테이너 내부에 센서, 수리 장비 또는 다양한 페이로드를 배치할 수 있으며 컨테이너선처럼 교환 가능함)</p><p>• "On water tests must be completed by the end of this year" (해상 시험은 올해 말까지 완료되어야 함)</p><h3>Technical Insights</h3><p>• **COLREG 준수 자율주행**: 미 해군의 MUSV는 국제 충돌 회피 규칙(COLREGs) 완전 준수를 검증 대상으로 삼고 있어, 자율 선박의 국제 규제 적응 요구사항을 실제 플랫폼에서 구현하는 선도 사례</p><p>• **모듈식 컨테이너 페이로드 아키텍처**: ISO 표준 컨테이너 기반 다중임무 플랫폼은 운영 확장성과 빠른 임무 전환을 가능하게 하며, 제조사 다변화 전략으로도 기술 표준화의 해양 산업 확산 견인</p><p>• **벤더 다원화 마켓플레이스 모델**: 단일 방식의 프로토타입 개발에서 복수 벤더 경쟁 기반 시스템으로 전환함으로써 자율 해양 로보틱스 기술 혁신 속도 가속화 및 비용 효율성 극대화</p><p>• **임무 복잡도별 자율성 설계**: 센서 운영부터 무기 체계 통합까지 다양한 복잡도의 자율 능력을 요구하는 다중 임무 프로필에 대응하는 확장 가능한 자율성 아키텍처 개발의 필요성 대두</p></div>`,
+      tags: ["Autonomous Ships","U.S. Navy","MUSV","Golden Fleet","Unmanned Systems","Maritime Robotics"],
+      link: "https://www.navalnews.com/naval-news/2026/03/u-s-navy-unveils-unmanned-centerpiece-of-golden-fleet-initiative/",
+      coords: [38.8951,-77.0369],
+      location: "Washington D.C., USA"
+    }
+  ]
+});
