@@ -2765,3 +2765,37 @@ addEvents({
     }
   ]
 });
+
+// ── AI Secretary Report ──
+addEvents({
+  "2024-11-15": [
+    {
+      type: "news",
+      title: "Hokuren Maru No. 2 Becomes Japan's First RoRo Vessel to Pass Inspection as Autonomous Vessel",
+      source: "Marine Insight",
+      sourceMeta: "marineinsight.com · 2024-11-15",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 호쿠렌마루 2호(Hokuren Maru No. 2)가 일본 최초로 자율운항선박으로서 검사 통과에 성공한 RoRo(자동차운반선) 선박이 됨<br>• 일본 선급(ClassNK)으로부터 자율운항선박 임시 승인을 획득하여 해상시험 단계로 진입<br>• RoRo 선박의 자율운항화는 자동차 수출 산업이 발달한 일본의 해운 효율성 혁신을 의미하는 중요한 이정표<br>• 무인 운항 기술 도입으로 선원 비용 절감, 운영 효율성 증대, 해상 안전 개선 기대<br>• 일본 정부의 친환경 해운 및 디지털화 추진 정책과 부합하는 전략적 발전<br>• 향후 상용화 시 국제 규제 표준 수립과 업계 표준화가 핵심 과제로 남음<br><h3>Key Quotes</h3><br>• "Hokuren Maru No. 2 has become the first RoRo vessel to pass inspection as an autonomous vessel in Japan" (호쿠렌마루 2호는 일본에서 자율운항선박으로 검사를 통과한 최초의 RoRo 선박이 되었다)<br>• "The vessel has obtained provisional approval from ClassNK for autonomous navigation trials at sea" (해당 선박은 ClassNK로부터 해상 자율운항 시험을 위한 임시 승인을 획득했다)<br>• "This milestone marks a significant step towards modernizing Japan's shipping industry and reducing operational costs" (이번 성과는 일본 해운산업의 현대화와 운영 비용 감소를 향한 중요한 진전을 의미한다)<br><h3>Devil's Advocate</h3><br>• 아직 '임시 승인' 단계로, 실제 상용 운항까지는 기술적·규제적 장벽이 상당히 남아 있으며, 예상 기간을 초과할 가능성이 높다<br>• 자율운항선박의 해상 사고 책임 문제가 여전히 모호하여, 보험 및 법적 책임 체계가 미성숙한 상태에서 조기 상용화는 사회적 리스크를 야기할 수 있다<br>• RoRo 선박은 자동차 수출 기업에 의존도가 높은데, 해운사·조선업체·자동차 산업 간 이해관계 충돌로 인한 도입 지연 우려가 있다<br>• 선원 일자리 감소로 인한 해양산업 종사자의 구조적 실업 문제와 이에 따른 사회적 반발을 간과해서는 안 되며, 기술 도입만으로는 산업 전환의 부작용을 해결할 수 없다</div>`,
+      tags: ["Autonomous Vessels","RoRo Ships","Japan Maritime","Regulatory Approval","Unmanned Ships"],
+      link: "https://www.marineinsight.com/hokuren-maru-no-2-becomes-japans-first-roro-vessel-to-pass-inspection-as-an-autonomous-vessel/",
+      coords: [139.6917,35.6895],
+      location: "Japan"
+    }
+  ]
+});
+
+// ── AI Secretary Report ──
+addEvents({
+  "2024-01-15": [
+    {
+      type: "news",
+      title: "Cargo Ship Rams Bridge Near Düsseldorf, Germany - Containers Fall into Rhine River",
+      source: "Marine Insight",
+      sourceMeta: "Marine Insight · 2024-01-15",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 독일 뒤셀도르프 인근의 라인강에서 화물선이 다리와 충돌하여 여러 컨테이너가 강으로 낙하하는 사고 발생<br>• 충돌로 인한 다리 구조물 손상과 수로 폐쇄 우려로 내륙 수운(inland waterway) 교통 차질 발생 가능<br>• 라인강은 유럽 핵심 운송로로 독일, 네덜란드, 스위스 등 다국적 해운물류에 중대 영향<br>• 낙하 컨테이너로 인한 환경 오염 위험 및 수색구조 작업 진행 중<br>• 사고 원인은 항해사 오류, 기상 악화, 선박 제어 불량 등 복합 요인으로 추정<br>• 내륙 수운 안전 기준 강화 및 선박 통과 규제 재검토 필요성 대두<br><h3>Key Quotes</h3><br>• "The cargo ship collided with the bridge infrastructure, resulting in multiple containers falling into the Rhine River" (화물선이 다리 시설과 충돌하여 여러 컨테이너가 라인강으로 낙하했다)<br>• "Navigation restrictions have been imposed on the Rhine waterway to assess structural damage and facilitate recovery operations" (라인강 수로에 항행 제한이 내려졌으며 구조물 손상 평가 및 회수 작업이 진행 중이다)<br><h3>Devil's Advocate</h3><br>• 사고 책임 소재가 명확하지 않을 경우, 선주·운영사·항로 관리 당국 간 법적 분쟁으로 장기간 소송화될 가능성이 높으며 이는 피해 보상을 지연시킬 수 있다<br>• 라인강 같은 국제 수로의 경우 인접 국가들(독일, 네덜란드, 벨기에 등)이 항행 규제를 각각 강화하면 운송 효율성 저하로 유럽 내륙 물류 비용이 급상승할 우려가 있다<br>• 낙하된 컨테이너 내용물이 독성 화학물질이나 위험물일 경우, 현재 보도되지 않은 환경 오염이 광범위하게 진행되었을 가능성을 배제할 수 없다<br>• 사고 원인을 단순히 항해사 과실로만 규정할 경우, 선박의 노후화·자동항법장비 고장·유지보수 부실 등 구조적 문제가 은폐될 수 있으며 향후 유사 사고 예방에 실패할 수 있다</div>`,
+      tags: ["cargo ship accident","bridge collision","Rhine River","container loss","Germany","maritime incident"],
+      link: "https://www.marineinsight.com/cargo-ship-rams-bridge-near-germanys-dusseldorf-containers-fall-into-rhine-port/",
+      coords: [6.7734,51.2277],
+      location: "Düsseldorf, Germany"
+    }
+  ]
+});
