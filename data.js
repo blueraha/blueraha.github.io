@@ -2799,3 +2799,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-03-27
+addEvents({
+  "2026-03-27": [
+    {
+      type: "accident",
+      title: "Thai Bulk Carrier Mayuree Naree Runs Aground on Iran's Qeshm Island After Strait of Hormuz Attack",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-03-27",
+      image: "https://gcaptain.com/wp-content/uploads/2018/09/gCaptain_Logo.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 태국 국적 30,000톤급 벌크선 Mayuree Naree가 3월 11일 호르무즈 해협에서 정체불명의 포사체 공격으로 추진력을 잃고 이란 케시이스 도서에 좌초됨<br>• Precious Shipping이 소유한 선박으로, 엔진실 화재 발생으로 20명의 선원이 오만 해군에 의해 구조됨<br>• 3명의 선원이 엔진실에 갇혀있을 우려가 있으며 아만-이란 합동 구조팀이 수색 작업 중<br>• 선박은 몇 일간 표류 후 호르무즈 해협 입구 인근의 전략적 요충지인 케시 도서 연안에 좌초<br>• 현재 호르무즈 해협의 해상 보안 상황이 극히 악화되어 있으며 글로벌 해운 비용 급증 예상<br>• Precious Shipping은 전쟁위험보험 가입으로 인한 중대한 재정적 영향은 없을 것으로 예상</p><h3>Key Quotes</h3><br>• "Two projectiles of unknown origin hit the ship, igniting a fire in the engine room and forcing the crew to abandon ship" (정체불명의 포사체 2발이 선박을 명중하여 엔진실 화재를 유발하고 승무원의 기선 탈출을 강요함)<br>• "The waterway, which handles roughly a quarter of global seaborne oil trade, has seen vessel traffic collapse, with attacks, insurance withdrawals, and electronic interference disrupting normal operations" (글로벌 해상 석유무역의 약 1/4을 처리하는 이 수로는 공격, 보험 철수, 전자 간섭으로 인해 선박 통행이 붕괴됨)</p><h3>Technical Insights</h3><br>• 호르무즈 해협의 극도로 악화된 해상 보안 상황으로 인해 자동화·AI 기반 선박 운항 기술의 중요성이 더욱 증대되고 있으며, 원격 모니터링 및 자동 회피 시스템의 필요성이 대두됨<br>• 전쟁 위험 상황에서의 선박 운항은 COLREG 및 국제해사법의 기존 틀에서 벗어난 새로운 안전 프로토콜 개발 필요<br>• 호르무즈 해협 통과선박의 보험료 급증 및 항로 회피 증가로 인한 전 지구적 해운업계 경제성 악화 심화<br>• IMO의 전쟁 지역 해상 안전 지침 강화 및 해협 통과선의 강제 호위 체계 도입 등 규제 강화 논의 필요</p></div>`,
+      tags: ["bulk carrier","grounding","Strait of Hormuz","attack","missing crew"],
+      link: "https://gcaptain.com/stricken-bulk-carrier-mayuree-naree-runs-aground-on-irans-qeshm-island/",
+      coords: [53.9,26.7],
+      location: "Qeshm Island, Iran / Strait of Hormuz"
+    }
+  ]
+});
+
+// Auto-collected: 2024-07-13
+addEvents({
+  "2024-07-13": [
+    {
+      type: "accident",
+      title: "Fatal accident to crew member on ro-ro cargo vessel Laureline - MAIB Investigation Report 2026-7",
+      source: "MAIB (Marine Accident Investigation Branch)",
+      sourceMeta: "gov.uk · 2026-03-26",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2024년 7월 13일 몰타 선적 자동차 운반선(ro-ro cargo vessel) Laureline호에서 승무원이 이동 중인 트레일러와 선박 구조물 사이에 끼어 사망하는 사고 발생</p><p>• 사건 원인: 트레일러 조종사가 승무원의 위치를 인식하지 못한 채 트레일러를 후진시켰으며, 승무원은 트레일러의 이동이 완료되었다고 가정하고 뒤로 지나감</p><p>• 선박 운영사가 신규 차량갑판 안전절차를 도입했으나 교육 및 이행에 미흡하여 현장 승무원들이 위험지역 진입을 계속함</p><p>• 트레일러 조종사는 위험지역 및 승무원이 보이지 않을 때 정지해야 한다는 요구사항을 인식하지 못했으며, 실제 작업 관행과 불일치</p><p>• MAIB는 Clipper Pennant호에서의 유사 사고(2024년 조사) 이후 업계 표준 안전 규칙 개발을 권고했으며, 이번 사건으로 인해 업데이트된 권고사항 발행</p><p>• 업계 지침은 트레일러 조종사가 Marshaller(신호수)에 의존하여 안전하게 위치를 잡을 것이라는 잘못된 가정에 기반함</p><h3>Key Quotes</h3><p>• "The deceased crew member passed behind the trailer probably assuming that it was safe to do so because it had completed manoeuvring." (사망한 승무원은 트레일러의 조종이 완료되었다고 가정하고 뒤로 지나갔을 가능성)</p><p>• "The tug driver was unaware of the crew member's position and reversed the trailer to realign it, crushing the crew member against the vessel's structure." (트레일러 조종사가 승무원의 위치를 인식하지 못한 채 정렬을 위해 후진하여 승무원을 선박 구조물에 끼우게 함)</p><p>• "The vessel operators had instigated a new procedure for vehicle deck safety. However, there were weaknesses in its training and implementation, and it was not well understood by the crew working on the vehicle deck." (선박 운영사는 새로운 안전절차를 시행했으나 교육 및 이행에 미흡하여 현장 승무원들이 충분히 이해하지 못함)</p><h3>Technical Insights</h3><p>• **차량갑판 작업의 위험성 인식 부족**: ro-ro 선박의 차량갑판에서는 이동 중인 무거운 차량과 협소한 공간으로 인한 사각지대 문제가 심각하며, 현행 업계 지침이 조종사의 책임과 신호수의 역할에 대한 명확한 정의 부재로 인한 위험</p><p>• **절차와 실행 간의 괴리**: 선박 운영사의 신규 안전절차가 실제 작업 환경과 근로자의 이해도 격차로 인해 형식적으로만 존재하며, 효과적인 감시 및 관리 체계의 부재가 사고의 근본 원인</p><p>• **업계 표준화의 필요성**: MAIB는 UK Chamber of Shipping과 Port Skills and Safety Limited에 ro-ro 선박 차량갑판 안전을 위한 통합 산업 Code of Practice 개발을 강력히 권고하며, 이는 IMO 및 국제 해사 안전 기준과의 조화 필요</p><p>• **인적 요소 관리**: 자동화 및 무인화 기술이 증가하는 해운 산업에서도 인간의 판단 오류와 의사소통 부족이 여전히 주요 사고 원인이며, 승무원 교육 및 작업 문화 개선이 기술만큼 중요함을 시사</p></div>`,
+      tags: ["fatality","ro-ro vessel","vehicle deck safety","crushing accident","procedural failure"],
+      link: "https://www.gov.uk/maib-reports/fatal-accident-to-a-crew-member-on-board-the-roll-on-slash-roll-off-cargo-vessel-laureline",
+      coords: [0.3,51.5],
+      location: "Purfleet, England"
+    }
+  ]
+});
+
+// Auto-collected: 2026-03-24
+addEvents({
+  "2026-03-24": [
+    {
+      type: "news",
+      title: "Japan Certifies First Autonomous RoRo Vessel for Commercial Operations",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-03-24",
+      image: "https://maritime-executive.com/media/images/article/Photos/Vessels_Large/Hokuren-Maru-No-2_1.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 일본의 호쿠렌마루 노. 2 (Hokuren Maru No. 2) RoRo 선박이 일본 최초로 완전 자율항해 상업운영 인증을 취득했으며, 이는 닛폰재단의 MEGURI2040 프로젝트의 핵심 성과</p><p>• 가와사키기센(K Line) 소유의 6,890톤급 173미터 길이의 동 선박은 2023년부터 개발을 시작했으며, ClassNK로부터 2026년 1월 27일 인증을 받고 2월 9일 일본 국토교통성 검사 통과</p><p>• 센서 기반 자율항해 시스템은 초기 시험에서 평균 96% 운영률을 달성했으며, 일본 라디오와 YDK테크놀로지와 협력하여 지속적으로 개선 중</p><p>• 홋카이도 쿠시로항과 히타치항 간 우유 및 농산물 운송 노선에서 운영되는 동 선박은 어선이 많고 악천후·안개가 빈번한 도전적 해역 선택</p><p>• MEGURI2040 프로젝트는 2040년까지 국내 선박의 50% 무인운영 달성을 목표로 하며, 일본의 고령화 선원 부족 문제 해결과 인적 오류로 인한 해양사고 예방이 목표</p><p>• 동 RoRo는 프로젝트의 세 번째 자율항해 인증 선박이며, 지난 12월 RoPax 페리가 첫 번째 인증을 받은 이후의 성과</p><h3>Key Quotes</h3><p>• "The 6,890-dwt RoRo Hokuren Maru No. 2, owned and operated by Kawasaki Kisen Kaisha, Ltd. ("K" LINE), completed a series of certifications in January and February on its way to becoming the first autonomous RoRo." <br>(6,890톤급 호쿠렌마루 노. 2가 1월과 2월에 일련의 인증을 완료하여 일본 최초의 자율항해 RoRo가 됨)</p><p>• "The system achieved an average operational rate of 96 percent in the sea area during its first tests."<br>(초기 시험에서 시스템이 해역에서 평균 96%의 운영률을 달성함)</p><p>• "The motivation was to address Japan's declining and aging population of seafarers, reduce the workload for seafarers, and prevent accidents at sea due to human error."<br>(일본의 감소하는 선원 인구와 고령화 문제를 해결하고, 선원의 업무 부담을 줄이며, 인적 오류로 인한 해상사고를 예방하는 것이 동기)</p><h3>Technical Insights</h3><p>• **자율항해 기술 검증**: 센서 기반 시스템이 도시 항만(도쿄만), 장거리 항해(약 500마일), 18시간 이상 지속성 테스트, 접안(berthing) 등 주요 운영 요소를 모두 입증했으며, 이는 실제 상업운영 가능성을 검증하는 중요한 기술적 이정표</p><p>• **IMO/국제규범 준비**: ClassNK의 인증과 일본 국토교통성의 검사 통과는 자율선박 운영의 국제적 규범화가 진행 중임을 보여주며, 향후 IMO의 MASS(Maritime Autonomous Surface Ships) 기준 수립에 선제적으로 대응하는 국가 차원의 전략</p><p>• **도메스틱 노선 우선 도입**: 쿠시로-히타치 노선과 같이 어선이 많고 악천후가 빈번한 국내 노선에서의 우선 운영은 자율항해 기술의 실제 환경 검증을 통해 COLREG 준수 및 해상충돌 회피능력을 실증하는 산업적 접근</p><p>• **선원 감소 대응 전략**: MEGURI2040의 2040년 50% 무인운영 목표는 일본뿐만 아니라 전 세계 해운산업의 선원 부족 문제 해결을 위한 구조적 솔루션을 제시하며, RoRo와 같</p></div>`,
+      tags: ["Autonomous Navigation","RoRo Ship","Japan","MEGURI2040","ClassNK Certification"],
+      link: "https://maritime-executive.com/article/japan-certifies-its-first-roro-with-autonomous-navigation",
+      coords: [141.5731,36.2048],
+      location: "Japan (Kushiro-Hitachi Route)"
+    }
+  ]
+});
