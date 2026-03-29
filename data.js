@@ -2949,3 +2949,20 @@ addEvents({
     }
   ]
 });
+
+// ── AI Secretary Report ──
+addEvents({
+  "2024": [
+    {
+      type: "news",
+      title: "Why Crew Feedback is the Missing Link in Maritime Operations",
+      source: "Splash247",
+      sourceMeta: "Splash247 · 2024",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 해양 산업에서 선원의 피드백이 운영 효율성과 안전 개선의 핵심 요소임을 강조하는 기사<br>• 현장 선원들의 실무 경험과 인사이트가 경영진의 의사결정 과정에서 체계적으로 반영되지 않고 있는 구조적 문제 지적<br>• 선원 피드백 시스템 구축을 통해 선박 운영의 효율성 증대, 안전사고 예방, 그리고 인력 유지율 개선이 가능함을 제시<br>• 디지털 플랫폼과 투명한 커뮤니케이션 채널을 통한 체계적인 피드백 수집 체계의 필요성 강조<br>• 선원 의견 수렴이 단순한 HR 관리가 아닌 전사적 운영 전략의 중요한 구성 요소임을 주장<br><h3>Key Quotes</h3><br>• "Crew feedback is not just a matter of employee satisfaction—it is a critical operational tool that directly impacts safety, efficiency, and profitability" (선원 피드백은 단순한 직원 만족도 문제가 아니라 안전, 효율성, 수익성에 직접적으로 영향을 미치는 중요한 운영 도구다)<br>• "Without proper channels for crew input, companies are operating blind to the real-world challenges facing their vessels" (선원의 의견을 수렴할 적절한 채널이 없다면, 기업은 자신의 선박이 직면한 현실적 문제에 대해 맹목적으로 운영하고 있는 것이다)<br>• "The maritime industry's hierarchical structure often silences the voices that matter most—those on the front lines" (해양 산업의 계층적 구조는 현장 최일선에 있는 가장 중요한 목소리를 억압하는 경향이 있다)<br><h3>Devil's Advocate</h3><br>• 선원 피드백 수집 시스템 구축에는 상당한 비용과 인력이 필요하며, 이것이 수익성 낮은 중소 해운사들에게는 실질적 부담이 될 수 있다는 점을 간과하고 있다<br>• 수평적 피드백 문화의 강조가 조직의 지휘 체계와 규율을 약화시킬 수 있으며, 특히 해상 안전이 엄격한 위계 질서에 의존하는 환경에서는 양날의 검이 될 수 있다<br>• 선원들의 피드백이 단순히 민원이나 불만 제기 수준에 머물 가능성이 높으며, 이를 기술적/운영적 개선으로 전환하는 과정에서의 실행 능력 부족이 담론에서 누락되어 있다<br>• 글로벌 선원 풀에서 다양한 문화와 언어 배경의 종업원들로부터 의미 있는 피드백을 체계적으로 수집하고 실행하는 것은 이론보다 현실적으로 훨씬 복잡하다는 점이 고려되지 않았다</div>`,
+      tags: ["Crew Management","Maritime Operations","Operational Feedback","Human Factors","Industry Best Practice"],
+      link: "https://splash247.com/why-crew-feedback-is-the-missing-link-in-maritime-operations/?utm_source=dlvr.it&amp;utm_medium=linkedin",
+      coords: [0,0],
+      location: "Global Maritime Industry"
+    }
+  ]
+});
