@@ -2855,3 +2855,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-03-11
+addEvents({
+  "2026-03-11": [
+    {
+      type: "accident",
+      title: "Thai Bulk Carrier Mayuree Naree Runs Aground on Iran's Qeshm Island After Strait of Hormuz Attack",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-03-27",
+      image: "https://gcaptain.com/wp-content/uploads/2018/09/gCaptain_Logo.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 태국 선적 벌크선 Mayuree Naree(30,000톤급)가 3월 11일 호르무즈 해협에서 정체 미상의 발사체 2발에 피격되어 엔진룸 화재 발생 및 추진력 상실</p><p>• **선박 및 소유사**: Precious Shipping 소유의 Mayuree Naree호, 아랍에미리트에서 출항 직후 피격으로 승무원 20명 구조(오만 해군), 3명 실종</p><p>• **좌초 발생**: 추진력 상실로 수일간 표류 후 이란 Qeshm Island 연안에 좌초, Oman-Iran 연합 구조팀이 실종 선원 수색 중</p><p>• **인명 피해**: 엔진룸에 있던 3명의 선원이 화재 발생 당시 갇힌 것으로 추정되어 생명 위협 상황</p><p>• **산업 영향**: 호르무즈 해협 해양 보안 상황 악화, 전 세계 해상유 거래량의 약 25% 취급 해역의 선박 운항 붕괴, 보험료 인상 및 공급망 비용 증가 우려</p><p>• **손상 규모**: 선박이 선박내 (ballast 상태)로 운항 중이었으므로 적화 손실 없음, 전쟁위험보험 가입으로 회사의 재정적 영향 제한적</p><h3>Key Quotes</h3><p>• "Two projectiles of unknown origin hit the ship, igniting a fire in the engine room and forcing the crew to abandon ship." (정체 미상의 발사체 2발이 선박을 피격하여 엔진룸에 화재를 일으키고 승무원 전원 탈출 강제)</p><p>• "The waterway, which handles roughly a quarter of global seaborne oil trade, has seen vessel traffic collapse, with attacks, insurance withdrawals, and electronic interference disrupting normal operations." (전 세계 해상유 거래량의 약 25%를 취급하는 수로의 선박 통항량이 붕괴되었으며, 공격, 보험 철수, 전자 간섭으로 정상 운영 중단)</p><p>• "Thailand has condemned the attack and called for accountability, while industry groups warn the incident could further deter shipping and drive up costs across global supply chains." (태국이 공격을 규탄하고 책임 추궁을 요구했으며, 산업 단체들은 이 사건이 해운을 더욱 억제하고 글로벌 공급망 비용을 상승시킬 수 있음을 경고)</p><h3>Technical Insights</h3><p>• **해양 보안 위협 심화**: 호르무즈 해협에서의 공격 빈도 증가로 자동화 내비게이션 시스템 및 원격 모니터링 기술의 필요성 대두, SOLAS 개정을 통한 강화된 안전 규정 필요</p><p>• **IMO COLREG 운영 마비**: 전자 간섭(jamming)으로 인한 AIS 신호 두절 및 레이더 기능 저하로 기존 충돌 회피 규칙의 실효성 상실, 선박의 자동 운항 능력 요구 증가</p><p>• **보험 및 운항 거부 현상**: 전쟁위험보험의 철수 및 상보험료 인상으로 중소 선사의 호르무즈 해협 운항 기피, 글로벌 에너지 거래 관행 변화 예상</p><p>• **자동화 선박의 도입 촉진**: 인명 피해 위험을 줄이기 위해 무인 또는 원격 조종 벌크선 도입 논의 가속화, 위기 상황에서의 즉각적 응답 능력 강화 필요</p></div>`,
+      tags: ["bulk carrier","Strait of Hormuz","attack","grounding","missing crew","maritime security"],
+      link: "https://gcaptain.com/stricken-bulk-carrier-mayuree-naree-runs-aground-on-irans-qeshm-island/",
+      coords: [53.78,26.92],
+      location: "Qeshm Island, Iran / Strait of Hormuz"
+    }
+  ]
+});
+
+// Auto-collected: 2024-07-13
+addEvents({
+  "2024-07-13": [
+    {
+      type: "accident",
+      title: "Fatal Accident on Roll-on/Roll-off Cargo Vessel Laureline - Crew Crushed by Moving Trailer",
+      source: "MAIB (Marine Accident Investigation Branch)",
+      sourceMeta: "gov.uk · 2026-03-26",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 2024년 7월 13일 몰타 선적 자동차운반선(Ro-Ro) Laureline호에서 승무원이 이동 중인 트레일러와 선박 구조물 사이에 압착되어 사망<br>• 사고는 Purfleet 항만에서 선적 및 양하 작업 중 발생했으며, 해안 작업자가 운전하는 견인차와 선박 승무원의 지휘 하에서 트레일러 조종 작업 진행 중<br>• 사망자는 트레일러가 조종을 완료했다고 판단하고 안전하다고 가정하여 뒤를 지나갔으나, 견인차 운전자가 재정렬을 위해 역진하면서 압착<br>• 선박 운영사가 새로운 차량갑판 안전절차를 도입했으나 훈련과 이행에 미흡한 부분 있었고, 승무원들이 이를 제대로 이해하지 못함<br>• 견인차 운전자는 위험지역 인식 및 승무원 시야 밖에서 정지해야 한다는 요구사항을 이해하지 못했으며, 실제 작업관행과 불일치<br>• MAIB는 Clipper Pennant호의 유사 사고(2024년 보고서 16/2024) 이후 영국해운회의소(UK Chamber of Shipping)에 업계 안전지침 개발 권고</p><h3>Key Quotes</h3><p>• "The deceased crew member passed behind the trailer probably assuming that it was safe to do so because it had completed manoeuvring." <br>(사망한 승무원은 트레일러가 조종을 완료했다고 가정하여 뒤를 지나갔으나, 이는 위험한 가정이었음)</p><p>• "The tug driver was unaware of the crew member's position and reversed the trailer to realign it, crushing the crew member against the vessel's structure."<br>(견인차 운전자는 승무원의 위치를 알지 못한 채 재정렬을 위해 역진하여 승무원을 선박 구조물에 압착)</p><p>• "The vessel operators had instigated a new procedure for vehicle deck safety. However, there were weaknesses in its training and implementation."<br>(선박 운영사가 새로운 차량갑판 안전절차를 도입했으나, 훈련과 이행에 약점이 있었음)</p><h3>Technical Insights</h3><p>• **Ro-Ro 선박 안전절차의 실행 격차**: 선박 운영사가 도입한 새로운 안전절차가 현장 승무원과 해안 작업자(견인차 운전자)에게 제대로 전달되지 않아 실제 작업 관행과 괴리 발생 - 규정 이행만으로는 부족하며 실질적 이해와 감독이 필수</p><p>• **시야 제한 상황의 위험성**: 업계 지침이 견인차 운전자가 마샬러(감시자)의 신호에만 의존하고 시야 밖에서 정지할 것이라는 잘못된 가정에 기반 - 실제로는 운전자가 독립적으로 위험지역을 인식하고 정지 결정을 내려야 함</p><p>• **효과적 감독의 부재**: 차량갑판 감독이 미흡하고 경영진의 안전절차 이행 확인 절차 부실 - 선박의 안전관리체계(SMS)에서 실행 확인(verification) 단계의 강화 필요</p><p>• **산업 규정의 선제적 개선**: MAIB가 유사 사고 재발 방지를 위해 영국해운회의소에 대한 Ro-Ro 차량갑판 안전 Code of Practice 개발 권고 - IMO 및 국제 해운업계의 통일된 안전 기준 수립 시급</p></div>`,
+      tags: ["Fatal Accident","Ro-Ro Vessel","Crew Safety","Vehicle Deck","Purfleet"],
+      link: "https://www.gov.uk/maib-reports/fatal-accident-to-a-crew-member-on-board-the-roll-on-slash-roll-off-cargo-vessel-laureline",
+      coords: [0.3,51.5],
+      location: "Purfleet, England"
+    }
+  ]
+});
