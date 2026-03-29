@@ -2893,3 +2893,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-03-27
+addEvents({
+  "2026-03-27": [
+    {
+      type: "accident",
+      title: "Thai Bulk Carrier Mayuree Naree Runs Aground on Iran's Qeshm Island After Strait of Hormuz Attack",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-03-27",
+      image: "https://gcaptain.com/wp-content/uploads/2018/09/gCaptain_Logo.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 태국 선적 30,000톤급 벌크선 Mayuree Naree가 3월 11일 호르무즈 해협에서 정체불명의 미사일 공격으로 피격되어 기관실 화재 발생, 선박 추진력 상실<br>• Precious Shipping 소유 선박이 승무원 20명은 구조되었으나 기관실에 있던 3명의 선원이 실종 상태로 화염에 갇혔을 가능성 높음<br>• 선박이 며칠간 표류한 후 이란 Qeshm Island 근처 해안에 좌초되었으며, 오만-이란 합동 구조팀이 실종 선원 수색 중<br>• 호르무즈 해협의 극도로 악화된 해상 보안 상황으로 전역 해상 무역량의 약 25% 차지하는 수역의 선박 통행 급감<br>• 태국 정부가 공격 규탄 및 책임 추궁 촉구, 산업계는 이 사건으로 인한 해운비 상승 우려</p><h3>Key Quotes</h3><p>• "Two projectiles of unknown origin hit the ship, igniting a fire in the engine room and forcing the crew to abandon ship." (정체불명의 두 개 미사일이 선박을 피격하여 기관실 화재를 유발하고 승무원의 abandon ship 결정을 강제함)</p><p>• "The waterway, which handles roughly a quarter of global seaborne oil trade, has seen vessel traffic collapse, with attacks, insurance withdrawals, and electronic interference disrupting normal operations." (전역 해상 석유 무역량의 약 25%를 담당하는 이 수로에서 공격, 보험 철회, 전자 간섭으로 인해 선박 통행이 붕괴 상태)</p><h3>Technical Insights</h3><p>• **전략적 해상 통로 안전성 악화**: 호르무즈 해협은 세계 석유 수송의 생명선으로, 현재의 지정학적 갈등으로 인한 무장 공격으로 인해 선박의 안전성이 급격히 악화되고 있으며 이는 전역 에너지 공급망에 심각한 영향 미침</p><p>• **해상 보험 및 리스크 관리 체계 붕괴**: War-risk insurance 적용에도 불구하고 선사들의 해당 해역 운항 회피 현상 심화로 인해 보험 시장 자체의 신뢰성 하락 및 운영비 급증</p><p>• **해상 교통 안전 규정(COLREG) 적용 한계**: 무장 공격 상황에서 기존의 해상 충돌 회피 규칙이 무의미해지며, IMO 차원의 고위험 해역 통항 프로토콜 및 군사적 보호 조치의 강화 필요성 대두</p><p>• **자율운항선박(MASS) 도입의 위험성**: 현재의 호르무즈 해협 같은 고위험 해역에서는 인적 대응 능력이 중요하며, 완전 자율운항선박의 도입은 무장 공격 상황 대응 능력 부족으로 인해 실질적 위험 초래 가능성</p></div>`,
+      tags: ["bulk carrier","Strait of Hormuz","attack","grounding","missing crew","maritime security"],
+      link: "https://gcaptain.com/stricken-bulk-carrier-mayuree-naree-runs-aground-on-irans-qeshm-island/",
+      coords: [53.9,26.7],
+      location: "Qeshm Island, Iran / Strait of Hormuz"
+    }
+  ]
+});
+
+// Auto-collected: 2024-07-13
+addEvents({
+  "2024-07-13": [
+    {
+      type: "accident",
+      title: "Fatal Accident: Crew Member Crushed on Ro-Ro Vessel Laureline",
+      source: "MAIB (UK Marine Accident Investigation Branch)",
+      sourceMeta: "gov.uk · 2026-03-26",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사망 사건**: 2024년 7월 13일 몰타 등록 자동차 운반선 로린라인(Laureline)에서 선원이 움직이는 트레일러와 선박 구조물 사이에 끼어 사망</p><p>• **사고 경위**: 육상 작업자가 조종하는 예인선으로 트레일러를 적재/하역 중, 선원이 기동을 마친 트레일러 뒤를 지나갈 때 예인선 운전사가 선원의 위치를 인식하지 못한 채 트레일러를 후진시켜 충돌</p><p>• **근본 원인**: 신규 차량갑판 안전 절차의 훈련 및 이행 미흡, 예인선 운전사의 위험 구간 인식 부족, 갑판 감독의 비효과적인 감시</p><p>• **산업 지도의 문제점**: 기존 지침이 운전사가 마샬러(지도원)의 신호에만 의존하고 마샬러가 보이지 않으면 정지한다는 잘못된 가정에 기반</p><p>• **재정 조치**: MAIB는 이전 클리퍼 페넌트호(Clipper Pennant) 사건과 유사한 문제를 언급하며, 영국해운회의소와 항만안전교육기관에 통합 산업 안전 규약 개발을 권고</p><h3>Key Quotes</h3><p>• "The deceased crew member passed behind the trailer probably assuming that it was safe to do so because it had completed manoeuvring." (사망한 선원은 트레일러가 기동을 마쳤다고 가정하고 뒤를 지나갔을 것으로 추정됨)</p><p>• "The tug driver was unaware of the crew member's position and reversed the trailer to realign it, crushing the crew member against the vessel's structure." (예인선 운전사는 선원의 위치를 인식하지 못한 채 정렬을 위해 트레일러를 후진시켜 선원을 선박 구조물에 압박)</p><p>• "Industry guidance on ro-ro vehicle deck operations relied heavily on the misconception that the drivers depend on marshallers to safely position their trailers and will stop their vehicle if they lose sight of their marshaller." (로로선 차량갑판 운영 지침이 운전사가 마샬러에 의존하고 마샬러가 보이지 않으면 정지한다는 잘못된 가정에 의존)</p><h3>Technical Insights</h3><p>• **차량갑판 안전 절차의 실행 격차**: 해운사가 신규 안전 절차를 수립했으나 실제 선원들의 작업 관행과 절차 간 괴리가 존재하여 위험 구간 진입이 상습화됨</p><p>• **예인선 운전사 교육의 문제점**: 운전사의 위험 구간 인식 기준과 실제 작업 관행이 불일치하며, 시야 상실 시 정지 요구사항이 제대로 이행되지 않음</p><p>• **감독 및 경영 보증의 부재**: 선박 관리회사의 비효과적 감독과 새로운 안전 절차 이행 확인의 부실로 조직적 안전 관리 체계 실패</p><p>• **산업 표준 개발 필요성**: MAIB는 영국해운회의소와 항만안전기관에 로로선 안전의 통합 산업 행동 강령 개발을 강력히 권고하여 재발 방지 추구</p></div>`,
+      tags: ["Fatal Accident","Ro-Ro Cargo Vessel","Vehicle Deck Safety","Crushing Injury"],
+      link: "https://www.gov.uk/maib-reports/fatal-accident-to-a-crew-member-on-board-the-roll-on-slash-roll-off-cargo-vessel-laureline",
+      coords: [0.3,51.48],
+      location: "Purfleet, England"
+    }
+  ]
+});
+
+// Auto-collected: 2026-03-26
+addEvents({
+  "2026-03-26": [
+    {
+      type: "news",
+      title: "U.S. Navy Unveils Medium Unmanned Surface Vessel (MUSV) for Golden Fleet Initiative",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-03-26",
+      image: "https://www.navalnews.com/wp-content/uploads/2025/07/Ekran-goruntusu-2025-07-20-010005.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미 해군이 Golden Fleet 이니셔티브의 핵심 플랫폼으로 중형 무인 수상함(MUSV, Medium Unmanned Surface Vessel) 패밀리 시스템을 공식 발표했으며, 이는 자율운항 함정 도입의 중요한 전환점을 의미함</p><p>• MUSV는 ISO 40피트 컨테이너 형식의 페이로드 2개 이상을 탑재 가능하며, 다양한 센서, 수리 장비 등 임무별 모듈식 시스템 교체 운용이 가능한 멀티롤 플랫폼</p><p>• Rebecca Gassler 로보틱스·자율시스템(RAS) 포트폴리오 인수 담당관은 "MUSV 마켓플레이스를 개방하여 다수의 벤더 자격 획득"을 목표로 함</p><p>• 기존 MASC(Modular Attack Surface Craft) 프로토타이핑 프로그램을 확대·개선한 것으로, 단일 용도 제약을 벗어나 광범위한 해군 임무 수행 가능</p><p>• 2026년 말까지 COLREG(해상충돌방지규칙) 기반 자율항법 검증 및 수상 시험을 완료할 예정</p><h3>Key Quotes</h3><p>• "We have as of 7am opened the MUSV marketplace to accelerate autonomous capability to the fleet" (함대의 자율운항 능력을 촉진하기 위해 MUSV 마켓플레이스를 개방했다는 의미)</p><p>• "Inside containers you could have a sensor, repair equipment, or any number of payloads that can be swapped like a container ship" (컨테이너 내부에 센서, 수리 장비 등 다양한 페이로드를 컨테이너선처럼 교체 가능하다는 뜻)</p><p>• "MUSV was tailored for a specific mission in the fleet. We have a much wider requirement for these vessels as a part of the Golden Fleet" (MUSV는 광범위한 해군 임무 요구사항을 충족하도록 설계되었다는 의미)</p><h3>Technical Insights</h3><p>• **COLREG 자율항법 검증**: 2026년 말까지 국제 해상충돌방지규칙(COLREG) 준수 기반의 자동 회피 기동 및 수상 시험 완료 목표로, 규제 준수 자율운항 기술의 조기 실전화 추진</p><p>• **모듈식 페이로드 아키텍처**: ISO 컨테이너 표준화를 통해 다양한 미션 시스템(센서, 무기, 통신, 수리장비 등)의 신속한 교체 운용이 가능하며, 해군 임무의 유연성과 비용 효율성 극대화</p><p>• **산업 생태계 확대**: SAM.gov 마켓플레이스 개방을 통해 민간 자율운항 기술 벤더의 광범위한 참여 유도로, 자율선박 기술 표준화 및 산업 성숙도 가속화 기대</p><p>• **Golden Fleet 통합 운영**: 컨테이너화된 자율 능력을 기존 함대 시스템과 네트워크로 통합하여 분산 해양 작전(Distributed Maritime Operations) 개념의 실현 단계로 진입</p></div>`,
+      tags: ["autonomous ships","unmanned surface vessels","U.S. Navy","Golden Fleet","maritime technology"],
+      link: "https://www.navalnews.com/naval-news/2026/03/u-s-navy-unveils-unmanned-centerpiece-of-golden-fleet-initiative/",
+      coords: [38.8816,-77.0369],
+      location: "Washington, D.C."
+    }
+  ]
+});
