@@ -2966,3 +2966,52 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2024-07-13
+addEvents({
+  "2024-07-13": [
+    {
+      type: "accident",
+      title: "Fatal Crew Member Crushing Accident on RoRo Vessel Laureline",
+      source: "MAIB (Marine Accident Investigation Branch)",
+      sourceMeta: "gov.uk · 2026-03-26",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2024년 7월 13일 몰타 선적 RoRo 화물선 Laureline에서 선원이 이동 중인 트레일러와 선박 구조물 사이에 압축되어 사망<br>• 갑판 안전 절차 미흡 및 비효과적 감독: 선박 운영사가 새로운 차량 갑판 안전 절차를 도입했으나 교육 및 이행의 약점 존재<br>• 예인차 운전자가 선원의 위치를 인식하지 못한 상태에서 트레일러를 후진시켜 사고 발생<br>• 선원은 트레일러 조종이 완료된 것으로 가정하고 안전하다고 생각하여 위험 구역을 통과<br>• 산업 지침의 결함: RoRo 갑판 운영 관련 기존 지침이 예인차 운전자가 도선사에 의존하며 시야를 잃으면 정지할 것이라는 잘못된 가정에 의존<br>• MAIB는 유사 사고(Clipper Pennant, 2024)를 토대로 영국 해운회의소에 RoRo 선박 차량 갑판 안전을 위한 통합 산업 행동강령 개발 권고</p><h3>Key Quotes</h3><p>• "The deceased crew member passed behind the trailer probably assuming that it was safe to do so because it had completed manoeuvring." <br>(사망한 선원은 트레일러의 조종이 완료되었다고 가정하여 안전하다고 생각하고 뒤를 지나감)</p><p>• "The tug driver was unaware of the crew member's position and reversed the trailer to realign it, crushing the crew member against the vessel's structure."<br>(예인차 운전자는 선원의 위치를 인식하지 못한 채 트레일러를 후진시켜 선원을 선박 구조물에 압축)</p><p>• "Supervision on the vehicle deck was ineffective, and the vessel's management company had not provided effective assurance to confirm that the new safety procedure had been understood or fully implemented on board."<br>(차량 갑판의 감독이 비효과적이었으며, 선박 관리회사가 새로운 안전 절차가 이해되고 완전히 이행되었는지 확인하기 위한 효과적인 보장을 제공하지 못함)</p><h3>Technical Insights</h3><p>• **RoRo 갑판 작업의 위험 구역 관리**: 현장 지침이 도선사(marshaller)의 신호 의존도에 과도하게 의존하고 있으며, 시야 차단 시 즉시 정지 의무에 대한 예인차 운전자의 이해 부족이 핵심 문제<br>• **절차와 실행의 괴리**: 선박 운영사의 새로운 안전 절차가 형식적으로만 도입되었으며, 갑판 크루의 실제 작업 관행과 불일치하는 훈련 및 이행으로 인해 실효성 상실<br>• **산업 표준화 필요성**: IMO 및 국내 해운 당국은 RoRo 선박의 차량 갑판 작업에 대한 통일된 행동강령 개발 필요(영국 해운회의소 권고 2024/148 갱신)<br>• **인적요소 및 안전문화**: 선박 관리회사의 감시 체계 강화, 정기적 안전 감사, 선원 및 항만 근로자 간 의사소통 프로토콜 개선이 유사 사고 예방의 필수 조건</p></div>`,
+      tags: ["Fatal Accident","RoRo Cargo Vessel","Crew Safety","Vehicle Deck Operations","Occupational Hazard"],
+      link: "https://www.gov.uk/maib-reports/fatal-accident-to-a-crew-member-on-board-the-roll-on-slash-roll-off-cargo-vessel-laureline",
+      coords: [0.3,51.48],
+      location: "Purfleet, England"
+    },
+    {
+      type: "accident",
+      title: "Fatal RoRo Accident on Laureline Highlights Ongoing Vehicle Deck Safety Issues",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-03-29",
+      image: "https://images.marinelink.com/images/maritime/w800/source-169304.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2024년 7월 13일 말타기국 RoRo선 로렐린(Laureline)에서 화물차량과 선박 구조물 사이에 낀 선원이 사망하는 사고 발생</p><p>• 영국 해양사고조사청(MAIB)이 조사 결과를 발표했으며, 사건은 선박 옆에서 예인선을 이용한 트레일러 적하작업 중 발생</p><p>• 주요 원인: 안전절차 미흡, 예인선 기사와 선원 간의 위험구역 인식 차이, 비효과적인 감시 체계</p><p>• 선박 운영사가 시행한 신규 안전절차가 적절히 교육·이행되지 않았으며, 승무원들이 이동 차량 주변의 위험구역으로 계속 진입</p><p>• MAIB는 유사 사고(Clipper Pennant, 2024)와 연계하여 RoRo선 차량갑판 운영을 위한 통합 산업 안전 지침서(Code of Practice) 개발을 권고</p><p>• 업계 지침이 예인선 기사가 마셜러(marshaller)에 의존하여 안전하게 위치 결정될 것이라는 오류에 기초하고 있어 근본적인 개선 필요</p><h3>Key Quotes</h3><p>• "Laureline is the latest in a series of tragic vehicle deck accidents across Europe and is a stark reminder that procedural controls alone are not sufficient to protect workers on ro-ro vehicle decks." (절차적 통제만으로는 RoRo선 차량갑판 근무자 보호에 부족함)</p><p>• "it was no longer tenable for the industry to continue operating in the current manner. Sadly, that remains true today" (현재의 운영 방식으로는 더 이상 안전을 보장할 수 없으며, 이는 여전히 현실)</p><h3>Technical Insights</h3><p>• **차량갑판 안전 절차의 실효성 문제**: 선박이 도입한 신규 안전절차가 형식적이었으며, 선원들의 실제 작업 관행과 괴리되어 있어 안전교육의 실질적 이행이 필수적임</p><p>• **예인선 기사와 선원 간 커뮤니케이션 붕괴**: 마셜링 시스템 의존도가 높으나 실제 위치 인식 실패로 인한 충돌 위험이 상존하며, 명확한 신호 체계와 상호 확인 프로토콜 필수</p><p>• **산업 전반의 통합 안전 지침 부재**: MAIB가 반복되는 사고를 통해 업계 전체의 통합 Code of Practice 필요성을 강조하고 있으며, IMO 및 해사당국의 강화된 규제 추진 가능성 높음</p><p>• **RoRo선 운영 리스크**: 안전 책임의 분산(선박 운영사, 예인선 회사, 항만 당국), 비숙련 예인선 기사의 증가, 감시 체계 부족으로 인한 사고 재발 위험이 지속적으로 제기되고 있음</p></div>`,
+      tags: ["RoRo accident","fatality","vehicle deck safety","MAIB investigation"],
+      link: "https://www.marinelink.com/news/report-fatal-accident-highlights-ongoing-537464",
+      coords: [0.3,51.5],
+      location: "Purfleet, England"
+    }
+  ]
+});
+
+// Auto-collected: 2026-03-29
+addEvents({
+  "2026-03-29": [
+    {
+      type: "news",
+      title: "U.S. Navy Commissions USS Massachusetts Virginia-Class Fast-Attack Submarine",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-03-29",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미 해군이 버지니아급 고속공격잠수함 USS 매사추세츠호(SSN 798)를 2026년 3월 28일 보스턴 항에서 공식 취역</p><p>• General Dynamics Electric Boat와 HII-Newport News Shipbuilding 간 팀 협력 계약으로 건조된 7번째 Block IV 버지니아급 잠수함</p><p>• 미 해군의 지속적인 해양 방위력 강화 및 전략적 수중전력 증강을 의미하는 주요 군사 행사</p><p>• 잠수함 건조산업 내 대형 방위산업체들의 역할 분담과 협력체계 구축</p><p>• 차세대 Block IV 잠수함 기술의 실전 배치로 태평양 및 대서양 전략에 영향</p><h3>Key Quotes</h3><p>• "USS Massachusetts is the seventh Block IV Virginia-class submarine" (USS 매사추세츠호는 버지니아급 Block IV 잠수함 중 7번째 함정이다)</p><p>• "built under a teaming agreement between General Dynamics Electric Boat and HII-Newport News Shipbuilding" (General Dynamics Electric Boat와 HII-Newport News Shipbuilding 간 팀 협력 계약으로 건조됨)</p><h3>Technical Insights</h3><p>• Block IV 버지니아급 잠수함은 차세대 작전능력(Multi-Mission Platform Modernization, MMPM) 탑재로 정보수집, 감시, 정찰(ISR) 임무 강화</p><p>• 미 해군의 전략적 억지력(Strategic Deterrence) 유지를 위한 핵심 수중전력 자산이며, 인도-태평양 지역 해양안보 전략과 직결</p><p>• 잠수함 건조 산업의 지속적 수요와 고부가가치 방위산업 생태계 유지로 미국의 산업경쟁력 강화</p></div>`,
+      tags: ["U.S. Navy","Virginia-class submarine","USS Massachusetts","Naval Defense"],
+      link: "https://defence-blog.com/u-s-navy-commissions-new-fast-attack-submarine/",
+      coords: [-71.0096,42.3601],
+      location: "Boston Harbor, Massachusetts, USA"
+    }
+  ]
+});
