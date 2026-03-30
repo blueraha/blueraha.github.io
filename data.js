@@ -3015,3 +3015,71 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2024-07-13
+addEvents({
+  "2024-07-13": [
+    {
+      type: "accident",
+      title: "Fatal accident to crew member on ro-ro cargo vessel Laureline - crushed by moving trailer",
+      source: "MAIB (Marine Accident Investigation Branch)",
+      sourceMeta: "gov.uk · 2026-03-26",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 2024년 7월 13일 몰타 등록 로로(ro-ro) 화물선 로린(Laureline)에서 승무원이 이동 중인 트레일러와 선박 구조물 사이에 끼어 사망</p><p>• **사고 원인**: 선박 직원이 트레일러 뒤를 지나갈 때 안전하다고 가정했으나, 예인선 운전기사가 승무원의 위치를 인식하지 못한 채 트레일러를 역주행하여 승무원을 압사</p><p>• **관련 기관 및 선박**: MAIB(해양사고조사청), 선박 운영자, 육상 예인선 운전기사, 로로 선박 운영 지도기관</p><p>• **안전 절차의 결함**: 선박 운영자가 도입한 새로운 차량 갑판 안전 절차가 불완전한 교육과 시행으로 인해 승무원들에게 제대로 이해되지 않음</p><p>• **결과 및 권고**: MAIB는 영국 해운회의소(UK Chamber of Shipping)에 로로 선박의 차량 갑판 안전을 위한 업계 실무지침(Code of Practice) 개발 권고</p><p>• **선행 사건**: 2024년 클리퍼 페넌트(Clipper Pennant) 호에서 유사 사고 발생으로 동일한 권고 이전에 내려진 바 있음</p><h3>Key Quotes</h3><p>• "The deceased crew member passed behind the trailer probably assuming that it was safe to do so because it had completed manoeuvring. The tug driver was unaware of the crew member's position and reversed the trailer to realign it, crushing the crew member against the vessel's structure." <br>(사망한 승무원은 트레일러가 조작을 완료했다고 가정하여 안전하다고 생각하고 뒤를 지나갔으나, 예인선 운전기사는 승무원의 위치를 모르고 트레일러를 역주행하여 승무원을 선박 구조물에 압사)</p><p>• "The tug driver's knowledge of danger zones and the requirement to stop when a crew member was out of sight did not align with their actual working practices."<br>(예인선 운전기사의 위험 구역 지식과 승무원이 시야에서 벗어났을 때 정지해야 한다는 요구사항이 실제 작업 관행과 일치하지 않음)</p><p>• "Industry guidance on ro-ro vehicle deck operations relied heavily on the misconception that the drivers depend on marshallers to safely position their trailers and will stop their vehicle if they lose sight of their marshaller."<br>(로로 차량 갑판 운영에 대한 업계 지침은 운전기사가 조종자(marshaller)에 의존하고 시야를 잃으면 정지할 것이라는 잘못된 가정에 크게 의존)</p><h3>Technical Insights</h3><p>• **위험 구역 관리 실패**: 로로 선박의 차량 갑판에서 예인선 운전기사와 승무원 간의 명확한 의사소통 체계 부재로 인한 구조적 위험 – 해운 업계의 표준화된 안전 절차 수립 필요</p><p>• **절차 대 실제 관행의 괴리**: 선박 운영사가 새로운 안전 절차를 도입했으나 불충분한 교육과 감독으로 인해 현장에서 실행되지 않음 – IMO 안전관리규칙(ISM Code) 이행의 실효성 강화 필수</p><p>• **업계 지침의 근본적 결함**: 현존 업계 지침이 예인선 운전기사의 조종자(marshaller) 의존 가정에 기반하고 있어 실제 위험을 간과 – 국제해사기구(IMO) 차원의 로로 선박 안전 규정 개정 검토 필요</p><p>• **반복적 사고의 신호**: 유사 사고(클리퍼 페넌트)가 2024년 이미 발생했음에도 불구하고 2024년 7월 로린 호에서 동일 유형 사고 재발 – 업계의 권고 이행 속도 가속화 및 강제성 있는 규정 필요</p></div>`,
+      tags: ["fatal accident","ro-ro vessel","vehicle deck safety","crushing accident","crew fatality"],
+      link: "https://www.gov.uk/maib-reports/fatal-accident-to-a-crew-member-on-board-the-roll-on-slash-roll-off-cargo-vessel-laureline",
+      coords: [0.309,51.481],
+      location: "Purfleet, England"
+    },
+    {
+      type: "accident",
+      title: "Fatal RoRo Accident on Laureline: MAIB Report Highlights Systemic Vehicle Deck Safety Issues",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-03-29",
+      image: "https://images.marinelink.com/images/maritime/w800/source-169304.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **사고 개요**: 몰타선적 RoRo선 Laureline호에서 2024년 7월 13일 선원이 이동 중인 트레일러와 선박 구조물 사이에 압사되어 사망한 사건</p><p>• **직접적 원인**: 트레일러 조종사(육상 관계자)가 선원의 위치를 인식하지 못한 상태에서 트레일러를 후진시켜 충돌 - 선원은 조작이 완료되었다고 가정하고 안전하다고 믿고 통과</p><p>• **근본적 결함**: 선박운영사의 새로운 차량갑판 안전절차가 형식적으로만 도입되었으며, 승무원 교육 및 이행이 미흡하고 현장에서 실제 작동 방식과 불일치</p><p>• **감독 및 관리 공백**: 차량갑판 감독이 효과적이지 않았으며, 선박관리회사가 새로운 안전절차의 이해 및 이행 여부를 확인하지 못함</p><p>• **업계 구조적 문제**: RoRo 차량갑판 운영 지침이 "운전자는 마셜러(유도자)에 의존하고 시야 상실 시 정지할 것"이라는 잘못된 가정에 기반 - 실제 관행과 괴리</p><p>• **후속 조치**: MAIB는 2024년 Clipper Pennant호 유사사고 후 권고한 통합 안전 Code of Practice 개발을 강화하여 재권고</p><p>---</p><h3>Key Quotes</h3><p>• **"Laureline is the latest in a series of tragic vehicle deck accidents across Europe and is a stark reminder that procedural controls alone are not sufficient to protect workers on ro-ro vehicle decks."** <br>(Laureline은 유럽 전역의 일련의 비극적 차량갑판 사고 중 최신 사례이며, 절차적 통제만으로는 RoRo 선박 차량갑판 근로자를 보호하기에 충분하지 않다는 명백한 상기)</p><p>• **"it was no longer tenable for the industry to continue operating in the current manner. Sadly, that remains true today"** <br>(업계가 현재의 방식으로 계속 운영하는 것은 더 이상 지속 불가능하다. 슬프게도 그것은 오늘날에도 여전히 사실)</p><p>---</p><h3>Technical Insights</h3><p>• **차량갑판 안전의 다층적 실패**: 절차적 통제(새로운 안전절차), 인적 인식(운전자의 위험구역 인식), 감독(효과적인 현장 감독)이 모두 실패하면서 발생 - 단순 절차 개선만으로는 불충분함을 입증</p><p>• **운영-절차 간극(Operation-Procedure Gap)**: 선박관리사가 정한 안전절차와 현장 작업자(육상 트레일러 운전자 포함)의 실제 작동 관행 간 심각한 괴리 - 업계 전체의 통일된 Code of Practice 필요</p><p>• **책임과 통제의 경계 모호성**: 선박 승무원(마셜러)과 육상 트레일러 운전자 간 상호 인식 및 신호 체계의 부재 - IMO와 선주협회 수준의 명확한 지침 및 교육 기준화 시급</p><p>• **RoRo 선박 특수성**: 항만 하역 작업 특성상 선박승무원과 육상작업자(항만청소년, 계약업체)가 혼재된 작업 환경 - COLREG와 달리 명확한 국제 안전 표준 부재로 각국 해사청별 상이한 규제</p></div>`,
+      tags: ["RoRo vessel","Fatal accident","Vehicle deck safety","MAIB investigation","Crushing incident","Safety procedure failure"],
+      link: "https://www.marinelink.com/news/report-fatal-accident-highlights-ongoing-537464",
+      coords: [0.365,51.487],
+      location: "Purfleet, England"
+    }
+  ]
+});
+
+// Auto-collected: 2026-03-30
+addEvents({
+  "2026-03-30": [
+    {
+      type: "news",
+      title: "China building more giant Zubr-class hovercraft for amphibious operations",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-03-30",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/03/China-Zubr-Hovercraft.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 중국이 소비에트 Zubr급 대형 호버크래프트의 국산화 생산을 추진 중이며, 현재 최소 5척 이상의 Type 728(국산형)을 건조한 것으로 확인됨<br>• 중국 해군(PLAN)의 호버크래프트 함대 규모는 최소 9척으로 세계 최대 규모(러시아 2척, 그리스 4척)<br>• 각 호버크래프트는 500명의 병력 또는 주력전차 3대/경장갑차 10대와 병력 230명을 시속 55노트 이상의 속도로 수송 가능<br>• 이 장비들은 고도의 유지보수를 필요로 하지만, 침략 시나리오에서 해변 직접 상륙 능력과 해상 기뢰에 대한 내성이 장점<br>• 중국의 대규모 호버크래프트 함대 구축은 대만 침공에 대한 군사적 준비도 증가를 시사</p><h3>Key Quotes</h3><br>• "The Zubr-class hovercraft can carry 500 troops, or three main battle tanks (MBTs) or 10 lighter armoured fighting vehicles (AFVs) and 230 troops" (Zubr급 호버크래프트는 500명의 병력, 또는 3대의 주력전차나 경장갑차 10대와 병력 230명을 운송 가능)</p><p>• "Their speed, range and on-beach delivery capabilities allow troops or vital equipment to be landed more efficiently" (고속성, 항속력, 해변 직접 상륙 능력으로 병력과 장비의 효율적 상륙이 가능)</p><h3>Technical Insights</h3><br>• 호버크래프트의 높은 유지보수 수요 및 장기간 해상 체류 불가라는 구조적 한계가 있으나, 단거리 수송 및 침략전 작전에 최적화된 설계<br>• 중국의 Type 728 국산화 성공은 2014년 우크라이나에서 도입한 4척의 Project 1232.2 Zubr 분석 및 조립 노하우 축적의 결과<br>• 호버크래프트의 대형화(500톤급)는 소비에트식 군사 거대주의(Gigantism) 전략의 계승이며, 초강대국 수준의 로지스틱 자원을 필요로 함<br>• 해상 기뢰 및 특정 대침략 방어 시스템에 대한 상대적 내성으로 대만 해협 침략 전장에서 전술적 가치 상승</p></div>`,
+      tags: ["China","Zubr-class hovercraft","amphibious warfare","military buildup"],
+      link: "https://www.navalnews.com/naval-news/2026/03/china-building-more-giant-zubr-class-hovercraft/",
+      coords: [104.0655,35.8617],
+      location: "China"
+    }
+  ]
+});
+
+// Auto-collected: 2026-03-26
+addEvents({
+  "2026-03-26": [
+    {
+      type: "news",
+      title: "U.S. Navy Unveils MUSV Family of Systems for Golden Fleet Initiative",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-03-26",
+      image: "https://www.navalnews.com/wp-content/uploads/2025/07/Ekran-goruntusu-2025-07-20-010005.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 해군이 Golden Fleet 구상의 핵심 무인 수상함정인 MUSV(Medium Unmanned Surface Vessel) Family of Systems을 공식 발표하며 자율운항 함정의 새로운 시대 개막</p><p>• 포트폴리오 획득 담당관실(Portfolio Acquisition Executive) 주도로 MUSV 마켓플레이스를 개설하여 다수 민간 벤더의 자율운항 기술 참여 확대 추진</p><p>• MUSV는 40피트 ISO 표준 컨테이너 형식의 페이로드 2개 이상 탑재 가능하여 센서, 수리장비 등 다양한 임무 모듈 교환 가능</p><p>• 기존 MASC(Modular Attack Surface Craft) 프로토타입 사업을 확대하여 장거리 미사일 시스템 및 미사일 방어 요격체 등 복잡한 자율화 요구사항 충족</p><p>• 2026년 말까지 COLREG(해상충돌방지규칙) 준수 검증을 포함한 수상 시험 완료 목표로 단축된 시험 일정 추진 중</p><h3>Key Quotes</h3><p>• "We have as of 7am opened the MUSV marketplace to accelerate autonomous capability to the fleet" (함대의 자율운항 능력 강화를 위해 MUSV 마켓플레이스를 개방했다는 의미)</p><p>• "Inside containers you could have a sensor, repair equipment, or any number of payloads that can be swapped like a container ship" (컨테이너 내부에 센서, 수리 장비 등 다양한 페이로드를 탑재할 수 있으며 일반 컨테이너선처럼 교환 가능하다는 뜻)</p><p>• "MUSV was tailored for a specific mission in the fleet. We have a much wider requirement for these vessels as a part of the Golden Fleet" (MUSV는 함대의 특정 임무에 맞춰 설계되었으나 Golden Fleet 구상 내에서 훨씬 광범위한 운용 요구사항이 있다는 의미)</p><h3>Technical Insights</h3><p>• **COLREG 준수 자율운항 검증**: MUSV는 국제 해상충돌방지규칙(COLREG)에 따른 충돌 회피 기동을 자동화하여 완전 자율운항 함정의 국제법적 타당성 확보 추진</p><p>• **컨테이너화된 모듈식 무장 체계**: ISO 표준 컨테이너 형식의 페이로드 교환 시스템으로 임무에 따른 신속한 무장 및 센서 재구성 가능하여 전력 운용 유연성 극대화</p><p>• **산업 생태계 확대를 통한 기술 혁신**: 단일 벤더 고정 방식의 MASC에서 다중 벤더 참여 마켓플레이스로 전환하여 민간 자율운항 기술의 국방 적용 가속화</p><p>• **무인함 통합 운용 전략의 구체화**: 다양한 임무 프로필에 대응하는 자율화 수준 차등 적용으로 무인함-유인함 혼합 함대(hybrid fleet) 운영의 현실화</p></div>`,
+      tags: ["Autonomous Ships","U.S. Navy","MUSV","Unmanned Surface Vessels","Golden Fleet","Defense Technology"],
+      link: "https://www.navalnews.com/naval-news/2026/03/u-s-navy-unveils-unmanned-centerpiece-of-golden-fleet-initiative/",
+      coords: [38.8951,-77.0369],
+      location: "Washington, D.C."
+    }
+  ]
+});
