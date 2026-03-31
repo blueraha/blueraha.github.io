@@ -3083,3 +3083,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-03-30
+addEvents({
+  "2026-03-30": [
+    {
+      type: "accident",
+      title: "Kuwaiti Tanker Al-Salmi Attacked and Set Ablaze in Dubai Port",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-03-31",
+      image: "https://images.marinelink.com/images/maritime/w800/hyperlapsepro-adobe-169350.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 쿠웨이트 국적 유조선 알-살미(Al-Salmi)호가 3월 30일 두바이 항만 정박지에서 드론 공격으로 화재 발생, 선체 손상 및 유출 위험 경고</p><p>• 쿠웨이트 석유공사(KPC)가 선박의 실소유자 및 운영사로서 즉시 손상 평가 및 대응 조치 시행, 24명의 승무원 전원 안전 확보</p><p>• 미국-이스라엘의 2월 28일 이란 공격 이후 페르시만과 호르무즈 해협에서 미사일 및 무인기에 의한 상선 공격이 계속되는 추세</p><p>• 유류 가격 급등: WTI유 배럴당 $3.00 이상(2.9%) 상승하여 $105.91달러로 급등, 에너지 시장 변동성 심화</p><p>• 그리스 소유 컨테이너선 익스프레스 로메(Express Rome)호도 동일 시간대 라스 타누라 인근 약 22해리 지점에서 2건의 포탄 사건 피해</p><h3>Key Quotes</h3><p>• "Iran attacked a fully-loaded crude oil tanker at Dubai Port's anchorage on Monday, setting it ablaze and damaging its hull" <br>(이란이 월요일 두바이 항만 정박지의 만재 상태 유조선을 공격하여 화재를 유발하고 선체에 손상을 입힘)</p><p>• "the latest in a string of assaults on merchant vessels by missiles or explosive air and sea drones in the Gulf and Strait of Hormuz"<br>(페르시만과 호르무즈 해협에서 미사일 및 폭발성 항공·해상 무인기에 의한 일련의 상선 공격 중 최신 사건)</p><p>• "No injuries have been reported, and the safety of all 24 crew members has been secured"<br>(부상자 없으며, 24명의 승무원 전원의 안전이 확보됨)</p><h3>Technical Insights</h3><p>• **해상 안보 위협 심화**: 드론 및 무인기를 이용한 대함 공격은 전통적 COLREG 기반 충돌 회피 규정 외에 새로운 위협 대응 체계를 요구하며, IMO는 고위험 해역 운항 선박의 보안 강화 기준 신설 필요</p><p>• **자율운항선박의 취약성**: 무인 항공/해상 체계 공격에 대응할 수 없는 자율운항선박의 도입은 고위험 지역(페르시만, 홍해 등)에서 인력 탑승 필요성을 대두시키며, 하이브리드 운영 모델 개발 급급</p><p>• **해상 교통 보험료 상승**: 이란-미국 분쟁 심화로 에너지 가격 변동성이 커지면서 해상 운송 산업의 전반적 리스크 프리미엄 상향 조정으로 운송료 인상 예상</p><p>• **국제 해역 통제 약화**: 분쟁 지역 항해의 자유(Freedom of Navigation) 원칙이 실질적으로 훼손되고 있으며, 민간 선박의 정찰·방어 기술 고도화와 해군 보호 선단 의존도 증가 추세</p></div>`,
+      tags: ["drone attack","oil tanker","fire","hull damage","oil spill risk","Persian Gulf security"],
+      link: "https://www.marinelink.com/news/kuwaiti-tanker-ablaze-dubai-port-537512",
+      coords: [55.2708,25.1972],
+      location: "Dubai Port, United Arab Emirates"
+    },
+    {
+      type: "news",
+      title: "Italian Navy to Acquire Bayraktar TB3 Drones for Cavour Aircraft Carrier",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-03-30",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/03/cavour-with-tb3-1024x645.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이탈리아 해군이 바이락타르 TB3 무인전투항공기(UCAV)를 도입하기로 결정하여 유럽 최초의 TB3 고객이 될 예정<br>• 베루티 베르고토 해군참모총장이 3월 25일 상원 외교방위위원회에서 공식 발표, TB3는 카부르 항공모함에서 운용될 예정<br>• 레오나르도(Leonardo) 사와 터키 드론 제조사 바이카르(Baykar)의 합작회사 LBA 시스템즈를 통해 도입 추진<br>• TB3는 접이식 날개와 강화된 착륙장치로 단거리 갑판 항공모함 운용에 최적화되어 설계됨<br>• 터키 해군의 TCG 아나돌루 항공모함에서 이미 운용 중이며, NATO 스텟패스트 다트 2026 훈련에서 ISR 및 타격 능력 입증<br>• 카부르 항공모함의 F-35B 전투기와 함께 운용되어 이탈리아 해군의 무인항공 능력 대폭 확대</p><h3>Key Quotes</h3><p>• "You know that this company has signed a cooperation agreement with Leonardo; therefore, the acquisition will be through Leonardo. It can be integrated on board the Cavour (aircraft carrier). This allows both surveillance and the possibility of carrying armament" (레오나르도와의 협력 협약으로 TB3를 카부르 항공모함에 통합할 수 있으며, 감시 및 무장 탑재 능력을 모두 갖추게 된다는 의미)</p><p>• "The TB3 has been developed specifically for operations from short take-off carriers such as Türkiye's TCG Anadolu" (TB3는 터키의 TCG 아나돌루와 같은 단거리 이착륙 항공모함에서의 운용을 위해 특별히 개발됨)</p><h3>Technical Insights</h3><p>• **무인 항공기 해상 운용 기술의 진화**: TB3의 접이식 날개와 강화된 착륙장치는 항공모함의 제한된 갑판 공간에서 운용하기 위한 혁신적 설계로, 차세대 해군 무인 항공 시스템의 핵심 기술 기준을 제시함</p><p>• **유럽 해군의 자동화/무인화 전략**: 이탈리아의 TB3 도입은 유럽 해군이 유인 전투기(F-35B)와 무인항공기를 통합 운용하는 하이브리드 항공전력 구성으로 이동 중임을 의미하며, NATO 해군력의 현대화 추세를 반영</p><p>• **국제 방위산업 협력 모델**: 레오나르도-바이카르 합작회사(LBA Systems)를 통한 이탈리아 TB3 도입은 서방과 NATO 동맹국 간의 첨단 방위기술 협력 사례로, 항공모함 기반 UCAV의 국제적 표준화를 촉진할 가능성</p><p>• **IMO/SOLAS 규정과의 관계성**: 항공모함 기반 무인항공기의 확산은 해상 자동화 기술의 군사적 선행 적용 사례로, 향후 민간 해운의 자율운항선박(MASS) 규정 개발에 군사 운용 경험이 반영될 수 있음을 시사</p></div>`,
+      tags: ["Unmanned Aerial Vehicles","Naval Aviation","Italian Navy","Bayraktar TB3","Aircraft Carrier","Defense Technology"],
+      link: "https://www.navalnews.com/naval-news/2026/03/italian-navy-to-fly-tb3-drones-from-cavour-aircraft-carrier/",
+      coords: [12.5674,41.9028],
+      location: "Italy"
+    }
+  ]
+});
