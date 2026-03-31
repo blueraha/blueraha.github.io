@@ -3115,3 +3115,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-03-31
+addEvents({
+  "2026-03-31": [
+    {
+      type: "accident",
+      title: "Kuwaiti Tanker Al-Salmi Ablaze After Drone Attack in Dubai Port",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-03-31",
+      image: "https://images.marinelink.com/images/maritime/w800/hyperlapsepro-adobe-169350.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **쿠웨이트 유조선 알-살미호가 드론 공격으로 화재 발생** - 3월 30일 두바이 항구 앵커리지에서 이란의 드론 공격으로 적재된 원유 유조선이 불에 타고 선체가 손상됨</p><p>• **유조선 정보 및 피해 현황** - 쿠웨이트 국적 알-살미호, 선원 24명 전원 안전, 선체 손상 정도 정확히 평가 중, 유류 유출 가능성 경고</p><p>• **지역 보안 악화** - 2월 28일 미국-이스라엘의 이란 공격 이후 페르시아만과 호르무즈 해협에서 미사일 및 드론에 의한 선박 피격이 계속되는 추세</p><p>• **유가 영향** - 미국 원유 선물가격이 배럴당 $3 이상(2.9%) 상승하여 $105.91에 도달</p><p>• **동시 다발 사건** - 같은 날 사우디아라비아 라스 타누라 해안 인근 그리스 컨테이너선 익스프레스 로메호도 1시간 간격으로 두 발의 발사체 피격(피해 없음)</p><p>• **책임 주체 불명** - 공식적으로 책임을 주장하는 단체 없음, 이란 관계자 즉시 코멘트 불가</p><h3>Key Quotes</h3><p>• "Iran attacked a fully-loaded crude oil tanker at Dubai Port's anchorage on Monday, setting it ablaze and damaging its hull" (이란이 월요일 두바이 항구 앵커리지의 완전 적재 상태의 원유 유조선을 공격해 화재를 일으키고 선체를 손상시켰음)</p><p>• "The apparent strike is just the latest in a string of assaults on merchant vessels by missiles or explosive air and sea drones in the Gulf and Strait of Hormuz since the U.S. and Israel attacked Iran on February 28" (이 공격은 2월 28일 미국과 이스라엘의 이란 공격 이후 페르시아만과 호르무즈 해협에서 미사일 및 드론으로 인한 일련의 상인선 피격 중 최신 사건임)</p><p>• "No injuries have been reported, and the safety of all 24 crew members has been secured" (인명 피해는 보고되지 않았으며 24명의 선원 전원의 안전이 확보됨)</p><h3>Technical Insights</h3><p>• **해사 보안 위협 확대** - 드론 및 대함 미사일 무기의 발전으로 국제 해로의 상선 운항 위험도 급증, IMO 보안 규정(ISPS Code) 강화 필요성 증대</p><p>• **선박 설계 및 방어 기술** - 유조선의 내구성 및 손상 제어 시스템의 중요성 대두, 드론 공격에 대한 조기 경보 및 회피 기술 개발 시급</p><p>• **자율운항선과 인명 보호** - 무인 선박 운항 시 이러한 분쟁 지역에서의 인명 손상 회피 가능성이 있으나, 군사 공격에 대한 자율 회피 시스템의 국제법 규범화 필요</p><p>• **국제 해상 교역 경로 재편** - 페르시아만-호르무즈 해협 경로의 위험 증가로 인한 대체 해로(아프리카 우회) 선택 증가, 선박 운송비 및 보험료 상승 예상</p></div>`,
+      tags: ["drone attack","oil tanker","fire","Dubai Port","hull damage","oil spill risk"],
+      link: "https://www.marinelink.com/news/kuwaiti-tanker-ablaze-dubai-port-537512",
+      coords: [55.2708,25.1972],
+      location: "Dubai Port, UAE"
+    }
+  ]
+});
