@@ -3197,3 +3197,53 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-03-31
+addEvents({
+  "2026-03-31": [
+    {
+      type: "accident",
+      title: "Drone Strike Hits Laden Supertanker Al Salmi Off Dubai, Fire Contained",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-03-31",
+      image: "https://gcaptain.com/wp-content/uploads/2026/03/2026-03-30T233144Z_1740192935_RC2CDKAR7ZRB_RTRMADP_3_USA-AIRPORT-TRUMP.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **드론 공격 사건**: 쿠웨이트 국적 VLCC 알살미호가 두바이 앞바다에서 정체불명의 드론 공격으로 인한 화재 발생<br>• **선박 및 적재 현황**: 약 200만 배럴(사우디유 120만, 쿠웨이트유 80만 배럴) 적재 중이었으나 전원 안전하고 유출 없음<br>• **대응 및 결과**: 두바이 해양 소방대가 통제하에 불을 진화했으며 환경 오염 없이 안전 처리됨<br>• **지역 정세**: 3월 22일 이후 처음의 확인된 공격으로, 미국-이스라엘-이란 분쟁의 지속적 해상 위협을 반영<br>• **정치적 배경**: 트럼프 대통령이 이란과의 협상 진행을 언급하면서도 호르무즈 해협 개방 미이행 시 핵심 에너지 시설 타격 위협<br>• **누적 피해**: 2월 말 이후 걸프 지역 24건의 사건 기록(확인된 공격 16건, 의심 활동 8건)</p><h3>Key Quotes</h3><p>• "A Kuwaiti supertanker carrying more than 2 million barrels of crude was struck by a drone in waters off Dubai late Monday, triggering a fire that was later brought under control without injuries or pollution" (두바이 앞바다에서 200만 배럴의 유조선이 드론 공격을 받아 화재가 발생했지만 인명피해와 유출 없이 통제됨)</p><p>• "The vessel has been identified by ship-tracking analysts at TankerTrackers as the Kuwaiti-flagged VLCC Al Salmi, laden with approximately 1.2 million barrels of Saudi crude and 800,000 barrels of Kuwaiti crude" (선박은 쿠웨이트 국적의 알살미호로 확인되었으며 약 200만 배럴의 원유를 운송 중)</p><p>• "if a deal is not reached 'shortly' and the Strait of Hormuz is not immediately reopened to commercial shipping, the U.S. could target Iran's critical infrastructure—including electric power plants, oil fields, Kharg Island export facilities" (호르무즈 해협이 상업 운송에 즉시 개방되지 않으면 미국이 이란의 핵심 에너지 인프라를 공격할 수 있음)</p><h3>Technical Insights</h3><p>• **해상 안전 위협**: 호르무즈 해협뿐 아니라 두바이 앞바다와 같은 공식 정박지역까지 드론 공격 범위가 확대되어 글로벌 에너지 운송 경로의 광범위한 취약성 노출<br>• **IMO 규정 적용의 한계**: 무장 드론 공격은 기존 COLREG 및 해상 충돌 회피 규칙으로 대응 불가능한 새로운 위협으로, 국제해사기구의 규정 개정 필요<br>• **전쟁 위험 보험료 상승**: 페르시아만 유조선 운송의 지속적 위험 증가로 인한 전쟁 위험 보험료(War Risk Premium) 급증으로 에너지 수송 경제성 악화<br>• **자율운항선박의 한계**: 현 상황의 무장 드론 위협 환경에서는 자율운항선박의 도입보다 유인 선박 승무원의 실시간 상황 대응 능력이 더 중요한 생존 요소로 작용</p></div>`,
+      tags: ["Drone Attack","Supertanker","Persian Gulf","Maritime Security","Fire Incident"],
+      link: "https://gcaptain.com/drone-strike-hits-laden-supertanker-off-dubai-as-gulf-shipping-incidents-flare-again/",
+      coords: [54.3773,25.2048],
+      location: "Dubai Anchorage, United Arab Emirates"
+    },
+    {
+      type: "news",
+      title: "UK Royal Navy Awards Teledyne Contract for Underwater Gliders and Ocean Observing Systems",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-03-31",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/03/UK-Royal-Navy-Awards-Teledyne-Contract-for-Underwater-Gliders-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 영국 국방부(MOD)가 Teledyne社와 미래 해양 데이터 수집(FMDG) 프로그램을 위한 계약을 체결하였으며, Sentinel 및 Slocum 글라이더와 APEX 플로트 등 자율 해양 관측 시스템을 공급받기로 결정함</p><p>• Teledyne Marine은 2015년부터 영국 해군의 해양음향 및 환경 모니터링을 지원해온 유일한 공급업체로서, 현재 함대와의 원활한 상호운용성 및 보안 준수 능력을 갖추고 있음</p><p>• 이 계약을 통해 영국 해군은 복잡하고 원격 해양 환경에서 고품질의 해양 데이터를 장시간 수집할 수 있으며, 작전 계획 및 해양 안보 활동을 강화할 수 있음</p><p>• 이 시스템은 Atlantic Bastion 전략 지원과 북대서양의 분쟁 상황에서의 수중 전장 이해 및 전술적 환경 활용을 가능하게 함</p><p>• 영국 해군의 하이브리드 해군 전략 및 정보전 기상해양(IW METOC) 작전과 직접 연계되어 지휘관에게 작전상 이점을 제공함</p><h3>Key Quotes</h3><p>• "Teledyne remains the only supplier able to guarantee seamless interoperability, security compliance, and mission readiness into the Current RN Glider Fleet." (현재 영국 해군 글라이더 함대와의 완벽한 상호운용성, 보안 준수, 그리고 작전 준비 태세를 보장할 수 있는 유일한 공급업체)</p><p>• "This investment in autonomous ocean sensing strengthens the Royal Navy's ability to understand and operate in an increasingly contested North Atlantic, supporting Atlantic Bastion." (자율 해양 감지 기술 투자는 영국 해군이 점점 더 경쟁 심화되는 북대서양에서 해양 상황을 이해하고 작전하는 능력을 강화하며 Atlantic Bastion 전략을 지원함)</p><h3>Technical Insights</h3><p>• **자율 수중 글라이더의 운용 확대**: Slocum 글라이더와 APEX 플로트 등 자율 시스템의 장시간 운영(long-endurance) 능력은 NATO 해역에서의 지속적 해양 감시 및 환경 정보 수집을 가능하게 함</p><p>• **해양 데이터의 전술적 활용**: 실시간 해양 데이터는 수중 전장 이해(Underwater Battlespace understanding)와 전술적 환경 활용(Tactical Exploitation of the Environment)을 통해 해군 지휘관에게 작전상 이점 제공</p><p>• **NATO 해역 방어 강화**: Atlantic Bastion 전략의 일환으로 북대서양의 증가된 안보 위협에 대응하기 위한 첨단 자율 기술의 체계적 도입은 NATO 연합 해상 작전 능력 향상을 의미함</p><p>• **혼종 해군 전략 구현**: 영국 해군의 하이브리드 해군 의제(Hybrid Navy agenda) 하에서 자율 시스템과 정보전 기상해양(IW METOC) 운영 통합은 차세대 해군 운영 개념의 실현을 의미함</p></div>`,
+      tags: ["Autonomous Systems","Royal Navy","Oceanographic Data","Underwater Gliders","Defence Technology"],
+      link: "https://www.navalnews.com/naval-news/2026/03/uk-royal-navy-awards-teledyne-contract-for-underwater-gliders/",
+      coords: [0,0],
+      location: "North Atlantic/NATO"
+    }
+  ]
+});
+
+// Auto-collected: 2024-07-13
+addEvents({
+  "2024-07-13": [
+    {
+      type: "accident",
+      title: "Fatal Accident on Roll-on/Roll-off Cargo Vessel Laureline - Crew Member Crushed",
+      source: "MAIB (Marine Accident Investigation Branch)",
+      sourceMeta: "gov.uk · 2026-03-26",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사고 개요**: 2024년 7월 13일 몰타 등록 자동차 운반선(ro-ro vessel) Laureline호에서 승무원 1명이 트레일러와 선박 구조물 사이에 압축되어 치명상을 입음</p><p>• **사고 경위**: 승무원이 기동을 완료한 것으로 판단하고 트레일러 뒤를 지나갔으나, 투그 운전자가 승무원의 위치를 인지하지 못한 채 트레일러를 재정렬하면서 충돌</p><p>• **근본 원인**: 선박 운영사의 신규 차량갑판 안전절차 도입 후 교육 및 이행 미흡, 투그 운전자의 위험구역 인식 부족 및 시야 외 승무원 발견 시 정지 요구사항 미이행</p><p>• **감독 결함**: 차량갑판 감독의 비효율성과 선박 관리회사의 새로운 안전절차 이행 확인 체계 부재</p><p>• **산업 문제**: ro-ro 차량갑판 운영 지침이 운전자가 마샬러에 의존하여 정지할 것이라는 오류에 기반하여 수립됨</p><p>• **후속 조치**: MAIB는 유사 사고(Clipper Pennant, 2024)와의 연관성을 인식하고 영국 해운회의소 및 항만안전기술센터에 ro-ro 선박 차량갑판 안전 산업 행동강령 개발 권고</p><h3>Key Quotes</h3><p>• "The deceased crew member passed behind the trailer probably assuming that it was safe to do so because it had completed manoeuvring." <br>(사망한 승무원은 트레일러가 기동을 완료했다고 가정하고 뒤를 지나갔음)</p><p>• "The tug driver was unaware of the crew member's position and reversed the trailer to realign it, crushing the crew member against the vessel's structure." <br>(투그 운전자는 승무원의 위치를 인지하지 못하고 트레일러를 역행하여 재정렬하면서 승무원을 선박 구조물에 압축시킴)</p><p>• "The vessel operators had instigated a new procedure for vehicle deck safety. However, there were weaknesses in its training and implementation, and it was not well understood by the crew working on the vehicle deck." <br>(선박 운영사가 신규 안전절차를 시행했지만, 교육 및 이행에 약점이 있었고 차량갑판 작업 승무원들이 제대로 이해하지 못함)</p><h3>Technical Insights</h3><p>• **시야 확보 및 통신 프로토콜 강화**: ro-ro 선박의 트레일러 기동 시 투그 운전자와 마샬러/갑판 감독 간 명확한 시각적 신호 및 음성 통신 체계 구축 필요. COLREG 규정 외 선박 내 차량갑판 운영 표준화 필수</p><p>• **안전 문화 및 교육 체계**: 신규 안전절차 도입 시 선박 및 육상 운영자(투그 운전자)에 대한 통합 교육 프로그램 필수. 형식적 교육이 아닌 실제 작업 환경에서의 이해도 확인 체계 필요</p><p>• **IMO 규제 및 산업 표준 정합성**: IMO SOLAS 및 ISM Code 기준 하에서 ro-ro 차량갑판 안전에 대한 국제 표준 강화 필요. 각국 항만당국과 선박 관리사 간 일관된 안전 지침 개발 권고</p><p>• **기술적 보완**: 자동화/AI 기반 트레일러 위치 추적, 근접 감지 시스템(proximity detection) 등 첨단 기술 도입으로 인적 오류 감소 필요. 또한 원격 운전자 감시 카메라 및 음성 경보 시스템 강화</p></div>`,
+      tags: ["Fatal Accident","Ro-ro Vessel","Vehicle Deck Safety","Crushing Incident","Crew Fatality"],
+      link: "https://www.gov.uk/maib-reports/fatal-accident-to-a-crew-member-on-board-the-roll-on-slash-roll-off-cargo-vessel-laureline",
+      coords: [0.48,51.48],
+      location: "Purfleet, England"
+    }
+  ]
+});
