@@ -3135,3 +3135,65 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-03-31
+addEvents({
+  "2026-03-31": [
+    {
+      type: "accident",
+      title: "Drone Strike Hits Laden Supertanker Off Dubai; Fire Contained, No Injuries",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-03-31",
+      image: "https://gcaptain.com/wp-content/uploads/2026/03/2026-03-30T233144Z_1740192935_RC2CDKAR7ZRB_RTRMADP_3_USA-AIRPORT-TRUMP.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **사건 개요**: 쿠웨이트 국적의 VLCC급 초대형유조선(Al Salmi)이 두바이 인근 해상에서 드론 공격을 받아 화재 발생, 즉시 진화되고 오염 없음 (선원 24명 전원 안전)</p><p>• **선박 및 화물**: Al Salmi호는 사우디 원유 120만 배럴, 쿠웨이트 원유 80만 배럴 적재, 목적지 중국 칭다오</p><p>• **사건 지점**: 두바이로부터 북서쪽 31해리 떨어진 정박지 "E" 해역 (UKMTO 보고)</p><p>• **관련 갈등 배경**: 미국-이스라엘-이란 갈등 확대로 최근 9일 만에 첫 공격 사건 (3월 22일 이후 사건 없음)</p><p>• **지역 안보 악화**: 2월 말 이후 페르시아만/호르무즈 해협 지역에서 24건 사건 기록 (확인 공격 16건, 의심 활동 8건)</p><p>• **정치적 협상 신호**: 트럼프 대통령이 이란과의 "진지한 협상" 진행 중이나, 호르무즈 해협 재개 미합의 시 이란 에너지 기반시설 공격 위협</p><p>---</p><h3>Key Quotes</h3><p>• **"The vessel has been identified by ship-tracking analysts at TankerTrackers as the Kuwaiti-flagged VLCC Al Salmi, laden with approximately 1.2 million barrels of Saudi crude and 800,000 barrels of Kuwaiti crude."**<br>(선박 추적 분석가들이 쿠웨이트 국적의 VLCC급 Al Salmi호를 확인했으며, 사우디 원유 120만 배럴과 쿠웨이트 원유 80만 배럴을 적재하고 있었음)</p><p>• **"The incidents mark the first confirmed incident in the region since March 22, according to UKMTO data, suggesting a renewed escalation after a brief lull in maritime attacks"**<br>(UKMTO 데이터에 따르면 이는 3월 22일 이후 처음 확인된 사건으로, 해양 공격의 일시적 소강 후 재확대를 시사함)</p><p>• **"if a deal is not reached 'shortly' and the Strait of Hormuz is not immediately reopened to commercial shipping, the U.S. could target Iran's critical infrastructure"**<br>(협상 진전이 없고 호르무즈 해협이 재개되지 않으면 미국은 이란의 핵심 에너지 기반시설 공격 가능)</p><p>---</p><h3>Technical Insights</h3><p>• **해상 보안 위험 고조**: 드론 공격의 정확도 및 신속한 반응 능력이 증명되었으며, 페르시아만 및 호르무즈 해협의 전체 유조선 운항 위험도 재평가 필요</p><p>• **전쟁 위험료(War Risk Premium) 상승**: 초대형 유조선의 에너지 수송로 손실 가능성 증가로 운임료 및 보험료 급등 예상, 유럽-아시아 간 원유 수급 가격 변동성 심화</p><p>• **VLCC 항로 재편**: 두바이 정박지 내 공격 가능성 증명으로 인해 선박들이 호르무즈 해협 우회 항로(Red Sea-Suez-Mediterranean) 선택 증가 가능성</p><p>• **IMO 해역 안보 규정 강화**: 고위험 해역 운항 시 군사 호위, 실시간 군함 감시, 드론 탐지 시스템 의무화 등 신규 COLREG 제정 논의 필요</p></div>`,
+      tags: ["Drone Strike","Supertanker","Persian Gulf","Maritime Security","VLCC Al Salmi"],
+      link: "https://gcaptain.com/drone-strike-hits-laden-supertanker-off-dubai-as-gulf-shipping-incidents-flare-again/",
+      coords: [54.37,25.28],
+      location: "Off Dubai, United Arab Emirates"
+    },
+    {
+      type: "news",
+      title: "Magnet Defense Begins Production of First M48 Unmanned Surface Vessel",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-03-31",
+      image: "https://images.marinelink.com/images/maritime/w800/source-magnet-169405.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Magnet Defense가 M48 무인 표면 함정(USV)의 양산을 시작하여 프로토타입 단계에서 생산 플랫폼으로의 전환을 완료</p><p>• M48은 17,000해리의 항속력으로 샌디에이고에서 아라비아만까지 무보급 자율 항해 가능한 중형 전투용 자율운항선박</p><p>• 프로토타입 함정이 2020년 이후 1,000일 이상 항해하며 40,000해리 이상 극한 기후에서 검증된 실증 기술 기반</p><p>• 통합 방공 미사일 방어, 장거리 타격 체인, 분쟁 지역 물류, 대함/대잠 전투, 전자전, 수색구조 등 다양한 작전 지원 가능</p><p>• 2027년 2분기에 첫 인도 예정이며, 자체 개발한 DriveAI 항법 자율화 시스템 탑재</p><h3>Key Quotes</h3><p>• "The M48 is not a conceptual system. It is a proven capability that has operated in the real world, in real conditions" (M48은 개념적 시스템이 아니라 실제 환경에서 검증된 운영 능력)</p><p>• "Beginning production means warfighters and mission partners can soon access that capability" (양산 시작은 전투 요원과 임무 파트너들이 곧 이 능력에 접근할 수 있음을 의미)</p><h3>Technical Insights</h3><p>• **자율운항 기술 상용화**: DriveAI 항법 자율화 시스템 탑재로 완전 자동 운항 및 자율 배치 가능한 무인 전투함이 현실화되는 중</p><p>• **장거리 무인 작전의 가능성**: 17,000해리 항속력과 무보급 장거리 운항 능력은 기존 유인함정의 전술 개념을 근본적으로 변화시킬 수 있는 기술적 이정표</p><p>• **IMO 자율선박 규제와의 정합성**: 군사용 무인함이지만 민간 자율선박 규제 프레임워크와의 기술 수렴 추세를 반영하며, 향후 COLREG 적용 등 국제 해사 규범의 확장이 필요할 전망</p><p>• **해군 작전 혁신**: 다중 임무(방공, 반함, 대잠, 전자전 등) 지원 능력은 자율무인선박이 단순 보조 역할에서 핵심 전력화로 전환되는 산업 전환점을 의미</p></div>`,
+      tags: ["Autonomous Surface Vessel","USV","Military Maritime","Unmanned Systems","Naval Technology"],
+      link: "https://www.marinelink.com/news/magnet-defense-begins-production-first-m-537557",
+      coords: [-117.1611,32.7157],
+      location: "San Diego, California"
+    },
+    {
+      type: "news",
+      title: "UK Royal Navy Awards Teledyne Contract for Autonomous Underwater Gliders",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-03-31",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/03/UK-Royal-Navy-Awards-Teledyne-Contract-for-Underwater-Gliders-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 영국 국방부가 Teledyne과 미래 해양 데이터 수집(FMDG) 프로그램 계약 체결 - Sentinel 및 Slocum 글라이더, APEX 부이 등 자율 해양 관측 시스템 공급</p><p>• Teledyne은 2015년 이래 영국 해군의 해양과학 및 환경 모니터링을 지원해온 기존 파트너로서 시스템 호환성, 보안 준수 및 임무 준비 상태 보장</p><p>• 자율 무인 시스템을 통해 복잡한 원격 해양 환경에서 장시간 데이터 수집 가능 - 작전 계획, 해양 안전, 방위 활동 지원</p><p>• 대서양 요새(Atlantic Bastion) 전략 및 해군 하이브리드 해군 의제 지원으로 경쟁이 심화되는 북대서양 환경에서 수중 전장 이해도 향상</p><p>• 정보전 기상해양(IW METOC) 운영자에게 실시간 데이터 제공으로 전술적 환경 활용 및 작전 우위 확보</p><h3>Key Quotes</h3><p>• "Teledyne remains the only supplier able to guarantee seamless interoperability, security compliance, and mission readiness into the Current RN Glider Fleet." (테레딘이 현재 영국 해군 글라이더 함대와의 완벽한 상호운용성, 보안 준수, 임무 준비 상태를 보장할 수 있는 유일한 공급자라는 의미)</p><p>• "This investment in autonomous ocean sensing strengthens the Royal Navy's ability to understand and operate in an increasingly contested North Atlantic, supporting Atlantic Bastion." (자율 해양 센싱에 대한 투자는 경쟁이 심화되는 북대서양에서의 이해 및 작전 능력을 강화하고 대서양 요새 전략을 지원한다는 뜻)</p><h3>Technical Insights</h3><p>• 무인 해양 관측 시스템의 장시간 운영으로 METOC(기상해양) 데이터의 실시간 수집 가능 - NATO 해군 작전의 상황 인식 능력 향상</p><p>• 자율 글라이더의 해양 환경 데이터 활용으로 수중 전장 인식(Underwater Battlespace Awareness) 실현 - 음향 신호 추적, 해상도 변화 모니터링 등 전술적 이점 제공</p><p>• 기존 Slocum 글라이더 운영 경험(2015년부터)을 바탕으로 NATO 해군 간 상호운용성 강화 및 정보 우위 확보 기대</p><p>• 자율 수중 시스템의 확대로 유인 함정의 직접 투입 위험 감소 및 장시간 정보수집으로 하이브리드 해군 전력 강화</p></div>`,
+      tags: ["autonomous underwater vehicles","UK Royal Navy","ocean observing systems","unmanned systems"],
+      link: "https://www.navalnews.com/naval-news/2026/03/uk-royal-navy-awards-teledyne-contract-for-underwater-gliders/",
+      coords: [0,0],
+      location: "Global (North Atlantic focus)"
+    }
+  ]
+});
+
+// Auto-collected: 2024-07-13
+addEvents({
+  "2024-07-13": [
+    {
+      type: "accident",
+      title: "Fatal accident to crew member on ro-ro cargo vessel Laureline - MAIB Investigation Report",
+      source: "MAIB (Marine Accident Investigation Branch)",
+      sourceMeta: "gov.uk · 2026-03-26",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사고 개요**: 2024년 7월 13일 몰타 등록 자동차운반선 Laureline호에서 선박 구조물과 이동 중인 트레일러 사이에 어선원이 끼여 사망함</p><p>• **피해자 행동**: 사고 피해자가 트레일러가 조작을 완료했다고 가정하여 안전하다고 생각하고 트레일러 뒤를 지나감</p><p>• **직접 원인**: 예인 운전자가 선원의 위치를 인식하지 못한 채 트레일러를 재정렬하기 위해 역방향으로 이동시켜 선원을 구조물에 압살</p><p>• **안전 절차 문제**: 선박 운영사가 신규 갑판 안전 절차를 수립했으나 교육 및 이행의 미흡으로 갑판 작업 선원들이 절차를 제대로 이해하지 못함</p><p>• **감시 및 관리 부실**: 갑판 내 감시 체계가 비효과적이었으며, 선박 관리회사가 새로운 안전 절차가 실제로 이행되었는지 확인하지 못함</p><p>• **업계 기준 문제**: 자동차운반선 갑판 작업 관련 업계 지침이 운전자가 마샬러(지시원)의 지시에 따라 정지한다는 오류된 가정에 기반함</p><h3>Key Quotes</h3><p>• "The deceased crew member passed behind the trailer probably assuming that it was safe to do so because it had completed manoeuvring." (사망한 선원이 트레일러의 조작이 완료되었다고 생각하여 안전하다고 가정하고 뒤를 지나감)</p><p>• "The tug driver was unaware of the crew member's position and reversed the trailer to realign it, crushing the crew member against the vessel's structure." (예인 운전자가 선원의 위치를 모른 채 정렬 목적으로 트레일러를 역방향 이동시켜 선원을 압살)</p><p>• "Industry guidance on ro-ro vehicle deck operations relied heavily on the misconception that the drivers depend on marshallers to safely position their trailers and will stop their vehicle if they lose sight of their marshaller." (업계 지침이 운전자가 마샬러에 의존하여 안전하게 정위치하고 마샬러를 시야에서 잃으면 정지한다는 잘못된 가정에 의존)</p><h3>Technical Insights</h3><p>• **선원 안전 문화 결여**: 선박 관리사가 신규 안전 절차를 수립했으나 실제 갑판 작업 인원의 이해도와 실행도가 차이나, 조직문화 개선 필요</p><p>• **운전자-마샬러 간 커뮤니케이션 부재**: 현재 업계 기준이 운전자의 능동적 안전 책임을 간과하고 마샬러 의존도에만 집중하는 문제점 노출</p><p>• **감시 및 통제 강화 필요**: 자동차운반선의 갑판 작업 중 맹목 지역(blind zone) 관리와 중기계 작동 시 실시간 감시 체계 구축 필수</p><p>• **산업 코드 오브 프랙티스 개발 필요**: MAIB가 유사 사고(Clipper Pennant호)와 함께 UK 해운상의회(UK Chamber of Shipping)와 항만안전교육기관(Port Skills and Safety Limited)에 자동차운반선 갑판 안전 통합 코드 개발 권고</p></div>`,
+      tags: ["Fatal Accident","Roll-on/Roll-off Vessel","Workplace Safety","Vehicle Deck Operations","Crushing Incident"],
+      link: "https://www.gov.uk/maib-reports/fatal-accident-to-a-crew-member-on-board-the-roll-on-slash-roll-off-cargo-vessel-laureline",
+      coords: [0.3,51.5],
+      location: "Purfleet, England"
+    }
+  ]
+});
