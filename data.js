@@ -3314,3 +3314,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-01
+addEvents({
+  "2026-04-01": [
+    {
+      type: "accident",
+      title: "Libya Abandons Arctic Metagaz Salvage Operation Near Malta SAR Zone",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-01",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/image-13.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 러시아 연계 LNG 탱커 Arctic Metagaz가 2026년 3월 3일 폭발과 화재로 손상되어 승무원 전원 대피<br>• 리비아 당국이 약 1주일간의 예인 작전을 중단하고 선박을 몰타 SAR 존 경계 105해리 외해로 방치<br>• 예인 로프 절단, 지원 선박 대부분 귀항으로 선박이 국제해역에서 무관리 상태<br>• 심각한 선체 손상으로 침몰 위험 높음, 향후 몰타의 책임 이행 가능성 제기<br>• 시설 손상 악화 우려 및 환경 재해 위험 잔존, 최종 인양 주체 불명확</p><h3>Key Quotes</h3><br>• "The relocation raises questions about whether Libya has abandoned salvage efforts altogether." (리비아가 인양 작전을 완전히 포기했는지에 대한 의문 제기)<br>• "Responsibility for the vessel could thus again shift to Malta." (선박의 책임이 다시 몰타로 이전될 수 있음을 시사)<br>• "Weather conditions in the central Mediterranean are expected to deteriorate in the coming days, raising the risk that the heavily damaged vessel could sink." (악화되는 기상 조건으로 심각하게 손상된 선박의 침몰 위험 증가)</p><h3>Technical Insights</h3><br>• **SAR 존 경계선 이용**: 리비아는 선박을 자국 해역 밖으로 이동시켜 책임 회피 시도 – 국제해양법상 SAR 존 관할권 문제의 실무적 착시 현상<br>• **구조적 손상 악화**: 약 100해리 이상의 예인 작전으로 선체 강도 추가 손상, 침수 격실 확대 가능성 지적 – 부실 인양 작전의 부정적 영향 사례<br>• **그림자 선대(Shadow Fleet) 관리 공백**: 러시아 연계 선박의 SAR 책임 주체 불명확 – IMO 및 국제 해양 규제 개선 필요성 강조<br>• **환경 재해 우려**: LNG 탱커의 미처리 적재물 및 연료유로 인한 해양 오염 위험 – 책임국 미정으로 인한 국제해사 협력 체계 한계 노출</p></div>`,
+      tags: ["LNG Tanker","Salvage Operation","Environmental Risk","Malta SAR Zone","Shadow Fleet"],
+      link: "https://gcaptain.com/libya-abandons-arctic-metagaz-salvage-at-edge-of-malta-sar-zone/",
+      coords: [18.5,33.4],
+      location: "Central Mediterranean (Misrata, Libya region)"
+    },
+    {
+      type: "news",
+      title: "Gander Robotics Secures $1.1M Pre-Seed Funding for Autonomous Rescue Swimmers",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-01",
+      image: "https://images.marinelink.com/images/maritime/w800/source-social-169436.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **Gander Robotics는 자율 해상 구조 로봇 개발을 위해 110만 달러의 시드 펀딩을 확보했으며, Impellent Ventures와 Underscore VC가 공동 주도**</p><p>• **창립자 Michael Autery는 미 해군 15년 경력의 해양 공학자이며, Co-Founder Lael Ayala는 하버드 출신 로보틱스 전문가로 MIT Sloan에서 회사 설립**</p><p>• **핵심 제품인 Autonomous Rescue Swimmer(ARS)는 인공지능 기반 소나로 저시정 및 거친 해상 환경에서 피해자 위치를 파악하고 자동 팽창식 부력장치, 고가시성 신호탄, RF 송신기로 3단계 구조 패키지 제공**</p><p>• **미 해군의 선원 낙수 생존율은 28%, 크루즈 선박은 17%에 불과한 현황을 개선하는 것을 목표로 기존 수동적 구조 프로토콜의 한계 극복**</p><p>• **비살상형(Non-kinetic) 해양 방어 영역에서 자율화 기술의 개척적 사례로, 해안경비대와 해군으로부터 강한 관심 표시**</p><h3>Key Quotes</h3><p>• "Michael Autery is exactly the kind of founder we look for - a rare combination of deep domain expertise, mission-driven conviction, and the intellectual horsepower to build something that truly matters" (Michael Autery는 우리가 찾는 정확한 유형의 창립자로, 심오한 도메인 전문성, 미션 중심의 신념, 그리고 의미 있는 것을 만들 수 있는 지적 역량의 드문 조합)</p><p>• "Gander Robotics is solving a real, life-or-death problem with a clear technical edge" (Gander Robotics는 명확한 기술적 우위로 실질적인 생사가 걸린 문제를 해결하고 있음)</p><h3>Technical Insights</h3><p>• **AI 기반 소나 기술을 활용한 저시정·악천후 환경에서의 자동 위치 파악은 기존 시각 탐색 방식의 한계를 극복하는 혁신적 기술 접근**</p><p>• **자동 팽창식 부력장치, 신호탄, RF 송신기를 통합한 3단계 구조 시스템은 낙수 사고의 즉응성과 생존율 향상을 위한 완전한 자율화 솔루션 제시**</p><p>• **해군, 해안경비대 등 방위산업 고객의 강한 수요와 MIT 100K Pitch Competition 우승은 해양 자율 로봇의 상용화 가능성을 입증하며, 향후 비살상형 해양 방어 분야의 플랫폼 기술로 확장 가능성 제시**</p><p>• **낙수 사건의 초기 대응 시간 단축(분·시간 → 초 단위)은 IMO 해양안전 국제 기준과 SOLAS 협약의 요구사항을 충족하는 혁신적 안전 개선 기술**</p></div>`,
+      tags: ["autonomous robotics","search and rescue","maritime safety","AI-powered sonar"],
+      link: "https://www.marinelink.com/news/gander-robotics-gains-preseed-funding-537603",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "AeroVironment Selected to Deliver ISR Services to U.S. Navy with JUMP 20-X Autonomous UAS",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-04-01",
+      image: "https://www.navalnews.com/wp-content/uploads/2025/02/JUMP-20-X-VTOL-UAS-at-IDEX-2025.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• AeroVironment(AV)가 미 해군의 ISR(정보·감시·정찰) 작전 현대화를 지원하기 위해 JUMP 20-X 자율무인항공기(UAS) 시스템 제공 계약 체결<br>• JUMP 20-X는 완전 자율 운영, 13시간 이상의 비행 시간, 185km 범위, 30파운드 페이로드 용량을 갖춘 수직이착륙(VTOL) 무인기<br>• 70가지 이상의 페이로드 통합으로 육상·해양 다중 도메인 임무 수행 가능하며, 발사·회수 장비 불필요로 신속 배치 용이<br>• 미 해군 남부사령부, 해병대 제22원정대, 한국 해군 등에 이미 입증된 기술의 배치 실적<br>• 자율 운영 능력과 멀티센서 통합으로 전술적 상황 인식 극대화 및 작전 효율성 증대</p><h3>Key Quotes</h3><br>• "We are honored to be selected as a partner to help the U.S. Navy expand its ISR services and enhance mission-critical awareness for warfighters around the globe" <br>  (미 해군의 ISR 서비스 확대 및 전 지구적 작전 병력의 임무 중요 상황 인식 강화에 협력하게 되어 영광스럽다)</p><p>• "Our technology is deployed, proven, and mature. Our team is ready to deliver. We are reshaping our nation's ISR capabilities."<br>  (당사의 기술은 배치되었고, 입증되었으며, 성숙한 수준이다. 팀은 제공 준비가 완료되었다. 우리는 국가의 ISR 역량을 재편하고 있다)</p><h3>Technical Insights</h3><br>• 완전 자율화된 VTOL UAS의 해군 배치는 전술 ISR 운영의 획기적 변화를 의미하며, 수동 조종 필요성 제거로 승무원 운영 부담 대폭 감소<br>• 멀티센서 통합 및 높은 페이로드 확장성(70가지)은 향후 AI 기반 데이터 처리 및 실시간 해양 감시 임무로의 확대 가능성 시사<br>• 복잡한 발사·회수 장비 배제로 함정 및 전진 배치 기지의 공간 효율성 향상, 해군 전술 유연성 강화의 실질적 이점 제공</p></div>`,
+      tags: ["autonomous systems","ISR","UAS","U.S. Navy","VTOL","defense technology"],
+      link: "https://www.navalnews.com/naval-news/2026/04/av-to-deliver-isr-services-to-u-s-navy-with-jump-20-x/",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
