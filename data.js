@@ -3247,3 +3247,70 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-01
+addEvents({
+  "2026-04-01": [
+    {
+      type: "accident",
+      title: "Libya Abandons Arctic Metagaz LNG Tanker Salvage Near Malta SAR Zone",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-01",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/image-13.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 러시아 연계 LNG 탱커 Arctic Metagaz가 3월 3일 폭발과 화재로 손상된 후 리비아 당국이 구조 작업을 중단하고 선박을 몰타 해상구조구역(SAR) 경계 근처 105해리 거리에 버려두었음</p><p>• **선박 및 기관**: Russian-linked LNG tanker Arctic Metagaz, 리비아 해안경비청(General Administration for Coast Security) 및 국가석유공사(National Oil Corporation)가 주도한 작업</p><p>• **현재 상황**: 선박이 유의미한 리스트 상태로 심각한 손상을 입고 있으며, 견인선과 지원 선박들이 철수하여 국제해역에서 무관리 상태로 표류 중</p><p>• **환경 위험**: 악화된 지중해 날씨 조건으로 인해 선박 침몰 위험이 높으며, 북동쪽 바람이 선박을 몰타 관할 해역으로 더 밀어낼 가능성이 있음</p><p>• **구조적 손상**: 일주일간의 견인 작업이 구조적 손상을 악화시켜 추가 선실로의 해수 유입을 초래했을 가능성이 높음</p><p>• **책임 이전**: 리비아의 사건 대응으로 인한 리스크 감소가 이루어졌지만, 최종 구조 책임 및 환경 재해 방지에 대한 국제적 문제는 여전히 미해결 상태</p><h3>Key Quotes</h3><p>• "The relocation raises questions about whether Libya has abandoned salvage efforts altogether." (리비아가 구조 작업을 완전히 포기했는지에 대한 의문을 제기함)</p><p>• "Moving the vessel more than 100 nautical miles offshore and back in the direction where the incident began Libyan authorities reduced the immediate risk to their coastline, but the larger issue of who will ultimately salvage the vessel remains." (100해리 이상 해상으로 선박을 이동시킴으로써 리비아 해안의 직접적 위험을 줄였지만, 궁극적으로 누가 선박을 구조할 것인지에 대한 더 큰 문제가 남아있음)</p><p>• "Weather conditions in the central Mediterranean are expected to deteriorate in the coming days, raising the risk that the heavily damaged vessel could sink." (지중해 중앙부의 날씨 악화로 심각하게 손상된 선박의 침몰 위험이 증가함)</p><h3>Technical Insights</h3><p>• **국제 해상구조 협정의 문제점**: 선박이 국가 관할 영역과 국제해역, 그리고 다른 국가의 SAR 지역 경계에 위치함으로써 SOLAS 협약상 구조 책임이 불명확해지는 문제가 발생하고 있음</p><p>• **환경 재해 예방의 한계**: LNG 탱커의 경우 MARPOL 협약 등으로 환경 보호 의무가 있음에도 불구하고, 러시아 "섀도우 플릿"에 대한 제재와 국제적 갈등으로 인해 효과적인 구조 작업이 지연되는 산업적 문제를 드러냄</p><p>• **선박 구조 및 안정성 관리**: 일주일간의 부적절한 견인 작업이 선박의 구조적 무결성을 악화시킨 사례로, 해양 사고 대응에서 전문적 해양 구조 기술과 장비의 중요성을 강조함</p><p>• **지정학적 요인의 해사 운영 영향**: 러시아 제재 대상 선박에 대한 국제적 정치적 입장 차이가 실질적인 해양 환경 재해 방지 노력을 지연시키는 구조적 문제를 야기하고 있음</p></div>`,
+      tags: ["LNG Tanker","Salvage Operation","Maritime Accident","Environmental Risk","Russia Shadow Fleet"],
+      link: "https://gcaptain.com/libya-abandons-arctic-metagaz-salvage-at-edge-of-malta-sar-zone/",
+      coords: [19.5,33.2],
+      location: "Central Mediterranean, north of Misrata, Libya"
+    },
+    {
+      type: "news",
+      title: "Gander Robotics Secures $1.1M Pre-Seed Funding for Autonomous Maritime Rescue Systems",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-01",
+      image: "https://images.marinelink.com/images/maritime/w800/source-social-169436.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 해양 자율 구조 로봇 개발 전문업체 Gander Robotics가 Impellent Ventures와 Underscore VC의 공동 주도로 110만 달러 규모의 시드 펀딩을 확보했으며, MIT Sloan 출신 창업자들의 해양 구조 기술 혁신을 목표로 함</p><p>• 창업자 Michael Autery(해군 출신 해양 엔지니어, 15년 경력)와 Co-Founder Lael Ayala(하버드 로봇공학 박사)로 구성되었으며, MIT 100K Pitch Competition 우승팀</p><p>• 핵심 제품인 Autonomous Rescue Swimmer(ARS)는 AI 기반 소나를 활용하여 저시정/악천후에서도 피해자 위치를 파악하고, 자동 팽창식 부유 장치, 고가시성 신호탄, RF 추적기를 일괄 제공</p><p>• 현재 해군 인원 해상 추락 생존율 28%, 크루즈선 산업 17%로 인명 피해 심각 → ARS 기술로 구조 반응 시간을 획기적으로 단축 가능</p><p>• 미국 해안경비대와 해군으로부터 강력한 수요 반응 확인으로 시장 타당성 입증</p><p>• 향후 구조 임무뿐만 아니라 비살상 국방 분야(군사 물류, 안전 등) 전반으로의 확대 계획</p><h3>Key Quotes</h3><p>• "Michael Autery is exactly the kind of founder we look for - a rare combination of deep domain expertise, mission-driven conviction, and the intellectual horsepower to build something that truly matters." (마이클 오터리는 깊은 도메인 전문성, 미션 중심적 신념, 중요한 것을 구축할 수 있는 지적 능력을 갖춘 희귀한 창업자이다 - Impellent Ventures의 필 보레가드)</p><p>• "We see Gander Robotics as a platform for maritime autonomy that starts with rescue but extends to the entire 'non-kinetic' defense space." (Gander Robotics를 구조에서 시작하여 전체 비살상 국방 영역으로 확대되는 해양 자율성 플랫폼으로 본다 - Underscore VC의 릴리 라이먼)</p><p>• "In the U.S. Navy, the survival rate for personnel who fall overboard is just 28 percent. In the cruise line industry, it drops to 17 percent." (미해군 추락 인원의 생존율은 28%, 크루즈선 산업은 17%에 불과하다)</p><h3>Technical Insights</h3><p>• **AI 기반 소나 기술의 해상 구조 혁신**: 저시정, 악천후, 야간 상황에서도 피해자를 정확히 탐지 가능한 AI 소나 알고리즘은 기존 시각 탐색 및 인력 반응에 의존하는 해상 구조의 패러다임 전환을 의미하며, 국제해사기구(IMO) 해양 안전 기준 강화와 맞물려 산업 표준화 기대</p><p>• **자율 로봇의 인명 구조 분야 적용 확대**: ARS 기술은 선박의 Man-Overboard(MOB) 사고 대응 자동화의 첫 사례로, COLREG(해상충돌방지규칙) 및 국제해상인명안전협약(SOLAS) 준수 체계와 연계된 차세대 해상 안전 표준 개발 추진 필수</p><p>• **국방 및 민간 이중 용도(Dual-Use) 기술의 시장 창출**: 해군, 해안경비대, 크루즈선사 등 다층 고객군 보유로 해양 자율로봇 산업의 급속 성장 및 관련 스타트업 투자 확대 유도 예상</p><p>• **구조 시간 단축을 통한 해양 인명 피해 감소**: 저체온증(Hypothermia) 발생 시간(약 15-45분)보다 빠른 자동 구조 시스템 배치로 국제 해양 안전 통계 개선과 규제 당국의 의무 장착 요구 가능성 증가</p></div>`,
+      tags: ["autonomous robotics","maritime safety","search and rescue","AI navigation","defense technology"],
+      link: "https://www.marinelink.com/news/gander-robotics-gains-preseed-funding-537603",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
+
+// Auto-collected: 2024-07-13
+addEvents({
+  "2024-07-13": [
+    {
+      type: "accident",
+      title: "Fatal accident to crew member on ro-ro cargo vessel Laureline",
+      source: "MAIB (Marine Accident Investigation Branch)",
+      sourceMeta: "gov.uk · 2026-03-26",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **사망 사고 개요**: 2024년 7월 13일 말타 등록 자동차 운반선 Laureline에서 화물 예인선에 의해 선원이 압사되어 사망한 중대 산업안전 사고 발생</p><p>• **사고 원인**: 선원이 예인선 움직임이 완료되었다고 가정하고 예인선 뒤로 통과했으나, 예인선 운전자는 선원의 위치를 인식하지 못하고 정렬을 위해 역진하면서 선원을 선박 구조물에 압사</p><p>• **선사 절차의 문제점**: 선박 운영사가 신규 차량 갑판 안전 절차를 도입했으나 교육 및 이행 과정에서 중대한 결함이 있었고, 갑판 작업 선원들이 절차를 충분히 이해하지 못함</p><p>• **예인선 운전자 문제**: 위험 구역에 대한 운전자의 인식 부족과 선원 미시인 시 정지해야 한다는 요구사항이 실제 작업 관행과 불일치</p><p>• **감시 및 관리 부실**: 갑판 감독이 비효과적이었으며, 선박 관리사가 신규 안전 절차의 이해 및 완전한 이행을 확인하기 위한 효과적 보증 조치를 제공하지 못함</p><p>• **산업 지침의 한계**: 자동차 갑판 운영에 관한 현행 업계 지침이 운전자가 마샬러(안내요원)에 의존하여 안전하게 정위치하고 시야 상실 시 정지한다는 잘못된 가정에 과도하게 의존</p><h3>Key Quotes</h3><p>• "The deceased crew member passed behind the trailer probably assuming that it was safe to do so because it had completed manoeuvring." (사망한 선원은 예인선이 기동을 완료했다고 가정하고 예인선 뒤로 통과했을 것으로 추정됨)</p><p>• "The tug driver was unaware of the crew member's position and reversed the trailer to realign it, crushing the crew member against the vessel's structure." (예인선 운전자는 선원의 위치를 인식하지 못하고 정렬을 위해 예인선을 역진하여 선원을 선박 구조물에 압사함)</p><p>• "Industry guidance on ro-ro vehicle deck operations relied heavily on the misconception that the drivers depend on marshallers to safely position their trailers and will stop their vehicle if they lose sight of their marshaller." (자동차 운반선 갑판 운영 관련 업계 지침이 운전자가 마샬러에 의존하여 안전하게 정위치하고 시야 상실 시 정지한다는 잘못된 개념에 과도하게 의존)</p><h3>Technical Insights</h3><p>• **자동차 운반선 갑판 안전 절차의 구조적 문제**: 현재 업계 관행이 운전자-마샬러 간 상호 의존성에 기반하고 있으나, 실제 운영에서는 이러한 가정이 제대로 작동하지 않으며, 명확한 위험 구역 설정과 강제적 정지 메커니즘이 필요함</p><p>• **선박 안전 관리시스템의 이행 격차**: 선사가 신규 안전 절차를 도입했음에도 불구하고 교육, 훈련, 감시 메커니즘의 부족으로 실제 갑판 작업에 적용되지 못하는 현상 발생 - 경영 시스템과 현장 실행 간의 괴리 심화</p><p>• **인식 개선과 산업 표준화의 필요성**: Clipper Pennant(MAIB 16/2024) 사건과의 유사성으로 인해 영국 해운회의소와 항만안전 관련 기관에 자동차 운반선 갑판 안전 통합 행동강령 개발 권고 - 산업 전반의 표준화된 규범 수립 필요</p><p>• **기술적 해결책의 한계**: 현재의 '절차 기반 안전' 접근법의 한계</p></div>`,
+      tags: ["Fatal Accident","Roll-on/Roll-off Vessel","Vehicle Deck Safety","Crew Fatality","MAIB Investigation"],
+      link: "https://www.gov.uk/maib-reports/fatal-accident-to-a-crew-member-on-board-the-roll-on-slash-roll-off-cargo-vessel-laureline",
+      coords: [0.293,51.477],
+      location: "Purfleet, England"
+    }
+  ]
+});
+
+// Auto-collected: 2026-03-30
+addEvents({
+  "2026-03-30": [
+    {
+      type: "news",
+      title: "Navy Commissions New Virginia-class Attack Boat USS Massachusetts in Boston Ceremony",
+      source: "USNI News",
+      sourceMeta: "news.usni.org · 2026-03-30",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미 해군이 새로운 버지니아급 공격 잠수함 USS Massachusetts (SSN-798)를 보스턴 항구에서 취역식을 통해 정식 해군 전력화 완료<br>• Block IV 버지니아급 잠수함으로, 매사추세츠 주 이름을 가진 다섯 번째 해군함정 (역사상 가장 유명한 선박은 2차 세계대전 태평양 전역에서 활약한 전함)<br>• 취역식에는 미국 현존 최강의 군함 USS Constitution이 함께 참여하여 역사적 의미 강조<br>• Block IV 버지니아급은 차세대 공격 잠수함으로 증강된 전투력과 첨단 기술 탑재<br>• 미 해군의 지속적인 잠수함전력 현대화 추진의 일환으로, 인도-태평양 지역 해양 안보 강화 목표</p><h3>Key Quotes</h3><p>• "It is the fifth Navy vessel named after the commonwealth of Massachusetts, following the most recent, USS Massachusetts, a battleship that participated in nearly every major Pacific campaign from 1943 to 1945 and earned 11 battle stars for its World War II service" <br>(매사추세츠라는 이름의 다섯 번째 해군함정으로, 직전의 같은 이름의 전함은 1943~1945년 태평양 거의 모든 주요 전투에 참전하여 11개의 전투 성장을 수훈 받음)</p><h3>Technical Insights</h3><p>• Block IV 버지니아급 설계는 개선된 음향 스텔스 기술과 향상된 센서 시스템을 통합하여 현대 해양 위협 대응 능력 강화<br>• 현대 잠수함 취역은 조선 산업의 고도화와 수년간의 건조 기간을 거쳐 완성되는 복잡한 프로젝트로, 국방력 투자의 장기성을 입증<br>• 미 해군의 전략적 핵심인 공격 잠수함 전력은 중국의 해군력 증강 대응 및 인도-태평양 지역 해양 패권 유지의 중요 수단</p></div>`,
+      tags: ["Virginia-class submarine","USS Massachusetts","Naval commissioning","U.S. Navy"],
+      link: "https://news.usni.org/2026/03/30/navy-commissions-new-virginia-class-attack-boat-uss-massachusetts-in-boston-ceremony",
+      coords: [-71.0596,42.3601],
+      location: "Boston Harbor, Massachusetts"
+    }
+  ]
+});
