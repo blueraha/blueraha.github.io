@@ -3426,3 +3426,53 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-01
+addEvents({
+  "2026-04-01": [
+    {
+      type: "accident",
+      title: "Libya Abandons 'Arctic Metagaz' Salvage At Edge of Malta SAR Zone",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-01",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/image-13.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 러시아 관련 LNG 탱커 'Arctic Metagaz'가 3월 3일 폭발과 화재로 피해를 입었으며, 리비아 당국이 예인 작업을 중단하고 말타 해상구조(SAR) 구역 경계 근처 약 105해리 떨어진 해역에 방치함</p><p>• **책임 기관**: 리비아 해안보안청(General Administration for Coast Security) 및 국영석유회사(National Oil Corporation)가 주도했던 구조 작업을 실제로 포기한 상태</p><p>• **현재 상황**: 예인선 단절, 지원선박 대부분 귀항으로 인해 피해선박이 국제해역에서 무관리 상태로 방치되며, 선체의 심각한 침수와 우현 침강 위험이 증가</p><p>• **환경 위험**: 악화되는 지중해 날씨 조건으로 인해 구조선박의 침몰 가능성 증가, 예상 바람 방향으로 인해 책임이 말타로 이전될 가능성 높음</p><p>• **법적·정치적 문제**: 리비아 당국의 구조 포기 배경과 의도 불명, 말타의 SAR 구역 책임 문제로 국제해사법상 분쟁 가능성</p><p>• **산업적 함의**: 러시아 "그림자 함대(shadow fleet)"에 대한 서방의 제재와 관련하여 국제해사 안전 및 환경보호의 공백 발생</p><h3>Key Quotes</h3><p>• "The Russian-linked tanker, disabled by explosions and fire on March 3, had been the focus of a Libyan-led towing operation aimed at preventing a potential environmental disaster and keeping the vessel clear of offshore oil infrastructure." <br>(3월 3일 폭발과 화재로 기능이 정지된 러시아 관련 탱커는 환경재앙 방지와 해양 유전 시설 보호를 목표로 한 리비아 주도의 예인 작업 대상이었음)</p><p>• "Moving the vessel more than 100 nautical miles offshore and back in the direction where the incident began Libyan authorities reduced the immediate risk to their coastline, but the larger issue of who will ultimately salvage the vessel remains."<br>(리비아 당국이 선박을 100해리 이상 해상으로 이동시켜 자국 해안의 즉각적 위험은 감소시켰으나, 궁극적 구조 책임자가 누구인지의 문제가 남아있음)</p><p>• "Images circulating on Tuesday show the ship listing significantly, with the stern approaching the waterline, suggesting worsening buoyancy."<br>(화요일 유포된 이미지에서 선박의 심각한 경사와 선미가 수선에 근접하는 모습이 보여지며, 이는 부력이 악화되고 있음을 시사)</p><h3>Technical Insights</h3><p>• **구조 작업의 이중성 문제**: 일주일간의 예인 작업이 손상된 선체 구조에 추가적인 해수 침입을 초래했을 가능성이 높으며, 이는 구조 난이도를 심화시키는 전형적인 사례</p><p>• **SAR 구역 책임 회피 문제**: 리비아가 의도적으로 말타의 SAR 경계선을 넘어 선박을 이동시킨 것으로 보여지며, 국제해사법상 해사 구조(Maritime Rescue) 책임의 모호성 야기</p><p>• **기후·해상 환경 악화에 따른 환경 재해 위험**: 악화되는 날씨 조건에서 LNG 탱커의 침몰 시 대규모 환경오염(LNG 누출, 연료유 유출) 가능성으로 지중해 생태계 위협</p><p>• **"그림자 함대" 대응의 국제 협력 공백**: 제재 대상 러시아 선박의 해사 안전 책임이 불명확해지면서 국제 해상 안전 체계의 약점 노출, IMO 및 해사 구조 국제 규정의 강화 필요성 대두</p></div>`,
+      tags: ["LNG tanker","salvage operation","environmental risk","Malta SAR zone","Russian shadow fleet"],
+      link: "https://gcaptain.com/libya-abandons-arctic-metagaz-salvage-at-edge-of-malta-sar-zone/",
+      coords: [17.2283,32.3911],
+      location: "Central Mediterranean, north-northeast of Misrata, Libya"
+    },
+    {
+      type: "news",
+      title: "AeroVironment Selected to Deliver ISR Services to U.S. Navy with JUMP 20-X VTOL UAS",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-04-01",
+      image: "https://www.navalnews.com/wp-content/uploads/2025/02/JUMP-20-X-VTOL-UAS-at-IDEX-2025.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• AeroVironment(AV)가 미 해군의 ISR(정보·감시·정찰) 서비스 제공 업체로 선정되어 JUMP 20-X VTOL 무인기 시스템 배치<br>• JUMP 20-X는 13시간 이상의 비행시간, 185km 범위, 30파운드 페이로드 용량으로 완전 자율 운영 가능<br>• 해군의 ISR 역량 현대화 및 확장 이니셔티브에 따라 다중영역 임무 지원을 위한 턴키형 영속 ISR 솔루력 제공<br>• 70여 가지 페이로드 통합으로 임무별 맞춤형 구성 가능하며 대형 발사·회수 장비 불필요<br>• AV는 미 해군 남방사령부, 미 해병대 22원정대, 한국 해군 등에 이미 선진 ISR 지원 서비스 실적 보유</p><h3>Key Quotes</h3><br>• "We are honored to be selected as a partner to help the U.S. Navy expand its ISR services and enhance mission-critical awareness for warfighters around the globe" (우리는 미 해군의 ISR 서비스 확장을 지원하고 전 세계 전투원의 임무 태전 인식을 향상시키기 위해 파트너로 선정된 것을 영광으로 생각합니다)<br>• "Our technology is deployed, proven, and mature. Our team is ready to deliver. We are reshaping our nation's ISR capabilities." (우리의 기술은 실전 배치되었으며 입증되고 성숙한 기술입니다. 우리 팀은 제공할 준비가 되어 있으며 국가의 ISR 역량을 재편하고 있습니다)</p><h3>Technical Insights</h3><br>• 자율형 VTOL 무인기 시스템의 완전 자동 운영 능력은 해양 및 육상 다중영역 임무에서 인력 의존도 감소 및 운영 효율성 극대화 달성<br>• 70가지 이상의 페이로드 통합 옵션과 간편한 로지스틱스는 변화하는 해양 안보 위협에 대한 신속한 대응 역량 확보<br>• 영속 ISR 플랫폼으로서의 13시간 이상 비행시간은 해군의 광범위한 작전 해역 감시 및 실시간 정보 수집 능력 제고<br>• 방어산업 자율화 추세에서 AV의 기술 성숙도와 실전 경험은 미국과 우방국(한국 포함) 해양 안보 협력 강화의 핵심 자산</p></div>`,
+      tags: ["autonomous systems","UAS","ISR","U.S. Navy","JUMP 20-X","defense technology"],
+      link: "https://www.navalnews.com/naval-news/2026/04/av-to-deliver-isr-services-to-u-s-navy-with-jump-20-x/",
+      coords: [0,0],
+      location: "Global/U.S. Navy Operations"
+    }
+  ]
+});
+
+// Auto-collected: 2024-02-21
+addEvents({
+  "2024-02-21": [
+    {
+      type: "accident",
+      title: "Foundering of the fishing vessel Freedom II (CN 111)",
+      source: "MAIB (Marine Accident Investigation Branch)",
+      sourceMeta: "gov.uk · 2026-04-02",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2024년 2월 21일 영국 등록 새우 트롤어 Freedom II (길이 15.94m)가 스코틀랜드 오반 남서쪽 11해리 해역에서 침몰<br>• 엔진룸으로의 점진적인 침수로 인한 침몰 - 가장 가능성 높은 원인은 갑판 세척 펌프의 해수 흡입 배관의 진동 유발 균열<br>• 4명의 승무원은 전원 무사하게 구조됨, 왕립국립구조선박단(RNLI)의 견인 중 침몰<br>• 작동 중인 빌지 펌프의 배수 능력 초과 및 전력 공급 문제로 추가 펌프 작동 불가<br>• 선장의 신속한 대응으로 승무원 안전 확보 및 신호 수신 취약 지역에서 경보 발령 성공<br>• 이전 동급 선박(Guiding Light, Guiding Star, Opportune) 관련 권고사항이 있어 추가 안전 권고는 미실시</p><h3>Key Quotes</h3><p>• "The vessel foundered due to a progressive flood into the engine room." (선박은 엔진룸으로의 점진적인 침수로 인해 침몰했다)<br>• "The most likely cause was a vibration-induced fracture of the seawater suction pipe for the deck wash pump." (가장 가능성 높은 원인은 갑판 세척 펌프의 해수 흡입 배관의 진동 유발 균열이다)<br>• "The rate of flooding overwhelmed the operational bilge pumps and additional pumps either failed or could not be used due to power supply issues." (침수 속도가 작동 중인 빌지 펌프의 능력을 초과했으며, 추가 펌프는 고장이거나 전력 공급 문제로 사용 불가능했다)</p><h3>Technical Insights</h3><p>• 어선의 해수 배관 계통에서 진동 피로 균열이 발생하는 것은 엔진 운전 중 반복적인 진동 하중의 누적 결과로, 정기적인 비파괴검사와 상태 모니터링 강화의 중요성을 시사함<br>• 침수 시 다중 펌프 시스템의 동시 고장 및 전력 공급 문제는 어선의 보조기관실 설계 시 중복성(redundancy)과 전원 독립성 확보의 필수성을 강조<br>• 소형 어선에서 구조선박의 응급 펌프 활용이 제대로 이루어지지 않은 점은 위기 상황에서의 승무원 훈련 및 응급 절차 개선 필요성을 드러냄<br>• 신호 수신 취약 지역에서의 조기 경보 발령은 위성 통신 시스템 장착 및 자동 조난 신호 시스템(EPIRB) 의무화의 중요성을 재확인</p></div>`,
+      tags: ["fishing vessel","foundering","engine room flooding","Scotland","MAIB investigation"],
+      link: "https://www.gov.uk/maib-reports/foundering-of-the-fishing-vessel-freedom-ii-cn-111",
+      coords: [-5.4667,56.4167],
+      location: "11 nautical miles south-west of Oban, Scotland"
+    }
+  ]
+});
