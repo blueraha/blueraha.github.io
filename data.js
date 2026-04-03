@@ -3358,3 +3358,71 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-01
+addEvents({
+  "2026-04-01": [
+    {
+      type: "accident",
+      title: "Libya Abandons Arctic Metagaz Salvage Operation at Malta SAR Zone Boundary",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-01",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/image-13.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 러시아 연계 LNG 탱커 Arctic Metagaz가 2026년 3월 3일 폭발과 화재로 손상되었으며, 리비아 당국이 일주일간의 예인 작업을 중단하고 선박을 몰타 SAR 존경계 근처(미수라타 북동쪽 약 105해리)에 방치함</p><p>• **현재 상황**: 예인선과 지원 선박 대부분이 항구로 복귀했으며, 타우라인이 절단되어 선박이 국제해상에서 통제되지 않은 상태로 표류 중</p><p>• **구조적 손상 심화**: 함선이 심각한 방향 경사를 보이고 있으며, 일주일간의 예인 작업이 구조적 손상을 악화시켜 추가 격실로의 해수 유입 가능성 증가</p><p>• **환경 위험 증대**: 향후 지중해 중부 지역의 악화되는 기상 조건으로 인해 손상된 선박의 침몰 위험 증가; 북북동풍이 선박을 몰타 SAR 존으로 밀어낼 가능성</p><p>• **책임 문제**: 리비아와 몰타 간의 해상 구조 책임 문제 미해결 상태; 궁극적 구조 주체 불명확</p><p>• **원인 및 배경**: 러시아 "섀도우 플릿" 일원인 선박으로, 승무원 대피 후 무인 상태로 표류; 리비아 원유 인프라 보호 목적의 예인 작업이 좌절됨</p><h3>Key Quotes</h3><p>• "The vessel now sits roughly 105 nautical miles north-northeast of Misrata, close to the boundary of Malta's SAR zone, after being towed past the Libyan port without stopping." (선박이 리비아 항구를 지나 예인되었으나 정박하지 않은 채 미수라타 북동쪽 약 105해리 떨어진 몰타 SAR 존 경계 근처에 위치)</p><p>• "Images circulating on Tuesday show the ship listing significantly, with the stern approaching the waterline, suggesting worsening buoyancy." (화요일 유포된 영상에서 선박이 심각한 방향 경사를 보이고 있으며 선미가 흘수선에 접근하여 부력 악화를 시사)</p><p>• "Analysts say the week-long towing effort may have exacerbated structural damage, potentially allowing seawater ingress into additional compartments." (전문가들은 일주일간의 예인 작업이 구조적 손상을 악화시키고 추가 격실로의 해수 유입을 초래할 수 있다고 지적)</p><h3>Technical Insights</h3><p>• **SAR 존 경계의 해상법 문제**: 국제해상에서의 선박 유기(abandonment)는 국제해사기구(IMO) 규정을 위반하며, 리비아와 몰타 간의 해상구조 책임 구분에 따른 법적 분쟁 야기 가능</p><p>• **구조 안정성 악화**: 예인 작업 중 과도한 장력으로 인한 선체 구조 손상, 특히 LNG 탱커의 격실 격벽(bulkhead) 파손 가능성으로 인한 환경재해 위험 급증</p><p>• **해양환경보호 협약 위반**: 선박 방치로 인한 예상되는 침몰 및 유류 유출은 MARPOL, Barcelona Convention 등 해양환경보호 협약 위반에 해당하며, 리비아와 국제해사기구의 사후 조치 책임 발생</p><p>• **섀도우 플릿 규제의 한계**: 러시아 연계 선박으로서 국제 제재 대상이나, 해상 사고 시 구조 책임 회피를 위한 국경 초월 예인 전략의 실제 사례로, IMO와 연안국의 규제 강화 필요성 대두</p></div>`,
+      tags: ["LNG tanker","salvage operation","maritime incident","environmental risk"],
+      link: "https://gcaptain.com/libya-abandons-arctic-metagaz-salvage-at-edge-of-malta-sar-zone/",
+      coords: [18.42,32.87],
+      location: "Central Mediterranean (near Misrata, Libya)"
+    },
+    {
+      type: "news",
+      title: "AeroVironment Selected to Deliver JUMP 20-X ISR Services to U.S. Navy",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-04-01",
+      image: "https://www.navalnews.com/wp-content/uploads/2025/02/JUMP-20-X-VTOL-UAS-at-IDEX-2025.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• AeroVironment(AV)가 미 해군의 ISR(정보, 감시, 정찰) 역량 확대 및 현대화 사업에 선정되어 JUMP 20-X 무인항공시스템 제공 계약 수득</p><p>• JUMP 20-X는 완전 자율 운영, 13시간 이상 비행시간, 115마일(185km) 항속거리, 30파운드 탑재량 등 다중영역 임무 수행 능력 보유</p><p>• 70개 이상의 페이로드 통합 구성이 가능하며, 별도 발사/회수 장비 불필요로 신속 배포 및 운영 공간 최소화 실현</p><p>• 미 해군 남부사령부, 해병대 제22원정대, 한국 해군 등에 이미 실제 운영 중인 검증된 기술</p><p>• 독립형 계약자 운영(COCO) 모델로 지속적 ISR 지원 서비스 제공 예정</p><h3>Key Quotes</h3><p>• "We are honored to be selected as a partner to help the U.S. Navy expand its ISR services and enhance mission-critical awareness for warfighters around the globe" (미 해군의 ISR 서비스 확대 및 전 지구적 전투 인력의 임무 중요 정보력 강화를 지원하는 파트너로 선정된 것을 영광으로 여긴다는 의지 표현)</p><p>• "Our technology is deployed, proven, and mature. Our team is ready to deliver. We are reshaping our nation's ISR capabilities." (개발된 기술이 현장 배치되어 입증되었으며 성숙 단계에 있고, 국방 ISR 역량 재구성의 선도자 위치 강조)</p><h3>Technical Insights</h3><p>• **자율 운영 기술의 군사 적용 확대**: JUMP 20-X의 완전 자율 비행 및 멀티센서 통합 기능은 조종사 의존도 제거로 해상·육상 복합 임무 수행 효율성 대폭 향상</p><p>• **모듈식 페이로드 설계의 운영 유연성**: 70개 이상 페이로드 구성 가능성으로 특정 ISR 임무별 맞춤형 솔루션 제공 가능하며, 빠른 임무 전환 시간 확보</p><p>• **물류 및 배포 혁신**: 별도 발사/회수 장비 불필요로 선박 또는 육상 기지의 공간 제약 극복, 빠른 전개 및 신속한 작전 지원 가능</p><p>• **검증된 기술의 산업적 신뢰성**: 한국 해군 등 다국적군 운영 사례를 통해 자율무인시스템의 신뢰성 및 상호운용성이 입증되었으며, 향후 동맹국 해군 협력 확대 기반 마련</p></div>`,
+      tags: ["autonomous systems","UAS/drone","ISR operations","U.S. Navy modernization"],
+      link: "https://www.navalnews.com/naval-news/2026/04/av-to-deliver-isr-services-to-u-s-navy-with-jump-20-x/",
+      coords: [0,0],
+      location: "Global (U.S. Navy operations)"
+    }
+  ]
+});
+
+// Auto-collected: 2024-02-21
+addEvents({
+  "2024-02-21": [
+    {
+      type: "accident",
+      title: "Foundering of the fishing vessel Freedom II (CN 111) - Engine Room Flood",
+      source: "MAIB (Marine Accident Investigation Branch)",
+      sourceMeta: "gov.uk · 2024-02-21",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2024년 2월 21일 스코틀랜드 오반 남서쪽 11해리 해역에서 영국 등록 새우 트롤어 Freedom II(길이 15.94m)가 침몰</p><p>• 엔진실로의 점진적인 침수로 인한 침몰 - 갑판 세척펌프의 해수 흡입 배관이 진동에 의해 균열되었을 가능성이 높음</p><p>• 승무원 4명은 해상왕립구조대(RNLI)에 의해 구조되어 무상의 생존, 선박은 최종 침몰하여 회수되지 않음</p><p>• 침수 속도가 운영 중인 빌지펌프의 능력을 초과했으며, 추가 펌프는 전원 공급 문제로 인해 작동 불가능했음</p><p>• 선장의 신속한 안전 대응으로 승무원 안전을 확보했으나, 신호 수신이 불량한 해역에서 비상 신고를 발령</p><h3>Key Quotes</h3><p>• "The vessel foundered due to a progressive flood into the engine room." (선박은 엔진실로의 점진적인 침수로 인해 침몰했다)</p><p>• "The most likely cause was a vibration-induced fracture of the seawater suction pipe for the deck wash pump." (가장 가능성 높은 원인은 갑판 세척펌프의 해수 흡입 배관의 진동으로 인한 균열이다)</p><p>• "The skipper was proactive in ensuring that the crew were safe and managed to raise the alarm in an area of poor signal coverage." (선장은 승무원 안전을 보장하기 위해 적극적으로 대응했으며 신호가 불량한 지역에서도 비상신호를 발령했다)</p><h3>Technical Insights</h3><p>• 선박 기관실의 핵심 배관 시스템(해수 흡입 배관) 진동 감시 및 정기 검사의 중요성 - 소형 어선의 경우 설비 노후화 관리 강화 필요</p><p>• 빌지펌프 시스템의 다중 계층적 설계 필수 - 주펌프 작동 불가 시 비상펌프의 독립적 전원 공급 확보로 침수 대응력 향상</p><p>• 소형 어선(15m급)의 원격 해역 운항 시 통신 시스템 강화 및 조기 경보 체계 구축 - IMO 안전 규정의 소형 선박 적용 기준 재검토</p><p>• 선원 훈련 표준화 - 비상상황 대응 및 현장 응급처치 역량 강화로 인명 피해 예방(본 사건은 4명 전원 생존)</p></div>`,
+      tags: ["fishing vessel","foundering","engine room flood","UK waters"],
+      link: "https://www.gov.uk/maib-reports/foundering-of-the-fishing-vessel-freedom-ii-cn-111",
+      coords: [-5.48,56.36],
+      location: "Oban, Scotland"
+    }
+  ]
+});
+
+// Auto-collected: 2026-03-31
+addEvents({
+  "2026-03-31": [
+    {
+      type: "news",
+      title: "UK Royal Navy Awards Teledyne Contract for Underwater Gliders and Autonomous Ocean Systems",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-03-31",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/03/UK-Royal-Navy-Awards-Teledyne-Contract-for-Underwater-Gliders-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 영국 국방부(MOD)는 Teledyne에 Future Maritime Data Gathering(FMDG) 프로젝트를 위한 계약을 수여하였으며, 이는 자율 해양 관측 시스템의 대규모 도입을 의미함</p><p>• Sentinel 및 Slocum 글라이더, APEX 플로트 등 첨단 자율 무인 기술을 활용하여 복잡한 원해 환경에서 해양 환경 데이터 수집 능력 강화</p><p>• 2015년 이후 Teledyne의 Slocum 글라이더를 운영해온 경험을 바탕으로, Royal Navy가 단일 공급업체와의 지속적 파트너십을 확대하는 결정</p><p>• 정보 전쟁 기상해양(IW METOC) 운영자들이 수집된 실시간 데이터를 활용하여 수중 전장 상황 인식 및 전술적 환경 활용 지원</p><p>• Atlantic Bastion 전략과 연계되어 북대서양의 분쟁 환경에서 해양 상황 이해 및 작전 능력 향상에 기여</p><h3>Key Quotes</h3><p>• "Teledyne remains the only supplier able to guarantee seamless interoperability, security compliance, and mission readiness into the Current RN Glider Fleet." (현재 Royal Navy 글라이더 함대와의 완벽한 상호운용성, 보안 규정 준수, 임무 준비태세를 보장할 수 있는 유일한 공급업체)</p><p>• "This investment in autonomous ocean sensing strengthens the Royal Navy's ability to understand and operate in an increasingly contested North Atlantic, supporting Atlantic Bastion." (자율 해양 센싱 투자는 Royal Navy가 점점 더 분쟁 지역화되는 북대서양에서의 이해도와 작전 능력을 강화하고 Atlantic Bastion을 지원함)</p><h3>Technical Insights</h3><p>• **자율 해양 플랫폼의 전략적 중요성**: Slocum 글라이더와 APEX 플로트 같은 장기 내구성 자율 시스템은 NATO 및 Royal Navy의 하이브리드 해군 전략에서 정보 수집 및 상황 인식의 핵심 인프라로 기능</p><p>• **상호운용성과 보안의 표준화**: 국방 부문에서 단일 공급업체 선택은 시스템 통합, 보안 규정 준수, 임무 연속성 측면에서 중요하며, 이는 자율 수중 시스템의 신뢰성 확보를 위한 필수 요건</p><p>• **수중 전장 인식(Underwater Battlespace Awareness)의 군사적 영향**: 지속적인 해양 환경 데이터 수집은 잠수함 작전, 기뢰 탐지, 음향 환경 파악 등 현대 해전의 핵심 요소로, 정보 전쟁(Information Warfare) 우위 확보에 직결</p></div>`,
+      tags: ["autonomous underwater vehicles","Royal Navy","ocean observing systems","defense technology"],
+      link: "https://www.navalnews.com/naval-news/2026/03/uk-royal-navy-awards-teledyne-contract-for-underwater-gliders/",
+      coords: [-2.2453,51.5074],
+      location: "United Kingdom"
+    }
+  ]
+});
