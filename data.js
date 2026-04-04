@@ -3525,3 +3525,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-01
+addEvents({
+  "2026-04-01": [
+    {
+      type: "news",
+      title: "AeroVironment Selected to Deliver ISR Services to U.S. Navy with JUMP 20-X",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-04-01",
+      image: "https://www.navalnews.com/wp-content/uploads/2025/02/JUMP-20-X-VTOL-UAS-at-IDEX-2025.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• AeroVironment(AV)가 미국 해군의 ISR(정보·감시·정찰) 역량 확대를 위해 JUMP 20-X 자율 항공기 시스템 공급 계약 선정<br>• JUMP 20-X는 완전 자율 비행, 13시간 이상의 비행 시간, 185km 범위, 30파운드 탑재량을 갖춘 수직 이착륙(VTOL) 무인항공기<br>• 다중 영역(육상·해상) 임무 수행 가능하며 70가지 이상의 탑재체 통합 옵션으로 임무별 맞춤형 구성 가능<br>• AV는 미 해군 남부사령부, 미 해병대 22원정전대, 한국 해군 등에 이미 검증된 ISR 지원 서비스 제공 경험 보유<br>• 이번 선정은 미국 국방 목표 달성 및 전 지역 작전 준비 태세 강화를 위한 자율 시스템 기술 활용의 구체적 사례</p><h3>Key Quotes</h3><p>• "We are honored to be selected as a partner to help the U.S. Navy expand its ISR services and enhance mission-critical awareness for warfighters around the globe" <br>(전 세계 전투원들을 위한 작전 임무 인식을 강화하는 해군의 ISR 서비스 확대에 파트너로 선정된 것을 영광으로 생각함)</p><p>• "Our technology is deployed, proven, and mature. Our team is ready to deliver. We are reshaping our nation's ISR capabilities."<br>(우리 기술은 배치되었고 검증되었으며 성숙 단계임. 우리 팀은 인도할 준비가 되어있음)</p><h3>Technical Insights</h3><p>• **자율 항공기 기술의 국방 응용**: JUMP 20-X의 완전 자율 비행 및 손-프리(hands-free) 조종 능력은 원격 해역 작전에서 운용자 안전성 및 작전 효율성 대폭 향상<br>• **다중 영역 임무 수행 능력**: 해상 및 육상 동시 작전 지원으로 해군의 전술적 유연성 증대 및 전략적 대응 능력 강화 가능<br>• **신속한 배치 체계**: 거대한 발사·회수 장비 제거로 로지스틱 간소화 및 신속 전개 실현으로 IMO/해상안전 체계와 독립적인 신개념 해상 감시 체계 구축<br>• **장기 운용 지속성**: 13시간 이상의 연속 비행 능력으로 해상 광역 감시 미션에서 인적 리소스 절감 및 24/7 해상 도메인 어웨어니스(Maritime Domain Awareness) 구현</p></div>`,
+      tags: ["Autonomous Systems","ISR","U.S. Navy","VTOL UAS","Defense Technology"],
+      link: "https://www.navalnews.com/naval-news/2026/04/av-to-deliver-isr-services-to-u-s-navy-with-jump-20-x/",
+      coords: [0,0],
+      location: "Global/U.S. Navy Operations"
+    }
+  ]
+});
