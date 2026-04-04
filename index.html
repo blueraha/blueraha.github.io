@@ -690,6 +690,23 @@ body.theme-glass .modal-source-img { background: rgba(255,255,255,0.05); }
     border-radius: 8px; font-size: 12px; font-weight: 600;
     letter-spacing: 0.5px; text-decoration: none; transition: all 0.3s;
 }
+.modal-read-btn-sm {
+    display: inline-flex; align-items: center;
+    margin-top: 8px; padding: 6px 12px;
+    background: rgba(9, 132, 227, 0.08); color: var(--brand-blue) !important;
+    border-radius: 5px; font-size: 11px; font-weight: 500;
+    letter-spacing: 0.3px; text-decoration: none; transition: all 0.3s;
+    border: 1px solid rgba(9,132,227,0.15);
+}
+.modal-read-btn-sm:hover { background: var(--brand-blue); color: #fff !important; }
+.modal-tech-insights {
+    margin-top: 12px;
+}
+.modal-tech-content {
+    font-size: 13px; font-weight: 300; line-height: 1.75;
+    color: var(--text-secondary);
+}
+.modal-tech-content p, .modal-tech-content br { margin: 4px 0; }
 .modal-read-btn:hover { background: #0773c5; transform: translateY(-1px); box-shadow: 0 4px 12px rgba(9,132,227,0.3); }
 @media (max-width: 768px) {
     .modal-split { max-width: 100% !important; width: 100% !important; max-height: 95vh; padding: 20px !important; border-radius: 12px !important; }
@@ -703,9 +720,15 @@ body.theme-dark .modal-close-btn:hover { color: rgba(255,255,255,0.6); }
 body.theme-dark .modal-tag-chip { background: rgba(255,255,255,0.08); color: #60a5fa; }
 body.theme-dark .modal-source-card { background: rgba(255,255,255,0.03); border-color: rgba(255,255,255,0.08); }
 body.theme-dark .modal-read-btn { background: #3b82f6; }
+body.theme-dark .modal-read-btn-sm { background: rgba(59,130,246,0.1); color: #60a5fa !important; border-color: rgba(59,130,246,0.2); }
+body.theme-dark .modal-read-btn-sm:hover { background: #3b82f6; color: #fff !important; }
+body.theme-dark .modal-tech-content { color: rgba(255,255,255,0.6); }
 body.theme-glass .modal-tag-chip { background: rgba(96,165,250,0.15); color: #60a5fa; }
 body.theme-glass .modal-close-btn { color: rgba(255,255,255,0.3); }
 body.theme-glass .modal-source-card { background: rgba(255,255,255,0.03); border-color: rgba(96,165,250,0.15); }
+body.theme-glass .modal-read-btn-sm { background: rgba(96,165,250,0.1); color: #60a5fa !important; border-color: rgba(96,165,250,0.2); }
+body.theme-glass .modal-read-btn-sm:hover { background: #3b82f6; color: #fff !important; }
+body.theme-glass .modal-tech-content { color: rgba(255,255,255,0.6); }
 
 /* 5. 타입 태그 (Accident, News 등) 스타일 */
 @keyframes typhoon-pulse {
@@ -970,7 +993,11 @@ body.theme-glass .modal-source-card { background: rgba(255,255,255,0.03); border
           <div id="modal-source-name" class="modal-source-name"></div>
           <div id="modal-source-meta" class="modal-source-meta-text"></div>
           <div id="modal-source-location" class="modal-source-location"></div>
-          <a id="modal-link-main" href="#" target="_blank" class="modal-read-btn">READ FULL ARTICLE →</a>
+          <a id="modal-link-main" href="#" target="_blank" class="modal-read-btn-sm">Read full article →</a>
+        </div>
+        <div id="modal-tech-insights" class="modal-tech-insights" style="display:none;">
+          <div class="modal-section-label" style="margin-top:18px;">🔍 Technical Insights</div>
+          <div id="modal-tech-content" class="modal-tech-content"></div>
         </div>
       </div>
     </div>
@@ -1031,6 +1058,68 @@ body.theme-glass .modal-source-card { background: rgba(255,255,255,0.03); border
 
 <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script data-cfasync="false" src="data.js"></script>
 <script data-cfasync="false" src="app.js"></script>
+<script>
+// Split Technical Insights from modal-text to modal-right
+(function() {
+  var observer = new MutationObserver(function() {
+    var modalText = document.getElementById('modal-text');
+    var techPanel = document.getElementById('modal-tech-insights');
+    var techContent = document.getElementById('modal-tech-content');
+    if (!modalText || !techPanel || !techContent) return;
+    var html = modalText.innerHTML;
+    // Find Technical Insights section
+    var techMatch = html.match(/<h3>\s*Technical Insights?\s*<\/h3>([\s\S]*?)(<h3>|$)/i);
+    if (!techMatch) {
+      // Try alternate: text "Technical Insights" followed by content
+      techMatch = html.match(/Technical Insights?\s*<\/h3>([\s\S]*?)$/i);
+    }
+    if (techMatch) {
+      // Extract tech insights content
+      var techHtml = techMatch[1].replace(/<\/div>\s*$/, '').trim();
+      techContent.innerHTML = techHtml;
+      techPanel.style.display = 'block';
+      // Remove from left panel
+      html = html.replace(/<h3>\s*Technical Insights?\s*<\/h3>[\s\S]*$/, '');
+      // Clean trailing empty tags
+      html = html.replace(/<\/div>\s*$/, '</div>');
+      modalText.innerHTML = html;
+    } else {
+      techPanel.style.display = 'none';
+      techContent.innerHTML = '';
+    }
+  });
+  var target = document.getElementById('modal-text');
+  if (target) {
+    observer.observe(target, { childList: true, subtree: true, characterData: true });
+  }
+  // Also run on detail-modal show
+  var modal = document.getElementById('detail-modal');
+  if (modal) {
+    var mo2 = new MutationObserver(function() {
+      if (modal.classList.contains('active') || modal.style.display !== 'none') {
+        setTimeout(function() {
+          var modalText = document.getElementById('modal-text');
+          var techPanel = document.getElementById('modal-tech-insights');
+          var techContent = document.getElementById('modal-tech-content');
+          if (!modalText || !techPanel || !techContent) return;
+          var html = modalText.innerHTML;
+          var techMatch = html.match(/<h3>\s*Technical Insights?\s*<\/h3>([\s\S]*?)$/i);
+          if (techMatch) {
+            var techHtml = techMatch[1].replace(/<\/div>\s*$/, '').replace(/<\/div>$/, '').trim();
+            techContent.innerHTML = techHtml;
+            techPanel.style.display = 'block';
+            html = html.replace(/<h3>\s*Technical Insights?\s*<\/h3>[\s\S]*$/, '</div>');
+            modalText.innerHTML = html;
+          } else {
+            techPanel.style.display = 'none';
+          }
+        }, 50);
+      }
+    });
+    mo2.observe(modal, { attributes: true, attributeFilter: ['class', 'style'] });
+  }
+})();
+</script>
 <script>
 function setUITheme(theme) {
   document.body.classList.remove('theme-dark', 'theme-glass');
