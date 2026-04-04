@@ -14,6 +14,21 @@ const parser = new Parser({
 
 const DAYS_AGO = new Date(Date.now() - 7 * 24 * 60 * 60 * 1000);
 
+// ── 기존 data.js에서 이미 수집된 링크 로드 (중복 방지) ──────────
+const DATA_JS_PATH = require('path').join(__dirname, '..', 'data.js');
+const existingLinks = new Set();
+try {
+  const dataJs = fs.readFileSync(DATA_JS_PATH, 'utf8');
+  const linkRegex = /link:\s*[\"'\`]([^"'\`]+)[\"'\`]/g;
+  let m;
+  while ((m = linkRegex.exec(dataJs)) !== null) {
+    if (m[1] && m[1].startsWith('http')) existingLinks.add(m[1].trim());
+  }
+  console.log(`📋 기존 링크 ${existingLinks.size}개 로드됨 (중복 방지용)`);
+} catch(e) {
+  console.warn('⚠️ data.js 로드 실패 (첫 실행?):', e.message);
+}
+
 // ── 원문 텍스트 추출 ──────────────────────────────────────────
 
 async function fetchArticleText(url) {
@@ -121,6 +136,8 @@ async function fetchAllFeeds() {
           feed.keywords.some(kw => text.includes(kw.toLowerCase()));
 
         if (matched) {
+          // 이미 수집된 링크면 스킵
+          if (item.link && existingLinks.has(item.link.trim())) continue;
           articles.push({
             feedName: feed.name,
             defaultCategory: feed.category,
