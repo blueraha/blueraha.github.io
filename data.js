@@ -3476,3 +3476,52 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-03
+addEvents({
+  "2026-04-03": [
+    {
+      type: "accident",
+      title: "Sweden Seizes Sanctioned Russian Oil Tanker Flora 1 Suspected of Causing 12 km Baltic Sea Oil Spill",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-03",
+      image: "https://gcaptain.com/wp-content/uploads/2026/03/2026-03-13T170802Z_356820084_RC2J3KA6LZI6_RTRMADP_3_UKRAINE-CRISIS-SWEDEN-SHIP-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 스웨덴 해안경비대가 발틱해 고틀란드 섬 인근에서 12km 규모의 유류 유출을 야기한 것으로 의심되는 러시아 선박 Flora 1을 나포함</p><p>• **선박 정보**: Flora 1은 러시아 프리모르스크 항구에서 출발한 유조선으로, 러시아의 제재 회피 "섀도우 플릿(Shadow Fleet)"에 속하며 EU 제재 목록에 등재되어 있는 것으로 파악됨</p><p>• **환경범죄 수사**: 스웨덴 해안경비대가 환경범죄 혐의로 수사를 개시했으며, 유류는 육지에 도달하지 않을 것으로 예상되나 심각한 환경 위협으로 평가됨</p><p>• **제재 시행 강화**: 유럽 국가들이 우크라이나 전쟁 자금 조달에 사용되는 러시아 섀도우 플릿 차단을 위해 감시 및 단속 활동을 적극 추진 중</p><p>• **정책 담당자 입장**: 스웨덴 민방위장관 Carl-Oskar Bohlin은 "노후 저보험 유조선들로 구성된 러시아 섀도우 플릿이 주요 보안 및 환경 위협"이라고 성명</p><h3>Key Quotes</h3><p>• "The Russian shadow fleet, consisting of older, poorly insured tankers that evade sanctions, poses a significant security and environmental threat" (오래되고 보험 미흡한 유조선들로 구성된 러시아 섀도우 플릿이 중요한 보안 및 환경 위협을 초래한다는 의미)</p><p>• "The government is taking the incident seriously, even though this time it is not a major oil spill." (이번 사건이 대규모 유류 유출은 아니지만 정부가 심각하게 대응하고 있다는 뜻)</p><h3>Technical Insights</h3><p>• **해상 감시 강화**: MarineTraffic 등 해상 추적 데이터와 OSINT 기술을 활용한 섀도우 플릿 단속이 강화되고 있으며, 이는 IMO 및 국제 해양 규제의 투명성 강화 필요성을 시사</p><p>• **환경 규제 적용**: 미등록 또는 제재 대상 선박의 유류 유출은 MARPOL(해양오염방지협약) 위반에 해당하며, EU의 강화된 환경 단속이 국제해양법 시행의 중요성을 부각</p><p>• **제재 정책의 해양산업 영향**: 러시아 제재 회피 선박 단속은 글로벌 유류 운송 시장 및 보험 산업에 영향을 미치고 있으며, 선박 등록 및 신원 추적 시스템의 개선 필요성 강조</p><p>• **안전 및 규정 준수**: 저보험 및 노후 선박의 운항은 해양사고 위험 증가로 이어지며, IMO 2030/2050 환경 규제 강화와 함께 높은 운영 기준 유지의 중요성 대두</p></div>`,
+      tags: ["Oil Spill","Russian Shadow Fleet","Environmental Crime","Baltic Sea","Sanctions Enforcement"],
+      link: "https://gcaptain.com/sweden-seizes-sanctioned-oil-tanker-suspected-of-being-source-of-spill/",
+      coords: [18.69,57.41],
+      location: "Baltic Sea, off Gotland Island, Sweden"
+    },
+    {
+      type: "news",
+      title: "ZenaTech Enters Underwater Robotics Market with IQ Aqua AUV Prototype",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-04-03",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/04/New-player-enters-underwater-robotics-market-with-AUV-prototype.jpg?image-crop-positioner-ts=1775201777",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• ZenaTech의 자회사 ZenaDrone이 방위 및 상업 시장용 자율수중차량(AUV) 프로토타입 'IQ Aqua' 개발 완료<br>• 현재 유선 배터리 방식 운영 중이며, 차세대는 무선식 GPS 독립형으로 개발 진행 중<br>• 해상 에너지 파이프라인, 해저 케이블, 해양 인프라의 자동 검사 용도로 활용 예정<br>• 미국 및 국제 지역에서 수개월 내 수중 현장 테스트 실시 계획<br>• GCC 국가(UAE, 사우디아라비아, 카타르) 등 해상 탄화수소 자산 보유 지역을 주요 시장으로 설정</p><h3>Key Quotes</h3><p>• "IQ Aqua AUV prototype intended for multiple underwater use cases across defense and commercial markets" <br>(방위 및 상업 시장 전반의 다양한 수중 활용 목적을 위한 IQ Aqua AUV 프로토타입)</p><p>• "the next-generation prototype that will be tether-free and GPS-independent is in the making"<br>(차세대 프로토타입은 무선식이며 GPS에 독립적인 방식으로 개발 중)</p><h3>Technical Insights</h3><p>• **AUV 기술 진화**: 기존 유선식 배터리 방식에서 무선 자율운영 체계로의 기술 전환은 해양 인프라 검사의 효율성과 운영 범위를 대폭 확대할 것으로 예상<br>• **자율해양 시스템의 확산**: AI 기반 수중 로봇 기술의 상용화는 해상 에너지, 해저 케이블 관리, 항만 운영 등 해양산업 전반의 자동화 추진력 강화<br>• **방위-상업 이중용도 기술**: 방위 및 상업 시장 동시 진출 전략은 해양 보안과 인프라 관리 분야에서 기술 표준화 및 국제 규제 논의 필요성 증대<br>• **역내 시장 확대**: GCC 국가의 해상 에너지 자산 및 항만 보안 수요를 겨냥한 지역 집중 전략은 자율 수중 로봇의 상용화 가속화 신호</p></div>`,
+      tags: ["AUV","Autonomous Underwater Vehicle","Robotics","Offshore Infrastructure","AI Technology"],
+      link: "https://www.offshore-energy.biz/new-player-enters-underwater-robotics-market-with-auv-prototype/",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
+
+// Auto-collected: 2026-03-30
+addEvents({
+  "2026-03-30": [
+    {
+      type: "news",
+      title: "Navy Commissions New Virginia-class Attack Submarine USS Massachusetts in Boston",
+      source: "USNI News",
+      sourceMeta: "usni.org · 2026-03-30",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미 해군이 Block IV Virginia급 공격 잠수함 USS Massachusetts(SSN-798)를 Boston Harbor에서 정식 취역 조정 (2026년 3월 30일)<br>• 신규 잠수함은 매사추세츠 연방의 5번째 해군 함정으로, 역사적 함명 계승 (이전 최신함: WWII 태평양전선 참전 전함, 11개 전투경장 수훈)<br>• 매사추세츠 자급자족 행사에서 미국 최고(古)의 현역 전함 USS Constitution이 동반 항해<br>• Virginia급 Block IV 버전은 차세대 공격 잠수함으로 해양 작전 능력 강화<br>• 신규 전력화로 미 해군의 수중전 우위 지속 및 태평양 지역 안보 역할 강조</p><h3>Key Quotes</h3><p>• "It is the fifth Navy vessel named after the commonwealth of Massachusetts, following the most recent, USS Massachusetts, a battleship that participated in nearly every major Pacific campaign from 1943 to 1945 and earned 11 battle stars for its World War II service." <br>(매사추세츠 연방의 이름을 딴 다섯 번째 해군 함정으로, 1943~1945년 태평양의 거의 모든 주요 작전에 참전하여 11개의 전투경장을 수훈한 전함의 계승)</p><h3>Technical Insights</h3><p>• Virginia급 Block IV 잠수함은 차세대 공격 잠수함 설계로 수중 조종성, 기뢰 회피, 특수전 작전 능력이 강화됨<br>• SSN-798 취역으로 미 해군의 공격 잠수함 전력 증강 및 태평양 지역 정찰·감시(ISR) 능력 다층화<br>• 신규 잠수함 운영으로 해상 안보 위협에 대응하는 미 해양 전략의 구체화 및 동맹국 신뢰 강화</p></div>`,
+      tags: ["Virginia-class submarine","USS Massachusetts","Naval commissioning","U.S. Navy"],
+      link: "https://news.usni.org/2026/03/30/navy-commissions-new-virginia-class-attack-boat-uss-massachusetts-in-boston-ceremony",
+      coords: [-71.0569,42.3601],
+      location: "Boston Harbor, Massachusetts"
+    }
+  ]
+});
