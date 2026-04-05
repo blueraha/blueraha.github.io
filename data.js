@@ -3393,3 +3393,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-02
+addEvents({
+  "2026-04-02": [
+    {
+      type: "news",
+      title: "Bahrain Seeks UN Security Council Vote on Strait of Hormuz Shipping Protection Resolution",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-02",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockmiciboy-169467.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 바레인이 UN 안전보장이사회에 호르무즈 해협 상업 해운 보호를 위한 결의안 투표를 금요일에 실시할 것을 촉구함</p><p>• 미국과 이스라엘의 이란 공격 이후 2월 말부터 호르무즈 해협이 사실상 해운 통행이 중단되었으며 유가가 급등함</p><p>• 바레인이 4번째 초안을 제시했으며 "모든 필요한 수단(all necessary means)"을 통한 상업 해운 보호 권한 부여를 요청함</p><p>• 러시아와 중국의 반발을 완화하기 위해 구속력 있는 집행에 대한 명시적 언급을 삭제하고 6개월 시한을 설정함</p><p>• 현안 결의안은 방어적 성격의 강제 조치를 허용하며 이란의 해협 통제 시도를 "위법하고 정당화되지 않는 행위"로 규정함</p><h3>Key Quotes</h3><p>• "We look forward to a unified position from this esteemed Council during the vote that will take place on the draft resolution tomorrow, God willing," (이사회가 내일 투표할 결의안에 대해 통일된 입장을 보여주기를 기원합니다)</p><p>• "unlawful and unjustified attempt to control international navigation in the Strait of Hormuz" (호르무즈 해협에서의 국제 해운 통제에 대한 위법하고 정당화되지 않는 시도)</p><p>• President Trump "vowed to continue attacks, but did not lay out a plan to re-open the strait" (공격을 계속하겠다고 약속했지만 해협 재개방 계획을 제시하지 않음)</p><h3>Technical Insights</h3><p>• **해상 교통 안전 규정**: 호르무즈 해협은 전 세계 석유 수송의 약 20-30%를 담당하는 국제 해운의 중요 통로로서, 해협 폐쇄는 SOLAS 및 MARPOL 등 국제 해사 규정의 실질적 작동 중단을 의미함</p><p>• **IMO/안전보장이사회 협력 체계**: UN 안보리의 강제 결의안은 IMO 국제 해사 규정보다 상위의 정치적 개입으로, 이는 전쟁 상황에서의 해상 통행 보장이 국제법적 우선순위임을 입증함</p><p>• **지정학적 해운 위험 증대**: 호르무즈 해협 폐쇄로 인한 장기 유가 상승은 선사의 연료비 증가, 선박 우회 항로 장거리화, 보험료 상승 등 해운업 전반의 경제적 타격을 야기하고 있음</p><p>• **군사적 호위와 상업 해운의 불일치**: 트럼프 대통령이 공격 계속을 표명하면서도 해협 재개방 계획을 제시하지 않음으로써, 군사 목표와 해운 안전 보장 사이의 정책 불일치가 해운업계의 불확실성을 증가시키고 있음</p></div>`,
+      tags: ["Strait of Hormuz","UN Security Council","Shipping Protection","Maritime Security","Geopolitical Risk"],
+      link: "https://www.marinelink.com/news/bahrain-hopes-council-vote-hormuz-537650",
+      coords: [53.6,26.1],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "US Raises Concerns Over China's Detentions of Panama-Flagged Vessels Following Port Concession Ruling",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-02",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockblackmac-169464.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **파나마 기국 선박 대량 억류**: 중국이 2026년 3월 8일 이후 약 70척의 파나마 기국 선박을 억류하고 있으며, 이는 역사적 규범을 크게 초과하는 수준</p><p>• **근본 원인 - 파나마 법원 판결**: 2026년 1월 파나마 대법원이 홍콩 CK 허치슨의 발보아·크리스토발 터미널 운영 특허권을 무효화한 결정에 대한 보복성 조치로 추정</p><p>• **미국의 강한 반발**: 마르코 루비오 국무장관이 중국의 경제적 강압이 파나마의 법치주의를 훼손하고 있다고 성명 발표</p><p>• **전략적 중요성**: 파나마 운하는 전 세계 해상 무역량의 약 5%를 처리하는 전략적 요충지로서 중미 지역에서의 미중 영향력 경쟁의 핵심 무대</p><p>• **CK 허치슨의 국제중재 소송**: 30년 운영사 CK 허치슨이 파나마를 상대로 20억 달러 이상의 손해배상을 요구하는 국제중재 사건 제기</p><h3>Key Quotes</h3><p>• "China's recent actions against Panama-flagged vessels raise serious concerns about the use of economic tools to undermine the rule of law in Panama, a sovereign nation and vital partner for global commerce" <br>(중국이 경제적 수단을 동원하여 주권국가이자 글로벌 무역의 중요 파트너인 파나마의 법치주의를 훼손하려는 행동에 심각한 우려를 표명)</p><p>• "This sovereign ruling upheld transparency, the rule of law, and held private operators accountable to the public interest"<br>(이번 파나마 대법원의 판결은 투명성과 법치주의를 강화하고 민간 운영사의 공공 이익 책임을 확보했다는 의미)</p><h3>Technical Insights</h3><p>• **선박 기국과 국제법**: 파나마 기국 선박이 중국 항구에서 집단 억류되는 상황은 국기국과 항만국 통제 원칙 간의 충돌을 나타내며, IMO 규정 준수와 무관한 정치적 목적의 항만국 조치로 간주될 수 있음</p><p>• **해상 무역 지정학화**: 파나마 운하라는 전략적 해상교통로를 중심으로 미중 경제 갈등이 노골화되고 있으며, 선박의 자유로운 통항과 항만 접근권이 지정학적 수단으로 변질되는 위험성을 시사</p><p>• **국제해운 규제의 한계**: FMC와 로이드 리스트 같은 국제 감시기구가 이상 현상을 보고하고 있으나, 실질적인 억류 완화 메커니즘이 부재하여 국제 해운법의 집행 공백을 드러냄</p></div>`,
+      tags: ["Panama Canal","China-US Relations","Port Operations","Maritime Regulation","Geopolitical Tension"],
+      link: "https://www.marinelink.com/news/concerns-raised-repeated-chinese-537647",
+      coords: [8.9824,9.082],
+      location: "Panama Canal Region"
+    },
+    {
+      type: "news",
+      title: "World Fuel Services and West Coast Clean Fuels Launch US Methanol Bunkering Service",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-02",
+      image: "https://images.marinelink.com/images/maritime/w800/methanol-bunker-169462.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• World Fuel Services와 West Coast Clean Fuels가 미국 항구에서 메탄올 벙커링 서비스를 공식 출범했으며, 사우스 플로리다에서의 시범 운영을 성공적으로 완료함</p><p>• U.S. Coast Guard 승인 절차, 훈련된 인원, 목적별 장비를 포함한 완전한 메탄올 벙커링 인프라 구축 완료</p><p>• West Coast Clean Fuels는 현재 미국에서 유일하게 트럭-선박 메탄올 벙커링 절차가 승인된 운영자이며, 추가 항구로의 신속한 확대 준비 상태</p><p>• 해운 산업의 저탄소 연료 전환 수요 증가에 따라 메탄올을 선박용 연료 전략에 통합할 수 있는 실질적인 솔루션 제공</p><p>• 광범위한 리스크 평가와 U.S. Coast Guard와의 협력을 통해 개발된 규제 준수 운영 절차 확립</p><h3>Key Quotes</h3><p>• "Our procedures didn't just meet regulatory requirements - they helped shape them. The U.S. Coast Guard's recent guidance reflects the operation we've developed." (우리의 절차는 단순히 규제 요구사항을 충족한 것뿐만 아니라 그 요구사항을 형성하는 데 도움을 주었습니다. 최근 U.S. Coast Guard의 지침이 우리가 개발한 운영 방식을 반영하고 있습니다.)</p><p>• "This enhanced capability of World Fuel with West Coast Clean Fuels provides customers practical turnkey access to integrate methanol into existing fuelling strategies." (World Fuel과 West Coast Clean Fuels의 향상된 역량은 고객들에게 메탄올을 기존 연료 공급 전략에 통합할 수 있는 실질적인 턴키 방식의 접근을 제공합니다.)</p><h3>Technical Insights</h3><p>• 메탄올 벙커링은 선박의 탈탄소화 전략에서 중요한 대안이며, IMO 2050 탄소 중립 목표 달성을 위한 실질적인 기술 솔루션으로 위치</p><p>• U.S. Coast Guard와의 협력을 통해 개발된 규제 준수 절차가 산업 표준이 되어 향후 다른 국가 및 항구에서의 메탄올 벙커링 확대에 선례 제시</p><p>• 트럭-선박 메탄올 벙커링의 표준화된 운영 절차 확립으로 인해 선사 및 벙커링 업체 간의 호환성 향상 및 공급망 효율성 증대 가능</p><p>• 메탄올 벙커링 인프라의 빠른 확산으로 미국 항구의 글로벌 경쟁력 강화 및 친환경 선박 연료의 보편화 촉진 예상</p></div>`,
+      tags: ["Methanol Bunkering","Alternative Fuels","US Ports","Clean Energy","Marine Fuel"],
+      link: "https://www.marinelink.com/news/world-fuel-west-coast-clean-fuels-launch-537635",
+      coords: [25.7617,-80.1918],
+      location: "South Florida, United States"
+    }
+  ]
+});
