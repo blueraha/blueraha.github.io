@@ -3437,3 +3437,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-02
+addEvents({
+  "2026-04-02": [
+    {
+      type: "news",
+      title: "Iran Assures Safe Hormuz Transit for Philippine Vessels",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-02",
+      image: "https://images.marinelink.com/images/maritime/w800/pawinee-adobe-169449.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이란이 필리핀에 대해 호르무즈 해협을 통한 필리핀 국적선, 연료, 필리핀 선원의 안전한 통과를 보장하기로 확약했음<br>• 필리핀 외교부장관 Ma. Theresa Lazaro와 이란 외교부장관 Abbas Araqchi 간 통화를 통해 달성된 합의<br>• 필리핀은 중동에서 원유의 거의 전부를 수입하며, 사우디아라비아가 최대 공급국으로 공급망 확보가 중요한 문제<br>• 이번 보증으로 필리핀의 에너지 안보와 석유·비료 공급의 안정적 확보 가능성이 크게 향상될 것으로 예상<br>• 호르무즈 해협은 전 세계 석유 무역량의 약 20-30%가 통과하는 전략적 요충지로, 지역 안정성은 글로벌 에너지 시장에 영향<br>• 필리핀의 에너지 수입 의존도가 높아 중동 지역의 정치적 안정성과 해상 안보에 대한 외교적 협상이 중요한 상황</p><h3>Key Quotes</h3><p>• "Iran will allow the safe, unhindered, and expeditious passage through the Strait of Hormuz of Philippine-flagged vessels, energy sources, and all Filipino seafarers" (이란이 필리핀 국적선, 에너지 자원, 필리핀 선원의 호르무즈 해협 안전하고 방해받지 않는 신속한 통과를 허용하겠다는 보증)</p><p>• "Given that the Philippines imports the majority of its energy requirements from the Middle East, these assurances from Iran will greatly facilitate the steady delivery of critical oil and fertilizer supplies to the Philippines" (필리핀이 중동으로부터 대부분의 에너지를 수입하는 상황에서 이란의 보증은 필리핀으로의 석유와 비료 공급의 안정적 전달을 크게 촉진할 것)</p><h3>Technical Insights</h3><p>• 호르무즈 해협은 전 세계 최대 규모의 석유 통과 해역으로서, 해상 교통 보안과 정치외교가 밀접하게 연관된 전략적 해역이며 국제해사기구(IMO) 규정 준수와 함께 지역 협력의 중요성이 대두됨</p><p>• 필리핀 선박의 안전 통과 보증은 선주, 선원, 해운사들의 위험도 감소를 의미하며, 이는 호르무즈 해협 통행 보험료 및 보안 비용 절감으로 이어져 해운 산업의 비용 효율성 개선 가능</p><p>• 해양 에너지 공급망의 안정성은 자율운항선(MASS)과 AI 기반 선박 모니터링 기술의 도입 수요를 증가시킬 수 있으며, 위험 해역에서의 실시간 추적 및 예측 기술의 중요성 강화</p><p>• 국가 간 해상 통행 보증 협력은 IMO의 국제해상안전법(SOLAS) 및 국제충돌방지규칙(COLREG) 준수 외에도 지역적 신뢰 구축과 외교적 안정성 유지가 해운 산업 지속성의 핵심 요소임을 시사</p></div>`,
+      tags: ["Strait of Hormuz","Shipping Security","Philippines","Iran","Energy Supply"],
+      link: "https://www.marinelink.com/news/iran-assures-safe-hormuz-transit-537621",
+      coords: [56.4,26.5],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
+
+// Auto-collected: 2026-03-31
+addEvents({
+  "2026-03-31": [
+    {
+      type: "news",
+      title: "Maine Maritime Academy Receives T/S State of Maine, Third NSMV Training Ship",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-04-04",
+      image: "https://maritime-executive.com/media/images/article/Screenshot-2026-04-03-at-9.17.02-PM.aacf80.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **국가해양훈련선의 역사적 인수인계**: 미국 메인 주립해양아카데미가 국방부 마라드(MARAD)와의 협력으로 총 5척 중 세 번째 국가안보다목적함(NSMV) T/S State of Maine을 3월 31일 정식 인수받음</p><p>• **최첨단 훈련선의 기술적 사양**: 길이 525피트, 가치 3억 3천만 달러로 아카데미 운영 역사상 가장 대형이자 기술적으로 가장 첨단인 선박이며, 완전히 작동 가능한 2개의 선교(Bridge)와 기관실을 갖춤</p><p>• **미국 해운 인력 양성의 전략적 중요성**: 주립해양아카데미들이 미국 필요 신규 장교의 50% 이상을 배출하며, 정부 해상수송 및 상선 승무원 부족 문제 해결에 핵심 역할</p><p>• **한와 필라델피아 조선소의 건조**: 한화그룹 산하 필라델피아 조선소(Hanwha Philly Shipyard)가 NSMV 시리즈를 건조하는 등 국제 조선 협력 프로젝트</p><p>• **항만 입항 및 공식 인수식**: 3월 21일 포틀랜드 항(Portland Harbor) 입항 시 관례적 물대포 경례로 환영받았으며, 3월 31일 오션 게이트웨이에서 공식 인수식 개최</p><h3>Key Quotes</h3><p>• "Maine Maritime Academy is internationally recognized as a leader in maritime education and this vessel represents a major step forward in our mission to train the world's finest mariners" <br>(메인 주립해양아카데미는 국제적으로 해양교육의 선도자로 인정받고 있으며, 이 선박은 세계 최고 수준의 해양인 양성 임무의 중대한 진전을 나타냄)</p><p>• "A strong merchant marine means a strong America. By equipping Maine Maritime Academy with a state-of-the-art vessel to train future merchant mariners, we are fulfilling President Trump's promise to restore America's maritime dominance"<br>(강한 상선해운은 강한 미국을 의미하며, 메인 주립해양아카데미에 차세대 상선해운인 훈련용 최첨단 선박을 장비함으로써 미국의 해운 주도권 회복이라는 트럼프 대통령의 공약을 이행하고 있음)</p><h3>Technical Insights</h3><p>• **목적별 다기능 설계의 해양훈련 혁신**: NSMV는 순수 훈련 기능 외에도 연방 인도주의 및 재난 대응 임무 지원이 가능한 다목적 설계로, 평시 훈련과 유사시 국방 역할의 이중성 확보</p><p>• **실전형 시뮬레이션 환경 구축**: 완전히 작동 가능한 이중 선교와 기관실 시스템을 통해 해양사관들이 실제 선박 운영과 동일한 환경에서 고급 기술 습득 및 의사결정 훈련 수행 가능</p><p>• **국방해운정책과 해양인력 수급**: 국가전략적 중요성이 높은 상선 장교 양성에 정부가 3억 3천만 달러를 투자하는 것은 글로벌 해운 공급망 안정성 확보와 국방 자산으로서의 상선 역할 강화를 반영</p><p>• **국제 조선산업 협력 체계**: 한화 필라델피아 조선소의 NSMV 건조는 미국-한국 조선산업 협력의 사례로, 고부가가치 훈련함 건조를 통한 조선산업의 기술적 고도화와 고용 창출에 기여</p></div>`,
+      tags: ["Training Ship","National Security Multi-Mission Vessel","Maritime Education","MARAD"],
+      link: "https://maritime-executive.com/article/maine-maritime-academy-welcomes-historic-arrival-of-t-s-state-of-maine-2",
+      coords: [-70.2553,43.6629],
+      location: "Portland Harbor, Maine"
+    }
+  ]
+});
