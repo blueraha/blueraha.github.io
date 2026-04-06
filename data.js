@@ -3507,3 +3507,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-05
+addEvents({
+  "2026-04-05": [
+    {
+      type: "news",
+      title: "Ship Recyclers Face Clouded Price Recovery Outlook Amid Geopolitical Risks",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-05",
+      image: "https://images.marinelink.com/images/maritime/w800/source-169487.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 지정학적 위험이 에너지 시장의 주요 가격 결정 요인으로 부상하면서 선박 해체 산업에 양측 영향을 미치고 있으며, 높은 유가는 노후 선박의 운항을 지속하게 함</p><p>• 인도 루피화가 인도중앙은행의 개입 조치로 기록적 저점(94.42)에서 92.73으로 반등했으나, 터키 리라화는 44.59의 신저가를 기록하며 알리아가의 국제 톤수 경쟁력 약화</p><p>• 미 달러화의 혼합 신호(터키 리라 대비 강세, 인도 루피 대비 약세)로 인해 가격 발견이 어려워지고 시장 거래량이 부진한 상태</p><p>• 1분기에 축적된 선박 적체 현황 해소 진전 부족, 구매자와 판매자들이 입장 정리에 어려움을 겪고 있음</p><p>• 방글라데시 차탕감(Chattogram) 해체업체들이 적극적으로 톤수를 수요하며 지역 내 가장 긍정적 심리 유지, 반면 인도와 파키스탄은 제한된 공급과 철강 기초재 불확실성으로 신중한 태도 지속</p><p>• GMS 보고서에 따르면 업계는 해체 업체들의 증대된 수요를 충족할 충분한 톤수의 도입 시점을 주시하고 있음</p><h3>Key Quotes</h3><p>• "Geopolitical risk has overtaken supply-demand fundamentals as the primary price driver in energy markets, and ship recycling is feeling the impact from both sides" (지정학적 위험이 에너지 시장의 공급-수요 기본으로서의 지위를 대체하면서 선박 해체 산업이 양측 영향을 받고 있음)</p><p>• "These mixed signals continue to cloud price discovery, leaving buyers and sellers struggling to anchor positions and keeping overall market activity subdued" (이러한 혼합 신호들은 가격 발견을 흐리게 하여 구매자와 판매자들이 입장 설정에 어려움을 겪게 하고 전반적인 시장 활동을 억제)</p><h3>Technical Insights</h3><p>• 해체 선박 시장에서 통화 변동성(currency volatility)이 톤수 가격 책정의 주요 변수로 부상하고 있으며, 특히 남아시아 지역의 다중 통화 노출로 인한 가격 발견 기능 약화</p><p>• IMO 환경규제 강화에 따른 노후 선박의 해체 수요 증가 추세와 달리, 지정학적 위험으로 인한 유가 상승이 선박의 운항 수명을 연장시켜 시장 공급량 감소 현상 발생</p><p>• 방글라데시 해체업체의 상대적 경쟁력 강화(루피화 강세, 심리 긍정적)와 터키 알리아가의 경쟁력 약화(리라화 약세) 추세는 향후 해체 산업의 지역적 재편 가능성을 시사</p><p>• 선박 해체 시장의 가격 안정성 부재는 해운사의 선령 관리 및 자산 처분 계획 수립을 어렵게 하므로, 통화 헤징 수단의 중요성 증대 및 중장기 시장 예측 불가능성 심화</p></div>`,
+      tags: ["Ship Recycling","Market Analysis","Currency Volatility","South Asia","Pricing"],
+      link: "https://www.marinelink.com/news/ship-recyclers-face-clouded-price-537677",
+      coords: [0,0],
+      location: "Global (South Asia Focus)"
+    },
+    {
+      type: "news",
+      title: "Petronas-Chartered Tanker Passes Through Hormuz Strait Amid Iran Transit Restrictions",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-05",
+      image: "https://images.marinelink.com/images/maritime/w800/moofushi-adobe-169483.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **페트로나스 차터 유조선(Ocean Thunder)이 호르무즈 해협을 통과**: 말레이시아 국영에너지기업 페트로나스의 자회사 Petco가 차터한 유조선이 이라크산 바사 석유 100만 배럴을 싣고 호르무즈 해협을 성공적으로 통과함</p><p>• **이란의 말레이시아 선박 통행 승인**: 이란이 말레이시아 정부와의 협상 결과 말레이시아 연계 7척의 선박에 대해 해협 통행을 승인하였으며, 통행료 부담 없음을 명시</p><p>• **글로벌 에너지 공급 경로의 지정학적 긴장**: 호르무즈 해협은 전 세계 석유 및 LNG의 약 20%가 통과하는 중요 수로로, 2월 말 미국-이스라엘 공습 이후 이란이 해협을 사실상 폐쇄함</p><p>• **선별적 통행 허용 정책**: 이란이 미국 및 이스라엘과 연계되지 않은 선박에 한해 통행을 허용하며, 옛 카타르산 유조선, 프랑스 컨테이너선, 일본 가스 운반선 등이 최근 통과함</p><p>• **해운산업의 리스크 관리**: 말레이시아, 오만, 프랑스, 일본 등 다국적 선박들의 선별적 통행 승인은 지정학적 위험 회피 전략으로 기능하며, 유조선 운영업체들의 항로 재설정 필요성 증대</p><p>• **Petronas의 전략적 외교**: 말레이시아 총리 아나르 이브라힘의 이란과의 직접 협상을 통한 통행 보장은 주요 에너지 기업의 공급망 안정성 확보 사례</p><h3>Key Quotes</h3><p>• "Iran effectively closed the strait, a corridor that carries about a fifth of global oil and LNG flows, in response to U.S. and Israeli airstrikes that began in late February." <br>(이란은 2월 말 시작된 미국-이스라엘 공습에 대응하여 전 세계 석유 및 LNG 흐름의 약 20%가 통과하는 호르무즈 해협을 사실상 폐쇄했다)</p><p>• "Malaysia's Prime Minister Anwar Ibrahim said last month Iran would allow Malaysian vessels to pass through the strait after holding talks with Iranian officials."<br>(말레이시아 총리 아나르 이브라힘은 이란 고위 관계자와의 협상 후 이란이 말레이시아 선박의 통행을 허용할 것이라고 발표했다)</p><p>• "Malaysia said on Wednesday that Iran would allow its ships to pass through the strait without paying any tolls."<br>(말레이시아는 수요일에 이란이 말레이시아 선박에 대해 통행료 징수 없이 해협 통행을 허용하기로 합의했다고 발표했다)</p><h3>Technical Insights</h3><p>• **호르무즈 해협의 지정학적 위험 관리**: 전 세계 석유 및 LNG 거래량의 20% 이상이 통과하는 호르무즈 해협의 폐쇄는 해운업과 에너지산업에 극대의 위험을 초래하며, 선박 운영사들은 대체 항로(Cape of Good Hope) 재검토 필요</p><p>• **선택적 통행 승인의 국제해사법 함의**: IMO 및 국제해법상 해협 통행의 자유가 원칙이나, 지정학적 분쟁 시 연해국의 통행제한 권한 문제로 해운산업의 예측 불가능성 증가</p><p>• **다자간 해운 외교의 등장**: 말레이시아의 성공적 협상 사례는 주요 에너지 기업과 국가 정부의 협력을 통한 안전항로 확보 전략의 중요성을 보여주며, 향후 아시아 태평양 지역 해운 네트워크 재편 가능성</p><p>• **해운 리스크 프리미엄의 변동성**: 호르무즈 해협 통행료</p></div>`,
+      tags: ["Oil Tanker","Strait of Hormuz","Iran","Petronas","Geopolitical Risk","Energy Security"],
+      link: "https://www.marinelink.com/news/petronaschartered-tanker-passes-hormuz-537673",
+      coords: [56.5,26.5],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
