@@ -3475,3 +3475,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-05
+addEvents({
+  "2026-04-05": [
+    {
+      type: "accident",
+      title: "Ships Near Italy Rescue 32 Migrants, 71 Lost at Sea",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-05",
+      image: "https://images.marinelink.com/images/maritime/w800/source-seawatch-169482.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **대규모 해상 사망 사고**: 리비아에서 유럽으로 향하던 보트가 복원할 수 없는 상태로 전복되어 105명의 승객 중 71명이 사망하고 2구가 회수됨</p><p>• **해상 구조 활동**: 이탈리아 인근 상선 2척이 32명의 생존자를 구조하여 이탈리아 해안경비대 순찰선으로 이송하고 램페두사 섬으로 운송</p><p>• **구조 기관**: Mediterranea Saving Humans, Sea-Watch 등 구조 자선단체와 이탈리아 해안경비대가 대응</p><p>• **환경 요인**: 지중해의 악천후가 북아프리카 출발 감소 및 해상 위험 심화에 영향</p><p>• **광역 사망률 증가**: 국제이주기구(IOM) 추정, 2026년 중앙 지중해 사망자 683명으로 2014년 이후 최고 수준</p><h3>Key Quotes</h3><p>• "Video released from Sea-Watch showed about a dozen people clinging to a capsized orange boat as it was approached by the merchant vessel." <br>(Sea-Watch에서 공개한 영상은 상선이 접근할 때 전복된 주황색 보트에 약 12명이 매달려 있는 모습을 보여줌)</p><p>• "The International Organization for Migration (IOM) estimates that at least 683 have died in the central Mediterranean this year, one of the highest tolls since 2014."<br>(국제이주기구(IOM)는 올해 중앙 지중해에서 최소 683명이 사망했으며, 이는 2014년 이후 최고 수준이라고 추정)</p><h3>Technical Insights</h3><p>• **해상 구조 역량 강화**: 상선의 즉각적 대응과 해안경비대와의 조율이 32명의 생명 구조에 성공했으며, 향후 해상 통신 및 구조 체계의 표준화 필요성 제기</p><p>• **기상 예측 및 안전 규정**: 악천후로 인한 대형 해상 사고 증가로 IMO의 승객 및 화물선 안전 기준 강화, 특히 소형 보트의 해양 기상 조건 제한 규정 검토 필요</p><p>• **국제 해양법 및 인도주의**: SOLAS(국제해상인명안전규칙) 제5장에 따른 필수 해상 구조 의무 이행으로 상선의 적극적 참여 확인, 다국간 해양 안전 협력체계의 중요성 강조</p><p>• **산업적 영향**: 지중해 항로의 해상 안전 규제 강화 및 상선 운영사들의 구조 훈련 강화로 운영 비용 증가 예상, 해상 보험료 상승 가능성</p></div>`,
+      tags: ["migrant rescue","Mediterranean Sea","capsized boat","casualties","Easter weekend"],
+      link: "https://www.marinelink.com/news/ships-near-italy-rescue-migrants-lost-sea-537672",
+      coords: [12.6326,35.5007],
+      location: "Mediterranean Sea (Lampedusa, Italy)"
+    },
+    {
+      type: "news",
+      title: "ClassNK Awards Autonomous Notation to Domestic Container Ship Genbu",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-05",
+      image: "https://images.marinelink.com/images/maritime/w800/source-classnk-169486.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **ClassNK가 일본 국적 컨테이너선 겐부(Genbu)에 세계 최초 'AUTO-Nav2(All)' 자율항해 표기를 부여** - 이는 중장거리 연안항로에서 운항하는 자율항해선박에 대한 최초의 공식 인증</p><p>• **니혼 재단의 MEGURI2040 완전자율운항선박 프로그램의 일환으로 건조됨** - 교쿠요 조선소에서 건조, IKOUS가 선박관리, 스즈요 마린이 운영</p><p>• **ClassNK의 자동화/자율운항 선박 지침서 발표** - 설계개념부터 유지보수까지 각 단계별 요구사항을 규정하는 국제 표준 가이드라인</p><p>• **일본의 고령 해사인력 문제 해결 및 원도 지역 항로 유지 기대** - 자율운항선박이 일본의 국내 해운사업 지속과 낙도 연계 항로 확보에 기여할 것으로 예상</p><p>• **자율항해 기술의 규제 표준화 단계 진입** - 다양한 실증 프로젝트 경험을 기반으로 업계 전반에 적용 가능한 지침 마련</p><p>---</p><h3>Key Quotes</h3><p>• "ClassNK has granted its 'AUTO-Nav2(All)' notation to Japanese domestic liner container ship Genbu, the only newly constructed autonomous ship under the MEGURI2040 Fully Autonomous Ship Program"<br>(ClassNK가 니혼 재단의 MEGURI2040 완전자율운항선박 프로그램에 따라 건조된 유일한 신규 자율운항선박인 겐부에 'AUTO-Nav2(All)' 표기를 부여했다)</p><p>• "it marks the world's first case of an autonomous navigation notation being assigned to a vessel operating on medium- to long-distance coastal routes"<br>(중장거리 연안항로에서 운항하는 선박에 자율항해 표기를 부여한 세계 최초의 사례이다)</p><p>• "autonomous ships are expected to contribute to securing daily routes to many inhabited remote islands and to the continuation of domestic shipping business due to the aging of seafarers"<br>(자율운항선박은 낙도 항로 확보 및 해사인력 고령화로 인한 국내 해운사업 지속에 기여할 것으로 기대된다)</p><p>---</p><h3>Technical Insights</h3><p>• **자율항해 표기(Notation) 시스템의 국제 표준화 진전** - ClassNK의 AUTO-Nav2 표기는 COLREG, SOLAS 등 국제해사규칙 준수 기반의 검증 체계로서, 향후 IMO 국제 기준 수립의 선례가 될 것으로 예상</p><p>• **설계·건조·운영 전 단계의 규제 프레임워크 확립** - 개념설계부터 운영 중 유지보수까지 포괄하는 지침서는 자율운항 선박의 상용화 단계에서 해급협회의 인증 절차를 표준화하며, 조선소·선주 간 예측 가능성 향상</p><p>• **연안·도서항로 특화형 자율운항 시스템의 실현** - 중장거리 연안항로 운항 가능 확인은 심해 원양항로뿐 아니라 제한된 수역의 자율화가 기술적으로 실현 가능함을 증명하며, 소규모 해운사·도서 지역사회에 새로운 비즈니스 모델 제시</p><p>• **일본의 해운산업 경쟁력 강화 전략** - 고령 선원 문제의 기술적 해결책 제시로 일본이 자율운항 기술 국제 표준 수립에서 주도권 확보, 향후 선급·기술 수출의 기반 마련</p></div>`,
+      tags: ["Autonomous Ships","ClassNK","Maritime Regulation","Japan Shipping"],
+      link: "https://www.marinelink.com/news/classnk-awards-autonomous-notation-537676",
+      coords: [139.6917,35.6895],
+      location: "Japan"
+    }
+  ]
+});
