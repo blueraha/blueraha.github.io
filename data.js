@@ -3539,3 +3539,53 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2025-07-28
+addEvents({
+  "2025-07-28": [
+    {
+      type: "accident",
+      title: "Tug Captain Charged with Seaman's Manslaughter After Fatal Biscayne Bay Collision Kills Three Children",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2025-07-28",
+      image: "https://gcaptain.com/wp-content/uploads/2025/07/250728-G-HW752-1001.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 2025년 7월 28일 비스케인 베이(Biscayne Bay)에서 예인선(tugboat)이 끌고 있던 건설 폐기물 바지선(construction debris barge)이 풍속으로 정지된 돛단배와 충돌하여 3명의 어린이가 익사함</p><p>• **피해 규모**: 어린이 캠프 그룹 6명(카운슬러 1명, 어린이 5명)이 탑승한 돛단배 충돌 - 카운슬러 1명과 어린이 2명은 생존했으나, 3명의 어린이는 바지선 잔해에 갇혀 익사</p><p>• **책임자 기소**: 예인선 조종사 Yusiel Lopez Insua(46세, 마이애미)가 선원 과실 살인죄(seaman's manslaughter)로 기소됨 - 최대 10년 징역형에 처할 수 있음</p><p>• **주요 위반사항**: 선박의 전방 시야 차단(갑판하우스, 크레인 등 구조물), 전담 감시원(dedicated lookout) 미배치, 항해 중 휴대폰 인터넷 사용으로 상황 인식 부족</p><p>• **수사 기관**: 미국 해안경비대 수사국(CGIS), 마이애미 해안경비대, 플로리다 어류야생동물보존국 및 지역 법집행기관이 공동 수사 진행</p><h3>Key Quotes</h3><p>• "This information alleges a preventable loss of life on our waterways. We will present the evidence in court with care and professionalism." (우리의 해상 수역에서 예방 가능했던 생명의 손실을 나타낸다. 법원에서 신중하고 전문적으로 증거를 제시하겠다.)</p><p>• "The tug operator did not see the vessel before impact" (예인선 조종사는 충돌 전에 돛단배를 보지 못했다.)</p><h3>Technical Insights</h3><p>• **기본 항해 안전 위반**: 전방 시야 차단 상태에서의 항해, 전담 감시원 미배치는 COLREG(해상충돌방지규칙)의 기본 의무 위반으로, 안전 문화 부재를 시사</p><p>• **상황 인식(Situational Awareness) 부족**: 항해 중 휴대폰 인터넷 활동은 디지털 기기로 인한 선박 운영 위험 증가 추세를 반영하며, IMO 및 해안경비대의 감시 강화 필요성을 드러냄</p><p>• **예인선 운영 규정 강화**: 건설 폐기물 운반 바지선의 항해 시 시야 제한 구조물에 대한 규정 개선과 선원 교육 강화가 시급한 업계 과제로 대두</p><p>• **법적 책임 강화 추세**: 선원 과실 살인죄 기소는 해양 사고에서 인적 오류에 대한 형사 책임을 강화하려는 연방 검찰의 의지를 보여주며, 향후 해양 안전 산업 전반에 영향을 미칠 것으로 예상</p></div>`,
+      tags: ["collision","maritime casualty","children fatalities","tugboat","seaman's manslaughter","Biscayne Bay"],
+      link: "https://gcaptain.com/tug-captain-charged-after-fatal-biscayne-bay-collision-kills-three-children/",
+      coords: [-80.2,25.75],
+      location: "Biscayne Bay, Miami, Florida"
+    }
+  ]
+});
+
+// Auto-collected: 2026-04-06
+addEvents({
+  "2026-04-06": [
+    {
+      type: "accident",
+      title: "Fire at ONGC's SHP Platform on Mumbai High Leaves 10 Workers Injured",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-04-06",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2019/06/lthe-bags-ongc-double.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 인도 국영 에너지 기업 ONGC의 뭄바이 고(Mumbai High) 해상 플랫폼 SHP에서 화재 발생, 신속하게 진화됨</p><p>• **인명 피해**: 10명의 작업자가 경미한 부상을 입었으며 현재 의료 치료를 받고 있고 상태는 안정적</p><p>• **사고 위치**: 뭄바이로부터 약 180km 북서쪽, 아라비아해의 뭄바이 하이 유전지역</p><p>• **관련 기관**: 국영 석유천연가스공사(ONGC), 국제 기술서비스 제공사 BP</p><p>• **배경 정보**: 작년 BP가 뭄바이 하이 유전의 생산 증대를 위해 국제 기술서비스 제공업체로 계약됨</p><p>• **산업 영향**: 해상 석유·가스 플랫폼의 안전 관리 및 응급 대응 능력에 대한 재점검 필요</p><h3>Key Quotes</h3><p>• "the situation regarding a fire incident at its SHP platform on the Mumbai High asset was promptly brought under control" (SHP 플랫폼의 화재 상황이 신속하게 통제되었다는 의미)</p><p>• "all of them are under medical care and in a stable condition" (모든 부상자들이 의료 치료를 받고 있으며 안정적인 상태라는 뜻)</p><h3>Technical Insights</h3><p>• **해상 플랫폼 안전**: 해상 석유·가스 플랫폼에서의 화재는 매우 위험하며, ONGC의 신속한 진화 대응이 대형 재난으로의 확대를 방지한 것으로 평가됨</p><p>• **운영 안전성**: 국제 기술서비스 제공사(BP)의 참여에도 불구하고 화재 사고가 발생한 것으로 보아, 해상 에너지 플랫폼의 지속적인 안전 개선과 예방 시스템 강화 필요</p><p>• **산업 규제**: IMO 및 국제 해양 안전 기준에 따른 해상 플랫폼의 화재 감지·소화 시스템 점검과 작업자 안전 교육 강화의 중요성 대두</p></div>`,
+      tags: ["offshore fire","ONGC","Mumbai High","worker injuries","oil platform accident"],
+      link: "https://www.offshore-energy.biz/ten-workers-suffer-injuries-as-fire-breaks-out-at-asian-offshore-oil-platform/",
+      coords: [72.7597,18.9676],
+      location: "Mumbai High, Arabian Sea, India"
+    },
+    {
+      type: "accident",
+      title: "Baltic Sea Oil Spill: Flora 1 Oil Tanker Detained Under Investigation",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-04-06",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/04/Oljeutslapp-ost-Gotland-2026-04-02-Swedish-Coast-Guard.jpg?image-crop-positioner-ts=1775464399",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건개요**: 스웨덴 연안경비대가 발틱 해 고틀란드 동쪽에서 12km 이상의 광유(mineral oil) 유출을 감지하고, 용의 유조선 Flora 1을 스웨덴 영해 내에 정박 명령<br>• **용의선박**: Flora 1 유조선은 핀란드만 항구에서 브라질 산토스로 향하던 중 적발되었으며, EU 제재 대상 목록에 포함된 선박으로 기국 상태가 불명확함<br>• **수사경위**: 검사가 주도하는 환경범죄 혐의 예비수사 진행 중이며, 스웨덴 경찰과 협력하여 조사 진행<br>• **선박정보**: Flora 1에는 24명의 선원이 탑승 중이며, 기관의 강화된 해양감시 능력으로 적발<br>• **국제법적 배경**: 연안국은 국제협약에 따라 자국 경제수역 내 환경범죄와 불법 조업에 대해 개입 및 수사 권한 행사 가능<br>• **결과 및 영향**: 스웨덴 연안경비대는 "제재 대상 선박이 환경범죄로 적발된 것은 처음"이라며 강화된 감시체계의 성과 강조</p><h3>Key Quotes</h3><p>• "We act when we detect emissions. This is a result of our enhanced maritime surveillance that we are conducting as a result of the deteriorating security situation in the Baltic Sea region." (우리는 배출을 감지할 때마다 조치를 취합니다. 이는 발틱 해 지역의 악화되는 안보 상황에 대응하기 위해 강화된 해양감시의 결과입니다.)</p><p>• "As far as we know, this is the first time we have been able to trace a discharge to a vessel subject to sanctions, and which may be suspected of environmental crimes." (우리가 아는 한, 제재 대상 선박의 배출 행위를 추적하고 환경범죄 혐의로 적발한 것은 처음입니다.)</p><h3>Technical Insights</h3><p>• **연안국 권한**: 국제협약에 따라 자국 경제수역 내 환경 및 어업범죄에 대해 개입 가능하며, 스웨덴의 이번 조치는 국제법 준수 범위 내에서의 법집행을 보여줌</p><p>• **해양감시 강화**: 발틱 해의 악화된 안보 상황으로 인한 강화된 감시 시스템이 불법 유출 행위 적발에 효과적임을 입증</p><p>• **제재 이행과 환경보호 연계**: EU 제재 대상 선박이 동시에 환경범죄 혐의로 적발된 사례로, 국제 제재 이행과 해양 환경보호의 교집합 영역을 시사</p><p>• **영해/경제수역 기준**: 사건이 스웨덴 영토 외 경제수역에서 발생했으나 스웨덴이 수사 관할권을 행사할 수 있는 법적 근거 제시</p></div>`,
+      tags: ["Oil Spill","Baltic Sea","Environmental Crime","EU Sanctions","Flora 1"],
+      link: "https://www.offshore-energy.biz/vessel-detained-under-suspicion-over-baltic-sea-oil-spill-is-on-eu-sanctions-list/",
+      coords: [18.5,56.8],
+      location: "Baltic Sea, east of Gotland"
+    }
+  ]
+});
