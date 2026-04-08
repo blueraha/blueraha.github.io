@@ -3589,3 +3589,77 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2025-01-04
+addEvents({
+  "2025-01-04": [
+    {
+      type: "accident",
+      title: "Engine Room Fire on Bulker MV Lem Verbena in Mobile - $5.5M Damage",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-07",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/Lem-Verbena.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 2025년 1월 4일 모빌 항만의 벌크선 Lem Verbena 엔진룸에서 대규모 화재 발생, $5.5백만 규모 손해 기록</p><p>• **직접 원인**: 보일러 연료 시스템의 O-ring 씰 부실 장착 및 연료 포트 정렬 불량으로 인한 고압 디젤유 누유</p><p>• **근본 원인**: 소프트웨어 설정 오류로 인해 연료 펌프가 정상적으로 셧다운되지 않아 시스템이 지속적으로 가압 상태 유지</p><p>• **피해 현황**: 약 43 psi의 고압 연료가 원자화되어 근처 고온 표면에 점화, 상부 엔진룸에서 시작된 화재가 하부 플랫폼으로 확산</p><p>• **선원 조치 결과**: 신속한 연료 시스템 차단, 엔진룸 폐쇄, CO₂ 고정식 소화 시스템 가동으로 19명 전원 안전 - 인명피해 및 환경오염 없음</p><p>• **조사 기관**: 미국 국가교통안전위원회(NTSB) 해양사고 조사 보고서</p><h3>Key Quotes</h3><p>• "An O-ring seal had been improperly seated between two misaligned fuel ports" (두 개의 정렬되지 않은 연료 포트 사이에 O-ring 씰이 부실하게 장착됨)</p><p>• "A software configuration error prevented the fuel pump from shutting off between burner cycles as designed, keeping the system continuously pressurized" (소프트웨어 설정 오류로 인해 버너 사이클 사이에 연료 펌프가 설계된 대로 차단되지 않음)</p><p>• "The crew's response—including rapid shutdown of fuel systems, sealing of the engine room, and proper deployment of CO₂—prevented injuries and limited further damage" (연료 시스템의 신속한 차단, 엔진룸 밀폐, CO₂의 적절한 가동으로 인명피해를 방지하고 추가 손해를 제한)</p><h3>Technical Insights</h3><p>• **기계-소프트웨어 복합 결함**: O-ring 부실 장착과 소프트웨어 펌프 제어 오류의 동시 발생이 고압 연료 누유를 가속화하여 고온 환경에서의 화재 위험을 급증시킨 사례</p><p>• **해상 장비 안전 검증 강화 필요**: 연료 시스템의 미세한 정렬 오류(misalignment)가 critical failure로 이어질 수 있으므로, 조립 단계에서의 품질 검증 및 정기 정비 프로토콜 강화 필수</p><p>• **고정식 소화 시스템의 중요성**: 엔진룸 고온 환경에서 CO₂ 고정식 소화 시스템이 화재 완전 진압에 효과적이었으며, IMO SOLAS 규정에 따른 해상선박 소화 시스템의 적절한 설계 및 유지보수 강조</p><p>• **선원 훈련 및 절차**: 신속한 연료 차단, 환기 시스템 제어, 소화 시스템 가동 등의 선원 대응이 피해를 최소화했으므로, 정기적인 엔진룸 화재 대응 훈련 및 SOP 준수의 중요성 재확인</p></div>`,
+      tags: ["Engine Room Fire","Bulk Carrier","Fuel System Failure","NTSB Investigation"],
+      link: "https://gcaptain.com/ntsb-boiler-fuel-leak-sparked-5-5m-engine-room-fire-on-bulker-in-mobile/",
+      coords: [-88.2434,30.6954],
+      location: "Mobile, Alabama (Alabama State Docks)"
+    }
+  ]
+});
+
+// Auto-collected: 2026-04-07
+addEvents({
+  "2026-04-07": [
+    {
+      type: "news",
+      title: "Tech Talk: Time to Rethink Watchkeeping - Digital Watchkeepers and Human-Automation Interaction on Bridge",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-07",
+      image: "https://images.marinelink.com/images/maritime/w800/robosys-automations-169580.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **핵심 문제**: UK MAIB의 2025년 보고서에 따르면 선박 간 충돌이 감소하지 않고 있으며, 이는 디지털 시대에서 인간 해양당직자의 역할 재검토 필요성을 강조 (Scot Explorer-Happy Falcon, Verity-Polesie, Solong-Stena Immaculate 충돌 사례 언급)</p><p>• **인간 모니터링의 한계**: 과소 자극 상태에서 인간은 다른 업무에 집중하기 쉬우며, 시스템의 경보 기능 활용에 소극적인 경향이 있음</p><p>• **ABB의 자동화 연구**: Kalevi Tervo (ABB Marine & Ports)는 ECAMARIS 프로젝트를 통해 인간과 자동화 기술의 근본적 차이를 입증, SOLAS의 '동등 이상 성능' 요구사항의 의미 재검토 필요</p><p>• **디지털 선원 개념**: 자동화 시스템을 '디지털 선원'으로 보면, 이는 정의된 작동 범위(operational envelope) 내에서만 작동하는 반면 인간은 더 유연한 대응이 가능</p><p>• **팀워크의 중요성**: 효과적인 운항은 기술뿐 아니라 선원 간 팀워크에 의존하며, 인간 당직자의 미문서화된 작업과 창의적 판단이 중요한 역할 수행</p><p>• **산업적 전환**: 자동화 기능의 급속한 도입으로 인해 선교 내 인간-기술 관계가 복잡하고 빠르게 진화 중</p><h3>Key Quotes</h3><p>• **"The more we work with the topic, the clearer it becomes that humans and automation are fundamentally different. So different that the International Convention for the Safety of Life at Sea (SOLAS) regulations' demand for automation systems to deliver 'equivalent or better' performance than humans loses its meaning –at least on a function level."** (인간과 자동화는 근본적으로 다르기 때문에 SOLAS의 동등 이상 성능 요구가 기능 수준에서는 의미를 잃는다)</p><p>• **"Humans do not make good monitors and if under-stimulated they will find other things to occupy themselves."** (저자극 상태의 인간은 좋은 모니터 역할을 하지 못하고 다른 업무에 집중하는 경향이 있다)</p><p>• **"When we automate part of the work that was previously done by a human, in one sense we create a 'digital crew member' to work relentlessly alongside the humans on board."** (인간의 업무를 자동화하면 선교 내에서 인간과 함께 일할 '디지털 선원'을 만드는 것이다)</p><h3>Technical Insights</h3><p>• **SOLAS 규정 재검토 필요성**: 국제 해상인명안전협약(SOLAS)의 자동화 시스템 성능 기준이 인간과 기계의 근본적 차이를 반영하지 못하고 있으며, IMO는 새로운 성능 기준 개발 검토 필요</p><p>• **당직체계의 혁신적 재설계**: 기존의 인간-중심 당직 개념에서 벗어나 인간-자동화 협업 모델로 전환 필요, 특히 자동화 시스템의 작동 범위 한계와 인간의 유연한 판단력 결합이 핵심</p><p>• **선원 역량의 재정의**: 디지털 당직자 시대에서 선원은 단순 정보 전달자가 아닌 자동화 시스템 감시자이자 상황 판단자로의 역할 변화, 미문서화된 암묵적 지식의 중요성 증대</p><p>• **산업 표준화 과제**: ECAMARIS 프로젝트 결과를 토대로 IMO, 선급협회(Classification Societies), 선사가 함께 인간-기계 인터페이스 설계 및 당직 기준 표준화 추진 필요</p></div>`,
+      tags: ["Watchkeeping","Bridge Operations","Human-Automation Interaction","Collision Prevention","Maritime Safety","Autonomous Systems","SOLAS","IMO Regulations"],
+      link: "https://www.marinelink.com/news/tech-talk-time-rethink-watchkeeping-537778",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "HII Partners with GrayMatter Robotics to Integrate Physical AI into Shipbuilding Operations",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-07",
+      image: "https://images.marinelink.com/images/maritime/w800/credit-graymatter-169606.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• HII(Huntington Ingalls Industries)와 GrayMatter Robotics가 조선소 자동화를 위한 물리적 AI 통합에 관한 양해각서 체결<br>• 표면 준비, 코팅, 검사 등 주요 조선 공정에 자율 로봇 기술 도입 예정<br>• HII는 2025년 생산량 14% 증가에 이어 2026년 추가 15% 증가 목표 달성을 위해 협력<br>• High-Yield Production Robotics(HYPR) 이니셔티브와 GMR 기술 통합으로 미해군 함정 건조 효율성 극대화 추진<br>• 자동화된 샌드블래스팅, 그라인딩, 코팅 작업으로 인력 보강 및 품질 저하 없는 생산성 향상 기대</p><h3>Key Quotes</h3><p>• "Our shipbuilding throughput was up 14% in 2025 and we are looking for an additional 15% increase in 2026" (2025년 조선 생산량이 14% 증가했으며 2026년에는 추가로 15% 증가를 목표로 함)</p><p>• "By working with new partners like GMR we can further augment our workforce and speed up U.S. Navy shipbuilding production" (GMR과 같은 새로운 파트너와의 협력으로 인력을 보강하고 미해군 함정 건조 속도 가속화 가능)</p><p>• "AI‑driven technologies offer promising opportunities to support these critical processes by reducing repetitive work and improving consistency" (AI 기술은 반복 작업을 줄이고 일관성을 높여 핵심 공정을 지원할 수 있는 유망한 기회 제공)</p><h3>Technical Insights</h3><p>• **Physical AI 기반 조선 자동화**: GrayMatter Robotics의 물리적 AI를 샌드블래스팅, 그라인딩, 코팅 등 숙련도 높은 반복 작업에 적용하여 생산성과 품질 균형 달성 가능<br>• **미해군 조선 효율성 혁신**: HYPR 이니셔티브와 AI 로봇 통합으로 복잡한 함정 건조 일정 단축 및 대량 생산 체계 구축으로 국방력 강화 기대<br>• **산업 인력 구조 변화**: 자동화 확대에 따른 근로자 재교육 및 숙련 인력의 고부가가치 작업 전환 필요성 증대<br>• **해양 방위산업 경쟁력**: 미국의 조선산업 르네상스 추세 속에서 AI/로봇 기술 선제적 도입으로 글로벌 해양 방위 산업에서의 경쟁 우위 강화</p></div>`,
+      tags: ["AI Shipbuilding","Autonomous Manufacturing","Physical AI","U.S. Navy","Industrial Robotics"],
+      link: "https://www.marinelink.com/news/hii-teams-graymatter-robotics-integrate-537787",
+      coords: [-76.3,37],
+      location: "Newport News, Virginia (HII headquarters)"
+    },
+    {
+      type: "news",
+      title: "Massive Increase in Oil Transport Through Danish Waters: 58% Rise Since 2021",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-07",
+      image: "https://images.marinelink.com/images/maritime/w800/peter-hermes-169599.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **덴마크 해역 원유 운송량 급증**: 2021년 대비 2025년 상반기 58% 증가, 일일 490만 배럴 수송으로 수에즈 운하와 동등 규모 달성</p><p>• **지정학적 영향**: 러시아-우크라이나 전쟁 이후 국제제재로 인해 러시아 원유의 발틱해 경로 운송 대폭 증가, 독일·폴란드의 노르웨이·미국산 원유 수입 증가</p><p>• **섀도우 플릿(Shadow Fleet) 위험**: 러시아 원유의 상당 부분이 보험·소유권이 불명확한 노후 선박으로 운송되어 환경재해 위험성 대폭 증가</p><p>• **해양환경 대비 미흡**: 덴마크는 현재 대규모 원유유출 사고 대응을 위한 해양환경 대비태세 부족 상황으로, 신정부의 우선 과제로 지적</p><p>• **글로벌 해상 운송로 변화**: 홍해 후티 공격으로 수에즈운하 경유 운송량 급감하고 아프리카 우회 운송 증가, 말라카해협·호르무즈해협은 여전히 일일 2,000만 배럴 이상 운송</p><p>• **운영 기관**: 덴마크해운협회(Danske Rederier) CEO Anne H. Steffensen 발표</p><h3>Key Quotes</h3><p>• "The international sanctions imposed on Russia as a consequence of their invasion of Ukraine have meant that a much larger part of Russian oil exports are now shipped to the world market through the Baltic Sea than before." <br>(러시아-우크라이나 전쟁으로 인한 국제제재가 러시아 원유 수출의 상당 부분을 발틱해 경로로 재편성했음)</p><p>• "It obviously increases the concern about an oil disaster in Danish waters when such large – and increasing – quantities of oil are shipped close to our coasts every day on ships of questionable quality."<br>(품질이 의심스러운 선박들이 매일 증가하는 대량의 원유를 덴마크 연안 근처로 운송함에 따라 원유유출 사고 우려가 심각해짐)</p><p>• "Unfortunately, today we do not have the necessary marine environmental preparedness in place to handle such a disaster – God forbid – should happen."<br>(현재 대규모 해양환경 재해에 대응할 충분한 대비태세가 부재한 상황)</p><h3>Technical Insights</h3><p>• **섀도우 플릿 운영의 규제 공백**: COLREG 및 IMO 국제해사규칙 준수 미흡, 보험·등록 불명확 선박 증가로 해상 안전 관리 체계의 한계 노출</p><p>• **해상교통관리(VTS) 강화 필요성**: 덴마크 해역의 교통량 증가(일일 490만 배럴)에 대응하기 위한 고도화된 해상교통관제, 원유 운송선 모니터링 강화 필수</p><p>• **환경 리스크 및 산업 영향**: 대규모 원유유출 사고 발생 시 해양생태계, 관광산업, 어업 등 광범위한 경제 피해 초래 가능, 해운사 및 정부 차원의 예방적 대응책 시급</p><p>• **글로벌 지정학적 변화와 해운 네트워크 재편**: 수에즈운하·말라카해협 대체로 덴마크 해역의 전략적 중요성 증대, 북유럽 항만 및 해상 인프라 확충 필요</p></div>`,
+      tags: ["Oil Transport","Danish Waters","Geopolitics","Sanctions","Shadow Fleet","Environmental Risk"],
+      link: "https://www.marinelink.com/news/massive-increase-oil-transport-danish-537784",
+      coords: [10.5,55.5],
+      location: "Great Belt and Sound, Denmark"
+    },
+    {
+      type: "news",
+      title: "Japan and South Korea Advance Autonomous Navigation with Key Certifications",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-04-07",
+      image: "https://maritime-executive.com/media/images/article/Photos/Vessels_Small/Genbu-Japanese-domestic-containership.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **일본의 MEGURI2040 프로젝트**: 일본재단이 후원하는 자율항해 프로젝트에서 겐부(Genbu) 컨테이너선이 ClassNK로부터 완전 자율항해 표기를 획득하여 중·장거리 연안항로 운영 최초 사례 달성</p><p>• **선박 사양**: 겐부는 5,374톤 적재량, 134미터 길이, 696TEU 적재 용량의 신조선으로 교쿄요조선소에서 건조되고 시연 및 인증 완료</p><p>• **한국의 HiNAS Control 시스템**: 현대중공업의 자율항해 자회사 아비쿠스(Avikus)가 노르웨이 DNV와 3년간 협력하여 개발한 자율항해 지원 시스템이 최초로 형식승인(Type Approval) 획득</p><p>• **국제 표준 부재와 업계 대응**: 아직 국제 자율항해 표준이 확립되지 않았으나, ClassNK와 DNV가 주도적으로 지침 및 검증 프레임워크 개발 중</p><p>• **산업적 의의**: 기존 개별 선박별 맞춤형 시스템에서 벗어나 대량생산 가능한 다중 선박용 자율항해 시스템의 인증으로 상용화 가속화 전망</p><p>• **일본의 정책 배경**: 고령화되는 해기사 인력과 감소하는 선원 수에 대응하며 섬나라의 해상 공급망 유지 필요성이 주요 추진 동기</p><h3>Key Quotes</h3><p>• "The efforts are aimed at improving safety by preventing human error and at improving the working conditions for seafarers by reducing the workload." (인적 오류 방지로 안전성 개선 및 업무 부담 경감으로 해기사의 근무 조건 개선을 목표로 함)</p><p>• "This is the first time a mass-produced autonomous navigation system that was designed for multiple vessel types has gained recognition." (다중 선박 유형을 위해 설계된 대량생산 자율항해 시스템이 처음으로 인정받은 획기적 사례)</p><p>• "By gaining the Type Approval, HiNas Control can be installed without additional verification, which Avikus says will improve deployment efficiency." (형식승인 획득으로 추가 검증 없이 설치 가능하여 배포 효율성이 크게 향상될 것으로 예상)</p><h3>Technical Insights</h3><p>• **ClassNK와 DNV의 역할 강화**: 국제 해사 규제 공백을 민간 선급기관이 주도적으로 자율항해 지침 및 검증 체계 개발함으로써 IMO 국제 표준화 이전에 사실상 업계 표준 선도</p><p>• **형식승인 제도의 경제적 파급효과**: 개별 선박 프로젝트별 맞춤 인증에서 표준화된 대량생산 시스템으로의 전환은 도입 비용 감소 및 해운사의 자율항해 기술 채택 가속화 촉발</p><p>• **COLREG 준수 체계 미비**: 완전 자율항해 운영 시 국제 해상 충돌 회피 규칙(COLREG) 준수 메커니즘이 아직 구체적으로 입법화되지 않아 실제 상용 운항 시 법적·기술적 과제 남존</p><p>• **노동집약적 해운업의 구조 전환**: 선원 감소 및 고령화 대응 차원에서 자율항해 도입이 필수적 이슈인 일본·한국의 경쟁력 강화 전략으로, 향후 글로벌 표준 제정 과정에서 이들 국가의 영향력 확대 예상</p></div>`,
+      tags: ["Autonomous Ships","AI Navigation","Japan","South Korea","ClassNK","DNV","Maritime Technology"],
+      link: "https://maritime-executive.com/article/japan-and-south-korea-advance-autonomous-navigation",
+      coords: [0,0],
+      location: "Japan and South Korea"
+    }
+  ]
+});
