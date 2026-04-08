@@ -3663,3 +3663,64 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-06
+addEvents({
+  "2026-04-06": [
+    {
+      type: "accident",
+      title: "Ukraine Strikes Russian Frigate Admiral Makarov and Oil Terminal in Novorossiysk Attack",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-04-06",
+      image: "https://maritime-executive.com/media/images/article/Photos/Navy_Govt_CoastGuard/Admiral-Makarov-attack.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 우크라이나가 노보로시스크 러시아 흑해함대 기지에서 대규모 드론 공격을 실행, 프로젝트 11356급 프리깃함 '아드미럴 마카로프'에 타격을 입혔으며 유조유 터미널에도 광범위한 피해 발생</p><p>• 타격 대상함정: 아드미럴 마카로프 (3,260톤급, 2018년 취역, 길이 125m) - 2022년 이후 재차 공격 받음</p><p>• 러시아는 3시간 동안 약 150대의 드론을 격추했다고 주장하며, 함정의 대공미사일 방어시스템도 작동</p><p>• 노보로시스크 유조유 터미널은 카스피파이프라인 컨소시엄의 종착점으로 러시아 석유 수출의 약 25%를 차지하며 지난 11월부터 다섯 차례 공격 받음</p><p>• 우크라이나는 또한 흑해에서 감시·통신·정보 수집용으로 사용 중인 자체상승식 석유시추 플랫폼 '시바시'도 표적으로 설정</p><p>• 공격으로 인한 화재, 정전, 민간인 8명 부상 발생 및 주택 피해 보고</p><h3>Key Quotes</h3><p>• "In what is being called one of the most ambitious attacks staged on the Russian Black Sea port of Novorossiysk, Ukraine claimed a successful hit on one of the Russian frigates homeported in the region" (노보로시스크 러시아 흑해항에 대한 가장 야심찬 공격 중 하나로 평가되며, 우크라이나가 모항에 있던 러시아 함정에 성공적으로 타격을 입혔다고 주장)</p><p>• "It is a key oil terminal and would factor in Ukraine's recent efforts to dramatically impact Russia's oil economy" (노보로시스크 터미널은 핵심 석유 터미널로서 우크라이나의 러시아 석유 경제에 대한 광범위한 타격 전략의 일환)</p><p>• "Novorossiysk is the terminus for the Caspian Pipeline Consortium. It is reported to represent as much as a quarter of Russia's oil exports" (노보로시스크는 카스피파이프라인의 종착점으로 러시아 전체 석유 수출의 약 25%를 담당)</p><h3>Technical Insights</h3><p>• **군사 인프라 타격 전술**: 우크라이나의 대규모 드론 스웜(50대 이상) 공격은 러시아 해군 함정과 에너지 인프라를 동시에 목표로 하는 다층 전략으로, 방어 자원 분산을 통한 타격 효율성 극대화를 의도</p><p>• **흑해 해상 통제 영향**: 프리깃함 손상으로 인한 러시아 흑해함대의 전투력 약화는 우크라이나의 해상 통로 확보 및 곡물 수출 루트 보호에 긍정적 영향, 향후 해상 분쟁 양상 변화 예상</p><p>• **에너지 시장 파급력**: 러시아 석유 수출의 1/4을 담당하는 노보로시스크 터미널에 대한 반복적 타격은 글로벌 에너지 공급망 및 국제 유가에 직결되는 중대 이슈로, 각국의 해상 운송 보험료 및 운영비용 상승 초래</p><p>• **해상 인프라 보호 과제**: 자체상승식 석유시추 플랫폼(Syvash) 공격은 전략적 해상 시설에 대한 드론 위협 증대를 시사하며, IMO 및 해운국들의 해상 시설 보안 기준 강화 필요성 대두</p></div>`,
+      tags: ["military conflict","Black Sea","frigate damage","oil terminal attack","Ukraine-Russia"],
+      link: "https://maritime-executive.com/article/ukraine-strikes-frigate-and-oil-terminal-in-massive-attack-on-novorossiysk",
+      coords: [37.7693,44.6209],
+      location: "Novorossiysk, Black Sea"
+    },
+    {
+      type: "news",
+      title: "Orca AI Receives ClassNK Qualification for Autonomous Ship Perception",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-04-06",
+      image: "https://maritime-executive.com/media/images/article/unnamed-2-.7ab0db.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Orca AI의 자율항해 플랫폼이 일본 선박검사협회(ClassNK)로부터 공식 기술 인증(Technology Qualification)을 획득하여 AI 및 컴퓨터 비전 기술이 자율항해 요구사항을 충족함을 확인<br>• MTI(NYK Group 소속)가 주도하는 DFFAS+ 프로젝트의 기함인 겐부(Genbu)호가 자동항해선박 표기(Automatic Navigation Vessel Notation)와 자율선박 인증(Autonomous Vessel Certification) 획득<br>• Orca AI의 3개 SeaPod 감시장치가 고감도 RGB 및 열화상 카메라로 360도 전방향 시야를 제공하여 추월 선박 탐지, 해적 위협 감시, 및 장비 차폐 극복 가능<br>• 일본 니폰 재단의 MEGURI2040 프로그램 2단계로 51개 기업이 참여하는 상용 자율선박 운항 실현 프로젝트<br>• MTI와 Orca AI의 3년 전 일본 동해안 인근 자율항해 시범 운항 성공에 이은 두 번째 협력</p><h3>Key Quotes</h3><p>• "ClassNK's Technology Qualification is a key step in moving autonomous vessel operations from trials to practical deployment" (자율선박 운항을 시범 단계에서 실제 운영으로 전환하는 핵심 단계)<br>• "This qualification confirms that Orca AI's perception capability is a validated source of real-time perception data for autonomous navigation systems" (Orca AI의 인지 능력이 자율항해 시스템을 위한 검증된 실시간 감지 데이터 소스임을 확인)</p><h3>Technical Insights</h3><p>• **AI 비전 기술의 규제 인정**: ClassNK의 기술 인증은 AI 기반 물체 탐지 및 상황 인식 시스템이 국제 해사 규제 기준을 충족하는 검증된 기술임을 공식 인정한 것으로, 자율선박의 상용화 가속화에 중요한 이정표<br>• **360도 전방향 감시 시스템의 실용성**: 크레인, 풍력 로터돛 등 선박 구조물로 인한 시계 제약을 극복한 다중 카메라 시스템은 COLREG(해상충돌방지규칙) 준수를 위한 필수 기술이며, 해적 위협 및 추월 선박 탐지 능력 강화<br>• **일본의 해운산업 국제경쟁력 강화**: MEGURI2040 프로젝트를 통한 자율선박 기술 표준화 및 상용 배포 추진은 일본 해운산업의 국제적 주도권 확보 목표와 부합하며, 향후 해운 탈탄소화와 안전성 향상에 기여할 것으로 예상<br>• **산업 표준화 진전**: MTI와 ClassNK의 협력을 통한 체계적인 기술 검증 절차는 향후 자율선박 운항의 국제 기준 수립 및 IMO 규제 개발에 중요한 기초 자료가 될 것으로 전망</p></div>`,
+      tags: ["Autonomous Ships","AI Navigation","ClassNK Certification","DFFAS+ Project"],
+      link: "https://maritime-executive.com/article/orca-ai-receives-classnk-qualification-for-autonomous-ship-perception",
+      coords: [139.6917,35.6895],
+      location: "Japan"
+    }
+  ]
+});
+
+// Auto-collected: 2026-04-07
+addEvents({
+  "2026-04-07": [
+    {
+      type: "news",
+      title: "Kraken Robotics Demonstrates KATFISH Autonomous Launch and Recovery from SEFINE USV",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-04-07",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/04/KATFISH-SEFINE-USV.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **KATFISH 자율 발사/회수 시스템 성공**: Kraken Robotics가 SEFINE의 RD-22 무인수상함(USV)으로부터 KATFISH 견인형 합성 개구레이더(SAR) 소나의 자율 발사 및 회수 시연 성공<br>• **고성능 센서 데이터**: KATFISH가 200m 거리에서 3cm × 3cm 해상도의 광학급 영상 데이터를 실시간으로 전송하여 광학 분류 가능<br>• **해군 방위 강화**: 해상 채광, 수중 기반시설 감시, 기뢰탐지 등 현대해전 작전에 필수적인 자율 기뢰전 대응능력 제공<br>• **모듈식 다중역할 플랫폼**: SEFINE의 다중역할 USV와 Kraken의 KATFISH/LARS 결합으로 빠르고 비용효율적인 해군 작전 지원 가능<br>• **국제군 협력**: 터키 해군, 영국 해군(Royal Navy) 포함 다수 해군 및 정부기관이 참여한 대규모 시연으로 국제 해양방위 표준화 선도<br>• **이중 플랫폼 검증**: 2025년 11월 영국 Royal Navy 11m ARCIMS USV에서도 동일 시스템 시연으로 상용화 준비 완료</p><h3>Key Quotes</h3><p>• "Recent developments underscore the importance of safeguarding critical maritime transit routes and underwater infrastructure, and autonomous mine countermeasure capabilities like KATFISH can play an important role in helping navies efficiently detect and classify mine-like objects" (최근 발전은 중요한 해상 통로와 수중 기반시설 보호의 중요성을 강조하며, KATFISH와 같은 자율 기뢰전 대응능력은 해군이 기뢰 유사 물체를 효율적으로 탐지·분류하는 데 중요한 역할을 수행할 수 있음)</p><p>• "KATFISH delivered 3 cm x 3 cm resolution data at a range of 200 meters per side which was live streamed to a command center onshore, enabling real-time classification of contacts by operators" (KATFISH는 200m 거리에서 3cm×3cm 해상도 데이터를 제공하여 육상 지휘소로 실시간 중계됨으로써 운영자의 실시간 접촉 분류 가능)</p><h3>Technical Insights</h3><p>• **자율 발사/회수(LARS) 기술의 혁신**: USV로부터의 완전 자율 KATFISH 탑재/회수 시스템은 해상 작전의 자동화 수준을 높이고 인명 손실 위험 최소화, 작전 신속성 극대화<br>• **합성개구레이더(SAR) 기술의 실용화**: 3cm 고해상도 수중 광학 이미지 생성으로 수중 기뢰, 침몰선박, 해저 케이블 등 미세한 수중 물체 탐지 가능 - 해양 인프라 방위의 패러다임 전환<br>• **IMO/COLREG 준수 자율시스템**: 다중역할 모듈식 USV 플랫폼의 국제 표준화 추진으로 각국 해군의 상호운용성(interoperability) 증대 및 국제해상법 준수 기반 마련<br>• **민간 해상산업으로의 파급 가능성**: 기뢰전 기술 외에도 해저 파이프라인 검사, 해양 에너지 시설 모니터링, 해상 환경조사 등 민간 분야 자율 로봇 플랫폼으로 확대 가능성</p></div>`,
+      tags: ["autonomous systems","USV","KATFISH sonar","mine countermeasures","naval defense"],
+      link: "https://www.navalnews.com/naval-news/2026/04/kraken-robotics-demonstrates-katfish-autonomous-launch-and-recovery-from-sefine-usv/",
+      coords: [28.9784,41.0082],
+      location: "İstanbul, Türkiye"
+    },
+    {
+      type: "news",
+      title: "New Ukrainian Armed Sea Drone Spotted Near Russian Naval Base at Novorossiysk",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-04-07",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 우크라이나가 원격 조종 기관총 마운트가 장착된 새로운 해상 무인기를 개발·운용 중임을 확인<br>• 노보로시스크 러시아 해군기지를 향한 대규모 드론 공격에 참여한 무인표면함정(USV) 목격<br>• 러시아 정찰 채널을 통해 유포된 영상에 다수의 공격 드론 파동이 항구로 향하는 모습 포착<br>• 무인 표면함정의 무장화 및 자율 운용 능력 향상으로 해상 전역에서의 전술적 변화 시사<br>• 해양 무인기술의 군사적 활용 사례로서 국제해사법(COLREG) 준수 및 규제 체계 마련 필요성 증대</p><h3>Key Quotes</h3><p>• "A newly identified Ukrainian sea drone fitted with a remotely operated machine-gun mount was spotted during a recent strike attempt on Russia's naval base at Novorossiysk." (우크라이나의 새로운 해상 드론이 원격 조종식 기관총이 장착되어 러시아 노보로시스크 해군기지 공격에 사용됨)</p><p>• "Footage circulated by Russian reconnaissance channels appears to show the unmanned surface vessel moving as part of a larger wave of attack drones heading toward the port." (러시아 정찰 채널의 영상에 무인 표면함정이 대규모 공격 드론 파동의 일부로 항구를 향해 이동하는 모습이 나타남)</p><h3>Technical Insights</h3><p>• 무인표면함정(USV)의 무장화 추세: 기관총 등 원격 조종식 무기 탑재로 공격 능력 강화 및 전술 운용 범위 확대<br>• 자율 해상 작전의 현실화: 다수의 무인기가 조직적으로 운용되는 스웜 무인기 전술의 실전 사례로, 해양 방위 시스템 개선 필요<br>• 국제해사규칙(COLREG) 적용 한계: 군사용 무인기에 대한 명확한 규제 및 교전규칙(Rules of Engagement) 수립 필요성 제기<br>• IMO 및 국방부 협력 필요: 민간해상 안전과 군사작전 간의 경계 설정 및 국제해사법 개정 논의 촉진</p></div>`,
+      tags: ["Autonomous Weapons","Naval Drones","Unmanned Surface Vessel","Ukraine-Russia Conflict"],
+      link: "https://defence-blog.com/new-ukrainian-armed-sea-drone-spotted-near-russian-base/",
+      coords: [37.7695,44.6209],
+      location: "Novorossiysk, Russia"
+    }
+  ]
+});
