@@ -3768,3 +3768,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-08
+addEvents({
+  "2026-04-08": [
+    {
+      type: "news",
+      title: "Maersk Cautious on Strait of Hormuz Shipping Despite US-Iran Ceasefire",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-08",
+      image: "https://gcaptain.com/wp-content/uploads/2023/12/maersk-navy-convoy-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 미국-이란 간 2주 휴전협정 체결되었으나, 마에스크는 해운 운영 정상화에는 아직 보안 확실성 부족으로 신중한 입장 유지<br>• 2월 미국-이스라엘의 이란 공격 이후 호르무즈 해협 폐쇄로 걸프만 해운 거의 중단, 글로벌 공급망에 영향<br>• 마에스크는 걸프만 항구 화물 예약 중단, 전 세계 비상용 벙커유 할증료 도입으로 대응<br>• 해상 운송 재개 여부는 지속적인 위험 평가, 보안 상황 모니터링, 관련 기관 지침에 따라 결정 예정<br>• 현재 사우디아라비아 제다, 오만 살라라/소하르, UAE 호르파칸 등 지역 항구를 통한 '육상 연결 시스템'으로 우회 운영 중</p><h3>Key Quotes</h3><br>• "At this point, we take a cautious approach, and we are not making any changes to specific services" (현재로서는 신중한 입장을 취하고 있으며 구체적 서비스 변경을 고려하지 않고 있음)<br>• "The ceasefire may create transit opportunities, but it does not yet provide full maritime certainty" (휴전협정은 운송 기회를 제공할 수 있지만 완전한 해상 확실성을 아직 제공하지 못함)<br>• "Any decision to transit the Strait of Hormuz will be based on continuous risk assessments, close monitoring of the security situation, and available guidance from relevant authorities" (호르무즈 해협 통과 결정은 지속적인 위험 평가와 보안 상황 모니터링, 관련 기관의 지침에 기반)</p><h3>Technical Insights</h3><br>• 호르무즈 해협 폐쇄로 인한 글로벌 컨테이너 운송 차질은 IMO 및 국제 해운 업계의 해로 안전 및 자유로운 항행권에 대한 논의 촉발<br>• 마에스크의 육상 연결 시스템(Land-bridge) 도입은 지정학적 위험 회피 전략으로, 향후 자율운항선박(MASS) 도입 시 경로 선택 알고리즘에 영향 미칠 가능성<br>• 지정학적 해상 분쟁 악화 시 해양 보안 기술(AIS, 해상 감시 시스템)의 중요성 증대 및 자율운항선박의 리스크 관리 강화 필요성 대두</p></div>`,
+      tags: ["Strait of Hormuz","US-Iran tensions","Container shipping","Supply chain disruption","Maritime security"],
+      link: "https://gcaptain.com/maersk-cautious-on-strait-of-hormuz-shipping-despite-us-iran-ceasefire/",
+      coords: [55.1,26.2],
+      location: "Strait of Hormuz, Gulf of Aden"
+    },
+    {
+      type: "news",
+      title: "US–Iran Temporary Ceasefire Deal Reopens Strait of Hormuz with Conditional Access",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-08",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/2026-04-07T211027Z_2026438096_RC2UJKAMYDZN_RTRMADP_3_USA-TRUMP-IRAN-CIVILIZATION.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국과 이란이 호르무즈 해협 재개에 합의한 임시 휴전 협정 체결 - 2주간 미국의 폭격 중단, 이란의 해협 통행 허용<br>• 이란은 "이란 무장군과의 조율"을 조건으로 선박 통행 허용하며, 미국은 "완전하고 즉각적이며 안전한 개방"이라고 표현해 입장 차이 존재<br>• 호르무즈 해협은 전 세계 석유 유량의 약 20% 운송하는 전략적 수로로, 이 협정은 글로벌 해운 위기의 첫 번째 외교적 돌파구<br>• 파키스탄 중재로 성사된 협정이며, 이란의 10개 항목 제안을 기반으로 한 더 광범위한 협상 틀의 첫 단계<br>• 업계 우려사항: 제한된 통행권은 전쟁 위험 보험료 상승, 해운 경로 혼란, 통행료 청구 가능성(항해당 최대 200만 달러) 등으로 해운 정상화 지연 가능</p><h3>Key Quotes</h3><p>• "The agreement enabling the 'complete, immediate, and safe opening' of the Strait of Hormuz" (호르무즈 해협의 완전하고 즉각적이며 안전한 개방을 가능하게 하는 협정)</p><p>• "Safe passage would be permitted via coordination with Iran's Armed Forces" (이란 무장군과의 조율을 통해 안전한 통행 허용) - 이는 이란의 주권적 감시와 통제 권리를 암시</p><h3>Technical Insights</h3><p>• **해협 통행의 자유 vs. 국가 주권 간 긴장**: 국제해사법(UNCLOS)에서 규정한 '해협통항권(Transit Passage)' 원칙과 이란의 조율 조건이 충돌하며, 이는 향후 국제 해운 규범 재검토로 이어질 수 있음</p><p>• **전쟁위험보험료(War Risk Premium) 장기화 우려**: 완전한 통행 자유가 복구되지 않으면 선박보험료 상승, 운송 지연, 대체 항로 사용으로 인한 운송비 증가로 글로벌 에너지 및 무역 체계에 장기적 충격 예상</p><p>• **통행료 징수 가능성의 국제법적 함의**: 호르무즈 해협에서의 통행료 청구는 국제 자유항해 원칙 위반으로 IMO, UNCLOS 체제 재정의의 선례가 될 수 있으며, 다른 전략적 해협(말라카 해협 등) 통제권 분쟁으로 확대될 위험</p></div>`,
+      tags: ["Strait of Hormuz","US-Iran Relations","Shipping Crisis","Geopolitical Risk","War Risk Premium"],
+      link: "https://gcaptain.com/us-iran-temporary-ceasefire-deal-reopens-hormuz-with-major-strings-attached/",
+      coords: [56.14,26.57],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "Shippers Seek Clarity on Hormuz Strait Reopening After US-Iran Ceasefire",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-08",
+      image: "https://images.marinelink.com/images/maritime/w800/-169636.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 6주간의 미국-이란 분쟁으로 호르무즈 해협 통행이 거의 전면 중단되었으나, 휴전 이후 첫 선박들이 이란의 허가 하에 통행 개시</p><p>• 호르무즈 해협은 전 세계 원유 및 LNG 화물의 약 20%를 수송하는 주요 해상 통로로, 글로벌 에너지 가격 급등 초래</p><p>• 메르스크(Maersk), 하팍로이드(Hapag-Lloyd) 등 주요 해운사들은 휴전의 안정성 확보 전까지 신중한 입장 유지</p><p>• 호르무즈 해협 통행 정상화에는 최소 6~8주 소요 예상되며, 만재 유조선 187척(원유 및 정제유 1억7200만 배럴)이 페르시아만 내 대기 중</p><p>• 이란 해안경비대는 사전 조율 없는 통행 선박에 대해 "표적화되어 파괴될 것"이라고 경고, 해운 안전에 대한 우려 지속</p><h3>Key Quotes</h3><p>• "I want to see the fine print" (상세한 조건을 확인해야 한다) - Frontline 유조선 회사 CEO Lars Barstad가 휴전의 실제 의미를 파악해야 한다는 입장 표현</p><p>• "Vessels leaving the Gulf without prior coordination with U.S. and Iranian authorities would face heightened risk" (미국과 이란 당국과 사전 조율 없이 만을 떠나는 선박들은 높은 위험에 직면할 것) - Bimco 안전·보안 책임자 Jakob Larsen의 경고</p><p>• "We expect tankers and oil flowing to Iranian-friendly countries to be the first ones to transit" (이란 우호국으로 향하는 유조선과 석유가 가장 먼저 통행할 것으로 예상) - Oil Brokerage 해운 연구 글로벌 책임자 Anoop Singh의 분석</p><h3>Technical Insights</h3><p>• 호르무즈 해협의 재개통으로 인해 VLCC(초대형 유조선) 50척 이상과 수에즈맥스 약 15척이 페르시아만을 빠져나갈 것으로 예상되며, 이는 국제 해운 물류 정상화의 주요 지표</p><p>• IMO 사무총장의 성명에서 선원의 건강과 복지, 전 지구적 해운산업의 안정이 강조되었으나, 현재 불명확한 통행 규칙으로 인해 해상 안전 체계의 개선 필요성 대두</p><p>• 미국-이란 당국과의 사전 조율 체계 미흡으로 인한 선박 안전 위험이 증대되었으며, 국제 해운 규정 및 해상 교통관리 체계의 국제적 합의 강화 필요</p><p>• 아시아 정제소 및 주요 에너지 기업의 페르시아만 화물 로딩 관심 증가는 글로벌 에너지 공급망 정상화의 긍정적 신호이나, 완전한 신뢰 회복까지 상당한 시간 소요 예상</p></div>`,
+      tags: ["Strait of Hormuz","US-Iran Ceasefire","Shipping Operations","Oil Tankers"],
+      link: "https://www.marinelink.com/news/shippers-look-clarity-reopening-hormuz-537821",
+      coords: [56.2436,26.1551],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
