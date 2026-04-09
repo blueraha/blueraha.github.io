@@ -3724,3 +3724,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-08
+addEvents({
+  "2026-04-08": [
+    {
+      type: "news",
+      title: "Hapag-Lloyd Warns of Slow Return to Gulf Shipping After U.S.-Iran Ceasefire, Rising Disruption Costs",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-08",
+      image: "https://gcaptain.com/wp-content/uploads/2024/10/Hapag-Lloyd-containership-800x533.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국-이란 휴전 합의에도 불구하고 호르무즈 해협을 통한 해운 정상화에는 6~8주가 소요될 것으로 예상<br>• Hapag-Lloyd CEO Rolf Habben Jansen은 중동 상황이 여전히 "매우 유동적"이며 추가 안보 보장이 필요하다고 경고<br>• 주간 경제적 손실액이 $40-50백만에서 $50-60백만으로 상향 조정되었으며, 기업은 비용을 고객에게 전가할 예정<br>• 약 1,000척의 선박이 지역 전역에 좌초 상태이며, Hapag-Lloyd 소유 6척은 총 25,000 TEU 용량 보유<br>• 덴마크 라이벌 Maersk 등 업계 전반에서 호르무즈 해협을 통한 안전한 통과 확보가 지속적 회복의 핵심이라고 강조</p><h3>Key Quotes</h3><p>• "Even if a ceasefire has now been agreed, the conflict is still severely disrupting shipping, but also supply chains" <br>(휴전이 합의되었어도 분쟁은 여전히 해운과 공급망을 심각하게 방해하고 있다)</p><p>• "the situation in the Middle East remained 'very fluid,' despite the tentative agreement, and continued to disrupt global shipping"<br>(예정된 합의에도 불구하고 중동 상황은 여전히 '유동적'이며 글로벌 해운을 계속 방해하고 있다)</p><h3>Technical Insights</h3><p>• 호르무즈 해협은 전 세계 해상 무역의 약 21%가 통과하는 전략적 병목 지점으로, 지정학적 긴장이 직접적인 경제 영향을 초래<br>• 선박 우회항로(rerouting) 및 추가 안보 조치로 인한 운영 비용 증가가 컨테이너선 운영사의 수익성을 직접 위협하는 상황<br>• IMO 해상안전 규정 준수와 함께 항로 안전성 확보가 글로벌 공급망 회복력(supply chain resilience) 강화의 핵심 요소로 대두<br>• 1,000척 이상의 선박 정체로 인한 해운 인프라 포화 및 항만 혼잡 해결에는 장기간의 운영 재조정이 불가피한 상황</p></div>`,
+      tags: ["Strait of Hormuz","U.S.-Iran Ceasefire","Supply Chain Disruption","Container Shipping"],
+      link: "https://gcaptain.com/hapag-lloyd-sees-slow-return-to-gulf-shipping-after-u-s-iran-ceasefire-warns-of-rising-disruption-costs/",
+      coords: [56.5,25.5],
+      location: "Strait of Hormuz / Persian Gulf"
+    },
+    {
+      type: "news",
+      title: "Shipowners Cautiously Await Guidance on Strait of Hormuz Transit Following US-Iran Ceasefire",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-08",
+      image: "https://gcaptain.com/wp-content/uploads/2026/03/2026-03-13T132054Z_226068626_RC2B2KAV46KA_RTRMADP_3_IRAN-CRISIS-WARFARE.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국-이란 2주간 휴전 협정과 호르무즈 해협 부분 재개 선언에도 불구하고, 페르시아 만에 갇힌 선박들은 명확한 운영 지침을 기다리며 신중한 태도를 유지 중</p><p>• BIMCO 안전보안 책임자 Jakob Larsen은 조정 없이 출항하면 위험이 높아지며, 다수 선박의 동시 출항 시 충돌/좌초 위험 증가 가능성 경고</p><p>• 이란의 군부 지휘구조 손상으로 인한 오인 공격 위험 및 대함 미사일, 드론, 연안포, 기뢰 등 상당한 군사력 보유로 인한 불확실성 존속</p><p>• 군사 호위 재개는 단기간 기대 어려우며, 휴전 상황 안정화 후 고려 가능</p><p>• 선박 출항 창은 2주간으로 제한되어 있어 페르시아 만으로의 광범위한 해운 복구 가능성 낮음</p><h3>Key Quotes</h3><p>• "Ships trapped in the Persian Gulf will be interested in leaving as soon as it is safe to do so. But leaving without prior coordination with the U.S. and Iran would entail heightened risk and would not be advisable." (페르시아 만에 갇힌 선박들은 안전해질 때 출항하기를 원하지만, 미국과 이란의 사전 조정 없는 출항은 위험을 증가시킬 것이므로 권장되지 않음)</p><p>• "Iran still has significant capabilities to control shipping through the Strait," (이란은 여전히 해협을 통한 해운을 통제할 수 있는 상당한 능력을 보유하고 있음)</p><h3>Technical Insights</h3><p>• 호르무즈 해협 같은 분쟁 지역에서의 선박 운항 안전성 확보를 위해서는 관련 국가 간 사전 조정 및 명확한 운영 프로토콜 수립이 필수적이며, 이는 국제해사기구(IMO) 차원의 분쟁 지역 해운 지침 강화 필요성을 시사</p><p>• 군사력 손상으로 인한 오인공격 위험 증가 현상은 자동항법 시스템과 AIS 투명성 강화를 통한 실시간 선박 정보 공유 메커니즘의 중요성을 부각</p><p>• 제한된 출항 창(2주)으로 인한 선박 혼잡 및 항행 위험 증가 우려는 AI 기반 트래픽 관리 및 동적 경로 최적화 시스템의 도입 필요성을 강조</p><p>• 장기적 해운 안정성 확보를 위해 고위험 해역 통과 선박에 대한 실시간 모니터링, 자동 회피 시스템(COLREG 준수), 통신 중단 시 자율 의사결정 능력 강화 필요</p></div>`,
+      tags: ["Strait of Hormuz","Ceasefire","Shipping Operations","Risk Management"],
+      link: "https://gcaptain.com/worlds-shipowners-are-eyeing-the-exit-but-theyre-not-rushing-for-it-just-yet/",
+      coords: [56.5,26.5],
+      location: "Strait of Hormuz, Persian Gulf"
+    },
+    {
+      type: "news",
+      title: "Shipowners Eye Hormuz Truce With 800 Vessels Still Trapped in Persian Gulf",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-08",
+      image: "https://gcaptain.com/wp-content/uploads/2026/03/2026-03-03T202420Z_971757570_RC20XJAYJDRL_RTRMADP_3_IRAN-CRISIS-US-OIL-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국-이란 휴전협상으로 호르무즈 해협의 2주간 임시 개방 합의 - 페르시아만에 갇혀있던 800척 이상의 선박 통행 가능성 증대<br>• 지난 2월 말 미국-이스라엘 공습 이후 이란의 해협 폐쇄로 인한 전례 없는 에너지 공급 위기 초래<br>• 갇혀있는 선대 구성: 유조선 426척, LPG선 34척, LNG선 19척 등 에너지 운송선 중심<br>• 선주들과 보험사들은 상황 악화 가능성에 대비하기 위해 신중한 입장 유지 중<br>• 트럼프 대통령은 "완전하고 즉각적인 개방"을 공언했으나 이란은 "기술적 제약 내에서" 실시할 것으로 주장<br>• 업계 전문가들은 24시간 내 글로벌 해운 흐름 정상화가 불가능하며 단계적 재개를 예상</p><h3>Key Quotes</h3><p>• "You don't switch global shipping flows back on in 24 hours. Tanker owners, insurers and crews need to believe the risk has actually reduced — not just paused." <br>(글로벌 해운 흐름을 24시간 내에 다시 시작할 수 없다. 유조선 선주, 보험사, 선원들은 위험이 실제로 감소했다고 믿어야 한다 - 단순히 일시 중단된 것이 아니라)</p><p>• "Even within a two-week window, we expect activity to restart in a measured manner rather than all at once."<br>(2주 기간 내에서도 모든 활동이 일시에 재개되지 않고 단계적으로 재개될 것으로 예상된다)</p><h3>Technical Insights</h3><p>• 호르무즈 해협 폐쇄로 인한 해운 산업의 극심한 대역폭 부하 - 평시 일일 135척 통행에서 극소수 수준으로 급감하면서 글로벌 에너지 유통망 마비<br>• 선박보험 및 선원 안전 기준 강화 필요 - 휴전협상의 지속가능성에 대한 신뢰 구축이 선박 통행 재개의 핵심 조건<br>• IMO 및 국제해사기구 차원의 전쟁지역 운항 지침 개정 검토 필요 - 지정학적 분쟁 상황에서의 해상 운송로 안정성 확보 메커니즘 구축 시급</p></div>`,
+      tags: ["Strait of Hormuz","US-Iran Ceasefire","Shipping Disruption","Energy Crisis"],
+      link: "https://gcaptain.com/shipowners-eye-hormuz-truce-with-800-vessels-still-trapped/",
+      coords: [56.1499,26.1367],
+      location: "Strait of Hormuz, Persian Gulf"
+    }
+  ]
+});
