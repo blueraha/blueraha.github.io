@@ -3812,3 +3812,71 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-09
+addEvents({
+  "2026-04-09": [
+    {
+      type: "news",
+      title: "MOL Awaits Safety Clarity Before Resuming Hormuz Transits Amid Ceasefire",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-09",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/2026-03-18T015145Z_1422060315_RC2JTDA5DB09_RTRMADP_3_MITSUI-OSK-ELLIOTT-STAKE-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 일본 해운사 모루(MOL)는 호르무즈 해협 통과 재개 전에 일본 정부의 공식 지침과 명확한 안전 보장을 기다리고 있음<br>• 신임 CEO 타무라 조타로는 휴전협정에도 불구하고 남아있는 보안 위험으로 인해 신중한 입장을 유지 중<br>• 호르무즈 해협은 전 세계 석유 소비량의 약 20%가 통과하는 전략적 수로이며, 해운 활동 심각한 차질<br>• MOL 산하 3척의 유조선(LNG선, LPG선 2척)이 지난주 통과했으나 다수 선박은 여전히 만에서 안전 통과 대기 중<br>• 분쟁 장기화 시 원자재 부족으로 제조업 활동 및 화물량 감소 가능성 경고<br>• 장기적으로 기업들의 공급망 재검토와 비용 효율성보다 회복력 중시로 해운 부문 이득 전망</p><h3>Key Quotes</h3><p>• "It's not yet clear how this ceasefire will be implemented in the relevant waters. It must be confirmed that the safety risks are sufficiently low." (휴전협정이 해당 수역에서 어떻게 이행될지 불명확하며, 안전 위험이 충분히 낮다는 것을 확인해야 함)</p><p>• "We are awaiting guidance from the Japanese government." (일본 정부의 지침을 기다리고 있음)</p><p>• "If the conflict drags on, raw material shortages could affect manufacturing activity and reduce cargo volumes." (분쟁이 장기화되면 원자재 부족으로 제조업 활동 및 화물량 감소 가능)</p><h3>Technical Insights</h3><p>• 호르무즈 해협의 지정학적 불안정성은 국제 해운 산업의 주요 운영 위험 요소로 작용하고 있으며, 보험료 및 운임 상승 초래<br>• 전략적 수로의 자유로운 통행권 보장과 국가 보안 우려 사이의 국제해사기구(IMO) 차원의 조정 필요성 대두<br>• 분쟁 지역 통항 시 선박 운영사들의 리스크 관리 강화 추세로, 정부 협조 및 공식 안내 체계의 중요성 증대<br>• 해운 업계의 공급망 회복력 우선화 움직임으로 인한 항로 다변화 및 운송 패턴 변화 예상</p></div>`,
+      tags: ["Strait of Hormuz","Mitsui O.S.K. Lines","Shipping Safety","Geopolitical Risk"],
+      link: "https://gcaptain.com/mol-awaits-safety-clarity-before-resuming-hormuz-transits-ceo-says/",
+      coords: [56.5,26.5],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "Chinese Tankers Test Hormuz Strait Transit Under New US-Iran Ceasefire",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-09",
+      image: "https://gcaptain.com/wp-content/uploads/2026/03/2026-03-14T094416Z_1022904802_RC2B2KAH6LD2_RTRMADP_3_IRAN-CRISIS-INDIA-SAILORS.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국-이란 휴전 협정(1일 경과)에 따라 중국 국영 COSCO 선사의 초대형유조선(VLCC) 2척과 추가 1척이 호르무즈 해협 출입을 위해 대기 중<br>• 호르무즈 해협 입구 UAE 해역에 중국 유조선 3척, 사우디 1척, 인도 유조선 2척 등 선박 수십 척이 수주 동안 갇혀있다가 탈출 시도<br>• 이라크산 및 사우디산 원유를 적재한 중국 유조선들이 이란의 승인 항해 신호를 띄우며 안전 통과 의도 표시<br>• 일본 MOL(Mitsui OSK Lines) 등 주요 해운사들은 세부 사항 불명확으로 인해 "지속 가능한 안정성" 확인 전까지 통과 연기<br>• 이란은 여전히 호르무즈 해협 통과에 테헤란 허가 필수, 라락 섬 우회 지정항로 운영 요구</p><h3>Key Quotes</h3><p>• "How it is implemented in the water, that is something we really need to understand" (실제 해상에서 어떻게 시행될지 우리가 정확히 이해해야 한다) - Jotaro Tamura, Mitsui OSK Lines President</p><p>• "Iran warned vessels on Wednesday in radio transmissions that transits still required permission from Tehran" (이란은 수요일 무선 통신으로 호르무즈 해협 통과에 테헤란 허가가 필수임을 경고)</p><h3>Technical Insights</h3><p>• **호르무즈 해협 통과 규정의 불확실성**: 미국-이란 휴전 이후에도 이란이 지정항로(라락 섬 우회) 강제 및 사전 허가 요구로 국제 해운법(SOLAS, COLREG)과의 충돌 가능성 → 국제해사기구(IMO) 차원의 통로 표준화 필요</p><p>• **지정학적 리스크와 선사의 보험·운항 리스크 증가**: 휴전 지속성 불확실로 선주들이 보험료 인상, 통과 지연 초래 → 글로벌 유류 수급 및 운임에 미치는 간접 영향 확대</p><p>• **선박 추적 시스템(AIS)의 이중성**: 중국 선박들이 이란 승인 신호를 송출하는 관행은 안전성 강화 vs. 국제 해상교통 투명성 저하 간 딜레마 반영 → 자율운항선박 도입 시 지정학적 갈등 지역 통과 프로토콜 사전 구축 필수</p></div>`,
+      tags: ["Hormuz Strait","Tanker Operations","US-Iran Ceasefire","Shipping Routes","Geopolitical Risk"],
+      link: "https://gcaptain.com/china-tankers-join-line-to-test-hormuz-exit-and-iran-truce/",
+      coords: [56.2439,26.1551],
+      location: "Strait of Hormuz, Persian Gulf"
+    },
+    {
+      type: "news",
+      title: "Strait of Hormuz Reopening Negotiations: UK-US Discuss Restoration Plan Amid Iran Ceasefire",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-09",
+      image: "https://images.marinelink.com/images/maritime/w800/source-windward-169695.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 영국 총리 키르 스타머와 미국 대통령 도널드 트럼프는 이란과의 휴전 이후 호르무즈 해협의 해운 재개를 위한 실질적 계획 수립의 필요성을 논의했다.<br>• 호르무즈 해협 폐쇄로 인해 현재 약 3,200척의 선박이 해협 서쪽에 좌초되어 있으며, 이 중 약 800척은 유조선과 화물선이다.<br>• 트럼프 대통령은 이란이 호르무즈 해협을 통과하는 유조선에 통행료를 부과하려는 시도에 강력히 반대하며 "지금 중단하라"고 경고했다.<br>• 휴전에도 불구하고 해협의 통행량은 정상의 10% 이하에 머물러 있으며, 이란이 자신의 영해 내 항행을 제한함으로써 통제권 유지를 시도하고 있다.<br>• 호르무즈 해협은 전 세계 석유 및 액화천연가스 해운의 약 20%를 담당하는 중요한 병목 지점으로, 이 분쟁의 장기화는 글로벌 에너지 시장에 심각한 영향을 미칠 수 있다.<br>• Windward 보안회사 데이터에 따르면 해운 흐름이 오만과 아랍에미리트 동쪽 항구로 우회되고 있으나 정상적인 흐름으로 복구되지 않은 상태이다.</p><h3>Key Quotes</h3><p>• "They agreed that now there is a ceasefire in place and agreement to open the Strait, we are at the next stage of finding a resolution" (휴전이 체결되고 해협 개방에 합의한 지금, 우리는 해결책을 찾는 다음 단계에 있다는 점에 동의했다)</p><p>• "There are reports that Iran is charging fees to tankers going through the Hormuz Strait. They better not be and, if they are, they better stop now." (이란이 호르무즈 해협을 통과하는 유조선에 수수료를 부과하고 있다는 보도가 있다. 그래서는 안 되며, 만약 하고 있다면 지금 바로 중단해야 한다)</p><p>• "Ship traffic through the strait stood at well below 10% of normal volumes on Thursday despite the fragile ceasefire" (취약한 휴전에도 불구하고 해협을 통한 선박 통행량은 목요일 정상의 10% 이하에 머물러 있다)</p><h3>Technical Insights</h3><p>• **국제 항행의 자유(Freedom of Navigation) 원칙**: 호르무즈 해협은 UNCLOS(유엔해양법협약)에 따른 국제 통항권이 인정되는 해협으로, 이란의 통행료 부과 시도는 국제해법 위반이며 IMO와 해양 커뮤니티의 강한 반발을 초래할 것으로 예상된다.</p><p>• **지정학적 위험과 해운 산업의 회복력(Resilience)**: 호르무즈 해협 폐쇄로 인한 3,200척 규모의 선박 체선은 전 세계 해운 네트워크의 취약성을 드러내며, 대체 항로(우회)의 활용으로 인한 운항거리 증가는 선사의 연료비 및 운영비 상승을 의미한다.</p><p>• **에너지 안보와 국제 협력의 필요성**: 호르무즈 해협은 전 세계 석유·LNG 거래량의 20%를 담당하는 전략적 병목으로, 장기간의 통행 제한은 국제유가 변동성 증가 및 글로벌 에너지 시장 혼란을 야기하므로 다자간 외교협력을 통한 신속한 해결이 해운 산업 안정성 확보의 필수 요건이다.</p><p>• **암호화폐 기반 수수료 징수의 해운업 영향**: 이란의 암호화폐 기반 통행료 징수 계획은 국제 표준 결</p></div>`,
+      tags: ["Strait of Hormuz","Shipping Disruption","Iran Ceasefire","Freedom of Navigation","Geopolitical Risk"],
+      link: "https://www.marinelink.com/news/starmer-trump-discuss-opening-strait-537898",
+      coords: [56.2432,26.1367],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "accident",
+      title: "Hormuz Strait Traffic Severely Disrupted by Iran-U.S. Ceasefire and Iranian Territorial Control Assertions",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-09",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockarif-169684.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 호르무즈 해협을 통한 선박 통행량이 정상의 10% 미만으로 급감했으며, 2월 28일 시작된 이란-미국 분쟁으로 인해 약 100여 척의 유조선과 화물선이 페르시만 내부에 갇혀 있는 상황<br>• 글로벌 석유 공급량이 20% 감소하면서 역사상 최대 규모의 공급 차질이 발생했으며, 일부 유종의 가격이 사상 최고치를 기록<br>• 이란 이슬람혁명수비대(IRGC)가 라락 섬 북쪽을 통한 우회 항로 사용을 지시하고 있으며, 해협 통행에 대한 암호화폐 톨 부과 가능성 제기<br>• 국제해사기구(IMO)는 국제 해협에 대한 톨 부과의 국제법적 근거가 없다고 명확히 거부<br>• 영국 해양보안회사 Ambrey는 이스라엘 및 미국 관련 선박에 대한 위험이 지속되고 있으며, 사전 승인을 받은 선박도 수송 중 되돌려 보내진 사례가 있다고 경고</p><h3>Key Quotes</h3><p>• "Most shipping lines are likely to remain cautious, and two weeks will not be enough to clear the backlog even if there is a marked increase in traffic" (해운사들이 신중한 태도를 유지할 가능성이 높으며, 비록 통행량이 증가하더라도 2주일로는 적체된 선박들을 완전히 처리하기 불충분하다는 의미)</p><p>• "Any such toll will set a dangerous precedent" (이런 형태의 톨 부과는 위험한 선례를 만들 것이라는 국제해사기구의 강한 우려)</p><p>• "Even shipping with apparent approval has been turned back in recent weeks mid-transit" (사전 승인을 받은 선박도 최근 몇 주일 동안 통행 중 되돌려 보내진 사례가 있음을 지적)</p><h3>Technical Insights</h3><p>• **국제 해협의 해사법적 지위**: 호르무즈 해협은 국제해협(International Strait)으로 지정된 해역이며, UNCLOS(유엔해양법협약)에 따라 과도통행권(Transit Passage) 행사가 보장되어 있으므로 일방적인 톨 부과는 국제법 위반에 해당</p><p>• **IMO의 규제 한계와 현실적 위협**: IMO가 명확한 국제 규정을 제시했음에도 불구하고 실제 해역에서의 강제력 집행이 불가능하며, 이란의 지리적 우위를 활용한 현실적 압박 수단(광산 위협, 암호화폐 톨 등)이 해운사들에게 심각한 위험 요소로 작용</p><p>• **선박 운항 경로의 강제 변경**: IRGC의 라락 섬 우회 항로 강제는 통상적 해로 변경을 강요하는 행위로, 선박의 안전항해 원칙과 국제항해자유도 원칙에 위배되며 해사 보험 및 운송 비용 증가로 이어지는 산업적 파급 효과 초래</p><p>• **암호화폐 결제 요구의 국제 규범 위반**: 국제 해상 통행료를 암호화폐로 요구하는 것은 IMO와 국제사회의 통제를 회피하려는 의도로 해석되며, 해운 산업의 투명성과 감시 체계를 훼손하는 위협 요소</p></div>`,
+      tags: ["Strait of Hormuz","Iran-U.S. Conflict","Shipping Disruption","Oil Supply Crisis"],
+      link: "https://www.marinelink.com/news/hormuz-shipping-traffic-remains-below-537884",
+      coords: [56.25,26.57],
+      location: "Strait of Hormuz, Persian Gulf"
+    },
+    {
+      type: "news",
+      title: "Turkish and Italian Companies Team Up for Hybrid Unmanned Surface Vessel Production",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-04-09",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/04/IMG_5221.webp",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **터키-이탈리아 협력 확대**: Piloda Shipyard(이탈리아), Havelsan, VN Maritime Technologies가 무인 및 하이브리드 표면선박 플랫폼 개발을 위한 전략적 협력 계약 체결</p><p>• **이탈리아 해양경찰청 납입**: 이미 2025년 유럽해안경비대(Guardia di Finanza)를 위한 15m 함정 40척(€159.2백만) 공동 생산 계약 이행 중이며, 새로운 계약으로 무인/하이브리드 플랫폼으로 확대</p><p>• **하이브리드 운영 개념**: 구조 수정 없이 유인(manned), 무인(unmanned), 혼합(mixed-mode) 운영 모드 간 즉시 전환 가능한 다목적 함정 설계</p><p>• **혁신적 선체 기술**: 아이슬란드 Rafnar社의 특허 ÖK Hull 기술 적용으로 기존 V형 선체 대비 슬래밍 충격 95% 감소, 유지보수 비용 절감 및 센서 안정성 향상</p><p>• **규제 공백 해결**: 완전 자율운항선박 국제기준 부재 상황에서 하이브리드 설계로 즉시 운영 배치 가능하며, 필요시 승무원 탑승 옵션 제공</p><p>• **국제 시연**: Seafuture 2025 전시회(이탈리아 라스페지아 해군기지)에서 작동형 프로토타입 공개 및 기관 위임대 테스트 완료</p><h3>Key Quotes</h3><p>• "The platforms will be manufactured at Piloda and VN Maritime facilities, with operational sites in Naples, Brindisi and Torre Annunziata." <br>(선박은 Piloda와 VN Maritime 시설에서 제조되며, 나폴리, 브린디시, 토레 안눈지아타에 운영 기지 구축)</p><p>• "A hybrid unit capable of operating manned, unmanned or in mixed mode, requiring no structural modifications to switch between configurations."<br>(구조적 수정 없이 유인, 무인, 혼합 운영 간 전환 가능한 하이브리드 함정)</p><p>• "The hull is designed to reduce slamming impact by up to 95% compared to conventional V-hull forms."<br>(종래 V형 선체 대비 슬래밍 영향을 최대 95% 감소시키도록 설계됨)</p><h3>Technical Insights</h3><p>• **자율운항 규제 공백 활용**: IMO 자율운항선박(MASS) 국제기준 미확립 상황에서 하이브리드 모드가 현실적 대안으로 부상하며, 기술 검증 후 규제 진화 대응 가능한 전략적 설계</p><p>• **선체 안정성의 센서 성능 영향**: ÖK Hull의 슬래밍 감소가 수중 센서의 지속적 잠수 상태 유지와 광학 감시 시스템의 정확도 향상을 직접 지원하는 기술적 시너지</p><p>• **다목적 운용 개념의 확장**: 감시(Surveillance), 조정 군집(Coordinated Swarm), 순찰, 해상 구조, 수송, 승선 활동 등 전술 스펙트럼 전역 운영 가능으로 해양경찰 자산 효율성 극대화</p><p>• **산업 협력의 지정학적 의의**: 터키-이탈리아 유럽방위산업 협력 강화 및 지중해 해양보안 역량 통합, NATO 동맹국의 자율운항 기술 표준화 선도 가능성 시사</p></div>`,
+      tags: ["Autonomous Ships","Hybrid Vessels","Italian Coast Guard","Unmanned Surface Vessels","Naval Innovation"],
+      link: "https://www.navalnews.com/naval-news/2026/04/turkish-and-italian-companies-team-up-for-surface-platforms-production/",
+      coords: [14.2681,40.8518],
+      location: "Naples, Italy"
+    }
+  ]
+});
