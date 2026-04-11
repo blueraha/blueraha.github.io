@@ -3936,3 +3936,53 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-10
+addEvents({
+  "2026-04-10": [
+    {
+      type: "news",
+      title: "Philippine Navy Develops Autonomous Logistics Drones and Maritime Surface Ships",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-04-10",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/04/IMG_2979.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 필리핀 해군이 자율항해 해상선박(MASS)과 하이브리드 해상항공 무인기(HMAV) 개발 프로토타입을 세부공과대학과 협력하여 추진 중</p><p>• 해군 해상시스템사령부(NSSC)와 해양연구기술개발센터가 2026년 3월 26일 정식 양해각서 체결 완료</p><p>• HMAV는 최대 12명 탑승, 600해리 항속거리를 목표로 재난대응 및 도서간 수송을 지원할 예정</p><p>• MASS는 환경친화적 자율선박으로 그린 해양기술 구현을 목표로 2023년부터 개발 진행 중</p><p>• 과학기술정보통신부 산하 산업에너지신기술연구개발위원회 지원으로 2026년 완료 목표</p><p>• 자율시스템 운용은 필리핀 국방자립화 정책(SRDP)의 핵심 우선사항이며 기술 이전 및 인력 양성도 병행 예정</p><h3>Key Quotes</h3><p>• "These platforms are expected to support rapid and efficient inter-island transport, logistics and disaster preparedness operations of the Navy. Both projects are targeted for completion this year" (이러한 플랫폼들은 해군의 신속하고 효율적인 도서간 수송, 물류 및 재난대비 작전을 지원할 것으로 예상되며 두 프로젝트 모두 올해 완료 목표)</p><p>• "These initiatives are designed to address the nation's mobility challenges through cutting-edge, environmentally responsible technologies that will serve both national security and civilian needs" (이러한 계획들은 국방안보와 민간수요를 모두 충족시키는 첨단 환경친화 기술을 통해 국가의 이동성 문제를 해결하기 위해 설계됨)</p><h3>Technical Insights</h3><p>• MASS 개발은 IMO 자율선박 규제 체계(MASS Code) 대응 및 국제 해양안전 기준 충족을 고려한 설계 필요 - 필리핀의 도서해역 특성상 원격조종 및 자율항해 기술 통합 과정에서 해상교통안전법(COLREG) 준수 중요</p><p>• 필리핀 해군의 자율시스템 개발은 국방자립화(SRDP) 정책과 연동되어 미국산 무인시스템 도입에서 벗어나 자체 기술 역량 구축 추진 - 동남아시아 지역 방위산업 생태계 발전에 선례 제시 가능</p><p>• HMAV와 MASS 프로토타입 완성 후 시스템 통합 및 성능평가, 해군 인력 기술교육까지 대학이 담당하여 기술 자주화 및 운영 인력 양성의 실질적 기반 구축</p><p>• 현재 자금 부족이 주요 제약 요소이나 2024년 10월 발효된 국방자립화법(SRDP Revitalization Act)에 의해 재정 지원 확대 전망 - 향후 동남아 지역 자율선박 시장의 거점 역할 가능성</p></div>`,
+      tags: ["autonomous vessels","MASS","Philippines","maritime technology","defense innovation"],
+      link: "https://www.navalnews.com/naval-news/2026/04/philippine-navy-develops-prototypes-of-autonomous-logistics-drones/",
+      coords: [123.8854,10.3157],
+      location: "Cebu City, Philippines"
+    }
+  ]
+});
+
+// Auto-collected: 2026-04-09
+addEvents({
+  "2026-04-09": [
+    {
+      type: "news",
+      title: "SEA to Provide Acoustic Underwater Monitoring for OSHEN's Autonomous Sensing Network",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-04-09",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/04/OSHEN-USV.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• SEA(Cohort plc Group의 자회사)가 해양 자율화 전문기업 OSHEN에 수중 음향 모니터링 기술 제공 - ZeroUSV 주도 프로젝트의 일환으로 자율 수중 음향 센싱 네트워크 개발 추진</p><p>• 프로젝트 참여 기관: ZeroUSV(리더), OSHEN, MarineAI, MSubs, 영국 Defence Innovation(DASA), Defence Science and Technology Laboratory(Dstl) 등 다국적 협력 체계</p><p>• OSHEN의 C-STARS 무인 수상 플랫폼에 SEA 하이드로폰 통합 - 저전력 음향 감지 및 수중 자산과의 통신 신호 모니터링 능력 제공</p><p>• 기술 활용 범위: 해양 정보감시정찰(ISR), 대잠전(ASW) 작전, 광역 수중 감시, KraitSense 등 고급 처리 기술 포함</p><p>• 운영 거점: Plymouth의 Turnchapel Wharf - 영국 국립 해양 자율화 센터로 지정되었으며, 북데본 Barnstaple의 SEA 제조시설과 협력</p><p>• 프로젝트 의의: 분산형, 자율화된 소형 저비용 센서 네트워크 배치의 새로운 방식 시연으로 다국적 해군의 감시 및 ASW 전술 혁신 추진</p><h3>Key Quotes</h3><p>• "Autonomous systems are reshaping how navies think about surveillance, anti-submarine warfare and communications. By integrating SEA hydrophones into OSHEN's C-STARS platforms, this exciting project aims to demonstrate a novel approach to the deployment of scalable, affordable, low-signature sensor and communication networks." <br>(자율 시스템이 해군의 감시, 대잠전, 통신 개념을 근본적으로 변화시키고 있으며, SEA의 하이드로폰을 C-STARS 플랫폼에 통합함으로써 확장 가능하고 저비용의 저신호 센서 및 통신 네트워크 배치의 새로운 방식을 시연할 수 있다)</p><p>• "To deliver wide-area monitoring, robust and reliable performance is key. C-STARS was designed for long-endurance missions in extreme operating environments. By integrating SEA's proven acoustic sensors on to the platform, we can enhance underwater situational awareness in a scalable and cost-effective way."<br>(광역 모니터링을 위해서는 견고하고 신뢰성 있는 성능이 핵심이며, C-STARS는 극한 환경의 장시간 작전용으로 설계되었으며, SEA의 검증된 음향 센서 통합을 통해 확장 가능하고 비용 효율적인 수중 상황 인식 능력 강화 가능)</p><h3>Technical Insights</h3><p>• **자율 수중 음향 센싱 네트워크의 전술적 혁신** - 분산형 소형 무인 수상선(C-STARS)을 모선(Oceanus12)에서 배치하여 광역 수중 감시 네트워크를 구성하는 새로운 감시 개념으로, 종래의 함정 기반 고정 센서 배치 방식의 제약 극복</p><p>• **저신호(Low-Signature) 센서 아키텍처의 적용** - 음향 하이드로폰의 저전력 작동 특성과 무인 플랫폼의 소형화를 결합하여 적 탐지 회피력 향상 및 운영 지속성(endurance) 증대로 대잠전(ASW) 효율성 제고</p><p>• **IMO/COLREG 자율 선박 규제와의 연계 가능성** - 수중 음향 통신 기술이 자율 선박의 안전한 항해, 충돌 회피, 수중 장애물 감지 등 지속적인 기술 발전과 국제 규제 체계 수립의 기초 역할 가능</p><p>• **민군 겸용(Dual-use) 기술의 산업 확대** - 방위 분야의 고급 음향 센싱 기술이 해양 환경 모니터링, 해양생물 추적, 해상 교통 안전 등 민간 해운업</p></div>`,
+      tags: ["autonomous systems","underwater monitoring","hydrophones","USV","acoustic sensing","defense technology"],
+      link: "https://www.navalnews.com/naval-news/2026/04/sea-to-provide-oshen-with-acoustic-underwater-monitoring-capability-for-autonomous-sensing-network/",
+      coords: [-4.1393,50.3755],
+      location: "Plymouth, UK"
+    },
+    {
+      type: "news",
+      title: "Russia's Black Sea Fleet Crisis: Novorossiysk Base Under Threat from Ukrainian Drones",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-04-09",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/04/Ukrainian-threats-to-Russian-Navy-in-Novorossiysk.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **우크라이나의 무인 수상함정(USV) 및 드론 위협**: 4월 5일 우크라이나 장거리 타격 드론이 러시아 흑해함대 주둔지인 노보로시스크의 그리고로비치급 프리깃함(Admiral Essen 추정)을 정밀 타격했으며, 동시에 유류 수출 인프라도 파괴하여 대규모 화재 발생</p><p>• **러시아 흑해함대의 전략적 곤경**: 2022년 슬라바급 순양함 모스크바 침몰 이후 유일한 전략자산인 칼리브르 미사일 장착 프리깃함 2척이 노보로시스크 기지에 갇혀 있으며, 기지 밖 출항 시 무인 시스템의 위협으로 거의 항해하지 못하는 실정</p><p>• **노보로시스크 기지의 방어 한계**: 산악 만에 위치한 기지가 이제는 '감옥'이 되었으며, 우크라이나 영토로부터 200~350해리 거리에도 불구하고 수상, 수중, 공중 무인 시스템의 지속적인 위협에 직면</p><p>• **전술적 취약성의 악화**: 러시아 방공포와 스포트라이트를 동원한 방어에도 우크라이나 드론들이 침투 성공하였으며, 더 이상의 피해가 임박한 상황</p><p>• **대안 부재의 전략적 위기**: 소치항과 조지아의 오참치레항은 제한된 시설을 가진 소규모 항구이며, 볼가-돈 운하를 통한 카스피해 철수는 되돌릴 수 없는 결정이 될 수 있음</p><h3>Key Quotes</h3><p>• "Russian Navy vessels are no longer safe in the base at Novorossiysk. Having relocating from Sevastopol to evade Ukrainian strikes, they now face comparable threat levels in what was once considered a safe haven." <br>(러시아 해군함정들이 더 이상 노보로시스크 기지에서 안전하지 않으며, 세바스토폴에서 피난했던 것처럼 이제는 과거에 안전한 피난처로 여겨졌던 곳에서도 동등한 위협 수준에 직면)</p><p>• "The protective seawalls of Novorossiysk are becoming a cage. The increasing accuracy and confidence of Ukrainian drone forces makes it only a matter of time before more serious damage is inflicted."<br>(노보로시스크의 방호 방벽이 감옥이 되고 있으며, 우크라이나 드론 세력의 증가된 정확성과 확신으로 볼 때 더 심각한 피해는 시간 문제)</p><h3>Technical Insights</h3><p>• **무인 시스템의 해전 지배력 변화**: 전통적 함정 기반의 해전 우위가 저비용 장거리 무인 시스템(OWA-UAV, USV, AUV)에 의해 붕괴되고 있으며, 기존 방공 시스템의 대응 능력 한계 노출</p><p>• **항구 방어의 전략적 약점**: 고정된 항구 시설이 이동 가능한 무인 위협에 대한 방어 난제가 되었으며, 함정들이 항구 내 정박 상태에서 드론 감지를 피하기 위해 수심이 깊은 곳에서 수중으로 정잠하는 소극적 대응</p><p>• **해전 전술의 근본적 변화**: COLREG 및 기존 해전 규칙이 제정되지 않은 무인 시스템의 대규모 전술 운용이 현대 해전의 새로운 표준이 되고 있으며, IMO의 자율해상 운행 규정과 별개로 군사 무인 시스템의 급속한 발전</p><p>• **해양 전력 재배치의 현실적 제약**: 전략적 후퇴 시 대안 항구 부족으로 인한 구속력 있는 선택의 한계가 드러났으며, 장거리 무인 시스템의 작전 반경 확대로</p></div>`,
+      tags: ["Black Sea","Ukraine","Unmanned Systems","Naval Warfare","Russia"],
+      link: "https://www.navalnews.com/naval-news/2026/04/russias-massive-black-sea-problem-is-worse-than-it-looks/",
+      coords: [37.77,44.72],
+      location: "Novorossiysk, Black Sea"
+    }
+  ]
+});
