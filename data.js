@@ -3880,3 +3880,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-10
+addEvents({
+  "2026-04-10": [
+    {
+      type: "accident",
+      title: "Hormuz Strait Blockade Continues Amid Lebanon Ceasefire Tensions",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-10",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/Iran-hormuz-map.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **호르무즈 해협 봉쇄 지속**: 이란이 호르무즈 해협 통항을 계속 차단하고 있으며, 지뢰 위험을 이유로 기존 항로 대신 라락 섬 근처 우회 항로를 사용하도록 지시하고 있음</p><p>• **글로벌 에너지 공급 최대 차질**: 이 봉쇄로 인해 역사상 최대 규모의 글로벌 에너지 공급 차질이 발생하고 있으며, 트럼프 대통령이 "합의 위반"이라고 강력히 비판</p><p>• **휴전협정 관련 갈등**: 2일된 미국-이란 휴전협정에도 불구하고 해협 봉쇄는 계속되고 있으며, 이스라엘의 레바논 헤즈볼라 공격으로 인해 이란과 미국이 상호 협정 위반을 주장</p><p>• **이슬라마바드 평화회담 예정**: 파키스탄 중재 하에 미국 부통령 JD 밴스와 이란 국회의장 모하마드 바께르 칼리바프가 이슬라마바드의 세레나 호텔에서 4월 12일부터 첫 평화회담 개최 예정</p><p>• **선박 격리 심화**: 이란의 자국 선박만 해협 통항이 허용되고 있으며, 다른 국가의 선박들은 해협 내에서 계속 격리된 상태</p><h3>Key Quotes</h3><p>• "Iran was doing a 'very poor job' of allowing oil to go through the strait. That is not the agreement we have!" (이란이 석유 통항을 허용하지 않고 있다며 트럼프 대통령의 강한 불만 표출)</p><p>• "Everything is on track. It has de-escalated. Good sign." (파키스탄 중재자의 평가로, 평화회담 진행이 순조롭고 폭력 상황이 완화되었다는 입장)</p><h3>Technical Insights</h3><p>• **국제 해상 통행의 자유와 항로 봉쇄**: 호르무즈 해협은 글로벌 석유 공급의 약 21%가 통과하는 전략적 해상 통로이며, 지뢰 위협과 선택적 통항 제한은 국제 해상법(UNCLOS) 및 해양 보안 규약 위반에 해당할 수 있음</p><p>• **에너지 시장과 글로벌 인플레이션 영향**: 호르무즈 해협 봉쇄는 유가 급등을 유발하며, 미국 인플레이션 통계에 직접적인 영향을 미치는 전략적 경제 무기로 작용</p><p>• **자율항해 및 해상 로봇 시스템의 필요성**: 분쟁 해역의 통행 위험 증가로 인해 원격 조종 선박, 자율 항해 기술, AI 기반 실시간 위험 회피 시스템의 도입 필요성이 대두되고 있음</p></div>`,
+      tags: ["Hormuz Strait","Blockade","Iran","Israel","Energy Security","Ceasefire"],
+      link: "https://gcaptain.com/hormuz-strait-remains-shut-as-lebanon-fighting-strains-truce/",
+      coords: [56.5,26.5],
+      location: "Hormuz Strait"
+    },
+    {
+      type: "accident",
+      title: "Oil Spill Shuts Key Access to Antwerp Port, Cleanup Under Way",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-10",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/2026-04-10T071356Z_2054090774_RC2RWM5Z6Z2W_RTRMADP_3_BELGIUM-PORT-ACCIDENT-OIL-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **사건 개요**: 벨기에 앤트워프-브루게스 항만의 도이르강크독에서 벙커링 작업 중 발생한 유출사고로 인해 쉘드 강 구간이 폐쇄되었으며, 유럽 최대급 항만의 운영이 차질을 빚음</p><p>• **영향 범위**: 도이르강크독에서 쉘드 강으로 유출된 유류가 야간에 확산되어 부이 80 근처부터 독 입구까지 선박 통행이 전면 중단되고, 잔드블릿 및 베렌드레흐트 갑문 폐쇄로 심해 해운 접근 불가</p><p>• **대응 현황**: 항만 당국이 항만사 협조 하에 운영 조정 계획을 발동했으며, 전문 팀이 유류 회수용 부스 및 스키머를 배치하여 정화 작업 진행 중</p><p>• **환경 우려사항**: 영향을 받은 쉘드 강 구간이 간척지 및 조류 서식지 등 생태계 민감 지역과 인접하여 자연보호지역 위협 가능성 높음</p><p>• **공급망 영향**: 펫로케미컬 및 컨테이너 운송의 유럽 주요 거점인 앤트워프 항만의 장기 폐쇄 시 지역 공급망 전반에 연쇄 영향 예상</p><p>• **관련 선박**: 유로파터미널 선박, 갈겐슈어 자연보호지역 인근 내륙 바지선, 최소 1척의 예인선 등이 직접 영향을 받음</p><p>---</p><h3>Key Quotes</h3><p>• "As a result, the port is currently not accessible via the Scheldt" (쉘드 강을 통한 항만 접근 현재 불가능)</p><p>• "We regret the impact of this incident on our port and the vulnerable nature areas along the Scheldt" (쉘드 강 인접 생태 민감 지역에 미친 사건의 영향을 유감스럽게 생각함)</p><p>• "protecting the environment remained an absolute priority" (환경 보호가 절대적 우선순위로 남아 있음)</p><p>---</p><h3>Technical Insights</h3><p>• **벙커링 작업 안전 규정**: 유류 공급 작업 중 누출 방지를 위한 이중 격벽(double-wall containment) 및 실시간 모니터링 체계 강화 필요성 대두</p><p>• **항만 위기 대응 체계**: 항만 당국의 신속한 조정 계획 발동 및 전문 오염 제거 장비 배치가 환경 피해 최소화에 필수적이며, IMO 해양 오염 방지 규약(MARPOL) 준수 강화 필요</p><p>• **해상 교통 관제 운영**: 주요 항만 폐쇄 시 내륙 수로 및 심해 해운 동시 차단으로 인한 광역 교통 마비 방지를 위해 대체 항로 사전 계획 및 선박 교통 분산 시스템 구축 필요</p><p>• **생태 환경 영향 평가**: 유류 유출 사고의 생태계 영향 최소화를 위해 민감 지역 주변의 선박 운항 속도 제한, 강화된 환경 감시 및 사전 예방 조치 강화 필요</p></div>`,
+      tags: ["Oil Spill","Port Closure","Bunkering Operation","Environmental Damage"],
+      link: "https://gcaptain.com/oil-spill-shuts-key-access-to-antwerp-port-cleanup-under-way/",
+      coords: [4.3517,51.3397],
+      location: "Antwerp Port, Belgium"
+    },
+    {
+      type: "accident",
+      title: "Pakistan Navy Evacuates 18 Crew Members from Merchant Ship GOLD AUTUMN",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-10",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stock-169718.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 파키스탄 해군이 북아라비아해 운항 중인 상선 GOLD AUTUMN의 조난 신호에 응응하여 18명의 승무원을 구조 및 대피<br>• 구조된 승무원은 중국, 방글라데시, 미얀마, 베트남, 인도네시아 국적으로 구성된 국제 선원 팀<br>• 모든 승무원이 카라치로 안전하게 수송되어 의료 처치 및 본국 송환 실시<br>• 파키스탄 군부 성명을 통해 해상 안전 및 국제 구조 협력의 중요성 입증</p><h3>Key Quotes</h3><br>• "Pakistan said its navy had rescued and evacuated 18 crew members of a merchant vessel operating in the North Arabian sea after a distress call" (파키스탄 해군이 북아라비아해에서 운항 중인 상선의 조난 신호에 응응하여 18명의 승무원을 구조 및 대피)<br>• "The rescued crew members of the vessel, GOLD AUTUMN, who included nationals of China, Bangladesh, Myanmar, Vietnam and Indonesia, were safely transported to Karachi for medical care and repatriation" (GOLD AUTUMN의 구조된 승무원들은 중국, 방글라데시, 미얀마, 베트남, 인도네시아 국적으로 카라치로 안전하게 수송되어 의료 처치 및 본국 송환)</p><h3>Technical Insights</h3><br>• 북아라비아해의 해상 교통로에서의 조난 사건은 국제 선원의 안전성 확보와 다국적 승무원 구조의 필요성을 재확인<br>• 해양 사고 대응 시 신속한 구조 활동 및 의료 지원 체계의 중요성으로, IMO의 해상안전규칙(SOLAS) 준수의 실질적 가치 입증<br>• 국제 해역에서의 해상 안전 사건 처리 시 지역 해군의 역할과 국제 협력의 모범 사례로 평가 가능</p></div>`,
+      tags: ["maritime rescue","distress call","merchant vessel","North Arabian Sea"],
+      link: "https://www.marinelink.com/news/pakistan-navy-evacuates-merchant-ship-537934",
+      coords: [66.2,25.2],
+      location: "North Arabian Sea"
+    },
+    {
+      type: "accident",
+      title: "Oil Spill Forces Partial Shipping Halt at Port of Antwerp",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-10",
+      image: "https://images.marinelink.com/images/maritime/w800/illustration-credit-169705.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 벨기에 앤트워프항의 벙커링 작업 중 유류 유출 사고 발생으로 부분적 해운 중단<br>• 유류 유출이 도어간크독(Deurganckdock)에서 발생하여 셀트강으로 확산된 상황<br>• 현장 유출원은 차단 및 격리되었으나, 이미 강으로 오염이 확산된 상태<br>• 앤트워프항은 일일 60~80척의 선박을 처리하는 주요 항만으로 영향 규모 상당<br>• 유럽 2위 항만의 부분 운영 중단으로 유럽 해운 물동량에 직접적 영향 예상</p><h3>Key Quotes</h3><p>• "An oil spill occurred during a bunkering operation in the Deurganckdock. The source of the spill has since been stopped and contained" (벙커링 작업 중 유류 유출이 발생했으며, 유출원은 현재 차단되고 격리된 상태)</p><p>• "Antwerp port is part of the Port of Antwerp-Bruges, the second-largest port in Europe by cargo tonnage, behind Rotterdam" (앤트워프항은 로테르담 다음으로 유럽에서 두 번째로 큰 화물 처리 항만)</p><h3>Technical Insights</h3><p>• 벙커링 작업 중 유류 유출은 해상 오염방지규칙(MARPOL) 위반으로 국제해사기구(IMO) 환경규제 강화의 핵심 대상<br>• 항만 내 유류 유출 사고는 선박 안전관리 및 항만 운영 시설 점검의 미흡함을 시사하며, 향후 더 엄격한 안전 프로토콜 도입 필요<br>• 유럽 주요 환적항의 부분 운영 중단은 글로벌 해운망의 연쇄적 지연을 야기할 수 있으며, 자동화된 항만 관리 및 실시간 오염 모니터링 시스템 도입의 중요성 부각</p></div>`,
+      tags: ["Oil Spill","Port of Antwerp","Bunkering Operation","Environmental Pollution"],
+      link: "https://www.marinelink.com/news/oil-spill-forces-partial-shipping-halt-537912",
+      coords: [4.4,51.3],
+      location: "Port of Antwerp, Belgium (Scheldt River)"
+    }
+  ]
+});
