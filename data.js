@@ -4005,3 +4005,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-12
+addEvents({
+  "2026-04-12": [
+    {
+      type: "news",
+      title: "Trump Announces Empty Oil Tankers Heading to U.S. to Load Oil and Gas",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-12",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/2026-04-01T090922Z_792222033_RC26GKAU079P_RTRMADP_3_IRAN-CRISIS-TANKERS-INDIA-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 트럼프 대통령이 대형 유조선들이 미국으로 향하고 있으며 미국의 석유와 가스를 수송할 준비를 하고 있다고 발표</p><p>• 2월 28일 시작된 미-이란 분쟁으로 인한 호르무즈 해협 폐쇄로 전 세계 에너지 공급에 역사적 차질 발생</p><p>• 유가 급등 - 미국산 유질유 배럴당 $96.57, 브렌트유 $95.20으로 미국산 프리미엄 확대</p><p>• 호르무즈 해협 폐쇄 지속 시 미국 석유 수요 증가 예상, 협상 해결까지 수개월 소요 가능성</p><p>• 월스트리트는 트럼프의 발표보다 미-이란 평화협상 결과에 더 초점</p><h3>Key Quotes</h3><p>• "Massive numbers of completely empty oil tankers, some of the largest anywhere in the World, are heading, right now, to the United States to load up with the best and 'sweetest' oil and gas anywhere in the World" (전 세계에서 가장 큰 규모의 빈 유조선들이 미국 최고 품질의 석유와 가스를 선적하기 위해 현재 미국으로 향하고 있다)</p><p>• "The situation with the Strait of Hormuz, even with the peace talks, could take months in a best-case scenario to work out, so absolutely U.S. oil will be higher in demand as a result" (호르무즈 해협 상황은 평화협상에도 불구하고 최선의 경우에도 해결에 몇 개월이 걸릴 수 있으므로 미국산 석유 수요는 확실히 증가할 것)</p><h3>Technical Insights</h3><p>• **해협 폐쇄로 인한 운송 경로 재편성**: 호르무즈 해협 폐쇄는 해상 운송 노선 전체를 변경시켰으며, 대규모 유조선의 장거리 항해로 인한 운임 상승과 해운 효율성 저하 초래</p><p>• **국제 해상 규제 영향**: 분쟁 지역 통과 비용 및 위험 증가로 COLREG(해상충돌방지규칙) 준수 및 IMO 안전 기준 강화 필요</p><p>• **에너지 공급망 다변화와 자동화 수요**: 유조선 수요 급증 시 자율운항선박(MASS) 도입을 통한 운영 비용 절감 및 인력 부족 해소 기대, 특히 장거리 항해에서 효율성 증대</p><p>• **지정학적 리스크와 해운 산업**: 분쟁으로 인한 호르무즈 해협 점유 통제 및 통행료 논쟁으로 글로벌 석유 해운 구조 재편, 대체 경로 및 수송 방식 다양화 필요</p></div>`,
+      tags: ["Oil tankers","Energy markets","Strait of Hormuz","U.S.-Iran conflict","Shipping disruption"],
+      link: "https://gcaptain.com/trump-says-empty-oil-tankers-heading-to-u-s-to-load-up-with-oil-gas/",
+      coords: [0,0],
+      location: "Global (Strait of Hormuz / United States)"
+    }
+  ]
+});
