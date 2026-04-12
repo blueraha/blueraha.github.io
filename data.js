@@ -3986,3 +3986,22 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-08
+addEvents({
+  "2026-04-08": [
+    {
+      type: "news",
+      title: "French Navy Submarine Successfully Tests Launch and Recovery of U.S. Navy Razorback UUV",
+      source: "USNI News",
+      sourceMeta: "usni.org · 2026-04-08",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 프랑스 해군이 Suffren급 핵추진 공격 잠수함에서 미국 해군 Razorback 무인수중차량(UUV) 발사 및 회수 시험을 성공적으로 수행</p><p>• Suffren급 잠수함의 탈착식 건식갑판 대피소(Dry Deck Shelter)를 통해 수중 드론 운영 가능성 검증 완료</p><p>• 2026년 3월 16-20일 프랑스 툴롱(Toulon) 해안에서 운영 중 oceanographic 측정 수행</p><p>• 해당 시험은 향후 작전에서 드론 활용 가능성 탐색을 목표로 실시</p><p>• 프랑스 국방부가 공식 성과 발표로 양국 해군의 해양 기술 협력 강화 신호</p><h3>Key Quotes</h3><p>• "The French Navy tested launching and recovering a U.S. Navy Razorback Unmanned Undersea Vehicle (UUV) from a submerged French Suffren-class nuclear-powered attack submarine" (프랑스 해군이 수중 상태의 Suffren급 핵추진 잠수함에서 미국 해군 Razorback 무인수중차량을 발사·회수하는 시험을 수행했다)</p><p>• "validating the French submarine's removable dry deck shelter can be used for underwater drone operations" (프랑스 잠수함의 탈착식 건식갑판 대피소가 수중 드론 운영에 사용될 수 있음을 입증했다)</p><h3>Technical Insights</h3><p>• 건식갑판 대피소(Dry Deck Shelter, DDS)의 무인수중차량 발사·회수 운영 기술 검증으로 잠수함 기반 자율 해양 플랫폼의 실용성 확대</p><p>• Razorback UUV의 oceanographic 측정 능력을 잠수함 플랫폼과 통합 운영함으로써 수중 감시정찰 및 과학적 데이터 수집 역량 강화</p><p>• NATO 동맹국 간 무인수중차량 상호운용성(Interoperability) 향상으로 연합 해양 작전 기능 고도화 및 미래 해양 자율화 시대 준비 단계 진입</p><p>• Suffren급 잠수함의 모듈형 설계(Modular Design) 입증으로 기존 플랫폼의 다목적 활용성과 향후 자율 시스템 통합 가능성 시사</p></div>`,
+      tags: ["Unmanned Undersea Vehicle","Suffren-class Submarine","French Navy","Underwater Drone Operations"],
+      link: "https://news.usni.org/2026/04/08/french-navy-submarine-launches-recovers-u-s-navy-drone-in-test-run",
+      coords: [5.9305,43.1256],
+      location: "Toulon, France"
+    }
+  ]
+});
