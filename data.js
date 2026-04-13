@@ -4080,3 +4080,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-13
+addEvents({
+  "2026-04-13": [
+    {
+      type: "news",
+      title: "EU Emissions Trading System Shows 1.3% Reduction in 2025, Maritime Sector Down 3%",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-13",
+      image: "https://images.marinelink.com/images/maritime/w800/source-169732.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• EU ETS가 2025년 전년 대비 1.3% 배출량 감소를 기록했으며, 2005년 제도 도입 이후 누적 배출량이 50% 감소함<br>• 해운 부문이 약 3% 배출량 감소를 달성하여 전체 평균보다 더 나은 성과를 시현<br>• 2030년 목표인 62% 배출 감소를 달성하기 위한 궤도에 있으며, 재생에너지 비중이 47.3%로 확대됨<br>• 태양광 발전이 전년 대비 24.6% 성장하여 처음으로 수력을 제치고 EU 내 두 번째 규모의 재생에너지원으로 부상<br>• 에너지 집약적 산업의 배출량이 2.5% 감소했으나, 항공기 운항자의 배출량은 교통 증가로 인해 소폭 증가<br>• 해운 및 항공 부문 데이터 보고가 계속 진행 중이며, 최종 경향은 보고 완료 후 확정될 예정</p><h3>Key Quotes</h3><p>• "Since the ETS was launched in 2005, the system has halved emissions in the sectors it covers. It remains on track to achieve the 2030 target of a 62% reduction." (2005년 ETS 출범 이후 대상 부문의 배출량이 50% 감소했으며, 2030년 62% 감축 목표 달성을 위한 궤도에 있음)</p><p>• "For maritime, the reported data so far shows that emissions from the sector fell by around 3%." (해운 부문의 배출량이 약 3% 감소한 것으로 보고됨)</p><p>• "Solar generation to the point where it overtook hydropower for the first time, becoming the EU's second-largest renewable electricity source after wind." (태양광이 처음으로 수력발전을 초월하여 풍력에 이어 EU의 두 번째 규모 재생에너지원이 됨)</p><h3>Technical Insights</h3><p>• **해운 부문 탄소중립 달성**: 해운 부문이 3% 배출 감소를 달성하여 EU ETS 전체 평균(1.3%)을 상회하는 성과를 기록했으며, 이는 해운업의 연료 효율화 및 친환경선박 도입이 가속화되고 있음을 시사</p><p>• **규제적 프레임워크의 효과**: EU ETS가 강제적 배출권 거래 시스템으로 작동하면서 지속적인 감축 경향을 유도하고 있으며, 2030년 62% 감축 목표 달성을 위해 더욱 강화된 규제가 예상됨</p><p>• **데이터 보고 프로세스의 한계**: 해운 및 항공 부문의 최종 배출 데이터가 아직 진행 중이므로, 실제 해운 부문의 배출 감축 추세는 보고 완료 후 재평가될 필요가 있음</p><p>• **산업 전환과 탄소 감축의 상관관계**: 에너지 집약적 산업의 2.5% 배출 감소가 저탄소 전환뿐만 아니라 경제 활동 둔화에도 영향을 받고 있으므로, 경기 회복 시 배출 증가 가능성이 존재</p></div>`,
+      tags: ["EU ETS","Maritime Emissions","Climate Regulation","Sustainability"],
+      link: "https://www.marinelink.com/news/eu-emissions-trading-system-sustains-537952",
+      coords: [10.4515,51.1657],
+      location: "European Union"
+    }
+  ]
+});
