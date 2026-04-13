@@ -4025,3 +4025,58 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-11
+addEvents({
+  "2026-04-11": [
+    {
+      type: "accident",
+      title: "Container Ship Ever Lenient Fire Extinguished at Singapore PSA Terminal",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-13",
+      image: "https://images.marinelink.com/images/maritime/w800/travel-adobe-169730.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 런던 등록 컨테이너선 Ever Lenient호가 싱가포르 PSA 파사르판장 터미널에서 선적 컨테이너 화재 발생, 4월 11일 진화 완료</p><p>• **대응 기관**: 싱가포르 시민방위청(SCDF)이 주도적으로 진화 작업 수행, 해사항만청(MPA)이 순찰선 배치 및 드론 활용한 항공 감시 지원</p><p>• **사건 경과**: 야간을 포함한 지속적인 소방 활동으로 화재 진화, PSA 싱가포르가 피해 컨테이너 안전 하역 작업 진행 중</p><p>• **원인 조사**: 화재 발생 원인 규명을 위한 조사 진행 중 (자세한 내용 미공개)</p><p>• **운영 영향**: 터미널 운영 차질 및 컨테이너 화물 처리 지연 가능성</p><h3>Key Quotes</h3><p>• "A fire involving containers on board the London-registered container vessel Ever Lenient at Singapore's PSA Pasir Panjang Terminal was extinguished on April 11."<br>(런던 등록 컨테이너선 Ever Lenient호의 PSA 파사르판장 터미널 내 컨테이너 화재가 4월 11일 진화됨)</p><p>• "Firefighting efforts continued through the night, led by the Singapore Civil Defence Force, with Maritime and Port Authority of Singapore deploying patrol craft to conduct seaward cordon duties and drones to provide aerial surveillance"<br>(싱가포르 시민방위청 주도 하에 야간 소방 활동 지속, MPA가 순찰선과 드론을 통한 해상 봉쇄 및 항공 감시 지원)</p><h3>Technical Insights</h3><p>• **컨테이너 화재 위험성**: 선적 컨테이너 내 가연성 물질 또는 위험물 적재 시 고온, 저산소 환경에서 화재 확산 가능성 높음 - 해운사 및 항만 운영사의 위험물 신고/적재 기준 준수 필수</p><p>• **항만 안전 체계**: 선진 항만의 드론 활용 감시, 순찰선 배치 등 실시간 대응 시스템 운영으로 화재 확산 방지 및 2차 피해 최소화 실현</p><p>• **국제 규제 영향**: IMO 위험물 규정(IMDG Code) 준수 강화 필요, 부정확한 위험물 신고 사건 증가 추세와 연계한 선사 및 화주의 컴플라이언스 강화 요구</p><p>• **컨테이너 안전 표준**: 원인 규명 결과에 따라 특정 화물 종류에 대한 추가 검사 또는 제약 조치 가능성, 선박-항만 간 정보공유 체계 개선 방향 검토 필요</p></div>`,
+      tags: ["Container Ship","Fire","Singapore","PSA Pasir Panjang Terminal","Ever Lenient"],
+      link: "https://www.marinelink.com/news/singapore-container-ship-fire-537950",
+      coords: [103.7618,1.2654],
+      location: "Singapore - PSA Pasir Panjang Terminal"
+    }
+  ]
+});
+
+// Auto-collected: 2026-04-13
+addEvents({
+  "2026-04-13": [
+    {
+      type: "news",
+      title: "US Navy to Block Ships from Iranian Ports - Strait of Hormuz Blockade",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-13",
+      image: "https://images.marinelink.com/images/maritime/w800/source-marine-169728.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 미국 해군이 2026년 4월 13일부터 호르무즈 해협의 이란 항구 해상 교통을 전면 봉쇄하기로 결정 - 전략적 에너지 통로(글로벌 석유 공급의 약 20%)의 통제권 장악</p><p>• 트럼프 대통령과 이란 간 이슬라마바드 협상이 결렬되어 2주간의 임시 휴전이 위기 상황으로 전환되며, 양측 간 군사적 긴장 고조</p><p>• CENTCOM 성명을 통해 "모든 국적의 선박에 대한 공평한 집행"과 "불법 통행료 납부 선박 무력화" 위협으로 국제해양법 해석에 관한 논란 야기</p><p>• 이란 혁명수비대의 강경 대응 성명으로 전군사적 충돌 위험성 증가 및 글로벌 에너지 시장 불안정 심화(유가 배럴당 $100 돌파)</p><p>• 상용 선박에 대한 신뢰성 있는 사전 공지 부재로 해상 물류 및 보험 시장의 즉시적 혼란 예상</p><p>• 호르무즈 해협의 광산 제거 및 해상 통제 수행의 기술적 복잡성과 국제 해사법상 분쟁 가능성</p><p>---</p><h3>Key Quotes</h3><p>• "No one who pays an illegal toll will have safe passage on the high seas" (불법 통행료를 지불하는 국가와 선박에 대해 국제 공해에서 안전한 통행을 보장하지 않겠다는 군사적 위협)</p><p>• "Zero lessons earned. Good will begets good will. Enmity begets enmity." (이란 외교부 장관 아라치가 협상 결렬 후 언급한 '선의는 선의를 낳고, 적대는 적대를 낳는다'는 외교적 메시지)</p><p>• "If you fight, we will fight, and if you come forward with logic, we will deal with logic" (이란 혁명수비대의 대응 성명으로, 군사적 도발에는 군사적 대응으로 맞대응할 준비가 되어있음을 표명)</p><p>---</p><h3>Technical Insights</h3><p>• **해상 교통 통제 메커니즘**: 호르무즈 해협 전역에 대한 전면 봉쇄 시행 시 AIS(자동식별장치) 추적, 선박 검문, 광산 제거 등 다층적 해상 통제 기술 필요 - 민간 선박의 경로 우회 및 운임 급등 초래</p><p>• **국제해양법(UNCLOS) 해석 갈등**: 공해상 자유로운 통행권과 전쟁 상황에서의 해상 봉쇄권 사이의 법적 모순, IMO 공식 공지 부재로 인한 선주/보험사의 법적 책임 불명확화</p><p>• **글로벌 해운 산업 영향**: 에너지 공급 차질로 인한 연료유 가격 급등, 호르무즈 통과 선박의 보험료(전쟁보험) 폭등, 대체 해로(아프리카 희망봉 경로) 선택에 따른 운항 시간 및 비용 증가</p><p>• **자율주행선박 운영 리스크**: 분쟁 해역에서의 AI 기반 자동 항법 시스템의 신뢰성 문제 - 실시간 군사 상황 변화에 대한 센서 인식 한계 및 원격 제어 불가능 상황에서의 안전성 위협</p></div>`,
+      tags: ["Strait of Hormuz","Naval Blockade","Iran","Geopolitical Risk","Maritime Traffic"],
+      link: "https://www.marinelink.com/news/us-navy-block-ships-iranian-ports-537948",
+      coords: [56.2436,26.1367],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
+
+// Auto-collected: 2026-04-06
+addEvents({
+  "2026-04-06": [
+    {
+      type: "news",
+      title: "US Marine Corps Conducts Live-Fire Drone Strike Test Against Unmanned Surface Vessel in Okinawa",
+      source: "USNI News",
+      sourceMeta: "usni.org · 2026-04-06",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미 해병대가 오키나와에서 무인 해상 선박을 대상으로 한 첫 실전 드론 공격 시험을 3월 초 실시하였으며, 이는 자율 해상 작전 능력 고도화의 일환임</p><p>• III EOTG(원정 작전 훈련단) 해병대원과 Naval Special Warfare 운영자들이 NSF 수상함으로부터 임무를 수행했으며, 목표물은 해병대가 자체 설계·건조한 무인 해상 선박임</p><p>• 이번 시험은 2026년 해병대의 일련의 드론 테스트 중 최신 사례로, 자율 무기체계 운영 기술의 실제 적용 가능성을 입증함</p><p>• 무인 해상 선박(USV)의 설계 및 운영에 대한 내부 역량을 보유하고 있음을 시사하며, 해상 자율 체계의 실전 배치 단계로의 진입을 의미함</p><p>• 해양 전술 운영의 무인화 추진으로 인력 소모 감소 및 작전 효율성 향상이 기대됨</p><h3>Key Quotes</h3><p>• "Marines from the III Expeditionary Operations Training Group (III EOTG) and operators from Naval Special Warfare conducted the maritime drone strike from a Naval Special Warfare surface craft, taking out an unmanned surface vessel" (해병대 III 원정 작전 훈련단과 해양 특수전 운영자들이 해양 특수전 수상함으로부터 무인 해상 선박을 대상으로 한 드론 공격을 성공적으로 수행했음을 의미)</p><h3>Technical Insights</h3><p>• **자율 해상 무기체계 고도화**: 해병대가 자체 설계·제작한 USV 개발 역량 확보로 독립적인 무인 해상 작전 플랫폼 구축 추진 중</p><p>• **실전 운영 패러다임 전환**: 드론의 실시간 목표 추적 및 타격 능력 검증으로 CONOPS(작전 개념)의 실질적 구현 단계 진입, COLREG 준칙과의 충돌 가능성 사전 검토 필요</p><p>• **다층 자율 체계 통합**: 모함(NSF)의 원격 제어 능력과 드론의 자율 탐색·추적·타격이 결합된 통합 시스템으로, IMO 자율선박 규정의 군사 적용 사례로 평가됨</p><p>• **해상 전술 운영의 구조적 변화**: 전통적 함정 기반 해전에서 무인 체계 중심의 분산 작전으로의 전환 초기 단계로, 향후 해상 교전 규칙(ROE) 재정의 필요</p></div>`,
+      tags: ["Autonomous Systems","Unmanned Surface Vessel","Marine Corps","Drone Technology","Military Testing"],
+      link: "https://news.usni.org/2026/04/06/marines-test-custom-built-drone-in-live-fire-test-strike-unmanned-surface-vessel",
+      coords: [127.6789,26.2006],
+      location: "Okinawa, Japan"
+    }
+  ]
+});
