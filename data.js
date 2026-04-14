@@ -4100,3 +4100,58 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-13
+addEvents({
+  "2026-04-13": [
+    {
+      type: "news",
+      title: "North Korea Tests Cruise and Anti-Ship Missiles from Choe Hyon-Class Destroyer",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-13",
+      image: "https://gcaptain.com/wp-content/uploads/2025/04/2025-04-29T225456Z_502919210_RC2X7EAV95UI_RTRMADP_3_NORTHKOREA-NAVY.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 북한이 4월 13일 신형 파괴함 '최현함'에서 전략 순항미사일 2발과 대함미사일 3발을 시험 발사하였으며, 김정은 국방위원장이 직접 관찰함<br>• 이번 시험은 함정의 통합 무기 지휘 시스템 검증, 미사일 발사 절차 훈련, 업그레이드된 항법 시스템의 정확도 및 전자전 방어 능력 확인을 목표로 함<br>• 순항미사일은 약 2시간 8분~2시간 12분 동안 비행하였으며, 대함미사일은 약 32분~33분 동안 비행하여 목표를 '극초정밀도'로 타격함<br>• 현재 추가 2척의 동급 파괴함이 건조 중이며, 북한은 핵전력 강화를 최우선 과제로 강조함<br>• 본 시험은 2025년 4월 초도 무기 시험 이후 진행된 것으로, 북한 해군의 전술/전략 능력 강화 의지를 보여줌</p><h3>Key Quotes</h3><p>• "Two strategic cruise missiles and three anti-warship missiles were fired to check the warship's integrated weapons command system, train crews in missile-launch procedures and verify the accuracy and anti-jamming performance of upgraded navigation systems" (함정의 통합 무기 지휘 시스템 검증, 승조원 미사일 발사 훈련, 업그레이드된 항법 시스템의 정확도 및 전자전 방어 능력 확인을 위해 전략 순항미사일 2발과 대함미사일 3발을 발사함)</p><p>• "Kim said strengthening what he called the country's nuclear war deterrent remained a top priority, and called for improving strategic and tactical strike capabilities and rapid-response readiness" (김정은은 핵전력 강화를 최우선 과제로 강조하면서 전략/전술 타격 능력 향상과 신속한 대응 태세 강화를 지시함)</p><h3>Technical Insights</h3><p>• **무기 체계 통합화**: 순항미사일과 대함미사일을 단일 플랫폼에서 운용할 수 있는 통합 지휘 시스템의 개발은 해상 전력 투사 능력의 근본적 강화를 의미하며, 국제 해상 보안에 직접적 영향을 미침</p><p>• **해상 감지 및 추적 기술**: 업그레이드된 항법 시스템과 전자전 방어 능력의 검증은 함정의 자동 항법 및 독립적 타겟팅 능력 향상을 시사하며, 기존 COLREG 기반 해상 안전 체계에 새로운 위협 요소를 추가함</p><p>• **해군력 확장의 전략적 의도**: 5,000톤급 파괴함 3척 건조는 한반도 주변 해역에서의 해상 통제력 확보를 목표로 하며, IMO 규제 대상 외 불명 해상 활동의 증가 가능성을 시사함</p><p>• **미사일 정밀도 기술**: '극초정밀도'를 강조하는 것은 AI 기반 자율 항법 및 타겟팅 시스템의 도입을 암시하며, 향후 무인 또는 자율 해상 무기 플랫폼 개발 추진 가능성을 내포함</p></div>`,
+      tags: ["North Korea","Military","Missile Test","Naval Warfare","Destroyer"],
+      link: "https://gcaptain.com/north-korea-tests-cruise-and-anti-ship-missiles-from-destroyer/",
+      coords: [124.9,39],
+      location: "North Korea (Western Coast)"
+    },
+    {
+      type: "news",
+      title: "Argentina Paraná River Dredging Auction Sparks US-China Geopolitical Tensions",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-13",
+      image: "https://gcaptain.com/wp-content/uploads/2020/12/2020-12-21T213835Z_1166838131_RC2XRK9NRVG5_RTRMADP_3_ARGENTINA-GRAINS-STRIKE.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 아르헨티나 파라나 강 준설 사업 입찰에서 미국 준설업체 Great Lakes Dredge & Dock이 벨기에 DEME와 연합하여 Jan de Nul 컨소시엄과 경쟁 중이며, 입찰 조건이 기존 업체에 유리하다고 주장</p><p>• 파라나 강은 아르헨티나의 경제 생명선으로 곡물 수출의 대부분을 운반하며, 강 준설은 밀레이 대통령의 경제 개혁 사업의 핵심 인프라 프로젝트</p><p>• 미국은 2025년 10월 아르헨티나에 200억 달러 금융 지원을 제공했으며, 미 재무부 장관은 밀레이 정부가 "중국을 배제"하고 있다고 명시적으로 언급</p><p>• Jan de Nul 입찰 파트너인 아르헨티나 Servimagnus SA가 중국 국영 CCCC Shanghai Dredging과 과거 협력 관계가 있다는 점이 미-중 지정학적 갈등의 중심</p><p>• Great Lakes 임원진은 입찰 조건이 "기정사실화(cooked)"되어 기존 업체에 기술적 이점을 부여한다고 비판</p><p>• 2026년 5월-6월 중 최종 낙찰자 발표 예정</p><h3>Key Quotes</h3><p>• "With the tender, it's been geared toward the incumbent... It's the uphill battle of, 'Is it already cooked? Is it already done?'" (입찰 조건이 기존 업체를 향해 설정되었으며, 입찰이 이미 결정되었는지에 대한 의문)</p><p>• "Milei was committed to getting China out of Argentina, adding those efforts include sea ports" (밀레이 정부는 아르헨티나에서 중국의 영향력 제거에 주력하고 있으며, 이는 해항 분야도 포함)</p><h3>Technical Insights</h3><p>• 파라나 강 준설은 단순한 상업 프로젝트를 넘어 미국의 인도-태평양 전략과 중국의 라틴아메리카 영향력 확대 사이의 지정학적 경쟁으로 전개되고 있으며, 해운·항만 인프라가 국가 간 영향력 경합의 핵심 분야임을 보여줌</p><p>• 선박 운항의 안전성(천수 강에서의 좌초 사고 방지)과 경제성(선복 효율성 증대)을 위한 인프라 개선이 정치-지정학적 판단과 얽혀있어, IMO/국제해사 규범 이상의 복잡한 이해관계 구도를 반영</p><p>• 입찰 투명성과 공정성 문제는 해운산업에서 국제 표준화된 프로세스의 중요성을 강조하며, 정부 보호주의(state-owned entity 배제)가 국제 경쟁 규범과 충돌할 가능성을 시사</p></div>`,
+      tags: ["Paraná River","dredging","Argentina","geopolitics","China-US competition"],
+      link: "https://gcaptain.com/argentina-river-auction-draws-fire-from-u-s-dredger-over-cooked-tender/",
+      coords: [-58.3816,-34.6037],
+      location: "Paraná River, Argentina"
+    },
+    {
+      type: "news",
+      title: "HAVELSAN Expands Underwater C5ISR Capabilities for Multi-Domain Operations",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-04-13",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/04/Muren-Key-visual-yatay-1024x786.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• HAVELSAN은 20년 이상의 경험을 토대로 잠수함, 무인수중차량(UUV), 하이브리드 해양플랫폼을 위한 통합 C5ISR(지휘통제통신컴퓨터사이버정보감시정찰) 기술 포트폴리오를 확대하고 있음</p><p>• 개발 솔루션에는 SEDA(통합 잠수함 전투관리시스템), 소형 잠수함용 컴팩트 미션시스템, 무인수중차량용 컴팩트 미션시스템 등이 포함되며 터키 해군 및 외국 현대화 프로그램에 배치됨</p><p>• "Operation Intelligence(작전 지능)"과 "Operation Autonomy(작전 자율성)" 기능이 통합되어 의사결정 지원 및 무인플랫폼 운영 관리를 강화함</p><p>• 미래 작전환경(FOE)은 육·해·공·우주·사이버 도메인 통합과 다중영역작전(MDO), 교차영역지휘(CDC) 개념으로 정의됨</p><p>• 잠수함과 무인수중차량은 은폐성, 저탐지성, 지속력 우위로 인해 다중영역작전에서 전략적 가치가 증대되고 있음</p><h3>Key Quotes</h3><p>• "Underwater platforms, including submarines, UUVs and hybrid unmanned vehicles, are becoming increasingly critical due to their inherent stealth, low detectability and endurance advantages." (잠수함과 무인수중차량은 본질적인 은폐성, 저탐지 특성, 지속력 우위로 인해 전략적 중요성이 증대되고 있음)</p><p>• "Operation Intelligence enables the detection of relationships, patterns and operational impacts through holistic onboard data processing, while Operation Autonomy applies these insights to decision-support in manned systems and operational management in unmanned platforms." (작전 지능은 통합 선내 데이터 처리를 통해 관계성, 패턴, 작전 영향을 탐지하고, 작전 자율성은 유인 시스템의 의사결정 지원과 무인플랫폼의 작전 관리에 이를 적용함)</p><h3>Technical Insights</h3><p>• 다중영역작전(MDO) 환경에서 수중플랫폼의 Network Enabled Capability(NEC) 아키텍처는 도메인 간 동기화를 위한 핵심 요소로, HAVELSAN의 통합 CMS는 실시간 데이터 융합과 의사결정 자동화를 가능하게 함</p><p>• SEDA 시스템의 음향/비음향 센서 데이터 처리, 표적운동분석(TMA), 분류 기능은 COLREG 해상충돌방지규칙 준수 및 자동 회피 제어를 지원하는 자율 네비게이션 기술의 수중 버전으로 평가됨</p><p>• 소형·경량 잠수함용 컴팩트 미션시스템은 제한된 공간과 축소된 승무원 환경에서 인공지능 기반 의사결정 지원을 제공하여 무인화 및 원격 운용 전환의 기술적 토대를 마련함</p><p>• 무인수중차량의 Operation Autonomy 기능은 IMO 자동화 기준과 해상안전 규정을 만족하면서 자율 순찰·탐지·대응 작전을 가능하게 하는 핵심 기술로, 향후 민간 해상 로봇 시스템 발전의 선례가 될 가능성이 높음</p></div>`,
+      tags: ["C5ISR","Submarine Systems","Autonomous Underwater Vehicles","Combat Management Systems","Turkish Navy","Multi-Domain Operations"],
+      link: "https://www.navalnews.com/naval-news/2026/04/havelsan-expands-its-underwater-c5isr-capabilities-for-the-future-operating-environment/",
+      coords: [35.1264,39.9334],
+      location: "Turkey (Ankara)"
+    },
+    {
+      type: "news",
+      title: "U.S. REGENT Autonomous Squire Seaglider Completes First Ground-Effect Flight Test",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-04-13",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• REGENT社가 자율형 Squire Seaglider의 지면효과 비행 시험에 성공, 미국 내 방위 목적 익중익기 항공기의 첫 비행 달성<br>• 2026년 4월 13일 실시된 해당 시험은 자율 해상 드론을 군용으로 배치하기 위한 회사의 중요한 이정표<br>• 익중익(WIG) 기술을 활용한 저고도 초장거리 해상 운송 및 감시 임무 수행 가능성 검증<br>• 미국 국방부와의 협력으로 추진되는 차세대 무인 해상 플랫폼 개발 프로젝트의 일환<br>• 상용 및 군용 해양 운송 산업에 혁신적 변화를 가져올 수 있는 기술 진전</p><h3>Key Quotes</h3><br>• "the first flight in the United States of a defense-focused wing-in-ground effect craft" (미국 내 방위 목적 익중익 항공기의 첫 비행)<br>• "brings the maritime drone into military service" (해상 드론을 군용으로 전환)</p><h3>Technical Insights</h3><br>• 익중익(WIG) 기술은 날개가 수면 또는 지면 근처에서 작동하여 양력 증대와 연료 효율성 향상을 동시에 달성하는 차세대 해양 운송 기술<br>• 자율형 Seaglider는 COLREG 및 IMO 해상 안전 규정 준수를 위한 고급 센서 및 AI 항법 시스템 통합 필요성을 제시<br>• 군용 무인 해상 플랫폼의 실용화는 해양 감시, 물류 수송, 해상 구조 작업 등 민간 해운 산업의 자동화 촉진 가능성 높음<br>• 익중익 기술의 실증 성공은 기후변화로 인한 신규 해로 개발(북극항로 등) 및 원양 운송의 효율성 극대화에 기여할 전망</p></div>`,
+      tags: ["autonomous maritime","wing-in-ground effect","defense technology","unmanned vehicle"],
+      link: "https://defence-blog.com/new-u-s-autonomous-squire-seaglider-conducts-test-flight/",
+      coords: [0,0],
+      location: "United States"
+    }
+  ]
+});
