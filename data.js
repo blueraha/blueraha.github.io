@@ -4155,3 +4155,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-13
+addEvents({
+  "2026-04-13": [
+    {
+      type: "news",
+      title: "Boskalis Deploys First ROVs from New Aberdeen Remote Operations Center",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-04-13",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/04/First-ROVs-deployed-from-Boskalis-new-remote-operations-center-rotated.jpeg?image-crop-positioner-ts=1776071735",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Boskalis가 스코틀랜드 Aberdeen에 신설한 원격 운영 센터(ROC)에서 첫 ROV(원격 조종 차량) 배포 성공<br>• 건설 지원선 BOKA Northern Ocean을 통해 북해에서 1주일간 집약적인 시험 운영 실시<br>• 18개월 개발 기간과 약 4,680만 유로의 투자(ROV 및 ROC 포함)를 통해 2025년 센터 개설<br>• Bart Heijermans COO는 이 마일스톤이 안전성, 효율성, 통합성 향상을 입증한다고 강조<br>• 향후 5년 내 Aberdeen 사무소에서 50개 이상의 고품질 육상 일자리 창출 예정</p><h3>Key Quotes</h3><p>• "The Remote Operations Center is a proud milestone for our team and a significant step forward in the way we deliver subsea operations. It demonstrates how innovation and technology can make our work safer, more efficient and better integrated" <br>(원격 운영 센터는 당사 팀의 자랑스러운 마일스톤이며 해저 작업 수행 방식에서의 중요한 진전. 혁신과 기술이 어떻게 작업을 더 안전하고 효율적이며 통합적으로 만드는지 보여줌)</p><p>• "It also represents an important investment in our subsea services offering from our Aberdeen office, creating more than fifty high-quality onshore roles in the next five years"<br>(Aberdeen 사무소의 해저 서비스 제공에 있어 중요한 투자이며, 향후 5년 내 50개 이상의 고품질 육상 직종 창출을 의미함)</p><h3>Technical Insights</h3><p>• 원격 운영 센터(ROC) 도입으로 해상 작업 인력의 육상 근무 가능화 - 안전성 향상 및 운영 비용 효율화 달성<br>• North Sea에서의 실제 ROV 운영 시험을 통해 다양한 해상 시나리오에 대한 원격 조종 기술의 타당성 검증 완료<br>• 고숙련 육상 인력 50명 이상 고용으로 해저 작업의 기술 고도화 및 자동화된 원격 운영 시스템의 산업 확대 신호<br>• 해상 안전 및 환경 규제(IMO, IMCA 등) 강화 추세 속에서 원격 운영 기술은 향후 해양 산업의 표준 운영 방식으로 진화할 가능성</p></div>`,
+      tags: ["Remote Operations","ROV Technology","Subsea Operations","North Sea"],
+      link: "https://www.offshore-energy.biz/first-rovs-deployed-from-boskalis-new-remote-operations-center/",
+      coords: [-2.1228,57.1497],
+      location: "Aberdeen, Scotland / North Sea"
+    }
+  ]
+});
