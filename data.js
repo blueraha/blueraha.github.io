@@ -4236,3 +4236,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-14
+addEvents({
+  "2026-04-14": [
+    {
+      type: "news",
+      title: "Petrobras Approves $12 Billion SEAP Oil & Gas Projects with SBM Offshore FPSO Vessels",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-04-14",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2025/05/Petrobras.jpg?image-crop-positioner-ts=1746795534",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 페트로브라스가 세르지페-알라고아스 분지의 SEAP I 및 SEAP II 프로젝트 최종 투자 결정(FID) 승인으로 약 120억 달러 규모의 유류·가스 개발 사업 착수<br>• SBM 오프쇼어가 P-81, P-87 두 척의 FPSO(부유식 생산·저장·하역설비) 건조 계약 체결 예정(2026년 5월)<br>• 두 프로젝트는 총 10억 배럴 이상의 원유 환산량(boe) 생산 예상, 일일 24만 배럴 원유 및 일일 2,200만 입방미터 천연가스 처리 능력 보유<br>• 건설-운영-이전(BOT) 방식 계약으로 SBM이 설계·건조·조립·초기 운영 담당 후 페트로브라스로 이전<br>• 프로젝트 타당성은 공급업체 협력, 계약 조건 개선, 규모의 경제 달성 등으로 확보</p><h3>Key Quotes</h3><p>• "The conditions achieved increased the financial return of the projects and enabled the inclusion of SEAP I in the Base Implementation Portfolio. This result reinforces the importance of partnership and active engagement between the company and the supplier market." <br>(달성된 조건들이 프로젝트의 재정 수익성을 높이고 기본 이행 포트폴리오에 SEAP I 포함을 가능하게 했으며, 이는 회사와 공급업체 간 협력과 적극적 소통의 중요성을 입증한다)</p><p>• "Together will have an installed capacity to produce up to 240,000 barrels of oil per day and process 22 million cubic meters of natural gas per day."<br>(두 FPSO 플랫폼이 함께 일일 24만 배럴의 원유 생산과 일일 2,200만 입방미터의 천연가스 처리 능력 보유)</p><h3>Technical Insights</h3><p>• **FPSO 기술 활용**: 부유식 생산·저장·하역설비(FPSO)는 심해 유정에서 원유를 직접 처리·저장한 후 운송선으로 이송하는 첨단 해상 에너지 기술로, 깊은 해역 개발의 경제성을 극대화</p><p>• **규모의 경제 실현**: 두 개 FPSO 프로젝트를 통합 발주함으로써 설계·부품·건조 공정 최적화를 통한 비용 절감 및 일정 단축 달성으로 프로젝트 타당성 확보</p><p>• **BOT 계약 모델의 의의**: 건설-운영-이전 방식은 초기 자본 투입 부담을 줄이면서 장기 운영 노하우 축적이 가능한 현대적 인프라 금융 구조로, 브라질 해양에너지 산업의 지속 가능성 강화</p><p>• **가스 인프라 확충**: 약 134km의 수출용 가스 파이프라인 구축으로 브라질의 에너지 자립도 향상 및 국제 가스 공급망 다변화에 기여</p></div>`,
+      tags: ["FPSO","Oil & Gas","Petrobras","SBM Offshore","Brazil"],
+      link: "https://www.offshore-energy.biz/petrobras-bringing-12-billion-oil-gas-project-pair-to-life-with-sbm-offshore-on-fpso-duty-for-both/",
+      coords: [-36.5,-9.5],
+      location: "Sergipe-Alagoas Basin, Brazil"
+    },
+    {
+      type: "news",
+      title: "Hull assembly starts for Asso.subsea's new cable layer CLV Althea as keel is laid",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-04-14",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/04/Asso.subsea.jpg?image-crop-positioner-ts=1776153078",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Asso.subsea의 새로운 케이블 부설선(CLV) Althea의 용골 기념식이 2026년 4월 9일 중국 선저우시 마저우 섬의 China Merchants Heavy Industry(CMHI) 조선소에서 개최되었으며, 선체 조립이 본격 시작됨</p><p>• CLV Althea는 12,000톤의 케이블 수용 능력을 갖추고 있으며, 하이브리드 디젤-배터리 동력 시스템 및 메탄올 연료 대응 엔진 탑재로 IMO Tier III NOx 배출 기준 충족</p><p>• 선박은 2027년 인도 예정이며, Asso.subsea의 기존 Ariadne, Atalanti와 함께 운영될 예정</p><p>• 냉동 정박(Cold ironing) 기능 및 에너지 절감 기능을 갖춘 친환경 선박으로 설계되어 해양 에너지 산업의 진화하는 수요에 대응</p><p>• 건설 시작(2025년 11월)부터 용골식(2026년 4월)까지 약 5개월 경과</p><h3>Key Quotes</h3><p>• "As we mark the keel laying of Althea, we take a decisive step forward in strengthening our fleet and technical capabilities. This vessel reflects our long-term vision to meet the evolving demands of the offshore energy market with reliability and precision." <br>(Althea의 용골식을 기념하면서 우리는 함대와 기술 능력을 강화하기 위한 결정적 진전을 이루고 있습니다. 이 선박은 신뢰성과 정확성으로 해양 에너지 시장의 진화하는 수요를 충족하려는 우리의 장기 비전을 반영합니다. - Ioannis Togias, Asso.subsea 해양기술 임원)</p><h3>Technical Insights</h3><p>• **친환경 해양 기술 적용**: 하이브리드 디젤-배터리 동력 시스템과 메탄올/바이오연료 대응 엔진은 국제해사기구(IMO)의 Tier III NOx 배출 기준을 충족하며, 해양 산업의 탄소중립 전환에 부응하는 선박 설계 트렌드를 반영</p><p>• **콜드 아이로닝(Cold ironing) 도입**: 항구 정박 중 해상 디젤 발전 대신 육상 전력을 사용하는 기술로, 항만 지역의 대기오염 감축 및 IMO 2030/2050 배출량 감축 목표 달성에 기여</p><p>• **케이블 부설 선박의 고도화**: 12,000톤 케이블 수용 능력과 다양한 캐러셀 구성(1, 2, 3분할)은 해상 풍력 발전 및 해저 통신 인프라 확대에 따른 케이블 부설 작업의 효율성 극대화를 목표로 함</p><p>• **중국 조선산업의 기술 고도화**: CMHI의 대형 특수선 건조 능력이 국제 수준의 친환경 사양 적용으로 해양 신재생에너지 장비 공급 시장에서 경쟁력 강화</p></div>`,
+      tags: ["Cable-laying vessel","Shipbuilding","Offshore energy","Green shipping"],
+      link: "https://www.offshore-energy.biz/hull-assembly-starts-for-asso-subseas-new-cable-layer-as-keel-is-laid/",
+      coords: [114.0533,22.6329],
+      location: "Mazhou Island, Shenzhen, China"
+    },
+    {
+      type: "news",
+      title: "Marlink Cyber Intelligence Report 2026: Identity-Based Attacks Dominate Maritime Cyber Threats",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-14",
+      image: "https://images.marinelink.com/images/maritime/w800/source-marlink-169822.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **신원 기반 공격 대두**: 관찰된 사이버 위험의 69%가 손상된 사용자 자격증명과 연관되어 있으며, 전통적인 기술 취약점(12%)과 대조적으로 공격 방식의 근본적인 전환을 시사</p><p>• **IT/OT 수렴의 확대된 공격 표면**: 평가 대상 사이트의 60%가 공유 인프라에 의존하고 있으며, 70% 이상이 문서화되지 않거나 부실하게 보안된 연결을 보유하고 있어 해양 환경에서 운영 위험 증가</p><p>• **인적 요소의 지속적 취약성**: 피싱 시뮬레이션에서 사용자의 20%가 악성 링크를 클릭했고 11%가 자격증명을 공개했으며, 사건 보고율은 11%에 불과해 초기 손상의 주요 원인 확인</p><p>• **해양 환경의 집중된 위협**: 마린링크 모니터링 환경에서 경보의 82%가 승무원 네트워크 영역에 집중되어 있어, 사용자 대면 시스템이 주요 공격 표면임을 재확인</p><p>• **급증하는 랜섬웨어 사건**: 2024년 5,740건에서 2025년 7,793건으로 증가하였으며, 운송·에너지·제조 부문이 절반 이상의 공격 대상으로 확인</p><p>• **마린링크의 권고사항**: Nicolas Furgé 회장은 신원 우선 보안 모델, 신뢰할 수 있는 접근 제어 강화, 다중 요소 인증, IT/OT 네트워크 분할, 지속적 모니터링 등을 강조</p><h3>Key Quotes</h3><p>• "The data confirms a clear shift in how cyber threats materialize in remote environments. Addressing these structural weaknesses requires more than additional tools. It demands an identity-first security model, stronger control of trusted access, and closer integration between cyber security and operational infrastructure." <br>(원격 환경에서 사이버 위협이 어떻게 구체화되는지의 명확한 전환을 확인했으며, 신원 우선 보안 모델과 신뢰 접근의 강력한 통제, 사이버 보안과 운영 인프라의 긴밀한 통합이 필수적임을 강조)</p><p>• "69% of observed risks were linked to compromised user credentials, compared with 12% related to traditional technical vulnerabilities, signaling a decisive shift in attacker behavior."<br>(관찰된 위험의 69%가 손상된 사용자 자격증명과 연관되어 있으며, 이는 공격자 행동 방식의 결정적 전환을 의미)</p><h3>Technical Insights</h3><p>• **신원 기반 공격의 해양산업 영향**: 승무원 네트워크 영역(82%)에 집중된 공격은 해양 선박의 OT 시스템이 IT 네트워크를 통해 접근되는 구조의 근본적 취약점을 드러내며, COLREG 준수 시스템부터 엔진 제어 시스템까지 광범위한 운영 영향 초래 가능</p><p>• **IT/OT 수렴 시대의 IMO 규정 적응**: IMO 사이버 보안 가이드라인(2021)이 강조하는 시스템 분리 원칙과 현실적 공유 인프라(60%) 간의 괴리 증대로, 신규 규제 프레임워크 개발 필요성 제기</p><p>• **자율선박 운영의 사이버 보안 함의**: 원격 운영 환경에서의 자율선박 도입 시, 육상 제어 센터와 선박 시스템 간 네트워크 종속성 심화로 인해 신뢰할 수 있는 접근 제어와 다중 요소 인증의 필수성 증가, 운영 연속성 보장 필수</p><p>• **인적 요소 기반 방어 전략의 중요성**: 초기 손상의 주요 경로인 피싱(사용자 클릭 20%) 및 자격증명 공개(11%)의 해결을 위해, 기술적 통제만이 아닌 지속적 사</p></div>`,
+      tags: ["Cybersecurity","Maritime","Remote Operations","Identity Theft","Human Error"],
+      link: "https://www.marinelink.com/news/evolving-cyber-risk-driven-user-538053",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
