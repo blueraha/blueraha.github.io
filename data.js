@@ -4175,3 +4175,64 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-07
+addEvents({
+  "2026-04-07": [
+    {
+      type: "accident",
+      title: "Bulk Carrier Struck by Projectiles in Arabian Sea Off Oman",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-14",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/2026-03-26T191814Z_1897759985_RC2OZJAQWKGC_RTRMADP_3_CERAWEEK-ENERGY-OIL-PROFIT-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 2026년 4월 7일 오만 해안 동남쪽 112해리 떨어진 아라비아해에서 일반화물선이 미확인 발사체 2발에 맞아 선박 화재 발생</p><p>• **피해 상황**: 발사체 피격으로 인한 화재 발생, 파키스탄 해군함이 응급 지원 대응, 인명피해 및 손상 규모 상세 미공개</p><p>• **지역적 의미**: 호르무즈 해협 외부이지만 오만만 동쪽 주요 통항로에 위치, 지역 해상 안보 위협 확대를 시사</p><p>• **관련 기관**: 영국 해상무역작전(UKMTO), 파키스탄 합동해양정보조율센터, 파키스탄 해군</p><p>• **광범위한 위협**: 호르무즈 해협 내 혼란 외에도 소말리아 인근 해적 활동 경보 발령, 인도양 서부까지 위험 지역 확대</p><h3>Key Quotes</h3><p>• "The vessel's master reported that the ship had been hit by 'two unidentified projectiles,' sparking a fire onboard." (선박 선장이 미확인 발사체 2발에 맞아 선박 내부 화재가 발생했다고 보고)</p><p>• "Even as conditions inside the Strait of Hormuz remain uncertain, ship operators are being forced to consider a wider area of risk stretching across the Gulf of Oman and into the western Indian Ocean." (호르무즈 해협 내 상황이 불확실한 가운데, 선사들이 오만만과 인도양 서부까지 확대된 광범위한 위험 지역을 고려해야 함)</p><h3>Technical Insights</h3><p>• **국제해사보안 협력**: UKMTO 경보체계와 파키스탄 합동해양정보조율센터의 신속한 정보 공유 및 대응으로 국제 해상 안보 네트워크 작동 확인</p><p>• **통항로 위협 확대**: 호르무즈 해협을 넘어 일반 상업 통항로까지 무장 공격 확산으로 글로벌 해운 업계의 보험료 상승 및 운항 경로 변경 초래 가능성</p><p>• **IMO 해상보안 규정 적용 한계**: 기존 SOLAS, ISM Code 등 국제해사규정이 군사적 위협에 대한 방어 수단 제한으로 민간 해운의 취약성 노출</p><p>• **산업적 영향**: BIMCO 통계상 이란 분쟁 이후 해상 원유 수송량 16% 감소, 에너지 시장 및 탱커 선사의 경제적 충격 지속</p></div>`,
+      tags: ["Maritime Attack","Arabian Sea","Projectile Strike","Oman","Security Incident"],
+      link: "https://gcaptain.com/bulk-carrier-hit-by-projectiles-off-oman-as-maritime-threats-spill-beyond-hormuz/",
+      coords: [56.5,22.5],
+      location: "Arabian Sea, off Oman (112 nm SE of Ras Al Hadd)"
+    }
+  ]
+});
+
+// Auto-collected: 2026-04-14
+addEvents({
+  "2026-04-14": [
+    {
+      type: "news",
+      title: "FMD Introduces AutoHook™: Fully Autonomous USV Recovery System",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-14",
+      image: "https://images.marinelink.com/images/maritime/w800/source-169823.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **자동화된 함정회수 시스템 출시**: Fairbanks Morse Defense(FMD)의 노르웨이 자회사 Vestdavit이 개발한 AutoHook™는 무인표면선박(USV) 회수용 완전 자동화 함정회수장치(LARS) 시스템으로, 인간 개입 없이 완전 자동 운영 가능</p><p>• **Sea State 4 운영 성능**: 기존 자동화 솔루션이 Sea State 2 이상에서 운영 불가능한 반면, AutoHook은 Sea State 4에서 운영 승인 획득으로 악천후 환경에서의 우수성 입증</p><p>• **AI 기반 비전 시스템**: 탑재된 AI 비전 시스템과 통합 스러스터를 통해 동적 목표물의 정확한 위치 추적 및 안정적 제어 실현, 기존 수동 조종 방식 대체</p><p>• **NATO 표준 준수 및 함정 개조 불필요**: NATO 작전 표준 준수하며 클램프-온-다빗 와이어 유닛으로 기존 선박에 간단히 장착 가능, 고비용 개조 불필요</p><p>• **안전성 극대화**: 수동 연결 제거로 인원 부상 위험 제거, 완전 자동화 운영으로 승무원 노출 최소화 및 운영 신뢰성·효율성 향상</p><p>• **무인함대 확산 대응**: 전 세계 해군의 확산되는 무인함대 운영을 지원하는 차세대 회수 시스템으로 활용 가능성 높음</p><h3>Key Quotes</h3><p>• "AutoHook successfully achieved operational acceptance at Sea State 4" (AutoHook은 Sea State 4에서 운영 승인을 성공적으로 획득했으며, 이는 기존 솔루션의 Sea State 2 제한을 초월함)</p><p>• "Vestdavit's autonomous vision system uses AI to determine and track the precise location of the rescue boat in real time, compared to other solutions that rely on operator control units" (Vestdavit의 AI 기반 자동 비전 시스템은 기존 수동 조종 통제 방식과 달리 실시간으로 구조선의 정확한 위치를 자동 감지·추적)</p><p>• "Fully autonomous operation eliminates the need for manual connections, removing the risk of injuries during operations" (완전 자동화 운영으로 인한 수동 연결 제거는 작전 중 인원 부상 위험을 완전히 제거)</p><h3>Technical Insights</h3><p>• **자동 비전 시스템의 운영 혁신**: AI 기반 실시간 비전 추적 시스템이 기존 원거리 조종(RC) 방식을 대체하며, 동적 해상 환경에서의 정밀한 위치 결정 및 안정적 제어 가능성 입증으로 USV 회수 자동화의 새로운 기준 제시</p><p>• **NATO 함대 운영 표준 준수**: AutoHook의 NATO 표준 준수 설계는 다국적 연합 해군 운영의 상호운영성(Interoperability) 강화로 동맹국 간 무인선박 운영의 통합화 추진</p><p>• **악천후 해상 환경 적응성 확대**: Sea State 4 운영 가능성은 기존 자동화 시스템의 환경 제약을 극복하며, 북대서양·북해 등 악천후 지역의 해군 작전 활동 범위 확대를 가능하게 함</p><p>• **COLREG 및 자동화 안전규정과의 연계**: 완전 자동화 회수 시스템은 승무원 노출 제거로 국제해상충돌방지규칙(COLREG) 준수 강화 및 IMO 자동화 선박 안전기준 개발에 실제 운영 데이터 제공</p></div>`,
+      tags: ["Autonomous Systems","USV Recovery","LARS Technology","NATO Standards","Maritime Innovation"],
+      link: "https://www.marinelink.com/news/fmd-introduces-fully-autonomous-usv-538054",
+      coords: [10.7522,59.9139],
+      location: "Norway (Vestdavit)"
+    },
+    {
+      type: "news",
+      title: "REGENT's Squire Seaglider Drone Achieves Ground-effect Flight Milestone",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-04-14",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/04/regent-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• REGENT사의 Squire 자율 해글라이더 드론이 미국 내 첫 지면효과 비행에 성공, 방위산업용 WIG(날개-지면효과) 기술 영역에서 미국의 중국 추월 가능성 제시<br>• 최고 속도 70노트, 100해리 이상의 작전 범위, 50파운드 탑재량으로 정찰감시, 물류지원, 수색구조, 대잠전 임무 수행 가능<br>• Billy Thalheimer CEO는 "속도와 파도 내성 측면에서 시장의 어떤 제품도 이와 비교할 수 없는 경쟁력 있는 가격대"라 평가<br>• Pete Hegseth 국방부장관이 분쟁지역 물류 지원 격차 해소의 시급성을 강조하며 REGENT 같은 신생 방위산업체의 빠른 개발 촉구<br>• 동시에 Rhode Island에서 12인승 Viceroy Seaglider 프로토타입 해상시험 진행 중, 상업용과 방위용 병렬 개발 추진</p><h3>Key Quotes</h3><br>• "There are no products in the market today that combine the speed and wave tolerance of Squire at such a compelling price point. This will revolutionize maritime warfare." (현재 시장에 Squire와 같은 속도, 파도 내성, 가격 경쟁력을 갖춘 제품이 없으며, 해상전을 혁명적으로 변화시킬 것)<br>• "Defense customers require platforms that can operate across wide maritime areas with speed, range, and mission flexibility, without relying on traditional and often vulnerable infrastructure." (방위고객들은 전통적인 취약 기반시설에 의존하지 않으면서 광범위 해양 지역에서 고속, 장거리, 임무 유연성으로 운용 가능한 플랫폼 필요)</p><h3>Technical Insights</h3><br>• WIG(날개-지면효과) 기술은 물 표면 위의 에어쿠션을 이용한 극저고도 비행으로 레이더 탐지 회피 능력 제공, 차세대 자율해상전투시스템의 핵심 기술로 부상<br>• 50파운드 소형 탑재량 설계는 ISR, 물류, ASW 같은 다양 임무의 유연성 확보와 비용효율성을 동시에 추구하는 모듈형 플랫폼 아키텍처 반영<br>• 자율운항 드론의 방위산업 적용은 유인 함정 의존도 저감, 분쟁지역 분산배치, 그리고 contested logistics 환경에서의 신속한 재보급 능력 제공으로 해전 양상 변화 초래</p></div>`,
+      tags: ["autonomous vessels","wing-in-ground effect","defense technology","unmanned systems","maritime innovation"],
+      link: "https://www.navalnews.com/naval-news/2026/04/regents-squire-seaglider-drone-performs-ground-effect-flight/",
+      coords: [0,0],
+      location: "United States"
+    },
+    {
+      type: "news",
+      title: "Royal Australian Navy Establishes Maritime Autonomous Systems Unit (MASU)",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-04-14",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 호주 해군이 무인 해상 플랫폼 개발·통합·운영을 위한 전담 조직 MASU(Maritime Autonomous Systems Unit)를 공식 설립<br>• 자율항해 시스템의 실전 배치를 위한 조직적 인프라 구축으로 해군의 디지털 전환 추진 가속화<br>• MASU는 차세대 무인 해양 플랫폼 개발 및 운용 체계화를 목표로 함<br>• 호주 해군의 자율화 전략 이행의 구체적 이정표로 평가됨<br>• 인도-태평양 지역 해양 안보 경쟁에서 자율 시스템 기술력 확보 차원의 전략적 결정</p><h3>Key Quotes</h3><p>• "The unit's activation marks one of the most concrete organizational steps the Navy has taken toward embedding autonomous [systems]" <br>(이 부대의 운영 개시는 자율 시스템 통합화를 위해 해군이 취한 가장 구체적인 조직적 조치를 나타냄)</p><h3>Technical Insights</h3><p>• 무인 해양 플랫폼(UMS: Unmanned Maritime Systems)의 통합 운용 체계 구축으로 해전 양식의 혁신 추진<br>• 자율항해 시스템과 전투체계 통합에 있어 조직 단위의 책임 체계 명확화로 기술 개발-운용 선순환 구조 형성<br>• IMO 자율선박 국제기준(MSC.1/Circ.1642 등) 준수 및 COLREG 준수 메커니즘 연동 필요성 증대<br>• 인도-태평양 지역 해양 안보 환경에서 무인 시스템 기술 경쟁 가속화에 따른 국제 해사 규제 체계 진화 가능성</p></div>`,
+      tags: ["Autonomous Ships","Royal Australian Navy","Uncrewed Vessels","Maritime Technology","Naval Innovation"],
+      link: "https://defence-blog.com/royal-australian-navy-names-autonomous-systems-unit/",
+      coords: [133.7751,-25.2744],
+      location: "Australia"
+    }
+  ]
+});
