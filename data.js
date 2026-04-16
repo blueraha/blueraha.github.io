@@ -4335,3 +4335,53 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-15
+addEvents({
+  "2026-04-15": [
+    {
+      type: "news",
+      title: "Samsung Heavy Industries selects GTT for LNG carrier tank design",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-04-15",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/02/LNG-vessel-Source-GTT.jpg?image-crop-positioner-ts=1771505165",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• GTT(Gaztransport & Technigaz)가 삼성중공업으로부터 LNG 운반선의 저온 탱크 설계 수주 획득<br>• 174,000 입방미터(cbm) 용량의 LNG 운반선으로 2029년 인도 예정<br>• GTT의 Mark III Flex 멤브레인 격벽 시스템이 탑재되는 첨단 기술 적용 프로젝트<br>• 아시아 선주를 대상으로 2026년 1분기에 수주 확정<br>• 최근 중국 우동조선(Hudong-Zhonghua)에서 4척의 LNG 운반선 설계 수주에 이어 추가 성과</p><h3>Key Quotes</h3><br>• "The tanks will be fitted with GTT's Mark III Flex membrane containment system." (GTT의 Mark III Flex 멤브레인 격벽 시스템이 탑재될 예정)<br>• "The delivery of the vessel is expected in 2029." (선박의 인도는 2029년 예상)</p><h3>Technical Insights</h3><br>• LNG 운반선의 저온 저장 기술에서 GTT의 Mark III Flex 멤브레인 시스템은 업계 표준급 기술로, 안전성과 효율성 극대화<br>• 174,000 cbm 규모는 초대형 LNG 운반선 범주로, 글로벌 LNG 무역 확대 추세 반영<br>• 삼성중공업과 GTT의 지속적 협력은 한국 조선업의 고부가가치 LNG 선박 건조 역량 강화를 의미하며, 해양 에너지 인프라 고도화 추세와 일치</p></div>`,
+      tags: ["LNG carrier","GTT","Samsung Heavy Industries","Tank design","Mark III Flex"],
+      link: "https://www.offshore-energy.biz/samsung-heavy-industries-handpicks-gtt-for-lng-vessels-tank-design/",
+      coords: [127.1086,37.2663],
+      location: "South Korea"
+    }
+  ]
+});
+
+// Auto-collected: 2026-04-16
+addEvents({
+  "2026-04-16": [
+    {
+      type: "news",
+      title: "Seaspan Marine Sells Chip and Hog Fuel Barge Division to Hodder Tugboat",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-16",
+      image: "https://images.marinelink.com/images/maritime/w800/source-seaspan-169863.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Seaspan Marine이 칩(chip) 및 호그 연료 바지선(hog fuel barge) 사업부를 Hodder Tugboat에 매각하기로 합의<br>• 거래에는 인력, 기존 서비스, 연안 예인선(coastal tug), 강(river) 예인선, 바지선 및 관련 유지보수 시설 포함<br>• Hodder Tugboat은 Richmond 소재의 확립된 해양 운송 회사로 벌목 산업 전문성 보유<br>• Seaspan Marine은 100년 이상 태평양 연안에서 상업 및 산업 고객을 위한 해양 서비스 제공<br>• 이번 거래는 Seaspan의 선박 지원(ship assist) 및 선박 호위(vessel escort) 핵심 서비스에 자원을 집중시키는 전략적 재편</p><h3>Key Quotes</h3><br>• "This transition marks a strategic alignment of the company's operations, focusing on positioning resources around its core service offerings of ship assist and vessel escort to support ports, new terminals, and the increased number of vessels requiring specialized assistance." (이번 전환은 항만, 신규 터미널, 그리고 특화된 지원이 필요한 증가하는 선박 수를 지원하기 위해 선박 지원 및 선박 호위라는 핵심 서비스 중심으로 자원을 재배치하는 전략적 정렬을 의미함)</p><p>• "The acquisition of Seaspan's chip and hog barge division is a natural extension of that expertise, reinforcing Hodder's commitment to service for its coastal clients." (Seaspan의 칩 및 호그 바지선 사업부 인수는 Hodder의 기존 전문성의 자연스러운 확장이며 연안 고객 서비스 헌신을 강화함)</p><h3>Technical Insights</h3><br>• 해양 운송 산업의 사업 재편 트렌드 - 기업들이 핵심 역량 중심으로 포트폴리오를 재구성하고 있으며, 선박 지원 및 호위 서비스의 중요성이 증가하고 있음<br>• 지역별 전문화 심화 - Hodder의 벌목 산업 관련 운송 전문성과 Seaspan의 자산이 결합되어 태평양 연안 특화 서비스 강화 달성<br>• 항만 현대화와 선박 복잡도 증가로 인한 선박 지원 서비스 수요 확대가 Seaspan의 전략적 초점 변화를 주도하는 산업 동향 반영</p></div>`,
+      tags: ["M&A","Marine Services","Barge Operations","Tugboat","Forestry Transportation"],
+      link: "https://www.marinelink.com/news/seaspan-marine-sells-chip-hog-fuel-barge-538117",
+      coords: [-123.2208,49.2827],
+      location: "Pacific Coast / Richmond, BC"
+    },
+    {
+      type: "news",
+      title: "Iran Proposes Oman Exit Corridor for Strait of Hormuz Traffic",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-16",
+      image: "https://images.marinelink.com/images/maritime/w800/alones-adobe-169861.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이란이 호르무즈 해협을 통한 선박 통행료 부과 제안을 철회하고 오만 쪽 해역을 통한 자유로운 통행 허용 제안으로 전환 - 미국과의 협상 타결 조건<br>• 2월 28일 미-이스라엘 전쟁으로 인해 호르무즈 해협 통행 중단으로 전 세계 석유·LNG 공급량의 약 20% 차질, 수백 척의 유조선과 2만 명의 해원이 걸프만에 고립<br>• 4월 8일 2주일 휴전이 시작되었으며 트럼프 대통령은 전쟁 종료가 임박했다고 발표했으나, 호르무즈 해협 통제권이 협상의 핵심 쟁점으로 남아있음<br>• 제안 이행 조건은 미국이 이란의 요구를 수용하는지 여부에 달려있으며, 이란이 오만 영해에 설치한 지뢰 제거 또는 이스라엘 관련 선박의 통행 허용 여부는 미정<br>• 국제해사기구(IMO) 회원국들은 호르무즈 해협 통행료 부과가 국제해사법 위반이라는 강경한 입장 유지</p><h3>Key Quotes</h3><p>• "Iran could consider allowing ships to sail freely through the Omani side of the Strait of Hormuz without risk of attack as part of proposals it has offered in negotiations with the United States" (이란이 미국과의 협상에서 호르무즈 해협 오만 쪽을 통한 선박의 자유로운 통행을 공격 위험 없이 허용하는 방안을 제시했다)</p><p>• "The proposal would be the first visible step by Tehran to pull back from more combative ideas floated in recent weeks, which included charging ships for passage through the international waterway" (이 제안은 선박 통행료 부과 등의 강경한 입장에서 물러나는 이란의 첫 번째 가시적 움직임이다)</p><h3>Technical Insights</h3><p>• 호르무즈 해협의 34km 폭 중 오만 영해 통행 통제는 국제해사법상 영해주권 행사와 공해 자유 항행권 간의 미묘한 법적 균형점으로, IMO가 인정한 1968년 양방향 통행분리제도(TSS)와의 조화 필요<br>• 지뢰 설치·제거, 선박 선별 통행 등 해군 작전 문제가 해결되지 않으면 선주 보험료 급등으로 인한 해운·에너지 가격 전가 위험 지속<br>• 국제해사기구의 강경한 입장은 일관된 해양법 준칙 유지의 중요성을 반영하며, 호르무즈 해협 통행료 선례화 방지가 글로벌 해상로 자유 항행의 기본 원칙 보호에 필수적</p></div>`,
+      tags: ["Strait of Hormuz","Iran negotiations","Maritime security","Shipping disruption"],
+      link: "https://www.marinelink.com/news/iran-offer-oman-exit-proposal-538115",
+      coords: [56.2639,26.1551],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
