@@ -4280,3 +4280,58 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-15
+addEvents({
+  "2026-04-15": [
+    {
+      type: "news",
+      title: "Royal Australian Navy formally names Maritime Autonomous Systems Unit (MASU)",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-04-15",
+      image: "https://www.navalnews.com/wp-content/uploads/2024/08/3-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 호주 해군이 해양 자율시스템 부대(MASU)를 공식 명명하여 무인 해상 시스템의 운영 통합을 가속화하는 이정표 달성</p><p>• Ghost Shark 초대형 무인 잠수정(XL-UUV), Bluebottle 무인 수상함정(USV), Speartooth 대형 무인 잠수정(LUUV) 등 다중 자율시스템 운영 능력 보유</p><p>• 무인시스템제어센터(USCC)와 전개 가능 차량팀으로 구성되어 전 세계 임의의 항만에서 자율시스템 배치 및 제어 수행 가능</p><p>• AUKUS 2기둥(Pillar Two)의 일환으로 교리 개발, 실험, 운영, 훈련, 시험 평가의 중심 역할 담당</p><p>• 유인 함정을 보완하여 작전 범위 확대, 내구력 증대, 해군 인원 위험 감소로 미래 전장 대비 강화</p><h3>Key Quotes</h3><p>• "Announcing MASU's name gives the team a formal sense of identity as we work to rapidly introduce this capability into the Fleet" (함대에 이 능력을 신속히 도입하기 위해 공식적인 단체 정체성 부여)</p><p>• "MASU will provide Navy with a long-range autonomous undersea capability through uncrewed systems...to provide a range of asymmetric options to complement Defence's existing crewed force" (무인시스템을 통해 장거리 자율 수중 능력 제공, 기존 유인 전력을 보완하는 다양한 비대칭 옵션 제시)</p><h3>Technical Insights</h3><p>• **자율 무인 시스템의 전술 운영**: Ghost Shark, Bluebottle, Speartooth 등 이질적 자율시스템의 통합 운영으로 정보·감시·정찰(ISR) 및 타격 임무의 지속성과 효율성 극대화 가능</p><p>• **IMO/COLREG 국제 규범과의 조화**: 해양 자율시스템의 국제 해역 운항에 있어 AUKUS 및 국제 동맹국과의 협력을 통한 운영 표준 및 교리 개발 필요</p><p>• **산업-국방 협력 생태계**: 방위산업, 연구기관, 국제 동맹국과의 협력으로 신흥 자율시스템 기술의 신속한 통합 및 성숙화 추진</p><p>• **전략적 비용-효율성**: 유인 함정의 인원 위험 감소와 작전 범위 확대를 통해 해양 방어 전략의 회복탄력성 및 비용 효율성 향상</p></div>`,
+      tags: ["autonomous systems","Royal Australian Navy","uncrewed vehicles","AUKUS","maritime defense"],
+      link: "https://www.navalnews.com/naval-news/2026/04/royal-australian-navy-names-autonomous-systems-unit/",
+      coords: [151.2093,-33.8688],
+      location: "Sydney, Australia"
+    },
+    {
+      type: "news",
+      title: "FMD's Vestdavit unveils AutoHook LARS for autonomous USV recovery",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-04-15",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/04/Autohook-Fully-Autonomous-Vessel-Recovery-Interface-by-Fairbanks-Morse-Defenses-Vestdavit.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Fairbanks Morse Defense(FMD)의 Vestdavit이 무인수상함(USV) 회수를 위한 최초의 완전 자율 Launch and Recovery System(LARS) 'AutoHook™' 개발 완료</p><p>• AutoHook는 기존 해상 상태 2(Sea State 2) 제약을 넘어 해상 상태 4(Sea State 4)에서 운영 승인 달성, 완전 자동화를 통해 인적 개입 제거</p><p>• AI 기반 비전 시스템과 탑재 추진기를 활용하여 동적 목표물 추적 및 안정적 고정, 승무원 노출 위험 제거 및 작전 효율성 향상</p><p>• NATO 작전 표준 준수 및 연합군 함대 간 상호운용성 설계로 기존 함선 개조 없이 간단한 설치 가능</p><p>• 무인 시스템의 분산 해양 작전 전환에 따른 미국 및 동맹국 해군의 신뢰할 수 있는 자동화 능력 제공</p><h3>Key Quotes</h3><p>• "The global shift toward distributed maritime operations depends on unmanned systems that perform in real-world conditions and integrate seamlessly across allied fleets. AutoHook not only supports fleet modernization, it breaks the Sea State 2 ceiling that has long constrained manual launch and recovery." <br>(분산 해양 작전으로의 전환은 실제 조건에서 작동하고 연합군 함대 간 원활하게 통합되는 무인 시스템에 달려 있으며, AutoHook는 기존 해상 상태 2 제약을 극복한다)</p><p>• "By delivering advanced launch and recovery solutions purpose-built for the operational demands of the U.S. fleet, we are helping ensure American forces, and those of our allies, have the reliable, scalable capability they need to operate effectively today and for decades to come."<br>(미 해군의 작전 수요에 맞춘 고급 발진·회수 솔루션을 제공함으로써 미국과 동맹국 해군이 오늘날 그리고 향후 수십 년간 효과적으로 작전할 수 있는 신뢰성 있는 확장 가능한 능력을 보장)</p><h3>Technical Insights</h3><p>• **자율 무인시스템 운용 혁신**: AI 기반 비전 시스템과 온보드 추진기를 통해 기존 원격 조종 방식에서 완전 자동화 운영으로 전환, 해상 상태 4까지 안정적 운영 가능 - 이는 해양 작전 안전성 및 효율성 대폭 향상</p><p>• **NATO 상호운용성 표준 부합**: 연합군 함대 간 호환성 확보로 국제 해양 방위 협력 강화, 기존 함선 대폭 개조 없이 클램프 방식 설치로 비용 절감 및 신속 배치 가능</p><p>• **무인 수상함(USV) 운영 패러다임 전환**: 완전 자동화된 발진·회수 시스템으로 분산 해양 작전(Distributed Maritime Operations) 실현 가능, 무인 함대 확대에 따른 해군 운영 혁신 지원</p><p>• **작업자 안전성 및 작전 신뢰도 향상**: 자동화를 통해 수동 연결 과정에서 발생하는 인적 부상 위험 제거, 동적 목표물 추적의 정확성 및 속도 증가로 작전 신뢰성 확보</p></div>`,
+      tags: ["Autonomous Systems","USV","LARS","Maritime Technology","Defense Innovation"],
+      link: "https://www.navalnews.com/naval-news/2026/04/fmds-vestdavit-unveils-autohook-lars-for-usv/",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "Royal Navy seeks unmanned aerial systems for maritime test range operations",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-04-15",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 영국 해군이 해상 무기 시험 범위 정리 및 모니터링용 무인항공시스템(UAS) 도입을 위한 공식 정보요청(RFI)을 2026년 4월 14일 발표<br>• 영국 국방조달포털(Defence Sourcing Portal) 및 계약체계(Contracts Finder)를 통해 광범위한 기술 규격서 공개<br>• 해군 사령부에서 주도하는 이번 RFI는 테스트 레인지 운영의 자동화 및 효율성 향상을 목표<br>• 무인항공시스템은 위험한 해상 환경에서 인명 손실 없이 감시 및 정리 작업 수행 가능<br>• 방위산업 기업들의 기술 제안 수렴으로 차세대 해상 운영 체계 개발 촉진 예상</p><h3>Key Quotes</h3><br>• "The Royal Navy has launched a formal Request for Information (RFI) seeking unmanned aerial systems capable of clearing and monitoring maritime weapons test ranges" (영국 해군이 해상 무기 시험 범위 정리 및 모니터링을 위한 무인항공시스템 도입 제안을 공식 요청)<br>• "Navy Command Headquarters announced on April 14, 2026" (해군 사령부 본부가 2026년 4월 14일 공식 발표)</p><h3>Technical Insights</h3><br>• 무인항공시스템의 자율운영 기술은 해상 시험 범위의 안전성 강화 및 운영 효율성 증대에 기여 예상<br>• 국방 부문의 드론 기술 고도화는 해양 감시 및 모니터링 분야 민간 자율항해 기술로의 파급효과 가능<br>• IMO 해상안전 규정 강화와 함께 해상 자동화 기술의 수용성 증대로 방위산업-민간해운업 기술 교류 활성화 가능성<br>• 테스트 레인지 운영의 자동화는 해상에서의 무인운영시스템 검증 플랫폼으로 작용하여 향후 자율선박 개발에 선행 데이터 제공</p></div>`,
+      tags: ["Royal Navy","Unmanned Aerial Systems","Maritime Test Ranges","Defense Procurement"],
+      link: "https://defence-blog.com/royal-navy-seeks-drones-to-clear-maritime-test-ranges/",
+      coords: [-3.4353,55.3781],
+      location: "United Kingdom"
+    },
+    {
+      type: "news",
+      title: "UAE firm BGN secures first LNG carrier through joint venture with CCEC, targets two vessels by 2027",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-04-15",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/04/BGN-signs-JV-with-CCEC-for-LNG-carrier.jpg?image-crop-positioner-ts=1776262006",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **BGN의 LNG 선박 진출**: 두바이 기반 에너지·원자재 거래회사 BGN이 CCEC 계열사와의 장기 차터 계약을 통해 첫 LNG 운송선 'Amore Mio I'를 2027년 초 인수할 예정</p><p>• **전략적 합작회사 설립**: BM Capital이라는 합작회사를 통해 174,000 cbm 규모의 2행정 LNG 운반선을 10년 장기 차터(6년 추가 연장 옵션)하는 거래 체결</p><p>• **친환경 규제 준수**: IMO Tier III 배출 기준을 충족하며 선박 재액화 장치와 축발전기를 갖춘 최신형 선박으로, 글로벌 고객 수요 충족 능력 강화</p><p>• **야심찬 함대 확대 계획**: 2027년까지 LNG 운반선 2척, 2028년까지 LPG 운반선 10척 도입을 목표로 하는 적극적 해운 사업 전략 추진</p><p>• **CCEC의 포트폴리오 다양화**: Capital Clean Energy Carriers는 이 거래를 통해 신용도 높은 에너지 거래 파트너와의 장기 협력 관계 구축 및 현금흐름 가시성 강화</p><h3>Key Quotes</h3><p>• "Taking delivery of our first LNG shipping vessel significantly enhances our fleet capacity and ability to meet growing demand across our global customers." (첫 LNG 운송선 인수를 통해 함대 수용력과 글로벌 고객 수요 충족 능력이 크게 향상될 것)</p><p>• "We are very pleased to have concluded this innovative transaction with the BGN group, which enables CCEC to achieve several strategic objectives simultaneously." (BGN 그룹과의 혁신적 거래 체결을 통해 CCEC의 여러 전략적 목표를 동시에 달성할 수 있게 됨)</p><h3>Technical Insights</h3><p>• **IMO 규제 대응**: Amore Mio I의 IMO Tier III 배출 기준 준수는 국제 해양 환경 규제 강화 추세에 부응하는 선박 운영 전략으로, 향후 해운사들의 필수 투자 요소가 될 것으로 예상</p><p>• **LNG 운송 시장 안정성**: 장기 10년 차터 계약으로 보아 LNG 운송 부문이 주요 에너지 거래사들에게 안정적이고 수익성 있는 사업으로 평가받고 있음을 시사</p><p>• **합작투자 모델의 확산**: 선박 소유와 운영을 분리하여 여러 파트너가 참여하는 구조로, 고가의 선박 자산에 대한 투자 리스크 분산과 자본 효율성 향상을 도모하는 해운업 트렌드 반영</p></div>`,
+      tags: ["LNG carrier","Fleet expansion","BGN Shipping","CCEC","Maritime logistics"],
+      link: "https://www.offshore-energy.biz/uae-firm-to-enrich-fleet-with-two-lng-carriers-by-2027-first-vessel-deal-now-in-the-bag/",
+      coords: [55.2708,25.2048],
+      location: "Dubai, UAE"
+    }
+  ]
+});
