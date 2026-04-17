@@ -4385,3 +4385,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-17
+addEvents({
+  "2026-04-17": [
+    {
+      type: "news",
+      title: "Starlink Outage Exposes Pentagon's Growing Reliance on SpaceX for Autonomous Naval Operations",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-17",
+      image: "https://images.marinelink.com/images/maritime/w800/photocreo-bednarek-169910.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2025년 8월 Starlink 글로벌 장애로 인해 미 해군의 무인 수상함정(자율주행 드론) 약 24척이 캘리포니아 연안에서 통신 두절 및 약 1시간 운영 중단 발생</p><p>• 사건 관련 주체: 미 해군(U.S. Navy), SpaceX/Starlink, 국방부(Pentagon), 우주군(U.S. Space Force)</p><p>• SpaceX는 저궤도 위성통신 분야에서 거의 독점적 지위 확보 중이며, 펀딩 라운드에서 2조 달러 기업 가치 평가 예상</p><p>• 미 정부의 Starlink 의존도 심화에 따른 단일 실패점(Single Point of Failure) 리스크 노출 - 자율함정, 미사일 추적, 국방 AI 등 핵심 프로그램 영향</p><p>• 민주당 의원들이 세계 최고 부자 주도의 단일 기업에 대한 국방부 의존도 증가에 대한 경고 제시</p><p>• Amazon의 Globalstar 인수($116억) 등 경쟁 심화에도 불구하고 SpaceX의 저궤도 통신 시장 우위 지속</p><h3>Key Quotes</h3><p>• "If there was no Starlink, the U.S. government wouldn't have access to a global constellation of low earth orbit communications" (만약 Starlink이 없다면, 미 정부는 글로벌 저궤도 위성통신 네트워크에 접근할 수 없을 것이다 - CSIS 항공우주보안 프로젝트 차장 Clayton Swope)</p><p>• "Department leverages multiple, robust, resilient systems for its broad network" (국방부는 광범위한 네트워크를 위해 다양하고 견고하며 복원력 있는 시스템을 활용하고 있다 - 국방부 최고정보책임자 Kirsten Davies)</p><h3>Technical Insights</h3><p>• **자율주행 함정의 통신 인프라 의존성**: 무인 수상함정(USV) 운영에 있어 저궤도 위성통신이 필수 요소이나, 단일 벤더의 서비스 장애 시 전체 작전 중단 위험 - COLREG 자동화 시스템의 신뢰성 문제와 연계</p><p>• **국방 자율화 기술의 취약점**: 드론 제어, 미사일 추적, AI 기반 전술체계 등 첨단 국방 자율시스템이 민간 위성통신 인프라에 종속되는 구조적 리스크 - IMO 자율선박 규범과 별개로 국방 차원의 독립적 통신망 필요성 대두</p><p>• **저궤도 위성 통신의 산업화 및 규제 이슈**: SpaceX의 거의 독점적 지위가 경쟁 부재로 인한 서비스 품질 개선 둔화 가능성 및 국가안보 차원의 공급망 다원화 필요 - 향후 Amazon, OneWeb 등 경쟁자 진입에 따른 시장 재편 예상</p><p>• **자율선박과 국방 자동화의 수렴**: 상용 자율선박 기술이 군사적으로 활용되면서 민간 통신 인프라 의존도 증가 - IMO 자율선박 안전 기준(e-Navigation, MASS Code)과 국방 운영의 안전성 상충 가능성 주의</p></div>`,
+      tags: ["Autonomous Ships","Starlink","Pentagon","Military Communications","Unmanned Vessels"],
+      link: "https://www.marinelink.com/news/starlink-outage-exposes-pentagons-growing-538182",
+      coords: [-120.4,36.7],
+      location: "California Coast, USA"
+    }
+  ]
+});
+
+// Auto-collected: 2026-04-16
+addEvents({
+  "2026-04-16": [
+    {
+      type: "news",
+      title: "Mermaid Subsea Services extends Island Valiant contract for North Sea decommissioning",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-04-16",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/04/93-meter-subsea-support-vessel-stays-with-Mermaid-Subsea-Services.jpg?image-crop-positioner-ts=1776338113",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 머메이드 해상 서비스(Mermaid Subsea Services)가 북해 작업용 93.4미터 규모의 Island Valiant 선박과의 계약을 추가로 12개월 연장<br>• 2024년부터 운영해온 Island Valiant는 유정 폐기(P&A)·정밀검사·수리·유지보수(IRM) 활동에 투입되고 있음<br>• 북해 해제(decommissioning) 시장이 향후 수개월~수년에 걸쳐 활동 증가 예상되는 전환기에 진입<br>• Island Valiant는 2007년 인수 후 고정식 작업급 원격조종차량(WROV)과 악천후용 LARS 장비 탑재<br>• 머메이드는 2024년 이후 3년간 축적한 북해 해제 분야 전문성으로 지역 내 주요 공급업체로 입지 확보</p><h3>Key Quotes</h3><br>• "The North Sea decommissioning market is at a pivotal moment, with operations set to ramp up in the coming months and years" (북해 해제 시장이 향후 수개월과 수년에 걸쳐 작업이 증가될 전환점에 위치)<br>• "By committing to the basin for another 12 months, we're continuing to provide our customers with an expertise in well decommissioning and asset integrity" (추가 12개월 계약으로 고객에게 유정 해제 및 자산 무결성 분야의 전문성 제공 지속)</p><h3>Technical Insights</h3><br>• 북해 해제 산업의 성장 국면에서 고정식 WROV 및 악천후용 해중 작업 장비를 갖춘 전문 지원선박의 가용성 중요성 증대<br>• 에너지 전환 정책에 따른 노후 해양 구조물 해제 수요 급증으로 그레이 플릿(grey fleet) 대응 및 안전운영 표준화 필요<br>• 60인 수용 능력의 중형 지원선박이 북해의 악천후 환경에서 안정적인 인력 운영 및 물류 지원을 가능하게 함</p></div>`,
+      tags: ["subsea support vessel","North Sea","decommissioning","well abandonment"],
+      link: "https://www.offshore-energy.biz/93-meter-subsea-support-vessel-stays-with-mermaid-subsea-services/",
+      coords: [-2,57.5],
+      location: "North Sea"
+    }
+  ]
+});
