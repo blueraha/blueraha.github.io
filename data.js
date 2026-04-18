@@ -4423,3 +4423,71 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-17
+addEvents({
+  "2026-04-17": [
+    {
+      type: "news",
+      title: "Europe Moves From Rhetoric to Planning as Paris Summit Weighs Hormuz Security Mission",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-17",
+      image: "https://gcaptain.com/wp-content/uploads/2025/11/Red-Sea-transit.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **호르무즈 해협 안보 미션의 실질적 추진**: 파리 정상회담에서 유럽을 중심으로 약 40개국이 참여하여 상업선박의 호르무즈 해협 통과 보안을 위한 다국적 군사작전 구성을 논의 중</p><p>• **이란-미국의 상충되는 공개 성명**: 이란은 휴전 기간 동안 해협을 "완전히 개방"했다고 선언하면서도 이란 해안선을 따르는 "조정된 항로" 준수를 요구하고, 트럼프 대통령은 "완전 개방"을 재확인하되 이란에 대한 해군 봉쇄는 유지하겠다고 선언</p><p>• **독일의 조건부 참여 의사**: 프리드리히 머츠 독일 총리가 휴전, UN 안보리 국제 위임, 독일 의회 승인을 전제로 호르무즈 해협 보안 작전 지원 준비 의사 표시</p><p>• **글로벌 해운·에너지 시장에 미치는 영향**: 호르무즈 해협은 세계 석유 20% 이상을 운송하는 전략적 병목지점으로, 장기 운송 마비 시 탱커 요율, 벙커유 가격, 보험료, 공급망 전반에 큰 영향</p><p>• **유럽의 이중 목표**: 전투 작전 회피 선호와 글로벌 무역로 보호 사이의 외교적 균형 모색, 이론상 개방과 실제 운영 간 격차 해결 필요</p><h3>Key Quotes</h3><p>• "passage for all commercial vessels through the strait is 'declared completely open' for the duration of the ceasefire, with transits to follow a 'coordinated route' along Iran's coastline" (휴전 기간 동안 모든 상업선의 해협 통과가 "완전히 개방"되며, 이란 해안선을 따르는 "조정된 항로"를 준수해야 함)</p><p>• "Germany was prepared in principle to help secure maritime traffic through Hormuz, but only if there were a ceasefire, an international mandate, ideally from the United Nations Security Council, and approval from the German parliament" (독일은 휴전, 국제 위임(이상적으로는 UN 안보리), 국회 승인을 전제로 호르무즈 해협 해상 교통 보안 지원 준비)</p><h3>Technical Insights</h3><p>• **항로 제한과 해상 자유도 불일치**: 이란의 "조정된 항로" 요구는 실질적 운항 자유도를 제한하는 것으로 보이며, UNCLOS(국제해양법협약) 상 해협 통항권과의 법적 충돌 가능성 존재</p><p>• **다국적 해상 안보 작전의 규제 프레임워크**: UN 안보리 위임 없는 유럽의 독립적 작전 추진 가능성이 국제해양법과 IMO 규범상 논란의 여지를 남김</p><p>• **호르무즈 해협 해상 교통 관리의 기술적 과제**: 실시간 선박 추적(AIS), 조정된 항로 준수 감시, 멀티 스테이크홀더 간 정보 공유 체계 필요성 증가로 해양 자율선박 기술의 실제 적용 기회 확대</p><p>• **지정학적 리스크 관리의 보험·비용 구조**: 조건부 개방으로 인한 지속적인 불확실성은 선사의 보험료, 연료비, 우회항로 비용 증가를 초래하며, 이는 해운업계의 자동화·효율화 투자 동력으로 작용</p></div>`,
+      tags: ["Strait of Hormuz","Maritime Security","Multinational Coalition","Freedom of Navigation","Geopolitics"],
+      link: "https://gcaptain.com/europe-moves-from-rhetoric-to-planning-as-paris-summit-weighs-hormuz-security-mission/",
+      coords: [56.2465,26.1367],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "Iran Declares Strait of Hormuz Open Amid Geopolitical Tensions and U.S. Blockade Concerns",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-17",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/2026-03-26T191814Z_1897759985_RC2OZJAQWKGC_RTRMADP_3_CERAWEEK-ENERGY-OIL-PROFIT-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 이란이 호르무즈 해협의 상업용 선박 통행을 "완전히 개방"했다고 선언했지만, 이란 해안선을 따라가야 하는 "조정된 항로" 요구로 인해 실제 운영상 불명확성이 존재함</p><p>• 트럼프 대통령이 호르무즈 개방을 환영했으나, 동시에 미국의 해상 봉쇄가 "완전한 효력을 유지"할 것이라 명시하여 모순된 입장을 드러냄</p><p>• 유전 가격이 이 소식에 10% 이상 급락했으며, 이는 글로벌 에너지 시장에 즉각적인 영향을 미쳤음</p><p>• 호르무즈 해협의 기존 해운 항로에 해양 지뢰가 여전히 존재할 가능성이 있어 실제 통행의 안전성이 불확실함</p><p>• 미국의 해상 봉쇄가 항구 중심에서 글로벌 차원의 적발 캠페인으로 확대되었으며, JMIC의 최신 권고는 이란 해역 외에서도 선박 검사 및 압수가 가능함을 시사</p><h3>Key Quotes</h3><p>• "Passage for all commercial vessels through the Strait of Hormuz is declared completely open for the remainder of the ceasefire." (호르무즈 해협을 통한 모든 상업용 선박의 통행이 휴전 기간 동안 완전히 개방되었다는 선언)</p><p>• "The strait is completely open and ready for business and full passage, while emphasizing that the U.S. naval blockade would remain in full force and effect as it pertains to Iran." (해협이 완전히 개방되어 있으나, 미국의 해상 봉쇄는 이란과 관련하여 완전한 효력을 유지한다는 이중적 입장)</p><p>• "Iran has agreed to never close the Strait of Hormuz again. It will no longer be used as a weapon against the World!" (이란이 호르무즈 해협을 다시는 닫지 않겠다고 합의했다는 외교적 성명)</p><h3>Technical Insights</h3><p>• 호르무즈 해협의 "조정된 항로(coordinated route)" 요구사항은 이란 당국과의 실시간 조율이 필수적임을 의미하며, 이는 선박 운영의 예측 불가능성과 지연을 초래할 수 있음</p><p>• 미국의 "교전권에 의한 검사(belligerent right to visit and search)" 확대는 국제 해법상 중립국 선박의 항행의 자유 원칙과 충돌 가능성이 있으며, IMO 규제와의 조화 필요성이 제기됨</p><p>• 해양 지뢰 제거 작업의 진행 상황이 불명확한 상황에서 선주와 보험업체는 호르무즈 통행 선박에 대한 위험 평가 재검토를 요구할 것으로 예상되며, 통행료 및 보험료 상승 가능성 존재</p><p>• 조건부 개방과 지속적인 미국 봉쇄라는 모순적 상황은 글로벌 해운업계에 규제 불확실성을 야기하며, 호르무즈 우회 항로 개발에 대한 산업계의 재투자 동기를 유발할 수 있음</p></div>`,
+      tags: ["Strait of Hormuz","Iran","U.S. Blockade","Shipping Routes","Geopolitical Risk"],
+      link: "https://gcaptain.com/iran-and-trump-declare-hormuz-open-but-route-and-u-s-blockade-cloud-reality/",
+      coords: [56.2431,26.1367],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "Hormuz Strait Reopens After Ceasefire Deal Between Israel and Hezbollah",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-17",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockphotix-169926.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 호르무즈 해협이 이란-이스라엘 분쟁 이후 휴전협정에 따라 재개되었으며, 이란 외교부 장관 아바스 아라크치가 상업 선박의 통행을 허용한다고 발표<br>• 해협 폐쇄로 인해 전 세계 석유 및 액화천연가스 교역의 5분의 1이 영향을 받았으며, 국제통화기금(IMF)은 세계 경제가 경기 침체에 빠질 위험을 경고<br>• 트럼프 대통령은 이란과의 거래가 곧 완료될 것으로 낙관하지만, 미국의 이란 항구행 선박 봉쇄는 계속 유지<br>• 하팍-로이드(Hapag-Lloyd)와 노르웨이선주협회(Norwegian Shipowners' Association) 등 주요 해운사는 기뢰 위협 등을 이유로 신중한 입장 유지<br>• 휴전 이전 하루 평균 130척의 선박이 통과했으나, 해운사들은 정상 운영 복귀에 시간이 소요될 것으로 예상</p><h3>Key Quotes</h3><p>• "The Strait was open for all commercial vessels for the remainder of the U.S.-brokered 10-day truce between Israeli forces and Iran-backed Hezbollah" (이란은 미국이 중재한 10일간의 휴전 기간 동안 모든 상업 선박의 통행을 허용한다고 발표)</p><p>• "Transit would be through designated lanes that Iran deemed safe for navigation and would exclude naval vessels" (이란이 안전하다고 판단하는 지정된 항로를 통해서만 통행 가능하며, 군함은 제외된다는 의미)</p><p>• "Several factors needed to be clarified, including the possible presence of sea mines" (기뢰의 가능성을 포함하여 여러 요인이 명확히 되어야 한다는 해운업계의 우려)</p><h3>Technical Insights</h3><p>• 호르무즈 해협 폐쇄로 전 세계 해상 물동량의 약 20%가 영향을 받았으며, 재개통이 글로벌 해운 산업의 회복에 미치는 파급 효과는 상당할 것으로 예상</p><p>• 이란이 지정된 항로(designated lanes)를 통한 통행만 허용하겠다는 입장은 기존 항해 자유도(freedom of navigation)와 국제해사법상 무해통항권(innocent passage)에 영향을 미칠 수 있는 사항</p><p>• 기뢰 제거 및 해상 안전 확보 등 실질적인 해양 인프라 복구 없이는 일일 130척 수준의 통상 물동량 회복에 상당한 시간이 소요될 것으로 분석</p><p>• 미국의 해상 봉쇄 유지로 인해 이원화된 해협 통행 체계가 형성될 수 있으며, 이는 해운 기업의 경로 선택 및 보험료 산정에 추가적인 복잡성 초래</p></div>`,
+      tags: ["Hormuz Strait","Ceasefire","Iran-Israel Conflict","Shipping Routes"],
+      link: "https://www.marinelink.com/news/hormuz-strait-reopens-ceasefire-deal-538201",
+      coords: [56.5,26.5],
+      location: "Strait of Hormuz, Persian Gulf"
+    },
+    {
+      type: "news",
+      title: "World's First Global Shipping Carbon Price Talks Resume at UN",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-04-17",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2022/10/Screenshot_3.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• IMO는 2023년 해운 부문의 기후 목표 달성을 위해 탄소가격 제도(economic measure)와 연료 기준(technical measure) 병행을 합의했으며, 2025년 IMO Net-Zero Framework(NZF)에 포함되었음</p><p>• 미국, 사우디아라비아, 러시아 등 석유 생산국의 강한 반발로 NZF 채택이 지연되었으며, 2026년 11월까지 재논의 예정</p><p>• UN 산하 IMO 런던 본부에서 4월 20-24일 기술 실무그룹 회의(ISWG-GHG-21)와 4월 27일-5월 1일 해양환경보호위원회 84차 회의(MEPC84) 개최 예정</p><p>• Tufts 대학 Rockford Weitz 교수는 트럼프 정부의 NZF 거부가 미국의 조선업 부흥과 글로벌 경쟁력 강화 목표와 모순된다고 지적</p><p>• 글로벌 해운 포럼 Jesse Fahnestock은 "산업이 필요로 하는 것은 안정적이고 강제성 있으며 포용적인 규제 틀"이라 강조</p><p>• 탄소가격 제도 도입 시 선주들의 친환경 연료(암모니아, 메탄올 엔진) 투자 유인 제공 및 장기적 연료비 절감 기대</p><h3>Key Quotes</h3><p>• "By rejecting the IMO Net-Zero Framework, the Trump administration is letting ideology undermine their own goals, as outlined in the 2025 National Maritime Strategy and 2026 Maritime Action Plan" <br>(IMO Net-Zero Framework를 거부함으로써 트럼프 정부는 자신들의 해운전략과 목표를 이념으로 훼손하고 있다는 비판)</p><p>• "One of the best ways to achieve this is by supporting investment in new, clean technologies, including ships powered by ammonia and methanol powered engines"<br>(암모니아 및 메탄올 추진 선박 같은 청정기술 투자 지원이 산업 경쟁력 강화의 최선책임)</p><p>• "Global regulation will give the industry the certainty it needs to make critical investments in the new fuels, vessels, and infrastructure needed to deliver on that strategy"<br>(국제 규제는 산업에 친환경 연료, 선박, 인프라 투자를 위한 확실성을 제공함)</p><h3>Technical Insights</h3><p>• IMO Net-Zero Framework는 탄소가격 메커니즘(carbon pricing)과 기술 기준(fuel standard) 두 가지 축으로 설계되어 있으며, 이는 해운 산업의 구조적 전환에 필수적인 이중 정책 수단</p><p>• 글로벌 탄소가격 제도 도입 시 암모니아(NH₃), 메탄올(CH₃OH) 등 차세대 해운 연료로의 기술 전환 촉진 및 투자 유인 강화 가능</p><p>• 미국 등 주요국의 거부로 인한 규제 불확실성은 선주들의 장기 투자 의사결정을 저해하며, 결과적으로 IMO 2030/2040/2050 탄소중립 목표 달성 지연 우려</p><p>• MEPC84 회의의 결정 여부가 2026년 말 최종 채택까지의 기술적·정치적 로드맵을 결정짓는 중요한 분기점 역할</p></div>`,
+      tags: ["Carbon Pricing","IMO Net-Zero Framework","Shipping Decarbonization","Climate Regulation"],
+      link: "https://www.offshore-energy.biz/worlds-first-global-shipping-carbon-price-talks-back-at-uns-bargaining-table/",
+      coords: [-0.1276,51.5074],
+      location: "London"
+    },
+    {
+      type: "news",
+      title: "Astro Offshore expands ultra-deepwater capabilities with new MPSV Astro Atlas",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-04-17",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/04/Energy-Savannah-soon-to-be-renamed-Astro-Atlas-Courtesy-of-Golden-Energy-Offshore.jpg?image-crop-positioner-ts=1776427104",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 두바이 기반 해상산업 운영사인 Astro Offshore(아다니 그룹 소속)가 2021년 건조된 97미터 규모의 다목적 지원선(MPSV) '에너지 새바나'호를 인수하여 '아스트로 아틀라스'로 개명하기로 결정</p><p>• 본 선박은 회사 함대 중 최대 규모이며, 150톤 해저 AHC 크레인, 25톤 보조 크레인, 문풀(moonpool) 등을 탑재하고 최대 100명 수용 가능</p><p>• DP2 동적위치 유지 시스템을 갖추고 있으며, 3,000미터 이상의 수심에서 초심해 작업 수행 가능한 능력을 보유</p><p>• Oceaneering International과의 용선 계약을 통해 해저 건설, 케이블 설치, 파이프라인 설치 등 복잡한 해양 작업 지원</p><p>• Astro Offshore CEO Mark Humphreys는 "이 선박이 우리 회사를 초심해 시장에 처음 진입하게 해주며, 더욱 복잡하고 가치 높은 해양 프로젝트에 접근 가능하게 한다"고 평가</p><h3>Key Quotes</h3><p>• "The introduction of Astro Atlas significantly enhances our operational capability and underscores our continued investment in a modern, high-spec fleet, particularly in ultradeepwater environments." (아스트로 아틀라스의 도입은 우리의 운영 능력을 크게 향상시키며, 특히 초심해 환경에서 현대적이고 고성능 함대에 대한 지속적 투자를 재확인하는 것)</p><p>• "This brings together Astro Offshore's modern, high-spec vessel capabilities with Oceaneering's established subsea and ROV expertise, enabling efficient execution of construction, installation, and intervention scopes." (이는 Astro Offshore의 현대적 고성능 선박 능력과 Oceaneering의 확립된 해저 및 ROV 전문성을 결합하여 건설, 설치, 개입 작업의 효율적 수행을 가능케 함)</p><h3>Technical Insights</h3><p>• **초심해 작업 능력의 획기적 전환**: 3,000미터 이상 수심 작업이 가능한 고급 DP2 시스템 도입으로 기존에 수행하지 못했던 초심해 유전 개발, 해저 파이프라인 설치, 해저 탐사 작업 등 고부가가치 프로젝트 진출 가능</p><p>• **산업 파트너십 강화의 중요성**: Oceaneering과의 전략적 제휴를 통해 ROV(원격조종잠수정) 운영 전문성 확보, 해저 작업의 안전성 및 효율성 향상으로 글로벌 해양 에너지 시장에서의 경쟁력 강화</p><p>• **다기능 해상 지원 플랫폼의 시장 수요**: 150톤 크레인과 100명 수용 시설을 갖춘 멀티퍼포스 선박이 재정의되고 있으며, 신재생에너지(해상풍력) 및 전통 석유·가스 산업에서 동시 활용 가능성 증대</p><p>• **지역별 운영 확대 전략**: 중동 허브에서 유럽, 아시아 등 다양한 대륙으로의 지리적 확산 가능성으로 해양 에너지 개발 산업의 글로벌 탈중앙화 추세 반영</p></div>`,
+      tags: ["Fleet Expansion","MPSV","Ultra-deepwater Operations","Subsea Support"],
+      link: "https://www.offshore-energy.biz/2021-built-vessel-opens-ultra-deepwater-market-doors-for-astro-offshore/",
+      coords: [55.2708,25.2048],
+      location: "Dubai, UAE"
+    }
+  ]
+});
