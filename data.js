@@ -4491,3 +4491,58 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-17
+addEvents({
+  "2026-04-17": [
+    {
+      type: "news",
+      title: "Fugro Opens New ROV Test Pool in Singapore for Pre-Deployment Validation",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-04-17",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• Fugro가 싱가포르에 새로운 ROV(원격 조종 잠수정) 테스트 풀 시설을 개설하여 해양 장비의 사전 성능 검증 능력 강화</p><p>• 통제된 환경에서 기능 테스트, 시스템 통합, 캘리브레이션을 수행하여 현장 배치 전 기술적 위험 최소화</p><p>• 싱가포르 및 캐나다 핼리팩스의 COVE 혁신 허브 확대를 통해 원격 및 자율 기술 역량 강화 중</p><p>• 고객의 해상 작업 시간 단축, 안전성 향상, 신뢰성 개선 등 직접적인 운영 효율성 증대 기대</p><p>• 해양 풍력, 국방 인프라, 해양 기술 등 신흥 시장 분야의 프로젝트 지원 강화</p><p>---</p><h3>Key Quotes</h3><p>• "The commissioning of the ROV test pool significantly enhances our ability to technically de‑risk projects before they reach the field." <br>(ROV 테스트 풀의 준공은 프로젝트가 현장에 도달하기 전에 기술적 위험을 제거할 수 있는 능력을 크게 향상시킨다.)</p><p>• "From here, we can work closely with clients and partners as offshore work continues to evolve—from new offshore wind development to growing defence and marine infrastructure requirements."<br>(이 위치에서 우리는 해상 풍력 개발부터 국방 및 해양 인프라 요구까지 진화하는 해양 작업에서 고객 및 파트너와 긴밀히 협력할 수 있다.)</p><p>---</p><h3>Technical Insights</h3><p>• **자율 및 원격 기술 통합**: Fugro의 ROV 테스트 풀은 장비의 사전 배치 검증을 통해 자율 잠수정의 안정성과 신뢰성을 향상시키는 데 중추적 역할을 수행하며, 이는 COLREG 준수 및 자동화 시스템의 성능 검증에 필수적</p><p>• **해양 산업 인프라 고도화**: 싱가포르와 캐나다 동부 지역의 전략적 거점 확보는 아시아-태평양 및 북대서양 지역의 해양 에너지, 국방, 인프라 프로젝트 수행 역량 강화를 의미하며, 글로벌 해양 기술 표준화 추진</p><p>• **원격 운영 센터(ROC) 확대**: St. John's의 원격 운영 센터와 COVE 허브 연계를 통해 실시간 현장 대응 능력 구축으로 해상 사고 대응 시간 단축 및 운영 안전성 제고</p><p>• **산업 규제 대응**: IMO의 자동화 및 자율 운항 규제 강화에 대응하여 선제적으로 기술 검증 체계를 구축함으로써 국제 해사 규정 준수 능력 선제 확보</p></div>`,
+      tags: ["ROV","Remote Operations","Singapore","Autonomous Technology","Offshore Infrastructure"],
+      link: "https://www.offshore-energy.biz/fugro-unveils-new-rov-test-pool-in-singapore/",
+      coords: [103.8198,1.3521],
+      location: "Singapore"
+    },
+    {
+      type: "news",
+      title: "Reliance Industries Rejects Iranian Oil Cargoes Amid US Sanctions Waiver Expiration",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-17",
+      image: "https://images.marinelink.com/images/maritime/w800/piter2121-stockadobecom-169927.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 인도의 정유업체 릴라이언스 인더스트리즈(RIL)가 미국 제재 면제 기한 만료를 며칠 앞두고 이란산 원유 2개 선적분을 거부했으며, 컴플라이언스 요구사항을 충족하지 못했다고 발표</p><p>• 관련 선박: 이란 기선(flagged) 더르야(Derya, 200만 배럴), 수퍼탱커 르노르(Lenore) 등 5척의 탱커가 미국 제재 대상</p><p>• 미국 재무부는 이란 원유 제재 면제 기한을 4월 20일(일요일)에 종료하지 않기로 결정하였으며, 최근 우크라이나-이스라엘 분쟁 이후 유가 급등에 대응하기 위해 발급한 30일 면제 기간이 만료됨</p><p>• 인도의 국영 인도석유공사(IOC)는 이란산 원유 구매를 재개하여 7년 만에 슈퍼탱커 자야호(Jaya)에서 200만 배럴 선적</p><p>• 릴라이언스의 거부로 인한 이란산 원유의 인도 시장 진입 차질 발생 및 향후 제재 강화에 따른 공급망 불확실성 증대</p><h3>Key Quotes</h3><p>• "RIL did not buy cargo in tanker Derya as it did not meet with the company's compliance requirements." <br>(릴라이언스는 더르야호의 선적이 회사의 컴플라이언스 요구사항을 충족하지 못해 구매하지 않았다)</p><p>• "Treasury Secretary Scott Bessent on Wednesday said the U.S. would not renew the waivers, with the one on Iranian oil set to lapse on Sunday."<br>(미국 재무부 장관이 이란 원유 제재 면제를 갱신하지 않으며, 일요일에 만료될 예정이라고 발표)</p><h3>Technical Insights</h3><p>• 해운 기업의 제재 회피 선박 추적(Ship-tracking): MarineTraffic, SynMax 등 위성 데이터를 활용한 실시간 모니터링이 규제 당국의 강제 이행 수단으로 작용하고 있으며, 선사의 컴플라이언스 리스크 관리 필수화</p><p>• IMO 컴플라이언스 및 국가 간 제재 충돌: 이중 기준(Dual-flagged vessels) 선박의 활용과 국가별 상이한 제재 정책으로 인한 국제 해운 규제의 혼란 심화</p><p>• 탱커 마킹 및 제재 회피 기술: OFAC(Office of Foreign Assets Control) 지정 선박의 항해 경로 회피, 신호 차단(AIS blackout) 등 기술적 회피 수단의 고도화로 인한 규제 당국의 감시 강화 필요</p></div>`,
+      tags: ["Iranian Oil","Sanctions","Reliance Industries","Oil Tankers"],
+      link: "https://www.marinelink.com/news/reliance-industries-rejects-two-iranian-538202",
+      coords: [72.8142,21.1458],
+      location: "Sikka, India"
+    },
+    {
+      type: "news",
+      title: "Strait of Hormuz Reopens Following Ceasefire, Oil Prices Drop Below $90/Barrel",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-17",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockgrispb-169925.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이란이 이스라엘-레바논 휴전 이후 호르무즈 해협 재개통 발표로 세계 석유 공급량의 약 20%를 차지하는 전략적 해로 정상화<br>• 유가가 배럴당 $95에서 $89 이하로 급락하면서 5주 이상 만에 최저치 기록, 글로벌 해운 및 물류 경제에 직접적 영향<br>• 미국 연방준비제도(Fed) 정책입안자들이 7주간의 중동 분쟁으로 인한 인플레이션 영향 평가 필요, 12월부터 금리 인하 가능성 재평가<br>• 뉴욕 Fed 총재 존 윌리엄스는 전쟁이 일시적 충격이 아닌 구조적 물가 상승 압력(연료비, 농산물, 항공료 등)을 초래했다고 경고<br>• 호르무즈 해협 재개통이 글로벌 해운 수급 정상화 신호로, 중장기 물류비용 안정화에 긍정적 영향 전망</p><h3>Key Quotes</h3><p>• "As long as we have the conflict resolved soon, you would find us in a place where it just takes longer, but it doesn't stall the progress on inflation" (분쟁이 신속히 해결되면 인플레이션 진정 과정이 지연되지만 막혀있지는 않을 것) - San Francisco Fed President Mary Daly</p><p>• "Even based on what we've seen already, inflation will be well above 3% over the next few months" (현 상황만으로도 향후 수개월간 인플레이션이 3% 이상으로 상당히 높을 것) - New York Fed President John Williams</p><h3>Technical Insights</h3><p>• **해상수송 경로의 지정학적 리스크**: 호르무즈 해협이 세계 해상 석유 교역의 20%를 담당하는 핵심 인프라로, 분쟁으로 인한 운송 차질이 글로벌 해운 비용과 납기 시간에 직접 영향을 미치는 구조<br>• **벌크 해운과 탱커 시장의 변동성**: 유가 급락은 단기적으로 운송료 인하 압력을 야기하지만, 해협 재개통 초기 혼잡 우려로 수급 불균형 가능성 존재<br>• **IMO 규제와 에너지 전환의 시사점**: 지정학적 위기에 따른 석유 공급망 불안정성은 해운산업의 친환경 연료 전환(LNG, 메탄올 등) 가속화의 필요성을 강조<br>• **자율운항 선박의 위험 관리 역할**: 분쟁 지역 해역 운항 시 인공지능 기반 경로 최적화 및 실시간 위험 회피 기술의 중요성 증대</p></div>`,
+      tags: ["Strait of Hormuz","Oil Markets","Shipping Routes","Geopolitics"],
+      link: "https://www.marinelink.com/news/strait-hormuz-reopens-oil-prices-drop-538200",
+      coords: [56.5,26.5],
+      location: "Strait of Hormuz, Persian Gulf"
+    },
+    {
+      type: "news",
+      title: "Iran Requires Prior Coordination with IRGC for Hormuz Strait Transit Following Ceasefire",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-17",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockkashd-169924.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 이란이 호르무즈 해협 통과 선박에 대해 이슬람혁명수비대(IRGC)와의 사전 조율을 요구하는 새로운 규정 발표<br>• 정전 협정 체결 후 외교부장관이 해협 개방을 공식화했으나 군함의 통과는 여전히 금지<br>• 선박 통과는 이란이 안전하다고 판단하는 항로로 제한되며, 항해는 IRGC 및 항만해양청의 승인 필요<br>• 1970년대부터 국제해운에서 사용해온 기존의 교통분리방식(TSS) 적용 여부가 불명확한 상황<br>• IMO(국제해사기구)가 언론 자유 및 안전한 통행권 준수 여부를 검증 중</p><h3>Key Quotes</h3><br>• "All ships can sail through the Strait of Hormuz but this needs to be coordinated with Iran's Islamic Revolutionary GuardCorps" (호르무즈 해협을 통과하려면 이란 이슬람혁명수비대와의 조율이 필수적이라는 입장)</p><p>• "We are currently verifying the recent announcement related to the reopening of the Strait of Hormuz, in terms of its compliance with freedom of navigation for all merchant vessels and secure passage" (IMO가 호르무즈 재개방이 모든 상선의 항행자유 및 안전통행권을 준수하는지 검증 중)</p><h3>Technical Insights</h3><br>• 호르무즈 해협의 교통분리방식(TSS) 적용 범위 불명확 - 기존 국제해운 규칙과 이란의 새로운 조율 요건 간의 충돌 가능성으로 COLREG 및 IMO 규정과의 합치성 문제 야기</p><p>• 사전 조율 및 승인 요구는 해상교통관리(VTS) 체계 강화를 의미하며, 국제 상선의 통행시간 증가 및 운영 비용 상승으로 이어질 가능성 높음</p><p>• 군함 통과 금지 정책은 국방 안보 전략의 변화를 반영하나, 민간 선박과의 명확한 구분 기준 부재로 실질적 집행 및 국제법적 해석에 혼란 예상</p><p>• IMO의 검증 절차는 국제해양법(UNCLOS)의 통행권과 연안국의 관할권 간의 균형점 모색을 시사하며, 향후 해협 통행 규칙 국제화 논의로 확대 가능성</p></div>`,
+      tags: ["Strait of Hormuz","Iran","IRGC","Maritime Regulations","Freedom of Navigation","Shipping Corridors"],
+      link: "https://www.marinelink.com/news/ships-sailing-hormuz-need-prior-538199",
+      coords: [56.25,26.58],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
