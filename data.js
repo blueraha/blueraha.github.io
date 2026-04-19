@@ -4546,3 +4546,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-18
+addEvents({
+  "2026-04-18": [
+    {
+      type: "accident",
+      title: "Fresh Attacks on Commercial Shipping in Strait of Hormuz; Iran Asserts New Maritime Control Regime",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-18",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/UKMTO-containership-attack-map.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **호르무즈 해협 공격 재개**: 2026년 4월 18일 하루 동안 오만 해역 근처에서 3건의 해상 사건 발생 (2건 공격, 1건 의심 활동)으로 4월 7일 이후 10일간의 휴전 상황이 깨짐</p><p>• **피해 현황**: 컨테이너선이 미확인 발사체에 맞아 화물 손상, 유조선은 이란 혁명수비대(IRGC) 소속 고속정 2척에 의해 사격을 받음 (선원 안전 확보)</p><p>• **이란의 새로운 해양 통제 체제**: 이란 의원 에브라힘 아지지(Ebrahim Azizi)가 IRGC 승인 및 지정 항로 이용 의무화를 포함한 새로운 "해양 체제" 선언</p><p>• **미국의 해협 개방 주장과 현실의 괴리**: 트럼프 대통령이 호르무즈 해협의 완전한 개방을 선언했으나, 토요일 사건들이 위협 수준의 지속적 상승을 입증</p><p>• **2월 말 이후 누적 사건**: UKMTO 집계 30건의 해상 사건 발생 (18건 확인된 공격 포함)</p><p>• **제재 회피 선박 증가**: 최근 해협 통과 선박의 대다수가 서방 규제 대상 또는 "다크플릿" 소속으로 국제 해운 규범 준수 외부에서 운영 중</p><p>---</p><h3>Key Quotes</h3><p>• **"[The] Strait of Iran is fully open and ready for full passage"** (이란 해협은 완전히 개방되어 있으며 전면 통행 준비가 되어 있다 - 트럼프 대통령의 주장)</p><p>• **"Whether the Strait is open or closed … will be determined by the field, not by social media"** (해협이 개방되었는지 폐쇄되었는지는 소셜미디어가 아닌 현장 상황으로 결정된다 - 이란 의원의 반박)</p><p>• **"Hormuz Strait situation is over"** (호르무즈 해협 상황이 종료되었다 - 트럼프 대통령의 주장, 현실과 불일치)</p><p>---</p><h3>Technical Insights</h3><p>• **국제 해양 규범의 침식**: IRGC가 지정 항로 이용과 사전 승인 요구로 국제법상 항해의 자유(Freedom of Navigation) 원칙을 직접 위반하며, 이는 IMO의 해상교통안전 국제규칙(COLREG)과 유엔해양법협약(UNCLOS) 침해</p><p>• **선박 보험 및 해운업 영향**: 공격 재개로 호르무즈 해협 통행 선박의 전쟁 위험보험료(War Risk Insurance) 인상 및 해운사의 대체 항로(수에즈 운하 또는 희망봉) 선택으로 운송비 상승 및 공급망 차질 심화 예상</p><p>• **다크플릿의 전략적 이점**: 제재 대상 선박들이 규제 기관의 감시를 피해 이란 통제 해역 통행 시 상대적으로 유리한 위치 점유로, 국제 해양 감시 체계(UKMTO, IMO)의 효율성 저하</p><p>• **자율운항 선박 도입 위험성**: 현재와 같은 지정학적 분쟁 지역에서 자율운항선박(Autonomous Vessel)의 배치는 원격 제어 두절 또는 사이버 공격 리스크 증가로 해상 안전 악화 우려</p></div>`,
+      tags: ["Maritime Security","Strait of Hormuz","Iran IRGC","Commercial Shipping Attacks","Geopolitical Risk"],
+      link: "https://gcaptain.com/fresh-attacks-shatter-open-hormuz-narrative-as-iran-pushes-new-maritime-regime/",
+      coords: [56.5,26],
+      location: "Strait of Hormuz, Oman Waters"
+    },
+    {
+      type: "accident",
+      title: "Iran Navy Closes Strait of Hormuz Again, Two Vessels Report Gunfire Incidents",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-18",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/2026-04-17T153425Z_1797731019_RC23RKAOVSFD_RTRMADP_3_IRAQ-BASRA-OIL-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이란 해군이 호르무즈 해협을 다시 폐쇄했으며, 토요일에 적어도 2척의 선박이 총격을 받았다고 보고함<br>• 이란 혁명수비대 고속정이 유조선 1척과 컨테이너선 1척을 향해 총격을 가한 것으로 확인됨<br>• 영국 해상무역청(UKMTO)이 오만 북동쪽 20해리 지점에서 사건 발생 신고 접수<br>• 호르무즈 해협 폐쇄로 약 20,000명의 선원과 수백 척의 선박이 걸프만에 발묶여 있는 상황<br>• 전 세계 석유 및 LNG 흐름의 약 20%를 처리하는 전략적 수로의 통행 마비 상태</p><h3>Key Quotes</h3><p>• "Attention all ships, regarding the failure of the U.S. government to fulfill its commitment in the negotiation, Iran declares the Strait of Hormuz completely closed again. No vessel of any type or nationality is allowed to pass through the Strait of Hormuz." (미국 정부가 협상 약속을 이행하지 못한 점을 이유로 이란이 호르무즈 해협을 완전히 폐쇄하며, 어떤 국적의 선박도 통행 불가 선언)</p><p>• "The captain of a tanker said it had been approached by two Islamic Revolutionary Guard Corps gunboats that fired on the vessel. The tanker and its crew were safe." (유조선 선장이 이란 혁명수비대 고속정 2척으로부터 총격을 받았지만 선박과 승무원은 안전하다고 보고)</p><h3>Technical Insights</h3><p>• **해상안전규칙 위반**: 이란 해군의 무차별적 총격은 국제해사기구(IMO) 규정 및 해상충돌회피규칙(COLREG)을 심각하게 위반하며, 국제 해상통행의 자유를 침해하는 행위로 판단됨</p><p>• **전략적 수로 차단의 영향**: 호르무즈 해협은 전 세계 원유 수송의 약 20%를 담당하는 핵심 수로이며, 이의 폐쇄는 글로벌 에너지 공급망 및 선사 운영에 치명적 영향을 야기함</p><p>• **자율운항선박 운영 리스크**: 향후 자율운항선박(MASS)이 분쟁 수역을 통행할 경우, 원격 조종 시스템 보안 및 무장 세력의 사이버 공격 위협이 급증할 수 있으므로 강화된 보안 프로토콜이 필수적임</p><p>• **해상 보안 체계 개선 필요**: 국제해사기구와 연안국들은 분쟁 지역 통행 선박에 대한 실시간 보호 메커니즘과 무장 경호 지원 체계를 강화해야 하며, UKMTO와 같은 해상정보 기관의 역할 확대가 시급함</p></div>`,
+      tags: ["Strait of Hormuz","Iran Navy","Armed Incident","Tanker Attack","Maritime Security"],
+      link: "https://gcaptain.com/irans-navy-tells-ships-strait-of-hormuz-shut-again-two-vessels-report-gunfire/",
+      coords: [56,26.5],
+      location: "Strait of Hormuz, between Qeshm and Larak Islands"
+    }
+  ]
+});
