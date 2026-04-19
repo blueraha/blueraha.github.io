@@ -4578,3 +4578,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-17
+addEvents({
+  "2026-04-17": [
+    {
+      type: "news",
+      title: "European Nations Offer Mine Clearance Support for Strait of Hormuz Security",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-17",
+      image: "https://images.marinelink.com/images/maritime/w800/grispb-adobe-169913.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 프랑스 국방부 장관 Catherine Vautrin이 유럽 국가들이 호르무즈 해협 기뢰 제거 작전에 참여할 역량을 보유하고 있다고 발표<br>• 벨기에, 네덜란드, 프랑스 등이 해협 통과 선박에 대한 호위 서비스 제공 가능<br>• 프랑스와 영국이 40개국 회의를 주재하여 호르무즈 해협 항해의 자유 회복에 동맹국의 참여 의지 표현<br>• 호르무즈 해협은 전 세계 석유 및 액화천연가스 운송의 약 20% 처리<br>• 제안된 호위 서비스는 완전히 지원적 성격이며 공격적 목적이 아님을 명시</p><h3>Key Quotes</h3><br>• "There are capabilities to provide fully supported escort services – that is to say, in no way offensive, of course – for ships to ensure safe passage through the strait" (해협 통과 선박의 안전을 보장하기 위해 완전히 지원하는 호위 서비스를 제공할 역량이 있으며, 절대 공격적이지 않다)<br>• "France and Britain are set to chair on Friday a meeting of around 40 countries aimed at signalling to the United States that some of its closest allies are ready to play a role in restoring freedom of navigation in the Strait of Hormuz" (프랑스와 영국이 약 40개국이 참여한 회의를 개최하여 호르무즈 해협 항해의 자유 회복에 미국의 동맹국들이 역할을 하길 원한다는 신호 전달)</p><h3>Technical Insights</h3><br>• 호르무즈 해협의 기뢰 제거 작전은 국제 해상 교통로 보호의 중요성을 강조하며, 다국간 해역 안보 협력 메커니즘 필요성 증대<br>• 유럽 해군의 기뢰 소탕 능력은 국제 해역에서의 자율 운항 선박 배치 시 해상 안전 인프라 구축의 기초가 될 수 있음<br>• 호르무즈 해협 같은 전략적 해역에서의 자유로운 항해 보장은 자율 선박 및 무인 운송 시스템의 안정적 운영 전제 조건<br>• IMO의 해역 안보 및 자유로운 통항 원칙이 국제 정치·군사 맥락에서 실제 작동하는 사례로, 해양산업의 글로벌 운영 환경 개선에 핵심</p></div>`,
+      tags: ["Strait of Hormuz","Mine Clearance","Freedom of Navigation","European Defense"],
+      link: "https://www.marinelink.com/news/europe-help-clear-mines-strait-hormuz-538188",
+      coords: [56.1499,26.5667],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
+
+// Auto-collected: 2026-04-18
+addEvents({
+  "2026-04-18": [
+    {
+      type: "news",
+      title: "Iran Fires on Commercial Vessels, Declares Strait of Hormuz Closed",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-04-18",
+      image: "https://maritime-executive.com/media/images/article/Hormuz-April-17-US-helicoptes.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이란이 호르무즈 해협을 일방적으로 폐쇄 선언하고, 복수의 상선에 대해 발포하는 사건 발생 - 컨테이너선, 탱커, 크루즈선 등이 피격</p><p>• UKMTO(영국 해양무역운영)를 통해 보고된 사건: 오만 북동쪽 25해리 지점에서 컨테이너선이 발사체에 맞음, 탱커는 IRGC 경비정 2척의 예고 없는 포격 경험, 크루즈선 근처에서 포탄 착수 현상 감지</p><p>• 이란 강경파가 해협 통과를 위한 IRGC 사전 허가 및 검사 강제, 통행료 부과 등의 조건 제시 - 국제해상법 위반 가능성 높음</p><p>• 영국, 독일, 이탈리아 국적 크루즈선 5척이 페르시아만 탈출 시도 중이며, 인도 VLCC 슈퍼탱커(이라크산 원유 200만 배럴 적재)도 강제 회전</p><p>• 트럼프 행정부의 중재 및 협상 진행 중이지만, 이란 강경파의 일방적 행동으로 인해 호르무즈 해협 통행 안정성 악화</p><h3>Key Quotes</h3><p>• "Two IRGC gunboats approached the tanker and opened fire with no VHF contact or challenge" (IRGC 경비정 2척이 사전 무선연락이나 경고 없이 탱커에 개방 포격)</p><p>• "Two Indian vessels were forced back west out of the Strait of Hormuz by Iran's Sepah (IRGC) Navy. Firing was involved." (이란 IRGC 해군이 인도 선박 2척을 해협 밖으로 강제 회전시키고 발포함)</p><p>• "Iran will charge a toll for all ships to transit the Strait" (이란이 해협 통과 모든 선박에 통행료 징수 의사 표현)</p><h3>Technical Insights</h3><p>• **호르무즈 해협 통행 안정성 악화**: 국제 해상법상 공해 통행의 자유 원칙 위반 - IMO 및 국제해사법 위반, 국제해운산업 심각한 위험 요소</p><p>• **COLREG 및 해상안전 규정 미준수**: IRGC의 사전 무선연락 없는 무차별적 포격은 국제해상충돌방지규칙(COLREG) 제5조(망시 및 음향신호) 및 제6조(안전속력) 완전 위반</p><p>• **글로벌 유가 및 해운비 상승 우려**: 호르무즈 해협을 통과하는 세계 석유 수송량의 약 21% 영향 - 통행료 징수 시도는 국제해상법상 불법이나 실제 운영상 심각한 비용 증가 초래 가능</p><p>• **자율선박/AI 항법의 취약성 부각**: 이러한 지역에서의 원격 자율운항선박(MASS) 도입 시 사이버 공격, 신호 재밍, 일방적 통제에 극히 취약 - 향후 호르무즈 해협 등 고위험 지역 자율운항 도입은 재검토 필요</p></div>`,
+      tags: ["Strait of Hormuz","Iran","Maritime Security","Geopolitical Tension"],
+      link: "https://maritime-executive.com/article/iran-fires-on-containership-tanker-and-cruise-ship-saying-hormuz-is-closed",
+      coords: [56.5,26.5],
+      location: "Strait of Hormuz, Persian Gulf"
+    }
+  ]
+});
