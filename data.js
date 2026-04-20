@@ -4616,3 +4616,34 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-19
+addEvents({
+  "2026-04-19": [
+    {
+      type: "accident",
+      title: "US Seizes Iranian Cargo Ship, Tehran Vows Retaliation",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-19",
+      image: "https://images.marinelink.com/images/maritime/w800/source-centcom-169940.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 미국 군부가 이란 국기 화물선을 나포했으며, 이란은 즉각적인 보복을 경고함<br>• 미국의 이란 항구 봉쇄와 이란의 호르무즈 해협 봉쇄로 인해 전 지구적 유가 상승 초래 (브렌트유 배럴당 $96.85으로 약 7% 급등)<br>• 2일 남은 휴전 협정이 붕괴될 위험 증대 및 추가 평화 협상 거부 선언<br>• 호르무즈 해협은 세계 석유의 약 20%를 운송하는 전략적 해상 교통로로, 봉쇄로 인한 해운 산업 및 에너지 시장 영향 심각<br>• 미국의 인프라 공격 위협과 이란의 보복 위협으로 지역 안정성 악화, 주변국 해운 안전 우려 확대</p><h3>Key Quotes</h3><br>• "We have full custody of their ship, and are seeing what's on board!" (우리가 그 선박의 완전한 관할권을 확보했으며 선내 적재물을 조사 중)<br>• "We warn that the armed forces of the Islamic Republic of Iran will soon respond and retaliate against this armed piracy by the U.S. military" (이란 무장력이 곧 미군의 이러한 무장 해적 행위에 대해 대응하고 보복할 것임을 경고함)<br>• "One cannot restrict Iran's oil exports while expecting free security for others. The choice is clear: either a free oil market for all, or the risk of significant costs for everyone" (이란의 석유 수출을 제한하면서 다른 국가들의 자유로운 안보를 기대할 수 없으며, 선택은 명확함: 모두를 위한 자유로운 유가 시장 또는 모두를 위한 상당한 비용의 위험)</p><h3>Technical Insights</h3><br>• 호르무즈 해협은 국제 해상 교통로(SLOCs)로서 전 지구적 에너지 공급망의 중추이며, 봉쇄로 인한 회피 항로 증가는 해운 비용 및 운항 시간 증가를 초래<br>• 해상 봉쇄와 군사적 나포는 국제해사기구(IMO) 및 국제법상 해상교통로 자유(Freedom of Navigation) 원칙 위반으로, UNCLOS(해양법협약) 및 COLREG(충돌회피규칙) 준수 문제 야기<br>• 지정학적 해상 분쟁은 해운보험료 상승, 선박 운항 회피, 대체 항로 개발 등 해운 산업 전반의 구조적 변화를 가속화<br>• 군사적 해상 통제와 봉쇄 기간의 장기화는 자율운항선(MASS), AI 기반 항로 최적화 기술 도입 가속화 및 무인 화물선의 위험 지역 운영 필요성 증대</p></div>`,
+      tags: ["cargo ship seizure","Iran-US conflict","maritime blockade","Strait of Hormuz","geopolitical tension"],
+      link: "https://www.marinelink.com/news/us-seizes-iranian-cargo-ship-tehran-vows-538215",
+      coords: [56.2808,27.068],
+      location: "Strait of Hormuz / Bandar Abbas"
+    },
+    {
+      type: "event",
+      title: "BlackSea Technologies Unveils Comet Armed Unmanned Surface Vessel at Sea-Air-Space Exposition",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-04-19",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• BlackSea Technologies가 Sea-Air-Space 박람회에서 무인표면선박(USV) Comet을 공개 전시했으며, 공중방어 및 대함미사일로 무장한 형태로 선보임</p><p>• Comet은 미국 제조업체가 공개적으로 전시한 것 중 가장 무장된 무인표면선박 중 하나로 평가됨</p><p>• 박람회 개최지는 볼티모어 Dock D2 구간이며, 자율항행 무인전술플랫폼의 산업화 추세를 반영</p><p>• 미사일 탑재 능력은 해전 전술의 변화와 원격 작전의 실용화를 의미</p><p>• 무인표면선박의 무장화는 국방 자율 시스템의 상용화 가속화 신호</p><h3>Key Quotes</h3><p>• "Comet, one of the most heavily armed unmanned surface vessels shown publicly by a U.S. manufacturer" (미국 제조사가 공개적으로 전시한 가장 무장된 무인표면선박 중 하나)</p><h3>Technical Insights</h3><p>• 무인표면선박의 전술화: 기존 감시·정찰 목적에서 공중방어 및 대함 타격 임무로 확대되는 추세로, 자율항행 시스템의 군사 응용 고도화를 시사</p><p>• 해상 무인화 경쟁: 미국의 무장 USV 공개는 해상 자율시스템 분야에서의 기술 경쟁 심화를 반영하며, 향후 COLREG 준수 및 식별 프로토콜 정립의 국제규범 필요성 대두</p><p>• IMO 규제 체계의 도전: 원격조종/완전자율 무인전투선박의 출현은 기존 IMO 안전규범, 충돌회피규칙, 군사용 자율시스템의 법적 지위 정의에 새로운 과제 제기</p></div>`,
+      tags: ["Unmanned Surface Vessel","Autonomous Naval","Sea-Air-Space Exposition","Defense Technology"],
+      link: "https://defence-blog.com/u-s-firm-unveils-comet-drone-boat-armed-with-air-defense-missiles/",
+      coords: [-76.6413,39.2904],
+      location: "Baltimore, Maryland"
+    }
+  ]
+});
