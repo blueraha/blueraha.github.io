@@ -4647,3 +4647,58 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-20
+addEvents({
+  "2026-04-20": [
+    {
+      type: "accident",
+      title: "Pemex Undersea Pipeline Causes Gulf of Mexico Oil Spill",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-20",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/2026-03-25T173415Z_1151327177_RC2B8KAF887C_RTRMADP_3_MEXICO-OIL-SPILL-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사고 원인**: 페멕스(Petroleos Mexicanos) 국영석유회사가 소유한 아브카툰(Abkatun) 해양시추설비 인근의 해저 파이프라인 누출이 걸프만 유출 사태의 원인으로 확인됨</p><p>• **책임 및 조치**: 페멕스 최고경영자 빅토르 로드리게스가 사실 인정 및 3명 직원 해임; 멕시코 정부가 지난달부터 원인 조사 진행</p><p>• **오염 규모**: 환경단체 그린피스와 멕시코반프래킹연맹이 약 800톤의 탄화수소가 걸프만으로 유출되었다고 추정; 정확한 양은 여전히 산정 중</p><p>• **지리적 영향**: 유출물이 멕시코 남부 타바스코주에서 북부 타마울리파스주까지 확산되어 해변 오염 및 야생동물 피해 야기</p><p>• **기업 위기**: 페멕스는 최근 반복된 폭발 사고와 환경재해로 인한 재정 악화와 850억 달러 이상의 채무 극복 과정에서 또 다른 타격</p><h3>Key Quotes</h3><p>• "An undersea pipeline near the Abkatun offshore platform was the cause of the leak" (아브카툰 해양시추설비 근처의 해저 파이프라인이 누출의 원인이었다)</p><p>• "Three employees were fired as a result of the accident" (사고로 인해 3명의 직원이 해임되었다)</p><p>• "Environmental groups including Greenpeace and the Mexico Alliance Against Fracking have estimated that as much as 800 tons of hydrocarbons have spilled into the Gulf" (그린피스를 포함한 환경단체들이 약 800톤의 탄화수소가 걸프만으로 유출되었다고 추정)</p><h3>Technical Insights</h3><p>• **해저 파이프라인 유지보수 부실**: 해양시추설비 인근 파이프라인의 노후화 및 부식에 대한 정기적 점검 체계 미흡이 대형 환경 사고로 이어진 사례로, 해양 석유 인프라의 위험성 증대</p><p>• **해양 환경 규제 강화 필요성**: 걸프만 유출 사태는 국제 해양 환경보호 협약(MARPOL) 강화 및 국가별 석유 시설 안전 기준의 상향 평준화 필요성을 시사</p><p>• **산업 신뢰도 하락**: 페멕스의 반복된 안전사고는 국영석유기업의 운영 투명성 및 기술 역량에 대한 국제적 신뢰 저하를 초래하며, 향후 국제 해운·에너지 파트너십에 부정적 영향</p></div>`,
+      tags: ["Oil Spill","Pipeline Failure","Gulf of Mexico","Environmental Disaster"],
+      link: "https://gcaptain.com/pemex-undersea-pipeline-found-to-cause-gulf-of-mexico-oil-spill/",
+      coords: [-91.5,19],
+      location: "Gulf of Mexico, Bay of Campeche, Mexico"
+    }
+  ]
+});
+
+// Auto-collected: 2026-04-19
+addEvents({
+  "2026-04-19": [
+    {
+      type: "news",
+      title: "Ukraine First to Intercept Shahed Drone Using Naval USV-Launched Interceptor",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-04-19",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 우크라이나 무인 시스템군이 해상 무인선(USV)에서 발사한 요격 드론으로 러시아 샤헤드 공격 드론을 격추하는 데 성공 - 현대 전쟁사에 기록되지 않은 전술적 마일스톤 달성</p><p>• 412번 네메시스 여단 소속 USV 부대의 오퍼레이터들이 해상 작전 구역 내에서 이 작전 수행</p><p>• 무인 해상 플랫폼에서의 요격 드론 발사 시스템 개발로 해상 방어 능력 혁신적 확장</p><p>• 드론 대 드론 요격 기술의 해상 적용 사례로, 향후 해군 작전 개념 변화를 예고하는 중요한 사건</p><p>• 우크라이나의 자율 무인 시스템 기술 수준이 최첨단 대응 능력 보유 중임을 입증</p><h3>Key Quotes</h3><p>• "operators from the Unmanned Surface Vessel (USV) division of the 412th Nemesis Brigade successfully intercepted a Russian Shahed attack drone using an interceptor drone launched from an unmanned naval platform" (412번 네메시스 여단 소속 무인선(USV) 부대의 오퍼레이터들이 무인 해상 플랫폼에서 발사한 요격 드론으로 러시아 샤헤드 공격 드론을 격추했다)</p><p>• "a combat milestone with no documented precedent in modern warfare" (현대 전쟁사에서 기록된 선례가 없는 전투 마일스톤)</p><h3>Technical Insights</h3><p>• **USV 기반 요격 시스템**: 해상 무인선 플랫폼에서의 드론 발사 능력은 기존 함정 방어 체계의 개념을 재정의하며, 분산형 해상 방어 아키텍처로의 전환을 시사</p><p>• **자율 시스템의 해전 적용**: 드론 대 드론 요격 기술이 해상 환경에서 성공적으로 작동함으로써 무인 시스템의 실전 신뢰성과 상황 인식 능력 입증</p><p>• **IMO/COLREG 해석 범위 확대**: 전투용 자율 무인선의 해상법상 지위, 교통 규칙 적용, 국제 법적 책임 문제에 대한 새로운 해석과 규정 마련의 필요성 대두</p><p>• **산업 파급 효과**: 해상 드론 요격 기술의 민간 해운 보안, 항만 방어, 무인 함대 운용 등 광범위한 해양 산업 분야로의 기술 이전 가능성 높음</p></div>`,
+      tags: ["Ukraine","Unmanned Systems","Naval Drone","Shahed Interception","USV Technology"],
+      link: "https://defence-blog.com/ukraine-becomes-first-to-intercept-shahed-using-naval-drone-launch/",
+      coords: [30.5238,50.4501],
+      location: "Ukraine (Maritime Operations)"
+    }
+  ]
+});
+
+// Auto-collected: 2026-04-17
+addEvents({
+  "2026-04-17": [
+    {
+      type: "news",
+      title: "World's First Methane Removal System Debuts at Sea on Commercial Bulk Carrier",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-04-17",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/04/Worlds-first-Methane-removal-system-debuts-at-sea.jpg?image-crop-positioner-ts=1776420392",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 미국-영국 연합의 벤누 클라이밋(Bennu Climate)과 로마르 쉬핑의 로마르랩스(Lomarlabs)가 선상 메탄 제거 시스템의 12개월 파일럿 프로젝트를 시작했으며, 이는 상업 운영 중인 선박에 배치되는 업계 최초의 사례임<br>• 57,000톤급 로마르 수프라맥스 벌크선에 탑재된 벤누의 광화학(Photochemistry) 기반 시스템은 약 1입방미터 크기, 50kg 무게로 자연적 광화학 과정을 모방하여 메탄 분자를 파괴<br>• 이 기술은 2024년 도크사이드 테스트를 거쳤으며, 현재 Gold Standard 프로그램으로부터 탄소 크레딧 인증을 획득 중<br>• 해운업체의 규제 세금 감소 및 운영 비용 절감과 동시에 선박 배출가스 감축에 기여할 것으로 기대<br>• 메탄은 이산화탄소보다 단기간에 더 강력한 온난화 효과를 발생시키는 온실가스로, 이 기술의 상용화는 해운 산업의 탈탄소화에 중요한 역할 수행</p><h3>Key Quotes</h3><br>• "This pilot represents a paradigm shift for our industry. We are putting technology on ships not only to cut their own emissions but to actively remove excess greenhouse gas from the atmosphere as they sail." (이 파일럿은 우리 산업의 패러다임 전환을 의미하며, 선박 자체의 배출을 줄일 뿐만 아니라 항해 중 대기에서 초과 온실가스를 능동적으로 제거하는 기술을 배치하고 있다)</p><p>• "Nothing can turn back the climate clock faster than methane removal." (메탄 제거보다 빠르게 기후 시계를 되돌릴 수 있는 방법은 없다)</p><h3>Technical Insights</h3><br>• **광화학 기술의 해운 적용**: 벤누의 UV 기반 메탄 파괴 기술은 대기의 자연적 광화학 과정을 모방하여 메탄 분자를 산화·분해하는 방식으로, 종래의 연소 기반 제거 기술과 달리 선상 정상 운영 중 적용 가능한 혁신적 솔루션 제공</p><p>• **IMO 2050 탈탄소화 목표 달성의 보조 수단**: 메탄은 지구 온난화지수(GWP)가 CO2 대비 28배(100년 기준) 이상이므로, 이 기술의 상용화는 IMO의 온실가스 감축 규제 준수뿐 아니라 기업의 ESG 평가 및 탄소 크레딧 창출에 직접 기여</p><p>• **선박 설계 및 운영 혁신**: 1입방미터, 50kg 규모의 소형 시스템으로 기존 선박의 구조 변경 최소화 가능하며, 도킹 주기와 무관하게 상시 운영 가능한 점에서 기술 도입 장벽 낮춤</p><p>• **규제 비용 절감 및 시장 기회**: Gold Standard 탄소 크레딧 획득으로 해운사는 규제 세금 및 카본 마켓 거래로부터 직접 수익 창출 가능, 향후 업계 표준화 진행 시 선사의 경쟁 우위 확보 가능성 높음</p></div>`,
+      tags: ["Methane Removal","Climate Technology","Shipping Emissions","Sustainable Shipping","Carbon Reduction"],
+      link: "https://www.offshore-energy.biz/worlds-first-methane-removal-system-debuts-at-sea/",
+      coords: [-119.2171,36.7783],
+      location: "California / Global Shipping"
+    }
+  ]
+});
