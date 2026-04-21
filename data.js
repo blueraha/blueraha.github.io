@@ -4702,3 +4702,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-20
+addEvents({
+  "2026-04-20": [
+    {
+      type: "accident",
+      title: "US Seizes Iranian Cargo Ship M/V Touska, Escalating US-Iran Tensions and Threatening Ceasefire",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-20",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/marines--scaled.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 해병대가 이란 화물선 M/V Touska를 나포했으며, 6시간 대치 끝에 함포사격으로 엔진을 무력화한 후 헬리콥터 강하를 통해 승선 - 양국 간 2주간의 휴전협정 붕괴 위험성 증대</p><p>• 이란 정부는 이를 "무장 해적 행위"로 규탄하고 미국 봉쇄 해제 없이는 평화협상 참여 거부 - 이란의 석유 수출 제한과 미사일 프로그램은 협상 대상이 아님을 명확히 함</p><p>• 미국의 이란 항구 봉쇄와 이란의 호르무즈 해협 해상 교통 봉쇄 재개로 호르무즈 해협의 해상 교통 최소화 - 전 세계 석유 및 LNG 공급량의 약 1/5가 영향받을 수 있음</p><p>• 중국도 "강제 차단"에 우려 표시하며 휴전협정 준수를 촉구했고, 유가는 6% 이상 상승하며 국제 유가 및 주식시장 변동성 가중</p><p>• 파키스탄 중재자 아심 무니르 육군원수가 트럼프 대통령에게 봉쇄가 협상의 걸림돌임을 전달했으나, 미국의 "부당하고 비현실적 입장"이 지속되고 있다는 이란의 평가</p><p>• 호르무즈 해협 통항 안전과 전 지구적 에너지 공급 차질 위험 - 국제 해운 및 에너지 산업의 즉각적 영향</p><h3>Key Quotes</h3><p>• "One cannot restrict Iran's oil exports while expecting free security for others. The choice is clear: either a free oil market for all, or the risk of..." (이란의 석유 수출을 제한하면서 다른 국가들의 자유로운 안전을 기대할 수 없다는 점을 강조 - 이란 부대통령의 명확한 메시지)</p><p>• "The U.S. was 'not serious' about pursuing the diplomatic process" - Iranian Foreign Ministry spokesman Esmaeil Baghaei (미국이 외교 과정에 진지하지 않다는 이란 외교부의 강한 비판)</p><p>• "The continuation of the U.S. blockade on Iranian ports was undermining the prospect of peace talks" - Senior Iranian source to Reuters (이란 지도층이 미국 봉쇄가 평화협상 전망을 훼손하고 있다고 평가)</p><h3>Technical Insights</h3><p>• **호르무즈 해협 봉쇄의 국제 해운 영향**: 전 세계 석유 및 LNG 공급량의 약 20%가 통과하는 호르무즈 해협의 해상 교통 최소화는 국제 유가 급등 및 해운 보험료 상승으로 이어짐 - 해운업계의 경제적 타격 심각</p><p>• **군사적 나포와 국제해사법**: 미국의 화물선 나포는 UNCLOS(UN해양법협약) 및 국제 해운 규범과의 충돌 가능성 제기 - 비전투 해역에서의 나포 행위에 대한 국제법적 정당성 논쟁</p><p>• **해상 교통 보안 악화**: 양국 간 대치로 인한 상선의 항행 위험 증가 및 해적 위험 지역 확대 - 해운사들의 우회항로 선택 및 해운비 상승으로 이어질 가능성</p><p>• **자율선박 및 원격운영의 필요성 대두**: 이러한 고위험 해역에서의 유인 선박 운영 위험 증가로 인한 자율 해상 운송 기술 개발의 필요성 강조 - IMO의 안전 기준 및 해상 분쟁 지역 운영 규범 재검토 필요</p></div>`,
+      tags: ["Iran-US Conflict","Naval Seizure","Strait of Hormuz","Geopolitical Tension"],
+      link: "https://gcaptain.com/ceasefire-at-risk-after-us-seizes-iranian-ship-iran-shuns-peace-talks/",
+      coords: [56.2667,27.1833],
+      location: "Strait of Hormuz / Persian Gulf (Iran's Bandar Abbas Port)"
+    },
+    {
+      type: "accident",
+      title: "Four Survivors Rescued After Boat Capsize Off Libya, 10 Confirmed Dead",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-20",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockpeter-169969.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 리비아 토브룩 해상에서 난민 이송선이 침몰하여 10명 사망, 31명 실종되는 해상사고 발생<br>• 이집트와 수단 출신 난민 4명이 5일 이상 표류 후 구조됨<br>• 국제이주기구(IOM) 주도로 수색작업 진행 중이며 6구의 시신이 토요일에 해안으로 떠밀려옴<br>• 리비아는 아프리카 난민들의 유럽 진출 경로로 현재 900만 명 이상의 난민 수용 중<br>• 비정규적이고 노후된 선박을 이용한 위험한 해상 이동의 심각성 드러냄</p><h3>Key Quotes</h3><p>• "Four migrants have been rescued from the Mediterranean more than five days after the boat supposed to carry them to Europe capsized off Libya" (리비아 인근 해역에서 침몰한 선박의 난민 4명이 5일 이상 표류 후 지중해에서 구조됨)</p><p>• "10 migrants were confirmed to have died in the disaster off Tobruk in eastern Libya, and 31 were still missing" (토브룩 해역의 사고로 10명 사망 확정, 31명 실종)</p><h3>Technical Insights</h3><p>• 난민 이송선의 안전기준 미충족 및 해상안전장비 부족으로 인한 캡슐화 사고 - 국제해사기구(IMO) 안전규약 준수 강화 필요<br>• 비정규 해상운송에 대한 국제적 감시 체계 부재로 인한 인명사고 증가 - 리비아 연안국의 해양안전감시 역량 제고 시급<br>• 지중해 난민 위기와 해상안전의 연계 문제 - 국제해사법 및 COLREG 준수 감시 및 단속 체계 개선 필요<br>• 노후선박의 해상 활동 금지 및 국제 협력 기반의 구조 체계 구축 - 해양사고 예방 및 피해 최소화를 위한 다국간 조약 이행 강화</p></div>`,
+      tags: ["boat capsize","Mediterranean","migrant rescue","maritime casualty","Libya"],
+      link: "https://www.marinelink.com/news/four-survivors-rescued-boat-capsize-five-538260",
+      coords: [25.5,32.5],
+      location: "Tobruk, Libya (Mediterranean)"
+    },
+    {
+      type: "accident",
+      title: "Hormuz Strait Shipping Slows After Iranian Ship Seizure and Warning Shots",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-20",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockrumi-169968.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 호르무즈 해협의 해상 교통량이 급격히 감소 - 평상시 일일 130척 대비 12시간 동안 1척만 통과<br>• 미국의 이란 화물선 나포 및 이란의 경고사격으로 인한 긴장 고조 및 정전 협상 위기 상황 발생<br>• CMA CGM 컨테이너선을 포함한 여러 선박이 이란의 경고사격 대상이 되었으며 선원들은 안전<br>• 전쟁 위험 보험료(War Risk Insurance)가 선박 가치의 2%에서 3% 수준으로 상승<br>• 유가 상승(브렌트유 3.8% 상승, 배럴당 $94.75) 및 러시아산 석유 제재 유예 재개로 인한 에너지 시장 불안정화<br>• 인도가 국제 P&I 클럽에 미포함된 러시아 보험사 3개사 추가 인정, 글로벌 해운 보험 구도 재편</p><h3>Key Quotes</h3><p>• "Recent weeks have brought several false starts and, although some form of resolution is likely at some point, the timing of any durable breakthrough remains highly uncertain" (최근 수주간 여러 번의 허위 신호가 있었으며, 비록 어느 시점에서 해결 가능성이 있지만 지속 가능한 돌파구의 시기는 여전히 불확실함)</p><p>• "Iran fired shots at ships in the strait on Saturday, including a container ship belonging to CMA CGM... describing them as 'warning shots'" (이란이 토요일 호르무즈 해협에서 CMA CGM 소속 컨테이너선을 포함한 여러 선박에 사격을 가했으며, 이를 '경고사격'으로 표현함)</p><p>• "Oil prices were up about 5% on Monday on fears that the ceasefire between the United States and Iran could collapse and as traffic through the strait remained largely halted" (정전이 붕괴될 수 있다는 우려와 해협 통행량 급감으로 월요일 유가가 약 5% 상승함)</p><h3>Technical Insights</h3><p>• **호르무즈 해협 통행 안전성 악화**: 평시 일일 130척 기준 대비 99% 이상 감소한 극도로 낮은 통행량은 글로벌 에너지 공급망의 심각한 위험 신호이며, 자율운항선박 도입 시에도 지정학적 위험 회피 불가능<br>• **전쟁 위험 보험료 급등의 경제적 영향**: 50% 상승(2%→3%)한 보험료는 선주와 용선자의 운영 비용 대폭 증가를 초래하며, AI 기반 항로 최적화 기술도 정치·군사적 불안정성 앞에서는 제한적 효과만 발생<br>• **국제 P&I 클럽 제재 회피 시도**: 러시아 보험사 인정 확대는 해운 산업의 규제 회피 움직임을 의미하며, IMO 국제 기준 준수의 실질적 약화를 초래 가능<br>• **자율운항선의 위험지역 운영 제약**: 현 수준의 지정학적 긴장 상황에서 자율운항선박의 호르무즈 해협 통과는 원격 조종 불가능 상황 및 사이버 공격 취약성으로 인해 현실적으로 불가능한 상태</p></div>`,
+      tags: ["Hormuz Strait","Iran-US Tensions","Maritime Security","Tanker Operations"],
+      link: "https://www.marinelink.com/news/shipping-hormuz-strait-slows-again-538256",
+      coords: [56.25,26.5],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "U.S. Navy Opens MUSV Marketplace as Defense Industry Races to Deploy Autonomous Vessels",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-20",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/Hanwha-H38.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 해군의 중형 무인수상함(MUSV) 프로그램이 본격적인 산업 경쟁 단계에 진입했으며, 방위사업체와 조선사들이 자율운항 함정 개발에 대규모 투자를 집중하고 있음</p><p>• 안두릴 인더스트리(Anduril Industries), 현대방위(HD Hyundai), 에디슨 쇼에스트 오프쇼어(Edison Chouest Offshore) 등이 주도적으로 참여하며 국제적 조선 네트워크 구축 중</p><p>• 세일드론(Saildrone)은 ISR(정보수집·감시·정찰) 플랫폼에서 벗어나 대잠전(ASW) 및 타격 임무 수행이 가능한 52미터급 스펙터(Spectre) 무인함정 공개</p><p>• 한화방위와 매그넷 디펜스 협력으로 38미터급 장거리 무인함정 개발 진행, 방위산업체와 소규모 자율운항 기술 전문기업 간 파트너십 확대 추세</p><p>• 미 해군이 '마켓플레이스' 방식의 복수 설계 경쟁을 도입하여 혁신 가속화 및 다양한 벤더의 양산 시스템 동시 공급 가능하게 함</p><h3>Key Quotes</h3><p>• "The strategy reflects a broader realization inside the Pentagon that scaling autonomous fleets will require tapping global commercial shipbuilding capacity, not just domestic naval yards." (펜타곤 내부에서 자율운항 함정 함대 확대를 위해서는 국내 해군 조선소뿐 아니라 전 세계 상용 조선 능력을 활용해야 한다는 인식이 확산되고 있음을 반영)</p><p>• "Rather than selecting a single design, the Navy is creating a 'marketplace' of competing solutions—an approach intended to accelerate innovation and allow multiple vendors to deliver production-ready systems." (해군이 단일 설계 선정 대신 경쟁 솔루션의 '마켓플레이스'를 조성하여 혁신 가속화 및 복수 벤더의 양산 시스템 공급 가능하게 함)</p><h3>Technical Insights</h3><p>• **MUSV 다중임무 플랫폼화**: 컨테이너식 적재 시스템, 미사일 시스템, 첨단 소나 배열 탑재 가능한 모듈식 설계로 ISR, 대잠전, 타격 임무 등 다목적 운용 가능화</p><p>• **자율운항 기술 통합**: 안두릴의 자율운항 및 미션 시스템이 현대조선의 고효율 조선 능력 및 미국 산업 기반과 결합되어 전통적 해군 조달 병목 우회</p><p>• **국제 공급망 재편**: 미국 해군의 마켓플레이스 방식 도입으로 한국(현대방위), 이탈리아(핀칸티에리) 등 국제 조선사 참여 활성화 및 글로벌 해양 방위산업 생태계 변화</p><p>• **산업 구조 변화**: 방위산업 대형사(록히드마틴, 한화방위)와 소규모 자율운항 기술 전문기업(매그넷 디펜스, 안두릴) 간 협력으로 무인함정 개발 속도 가속화 및 기술 혁신 촉진</p></div>`,
+      tags: ["Autonomous Vessels","MUSV Program","U.S. Navy","Defense Technology","Unmanned Surface Vessels"],
+      link: "https://gcaptain.com/industry-floods-into-autonomous-vessel-race-as-u-s-navy-opens-musv-marketplace/",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
