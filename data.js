@@ -4758,3 +4758,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-20
+addEvents({
+  "2026-04-20": [
+    {
+      type: "news",
+      title: "Saildrone Unveils Spectre: New High-Speed Unmanned Surface Vessel for Naval Operations",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-04-20",
+      image: "https://maritime-executive.com/media/images/article/69e39427dbe4c5e566c86d62_saildrone-unveils-spectre-new-class-high-speed-unmanned-surface-vessel-usv-naval-operations.d825c9.webp",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Saildrone가 52미터 길이, 250톤 무게의 신형 무인수상선 Spectre를 공개했으며, 이는 회사 역사상 가장 크고 빠르며 성능이 우수한 플랫폼</p><p>• Spectre는 최대 30노트의 속도와 25,000kg의 페이로드 용량을 보유하며, 쌍 샤프트 전기-디젤 하이브리드 추진 시스템으로 극도의 침묵 운영 가능</p><p>• 반잠수함 전쟁(ASW) 임무에 최적화되었으며, 윙 시스템 없이도 운영 가능하도록 설계되어 다목적 운영 성능 제공</p><p>• 10년 이상의 운영 경험과 2년간의 집중 설계 작업을 통해 개발되었으며, 미 해군의 해상전 능력을 혁신적으로 향상시킬 것으로 예상</p><p>• 40피트 컨테이너 2개부터 20피트 컨테이너 5개까지 다양한 페이로드 구성이 가능하며, 최대 페이로드 용량은 70톤 이상</p><h3>Key Quotes</h3><p>• "Spectre is the result of 25 years of continually pushing the boundaries of what's possible. A unique design evolved through the hard lessons of operational experience in the real world" (25년간 기술적 한계를 지속적으로 극복한 결과물이며, 실전 운영 경험에서 도출된 독특한 설계)</p><p>• "Spectre represents a transformative step forward for naval surface warfare. Its endurance, payload flexibility, and seamless integration with advanced missile and sonar systems will give the US Navy a persistent, low observable USV" (Spectre는 해상전의 혁신적 진전을 나타내며, 미 해군에 지속적이고 저탐지 특성의 무인선을 제공)</p><h3>Technical Insights</h3><p>• 전기-디젤 하이브리드 추진 시스템(5,000마력 Caterpillar 디젤 엔진 + 전기 모터)으로 12노트까지 극도의 침묵 운영이 가능하며, 조정 가능 피치 프로펠러로 음향 서명을 완벽히 제어 가능한 고급 ASW 기술 적용</p><p>• 풍력, 태양광, 디젤 복합 추진 시스템으로 25노트 항주 시 3,280해리의 항속력을 달성하며, 무인수상선(USV)의 장시간 작전 내구성과 신뢰성을 크게 향상시킨 산업 이정표</p><p>• IMO/COLREG 국제해양규칙 준수를 고려한 자율운항 설계로 상용 및 군용 이중 용도 운영이 가능하며, 차세대 해양 로봇화의 실질적 운영 모델 제시</p><p>• 컨테이너화된 페이로드 시스템과 선미 배치 설계로 음향 탐지 및 대함 미사일 통합 운용이 용이하며, 네트워크 중심 해전(Network-Centric Warfare) 개념의 구현을 가능하게 하는 기술적 혁신</p></div>`,
+      tags: ["Autonomous Ships","Unmanned Surface Vehicles","Naval Technology","ASW Operations"],
+      link: "https://maritime-executive.com/article/saildrone-unveils-spectre-new-class-of-high-speed-unmanned-surface-vessel",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "event",
+      title: "Saildrone Unveils New Spectre USV at Sea Air Space 2026",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-04-20",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/04/Saildrone-Spectre-USV.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Saildrone가 Sea Air Space 2026에서 최대 규모의 무인 수상함(USV) '스펙터'를 공개했으며, 길이 52m로 다양한 작전 임무에 맞는 탑재체를 운반할 수 있음<br>• 디젤/전기 하이브리드 추진 시스템을 탑재하여 최대 27노트의 고속 성능과 초저소음 운영(12노트)을 동시에 달성<br>• 최대 항속거리 3,280해리(평해), 5,000마력 이상의 추진력, 최대 25톤의 탑재체 운반 능력 보유<br>• 록히드마틴의 MK-70 페이로드 배송시스템과 탈레스의 CAPTAS-4 가변심도 능동형 소나 등 첨단 탑재체 탑재 가능<br>• Fincantieri Marinette Marine의 위스콘신 그린베이 시설에서 생산되며, 연간 약 5대 생산 가능</p><h3>Key Quotes</h3><br>• "As a company with over 2.5 million miles of voyages, and 60,000 days at sea, Spectre represents everything we've learned in the last 10 years." (Saildrone는 지난 10년간 250만 해리의 운항과 6만 일의 해상 경험을 바탕으로 스펙터를 개발함)<br>• "Saildrone's decades of operating unmanned surface vessels, combined with Spectre's unique features as a multi-mission platform, represent an ideal case on which to apply Fincantieri Marine Group's proven expertise in the serial production of aluminum vessels." (Saildrone의 장기 USV 운영 경험과 스펙터의 다용도 플랫폼 특성은 Fincantieri의 알루미늄 함정 대량 생산 능력과 이상적으로 결합됨)</p><h3>Technical Insights</h3><br>• MUSV(Medium Unmanned Surface Vessel) 프로그램의 신규 요구사항에 대응하여 설계되었으며, 기존 MASC 프로그램 폐지 이후 미 해군의 새로운 전략적 선택지로 평가됨<br>• 돛 미탑재 버전의 스텔스 프로필(2m)을 통해 센서 회피 능력을 강화하여 먼저 수상 함정 도착 전 잠수함 방지 역량 확대 가능<br>• 락히드마틴의 Mk-41 수직발사 시스템(VLS)을 4개 탑재한 MK-70 페이로드 배송시스템 통합으로 원거리 정밀 타격 능력 부여 및 해전 양상 변화<br>• CAPTAS-4 능동형 소나 탑재로 수중 감시 범위를 획기적으로 확대하여 반잠수함전(ASW) 능력의 근본적 재편성 실현</p></div>`,
+      tags: ["Unmanned Surface Vessel","USV","Sea Air Space 2026","Defense Technology"],
+      link: "https://www.navalnews.com/event-news/sea-air-space-2026/2026/04/saildrone-unveils-new-spectre-usv-at-sea-air-space-2026/",
+      coords: [-76.7495,38.7642],
+      location: "National Harbor, Maryland, USA"
+    },
+    {
+      type: "news",
+      title: "MQ-9B SeaGuardian: Enhancing Naval and Marine Corps Operations",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-04-20",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/04/2509_ASI_MQ9_SEAGUARDIAN_SDS_POD_0057_L19176_screen.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **MQ-9B SeaGuardian 무인항공기 시스템**: 미 해군 및 해병대 작전 역량 강화를 위해 설계된 최고 성능의 장시간 체공 능력 보유 무인기 시스템</p><p>• **주요 성능**: 900만 비행시간 이상의 운영 경험, 다중 영역 인식(Multi-Domain Awareness), ISR-T(정찰·감시·표적 지정) 임무 수행, 극한 기후 환경 운영 가능</p><p>• **대잠전(ASW) 능력**: 자체 내장형 음탐 장비 및 음향 부표(Sonobuoy) 배치·감시 능력으로 P-8A 포세이돈과의 통합 운영으로 고위험 지역 감시 확대</p><p>• **작전 유연성**: 차세대 STOL(단거리이착륙) 형태로 열악한 환경의 즉시 활주로에서 운영 가능하며, 분쟁 전 단계에서의 억제력 및 상황 인식 제공</p><p>• **센서 통합**: 멀티모드 해양 레이더, 전자광학/적외선 시스템, 신호 정보 수집 페이로드로 해양·연안 지역에 대한 종합적 감시 제공</p><h3>Key Quotes</h3><p>• "SeaGuardian offers the best endurance of any aircraft in this class, making it a critical asset for intelligence, surveillance, reconnaissance, and targeting (ISR-T) missions." (이 급의 모든 항공기 중 최고 수준의 체공 능력으로 정찰·감시·표적 지정 임무의 핵심 자산 역할)</p><p>• "MQ-9B's extensive operational pedigree, with over 9 million flight hours logged in conditions ranging from permissive to denied, ensures its readiness for high-end conflict scenarios." (900만 시간 이상의 광범위한 운영 기록으로 고강도 분쟁 시나리오에 대한 준비 태세 확보)</p><p>• "MQ-9B's rugged airframe and advanced de-icing systems enable operations in extreme weather environments, from the Arctic to the Antarctic and everywhere in between." (강화된 기체 구조와 첨단 제빙 시스템으로 북극에서 남극까지 극한 기후 환경에서의 운영 가능)</p><h3>Technical Insights</h3><p>• **자율 해상 감시 체계의 진화**: 무인 항공기 기반의 ISR-T 능력이 유인 항공기(P-8A Poseidon)와 통합되어 인명 손실 최소화와 작전 반경 확대라는 차세대 해양 감시 패러다임 구현</p><p>• **대잠전(ASW) 자동화**: 자체 음탐 장비와 음향 부표 자동 배치 기능으로 전통적 유인 대잠전 체계의 보완적 역할을 통한 작전 효율성 증대 및 인명 위험 감소</p><p>• **악기후 자율 운영**: 극한 기후(북극·남극) 및 악조건(안개·강우) 환경에서의 자동 비행 능력으로 해양 상황 인식의 연속성 보장 및 분쟁 전 단계 억제력 강화</p><p>• **분산형 작전 기지 구성**: STOL 형태의 도입으로 열악한 환경의 임시 활주로 운영 가능하게 되어 해외 주둔지 기반시설 의존도 감소 및 작전 유연성 극대화</p></div>`,
+      tags: ["Unmanned Aircraft Systems","Naval Operations","ISR-T Missions","Anti-Submarine Warfare","U.S. Navy"],
+      link: "https://www.navalnews.com/event-news/sea-air-space-2026/2026/04/mq-9b-seaguardian-enhancing-naval-and-marine-corps-operations/",
+      coords: [0,0],
+      location: "Global/Naval Operations"
+    },
+    {
+      type: "news",
+      title: "Rheinmetall Kraken GmbH launches series production of USV in Hamburg",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-04-20",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/04/Rheinmetall-Kraken-K3-SCOUT_Copright-Rheinmetall-Naval-Systems-2.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 라인메탈과 크래켄 테크놀로지 그룹의 합작회사 라인메탈 크래켄 GmbH가 함부르크의 블로흠+보스 조선소에서 K3 스카우트 무인수상선(USV) 양산을 개시했다.<br>• K3 스카우트는 최대 속도 55노트, 길이 8.4미터의 소형 무인선으로 군사 및 민간 용도로 활용 가능하다.<br>• 초기 연간 약 200척 생산 계획이며, 주문량에 따라 연간 최대 1,000척까지 확대 가능하다.<br>• 해양 감시, 중요 인프라 보호, 군사작전용 무기 운반 등 다양한 미션 프로필을 지원한다.<br>• 라인메탈 조선해양시스템 부문이 함부르크를 독일의 무인·자율 해양 시스템 개발 및 검증 센터로 육성 중이다.</p><h3>Key Quotes</h3><br>• "Production of the Kraken K3 Scout is initially designed for around 200 units per year. Depending on the order volume, we can scale up production to as many as 1,000 units annually." (K3 스카우트는 초기에 연간 약 200척 생산을 목표로 하며, 주문량에 따라 연간 최대 1,000척까지 확대할 수 있다는 의미)<br>• "The formation of Rheinmetall Kraken GmbH combines the scale, expertise and reach of a longstanding defence leader with an agile, innovative maritime technology company." (라인메탈 크래켄 GmbH는 오랜 역사의 방위사업 기업의 규모와 전문성에 민첩한 혁신 해양기술 기업을 결합했다는 의미)</p><h3>Technical Insights</h3><br>• 무인수상선(USV) 기술의 민간·군사 이중용도(Dual-use) 플랫폼으로서, 해양감시, 항만보안, 자율운항 등 다양한 해사 산업 분야 적용이 가능하다.<br>• 독일 조선업의 전통적 강점(블로흠+보스 조선소)과 영국의 첨단 무인 시스템 기술의 결합으로 유럽 해양 자율화 시장 주도권 확보가 가능할 전망이다.<br>• IMO 자율운항선박(MASS) 규제 프레임워크 발전에 따라, 소형 USV부터 중대형 자율화물선까지 스케일업 가능한 생산 인프라 구축이 산업 표준화 측면에서 중요하다.<br>• 연간 200~1,000척 규모의 양산 능력은 향후 NATO 및 유럽 해군의 함대 현대화, 해안경비 및 항만 보안 자동화 수요 증가에 대응할 수 있는 전략적 역량이다.</p></div>`,
+      tags: ["USV","Autonomous Systems","Unmanned Surface Vessel","Maritime Technology"],
+      link: "https://www.navalnews.com/naval-news/2026/04/rheinmetall-kraken-gmbh-launches-series-production-of-usv-in-hamburg/",
+      coords: [10,53.5],
+      location: "Hamburg, Germany"
+    }
+  ]
+});
