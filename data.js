@@ -4870,3 +4870,34 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-21
+addEvents({
+  "2026-04-21": [
+    {
+      type: "news",
+      title: "HII Accelerates ROMULUS USV Program with Four New Production Vessels",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-04-21",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/04/romulus-usv-april-2026.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• HII(Huntington Ingalls Industries)가 ROMULUS 151 무인표면함(USV) 4척의 추가 생산을 발표하여 자율항해 함정의 대량생산 단계로 전환하고 있음<br>• 루이지애나 주 Breaux Brothers Enterprises 조선소에서 현재 건조 중인 1척에 추가로 4척을 생산하여 총 5척의 ROMULUS 151이 양산 계획 중<br>• ROMULUS는 AI 기반의 모듈식 무인함정으로 정찰, 지뢰탐지, 공격작전, 무인시스템 대응 등 다양한 임무 수행 가능<br>• HII의 HYPR(High-Yield Production Robotics) 이니셔티브를 통해 로봇 자동화와 디지털 품질 관리 시스템을 도입하여 원가 절감 및 생산 속도 향상 추진<br>• 미 해군 및 동맹국에 자율항해 능력의 신속한 배치를 목표로 프로토타입에서 실전배치까지의 신속한 전환을 강조</p><h3>Key Quotes</h3><p>• "ROMULUS represents a shift in how we deliver unmanned capability to the fleet. We are combining shipbuilding experience, scalable manufacturing, proven autonomy, and strong industry partnerships to move quickly from prototype to operational deployment." <br>(ROMULUS는 함대에 무인 능력을 제공하는 방식의 변화를 나타내며, 조선소 경험, 확장 가능한 제조, 입증된 자율성, 강력한 산업 협력을 결합하여 프로토타입에서 실전배치까지 신속히 전환하고 있음)</p><p>• "By aligning design, autonomy, and manufacturing, we are creating a production model that delivers predictable outcomes and positions us to meet growing demand for autonomous maritime capability."<br>(설계, 자율성, 제조를 정렬함으로써 예측 가능한 결과를 제공하고 증가하는 자율항해 능력 수요를 충족할 수 있는 위치에 놓이게 됨)</p><h3>Technical Insights</h3><p>• ROMULUS 플랫폼은 모듈식 설계로 다양한 함정 크기에 걸쳐 확장 가능하도록 엔지니어링되었으며, 공통의 제조 접근법과 자율성 기본 사양을 유지하여 생산 표준화 달성<br>• HYPR 이니셔티브를 통한 산업용 로봇과 디지털 품질 관리 시스템의 통합으로 무인함정의 대량생산 모델 구축, 단위당 비용 절감 및 일정 예측 가능성 향상 기대<br>• ISR, 지뢰탐지, 타격작전, 무인시스템 대응 등 다양한 임무와 수중·공중 무인 플랫폼의 발진·회수 능력으로 미 해군의 작전 다양성 강화 가능<br>• 선진 조선 기술과 AI 기반의 자율항해 기술 결합으로 국방 무인 플랫폼 산업의 신기준 제시, 향후 상용 자율항해선박 개발로도 확대 가능성 존재</p></div>`,
+      tags: ["autonomous ships","USV","unmanned systems","U.S. Navy","ROMULUS","AI navigation"],
+      link: "https://www.navalnews.com/event-news/sea-air-space-2026/2026/04/hii-accelerates-romulus-usv-program-four-new-romulus-vessels-head-into-production/",
+      coords: [-92.1037,30.25],
+      location: "Louisiana, USA"
+    },
+    {
+      type: "news",
+      title: "U.S. Navy Plans to Deploy Thousands of Unmanned Surface Vessels in Indo-Pacific by 2030",
+      source: "USNI News",
+      sourceMeta: "usni.org · 2026-04-21",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 미국 해군이 2030년까지 인도-태평양 지역에 수천 척의 무인 해상 선박(USV) 배치 계획 발표<br>• 중형 무인 해상 선박(MUSV) 30척 이상, 소형 USV 수천 척 포함된 대규모 배치 구상<br>• 표면 전개 그룹 1(Surface Development Group One)의 캡틴 개럿 밀러(Capt. Garrett Miller)가 Sea-Air-Space심포지움에서 공식 발표<br>• 무인 항공 시스템(UAS)과 함께 유인 선박 및 무인 선박에서 운용될 예정<br>• 해군의 분산 해상 작전(DMO) 전략의 핵심 요소로 인도-태평양 지역의 전략적 이점 확보 목표</p><h3>Key Quotes</h3><p>• "By 2030, expect to see over 30 Medium Unmanned Surface Vessels (MUSV) just in the Indo-Pacific. Expect to see thousands of small USVs, and then you know, any number of [unmanned aerial systems]" <br>(2030년까지 인도-태평양 지역에만 30척 이상의 중형 무인 해상 선박과 수천 척의 소형 USV, 그리고 다양한 무인 항공 시스템이 배치될 것으로 예상)</p><h3>Technical Insights</h3><p>• 무인 해상 선박의 다층 배치 전략 - MUSV(중형)와 소형 USV의 구분된 운용으로 다양한 해상 작전 수행 능력 확보<br>• 분산 해상 작전(DMO) 패러다임 구현 - 중앙집중식 지휘통제에서 벗어나 자율적으로 작동하는 무인 플랫폼 기반의 네트워크 중심 전력 강화<br>• COLREG 및 국제 해사 규범 적용 문제 - 수천 척의 무인 선박이 상용해운 지역에서 운용될 경우 국제 항행 규칙 준수 및 충돌 회피 자율성 문제 대두<br>• 인도-태평양 지역 전략적 영향력 확대 - 무인화된 해양 감시 및 위협 대응 능력으로 중국 등 경쟁국 견제 및 해역 통제력 강화</p></div>`,
+      tags: ["Unmanned Surface Vessels","USV","Indo-Pacific","Naval Technology","Autonomous Ships"],
+      link: "https://news.usni.org/2026/04/21/navy-to-deploy-thousands-of-unmanned-surface-vessels-to-the-indo-pacific-by-2030",
+      coords: [0,0],
+      location: "Indo-Pacific Region"
+    }
+  ]
+});
