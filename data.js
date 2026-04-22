@@ -4814,3 +4814,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-21
+addEvents({
+  "2026-04-21": [
+    {
+      type: "news",
+      title: "Trump Extends Ceasefire with Iran While Maintaining U.S. Maritime Blockade in Strait of Hormuz",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-21",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/Strait-of-Hormuz-patrol.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국이 이란과의 휴전을 연장하면서 호르무즈 해협에 대한 해상 봉쇄를 지속적으로 유지하고 있으며, 파키스탄의 중재를 통해 협상 시간을 확보하고 있음</p><p>• 미 해군은 계속해서 호르무즈 해협의 해상 교통을 통제하고 이란 관련 선박에 대한 적발·나포 권한을 유지하면서 경제적 압박 전략을 실시 중</p><p>• 이란의 카르그 섬 석유 저장시설이 며칠 내 포화될 것으로 예상되며, 이란의 주요 수익원인 석유 수출이 심각한 타격을 받고 있음</p><p>• 호르무즈 해협의 해상 운송이 실질적으로 이란 혁명수비대(IRGC)의 통제 하에 있으면서 이중 위협(미국 봉쇄 + 이란 통제)으로 인해 글로벌 해운 산업의 교역 패턴이 급격히 변화하고 있음</p><p>• 미국 재무부는 이란의 자금 이동과 자산 동결에 대한 체계적인 제재를 강화하고, 이란 관련 해운 중개자에 대한 제재 위협을 가하고 있음</p><p>• 휴전 연장은 긴장 완화가 아닌 현 상황의 일시적 유지로, 해운업계는 지속적인 불확실성과 경로 제약에 직면해 있음</p><h3>Key Quotes</h3><p>• "Based on the fact that the Government of Iran is seriously fractured… we have been asked to hold our Attack on the Country of Iran until such time as their leaders and representatives can come up with a unified proposal." (이란 정부가 심각하게 분열되어 있다는 점을 고려하여, 이란 지도부가 통합된 제안을 제출할 때까지 공격을 유보해달라는 요청을 받았음)</p><p>• "The United States Navy will continue the blockade of Iranian ports... storage at Kharg Island could fill within days, potentially forcing shut-ins at Iran's oil fields." (미국 해군은 이란 항구에 대한 봉쇄를 계속할 것이며, 카르그 섬의 저장시설이 며칠 내 포화되어 이란 유전의 가동을 중단시킬 수 있음)</p><p>• "Any vessel or intermediary involved in facilitating those flows risks exposure to U.S. sanctions, as authorities continue efforts to freeze assets tied to Iran's leadership." (이란과의 거래에 관여하는 모든 선박과 중개자는 미국 제재에 노출될 위험이 있음)</p><h3>Technical Insights</h3><p>• **호르무즈 해협의 이중 통제 구조**: 미국의 해상 봉쇄와 이란 혁명수비대의 해협 통제가 동시에 작동하면서, 선박의 통항이 미-이란 양측의 승인을 요구하는 구조로 변화 중이며, 이는 국제해사기구(IMO) 해역통항의 자유 원칙과 충돌</p><p>• **국제해상법과 제재의 충돌**: COLREG(해상충돌방지규칙)과 국제해사법상의 공해통항 자유가 지정학적 해상 봉쇄에 의해 실질적으로 제약되고 있으며, 선박 운영자들은 법적 이중부담(국제법 vs. 각국 제재)에 직면</p><p>• **글로벌 해운 경로 재편**: 호르무즈 해협을 우회하는 대체 항로(수에즈 운하 경유 확대, 인도양 우회 루트)로의 전환이 가속화되고 있으며, 이는 연료비 상승, 운송 시간 증가, 보험료 인상으로 이어져 글로벌 해운 비용 증가 초래</p><p>• **해운 산업의 규정 준수 위험 증대**: 제재 회피 혐의를 피하기 위해 선사들이 이란 관련 화물을 적극 회피하고 있으며, 이는</p></div>`,
+      tags: ["Strait of Hormuz","Iran Blockade","Geopolitical Risk","Shipping Disruption","Maritime Security"],
+      link: "https://gcaptain.com/hormuz-disruptions-show-no-end-as-trump-extends-ceasefire-maintains-blockade/",
+      coords: [56.5,26.5],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "Anduril and Kraken Partner on Autonomous Maritime Technology for US Navy",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-04-21",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/04/K7-SABRE-K5-KRAKEN-1.0-2-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **전략적 파트너십**: 미국 방위기술 기업 Anduril Industries와 자율 해양기술 전문사 Kraken Technology Group이 Sea-Air-Space Expo에서 공식 협력을 발표함</p><p>• **주요 제품**: K7 SABRE와 K5 KRAKEN 무인수상선(USV)을 미국 내에서 제조 및 통합하여 미국 해군의 하이브리드 함대 전환 지원</p><p>• **기술적 성과**: 장거리 고성능 통합 능력과 모듈식 페이로드 시스템을 개발하여 미군 및 NATO 동맹국의 요구사항 충족</p><p>• **시장 입지 강화**: Kraken은 SOCOM으로부터 4,900만 달러 규모의 OTA 계약 및 국제 계약 수주로 미국 시장 입지 강화</p><p>• **확장성과 신뢰성**: 저비용, 확장 가능하고 모듈식 시스템으로 신뢰성 있고 효과적인 해양 작전 능력 제공</p><h3>Key Quotes</h3><p>• "This partnership reflects Kraken's commitment to supporting global maritime challenges with hardened operational capabilities at a critical point in history." (이 파트너십은 역사적 기로에서 강화된 작전 능력으로 글로벌 해양 과제를 지원하려는 Kraken의 의지를 반영함)</p><p>• "Kraken is known for their proven, battle-tested platforms. This partnership expands Anduril's family of autonomous surface offerings with small boats carrying mission payloads." (Kraken은 입증되고 전투 검증된 플랫폼으로 알려져 있으며, 이 파트너십은 Anduril의 자율 수상 제품군을 임무 페이로드를 탑재한 소형 보트로 확장함)</p><h3>Technical Insights</h3><p>• **무인수상선(USV) 기술 통합**: K7 SABRE와 K5 KRAKEN의 장거리 고성능 자율운항 기술은 미 해군의 미래 함대 구성에서 소형 고속 반응 함정의 역할 강화를 의미함</p><p>• **모듈식 페이로드 설계**: 다양한 임무(감시, 대잠수함전, 전자전 등)에 대응할 수 있는 모듈식 시스템으로 NATO 연합 운용성 확보</p><p>• **국방 자율시스템 정책**: SOCOM의 OTA 계약 수주는 미국 국방부가 신속한 기술 도입과 자율 수상 플랫폼 개발을 전략적으로 추진 중임을 시사</p><p>• **산업 생태계 형성**: 대형 방위기업(Anduril)과 기술 전문사(Kraken)의 협력 모델은 자율해양 시장에서 대형 플레이어 중심의 산업 통합 가속화를 예고함</p></div>`,
+      tags: ["autonomous ships","USV","US Navy","defense technology","partnership"],
+      link: "https://www.navalnews.com/event-news/sea-air-space-2026/2026/04/anduril-and-kraken-partner-to-deliver-mission-ready-maritime-power-at-scale/",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "Leonardo DRS Launches Maritime C-UAS Capability on Autonomous Unmanned Surface Vessel",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-04-21",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/04/leonardo-drs-usv.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Leonardo DRS가 자율 무인 수상함(AUSV) 플랫폼에 해양 임무 장비 패키지(M-MEP) 통합으로 해상 드론 위협 대응 역량 구현<br>• Sea Machines STORMRUNNER AUSV 플랫폼을 활용한 카운터-무인항공시스템(C-UAS) 통합 시연으로 해군 및 연합군의 운용 요구사항 충족<br>• 해양 레이더, 전자광학적외선(EO-IR) 센서, SAGEcore™ AI 기반 소프트웨어 플랫폼으로 감지·추적·식별·대응까지 통합 운용 체계 제공<br>• 모듈형 아키텍처로 다양한 유인/무인 해상 플랫폼으로의 빠른 확대 배치(Rapid Integration) 가능<br>• 드론 위협의 범위, 자율성, 수량 증가에 대응하는 빠른 요구사항-운용능력 전환(Requirements to Capability Compression) 달성</p><h3>Key Quotes</h3><p>• "Aerial unmanned threats are evolving quickly — in range, autonomy, and numbers. The M-MEP is engineered to help the U.S. Navy and allied forces stay ahead of that threat with a modular package that brings sensors, command and control, and defeat options together into one integrated capability that can be fielded fast."<br>(공중 무인 위협이 범위, 자율성, 수량면에서 빠르게 진화하고 있으며, M-MEP는 센서, 지휘통제, 대응 옵션을 하나의 통합 능력으로 묶어 빠른 운용 배치를 지원하는 모듈형 패키지로 설계됨)</p><p>• "The M-MEP is designed to compress the time from requirement to operational capability by packaging detection through defeat into a single, scalable system that can be adapted across a range of maritime platforms — including uncrewed surface vessels"<br>(M-MEP는 감지에서 대응까지를 단일의 확장 가능한 시스템으로 패키징하여 다양한 해상 플랫폼, 특히 무인수상함으로의 적응을 통해 요구사항부터 운용능력까지의 시간 단축 목표)</p><h3>Technical Insights</h3><p>• **AI 기반 센서 퓨전 아키텍처**: SAGEcore™ 소프트웨어 플랫폼을 통한 인공지능 기반 다중 센서(해양 레이더, EO-IR) 융합으로 해상 드론 위협의 조기 감지 및 정확도 향상, COLREG 준수 자율항해 환경에서의 충돌회피 능력과 유사한 자동화 의사결정 체계 구현</p><p>• **무인 플랫폼 중심의 방위 확장**: AUSV 기반 C-UAS 배치로 유인함정 승조원 안전성 향상 및 운용비용 절감, 분산형 해상 감시 네트워크 구축 가능성으로 IMO/해군 규정상 자율운용 함정의 실전 배치 가속화</p><p>• **모듈형 통합 전략**: 다양한 해상 플랫폼(유인/무인)으로의 빠른 통합 가능 설계로 해운산업의 기술 도입 속도 증가 및 해상 보안 인프라의 신속한 현대화 가능</p><p>• **하이브리드 방위 개념**: 급증하는 해상 드론 위협(상업용 쿼드콥터부터 장거리 UAS까지)에 대응하는 다층 방위(Layered Defense) 개념으로 해상도메인 인식(MDA) 강화 및 운용자 업무 부담 경감</p></div>`,
+      tags: ["C-UAS","Autonomous Surface Vessels","Maritime Defense","AI Sensor Fusion","Drone Threat Detection"],
+      link: "https://www.navalnews.com/event-news/sea-air-space-2026/2026/04/leonardo-drs-launches-new-maritime-c-uas-capability/",
+      coords: [-77.0369,38.9072],
+      location: "Washington, D.C. (Sea-Air-Space Symposium)"
+    },
+    {
+      type: "news",
+      title: "Hanwha and Magnet Defense Formalize MUSV Strategic Partnership at Sea Air Space 2026",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-04-21",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/04/hanwha-magnet-musv.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Hanwha Defense USA와 Miami 기반 자율해양 기업 Magnet Defense가 전략적 파트너십을 체결하여 미국 국방부를 위한 중형 무인표면함정(MUSV) 생산에 협력<br>• Magnet Defense의 M48 함선은 17,000해리의 항속거리(현재 해상 MUSV 중 최장)를 보유하며, 2024년 마이애미에서 미국령 사모아까지 왕복 항해로 검증 완료<br>• MOU 체결을 통해 38미터급 MUSV 공동 건조, AI 기반 로봇식 조선소 개발, 자율항해 소프트웨어 고도화에 협력하기로 합의<br>• Hanwha의 고급 미사일 시스템과 Magnet Defense의 MUSV 기술의 결합으로 글로벌 전력 투사 능력 강화 예상<br>• 해상 상태 9(Sea State 9) 조건에서의 안정성 입증으로 악기상 환경에서의 신뢰성 검증 완료</p><h3>Key Quotes</h3><br>• "Hanwha remains committed to fielding the most capable and lethal MUSVs to support American warfighters and other allies in times of conflict" (Hanwha는 미군과 동맹국을 지원하기 위해 가장 능력 있고 강력한 MUSV를 배치하는 데 전념)<br>• "Our ability to project force globally by working together in quick response to America's Armed Forces needs is critical in today's ever-changing environment" (글로벌 전력 투사 능력과 미군의 급변하는 요구에 신속 대응하는 능력이 현대 환경에서 매우 중요)</p><h3>Technical Insights</h3><br>• AI 기반 자율항해 소프트웨어 고도화: Magnet Defense의 검증된 자율항해 기술과 Hanwha의 로봇식 조선소 기술이 결합되어 MUSV의 자동화 수준을 크게 향상<br>• 장거리 해상 운용 능력: 17,000해리 항속거리와 Sea State 9 조건 통과 기록은 국제해상법규(COLREG) 준수 및 해상 안전성 요구사항의 자율 시스템 통합 필요성 강조<br>• 방위산업-첨단기술 연계: 미사일 시스템과 무인 함정의 통합으로 해상 방어 역량의 원격 제어 및 AI 기반 의사결정 능력 강화, IMO 규제 프레임워크와의 조화 검토 필요<br>• 제조 혁신 구축: AI 기반 로봇식 조선소는 MUSV의 량산 가능성을 높이며, 자율해양 분야의 산업 표준화 및 국제 규제 대응의 신속성 향상을 의미</p></div>`,
+      tags: ["MUSV","Autonomous Vessels","Hanwha Defense","Magnet Defense","AI Navigation"],
+      link: "https://www.navalnews.com/event-news/sea-air-space-2026/2026/04/hanwha-and-magnet-defense-formalize-musv-strategic-partnership/",
+      coords: [-80.1918,25.7617],
+      location: "Miami, USA"
+    }
+  ]
+});
