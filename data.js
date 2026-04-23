@@ -4901,3 +4901,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-22
+addEvents({
+  "2026-04-22": [
+    {
+      type: "accident",
+      title: "Iranian Gunboats Fire on Commercial Ships in Strait of Hormuz; IRGC Seizes Vessels",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-22",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/2026-04-18T130031Z_520984585_RC2ORKAY0ZNK_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 이란 혁명수비대(IRGC)가 호르무즈 해협에서 상선에 대한 무장 공격을 실시, 화물선과 컨테이너선이 피해를 입음<br>• 피격 선박: MSC Francesca, Epaminondas, Euphoria 등 3척 확인, 이 중 2척은 IRGC에 의해 나포되어 육상 검사 예정<br>• 이란의 초대형유조선(VLCC) Hero II와 Hedy가 아라비아해로 진출하며 미국의 해상봉쇄 회피 시도<br>• 호르무즈 해협 폐쇄로 인한 석유 공급 감소 약 10억 배럴 규모, 유가 급등 위기 초래<br>• 미국-이란 간 협상 중단 상태에서 지정학적 긴장 극대화, 상업 해운 운영의 심각한 위협 요인으로 작용</p><h3>Key Quotes</h3><br>• "a cargo ship and a container ship came under fire in the waterway" (호르무즈 해협 내 화물선과 컨테이너선이 총격을 받았음)<br>• "Iran moved supertankers into the Arabian Sea, an area where the US has sought to block Iranian shipping" (이란이 미국이 봉쇄하려던 아라비아해 지역으로 초대형유조선을 이동)<br>• "Tehran's deployment of small boats to target commercial shipping remains a terrifying prospect" (테헤란의 소형 보트를 이용한 상선 공격은 여전히 공포의 대상)</p><h3>Technical Insights</h3><br>• 호르무즈 해협 내 상선에 대한 무장 공격은 국제해상법(UNCLOS) 및 해양보안 규약 위반으로, IMO 해상안전 기준에 심각한 위협을 구성<br>• 초대형유조선의 대규모 이동(약 400만 배럴 적재 능력)은 미국 주도 해상봉쇄의 실효성 문제를 드러내며, 글로벌 해운 보험료 및 선박 경로 재설정 요구 증가<br>• 상선 나포 및 무장 공격은 자율운항선박(MASS) 도입 시 더욱 심각한 보안 위협이 될 수 있으며, 향후 지역 해역의 선박 운영 안전 기준 및 호위 체계 강화 필요성 대두</p></div>`,
+      tags: ["Strait of Hormuz","Iran","Armed Attack","Commercial Shipping","Geopolitical Tension"],
+      link: "https://gcaptain.com/iran-menaces-hormuz-as-its-own-oil-tankers-test-us-blockade/",
+      coords: [56.2419,26.5597],
+      location: "Strait of Hormuz, Oman/Iran"
+    },
+    {
+      type: "news",
+      title: "Asian Shipowners Expected to Cross Hormuz Strait Before Western Firms Amid Iran Tensions",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-22",
+      image: "https://gcaptain.com/wp-content/uploads/2026/03/2026-03-11T121144Z_2136708764_RC2PZJA2ATE9_RTRMADP_3_EMERGING-CENBANKS-RATES-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국-이란 휴전으로 호르무즈 해협 운항 재개 논의 중이나, 아시안 선사들이 서방 선사보다 먼저 통과할 것으로 예상됨</p><p>• 호르무즈 해협은 2월 말부터 수백 척의 유조선과 화물선이 갇혀있어 전 지구적 에너지 공급 차질 초래</p><p>• 정부 간 협상 및 해군 지원을 받는 정부 소유 선박만 통과 가능한 상황으로, 인도·중국·이라크 선박이 우선 통과할 가능성 높음</p><p>• 이란은 이슬람 혁명수비대와 함께 통행료 부과로 해협 통제 강화 중이며, 서방 기업들은 OFAC 제재 준수로 인해 통과 제한</p><p>• 선원의 안전 우려와 Advanced War Risk Premium 상승으로 통행료 외에 추가 비용 발생 가능</p><h3>Key Quotes</h3><p>• "For companies that are happy not to comply with OFAC sanctions, the safety part is still there. But, if that has been resolved by government to government communication, can the Indian navy send a convoy through, can a Chinese convoy go through? Yeah, probably so," (OFAC 제재를 준수하지 않는 기업들은 안전이 확보된다면, 인도·중국 해군의 호위 통과가 가능할 것)</p><p>• "Certain parts of the world will be able to pass through and the odds are that in the next few weeks you're going to see more of that, and we won't be able to," (특정 지역의 선박만 통과 가능할 것이며, 향후 몇 주 내 더 많은 아시아 선박이 통과할 것으로 예상됨)</p><p>• "If your crew doesn't want to go, they don't need to go if they feel unsafe," (선원이 안전을 느끼지 못하면 항해를 거부할 수 있음)</p><h3>Technical Insights</h3><p>• **정치적 리스크와 운항 선택의 분화**: 제재 준수 여부와 정부 간 협상 기반의 해군 지원 유무에 따라 선박 운항이 결정되는 새로운 리스크 구조 형성</p><p>• **War Risk Premium 상승의 경영 영향**: Advanced War Risk Premium 증가로 인해 통행료 외 추가 보험료 부담이 증가하며, 선원 안전 우려로 인한 임금 상승 압박</p><p>• **아시아 해운의 전략적 우위**: 제재 회피 능력과 정부 후원이 강한 아시아 선사들이 글로벌 해운 시장에서 일시적 우위를 확보하게 되는 지정학적 변화</p><p>• **IMO 규정과 국가 이익의 충돌**: 국제해사법(UNCLOS)상 자유항행권과 이란의 주권 행사 간 충돌로 인한 해운산업의 규범 체계 재조정 필요</p></div>`,
+      tags: ["Strait of Hormuz","Iran-US tensions","Shipping disruption","OFAC sanctions"],
+      link: "https://gcaptain.com/asian-shipowners-to-cross-hormuz-before-western-firms-executives-say/",
+      coords: [56.1471,26.1207],
+      location: "Strait of Hormuz, Persian Gulf"
+    },
+    {
+      type: "accident",
+      title: "One Dead Recovered From Capsized Mariana; Five Crew Still Missing Near Saipan",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-22",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/260418-G-G0214-1001.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 국기선 마리아나(145피트 건화물선)가 4월 15일 엔진 고장 후 전복되어 표류함. 4월 18일 팔라우 근처 해역에서 발견됨<br>• 수심 작업 중 4월 22일(현지시간) 오후 5시 12분경 미 공군 31구조비행대가 잠수사를 통해 선체 내부에서 1명의 사망자 시신을 수습<br>• 현재 5명의 선원이 실종된 상태이며, 12인승 주황색 구명뗏목도 함께 실종됨<br>• 미국 해안경비대, 해군, 일본 해상보안청, 뉴질랜드 공군 등 다국가 연합 수색 작업 진행 중<br>• 초기 구조 임무에서 선체 회수 작업으로 전환된 상황. 수중 드론을 활용한 선체 내부 정밀 수색 실시<br>• 태평양 광활한 해역에서 수천 제곱마일 범위의 대규모 수색 작업 진행, 일본 해상보안청 아키쯔시마함도 참여</p><h3>Key Quotes</h3><p>• "Our hearts are with the families of the Mariana crew members and the communities impacted by this tragic incident. We continue to search in close coordination with our partners, using all available resources to support the ongoing response." <br>(마리아나 승무원 가족과 영향을 받은 지역사회를 향한 깊은 애도의 뜻을 표하며, 모든 가용 자원을 활용하여 수색 작업을 계속하겠다는 의지를 표현)</p><p>• "The divers conducted a comprehensive survey of the vessel's exterior and used an underwater remotely operated drone to search the ship's interior—marking the most intensive examination yet of the overturned cargo ship since it was located."<br>(선체 외부 종합 조사와 수중 원격 제어 드론을 활용한 선체 내부 수색으로 발견 이후 가장 정밀한 조사를 수행했음을 의미)</p><h3>Technical Insights</h3><p>• **엔진 고장 및 표류 원인**: 4월 15일 발생한 엔진 고장이 직접적인 원인으로 파악되며, 동력 상실 후 악천후에 의한 전복으로 추정됨. 선박 안정성 및 동력 시스템 점검의 중요성 강조</p><p>• **다국가 해상 구조 협력의 중요성**: 미국 해안경비대, 해군, 일본 해상보안청, 뉴질랜드 공군 등의 조율된 다국가 협력으로 광활한 태평양 해역에서의 효율적 수색 작업 진행. IMO 국제해상구조협약(SAR Convention) 준수 및 지역 간 조율 체계의 가치 입증</p><p>• **수중 탐색 기술의 발전**: 수심 작업과 ROV(원격 조종 드론)을 병행한 정밀 수색으로 전복된 선체 내부에 대한 효과적인 조사 수행. 향후 해난사고 조사 및 선원 생존 확인에 활용될 수 있는 기술</p><p>• **해상 안전 장비의 중요성**: 12인승 구명뗏목이 실종된 상황으로, 적절한 해상 안전 장비의 비축 및 관리, 정기적 점검의 필요성 강조. SOLAS 협약에 따른 생명 안전 장비 규정 준수의 중요성 재확인</p></div>`,
+      tags: ["vessel capsizing","missing crew","search and rescue","Pacific Ocean"],
+      link: "https://gcaptain.com/one-dead-recovered-from-capsized-mariana-as-search-continues-for-five-missing-crew/",
+      coords: [145.75,16.5],
+      location: "Northeast of Pagan, Saipan, Pacific Ocean"
+    },
+    {
+      type: "news",
+      title: "Global Shipping Leaders Demand Safe Passage Guarantee Through Strait of Hormuz",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-22",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockphaisarnwong2517-170049.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 글로벌 해운 선사들이 호르무즈 해협의 안전한 통항을 보장해 줄 것을 요구하고 있으며, 현재 미-이란 분쟁(2월 28일 발발)으로 인해 해협의 해운 교통이 거의 중단된 상태</p><p>• 일본 모루(MOL, 미쓰이 O.S.K. 라인스)의 타무라 CEO와 벨기에 CMB.Tech의 사버리스 CEO가 싱가포르 해양 주간 회의에서 호르무즈 해협 통항의 불확실성과 위험성에 대해 언급</p><p>• 이란 이슬람혁명수비대가 해협 주변에 기뢰 배치를 경고했으며, 임시 휴전 합의도 실제 안전한 통항으로 이어지지 못함</p><p>• 호르무즈 해협은 일일 약 130척의 선박이 통과하며 세계 일일 석유 및 LNG 공급량의 약 20%를 담당하는 전략적 해상로</p><p>• 국제법상 호르무즈 해협은 자유로운 통항이 보장되어야 하며, 이란의 통행료 징수 요구 시 국제법 준수 입장을 견지할 방침</p><h3>Key Quotes</h3><p>• "Two weeks ago when the ceasefire, said to be temporary, came into picture, we thought there was hope. But in reality, the agreement was not translated into the safety and passage (of the vessels)" (임시 휴전 합의가 나왔을 때 희망이 있었지만, 실제로는 선박의 안전한 통항으로 이어지지 못했다)</p><p>• "We need to be confident that we can transit without having any issues. Today we have no reassurance whatsoever." (안전한 통항에 대한 확신이 필요하지만, 현재로서는 어떤 보장도 없다)</p><p>• "The Strait of Hormuz is a free passage where normally no toll should be paid" (호르무즈 해협은 일반적으로 통행료 없이 자유롭게 통행할 수 있는 해역이다)</p><h3>Technical Insights</h3><p>• **해상법 및 국제 규정**: 호르무즈 해협은 유엔해양법협약(UNCLOS)에 따라 국제 선박의 자유로운 통행이 보장되어야 하며, 일방적 통행료 징수는 국제법 위반에 해당함</p><p>• **지정학적 리스크 관리**: 선박 운영사들이 고위험 해역 통항 시 국제 정부 간 조정(IMO/국제 중보 기구)을 요청하는 상황으로, 자율운항선 도입 시 원격 제어 및 대체 항로 설정의 중요성 증가</p><p>• **공급망 영향**: 호르무즈 해협 차단 시 전 세계 에너지 공급의 20% 단절 위험으로, 해운업계의 실시간 위험 모니터링 및 동적 경로 계획(dynamic routing) 기술의 필요성 강조</p><p>• **산업 운영 대응**: 대형 해운사들이 중동 지역 정박 선박의 동향 파악에 어려움을 겪고 있으며, AI 기반 해운 추적 및 예측 분석 시스템의 도입이 해운 안보 관리의 핵심 과제로 대두</p></div>`,
+      tags: ["Strait of Hormuz","Shipping Safety","Geopolitical Risk","Oil & Gas Transport"],
+      link: "https://www.marinelink.com/news/global-shipping-leaders-seek-guarantee-538368",
+      coords: [56.54,26.59],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
