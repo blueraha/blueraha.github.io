@@ -4957,3 +4957,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-22
+addEvents({
+  "2026-04-22": [
+    {
+      type: "news",
+      title: "Race Intensifies for Unmanned Combat Vessels: China's Orca Challenges US Navy Capabilities",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-04-22",
+      image: "https://maritime-executive.com/media/images/article/Killer-whale-ship-China-CSSC-PLA-Navy-Chinese-social-media.a56402.jfif",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **무인 해상 전투 시스템 경쟁 심화**: 우크라이나의 흑해 무인수상정(USV) 성공 이후 미국을 중심으로 무인 해상 전력 개발 관심도 급증하고 있으며, 미 해군의 실질적 지원이 뒷받침되고 있음</p><p>• **중국의 기술적 우위 확보**: CSSC가 공개한 자리(Orca) 무인 전투정은 배수량 300-500톤으로 미 해군의 Sea Hunter(약 100톤급)보다 3배 규모이며, VLS 발사기, 어뢰관, AESA 레이더, 헬기갑판 등 첨단 무기체계 탑재</p><p>• **생산 능력의 압도적 우위**: 중국 상선 조선소들이 전 세계 연간 건조량의 50% 이상을 담당하고 있어, 다수의 무인 전투정 대량 건조에 구조적 우위 보유</p><p>• **미국 시장의 경쟁 과열과 구조 조정**: Saronic, Anduril, Blue Water Robotics 등 신생 기업과 방위산업 대형사들이 경쟁 중이나, 향후 산업 통폐합 불가피할 것으로 예측</p><p>• **MUSV 마켓플레이스 구조로 본 미 해군의 변화**: 개발 단계 프로그램에서 생산 준비 완료 제품 중심으로 조달 전략 변경, 신뢰성 확보를 최우선 목표로 설정</p><p>• **2026년 산업 판도 결정의 해**: MUSV 계약 구조(복수 기업 선정 여부, 선체 형식 다양성, OTA 경로 활용 등)가 향후 산업 생태계를 좌우할 전환점</p><h3>Key Quotes</h3><p>• "Chinese commercial shipyards produce more tonnage annually than the rest of the world combined. The structural advantage in production capacity that underlies every U.S. concern about naval competition does not disappear because the vessels are unmanned."<br>(중국 조선소의 압도적 생산량 우위는 무인 전투정 대량 건조에서도 여전히 유효한 경쟁력)</p><p>• "The Navy will have a sustained number of orders once programs of record materialize, but not at the kind of scale that will keep a dozen companies in business simultaneously"<br>(미 해군의 지속적 주문량은 있겠지만, 동시에 수십 개 업체를 모두 유지할 수 있는 규모는 불가능)</p><p>• "Reliability at sea will be a primary focus"<br>(해상 운용 신뢰성이 무인 전투정 도입의 최우선 고려사항)</p><h3>Technical Insights</h3><p>• **무인 전투정 성능의 군사적 의미**: 배수량 300-500톤 규모의 다목적 무인 전투정은 대만 해협 같은 얕은 수심 연안 작전(littoral operations)에 최적화되어 있으며, 이는 지역 분쟁 시 전술적 우위 제공 가능</p><p>• **자율 운항 시스템의 COLREG 규제 격차**: 군사용 무인 전투정의 경우 국제 해상충돌 방지규칙(COLREG) 적용 범위와 해석에 대한 국제적 합의 부재로 인한 규제 공백 심화</p><p>• **산업 생태계의 공급망 경쟁력 차이**: 미국은 기술 혁신에 강점이 있으나 소수 정예 함정 중심 조달 구조로 인해 중국의 대량생산 체계에 대응 어려움, IMO 규제 완화를 통한 시간 단축 필요</p><p>• **무인 해상 시스템의 이중용도(dual-use) 규제 문제**: 상업용 자율운항 기술과 군사용 무인 전투정 간의 기술 전이 가능성으로 인해 향후 국제 해양 규제 및 수출통제 강화 예상</p></div>`,
+      tags: ["Autonomous Ships","Unmanned Surface Vessels","Naval Warfare","US-China Competition","Defense Technology"],
+      link: "https://maritime-executive.com/article/report-the-race-is-on-to-bring-unmanned-combatants-to-life",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "DeepOcean Contracted for Inter-Array Cable Installation at Taiwan's TPC-II Offshore Wind Farm",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-04-22",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/04/Orient-Adventurer-DeepOcean.jpg?image-crop-positioner-ts=1776844274",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• DeepOcean는 대만 TPC-II 해상풍력발전 프로젝트에서 66kV 배열 케이블(inter-array cables) 설치 지원 계약을 체결했으며, 2026년 완료 예정</p><p>• 노르웨이 회사의 범위는 케이블 설치, 엔지니어링 및 프로젝트 관리 서비스 포함; Dong Fang Offshore와의 협력으로 Orient Adventurer 선박 활용</p><p>• TPC-II 프로젝트는 295MW 규모의 대만 관정 풍력발전 프로젝트로, 31개의 Vestas 9.5MW 터빈을 jacket 기초에 설치하는 프로젝트</p><p>• 2025년 봄 첫 번째 jacket 기초 설치 완료, 2025년 8월 해상 변전소 설치 완료로 프로젝트 진행 중</p><p>• ROV 2대, 케이블 레이 스프레드 및 언더데크 캐러셀로 업그레이드된 Orient Adventurer 선박이 수심 6.5~20km 해역에서 작업 수행</p><h3>Key Quotes</h3><p>• "The offshore work will be carried out with Dong Fang Offshore using the chartered subsea vessel Orient Adventurer, which has been upgraded with two ROVs, an under-deck carousel, and a cable lay spread for subsea cable installation."<br>(Dong Fang Offshore와의 협력으로 2개의 ROV, 언더데크 캐러셀 및 해저 케이블 설치용 케이블 레이 스프레드로 업그레이드된 Orient Adventurer 선박을 이용하여 해상 작업 수행)</p><p>• "Project execution will be managed locally by DeepOcean's offshore renewables team, with support from European cable installation specialists"<br>(DeepOcean의 해상 재생에너지 팀이 지역적으로 프로젝트 실행을 관리하며, 유럽의 케이블 설치 전문가의 지원을 받음)</p><h3>Technical Insights</h3><p>• 해상풍력 발전소의 배열 케이블 설치는 ROV와 고급 케이블 레이 장비가 필수적이며, 변수해역 조건에서의 정밀한 엔지니어링 지원이 중요함</p><p>• 다중 loop 형식의 66kV 배열 케이블 설계(3개 loop로 31개 터빈 연결)는 시스템 안정성과 유지보수 편의성을 동시에 달성하는 업계 표준 방식</p><p>• 국제 협력 기반의 프로젝트 실행(노르웨이 회사-중국 선박 운영-유럽 전문가)은 해상풍력 산업의 글로벌 가치 사슬 특성을 반영하며, 대만의 재생에너지 산업 성장에 기여</p></div>`,
+      tags: ["offshore wind","inter-array cables","subsea installation","Taiwan","renewable energy"],
+      link: "https://www.offshore-energy.biz/deepocean-contracted-for-inter-array-work-on-new-taiwanese-offshore-wind-farm/",
+      coords: [120.3,24],
+      location: "Lukang, Changhua County, Taiwan"
+    }
+  ]
+});
