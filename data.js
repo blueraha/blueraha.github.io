@@ -5045,3 +5045,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-23
+addEvents({
+  "2026-04-23": [
+    {
+      type: "news",
+      title: "Chris-Marine Launches Engine Insights Digitalization Solution for Cylinder Condition Monitoring",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-23",
+      image: "https://images.marinelink.com/images/maritime/w800/chrismarine-170086.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Chris-Marine AB가 엔진 실린더 상태 측정 데이터를 자동 표준 보고서로 변환하는 Engine Insights 디지털 솔루션 출시<br>• 선박 기술자들이 LDM, LCC, CTM, Replica Test 등 선상 측정 도구에서 데이터를 직접 업로드하여 수 분 내 구조화된 보고서 생성 가능<br>• 기존 수동 보고 방식의 4~6시간 소요 시간을 단 수 분으로 단축하는 획기적 효율성 개선<br>• 함대 관리자에게 선박 상태의 접근 가능한 개요 제공으로 효율적인 유지보수 계획 및 부품 수명 연장 지원<br>• Chris-Marine 측정 도구와 완벽하게 통합되는 표준화된 실린더 상태 보고 접근 방식 제공</p><h3>Key Quotes</h3><br>• "Engine Insights reduces this process to just a couple of minutes" (수동 보고 프로세스를 단 몇 분으로 단축)<br>• "the platform gives fleet managers an accessible overview of vessel condition, supporting more efficient maintenance planning" (플랫폼이 함대 관리자에게 선박 상태의 접근 가능한 개요를 제공하여 효율적인 유지보수 계획 지원)</p><h3>Technical Insights</h3><br>• 해양 산업의 디지털화 가속: 전통적 수동 보고 방식에서 AI/자동화 기반 데이터 처리로의 전환으로 운영 효율성 극대화<br>• 예측적 유지보수(Predictive Maintenance) 기술 도입: 실린더 상태 조기 감지로 인한 선박 다운타임 감소 및 운영 비용 절감<br>• 표준화된 데이터 관리: IMO 규정 준수 및 선급사 요구사항 충족을 위한 구조화된 보고 체계 확립으로 규제 대응 용이<br>• 선단 관리 플랫폼의 통합화: 개별 선박의 기술 데이터 중앙화로 전체 함대 최적화 및 자원 배분 의사결정 개선</p></div>`,
+      tags: ["digitalization","engine maintenance","cylinder condition","maritime tech","fleet management"],
+      link: "https://www.marinelink.com/news/chrismarine-introduces-engine-insights-538426",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "Iranian Fast-Attack Boats Seize Container Ships Near Strait of Hormuz, Escalating Shipping Threats",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-23",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockpeter-170081.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이란 혁명수비대가 호르무즈 해협 근처에서 스웜 형태의 고속 보트를 이용해 MSC 소속 컨테이너선 2척을 나포했으며, 약 40명의 선원이 탑승 중<br>• 나포된 선박은 파나마 국적의 MSC Francesca(몬테네그로 선원 4명, 크로아티아 선원 2명 포함)와 라이베리아 국적의 Epaminondas(우크라이나 및 필리핀 선원 21명)<br>• 이란은 미국의 이란 선박 나포에 대한 보복 조치로 이들 컨테이너선을 방문 바스 항구로 이동 중이며, MSC와 협상 진행 중<br>• 호르무즈 해협 개방 문제가 복잡해짐에 따라 해상 운송 위협이 증대되고 있으며, 이는 세계 주요 석유 수출로의 재개를 어렵게 만들 수 있음<br>• 이란의 고속 공격정은 해안 미사일, 드론, 기뢰, 전자 방해 등과 함께 다층적 위협 체계를 형성하고 있으며, 수백 척 이상의 이러한 보트가 존재할 것으로 추정됨<br>• 미국은 호르무즈 해협 외부에 해군 봉쇄선을 설치하고 이란의 고속 공격정에 대한 무력 대응을 경고했으나, 무장한 상선에 대한 대비는 미흡한 상태</p><h3>Key Quotes</h3><p>• "Some 20 Iranians armed to the teeth stormed the ship. Sailors are under Iranians' control, their movements on the ship are limited, but the Iranians are treating them well" <br>(무장한 약 20명의 이란인이 선박을 점거했으며, 선원들은 이란군의 통제 하에 있고 배 내 이동이 제한되어 있으나, 이란군이 선원들을 잘 대우하고 있음)</p><p>• "Iran was estimated to have hundreds, if not thousands, of these boats before the war, often hidden in coastal tunnels, naval bases or among civilian vessels"<br>(이란은 전쟁 이전에 수백 척, 심지어 수천 척의 이러한 고속정을 보유했으며, 이들은 해안 터널, 해군 기지, 민간 선박 사이에 숨겨져 있는 경우가 많음)</p><h3>Technical Insights</h3><p>• 호르무즈 해협의 지리적 제약성과 이란의 다층적 해상 위협 체계(스웜 보트, 해안 미사일, 드론, 전자 방해)는 기존의 단순 군사 대응으로는 해결이 어려우며, 상선 보호 시스템의 고도화 필요<br>• IMO 해상보안(ISPS Code) 규정만으로는 국가 차원의 고의적 나포 행위에 대응이 불가능하며, 국제 해상 안정을 위한 다자간 협력 메커니즘의 강화 필요<br>• 자율운항선박(MASS) 및 원격 운영 기술의 도입은 이러한 위험 해역에서 인명 피해를 줄일 수 있는 대안이 될 수 있으나, 현재의 기술 수준과 국제법적 틀에서 실현 가능성 검토 필요<br>• 호르무즈 해협의 물류 거점 기능 상실 시 글로벌 해운 산업에 미치는 경제적 파급 효과가 극대화될 수 있으며, 보험료 인상 및 우회항로 이용에 따른 운송비 증가로 해운사들의 경영 악화 초래 가능</p></div>`,
+      tags: ["Iran","Strait of Hormuz","Maritime Security","Container Ships","Geopolitical Risk"],
+      link: "https://www.marinelink.com/news/iranian-swarms-fast-boats-used-seize-538419",
+      coords: [56.1499,26.1367],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "U.S.-Backed War Risk Insurance Program for Hormuz Awaits Navy Convoy Operations",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-04-23",
+      image: "https://maritime-executive.com/media/images/article/Tanker-escort-1987-Operation-Earnest-Will-Tanker-Wars-USN.jpg.9a459d.backup",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 트럼프 행정부가 호르무즈 해협과 아라비아만 해역 해운 보호를 위한 전쟁위험보험 프로그램을 마련했으며, NYSE 상장사 추브(Chubb)가 관리함</p><p>• 이 프로그램은 20억 달러 규모의 재보험 프로그램으로, 미국 국제개발금융공사(DFC)와 미국 보험사 컨소시엄이 공동으로 자금을 지원하고 있음</p><p>• 현재 이란의 해협 내 위협 수준이 높고 미국 해군이 이란의 상선 봉쇄에 집중하고 있어 프로그램 시작이 지연되고 있음</p><p>• 보험 프로그램의 활성화는 미국 해군의 호위함대(convoy) 운영을 전제 조건으로 하며, 선박소유자들은 호위함대에 참여하기 위해 반드시 이 보험에 가입해야 함</p><p>• 추브는 전쟁선체보험(War Hull), 전쟁배상책임보험(War P&I), 전쟁화물보험(War Cargo) 등을 제공할 미국 보험사 컨소시엄의 주요 언더라이터 및 관리자로서 역할 수행</p><p>• DFC가 전체 위험의 50%를 인수하고 나머지 50%는 미국 보험사 컨소시엄이 부담하는 구조로 설계됨</p><h3>Key Quotes</h3><p>• "The government wanted to support shipping through the Gulf when they think that the risk environment is such that they can support military convoys for ships. And that has yet to occur." (정부는 군 호위함대 운영이 가능할 때 호르무즈만의 해운을 지원하려고 했지만, 아직 그러한 조건이 형성되지 않았다는 의미)</p><p>• "We have done it, number one, to support our country and to support our military; and number two, to support the global commons and the economy." (이 프로그램은 미국과 군을 지원하고 동시에 글로벌 공해와 세계 경제를 보호하기 위해 마련되었다)</p><h3>Technical Insights</h3><p>• **전쟁위험보험 구조의 혁신성**: 정부 기관(DFC)과 민간 보험사의 위험 분담 모델은 지정학적 위기 상황에서 국제 해운을 보호하는 새로운 방식을 제시하고 있으며, 이는 IMO 규제 프레임워크를 보완하는 역할을 함</p><p>• **호위함대 조건부 운영 논리**: 미국 해군 호위함대의 운영을 보험 활성화의 전제 조건으로 설정한 것은 COLREG 준수와 국제해사법 하에서 해운 자유와 국가 안보를 균형있게 관리하려는 정책적 시도로 평가됨</p><p>• **선주의 보험 가입 의무화**: 호위함대 참여 시 의무적으로 이 보험에 가입하도록 함으로써, 국가 차원의 해상 보안 전략과 개별 선사의 경제성을 통합하는 메커니즘을 구축함</p><p>• **중동 해역 해운 보호 정책의 확대 가능성**: 호르무즈 해협 사례가 다른 지정학적 위험 해역(홍해, 말라카 해협 등)에서의 유사 보험 프로그램 확대 모델이 될 수 있으며, 이는 글로벌 해운 네트워크 회복력 강화에 중요한 역할을 할 것으로 예상됨</p></div>`,
+      tags: ["War Risk Insurance","Strait of Hormuz","U.S. Navy Convoys","Chubb Insurance"],
+      link: "https://maritime-executive.com/article/u-s-backed-war-risk-cover-for-hormuz-will-have-to-wait-for-convoys",
+      coords: [56.24,26.12],
+      location: "Strait of Hormuz, Arabian Gulf"
+    },
+    {
+      type: "news",
+      title: "Birdon America and Mythos AI Partner on U.S. Navy MUSV Development",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-04-23",
+      image: "https://maritime-executive.com/media/images/article/L-R-Dwight-E-Smith-Jr-Jonathan-Buckowski-Jamie-Bruce-Geoff-Douglass-Tony-Ardito-Terri-Benson.9fb9b1.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **전략적 협력 체결**: Birdon America와 Mythos AI가 Sea-Air-Space 2026에서 중형 무인수상함(MUSV) 개발을 위한 양해각서(MOU) 서명</p><p>• **역할 분담**: Birdon은 해양 플랫폼 및 프로그램 실행 능력을 담당하고, Mythos AI는 자율항해, 인식, 지휘통제 및 임무 소프트웨어 기술 제공</p><p>• **개발 목표**: 2026년 내 미 해군의 진화하는 MUSV 요구사항을 충족하는 임무 지원 무인함정 프로토타입 완성 목표</p><p>• **수직 통합 솔루션**: 신속한 프로토타입 제작, 시연, 생산 전환을 위한 자율항해 함정의 완전 통합 솔루션 추구</p><p>• **방위산업 응용**: 방위 고객을 위한 확장 가능한 임무 능력형 무인시스템 제공에 중점</p><h3>Key Quotes</h3><p>• "Our strategy is centered on building scalable, production ready capacity for the future defense market, and selecting Mythos AI as our autonomy provider is an important part of that vision." (우리의 전략은 미래 방위 시장을 위한 확장 가능하고 생산 준비된 역량 구축에 중점을 두고 있으며, Mythos AI를 자율항해 제공자로 선정하는 것이 이 비전의 중요한 부분입니다)</p><p>• "This collaboration reflects the growing need for mature autonomy capabilities that can be integrated into mission ready maritime platforms for defense customers." (이 협력은 방위 고객을 위한 임무 준비 해양 플랫폼에 통합될 수 있는 성숙한 자율성 기능의 증가된 필요성을 반영합니다)</p><h3>Technical Insights</h3><p>• **AI 기반 자율항해의 국방 적용**: Mythos AI의 인식(perception), 지휘통제(command and control), 임무 소프트웨어 기술은 해상 방위 작전의 자동화 수준을 획기적으로 상향</p><p>• **COLREG 및 IMO 규제 준수**: 무인함정 개발 시 국제해사법규(COLREG) 및 IMO 자율선박 지침 준수 필요성은 향후 상용화 단계에서 중요한 검증 과제</p><p>• **방위산업 생산화**: 프로토타입 개발에서 생산 전환까지 1년 내 완성 목표는 미 해군의 빠른 기술 도입 수요와 민간 자율선박 산업의 기술 검증 선순환 창출 가능성 시사</p><p>• **산업 생태계 확대**: 선박 건조 업체와 AI 소프트웨어 기업의 수직 통합 모델은 향후 상용 해운 분야의 자율선박 개발에도 적용 가능한 산업 구조 제시</p></div>`,
+      tags: ["autonomous ships","MUSV","U.S. Navy","defense technology","AI navigation"],
+      link: "https://maritime-executive.com/article/birdon-america-and-mythos-ai-jointly-pursuing-u-s-navy-musv-opportunities",
+      coords: [0,0],
+      location: "United States"
+    }
+  ]
+});
