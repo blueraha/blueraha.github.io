@@ -4989,3 +4989,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-23
+addEvents({
+  "2026-04-23": [
+    {
+      type: "accident",
+      title: "Iran Seizes Commercial Vessels in Strait of Hormuz, Traffic Halts",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-23",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/2026-03-07T044529Z_1004479925_RC20XJAXEVAA_RTRMADP_3_IRAN-CRISIS-ENERGY-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이란이 호르무즈 해협에서 상선 2척(MSC Francesca, Epaminondas)을 나포하여 지난 8주간의 분쟁 이후 처음으로 직접 선박 점거 사태 발생</p><p>• 공격 대상 3척 중 2척이 이란군에 의해 피점거되었으며, 대량 화물선 LB Energy만 통과하는 등 호르무즈 해협 통행 완전 마비</p><p>• 미국-이란 대립으로 인한 해상 봉쇄: 미군은 4월 13일 이후 31척 선박을 저지했으며, 이란 초대형 유조선 2척은 차바하르 항에 정박 중</p><p>• 지난 8주간의 분쟁 단계 상향: 해상 공격에서 직접 선박 나포로 이행되어 호르무즈 해협의 통행 제어 위협 심화</p><p>• 상선사들의 극도의 긴장: 일주일 내 2회차 공격 발생으로 선주들의 페르시아만 운항 회피 심화</p><h3>Key Quotes</h3><p>• "Traffic through the Strait of Hormuz ground to a halt on Thursday after Iran fired on commercial ships and said it had seized at least two vessels — a first in nearly eight weeks of war." (이란의 상선 공격 및 선박 나포로 호르무즈 해협 통행이 완전히 중단되었으며, 이는 8주간의 분쟁 이후 처음)</p><p>• "Two of those attacked vessels, the MSC Francesca and the Epaminondas, were subsequently boarded by Iranian forces, marking a new stage in Tehran's efforts to exert control over traffic through Hormuz." (두 척의 상선이 이란군에 의해 나포되어 테헤란의 해협 통제 전략이 새로운 단계로 진입)</p><h3>Technical Insights</h3><p>• **해상 통제의 군사화**: 호르무즈 해협의 분쟁 상황이 단순 해상 공격에서 국가적 선박 나포로 확대되면서 국제해상법 및 UNCLOS 위반 우려 증대</p><p>• **글로벌 해운산업 영향**: 세계 석유 운송량의 약 20~30%가 통과하는 호르무즈 해협의 완전 폐쇄 위기로 인한 유가 급등 및 운임료 폭등</p><p>• **선주 회피 및 경로 변경**: 상선들이 호르무즈 해협 우회 항로(수에즈운하, 케이프루트) 선택 증가로 운송비용 및 소요시간 대폭 증가</p><p>• **국제해사기구(IMO) 대응 필요성**: 분쟁 지역 통항선박의 안전 보장 및 선박 나포 사태에 대한 국제적 규제 프레임워크 강화 필요</p></div>`,
+      tags: ["Iran","Strait of Hormuz","Vessel Seizure","Maritime Conflict"],
+      link: "https://gcaptain.com/hormuz-traffic-grinds-to-a-halt-after-iran-seizes-first-vessels/",
+      coords: [56.55,26.17],
+      location: "Strait of Hormuz, Persian Gulf"
+    },
+    {
+      type: "news",
+      title: "Invariant Demonstrates Counter-Drone Capability from Autonomous USV",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-04-23",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/04/invariant-usv-1-scaled.webp",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Invariant Corporation의 STAKE(Surface-to-Air Kinetic Engagement) 시스템이 Textron Systems의 TSUNAMI 무인표면선박(USV)에 통합되어 드론 요격 능력을 성공적으로 시연<br>• Hunter(센서 및 레이저 지정 패키지)와 Killer(정밀 타격 플랫폼) 두 개의 핵심 서브시스템으로 구성되며 모듈형 설계로 다양한 플랫폼에 탑재 가능<br>• Lake Guntersville에서의 초기 통합 테스트를 통해 역동적이고 복잡한 해양 환경에서의 자율 무기 능력 검증<br>• MOSA(Modular Open Systems Approach) 설계로 다양한 임무 세트 및 페이로드 통합에 적응 가능<br>• 미 국방부의 해양 전력 강화 목표 달성과 함께 자율 해양 무기 개발의 최전선에 위치하는 Invariant의 기술력 입증</p><h3>Key Quotes</h3><br>• "This successful demonstration represents a significant development and reflects Invariant's position at the forefront of C-UxS innovation as well as kinetic maritime autonomy" (이번 시연의 성공은 무인 대항 시스템(C-UxS) 혁신과 해양 자율 무기 분야에서 Invariant의 선도적 위치를 반영)<br>• "We are committed to advancing adaptable, high-performance systems that align with the Department of War's objective to enhance lethality, especially in the maritime domain" (국방부의 해양 전력 강화 목표에 부합하는 적응형 고성능 시스템 개발에 최선을 다할 것)</p><h3>Technical Insights</h3><br>• **자율 해양 방어 시스템의 모듈화 추세**: STAKE의 모듈형 설계(MOSA)는 다양한 크기의 함정 및 플랫폼에 최소한의 엔지니어링으로 통합 가능하며, 향후 해군 자산의 유연한 무기체계 운용을 가능하게 함<br>• **센서-타격 통합 자율화**: Hunter(탐지 및 추적)와 Killer(정밀 타격) 서브시스템의 원활한 협력은 완전 자율 대드론 작전의 실현 가능성을 입증하며, IMO/COLREG의 자율선박 규제 개정에도 영향을 미칠 수 있는 기술적 선례 제시<br>• **해양 무기체계 자율화의 가속화**: 4년 이상의 자율 기술 개발 경험을 가진 Textron과의 협력으로 상용화 가능 수준의 해양 자율 무기 기술이 확보되었으며, 향후 미군 전력 구조의 무인화 가속을 예상하게 함<br>• **산업 표준화와 상호운용성**: MOSA 설계는 다양한 제조사의 페이로드 통합을 가능하게 하여 국방 해양 산업의 개방형 표준화 추진을 의미하며, 장기적으로 NATO 및 우방국 해군의 해양 자율 무기 연합작전 체계 구축 기반 마련</p></div>`,
+      tags: ["autonomous systems","USV","counter-UAS","maritime defense","STAKE system"],
+      link: "https://www.navalnews.com/event-news/sea-air-space-2026/2026/04/invariant-successfully-demonstrates-counter-drone-capability-from-usv/",
+      coords: [-86.27,34.38],
+      location: "Lake Guntersville, Alabama"
+    },
+    {
+      type: "news",
+      title: "BIMCO Warns of Hormuz Strait Toll Scam Amid Iran-US Blockade Tensions",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-23",
+      image: "https://images.marinelink.com/images/maritime/w800/fajar-adobe-170093.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **BIMCO, 호르무즈 해협 통행료 사기 경고** - 이란 당국을 사칭한 이메일 스캠이 다수 보고되었으며, 정확한 사기 여부는 아직 확인 대기 중<br>• **복잡해진 보안 상황** - 이란의 승인 후 선박이 공격당한 사례로 보아 현 지역의 보안 상황이 매우 불안정함을 시사<br>• **양측 봉쇄 및 공격 진행** - 미국은 이란 항구 관련 선박에 대한 봉쇄를 시행 중이며, 이란도 컨테이너선 2척을 억류하고 다수를 통행 중단하게 함<br>• **기뢰 위협으로 인한 통항 제한** - 이란이 해협 일부에 기뢰를 매설했다는 징후로 인해 안전한 해협 통행 재개까지 수주 소요 예상<br>• **제한된 대체 항로의 용량 부족** - 현재 이란·오만 인근 해역 제한 항로만 안전하나, 정상 물동량 수용 불가능<br>• **업계 복구 조건** - 대부분 선사들이 안정적 휴전과 양측의 호르무즈 해협 안전 통행 보증 필요</p><h3>Key Quotes</h3><p>• "BIMCO has received reports of an email scam, but we are still awaiting confirmation that this was in fact a scam. The fact that ships were attacked following apparent Iranian approval to transit underscores the complexity and volatility of the current security situation." (BIMCO가 이메일 사기 보고를 받았으나 확인 대기 중이며, 이란 승인 후 선박 공격은 현 보안 상황의 복잡성과 불안정성을 보여줌)</p><p>• "While it is comforting to know that no crew have been injured in these attacks, it is deeply worrying that ships are attacked and ships and crew are used as bargaining chips in the confrontations. We urge all parties of the conflict to show restraint and help protect innocent seafarers." (승무원 피해가 없는 점은 다행이나, 선박과 승무원이 협상의 도구로 사용되는 것은 매우 우려스러우며, 모든 당사자의 자제와 해원 보호 촉구)</p><h3>Technical Insights</h3><p>• **기뢰 제거 작업의 장기화 위험** - 호르무즈 해협의 기뢰 제거에 수주 이상 소요될 가능성이 높으며, 이는 정상적인 해상 물류 재개의 주요 장애물이 됨<br>• **제한된 항로의 용량 초과 문제** - 현재 이용 가능한 이란·오만 인근 항로는 협소한 수로로 정상 통항량의 수용 불가능하여 선박 혼잡과 안전 위험 증가<br>• **지정학적 리스크와 해운 보안의 통합 위협** - 국제 분쟁이 직접 해운업에 미치는 영향으로, SOLAS/COLREG 등 국제 해양 규칙만으로는 해결 불가능한 정치·군사적 보안 위협 대두<br>• **승무원 안전과 선박 규제 강화 필요** - 현재 선박 납치 및 공격 사례 증가로 인해 호르무즈 해협 통행 선박에 대한 강화된 보안 프로토콜 및 국제 해군 호위 체계 재정비 필요</p></div>`,
+      tags: ["Hormuz Strait","Security Threat","Scam Alert","Geopolitical Risk"],
+      link: "https://www.marinelink.com/news/bimco-warns-hormuz-toll-scam-538430",
+      coords: [56.2428,26.1387],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "White House Expected to Extend Jones Act Waiver for 90 Days Amid Iran Conflict",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-23",
+      image: "https://images.marinelink.com/images/maritime/w800/irena-adobe-170091.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 백악관이 이란 분쟁으로 인한 연료 가격 상승을 완화하기 위해 존스법(Jones Act) 면제를 최대 90일 연장할 예정<br>• 미국 항구 간 해상 운송에 미국 선박과 미국 승무원 사용 의무를 임시로 완화하여 외국 선박의 자유로운 운항 허용<br>• 말타 국적 유조선 HTM Warrior가 텍사스에서 펜실베니아 정제소로 석유를 운송하는 등 이미 면제 정책이 활용 중<br>• 트럼프 행정부가 3월 17일부터 60일간 존스법을 면제했으며, 이번 연장으로 에너지 시장 안정화를 지속 추진<br>• 호르무즈 해협 긴장으로 인한 공급 차질을 완화하고 국내 연료 가격 상승을 억제하는 것이 정책의 핵심 목표</p><h3>Key Quotes</h3><p>• "The move would temporarily ease requirements that goods transported between U.S. ports be carried on American-built and American-crewed vessels, allowing foreign-flagged ships to move fuel and other key commodities more freely" (미국 항구 간 운송에 미국 선박 사용 의무를 임시 완화하여 외국 선박의 연료 및 주요 물자 운송을 자유롭게 허용)</p><p>• "A foreign-flagged tanker delivered a load of crude oil from Texas to a U.S. refinery on Thursday under the temporary waiver" (외국 국적 유조선이 임시 면제 정책 하에 텍사스에서 미국 정제소로 원유를 운반)</p><h3>Technical Insights</h3><p>• **해운 규제 정책의 유연성**: 존스법은 미국 해운업 보호의 핵심 규제이나, 에너지 위기 상황에서 국가이익을 우선하여 임시 면제하는 정책적 유연성 필요성 대두</p><p>• **국제해사법과 국내정책의 충돌**: 외국 선박의 미국 연안 운송 허용은 IMO 해운 자유 원칙과 국내 보호주의 정책 간의 균형을 시사하는 사례</p><p>• **에너지 공급망 안정성**: 호르무즈 해협 긴장으로 인한 글로벌 에너지 수급 불안정이 해운 규제 완화의 직접적 원인이며, 자율운항선박 도입 등 공급망 다각화의 중요성 강조</p></div>`,
+      tags: ["Jones Act","Shipping Regulation","U.S. Policy","Energy Crisis"],
+      link: "https://www.marinelink.com/news/white-house-expected-extend-jones-act-538428",
+      coords: [-97.5,38.8],
+      location: "United States"
+    }
+  ]
+});
