@@ -5101,3 +5101,34 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-24
+addEvents({
+  "2026-04-24": [
+    {
+      type: "news",
+      title: "Hydrogen-fueled AUV achieves 2,000-kilometer subsea endurance record",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-04-24",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/04/Hydrogen-fueled-AUV-breaks-range-expectations-with-2000-kilometer-subsea-run.jpg?image-crop-positioner-ts=1777027488",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Cellula Robotics의 Envoy AUV가 수소 연료전지로 2,023km의 수중 항행을 385시간 동안 완수하여 공식 성능 사양을 초과 달성</p><p>• 미션 중 4,000회 이상의 회전과 기동을 수행하여 직선 항행보다 높은 에너지 소비를 나타내며 실제 해양 작업 환경을 더 잘 반영</p><p>• Cellula Robotics와 Infinity Fuel Cell and Hydrogen, Inc.가 협력하여 개발한 수소 연료전지 기술로 물을 부산물로만 생성</p><p>• 장시간 지속 가능 항행으로 인한 회수 횟수 감소, 지속적 운영 가능, 해양 에너지 분야의 효율성 극대화 실현</p><p>• 수소 연료전지 기술이 자율형 장거리 수중 임무의 내구성 확장 및 개입 요구사항 감소의 핵심 역할 입증</p><h3>Key Quotes</h3><p>• "The significance of this result is not just the distance travelled, but that it was achieved fully submerged in a mission profile that better reflects real subsea operations" (이 결과의 중요성은 단순히 주행 거리가 아니라 실제 해양 작업을 더 잘 반영하는 미션 프로필로 완전 수중 상태에서 달성했다는 점에 있음)</p><p>• "This result highlights the role fuel cell technology can play in extending endurance, reducing intervention requirements, and supporting more capable long-range autonomous missions" (이 결과는 연료전지 기술이 지속 시간 연장, 개입 요구사항 감소, 그리고 더 강력한 장거리 자율 임무 지원에서 수행할 수 있는 역할을 강조함)</p><h3>Technical Insights</h3><p>• 수소 연료전지 기술을 AUV에 적용함으로써 전통적인 배터리 기반 수중 자율주행체의 항속 거리 한계를 획기적으로 극복하고 장시간 지속 운영 가능성 확보</p><p>• 직선 항행이 아닌 4,000회 이상의 기동과 회전을 포함한 실제 작업 프로필 수행으로 인한 높은 에너지 소비 환경에서도 성능 검증을 달성하여 실운영 적용 가능성 증대</p><p>• 부산물이 물(H₂O)뿐인 친환경적 에너지 시스템으로 해양 환경 오염 최소화 및 지속 가능한 해양 에너지 산업 구축의 선도적 사례 제시</p><p>• 장거리 자율 수중 탐사, 해양 자원 조사, 해저 인프라 모니터링 등 다양한 해양산업 분야에서 인공지능 기반 자율 시스템의 효율성과 경제성 향상에 기여할 것으로 예상</p></div>`,
+      tags: ["Autonomous Underwater Vehicle","Hydrogen Fuel Cell","Subsea Technology","Maritime Innovation"],
+      link: "https://www.offshore-energy.biz/hydrogen-fueled-auv-breaks-range-expectations-with-2000-kilometer-subsea-run/",
+      coords: [-114.0709,51.52],
+      location: "Canada"
+    },
+    {
+      type: "news",
+      title: "ABS Signs MOU with Fleet Robotics on Maritime Autonomous Robotic Systems",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-24",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **ABS와 Fleet Robotics의 협력**: 미국선급협회(ABS)와 Fleet Robotics가 해양 자율로봇 시스템 개발을 위한 양해각서 체결<br>• **주요 기술 분야**: 선박 선체 청소 및 검사 자동화를 위한 로봇 시스템 개발 및 검증<br>• **발표 시점 및 장소**: 싱가포르 해양주간(Singapore Maritime Week)에서 공식 발표<br>• **ABS의 역할**: 선급협회로서 자율로봇 시스템의 기술 표준 개발 및 검증 지원<br>• **산업적 의의**: 선박 유지보수 및 검사 작업의 자동화를 통한 해운산업의 디지털화 촉진</p><h3>Key Quotes</h3><p>• "The agreement...aims to support..." (협약은 자율로봇 기술의 해양산업 적용을 지원하기 위함)</p><h3>Technical Insights</h3><p>• **자율로봇 규제화**: IMO 및 선급협회가 자율로봇 시스템의 안전성, 신뢰성, 운영표준에 대한 국제 지침 개발 필요<br>• **선체검사 자동화의 효율성**: 드론 및 로봇 기반 검사 시스템은 인력 안전성 향상 및 검사 정확도 개선으로 선박 유지보수비용 절감 기대<br>• **해운산업의 디지털 전환**: 자동화 로봇 도입으로 선원 수요 감소 및 해양산업 인력 구조 변화 예상<br>• **ABS 기술 표준화**: 선급협회의 자율로봇 검증 및 인증 프로세스 확립이 산업 표준화 및 국제 경쟁력 강화에 기여</p></div>`,
+      tags: ["Autonomous Robotics","Hull Cleaning","ABS Classification","Fleet Robotics","Maritime Technology"],
+      link: "https://www.marinelink.com/news/abs-signs-pact-fleet-robotics-maritime-538446",
+      coords: [103.8198,1.3521],
+      location: "Singapore"
+    }
+  ]
+});
