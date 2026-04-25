@@ -5132,3 +5132,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-23
+addEvents({
+  "2026-04-23": [
+    {
+      type: "news",
+      title: "Trump Says Shipbuilding Clashes Led to Navy Secretary Phelan's Firing",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-04-23",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/2026-04-23T213919Z_1149591479_RC29VKAO9M89_RTRMADP_3_USA-TRUMP.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 도널드 트럼프 대통령은 해군부 장관 존 펠란의 해임이 조선 및 함정 구매를 둘러싼 국방부 고위 지도부와의 갈등으로 인한 것이라고 발표했습니다.</p><p>• 펠란은 개혁 시행 속도가 느리다는 비판을 받았으며, 해군 함정 건조 가속화와 산업 개혁을 놓고 국방부 내 권력 투쟁이 발생했습니다.</p><p>• 해군부 장관 임기 중 "Golden Fleet" 계획과 BBG(X) 차기 전함 개념, FF(X) 호위함 프로그램, 중형 상륙함(LSM) 등 주요 조선 이니셔티브를 추진했습니다.</p><p>• 미국 해군은 중동 분쟁 및 호르무즈 해협 주변 해상 안보 작전으로 인한 운영 부담이 지속되고 있으며, 중국의 산업 규모 해군 증강에 대응해야 합니다.</p><p>• FY27 회계연도 예산에서 조선에 65.8억 달러를 배정하여 전년도 대비 46% 증액되었습니다.</p><p>• 조선 중심의 개혁가가 조선 관련 의견 불일치로 해임되면서 미국 해양 정책 의제의 불확실성이 심화되었습니다.</p><h3>Key Quotes</h3><p>• "He's a hard charger, and he had some conflicts with some other people, mostly as to building and buying new ships. Got to get along, especially in the military, got to get along." (그는 강한 추진력을 가진 사람이었고 특히 함정 건조 및 구매에 관해 다른 사람들과 갈등을 겪었습니다. 특히 군부에서는 서로 잘 지내야 합니다.)</p><p>• "To be a superpower, a nation must be a seapower." (초강대국이 되려면 국가는 해양 강국이어야 합니다.)</p><h3>Technical Insights</h3><p>• 미국 해군의 함정 건조 현대화 정책이 국방부 내 의견 대립으로 인해 정책 추진 방향이 불명확해지고 있으며, 이는 해양 산업 정책 일관성에 부정적 영향을 미칠 수 있습니다.</p><p>• FF(X) 호위함과 LSM 같은 단순화되고 확장 가능한 조선 모델은 미국의 해양 산업 경쟁력 강화를 목표로 하나, 정책 변동으로 인한 불확실성이 민간 조선사의 투자 결정에 영향을 줄 수 있습니다.</p><p>• 중국과의 해양 경쟁 심화 속에서 미국 해군의 함정 건조 가속화는 전략적 필요성이 높으나, 조선소 역량 한계와 산업 개혁 속도 간의 괴리가 정책 갈등의 근본 원인으로 작용하고 있습니다.</p></div>`,
+      tags: ["US Navy","Shipbuilding","Naval Policy","Pentagon Leadership"],
+      link: "https://gcaptain.com/trump-says-shipbuilding-clashes-led-to-navy-secretary-phelans-firing/",
+      coords: [-77.0369,38.8951],
+      location: "Washington, D.C."
+    }
+  ]
+});
+
+// Auto-collected: 2026-04-25
+addEvents({
+  "2026-04-25": [
+    {
+      type: "news",
+      title: "ABS and Fleet Robotics Partner on Autonomous Robotic Systems for Hull Cleaning and Inspection",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-04-25",
+      image: "https://maritime-executive.com/media/images/article/unnamed-1-.9fe780.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• ABS와 Fleet Robotics가 선박 선체 청소 및 검사를 위한 자율 로봇 시스템 개발을 위한 양해각서(MOU) 체결<br>• 싱가포르 해양주간(Singapore Maritime Week)에서 발표되었으며, 해양산업의 기술 혁신에 대한 수요 증가를 반영<br>• 프로젝트는 로봇 시스템의 검사 작업 적합성 평가, 센서 데이터 및 이미지 품질 검증, 기존 규제 체계 통합 방안 도출 포함<br>• ABS는 해양 및 해양 산업을 위한 자율 및 원격 제어 기술 지원의 선도 제공자로서 표준 및 프레임워크 확립 주도<br>• 연속적 선체 모니터링으로 간헐적 검사에서 벗어나 고품질 데이터 기반 의사결정 지원</p><h3>Key Quotes</h3><p>• "It is an honor to work alongside Fleet Robotics to advance autonomous robotic systems for the industry. This collaboration is about more than innovation, we are working to establish the standards and frameworks needed for the maritime industry to confidently adopt these technologies." (해양산업이 자신감 있게 이 기술들을 채택할 수 있도록 필요한 표준과 프레임워크를 확립하는 데 중점)</p><p>• "We're proud to be working with ABS as we advance a future where hulls are continuously monitored, not intermittently inspected." (선체가 간헐적으로 검사되는 것이 아닌 지속적으로 모니터링되는 미래를 구현하기 위한 협력)</p><h3>Technical Insights</h3><p>• **자율 로봇 기술의 표준화**: ABS와 Fleet Robotics의 협력은 해양산업에서 자율 로봇 시스템 도입을 위한 명확한 기술 표준과 규제 프레임워크 수립의 필요성을 강조하며, 이는 IMO 및 선급 검사 체계와의 통합이 핵심</p><p>• **지속적 모니터링 패러다임 전환**: 기존의 정기적 정선 검사 중심에서 실시간 수중 검사 기반으로 전환하여 선체 성능 데이터의 신뢰성 및 품질 향상, 선주 및 운영자의 의사결정 효율성 증대</p><p>• **센서 데이터 신뢰성 검증**: 자율 로봇의 센서 데이터 및 영상 품질이 선급 검사 목적으로 활용되기 위해서는 엄격한 검증 프로세스 필요하며, 이는 데이터 기반 규제(Data-Driven Regulation) 도입의 선행 조건</p><p>• **규제 통합 및 산업 채택 경로**: 현존하는 선급 검사, 규제 및 선주 운영 워크플로우와의 호환성 확보가 자율 로봇 시스템의 광범위한 업계 도입을 위한 필수 요소</p></div>`,
+      tags: ["Autonomous Systems","Hull Inspection","Robotics","ABS","Fleet Robotics"],
+      link: "https://maritime-executive.com/article/abs-fleet-robotics-to-bring-autonomous-robotic-systems-to-maritime",
+      coords: [103.8554,1.3521],
+      location: "Singapore"
+    }
+  ]
+});
