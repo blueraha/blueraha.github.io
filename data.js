@@ -5202,3 +5202,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-24
+addEvents({
+  "2026-04-24": [
+    {
+      type: "news",
+      title: "EU's 20th Sanctions Package Blacklists 632 Russian Shadow Fleet Vessels",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-04-24",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2025/04/Novatek.jpg?image-crop-positioner-ts=1743776527",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• EU가 러시아의 에너지 수익 제한을 목표로 20차 대규모 제재 패키지를 채택했으며, 이는 우크라이나 위기 종식을 위한 협상 압박 전략의 일환</p><p>• 러시아 암묵적 선단(Shadow Fleet) 선박 632척이 EU 블랙리스트에 등록되어 항만 접근 및 서비스 금지 조치 대상이 되었으며, 이번에 46척의 추가 선박이 새로 지정됨</p><p>• EU의 제재 패키지는 120개 개인/단체를 추가 지정했으며, 에너지 부문(유전, 채굴, 정유, 운송) 36개 항목과 암호화폐, 금융 서비스 제재를 포함하는 다층 구조</p><p>• 러시아 에너지 산업 공급망 차단, 해운 보험사 제재, 제3국 내 그림자 선단 운영 주체 지정으로 우회 수단 차단에 집중</p><p>• Kaja Kallas 고위대표는 "러시아 전쟁 경제가 심화된 압박 아래 놓여 있다"고 평가하며 지속적 제재 강화 필요성 강조</p><h3>Key Quotes</h3><p>• "Today we have finally broken the deadlock... Russia's war economy is under growing strain, while Ukraine is getting a major boost." <br>(오늘 교착상태를 드디어 타개했으며, 러시아의 전쟁 경제가 증가된 압박 아래 있는 반면 우크라이나는 대규모 지원을 받고 있다)</p><p>• "The EU will provide Ukraine what it needs to hold its ground while we inhibit those enabling Russia's illegal aggression."<br>(EU는 우크라이나가 입장을 유지하는 데 필요한 것을 제공하는 동시에 러시아의 불법적 침략을 가능하게 하는 세력을 억제할 것이다)</p><h3>Technical Insights</h3><p>• **해운 부문 규제 확대**: 632척 규모의 암묵적 선단 지정을 통해 국제해사기구(IMO) 규정을 우회하는 러시아의 유류 운송 네트워크를 직접 타격하는 제재 전략 시행 중</p><p>• **제3국 우회 차단**: 제3국에서 운영되는 그림자 선단 운영체까지 제재 범위를 확대하여 국제 해운 커뮤니티의 협력 없이 제재 회피가 불가능한 구조 구축</p><p>• **보험·금융 연쇄 제재**: 해운 보험사 지정으로 단순 함정 제재를 넘어 해운금융 생태계 전체를 압박하는 시스템적 규제 추진으로 그림자 선단의 운영 비용 급증 유도</p><p>• **IMO 플래그 스테이트 협력**: EU의 기국(flag state) 대상 외교전을 통해 국제 해운 규제 체계와 경제 제재의 연계 강화, 해운 투명성 기준 국제화 추진</p></div>`,
+      tags: ["sanctions","Russia","shadow fleet","energy","EU policy"],
+      link: "https://www.offshore-energy.biz/eus-20th-sanctions-batch-tightens-grip-on-russias-oil-gas-lng-and-shadow-fleet-spheres-with-632-vessels-blacklisted/",
+      coords: [0,0],
+      location: "European Union / Russia"
+    }
+  ]
+});
