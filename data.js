@@ -5170,3 +5170,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-24
+addEvents({
+  "2026-04-24": [
+    {
+      type: "news",
+      title: "Argentina's FSRU Lines Up LNG Cargo from Naturgy",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-04-24",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/04/EELP_LNGOperations_gallery1-1600x901-1.jpg?image-crop-positioner-ts=1777035544",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 아르헨티나의 두 번째 LNG 수입 시설인 FSRU(부유식 저장 및 재기화 설비)가 Naturgy Aprovisionamientos로부터 새로운 LNG 화물을 확보함</p><p>• 에너지 아르헨티나가 개최한 국제 공개 입찰(4월 15일)에서 39개 사전 승인 기업 중 6개만 참가했으나 Naturgy가 낙찰됨</p><p>• GNL Escobar 터미널은 부에노스아이레스에서 약 30마일 떨어진 파라나강에 위치하며, 5월 2주경 도착 예정</p><p>• LNG 화물 보충을 통해 주거용 수요 급증이나 천연가스 수송 시스템의 예기치 않은 고장 시 재기화 가스를 시스템에 공급 가능</p><p>• 아르헨티나는 높은 계절성을 보이는 천연가스 수요를 충족하기 위해 LNG를 "더 깨끗하고 비용 효율적인" 에너지원으로 활용 중</p><p>• Sierra Grande Norte의 제안된 LNG 프로젝트 추진이 진행 중으로, 대서양 연안 인프라 확충 계획 진행</p><h3>Key Quotes</h3><p>• "This stock replenishment would make it possible to inject regasified gas into the system in the event of potential peaks in residential demand caused by lower temperatures, or in the case of unforeseen failures in the natural gas transportation system" (이러한 비축 보충을 통해 저온으로 인한 주거용 수요 급증이나 천연가스 수송 시스템의 예기치 않은 고장 시 재기화 가스를 시스템에 주입할 수 있음)</p><p>• "LNG has played a critical role in meeting Argentina's energy needs with 'cleaner and cost-saving' LNG, given the high seasonality of the country's natural gas consumption" (아르헨티나의 높은 천연가스 소비 계절성을 감안할 때 LNG는 "더 깨끗하고 비용 효율적인" 에너지로서 국가의 에너지 수요를 충족하는 데 중요한 역할을 함)</p><h3>Technical Insights</h3><p>• **LNG 인프라 확충 추세**: 신흥국 FSRU 도입으로 고정 LNG 기지 건설의 높은 자본 비용 없이 유연한 에너지 공급 인프라 구축 가능 - 해양 에너지 산업의 중요한 경향</p><p>• **계절성 에너지 관리**: 아르헨티나의 천연가스 수요 계절성 해결을 위한 FSRU 기반 LNG 저장소 활용으로, 재기화 설비의 조절 용량(peaking capacity) 역할 강조</p><p>• **조달 시장 효율성**: 국제 공개 입찰 방식으로 39개 기업 중 6개만 실제 입찰에 참가한 점은 LNG 공급 시장의 집중도와 높은 진입 장벽을 시사</p><p>• **대서양 LNG 허브 구축**: Sierra Grande Norte 프로젝트와 Escobar FSRU 연계로 남미 대서양 연안 LNG 공급 네트워크 구축 진행 중 - 글로벌 LNG 무역로 다변화의 일환</p></div>`,
+      tags: ["LNG","FSRU","Argentina","Naturgy","Energy Infrastructure"],
+      link: "https://www.offshore-energy.biz/argentinas-fsru-lines-up-lng-cargo-from-naturgy/",
+      coords: [-58.4173,-34.6037],
+      location: "Buenos Aires, Argentina (Paraná River - Escobar Terminal)"
+    },
+    {
+      type: "news",
+      title: "GTT Secures Tank Design Contract for Two 180,000 cbm LNG Carriers with Samsung Heavy Industries",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-04-24",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/02/LNG-vessel-Source-GTT.jpg?image-crop-positioner-ts=1771505165",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 프랑스의 액화천연가스(LNG) 탱크 설계 전문업체 GTT가 삼성중공업으로부터 2척의 LNG 운반선 탱크 설계 계약을 확보했습니다.<br>• 발주사는 Celsius Tankers이며, 각 선박의 용량은 180,000 입방미터(cbm)로 설계됩니다.<br>• GTT의 Mark III Flex 멤브레인 방식 극저온 탱크 시스템이 적용될 예정입니다.<br>• 두 선박의 인도는 2028년 2분기~3분기에 예정되어 있습니다.<br>• 이 계약은 GTT가 최근 다른 아시아 선주를 위해 삼성중공업과 체결한 LNG 운반선 탱크 설계 계약에 이은 추가 수주입니다.<br>• LNG 해운 산업의 지속적인 성장과 함께 GTT의 기술적 경쟁력이 국제 조선소에서 인정받고 있음을 보여주는 사례입니다.</p><h3>Key Quotes</h3><br>• "GTT has received an order from Samsung Heavy Industries' shipyard for the tank design of two new LNG carriers on behalf of Celsius Tankers, the shipowner." (GTT가 삼성중공업 조선소로부터 선주 Celsius Tankers를 대신하여 2척의 새로운 LNG 운반선 탱크 설계 주문을 받았습니다.)<br>• "Each vessel, with a capacity of 180,000 cubic meters (cbm), will feature its cryogenic tanks." (각 선박은 180,000 입방미터(cbm) 용량으로 극저온 탱크를 갖추게 될 것입니다.)</p><h3>Technical Insights</h3><br>• Mark III Flex 멤브레인 시스템은 LNG 운반선의 극저온 저장 기술에서 업계 표준으로, 안전성과 효율성을 동시에 제공하는 차세대 기술입니다.<br>• 180,000 cbm급 대형 LNG 운반선은 국제 가스 무역의 핵심 인프라로, 글로벌 에너지 전환 추세에 따른 선박 신규 발주가 증가하고 있습니다.<br>• GTT의 반복적인 삼성중공업과의 계약 체결은 프랑스 기술의 국제 경쟁력을 입증하며, 한국 조선산업과의 강한 협력 관계를 보여줍니다.<br>• LNG 운반선의 탱크 설계 기술은 IMO의 국제 해양 안전 기준(SOLAS, MARPOL)을 준수해야 하므로, 규제 환경에서의 기술 표준화가 중요한 경쟁 요소입니다.</p></div>`,
+      tags: ["LNG Carrier","Tank Design","Samsung Heavy Industries","GTT","Celsius Tankers","Mark III Flex"],
+      link: "https://www.offshore-energy.biz/french-firm-gets-more-work-with-samsung-heavy-industries-for-lng-vessel-pair/",
+      coords: [127,37.5],
+      location: "South Korea (Samsung Heavy Industries)"
+    }
+  ]
+});
