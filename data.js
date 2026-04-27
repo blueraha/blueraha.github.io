@@ -5242,3 +5242,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-26
+addEvents({
+  "2026-04-26": [
+    {
+      type: "news",
+      title: "Singapore MPA Renews Partnership with Shanghai Maritime University for Talent Development",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-26",
+      image: "https://images.marinelink.com/images/maritime/w800/source-singapore-170122.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 싱가포르 해사항만청(MPA)과 상하이해운대학교(SMU)가 해양인재 개발 및 지식교류 강화를 위한 양해각서(MOU)를 체결했음<br>• 2020년부터 시작된 협력관계를 2026년 4월에 갱신하여 학생 및 해양전문가 교류 지속<br>• 2023년 이후 해양지도자 양성프로그램과 고위급 포럼 전문가 발표를 통해 협력 강화<br>• 해양안전보안, 해양에너지, 항만관리, 항법기술, 해양환경관리 등 다양한 분야의 공동훈련 및 학습 교류 확대<br>• 아시아 태평양 지역 해운산업 인력 양성 및 정책 수립에 기여하는 전략적 협력체계 구축</p><h3>Key Quotes</h3><p>• "MPA and SMU have enhanced collaboration through mutual participation in maritime leadership programs" (MPA와 SMU가 해양지도자 양성프로그램에 상호 참여함으로써 협력을 강화했다)<br>• "This includes study visits, learning journeys, and joint training programs across areas such as maritime safety and security, maritime energy, port management, navigational technologies, and marine environmental management" (해양안전보안, 해양에너지, 항만관리, 항법기술, 해양환경관리 등 다양한 분야에서 방문학습, 학습여행, 공동훈련프로그램 포함)</p><h3>Technical Insights</h3><p>• 싱가포르-중국 간 해양인재 교류 확대는 ASEAN-중국 해역 항법기술 및 해양안전 표준화에 기여할 것으로 예상됨<br>• 해양에너지 및 항법기술 분야의 공동훈련은 자율선박 기술 개발 및 IMO 규제 대응 역량 강화에 필수적인 인프라 구축<br>• 항만관리와 해양환경관리 분야의 지식교류는 지역 내 스마트포트 기술 확산 및 해양오염 예방 체계 고도화를 촉진하는 정책 기반 조성</p></div>`,
+      tags: ["Maritime Education","Singapore MPA","Shanghai Maritime University","Regional Cooperation"],
+      link: "https://www.marinelink.com/news/singapore-mpa-renews-partnership-shanghai-538474",
+      coords: [103.8198,1.3521],
+      location: "Singapore"
+    }
+  ]
+});
