@@ -5222,3 +5222,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-26
+addEvents({
+  "2026-04-26": [
+    {
+      type: "news",
+      title: "Saronic Technologies Collaborates with Taiwan's NCSIST on AI-Enabled ASVs for Maritime Defense",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-26",
+      image: "https://images.marinelink.com/images/maritime/w800/-170119.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Saronic Technologies와 대만의 국방 연구기관 NCSIST가 자율 해상 선박(ASV) 및 AI 기반 해양 기술 협력을 위한 양해각서(MoU) 체결</p><p>• NCSIST는 대만의 국방 연구개발 핵심 기관으로서 국방 산업 기반 강화에 중추적 역할 수행</p><p>• Saronic의 Corsair를 포함한 민군 겸용 자율해상선박과 AI 기반 지휘통제(C2) 소프트웨어 개발에 중점</p><p>• 공급망 확대 및 장기적 운영 준비태세를 위한 유지보수 능력 강화 협력 추진</p><p>• 해양 안보 과제 대응을 위한 방위산업과 상용 부문 간 기술 통합 및 시스템 협력</p><h3>Key Quotes</h3><p>• "Saronic and NCSIST will identify opportunities to collaborate across a range of technologies and applications" <br>(Saronic과 NCSIST는 광범위한 기술과 응용 분야에서 협력 기회를 발굴할 것)</p><p>• "Both parties will evaluate opportunities to expand supply chains and enhance sustainment and maintenance capabilities to support long-term operational readiness"<br>(양 기관은 장기적 운영 준비태세를 지원하기 위한 공급망 확대 및 유지보수 능력 강화 기회를 평가할 예정)</p><h3>Technical Insights</h3><p>• **AI 기반 C2 시스템 개발**: 자율해상선박의 지휘통제 소프트웨어 고도화는 해양 방위 영역에서 의사결정 자동화 및 네트워크 중심 전투(NCW) 능력 강화를 의미</p><p>• **민군 겸용 기술 활용**: Corsair 등 다목적 ASV 플랫폼의 방위 및 상용 부문 이중 활용은 개발 비용 절감과 기술 보급 확대를 통한 산업 경쟁력 제고</p><p>• **해양 안보 규범 준수**: ASV의 확대 배치 시 COLREG 및 IMO 규정 준수, 특히 대만 해협 등 민감한 해역에서의 자동화 시스템 운영 절차 수립 필요</p><p>• **공급망 다층화 전략**: 반도체/부품 수급 리스크 대응 및 장기 유지보수 인프라 구축으로 지정학적 불확실성 속 운영 독립성 확보</p></div>`,
+      tags: ["Autonomous Surface Vessels","AI Maritime Technology","Defense Collaboration","Taiwan"],
+      link: "https://www.marinelink.com/news/saronic-collaborate-korea-asvs-538471",
+      coords: [120.9605,23.6978],
+      location: "Taiwan"
+    }
+  ]
+});
