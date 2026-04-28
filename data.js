@@ -5262,3 +5262,52 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-27
+addEvents({
+  "2026-04-27": [
+    {
+      type: "news",
+      title: "HII Awarded Pentagon Contract for Autonomous Submarine Torpedo Tube Launch and Recovery System",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-04-27",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/04/REMUS_620_Swimout_d28a94e3b2.webp",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• HII(Huntington Ingalls Industries)가 미국 국방혁신부(DIU)로부터 잠수함용 어뢰관 발사/회수(TTLR) 시스템 개발 계약을 수주하였으며, 이는 REMUS 무인잠수정(UUV)의 자율 배치 및 회수를 가능하게 함</p><p>• 25년간 자율 무인 해양 플랫폼 개발을 주도해온 HII는 유인-무인 협력 작전에서 업계 최고 수준의 전문성 보유</p><p>• 2025년 6월 USS Delaware(SSN 791)에서 REMUS 600 UUV의 첫 전방 배치 어뢰관 발사/회수 시연 성공 - 다이버 지원 없이 완전 자율 작동 3회 수행</p><p>• REMUS 620 세대는 수중 어뢰관 내 자율 항법, 통신, 자동 도킹 및 안전 분리 절차 검증으로 운영 기능 확보</p><p>• HII는 750대 이상의 REMUS 차량을 30개국 이상에 납품했으며, 90% 이상이 2년 이상 운영 중으로 신뢰성과 내구성 입증</p><h3>Key Quotes</h3><p>• "There is no company with more expertise in both the manned and unmanned sides of teamed operations. We look forward to continuing our strong partnership with the U.S. Navy to deliver the innovative solutions our forces urgently need in the subsea domain." (유인-무인 협력 작전 양쪽에서 전문성을 갖춘 회사는 없으며, 해군과의 강한 파트너십을 통해 수중 영역에서 필요한 혁신 솔루션 제공을 기대함)</p><p>• "This contract award reflects HII's 25-year leadership in advancing autonomous unmanned maritime platforms and integrating them into submarine operations." (본 계약은 자율 무인 해양 플랫폼 개발과 잠수함 작전 통합에서 25년간의 리더십을 반영함)</p><h3>Technical Insights</h3><p>• **자율 잠수함 협력 작전의 진화**: TTLR 시스템을 통한 완전 자율 발사/회수 기술은 기존 다이버 지원 방식을 제거하고 작전 효율성 및 안전성을 대폭 강화하는 혁신적 발전</p><p>• **MUM-T(Manned-Unmanned Teaming) 기술의 성숙화**: 유인 잠수함과 무인 UUV 간의 통합 작전 능력 검증으로 해양 감시/정찰(ISR) 및 광범위 해양 임무 효율성 향상 가능성 입증</p><p>• **산업 신뢰성 기준 수립**: 750대 이상의 REMUS 운영 경험과 90% 이상의 장기 가동률은 자율 수중 시스템의 안정성과 신뢰성에 대한 업계 기준 제시</p><p>• **국방 자율화 생태계 확장**: 미국 해군의 선제적 투자와 HII-WHOI 협력은 동맹국 해군으로의 기술 전파 및 NATO 차원의 해양 자율 능력 강화 기반 마련</p></div>`,
+      tags: ["Autonomous Systems","UUV","Submarine Operations","Manned-Unmanned Teaming","U.S. Navy"],
+      link: "https://www.navalnews.com/naval-news/2026/04/hii-builds-on-submarine-mum-t-success-with-new-pentagon-deal/",
+      coords: [-76.3,37.5],
+      location: "United States (Naval Operations)"
+    },
+    {
+      type: "news",
+      title: "U.S. Navy Conducts At-Sea USV Refueling Drill Ahead of Carrier Strike Group Deployment",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-04-27",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/04/Naval-News-MUSV-Refuel.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 해군은 무인수상함(USV) 중형 해호크(Seahawk MUSV)의 해상 급유 능력을 시연하였으며, USNS 과달루페 유조함(T-AO 200)이 비행기식 보급(Astern Replenishment-at-Sea) 작업을 수행함</p><p>• 이 시험은 올해 후반 USS 시어도어 루즈벨트(CVN-71) 항모전단과 함께 배치될 예정인 해상 무인함정들의 작전 능력 입증을 목표로 함</p><p>• 해군은 2030년까지 인도태평양 지역에 30대의 중형 USV와 수천 대의 소형 USV를 배치할 계획이며, 무인함정의 대규모 통합 배치 전략 추진 중</p><p>• Surface Development Group One 사령관 Garrett Miller 대령은 USV가 항모전단의 속도를 따라잡아야 하는 "작전 자산"으로의 전환이 필수적임을 강조</p><p>• 무인함정은 분산형 해양 감시 센서 플랫폼으로서 항모전단의 확장된 해양 영역 인식(Maritime Domain Awareness) 능력 제공</p><p>• 해군은 컨테이너 탑재 페이로드 통합과 연안전투함(LCS)의 화력 강화를 통해 미 해군의 대 중국 전력 균형 유지 추진</p><h3>Key Quotes</h3><p>• "It's refuel at-sea capable. We're moving in the right direction. We had to move it from an experimentation piece to operational, so it has to keep up with a [carrier] strike group. It can't be an anchor." (해상 급유 능력을 보유하고 있으며, 실험 단계에서 작전 운용 단계로 전환되어야 하고, 항모전단의 속도를 따라가야 하며 정박 자산이 될 수 없다는 점을 강조)</p><p>• "The fleet anticipates a deployment of up to 30 MUSVs and thousands of smaller USVs throughout U.S. Indo-Pacific Command's area of responsibility by 2030." (2030년까지 인도태평양 사령부 관할 지역에 30대의 중형 USV와 수천 대의 소형 USV 배치 계획)</p><h3>Technical Insights</h3><p>• **해상 급유 자동화**: USV의 비행기식 보급(Astern Replenishment-at-Sea) 자동화 기술은 유인함과 무인함정 간 통합 작전의 핵심 요소이며, 항모전단의 지속적 작전 능력 제고를 위한 필수 기술</p><p>• **해양 감시 네트워크**: 분산형 센서 플랫폼으로서의 MUSV 배치는 기존 구축함의 감시 역량을 보강하고, 대규모 다층 해양 도메인 인식 체계 구축의 선도 사례로 평가됨</p><p>• **산업 조달 모델 전환**: 이전의 모듈식 공격 수상함(MASC) 프로그램 폐지 후 "마켓플레이스" 모델 도입으로 USV의 신속한 통합과 업그레이드 가능성 향상</p><p>• **해군 전력 구조 변화**: 소수의 고가 유인함 중심에서 다수의 저비용 무인함정을 포함한 분산형 전력 구조로의 전략적 전환, 특히 PLA 해군의 증강된 능력 대응</p></div>`,
+      tags: ["Unmanned Surface Vessel","At-Sea Replenishment","Theodore Roosevelt CSG","Maritime Technology","U.S. Navy Operations"],
+      link: "https://www.navalnews.com/naval-news/2026/04/u-s-navy-drills-in-at-sea-usv-fueling-ahead-of-csg-deployment/",
+      coords: [-118.2437,34.0522],
+      location: "Southern California"
+    }
+  ]
+});
+
+// Auto-collected: 2026-04-28
+addEvents({
+  "2026-04-28": [
+    {
+      type: "event",
+      title: "Oshkosh Defense Showcases Ship-Killing Drone Truck at Modern Day Marine Expo 2026",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-04-27",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Oshkosh Defense가 현대 해양 박람회(Modern Day Marine Expo)에서 반함 미사일로 무장한 자율 지상차량(AGV)을 전시할 예정<br>• 미 해병대의 세대적 교리 전환을 대표하는 플랫폼으로, 해양 작전 개념의 급진적 변화를 의미<br>• 2026년 4월 28-30일 개최되는 박람회에서 2개의 주요 플랫폼 선보임<br>• 자율 드론 트럭 기술이 해상 대함 능력으로 확대되는 추세를 반영<br>• 방위산업의 무인화 및 자동화 기술이 해양 영역까지 확산되고 있음을 시사</p><h3>Key Quotes</h3><br>• "an autonomous ground vehicle armed with anti-ship missiles that represents one of the Marine Corps' most consequential doctrinal shifts in a generation" (미 해병대의 가장 중대한 세대적 교리 전환을 대표하는 반함 미사일로 무장한 자율 지상차량)</p><h3>Technical Insights</h3><br>• 자율 지상차량(AGV)의 무장화 추세: 해상 플랫폼으로의 기술 확장이 해양 방위 패러다임 변화를 주도<br>• 해병대 작전 개념 진화: 유인 전력에서 무인·자율 시스템으로의 조직적 전환이 해양 영역 대함 능력 강화로 이어짐<br>• 다중 도메인 작전(Multi-Domain Operations) 구현: 지상 자율 시스템의 해양 통합이 해공 작전 통합도를 증대시키는 기술적 기반 제공<br>• 해양 영역 분쟁 대비: 자율 드론 기반 분산 대함 능력이 전통적 함정 중심 해전 개념을 재편하는 중요 징후</p></div>`,
+      tags: ["Marine Expo","Autonomous Vehicles","Anti-Ship Missiles","Marine Corps","Defense Technology"],
+      link: "https://defence-blog.com/oshkosh-shows-expeditionary-power-with-ship-killing-drone-truck-at-marine-expo/",
+      coords: [0,0],
+      location: "Modern Day Marine Exhibition (Location TBD)"
+    }
+  ]
+});
