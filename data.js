@@ -5311,3 +5311,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-28
+addEvents({
+  "2026-04-28": [
+    {
+      type: "accident",
+      title: "Ukrainian Drone Strike Causes Major Fire at Russia's Tuapse Refinery",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-29",
+      image: "https://images.marinelink.com/images/maritime/w800/source-social-170190.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **우크라이나의 드론 공격으로 러시아 투압세 정유소에서 대규모 화재 발생** - 2주 이내 3번째 공격으로, 우크라이나 군부가 러시아의 석유 산업 중단 목표를 확인</p><p>• **해양 환경 오염 위험** - 검은 비와 유류 유출이 흑해로 흘러내려 가는 상황, 정부는 유류 유출 방지를 위해 보옴(boom) 설치</p><p>• **인명 피해 및 대피** - 최소 3명 사망, 정유소 근처 주민 300여 명이 학교로 대피 명령 수행</p><p>• **정유소 운영 중단** - 4월 16일부터 항만 드론 피해로 생산 중단 상태 지속, 원유 수출 불가능</p><p>• **지정학적 에너지 전쟁** - 우크라이나의 러시아 에너지 기반시설 공격으로 전 지구적 석유 수급 악화 우려</p><p>• **크렘린궁의 주장과 우크라이나의 반박** - 러시아는 글로벌 석유 부족 악화 주장, 우크라이나는 러시아 수출량이 국제 유가에 미치는 영향 미미하다고 반박</p><h3>Key Quotes</h3><p>• "Drone strikes against civilian infrastructure are becoming more frequent. The latest example is the strikes against energy facilities in Tuapse, which could potentially cause serious environmental consequences." (민간 인프라에 대한 드론 공격이 점점 더 빈번해지고 있으며, 투압세 에너지 시설 공격은 심각한 환경 피해를 초래할 수 있다는 러시아의 입장)</p><p>• "The flow of oil products into the Black Sea had been stopped and booms would ensure the spills did not spread." (흑해로의 유류 유출을 중단했고, 보옴을 통해 유류 확산을 방지할 계획이라는 긴급 상황 장관의 발언)</p><p>• "It seems there are no serious dangers, and people are managing to deal with the challenges they face on the ground." (심각한 위협은 없으며 지역 주민들이 상황에 대처하고 있다는 푸틴의 발언)</p><h3>Technical Insights</h3><p>• **해양 오염 대응 프로토콜 부재** - IMO의 유류 오염 대응 기준이 분쟁 지역에서 제대로 작동하지 않음을 보여주며, 국제 해사 환경 규제의 공백 노출</p><p>• **흑해 해역의 생태계 위험** - 반복적인 정유소 공격으로 인한 누적 오염이 흑해의 생물 다양성 및 어업 자원에 미치는 장기적 영향 심각</p><p>• **에너지 기반시설 보호의 국방적 차원** - 전쟁 상황에서 민간 해양·에너지 인프라가 군사 표적으로 전환되는 현상으로, 향후 자율선박·원격 운영 시스템의 사이버 보안 필요성 증대</p><p>• **국제 해운·석유 무역의 지정학적 리스크** - 에너지 공급 중단이 글로벌 해운 산업과 석유 시장에 미치는 파급 효과 커지고 있으며, 해양 운송 경로 다변화 필요</p></div>`,
+      tags: ["Oil Spill","Refinery Fire","Black Sea","Ukraine-Russia Conflict","Environmental Incident"],
+      link: "https://www.marinelink.com/news/ukraine-strikes-russias-tuapse-refinery-538565",
+      coords: [39.1,44.4],
+      location: "Tuapse, Black Sea, Russia"
+    }
+  ]
+});
