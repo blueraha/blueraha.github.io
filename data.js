@@ -5331,3 +5331,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-29
+addEvents({
+  "2026-04-29": [
+    {
+      type: "news",
+      title: "U.S. Intercepts Major Shark Fin Smuggling Ring at Multiple Ports",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-04-29",
+      image: "https://maritime-executive.com/media/images/article/USFWS-shark-fins-26-boxes-Oct-2025-USFWS.a2c15e.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 어류야생동물청(USFWS)이 알래스카 앵커리지, 루이빌, 신시내티 등 미국 항구에서 불법 상어지느러미 밀수 네트워크를 적발</p><p>• 압수된 지느러미는 주로 참다랑어상어와 실키상어(silky shark)로, 둘 다 국제적으로 보호되는 CITES 부록 II 종</p><p>• 멕시코에서 홍콩으로 향하는 화물이 자동차 부품으로 위장되어 적발되었으며, 국제 거래에는 수출 허가가 필수</p><p>• 홍콩은 상어지느러미 밀거래 및 불법 해산물 소비의 주요 거점으로 기능</p><p>• 적발된 모든 지느러미는 압수되었으며, 정보는 해외 파트너 기관과 공유되어 현지법에 따른 추가 단속 추진</p><h3>Key Quotes</h3><p>• "Both are listed on CITES Appendix II, which protects species that are 'not necessarily now threatened with extinction but that may become so unless trade is closely controlled.'" (CITES 부록 II에 등재된 종으로, 현재는 멸종 위기가 아니지만 거래를 엄격히 통제하지 않으면 멸종 위기에 처할 수 있는 종을 보호함)</p><p>• "All were en route from Mexico to Hong Kong via United States ports; Hong Kong is a hub for the trafficking and consumption of shark fins and other illicit seafood products." (홍콩이 상어지느러미 및 기타 불법 해산물의 밀거래 및 소비 중심지 역할)</p><h3>Technical Insights</h3><p>• 해양 운송망의 불법 야생동물 거래 감시 강화 필요: 위장 신고를 통한 밀수 적발은 항구 검사 체계의 고도화 필요성을 시사</p><p>• CITES 국제 협약 이행 강화: 수출 허가 없는 보호종 국제 거래는 위반 행위로, 항구국 통제 의무 준수 중요</p><p>• 산업 투명성 제고: 해상화물의 정확한 신고(bill of lading)는 해양 보안 및 환경 보호의 기본 원칙으로 강조됨</p></div>`,
+      tags: ["shark fin smuggling","illegal wildlife trade","port security","CITES enforcement"],
+      link: "https://maritime-executive.com/article/u-s-makes-massive-bust-targeting-shark-fin-smuggling-ring",
+      coords: [-95.7129,37.0902],
+      location: "United States (Anchorage, Louisville, Cincinnati)"
+    }
+  ]
+});
