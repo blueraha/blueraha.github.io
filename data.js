@@ -5351,3 +5351,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2024-05-22
+addEvents({
+  "2024-05-22": [
+    {
+      type: "accident",
+      title: "Double man overboard from fishing vessel Weston Bay (GY123) with loss of 1 life",
+      source: "MAIB (Marine Accident Investigation Branch)",
+      sourceMeta: "gov.uk · 2026-04-30",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사고 개요**: 2024년 5월 22일 영국 스펀 헤드 남동쪽 약 12해리 지점에서 포팅 어선 Weston Bay(GY123)의 갑판원 2명이 어구 투하 중 갑판에서 떨어짐</p><p>• **인명 피해**: 1명은 선원에 의해 신속하게 구조되어 무상의 상태였으나, 다른 1명은 다른 선박에 의해 구조되었으나 호흡하지 않았으며 소생시킬 수 없었음</p><p>• **주요 원인**: 어구 작업 중 선원들이 어구와 분리되지 않아 얽힘, 손상 및 부상의 위험에 노출되었으며, 갑판 낙수 후 상황에 대한 위험성이 충분히 평가 및 완화되지 않음</p><p>• **안전 조치 부족**: 선원들이 응급 낙수 훈련을 실시하지 않았으며, 선박의 응급 낙수 구조 장비가 의식이 없는 사람의 수중 구조에 효과적이지 않았음</p><p>• **권장사항**: Seafish와 Fastline Shellfish Limited에 대한 권장사항 제시 및 어업 산업을 위한 안전 전단지 배포</p><h3>Key Quotes</h3><p>• "there was no separation from the pots for the crew working the stack when deploying the gear, which put them at risk of entanglement, harm and injury." (어구 투하 시 작업 중인 선원들이 어구로부터 분리되지 않아 얽힘, 손상 및 부상의 위험에 노출됨)</p><p>• "the crew were unprepared for the emergency as they had not practised emergency manoverboard drills." (선원들이 응급 낙수 훈련을 실시하지 않아 긴급 상황에 대비하지 못함)</p><p>• "the emergency man overboard recovery equipment on board was not effective for the recovery of an unconscious person from the water." (선박의 응급 낙수 구조 장비가 의식이 없는 사람의 수중 구조에 효과적이지 않았음)</p><h3>Technical Insights</h3><p>• **어선 안전 절차의 중요성**: 포팅(potting) 작업은 어구와 근접한 작업으로 인해 갑판 낙수 위험이 높으며, 이에 대한 구조화된 안전 절차 및 작업 분리(separation) 메커니즘이 필수적</p><p>• **응급 대응 준비 미흡**: 낙수 발생 시 의식이 없는 인원을 효과적으로 구조할 수 있는 장비와 정기적인 훈련 부재가 인명 손실로 이어짐. 소형 어선에서도 현대적 구조 장비 도입 및 훈련 의무화 필요</p><p>• **산업 규제 강화 방향**: MAIB 권장사항을 통해 Seafish 등 업계 단체가 주도적으로 안전 기준 상향 및 의무적 훈련 프로그램 마련해야 하며, 영어선의 안전 기준 준수 감시 강화 필요</p></div>`,
+      tags: ["man overboard","fishing vessel","fatality","potting vessel","safety procedures"],
+      link: "https://www.gov.uk/maib-reports/double-man-overboard-from-the-fishing-vessel-weston-bay-gy123-with-the-loss-of-1-life",
+      coords: [-2,53.5],
+      location: "12 nautical miles south-east of Spurn Head, England"
+    }
+  ]
+});
+
+// Auto-collected: 2026-04-30
+addEvents({
+  "2026-04-30": [
+    {
+      type: "news",
+      title: "Online Oceans Raises $5.4M for Autonomous Maritime Defense Fleet Systems",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-04-30",
+      image: "https://images.marinelink.com/images/maritime/w800/online-oceans-170241.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 영국 온라인 오션스사, 자율운항 수상함정 및 함대 관리 소프트웨어 개발 목적으로 미화 540만 달러(영화 400만 파운드) 시리즈 펀딩 성공 조달</p><p>• 주력 제품은 태양광 추진 콤팩트 자율함정 'Scout'와 클라우드 기반 지휘통제 플랫폼 'Tether'로 구성되어 실시간 임무 관리 및 자산 모니터링 제공</p><p>• 기존 유인함정의 높은 운영비용 및 고가 자율시스템의 배치 제약을 극복하기 위해 저비용·장시간 내구성·지속적 연결성 기반의 함대규모 배치 모델 개발</p><p>• 2025년 초 설립된 신생업체가 1년 내 생산 단계로 진행하였으며 이미 방위사업·해양 도메인 인식·해양데이터 분야 초기 고객 확보 및 2026년 4월 상용배송 예정</p><p>• 펀딩은 제조 확장, 배치 지원, 국방·상업 시장 수요 대응을 위한 역량 강화에 사용될 예정이며 유럽 중심에서 글로벌 지속적 해양 인프라 리더십 목표</p><h3>Key Quotes</h3><p>• "Persistent coverage remains prohibitively expensive with existing systems" (기존 시스템으로는 지속적 해역 감시가 과도하게 비싸다)</p><p>• "Low unit cost, long endurance and continuous connectivity, combined in a platform built for fleet-scale deployment" (저비용 단위, 장시간 내구성, 지속적 연결성을 함대규모 배치에 최적화된 플랫폼으로 통합)</p><h3>Technical Insights</h3><p>• 자율함정의 태양광 추진 및 장시간 운용 설계는 전통적 크루즈형 감시함정 대비 운영비 대폭 절감 가능하며, 밀집 함대 배치로 전략적 수역의 실시간 감시 인프라 구축 실현</p><p>• 클라우드 기반 통합 지휘통제 플랫폼(Tether)은 다수 자율함정의 협력 운용과 실시간 데이터 수집·분석을 가능하게 하여 해양도메인 인식(MDA) 및 해저인프라 보안 강화</p><p>• 해협, 전략적 해로, 해저 케이블/파이프라인 보호 등 국가 핵심 이익 관련 지속적 감시 필요 증가로 자율함정 함대 시스템의 국방·상업 양 부문 시장 확대 전망</p></div>`,
+      tags: ["autonomous surface vessels","maritime security","funding","defense technology","fleet management software"],
+      link: "https://www.marinelink.com/news/online-oceans-raises-m-maritime-defense-538656",
+      coords: [0,0],
+      location: "UK (Global)"
+    }
+  ]
+});
