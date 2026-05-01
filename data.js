@@ -5389,3 +5389,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-30
+addEvents({
+  "2026-04-30": [
+    {
+      type: "news",
+      title: "Maersk Tankers installs second set of Spain-made suction sails for emissions reduction",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-04-30",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/04/Second-Maersk-Tankers-vessel-fitted-with-Spain-made-suction-sails.jpg?image-crop-positioner-ts=1777545342",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 스페인 기업 bound4blue의 자동화된 흡입식 돛(eSAIL) 기술이 마에스크 태니커스 소속 두 번째 탱커 마에스크 타이티호에 설치됨<br>• 중국 장인 청시 조선소에서 24미터 크기의 4개 흡입식 돛 설치 완료, 1월 마에스크 트리에스테호에 이어 두 번째 설치<br>• 5척의 마에스크 MR급 탱커에 총 20개 유닛 설치 예정으로 bound4blue 역사상 최대 규모 계약<br>• 엔진 부하 감소를 통해 이중 자릿수 연료 절감, 이산화탄소 배출 감소, CII 등급 개선 달성<br>• 종래의 경직된 돛 대비 7배 이상의 양력 생성, 규제 준수 및 환경 개선에 동시에 기여</p><h3>Key Quotes</h3><br>• "The agreement with Maersk Tankers reflects the wider scaling up of wind power adoption across the industry. Wind, and particularly suction sail technology, delivers massive advantage in both environmental and commercial contexts" (마에스크와의 계약은 산업 전반에서 풍력 채택 확대를 반영하며, 풍력, 특히 흡입식 돛 기술은 환경 및 상업적 측면 모두에서 거대한 이점을 제공한다)<br>• "It marks an opportunity for us, of course, but more than that it demonstrates a chance for forward thinking owners to simplify an increasingly complex regulatory and operating environment with proven technology and a free – and freely available – power source" (미리 생각하는 소유사들이 증명된 기술과 무료로 이용 가능한 풍력이라는 에너지원으로 복잡한 규제 및 운영 환경을 단순화할 수 있는 기회를 제공한다)</p><h3>Technical Insights</h3><br>• 흡입식 돛(suction sail) 기술은 공기역학적으로 최적화된 표면을 통해 공기를 흡입하여 양력을 생성하는 방식으로, 재래식 경직된 돛 대비 7배 이상의 양력 성능을 달성함으로써 기술적 우월성 입증<br>• IMO CII(탄소강도지표) 규제 강화 시대에 마에스크와 같은 주요 선주들의 대규모 채택은 풍력 보조 추진 기술이 규제 준수의 실질적 솔루션으로 인정되었음을 의미<br>• 플러그 앤 플레이(Plug and Play) 설치 방식으로 기존 선박에의 개조 용이성을 확보하여, 해운 산업의 기술 도입 장벽을 낮추고 탈탄소화 가속화에 기여할 것으로 예상</p></div>`,
+      tags: ["Wind-assisted propulsion","Suction sails","Emissions reduction","Maersk Tankers","bound4blue","Decarbonization"],
+      link: "https://www.offshore-energy.biz/second-maersk-tankers-vessel-fitted-with-spain-made-suction-sails/",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
