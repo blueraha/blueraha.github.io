@@ -5409,3 +5409,53 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-01
+addEvents({
+  "2026-05-01": [
+    {
+      type: "news",
+      title: "White House Claims Iran Hostilities 'Terminated' as War Powers Deadline Arrives",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-05-01",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/USCENTCOM-blockade.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 트럼프 행정부가 이란과의 분쟁이 "종료되었다"고 주장하며 1973년 전쟁권한법의 60일 기한을 회피하려는 상황<br>• USS Rafael Peralta(DDG 115) 구축함을 포함한 미군 함정들이 이란 석유 수출 봉쇄 작전을 지속 중<br>• 2월 28일 이스라엘-미국 연합 공습으로 시작된 분쟁이 수천 명 사망, 수십억 달러 피해 초래<br>• 민주당 의원들은 지속적인 해상 봉쇄 작전이 전투 행위의 증거라며 행정부 주장에 반발<br>• 11월 선거를 앞두고 전쟁이 미국 내 물가 상승 및 낮은 지지율 초래</p><h3>Key Quotes</h3><p>• "For War Powers Resolution purposes, the hostilities that began on Saturday, February 28, have terminated" (전쟁권한법상 2월 28일부터 시작된 전투 행위가 종료되었다는 행정부의 주장)<br>• "After sixty days of conflict, President Trump still does not have a strategy or way out for this poorly planned war" (60일간의 분쟁 이후에도 트럼프 대통령은 이 부실하게 계획된 전쟁에서 벗어날 전략이 없다 - 민주당 상원의원 평가)</p><h3>Technical Insights</h3><p>• **해상 봉쇄 작전의 국제법적 성격**: 이란 석유 수출 차단을 위한 구축함 배치는 단순한 "평화유지"가 아닌 지속적인 적대 행위로 평가되며, 해상 분쟁에서 무장 해군 배치의 법적 의미가 중요<br>• **상선 안전 영향**: M/T Stream 등 민간 유조선이 이란 항구 접근 차단으로 인한 글로벌 에너지 수송 혼란과 해상 운송업계의 보험료 및 운항 비용 증가 초래<br>• **국제 해상 통상 규제**: 단일국가의 일방적 해상 봉쇄는 해양법협약(UNCLOS)과 국제 해상 통상 원칙에 영향을 미치며, 향후 자율운항선박의 이란 해역 항해 계획에도 지정학적 위험요소로 작용할 가능성</p></div>`,
+      tags: ["Iran War","US Navy Blockade","War Powers Resolution","Geopolitical Conflict"],
+      link: "https://gcaptain.com/white-house-says-iran-hostilities-terminated-as-war-powers-deadline-arrives/",
+      coords: [51.389,35.6892],
+      location: "Iran / Persian Gulf"
+    },
+    {
+      type: "news",
+      title: "Trump Maintains Naval Blockade on Iran; US Proposes Maritime Freedom Construct for Strait of Hormuz",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-05-01",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/Strait-of-Hormuz-patrol.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 트럼프 대통령이 이란에 대한 해상 봉쇄 유지를 공언하고, 추가 군사 옵션에 대해 군부 지휘관들로부터 브리핑을 받음. 이는 양국 간 휴전의 불안정성을 드러냄</p><p>• 미국이 호르무즈 해협 보안을 위한 "Maritime Freedom Construct"라는 다국적 해군력 구성을 제안 중이며, 뉴질랜드 등 동맹국들의 참여 의사를 타진 중</p><p>• 이란 의회 의장 갈리바프는 국경 규모가 크다며 봉쇄 효과에 의문을 제기했고, 신임 최고지도자 모즈타바 하메네이는 핵·미사일 기술 포기 거부 및 호르무즈 해협 통제권 유지를 선언</p><p>• 봉쇄로 인한 이란 경제 악화 신호 포착: 통화가 사상 최저 수준으로 약세, 유가는 배럴당 $112 근처로 주간 6% 이상 상승</p><p>• 미국은 호르무즈 해협 인근에 AH-64 아파치 헬기 등을 배치하여 항행의 자유 지원 및 해상 교통 감시 지속 중</p><p>• 전쟁권법에 따라 60일 임계값이 가까워지면서 민주당 의원들이 추가 군사 행동에 대한 의회 승인을 요구</p><h3>Key Quotes</h3><p>• "Good luck blockading a country with those borders" (이란의 광대한 국경 규모를 고려할 때 봉쇄가 효과적이지 않을 것이라는 이란 의회 의장의 비판)</p><p>• "The blockade of Iranian ports is depriving the Islamic Republic of much-needed oil revenue, claiming the pressure would force Tehran back to the negotiating table" (미국이 항구 봉쇄가 이란의 석유 수익을 박탈하여 협상 복귀를 강제할 것이라고 주장)</p><h3>Technical Insights</h3><p>• **해상 교통 및 에너지 안보 영향**: 호르무즈 해협은 전 세계 석유 운송의 약 21% 통과 지점으로, 봉쇄는 글로벌 유가 변동 및 해운 산업에 직접적 영향을 미치는 지정학적 리스크 요소</p><p>• **다국적 해군 구성의 COLREG 적용**: "Maritime Freedom Construct"는 해상충돌방지규칙(COLREG) 및 국제해사법 준수 필요성이 높아지며, 다국적군 간 해상통신 및 협조 체계 표준화 요구</p><p>• **상업 해운의 운영 리스크**: 이란-미국 긴장 고조로 호르무즈 해협 통과 선박들의 항로 변경, 보험료 상승, 운항 지연 등 해운 업계 전반적 비용 증가 우려</p><p>• **자율운항선박(MASS) 도입의 필요성**: 지정학적 분쟁 지역에서의 인명 손상 최소화 및 운영 효율성 제고를 위해 원격 조종 또는 자율운항 선박의 전략적 도입 검토 필요성 대두</p></div>`,
+      tags: ["Iran","Naval Blockade","Strait of Hormuz","Geopolitics","Maritime Security","Oil Markets"],
+      link: "https://gcaptain.com/trump-vows-to-maintain-pressure-on-iran-through-naval-blockade/",
+      coords: [56.2431,26.1367],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
+
+// Auto-collected: 2025-10-08
+addEvents({
+  "2025-10-08": [
+    {
+      type: "accident",
+      title: "Odfjell Drilling cited for serious safety breaches following offshore rig lifting incident",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-05-01",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2025/02/Deepsea-Nordkapp-rig-Source-Odfjell-Drilling-1024x526-1.jpg?image-crop-positioner-ts=1738837754",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **사고 개요**: 2025년 10월 8일 노르웨이 대륙붕 심해 유전 시추 작업 중 Deepsea Nordkapp 반잠수식 시추 선대에서 크레인 리프팅 작업 중 2.67톤의 로깅 툴이 통제 불능 상태로 회전하여 슬링거(갑판작업자)의 가슴에 충돌</p><p>• **피해 상황**: 피해자는 팔뼈 골절, 갈비뼈 다중 골절, 내부 손상을 입었으며 해상구조(SAR) 서비스에 의해 긴급 해안으로 이송되어 의료 처치 받음</p><p>• **규제 위반 적발**: 노르웨이 해양산업청(Havtil)의 조사 결과 리프팅 작업 계획 및 실행, 작업자 역량 및 교육, 안전 문화 등 심각한 규제 위반 적발</p><p>• **근본 원인**: 리프팅 작업 시 하중이 완전히 통제되지 않았고, 부상자가 하중의 경로 내 및 직접 아래에 위치한 불안전한 작업 절차와 위험 관리 부실</p><p>• **행정 조치**: 규제 기관이 Odfjell Drilling에 리프팅 작업 요구사항 미준수 이유 파악 및 역량·교육 요구사항 준수 방안 제시 명령 발행</p><p>• **잠재적 위험**: 미미한 상황 변화에도 사망 또는 중상으로 진행될 수 있는 고위험 사고였으며, 사고 당시 환경 오염이나 물질적 손상은 발생하지 않음</p><h3>Key Quotes</h3><p>• "The logging tool, which weighed 2.67 tonnes and was 11.81 meters long, swung uncontrollably during the lifting operation and struck the deck operator, acting as the slinger, in the chest area." <br>(2.67톤, 길이 11.81미터의 로깅 툴이 리프팅 작업 중 통제 불능 상태로 회전하여 슬링거의 가슴 부위를 직격)</p><p>• "The direct cause of the incident was found to be in the load not being fully under control during the lifting operation, while the deck operator, who was injured, was standing in the path of the load and, at times, directly beneath it."<br>(사고의 직접적 원인은 리프팅 작업 중 하중이 완전히 통제되지 않았으며, 부상자가 하중의 경로 내에 위치하고 때로는 직접 아래에 있었던 불안전한 작업 절차)</p><p>• "The underlying causes of the incident entail inventory and inventory overview, deficient expertise and experience in the offshore organization, handover, planning and execution of lifting operation, work permits, follow-up of own organization, and safety culture."<br>(근본 원인은 재고 관리, 해양 조직의 부족한 전문성과 경험, 정보 인수인계, 리프팅 작업 계획 및 실행, 작업 허가, 내부 조직 관리, 안전 문화 결여 등 다층적 요인)</p><h3>Technical Insights</h3><p>• **리프팅 작업 안전 관리 부실**: IMO SOLAS 및 국제 리프팅 작업 규정에서 요구하는 완전 통제(full control), 사전 위험 평가(HAZID), 작업 허가(Hot Work Permit) 등 기본 절차 이행 불충분으로 노르웨이 규제 기준 미충족</p><p>• **역량 및 교육 체계 미흡**: 크레인 운영자, 신호수, 슬링거 간 명확한 통신 프로토콜 부재 및 해양 산업 작업자의 공식 자격증(IMCA, OPITO 인증) 보유 여부 확인 체계 결여</p><p>• **안전 문화 결손**: 해양 시추 산업의 Process Safety Management(PSM)와 Behavioral Safety 중심의 선제적 위험 관리 체계 미구축으로, 규제 기관의 명령 이행을 통한 조직 개혁 필요</p><p>• **산업 영향**: 북해 해양에너지 산업의 안전 기준 강화</p></div>`,
+      tags: ["lifting operation","injury","regulatory breach","offshore drilling","safety culture"],
+      link: "https://www.offshore-energy.biz/probe-into-offshore-rig-incident-uncovers-serious-breaches/",
+      coords: [2.5,60.5],
+      location: "Norwegian Continental Shelf (Symra field)"
+    }
+  ]
+});
