@@ -5459,3 +5459,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-01
+addEvents({
+  "2026-05-01": [
+    {
+      type: "news",
+      title: "Jadestone Energy receives approval for wellhead removal at Montara oil field, Australia",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-05-01",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/04/FPSO-Montara-Venture-Source-Jadestone-Energy.jpg?image-crop-positioner-ts=1777278876",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **규제 승인**: NOPSEMA(호주 해양석유안전환경관리청)가 Jadestone Energy의 환경계획(EP) 승인 (2026년 4월 22일)</p><p>• **작업 범위**: 몬타라 유전 내 3개 웰헤드(Montara-1, 2, 3) 제거 작업으로, 다윈 동쪽 690km, 수심 80m 위치</p><p>• **제거 방법**: 원격 작동 로봇(ROV)을 활용한 마모식 분사절단(AWJC), 다이아몬드 와이어톱(DWS), 기계식 절단 등 다중 방식 적용</p><p>• **운영 계획**: 각 웰헤드당 약 2일 소요, 총 14일 범위(동원/동원해제 포함), 1척의 모선으로 수행, 12개월 내 처리 완료 예정</p><p>• **환경 영향**: 웰헤드 주성분이 연강(mild steel)으로 대부분 재활용 또는 재용도 가능, 5년 유효기간 내 수행 가능</p><h3>Key Quotes</h3><p>• "The National Offshore Petroleum Safety and Environmental Management Authority (NOPSEMA) gave Jadestone the green light on April 22, 2026, to move forward with activities proposed in its submitted environment plan" (호주 해양석유 규제기관이 Jadestone의 환경계획 이행을 승인)</p><p>• "While the duration of the activity at each wellhead is expected to be approximately 2 days, an allowance of approximately 14 days has been provided, including mobilization, seabed surveys, wellhead removal, and demobilization" (동원/철수를 포함한 전체 일정은 약 14일로 예상)</p><p>• "The wellhead composition is predominantly mild steel, and it is anticipated that most of it will be recycled or repurposed" (웰헤드 자재는 대부분 재활용 가능)</p><h3>Technical Insights</h3><p>• **ROV 기술 활용**: 원격 조종 로봇을 이용한 "현황 파악" 및 "완료 확인" 조사, 해양생물 제거, 웰헤드 영역 준비 등의 세부 작업 수행으로 안전성 극대화</p><p>• **복합 절단 기술**: 마모식 분사절단, 다이아몬드 와이어톱, 기계식 절단 등 다양한 방법론 제시로 선박 및 장비 이용 가능성 확대 및 환경 리스크 최소화</p><p>• **폐기물 처리 및 환경 관리**: 웰헤드 재활용 계획 및 5년 유효기간 설정으로 순환경제 원칙 준수, 해양 환경 보호 기준 강화 추세 반영</p><p>• **산업 효율성**: "vessel of opportunity" 개념으로 다른 작업 목적의 모선 활용 가능성 제시, 해양 산업의 비용 효율성과 자원 최적화 실현</p></div>`,
+      tags: ["Offshore Decommissioning","Oil Field Abandonment","Environmental Management","Subsea Operations","ROV Technology"],
+      link: "https://www.offshore-energy.biz/green-light-for-wellhead-removal-ops-at-australian-oil-field/",
+      coords: [133.8753,-12.4634],
+      location: "Montara Field, Australia (690 km east of Darwin)"
+    },
+    {
+      type: "news",
+      title: "Mercuria Sues Baltic Exchange Over Hormuz Strait Closure Pricing Data",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-01",
+      image: "https://images.marinelink.com/images/maritime/w800/copyright-timonadobestock-170279.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 스위스 에너지·상품 거래업체 머큐리아(Mercuria)가 호르무즈 해협 폐쇄로 인한 손실을 이유로 세계 최대 해운지수 공급자인 발틱거래소(Baltic Exchange)를 영국 고등법원에 제소함</p><p>• 2026년 2월 28일 시작된 미국-이스라엘과 이란의 전쟁으로 호르무즈 해협 사실상 폐쇄되어 걸프만 내 600척 이상의 선박과 2만여 명의 선원이 발이 묶인 상태</p><p>• 발틱거래소가 유조선 가격지수 TD3C(Gulf-China 항로 기반)를 계속 발표하면서 시장 실황을 반영하지 못한 극단적 변동성 발생</p><p>• TD3C를 벤치마크로 하는 선적운임선도(Freight Forward Agreements) 및 선적운임파생상품 시장 왜곡 및 혼란 초래</p><p>• 머큐리아 측은 발틱거래소가 계약 및 법정 의무 위반했으며, 예상 손실액은 현재 수억 달러 규모로 추정 중</p><p>• 발틱거래소 측은 자신들이 벤치마크 지침 및 규정 범위 내에서 행동했으며 대체 항로 제시 등 시장 공지 조치를 취했다고 반박</p><h3>Key Quotes</h3><p>• "The result has been ongoing extreme volatility in the pricing of TD3C, which no longer accurately or reliably represents the underlying market it is intended to measure" (TD3C 가격 변동성이 심화되어 측정 대상 시장을 더 이상 정확하거나 신뢰할 수 있게 반영하지 못함)</p><p>• "losses on physical freight contracts and settled freight derivative contracts benchmarked to TD3C...presently estimated to be in the hundreds of millions of U.S. dollars" (TD3C 벤치마크 물리적 선적운임 계약 및 결제된 파생상품 계약의 손실이 현재 수억 달러로 추정됨)</p><p>• "the exchange had acted within its benchmark guidelines and regulations and had advised the market on how Middle East Gulf routes would be assessed during the conflict" (발틱거래소는 벤치마크 지침 및 규정 범위 내에서 행동했으며 분쟁 중 중동 만 항로 평가 방식을 시장에 공지함)</p><h3>Technical Insights</h3><p>• **벤치마크 지수의 시장 신뢰성 문제**: 발틱거래소의 TD3C 지수가 지정학적 위기 상황을 반영하지 못하면서 파생상품 시장의 기초가 되는 가격 신호의 신뢰성 훼손 - 글로벌 해운 시장의 투명성과 정보비대칭 심화</p><p>• **해운 벤치마크 개선의 필요성**: 실시간 시장 상황 변화를 반영하는 동적 지수 방식이나 복수 시나리오 기반 대체 벤치마크 제시 메커니즘 강화 필요</p><p>• **지정학적 위기 시 해운산업 규제 공백**: IMO 및 국제 금융규제 당국과의 조율 없이 벤치마크 운영기관이 독자적으로 판단하는 상황의 법적·윤리적 문제점</p><p>• **선적운임파생상품 시장의 시스템 리스크**: 단일 벤치마크 의존도가 높은 현물 및 선도계약 결제 시스템의 취약성 노출로 다원적 가격 발견 메커니즘 확대 필요</p></div>`,
+      tags: ["Baltic Exchange","Shipping Indices","TD3C Index","Strait of Hormuz","Commodity Trading","Freight Derivatives"],
+      link: "https://www.marinelink.com/news/baltic-exchange-sued-hormuz-freight-538714",
+      coords: [26.1207,25.3548],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
