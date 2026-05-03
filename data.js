@@ -5491,3 +5491,22 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-24
+addEvents({
+  "2026-04-24": [
+    {
+      type: "news",
+      title: "U.S. Special Forces Successfully Test Ukrainian-Designed Drone Boats in Exercise Balikatan 2026",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-05-02",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미 특수전사령부(Green Berets) 1 특전단(공수)이 2026 발리카탄 훈련 중 우크라이나 설계 무인수상함정(USV)을 원격 조종하여 표적선박 침몰 성공</p><p>• 필리핀 이트바야트 서쪽 해상에서 4월 24일 형성장약(shaped charges)을 탑재한 드론 보트 다중 운용 실시</p><p>• 무인 표면 함정의 원격 발사 및 제어 능력 실증으로 자동 해양 무기 체계 실전 적용 가능성 입증</p><p>• 우크라이나 해양 드론 기술의 국제 군사 협력 확대 및 NATO 연합군 운용 체계 통합 추세 반영</p><p>• 자율 무인 함정의 전술적 유효성 검증으로 향후 해양 특수전 교리 변화 예상</p><h3>Key Quotes</h3><p>• "remotely launched and controlled unmanned surface vessels during Exercise Balikatan 2026" (2026 발리카탄 훈련 중 무인수상함정을 원격 발사 및 제어했다)</p><p>• "drone boats they operated bear a close visual resemblance to systems associated with [Ukrainian design]" (운용된 드론 보트가 우크라이나 설계 시스템과 시각적 유사성을 보인다)</p><h3>Technical Insights</h3><p>• **자율 해양 무기 체계의 전술 운용**: 무인수상함정(USV)의 원격 제어 및 자동 항법 기술이 특수전 환경에서 실제 작전 수행 가능함을 입증하여 향후 해양 무인 전투 체계 개발 가속화 예상</p><p>• **COLREG 및 국제 해양법 이슈**: 무인 군사 무기 시스템의 운용 시 국제 해양 규칙 준수 문제와 민간 해역 운용 제약사항 발생 가능성 증대로 IMO 규제 강화 필요</p><p>• **무인 수상함정의 신뢰성 및 안전성**: 형성장약 운반 및 표적 타격 임무 수행으로 USV의 정확도, 안정성, 통신 신뢰성 검증 완료로 실전 배치 기반 마련</p><p>• **국제 군사 협력 체계 확대**: 우크라이나-미국 기술 협력 및 동맹국 훈련 참여로 자율 해양 무기의 표준화 및 상호운용성 향상에 기여</p></div>`,
+      tags: ["Autonomous Surface Vessels","USV/Drone Boats","Military Exercise","Ukraine","Philippines"],
+      link: "https://defence-blog.com/u-s-special-forces-sink-a-ship-with-ukrainian-designed-drone-boats/",
+      coords: [121.7,19.6],
+      location: "Itbayat, Philippines"
+    }
+  ]
+});
