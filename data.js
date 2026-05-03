@@ -5510,3 +5510,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-01
+addEvents({
+  "2026-05-01": [
+    {
+      type: "news",
+      title: "Jan De Nul Completes Export Cable Installation for Taiwan's Fengmiao 1 Offshore Wind Farm",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-05-01",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/04/Jan-De-Nul-export-cable-installation-at-Fengmiao-1-offshore-wind-farm.jpg?image-crop-positioner-ts=1777294144",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 네덜란드 해상 건설회사 Jan De Nul이 대만 타이중 인근 35km 해상에 위치한 펑미아오 1 해상풍력발전단지의 2개 수출 케이블 설치 완료<br>• 45km 및 44km 길이의 고압 해저 케이블 2개가 설치되어 해상에서 임시 보관 중이며, 해상 변전소 설치 대기<br>• 케이블 매설 작업이 다음 단계로 예정되어 있으며, Willem de Vlamingh 케이블 포설선이 운송, 굴착, 보호 작업 담당<br>• 총 495MW 규모로 베스타스 15MW 풍력터빈 33개와 변전소 1개로 구성되며, 2027년 대만 전력공사 타이중 중칭 변전소에 연계 예정<br>• Copenhagen Infrastructure Partners(CIP)가 발주사이며, Century Wind Power가 기초 구조물 공급</p><h3>Key Quotes</h3><br>• "The two high-voltage subsea cables, measuring 45 kilometers and 44 kilometers, have been installed and are currently wet stored offshore, awaiting installation of the offshore substation jacket" (45km 및 44km 길이의 2개 고압 해저 케이블이 설치되어 해상 변전소 재킷 설치 대기 중)<br>• "Once the offshore platform becomes available, the cables will be pulled in and connected" (해상 플랫폼이 준비되면 케이블을 인입하여 연결할 예정)</p><h3>Technical Insights</h3><br>• 대규모 해상풍력 프로젝트에서 해저 케이블 포설과 매설은 핵심 공정으로, 전력 수송 안정성과 환경 보호를 위해 고도의 기술과 전문 장비 필요<br>• 케이블 매설 공정은 해상 기상 조건과 기초 구조물 설치 일정과 밀접한 연관이 있으며, 프로젝트 스케줄 관리의 중요한 변수<br>• 495MW 규모의 해상풍력단지는 대만의 재생에너지 목표 달성에 중요한 역할을 수행하며, 해양 에너지 인프라 개발 촉진</p></div>`,
+      tags: ["offshore wind","subsea cables","Taiwan","infrastructure","renewable energy"],
+      link: "https://www.offshore-energy.biz/jan-de-nul-installs-export-cables-for-taiwans-fengmiao-1-offshore-wind-farm/",
+      coords: [120.5,24.1],
+      location: "Taichung, Taiwan"
+    }
+  ]
+});
