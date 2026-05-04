@@ -5530,3 +5530,58 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-03
+addEvents({
+  "2026-05-03": [
+    {
+      type: "accident",
+      title: "Ukrainian Drones Hit Russia's Primorsk Port, Oil Tankers And Military Ships",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-05-03",
+      image: "https://gcaptain.com/wp-content/uploads/2026/05/2026-05-03T080151Z_1876341147_RC2VIEAGR7N5_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-DRONES-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 우크라이나군이 5월 3일 러시아 발트해 프리모르스크 항구에 60개 이상의 드론을 투입하여 유전 터미널에 직격탄을 가하고 화재 발생<br>• 타격 대상: 유조선 1척, 러시아 카라쿠르트급 미사일함 1척, 순찰정 1척 포함 다수 선박 및 에너지 인프라<br>• 프리모르스크는 러시아 최대 석유 수출 거점으로 일일 처리량 100만 배럴 규모<br>• 젤렌스키 대통령은 "러시아의 전쟁 능력을 계속 제한할 것"이며 장거리 타격 능력 지속 개발 선언<br>• 러시아 당국은 화재가 신속히 진화되었고 유류 유출 없음을 주장, 유가 상승 가능성에 대해서만 우려 표명</p><h3>Key Quotes</h3><p>• "Each such result further limits Russia's war potential" (각각의 성과는 러시아의 전쟁 능력을 더욱 제한한다) - Zelenskiy 대통령</p><p>• "Ukraine's long-range capabilities will continue to be developed comprehensively – at sea, in the air, and on land." (우크라이나의 장거리 타격 능력은 해상, 공중, 육상에서 포괄적으로 지속 개발될 것) - Zelenskiy 대통령</p><p>• "If additional volumes of our oil are dropped from the market, prices will rise further from current levels, which are already above $120 a barrel" (추가 석유 물량이 시장에서 빠지면 현재 배럴당 120달러를 넘는 수준에서 추가 상승할 것) - Kremlin 대변인 Peskov</p><h3>Technical Insights</h3><p>• **해양 인프라 공격의 경제적 파급효과**: 프리모르스크 항구는 일일 100만 배럴 규모의 석유 수출 거점으로서 글로벌 에너지 시장에 직접 영향을 미치는 주요 거점 - 드론 공격으로 인한 석유 공급 중단은 국제 유가 상승 압력 가중</p><p>• **선박 타격 및 해상 활동 제약**: 유조선, 군함, 순찰정 등 다양한 선박 피격으로 인한 러시아 해상 수송 능력 약화 및 해상 물류 운영의 심각한 차질 야기</p><p>• **쉐도우 플릿(Shadow Fleet) 해상 공격**: 국제 제재 회피 목적의 비정규 유조선에 대한 공격 강화로 러시아의 우회 수출 경로 마저 차단되는 추세 - IMO 및 국제 해양 안보 우려 지속</p></div>`,
+      tags: ["drone attack","oil terminal","Primorsk Port","military vessels","Ukraine-Russia conflict"],
+      link: "https://gcaptain.com/ukrainian-drones-hit-russias-primorsk-port-oil-tankers-and-military-ships/",
+      coords: [27.8,59.4],
+      location: "Primorsk, Baltic Sea"
+    },
+    {
+      type: "accident",
+      title: "Three Passengers Dead on Cruise Ship After Hantavirus Outbreak in Atlantic",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-03",
+      image: "https://images.marinelink.com/images/maritime/w800/bluemistfilmstudios-adobe-170281.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 아르헨티나에서 케이프베르데로 향하던 크루즈선 MV Hondius에서 한타바이러스 집단 발생으로 3명 사망, 6명 감염<br>• **피해 현황**: 사망자 3명(네덜란드 승객 2명, 영국 관광객 1명 포함), 1명 남아공 중환자실 입원, 2명 의료 대피 필요<br>• **선박 정보**: MV Hondius (네덜란드 선박, WHO가 운영사와 조율 중)<br>• **감염 경로**: 설치류(쥐) 접촉을 통한 바이러스 전파 - 배설물, 타액, 소변 접촉<br>• **대응 조치**: WHO가 국가 간 조율, 의료 대피 진행 중, 전체 승객 대상 보건위험 평가 실시</p><h3>Key Quotes</h3><p>• "WHO is facilitating coordination between member states and the ship's operators for medical evacuation of two symptomatic passengers, as well as full public health risk assessment and support to the remaining passengers on board" (WHO가 회원국과 선박 운영사 간 조율을 통해 증상 있는 승객 2명의 의료 대피와 전체 승객에 대한 보건위험 평가를 진행 중)</p><p>• "people get hantavirus from contact with rodents like rats and mice, especially when exposed to their urine, droppings, and saliva" (한타바이러스는 쥐와 같은 설치류와의 접촉, 특히 그들의 소변, 배설물, 타액 노출을 통해 전파됨 - CDC)</p><h3>Technical Insights</h3><p>• **해양 보건 안전**: 원양 크루즈선의 밀폐된 선내 환경에서 설치류 방제 체계의 중요성 강조 - 전염병 확산 위험이 극대화될 수 있음</p><p>• **국제 협력 체계**: WHO의 다국적 조율 메커니즘 작동 사례 - 공해상 선박 질병 사건 처리 시 IMO와 각국 보건당국 간 신속한 정보공유 및 의료 대피의 중요성</p><p>• **선박 위생 기준**: 국제해사기구(IMO)의 선박 위생 및 전염병 관리 규정 강화 필요 - 크루즈선 등 장거리 항해 선박에 대한 정기적 해충 방제 및 위생 검사 의무화</p></div>`,
+      tags: ["hantavirus outbreak","cruise ship","MV Hondius","health emergency","casualties"],
+      link: "https://www.marinelink.com/news/three-passengers-dead-cruise-ship-538722",
+      coords: [-30.5,-15.5],
+      location: "Atlantic Ocean (Argentina to Cape Verde route)"
+    },
+    {
+      type: "news",
+      title: "Green Berets Deploy Ship-Killing Drone in Luzon Strait Maritime Strike Exercise",
+      source: "USNI News",
+      sourceMeta: "usni.org · 2026-05-03",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미군 그린베레 1 특수전단(공정)이 루손 해협에서 폭발물 탑재 무인수상함정(USV)을 이용한 해상 목표 공격 훈련 수행<br>• 바탄 섬(바탄 제도)에서 원격 조종된 무인 해양 시스템들이 선박 격침 능력 시연<br>• 필리핀-미국 군사협력 강화 배경: 대만 침략 시나리오 대비 및 필리핀의 안보 우려 해소<br>• 대만 근처 88마일 범위의 바탄 제도에서의 증강된 군사 훈련 활동<br>• 무인수상함정의 실전 운용 능력 검증 및 도미넌트 해상력 투사 전략 시연</p><h3>Key Quotes</h3><p>• "American special forces used unmanned surface vessels equipped with explosive charges against a maritime target in the Luzon Strait" (미군 특수전 부대가 루손 해협에서 폭발물 탑재 무인수상함정을 maritime target 공격에 사용함)</p><p>• "U.S. Army Green Berets with the 1st Special Forces Group (Airborne) controlled the explosive-laden drone and other unmanned maritime systems from Batan Island" (미 육군 그린베레 1 특수전단이 바탄 섬에서 폭발물 탑재 드론 및 무인 해양 시스템 원격 조종)</p><h3>Technical Insights</h3><p>• 무인수상함정(USV)의 실전 운용: 원격 조종 기술을 통한 선박 격침 능력 시연으로 차세대 해양 전투 플랫폼의 실용성 입증<br>• 국제 해양법 및 COLREG 적용 문제: 무인수상함정의 자율항해 및 무장화가 국제 해상 충돌 회피 규칙(COLREG) 및 IMO 해양 안전 규정과의 상충 가능성 제기<br>• 인도태평양 지역 전략적 균형: 무인 해양 시스템의 배치를 통한 미국의 영향력 확대와 지역 분쟁 억제 전략의 구체화<br>• 자율 및 반자율 무인체계의 확대: 전술 수준에서 무인수상함정의 실전 운용 확대로 향후 완전 자율화 무인 해상 전투 시스템 발전 촉진 가능성</p></div>`,
+      tags: ["Unmanned Surface Vessels","Maritime Drone","U.S. Military","Philippines","Taiwan Strait"],
+      link: "https://news.usni.org/2026/05/03/green-berets-deploy-ship-killing-drone-in-luzon-strait-maritime-strike-exercise",
+      coords: [121.9,20],
+      location: "Luzon Strait, Batanes Archipelago, Philippines"
+    },
+    {
+      type: "news",
+      title: "World's Largest Sailing Yacht Orient Express Corinthian Named in France",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-03",
+      image: "https://images.marinelink.com/images/maritime/w800/source-accor-170285.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **선박명 및 규모**: 오리엔트 익스프레스 코린티안(Orient Express Corinthian)이 세계 최대 규모 세일링 요트로 명명되었으며, 길이 220미터, 54개 스위트 객실을 보유한 럭셔리 크루즈선</p><p>• **혁신 추진 시스템**: Chantiers de l'Atlantique가 개발한 SolidSail 윈드 추진 시스템 장착으로, 3개 돛대(각 1,500m²)가 완전 자동화되어 360도 회전 가능하며 최적 바람 트림 유지</p><p>• **성능 검증**: 2026년 2월 해상 시운전에서 20노트 바람 조건에 돛만으로 12노트 달성 - 동급 선박 중 첫 사례</p><p>• **하이브리드 LNG 추진 및 에너지 효율**: 하이브리드 LNG 추진과 다수의 에너지 효율 기능으로 동급 선박 중 최우수 EEDI(에너지 효율 설계지수) 등급 획득</p><p>• **AI 안전 시스템 및 동적 포지셔닝**: AI 지원 해양생물 감지 시스템이 충돌 위험 감소, 동적 포지셔닝으로 해저 보호</p><p>• **제조 및 운영**: 프랑스 완전 건조, 약 2,000명의 장인과 아틀리에 참여, 지중해에서 취항 예정</p><h3>Key Quotes</h3><p>• "Her three rigs, each spanning 1,500 m² and rising to over 320 feet, are fully automated and capable of delivering 100% wind-powered propulsion in favorable conditions." (3개의 돛대(각 1,500m²)는 완전 자동화되어 유리한 조건에서 100% 풍력 추진 가능)</p><p>• "In 20 knots of wind, this vessel made 12 knots under sail alone - a first for a ship of this size." (20노트 바람에서 이 선박은 돛만으로 12노트를 달성했으며, 이는 동급 선박 중 첫 사례)</p><p>• "An AI-assisted detection system continuously monitors for marine mammals and objects in the water to reduce collision risk." (AI 지원 감지 시스템이 해양생물과 수중 물체를 지속적으로 모니터링하여 충돌 위험 감소)</p><h3>Technical Insights</h3><p>• **차세대 풍력 추진 기술**: SolidSail 시스템의 360도 회전 가능한 자동화 돛대는 IMO 에너지 효율 규제(EEDI) 강화에 대응하는 친환경 솔루션으로, 대형 크루즈선의 탈탄소화 방향 제시</p><p>• **AI 안전시스템 응용**: 해양생물 감지와 충돌 회피 기능은 해사안전법(COLREG) 준수와 자율항해 기술의 실제 운영 사례로, 해양 생태계 보호와 항법 안전 동시 달성</p><p>• **하이브리드 추진 시스템의 산업적 확산**: 풍력과 LNG 하이브리드 방식은 IMO 2050 탄소중립 목표 달성을 위한 전환형 기술로, 향후 대형선박 신조 시 주요 트렌드 예상</p><p>• **동적 포지셔닝 환경 기술**: 고정 투묘 대신 DP 시스템 활용으로 해양 생태계 영향 최소화, 해양 환경 보호 규제와 ESG 경영 강화의 구체적 사례</p></div>`,
+      tags: ["Sailing Yacht","Wind Propulsion","SolidSail Technology","Hybrid LNG","AI Safety Systems","Chantiers de l'Atlantique"],
+      link: "https://www.marinelink.com/news/worlds-largest-sailing-yacht-named-france-538726",
+      coords: [-2.2137,47.2758],
+      location: "Saint-Nazaire, France"
+    }
+  ]
+});
