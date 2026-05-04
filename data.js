@@ -5585,3 +5585,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-03
+addEvents({
+  "2026-05-03": [
+    {
+      type: "accident",
+      title: "Ukrainian Drones Attack Russian Port of Primorsk, Hit Tankers and Military Vessels in Baltic Sea",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-04",
+      image: "https://images.marinelink.com/images/maritime/w800/source-social-170289.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 우크라이나군이 드론을 이용해 러시아 발트해 유전항만인 프리모르스크(Primorsk) 항구를 공격해 화재 발생 및 유류터미널에 상당한 피해를 입힘</p><p>• 공격 대상: 유조선 1척, 러시아 카라쿠르트급 미사일함 1척, 경비정 1척 및 흑해 노보로시스크 항구 인근 쉐도우 플릿 유조선 2척</p><p>• 프리모르스크는 일일 100만 배럴의 석유 수출 능력을 갖춘 러시아 최대 수출 항구 중 하나이며, 최근 수개월간 반복적으로 공격받고 있는 상황</p><p>• 러시아 당국은 60여 대의 드론을 격추했으며 화재는 신속히 진화되고 유류유출은 없었다고 주장</p><p>• 젤렌스키 대통령은 이번 공격이 러시아의 전쟁 잠재력을 제한하고 우크라이나의 장거리 능력 개발을 계속하겠다고 강조</p><p>• 러시아는 석유 수출 감소로 인한 국제유가 상승이 수익성을 상쇄할 수 있다고 주장하며 도발적 입장 유지</p><h3>Key Quotes</h3><p>• "Each such result further limits Russia's war potential" (이러한 결과는 러시아의 전쟁 잠재력을 더욱 제한한다 - 젤렌스키 대통령)</p><p>• "These tankers had been actively used to transport oil – not anymore. Ukraine's long-range capabilities will continue to be developed comprehensively – at sea, in the air, and on land." (해당 유조선들은 석유 운송에 적극 활용되었지만 이제는 더 이상 사용할 수 없게 되었습니다. 우크라이나의 장거리 능력은 해상, 공중, 육상 전반에 걸쳐 계속 개발될 것입니다 - 젤렌스키 대통령)</p><p>• "If additional volumes of our oil are dropped from the market, prices will rise further from current levels, which are already above $120 a barrel. That would mean that even with lower export volumes, our companies would earn more money and the state would receive more revenue." (우리 석유의 추가 물량이 시장에서 빠지면 현재 배럴당 120달러 이상인 가격이 더 오를 것입니다. 이는 수출량이 감소하더라도 우리 기업들이 더 많은 돈을 벌고 국가가 더 많은 수익을 얻을 수 있다는 의미입니다 - 크렘린궁 대변인 페스코프)</p><h3>Technical Insights</h3><p>• **해상 드론 전술의 진화**: 기존의 대함 미사일 중심 전술에서 대규모 저가형 드론 무리(Swarm) 공격으로 전환되고 있으며, 이는 해양 보안 및 항만 운영 방식의 근본적 변화를 의도함</p><p>• **에너지 인프라 공략 전략**: 유전항만과 쉐도우 플릿 유조선 동시 공격으로 글로벌 석유 공급망 교란을 노리는 경제전 양상을 보이며, IMO 회원국들의 해상 교통 안전 관심 고조 필요</p><p>• **해상 군사 충돌과 민간 선박 구분의 모호성**: 쉐도우 플릿(제재 회피 민간 유조선) 공격 사례는 전쟁 중 민간 해상 활동의 위험성을 부각시키며, 해양 분쟁 지역의 자동항해 및 무인 선박 운영의 실질적 위험 증대를 시사</p><p>• **항만 보안 및 방어 체계 강화 필수**: 대규모 드론 공격(60여 대)을 상정한 항만 방어 시스템 개선, AIS 투명성 규제, 그리고 전략적 에너지 항구에 대한 국제적 보호 논의 확대 필요성 대</p></div>`,
+      tags: ["Drone Attack","Port Infrastructure","Oil Tanker","Baltic Sea","Military Vessel","Ukraine-Russia Conflict"],
+      link: "https://www.marinelink.com/news/ukrainian-drones-hit-russian-port-tankers-538731",
+      coords: [59.61,49.97],
+      location: "Primorsk, Baltic Sea / Novorossiysk, Black Sea"
+    },
+    {
+      type: "news",
+      title: "Swedish Coast Guard Seizes Syrian-Flagged Tanker Jin Hui Suspected of Russian Shadow Fleet Operations",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-03",
+      image: "https://images.marinelink.com/images/maritime/w800/source-swedish-170283.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 스웨덴 해안경비대가 발틱해 트렐레보리 남쪽 해역에서 시리아 국적 탱커선 진휘(Jin Hui)를 나포했으며, 러시아의 '섀도우 플릿' 운영 혐의로 조사 개시</p><p>• 해당 선박은 거짓 선박등록(False Flag) 의혹, 국제 해양안전규정 미충족, EU·영국 제재 대상 등의 위반 사항 적발</p><p>• 스웨덴 방위부 장관 칼-오스카르 볼린이 해당 선박이 러시아 섀도우 플릿에 속한 것으로 추정된다고 발표</p><p>• 유럽 각국이 러시아의 우크라이나 전쟁 자금조달용 유조선 섀도우 플릿 적발·차단 활동을 강화 중</p><p>• 2026년 현재까지 스웨덴이 유사 위반 혐의로 5척의 선박을 나포하고 선원에 대해 형사 절차 개시</p><h3>Key Quotes</h3><p>• "The coast guard suspects that the ship is sailing under a false flag, given there are a number of irregularities concerning its flag status, and therefore does not meet demands for seaworthiness as set out in international regulations and agreements." (해안경비대는 선박등록 상태의 다수 불규칙성으로 인해 거짓 선박등록 하에서 운항 중이며, 국제 규정과 협약에서 정한 해양적합성 요건을 충족하지 못하고 있다고 의심)</p><p>• "The vessel was suspected of belonging to the Russian so-called shadow fleet." (해당 선박이 러시아의 이른바 섀도우 플릿에 속하는 것으로 의심된다)</p><h3>Technical Insights</h3><p>• **거짓 선박등록(False Flag) 적발**: UNCLOS 및 IMO SOLAS 규정상 선박은 진정한 국적 국가의 등록을 받아야 하며, 시리아 국적으로 등록된 선박의 실제 운영 주체가 러시아인 경우 국제 해양법 위반으로 적법한 나포 사유가 됨</p><p>• **섀도우 플릿 규제 강화**: EU, 영국 등 서방국들이 개별 해양안전 규정(Oil spill, seaworthiness) 위반을 명목으로 러시아 유조선을 순차적으로 나포하고 있으며, 이는 제재 회피 선박 적발의 효율적 모델로 부상</p><p>• **항해 안전 기준 강화**: MARPOL, ISM Code 등 국제 해양안전 규정 준수 여부를 검증 기준으로 활용하여 합법적인 선박 나포가 가능하며, 스웨덴 해안경비대의 정례적 감시가 지속적 억제 효과 생성</p></div>`,
+      tags: ["Shadow Fleet","Sanctions Enforcement","Baltic Sea","Russia-Ukraine War","Flag State Irregularities"],
+      link: "https://www.marinelink.com/news/swedish-coast-guard-seizes-shadow-tanker-538724",
+      coords: [13,55.4],
+      location: "Baltic Sea, south of Trelleborg, Sweden"
+    }
+  ]
+});
