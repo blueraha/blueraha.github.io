@@ -5617,3 +5617,46 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-04
+addEvents({
+  "2026-05-04": [
+    {
+      type: "accident",
+      title: "Explosion Hits South Korean Ship HMM Namu in Strait of Hormuz Amid U.S.-Iran Tensions",
+      source: "gCaptain (Reuters)",
+      sourceMeta: "gcaptain.com · 2026-05-04",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/2026-03-07T044529Z_1004479925_RC20XJAXEVAA_RTRMADP_3_IRAN-CRISIS-ENERGY-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 남한 선박 HMM Namu가 호르무즈 해협에서 폭발과 화재로 피격되었으며, 동시에 이란 무인기가 UAE 후자이라 유전시설을 공격함<br>• **관련 선박/기관**: HMM(현대상선) 운영 컨테이너선 HMM Namu, 미 해군 미사일 구축함, 이란 혁명수비대<br>• **지정학적 배경**: 트럼프 행정부의 "프로젝트 프리덤" 작전으로 호르무즈 해협 개방 시도 중 이란의 강력한 대응<br>• **해운 영향**: 지난 2개월간 이란의 해협 봉쇄로 인한 역사상 최대 규모의 글로벌 에너지 공급 차질 발생<br>• **현황**: 미군의 주장과 달리 상업 선박의 통과 급증 징후 없으며, 폭발 사건으로 운송업체들의 해협 통항 회피 심화 우려</p><h3>Key Quotes</h3><p>• "A South Korean ship was hit by an explosion in the Strait of Hormuz on Monday and Iranian drones caused a fire at a UAE oil port, as Tehran demonstrated its grip on Middle East oil" <br>  (이란이 중동 석유에 대한 통제력을 시연하면서 남한 선박이 호르무즈 해협에서 폭발에 피격되고 이란 무인기가 UAE 유전시설에 화재를 유발)</p><p>• "In the two months since the U.S. launched an air war against Iran alongside Israel, Tehran has largely blocked the strait to ships apart from its own, causing the biggest disruption to global energy supplies in history"<br>  (미국이 이스라엘과 함께 이란에 대한 공중전을 시작한 이래 2개월 동안 이란은 자국 선박을 제외한 해협을 대부분 봉쇄하여 역사상 최대 규모의 글로벌 에너지 공급 차질 초래)</p><h3>Technical Insights</h3><p>• **호르무즈 해협의 전략적 중요성**: 세계 최대 에너지 운송로로서 일일 약 2,100만 배럴의 석유 통과, 전 지구적 에너지 안보의 핵심 인프라<br>• **해상 분쟁 에스컬레이션**: 무인기 공격, 포경 사격 등 저강도 군사 충돌이 상업 선박의 항해 안전을 심각하게 위협하며, COLREG 및 해상안전규칙의 작동 불가 상황 심화<br>• **IMO 해상안전 기준의 한계**: 무장 분쟁 지역에서의 선박 통항 안전 보장 메커니즘 부재로, 국제해사기구의 규제 권한 범위 초과 상황 발생<br>• **운선사의 경제적 결정**: HMM Namu 피격으로 인한 운송 보험료 급등, 호르무즈 우회 항로 선택 비용 증가로 해상 운송 효율성 및 글로벌 공급망에 심각한 악영향 초래</p></div>`,
+      tags: ["Ship Explosion","Strait of Hormuz","HMM Namu","Iran-U.S. Conflict","Maritime Security"],
+      link: "https://gcaptain.com/explosion-hits-ship-as-trumps-hormuz-push-meets-reality/",
+      coords: [56.5,26.1],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "accident",
+      title: "Fire and Explosion on HMM Namu in Strait of Hormuz",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-04",
+      image: "https://images.marinelink.com/images/maritime/w800/ekhpictures-stockadobecom-170306.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 5월 4일(월) 남한 HMM 선사의 파나마 국적 화물선 HMM Namu가 호르무즈 해협에서 화재와 폭발 발생<br>• **피해 현황**: 승무원 24명(한국인 6명 포함) 탑승했으나 인명피해 없음; 기관실에서 발화<br>• **공격 의혹**: 서울 외교부가 선박이 공격받았을 가능성을 검토 중<br>• **관련 해상 긴장**: 이란의 미국 군함 진입 차단 조치와 연계된 지역 안보 악화<br>• **정부 대응**: 남한 정부가 관련국과 긴밀히 소통하며 호르무즈 해협 내 한국 선박 26척의 안전 확보에 나선 상황<br>• **조사 진행**: HMM과 관계당국이 화재 원인에 대한 조사 진행 중</p><h3>Key Quotes</h3><p>• "Our government will communicate closely with relevant countries regarding this matter and take necessary measures to ensure the safety of our vessels and crew members inside the Strait of Hormuz" (우리 정부는 이 문제와 관련하여 관련국과 긴밀히 소통하고 호르무즈 해협 내 우리 선박과 승무원의 안전을 보장하기 위해 필요한 조치를 취할 것)</p><p>• "The government was checking intelligence that the vessel, HMM Namu, may have been attacked" (정부는 HMM Namu가 공격받았을 가능성에 대한 정보를 확인 중)</p><h3>Technical Insights</h3><p>• **지정학적 해상로 위협**: 호르무즈 해협은 전 세계 해상 석유 운송의 약 21%가 통과하는 전략적 요충지로서, 지역 분쟁 고조 시 상선 안전이 심각한 위협에 처할 수 있음을 시사</p><p>• **선박 보안 체계 강화 필요**: 엔진실 화재/폭발의 외부 공격 여부 판단은 정교한 법의학적 조사를 요구하며, 고위험 해역 통항 선박의 보안 모니터링 및 실시간 경보 시스템 고도화가 요구됨</p><p>• **해운 산업의 지역 위험 재평가**: 한국 선사들의 26척 선박이 해협 내 정체되어 있는 상황은 호르무즈 해협 통항 위험 등급 상향 조정 및 보험료 인상, 선적 경로 우회 검토 등 글로벌 공급망에 미치는 광범위한 영향을 야기</p><p>• **IMO 안전규칙 적용의 한계**: 국제해사기구(IMO) SOLAS 규칙상 엔진실 화재 방지 기준이 존재하나, 외부 공격(missile/mine 위협)에 대한 대응은 국제 해양법의 미흡한 부분으로, 전쟁지역 해운 보호 강화의 필요성을 부각</p></div>`,
+      tags: ["Fire","Explosion","HMM Namu","Strait of Hormuz","Engine Room","Potential Attack"],
+      link: "https://www.marinelink.com/news/fire-breaks-hmm-vessel-strait-hormuz-538758",
+      coords: [56.5,26.5],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "Royal Navy Plans Hybrid Fleet with Autonomous and Uncrewed Vessels for High North Operations",
+      source: "USNI News",
+      sourceMeta: "usni.org · 2026-05-04",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 영국 해군(Royal Navy)이 북극 고지(High North)와 북대서양에서 러시아와의 경쟁에 대응하기 위해 자율선박 및 무인선박을 포함한 하이브리드 함대 운영 계획 발표<br>• 제1해군경(First Sea Lord) Gen. Gywn Jenkins가 런던 소재 Royal United Services Institute에서 Hybrid Navy 변환 계획을 연설로 공개<br>• 이 전략은 영국의 지정학적 위치와 전략 방위 검토(Strategic Defense Review) 우선순위를 반영<br>• 자율 및 무인 장비의 도입을 통해 기존 함대의 작전 능력 및 효율성 향상 목표<br>• 고위도 극지역 작전 환경에서의 장시간 순찰 및 모니터링 역량 강화 예상</p><h3>Key Quotes</h3><p>• "This is where our [Hybrid Navy will be geared towards the North Atlantic and High North]" <br>  (우리의 하이브리드 해군이 북대서양과 북극 고지역을 중심으로 운영될 것)</p><h3>Technical Insights</h3><p>• **자율선박 운용의 전략적 의의**: 극지역의 악조건 해역에서 무인 시스템의 지속적인 작전 가능성을 통해 인력 손실 위험 감소 및 장시간 감시 능력 확보 가능<br>• **해양 지배 전략의 진화**: 하이브리드 함대 개념은 유인선과 무인선의 협력을 기반으로 하며, 이는 미래 해전 전술 패러다임의 전환을 의미<br>• **IMO/COLREG 규제 환경**: 북대서양과 같은 국제 해역에서 자율선박 운용 시 국제해사기구(IMO) 자율선박 지침 및 해상충돌방지규칙(COLREG) 준수 필수화<br>• **산업적 영향**: 주요 해군의 자율선박 도입 선언은 민간 해운업과 조선산업의 기술 개발 투자 가속화를 유도할 것으로 예상</p></div>`,
+      tags: ["autonomous vessels","Royal Navy","hybrid fleet","High North","Russia","naval strategy"],
+      link: "https://news.usni.org/2026/05/04/royal-navy-to-use-hybrid-fleet-to-keep-pace-with-russia-in-high-north",
+      coords: [51.5074,-0.1278],
+      location: "London, United Kingdom"
+    }
+  ]
+});
