@@ -5660,3 +5660,77 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-05
+addEvents({
+  "2026-05-05": [
+    {
+      type: "news",
+      title: "Oil Prices Fall 3% As Ship Passes Through Hormuz, US-Iran Ceasefire Holds",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-05",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stocklalaka-170346.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 호르무즈 해협을 통한 첫 상선 통과로 유가 3% 하락 - 브렌트유 배럴당 $111.01, WTI $101.87로 기술적 조정<br>• 미국의 '프로젝트 프리덤'(Project Freedom) 해군 호위작전으로 상선 통과 가능 - 마에스크 소속 얼라이언스 페어팩스호 성공 통과<br>• 미-이란 휴전 유지 상태이나 이란의 미사일·드론 공격 재개로 불안정성 지속 - 아랍에미리트 방공망 작동<br>• 호르무즈 해협은 글로벌 일일 석유·가스 수급의 약 20%를 차지하는 전략적 요충지<br>• 한국도 해협 통과 지원 계획 검토 중 - 한국 운영 선박의 폭발·화재 사건으로 참여 여부 재검토</p><h3>Key Quotes</h3><p>• "It shows that limited safe passage is possible under current conditions and helps chip away at some of the worst-case supply disruption fears" (현재 조건에서 제한적 안전 통과가 가능함을 보여주며, 최악의 공급 차질 우려를 완화시킬 수 있음)</p><p>• "However, it's still very much a one-off event rather than a full reopening" (그러나 이는 여전히 완전한 재개보다는 일회성 사건에 불과함)</p><h3>Technical Insights</h3><p>• **해협 통제와 해운업 영향**: 호르무즈 해협은 글로벌 석유·LNG 공급의 20% 담당 - 일시적 통과 재개도 유가 변동성 완화에 영향<br>• **군사 호위와 상용 선박 운영**: 미군 호위 하에 상선 통과 가능성 확인되었으나, 지속 가능성과 해운사의 위험 평가 필요 - 보험료 및 운항비용 상승 예상<br>• **지정학적 리스크 관리**: 국제 해운사들의 호르무즈 해협 우회항로 재평가 필요 - 아프리카 케이프 루트 등 대체 항로 선택 비용 vs. 직항 리스크 분석<br>• **해상 안보와 UNCLOS**: 국제 공해상 강제 호위 체계의 선례 제시 - IMO와 국제해사기구의 통항의 자유 원칙과의 충돌 가능성</p></div>`,
+      tags: ["Strait of Hormuz","Oil Market","US-Iran Tensions","Commercial Shipping","Geopolitical Risk"],
+      link: "https://www.marinelink.com/news/oil-prices-fall-ship-passes-hormuz-usiran-538814",
+      coords: [56.2417,26.1225],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "accident",
+      title: "UAE Under Attack from Iranian Missiles and Drones; Strait of Hormuz Tensions Escalate",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-05",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockkareemovic-170344.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **이란의 미사일·드론 공격**: 2026년 5월 5일 UAE가 이란으로부터 미사일과 드론 공격을 받았으며, 이는 호르무즈 해협의 긴장 고조를 의미<br>• **상황 배경**: 2월 28일 미국-이스라엘의 이란 공격 이후 4주간의 휴전 상태가 지속되고 있으나 양측 간 충돌이 반복되는 상황<br>• **해상 운송 차단**: 이란의 기뢰 배치 위협과 미사일·드론 운용으로 호르무즈 해협 폐쇄 상태가 지속 중으로, 전 세계 석유 및 비료 공급의 대부분이 영향 받음<br>• **미국의 대응**: 트럼프 대통령의 "Project Freedom"에 따라 해군이 상선 호송을 시작했으며, 이미 수백 척의 선박이 통항 대기 중<br>• **경제적 영향**: 해협 폐쇄로 인한 상품가 상승 및 국제 해상 운송 혼란이 지속 중<br>• **분쟁 당사자**: 미국(호송작전), UAE(피격국), 이란(공격국), Maersk 등 해운사 영향</p><h3>Key Quotes</h3><p>• "We're not looking for a fight. Right now the ceasefire certainly holds, but we're going to be watching very, very closely." (우리는 싸움을 원하지 않으며, 휴전은 유지되고 있으나 매우 긴밀히 감시할 것)<br>  <br>• "We know well that the continuation of the current situation is unbearable for the United States, while we have not even begun yet." (현재 상황이 미국에는 견디기 어렵지만, 우리는 아직 시작하지도 않았다는 의미의 이란 의회 의장 발언 - 추가 공격의 위협)</p><p>• The narrow strait has been virtually shut since the United States and Israel began attacks on Iran on February 28. (2월 28일 미국-이스라엘 공격 이후 해협이 사실상 폐쇄됨을 의미하며, 전 세계 해상 운송에 심각한 영향)</p><h3>Technical Insights</h3><p>• **호르무즈 해협의 전략적 중요성**: 전 세계 석유 및 비료 공급의 대부분이 통과하는 해협으로, 폐쇄 시 국제 상품 가격과 해운 산업에 직접적인 영향 발생</p><p>• **해상 안보 위협 요소**: 이란의 기뢰, 드론, 미사일, 고속 공격정 등 다층적 위협으로 자율항행 선박이나 원격 조종 기술의 도입이 향후 해상 운송 안전성 향상에 필수적</p><p>• **상선 호송 체계의 한계**: 미국 해군의 직접 호송에도 불구하고 양측 충돌이 반복되며, 이는 AI 기반 충돌회피 및 자동화 네비게이션 기술 도입의 필요성을 강조</p><p>• **IMO 규정의 실효성 문제**: 분쟁 지역 통항 선박의 안전 보장이 국가 간 군사 충돌에 의해 좌우되는 상황으로, 국제 해사법과 중립성 원칙의 강화가 과제</p></div>`,
+      tags: ["Iran-UAE Conflict","Strait of Hormuz","Missile Attack","Commercial Shipping Disruption","Geopolitical Incident"],
+      link: "https://www.marinelink.com/news/us-claims-iran-ceasefire-uae-attack-538810",
+      coords: [56.5,25.2],
+      location: "Strait of Hormuz / Persian Gulf"
+    },
+    {
+      type: "news",
+      title: "MARTAC T38 USV Completes Record 8-Day Autonomous Mission Off California",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-05",
+      image: "https://images.marinelink.com/images/maritime/w800/martac-170340.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• MARTAC의 T38 Devil Ray 무인수상선이 캘리포니아 해안에서 8일간의 완전 자율 미션을 성공적으로 완료하여 같은 등급의 함정에서 이전에 달성하지 못한 지구력과 신뢰성을 입증함</p><p>• 미해군 항공전투센터 무기부(NAWCWD) Point Mugu Sea Range의 Future Capabilities Office가 운영하는 T38 USV가 개방해역에서의 장시간 자율운항을 성공적으로 시연</p><p>• 선박은 4노트의 저속 운항으로 장시간 체류능력을 강조하면서도 필요시 50노트 이상의 고속운항이 가능함을 입증</p><p>• 선박은 국제해상충돌방지규칙(COLREG) 1972를 준수하면서 자동으로 정적 및 동적 접촉물을 회피하며 항해</p><p>• 의도적인 단일엔진 운항(400해리 해상) 및 Sea State 5(파고 10피트)까지의 악해 조건에서도 안정적인 운항과 임무 수행을 입증</p><p>• 쌍동선 설계의 안정성 우위가 센서 데이터 수집, 정밀한 위치유지, 목표물 지원 등 다양한 임무 효율성 향상에 직결됨</p><h3>Key Quotes</h3><p>• "The T38 safely navigated around multiple static and mobile contacts during the underway period, further demonstrating that its autonomy stack is compliant with the International Regulations for Preventing Collisions at Sea 1972 (COLREG)." <br>(T38이 항해 중 정적 및 동적 다양한 접촉물을 안전하게 회피하며 국제해상충돌방지규칙을 준수함을 시연)</p><p>• "A defining element of the mission was a deliberate two-day alternating single-engine operational period conducted approximately 400 nautical miles offshore... reinforcing the platform's efficiency, control logic and mission flexibility."<br>(400해리 해상에서의 의도적 단일엔진 운항이 플랫폼의 효율성, 제어 로직, 임무 유연성을 강화함)</p><p>• "The mission emphasized persistence over speed, with the vessel averaging just over 4 knots per hour, validating its role as a long-endurance, forward-deployed asset capable of sustained presence rather than short-duration sprint operations."<br>(장시간 체류 및 지속적 전개가 가능한 장시간 지구력 자산으로서의 역할을 입증)</p><h3>Technical Insights</h3><p>• **COLREG 준수 자율운항**: T38 USV의 자율성 스택이 국제해상충돌방지규칙 1972를 완벽히 준수하며 자동회피를 수행하는 것은 완전 자율운항 시대의 도래를 시사하는 중요한 이정표</p><p>• **장시간 지구력 운영의 산업적 의의**: 8일간의 연속 자율 미션 완료는 해군의 감시, 정찰, 시험평가(T&E) 임무에서 고정식 장비를 대체할 수 있는 새로운 플랫폼으로서의 가능성을 제시</p><p>• **악해 환경에서의 안정성**: Sea State 5까지의 거친 해상에서도 쌍동선 설계를 통한 안정성을 유지하며 고품질 센서 데이터 수집이 가능함은 무인 해양 플랫폼의 실용성을 입증</p><p>• **추진 효율성과 운영 유연성**: 저속 운항(4노트)에서의 장거리 체류와 필요시 50노트 이상의 고속운항 가능성은 다양한 미션 프로필 대응의 운영적 효율성을 강조하며, 에너지 효율적인 무인함정의 설계 방향을 제시</p></div>`,
+      tags: ["Autonomous Surface Vessel","USV","COLREG Compliance","Navy Testing","Unmanned Maritime"],
+      link: "https://www.marinelink.com/news/martac-t-usv-completes-day-autonomous-538804",
+      coords: [-120.2,34.7],
+      location: "California Coast, USA"
+    },
+    {
+      type: "news",
+      title: "ASELSAN Unveils Autonomous Unmanned Naval Systems at SAHA 2026",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-05-05",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/05/ASELSAN_SAHA_2026_Day_1_TUFAN-KILIC_1-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• ASELSAN은 터키 이스탄불에서 개최되는 SAHA 2026 전시회에서 차세대 무인 해상 솔루션을 공개하여 분산형, 네트워크 중심의 해양 작전으로의 패러다임 전환을 주도함</p><p>• KILIÇ 10(100WH) 및 KILIÇ 200(200WH) 자율 수중 무인 시스템은 비대칭 전쟁과 은폐 작전 시나리오에 최적화된 경량 플랫폼으로, 단일 사용자 운영 가능</p><p>• 열화상/적외선 카메라, 수중 저조명 영상, 음성 통신 등 다층 감지 및 통신 기능을 통합하여 저시정 환경에서 해상 목표 탐지 및 추적 가능</p><p>• RF 및 선택적 유선 제어 모드, 자율 및 군집 작전 능력으로 다양한 교전 옵션 제공하며, 낮은 음향/시각 특성으로 생존성 확보</p><p>• KILIÇ 200은 확장된 작전 범위와 탑재량으로 해저 인프라, 항만 시설, 해상 에너지 자산 등 광범위한 목표 교전 가능</p><p>• 광범위한 무인 에코시스템의 일부로 기능하며 무인 표면 플랫폼과의 호환성으로 네트워크 중심 해양 작전 체계 구현</p><h3>Key Quotes</h3><p>• "Unmanned systems are emerging as a defining element of naval power... scalable, cost-effective capabilities that can extend reach, reduce risk to personnel and operate effectively in contested environments"<br>(무인 시스템은 해군력의 핵심 요소로 부상하고 있으며, 확장성과 비용 효율성을 갖춘 능력으로 작전 범위를 확대하고 인원 위험을 감소시키며 분쟁 환경에서 효과적으로 작동)</p><p>• "KILIÇ 10 provides operators with multiple engagement options. Its low acoustic and visual signature enhance survivability, while its integrated warhead enables high-precision neutralization of surface and subsurface targets"<br>(KILIÇ 10은 운용자에게 다양한 교전 옵션을 제공하며, 낮은 음향 및 시각 특성으로 생존성을 강화하고 통합 탄두로 수상 및 수중 목표의 고정밀 무력화 가능)</p><h3>Technical Insights</h3><p>• 자율 해양 무인 시스템의 발전은 IMO의 해양 자율 표면선박(MASS) 규정과 국제해사법 체계 내에서 규제 프레임워크 정립의 시급성을 강조하며, 특히 군사용 자율 시스템의 국제 행동 강령 수립 필요</p><p>• KILIÇ 시리즈의 다중 제어 모드(자율/유선/군집 작전)는 차세대 해양 작전의 핵심인 Human-in-the-Loop(HIL) 및 Human-on-the-Loop(HOL) 개념의 실제 구현을 보여주며, 기존 COLREG 체계와의 충돌 가능성 존재</p><p>• 분산형 네트워크 중심 작전(DCO) 환경에서의 자율 무인 플랫폼 통합은 실시간 데이터 융합, 다중 센서 통신 프로토콜 표준화, 사이버 보안 강화의 3대 기술적 과제를 야기</p><p>• 수중 음성 통신 및 저시정 환경에서의 자율 네비게이션 기술은 해양 로봇공학의 경계선박 감시(Border/Coastal Surveillance) 및 해양 인프라 보호 영역으로의 확산을 가속화할 것으로 예상</p></div>`,
+      tags: ["autonomous systems","unmanned naval platforms","ASELSAN","maritime technology","SAHA 2026"],
+      link: "https://www.navalnews.com/naval-news/2026/05/aselsan-at-saha-2026-building-a-global-benchmark-in-unmanned-naval-warfare/",
+      coords: [28.9784,41.0082],
+      location: "Istanbul, Turkey"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-09
+addEvents({
+  "2026-06-09": [
+    {
+      type: "event",
+      title: "Henriksen Launches New Slipway LARS System for USVs at Seawork 2026",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-05",
+      image: "https://images.marinelink.com/images/maritime/w800/henriksen-170339.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Henriksen AS(노르웨이)가 소형 보트 및 무인수상선박(USV) 자동 발사 및 회수 시스템(HSS) 신제품 개발 완료<br>• 모함의 선미 램프에서 자동 발사/회수 가능하며 RIB 탑승 후 2분 이내에 항해 개시 가능<br>• 경찰/군사 임무 신속 대응, 기뢰제거 작전용 무인드론 신속 배포에 활용 가능<br>• Seawork 2026(6월 9-11일, Southampton, F34 부스)에서 최초 공개 예정<br>• 노르웨이 Tønsberg 신규 공장에서 제조 중이며 윈치, 댐퍼 캐비닛 등 최신 기술 통합</p><h3>Key Quotes</h3><br>• "The new system enables the automated launch and recovery of craft from the stern ramp of a mother vessel" (모함의 선미 램프에서 선박의 자동 발사 및 회수가 가능하다)<br>• "A police or military crew to board a RIB and be under way on the water in less than two minutes" (경찰 또는 군사 승무원이 RIB에 탑승하여 2분 이내에 항해 개시 가능)</p><h3>Technical Insights</h3><br>• 자동 발사 회수 시스템(LARS)의 자동화 수준 향상으로 무인 해양 운영 효율성 극대화<br>• 고정밀 자동 클로우 훅 및 라인 포획 기술로 USV 및 RIB의 신속하고 안전한 운용 실현<br>• 경찰/군사/민간 해양 작업의 신속 대응 능력 강화로 해상 보안 및 구조 작전의 실질적 개선<br>• LARS 자동화 기술이 자율운항선박 및 해양 드론 생태계 확대에 기여하는 핵심 인프라 역할</p></div>`,
+      tags: ["LARS","USV","Autonomous Systems","Seawork Exhibition"],
+      link: "https://www.marinelink.com/news/henriksen-launches-new-slipway-lars-538806",
+      coords: [0,0],
+      location: "Southampton"
+    }
+  ]
+});
