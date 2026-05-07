@@ -5796,3 +5796,40 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-06
+addEvents({
+  "2026-05-06": [
+    {
+      type: "news",
+      title: "STM Unveils YAKTU Swarm Kamikaze Unmanned Surface Vehicle at SAHA 2026",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-05-06",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/05/YAKTU_3.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• STM(터키 방위 기술 회사)이 SAHA 2026 전시회에서 차세대 카미카제 무인 수상함(YAKTU KUSV) 공개 - 해양 방위 기술의 새로운 시대 진입</p><p>• YAKTU는 50노트 이상의 고속 성능, 5.8m의 저프로필 설계, 200해리 이상의 작전 범위를 갖춘 정밀 타격 플랫폼</p><p>• AI 기반 자율 아키텍처와 군집 기능으로 다중 장치의 실시간 협력 작전 가능 - 방어 시스템 무력화를 위한 전략적 비용 효율 솔루션</p><p>• LOS(직선 통신)와 SATCOM을 통한 네트워크 중심 전쟁 능력 - 분쟁 환경에서도 작전 우위 유지</p><p>• STM 대표 Özgür Güleryüz는 "전술적 강화물이자 AI 기반 자율 아키텍처와 군집 기능으로 구동되는 전략적 능력 증강 플랫폼"이라 표현</p><h3>Key Quotes</h3><p>• "This is more than a high-speed strike platform; it is a strategic force multiplier powered by AI-enabled autonomous architecture and swarm capabilities." <br>(고속 타격 플랫폼을 넘어 AI 기반 자율 아키텍처와 군집 기능으로 구동되는 전략적 능력 증강 수단)</p><p>• "By enabling coordinated multi-unit operations, the YAKTU can overwhelm defense systems through multi-vector engagements, offering a cost-effective, high-precision solution for penetrating modern defense layers."<br>(다중 장치 협력 작전을 통해 YAKTU는 다각도 접근으로 방어 체계를 압도할 수 있으며, 현대식 방어층 침투를 위한 비용 효율적이고 정밀한 솔루션 제공)</p><h3>Technical Insights</h3><p>• **군집 무인 시스템의 실전 배치**: YAKTU의 무인 수상함 군집 기술은 자율 협력, 실시간 데이터 공유, 임무 자동 할당을 통해 종래의 단일 플랫폼 운영 체계를 혁신 - IMO의 MASS(Maritime Autonomous Surface Ships) 규제 체계와는 별개의 군사용 자율시스템 발전 추세</p><p>• **네트워크 중심 전술의 해상 확대**: LOS와 SATCOM 이중 통신 체계를 통한 contested environment(분쟁 환경)에서의 운영 능력 - 차세대 해상 전투 패러다임이 분산형 자율 에이전트 중심으로 전환되는 현상 반영</p><p>• **방위산업 기술 고도화와 수출 전략**: 터키의 STM이 indigenous(자체 개발) 하드웨어·소프트웨어 아키텍처로 고성능 자율 무기체계 개발 - 글로벌 방위 시장에서 비용 효율적 자율시스템 공급자로서의 입지 강화</p><p>• **상용 자율선박과의 기술 차별화**: 카미카제 USV는 해양 자율화 기술의 극단적 군사 응용 - 상용 MASS의 안전 규제와 대조적으로 고속, 저탐지성, 완전 자율 결정 능력에 최적화된 이질적 기술 생태계 형성</p></div>`,
+      tags: ["Autonomous Systems","Unmanned Surface Vehicle","Naval Defense","Swarm Technology","Turkish Defense"],
+      link: "https://www.navalnews.com/naval-news/2026/05/stm-unveils-yaktu-swarm-kamikaze-unmanned-surface-vehicle/",
+      coords: [32.8597,39.9334],
+      location: "Ankara, Turkey"
+    }
+  ]
+});
+
+// Auto-collected: 2026-05-05
+addEvents({
+  "2026-05-05": [
+    {
+      type: "news",
+      title: "U.S. Navy Tests AI-Powered Drones for Narco Boat Tracking in FLEX Exercise",
+      source: "USNI News",
+      sourceMeta: "usni.org · 2026-05-05",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 미 4함대와 해군 남방사령부가 드론과 AI를 활용한 마약선박 추적 및 대테러 작전 테스트 실시<br>• 2026년 해군 함대 실험(FLEX) 훈련 일환으로 4월 24-30일 플로리다 키웨스트 해역에서 수행<br>• 제한된 전통 해군 자산으로 광대한 해양 지역 순찰을 위해 로봇 및 자율 시스템(RAS) 운영 전략의 핵심<br>• 초국가적 조직 범죄 대응을 위한 고급 자동화 기술 도입<br>• 드론 기반 감시 체계의 해양 법집행 및 국방 분야 활용 확대</p><h3>Key Quotes</h3><br>• "FLEX is a cornerstone of the commands' strategy to field advanced robotic and autonomous systems (RAS) to address the challenge of patrolling vast maritime regions with a limited number of traditional naval assets" (FLEX 훈련은 제한된 전통 해군 자산으로 광대한 해양 지역 순찰 과제를 해결하기 위해 고급 로봇 및 자율 시스템을 배치하는 전략의 핵심이다)</p><h3>Technical Insights</h3><br>• AI 기반 드론 시스템의 자동 추적 및 목표 식별 기술이 광역 해양 감시에 획기적 전환점 제공<br>• 제한된 해군 자산으로 광대한 해역 커버리지를 확대하는 자율시스템의 운영 효율성 입증<br>• 마약 밀수, 불법 어업, 인신매매 등 초국가적 해양 범죄 대응 역량 강화를 위한 AI-드론 통합 솔루션의 실전 검증<br>• 해양 자율 시스템의 전술적 운영 확대가 IMO 규정 및 국제 해상법 준수 체계와의 조화 필요성 제기</p></div>`,
+      tags: ["AI Navigation","Autonomous Systems","Maritime Security","Drone Technology"],
+      link: "https://news.usni.org/2026/05/05/u-s-tests-using-drones-to-track-target-suspected-narco-boats",
+      coords: [-81.8083,24.5551],
+      location: "Key West, Florida"
+    }
+  ]
+});
