@@ -5734,3 +5734,65 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-06
+addEvents({
+  "2026-05-06": [
+    {
+      type: "accident",
+      title: "U.S. Navy F/A-18 Disables Iranian Tanker M/T Hasna in Gulf of Oman During Blockade Enforcement",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-05-06",
+      image: "https://gcaptain.com/wp-content/uploads/2026/05/fighter-jet-hormuz.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 미국 중부사령부(CENTCOM)가 이란 국적 유조선 M/T Hasna호의 운항을 무력화함 - 미국의 이란 항구 봉쇄에 위반하는 것으로 판단<br>• F/A-18 슈퍼 호넷 전투기(USS Abraham Lincoln 항공모함 탑재)가 20mm 기관포로 선박의 방향타를 파괴<br>• 4월 M/V Touska호에 대한 유사 사건에 이어 두 번째 무력화 조치 - 미국의 이란 해상 봉쇄 집행 강화 추세 반영<br>• 사건 발생 당시 트럼프 대통령이 "프로젝트 프리덤" 해상 작전을 일시 중단 선언했으나, 이란 항구 봉쇄는 계속 유지<br>• 호르무즈 해협 및 오만만 지역의 해상 안보 위험 심화 - 상선들의 통항 자유 제약 심각</p><h3>Key Quotes</h3><br>• "After the crew failed to comply, a U.S. Navy F/A-18 Super Hornet launched from USS Abraham Lincoln (CVN 72) fired several 20mm cannon rounds to disable the tanker's rudder." (승선원들이 경고에 불응하자 미 해군 F/A-18 전투기가 20mm 기관포를 발사하여 선박의 방향타를 무력화함)</p><p>• "CENTCOM announced in April would apply to vessels of all nations entering or departing Iranian ports while not impeding ships bound for non-Iranian ports through the Strait of Hormuz." (모든 국적의 선박이 이란 항구 진출입 시 봉쇄 대상이 되나, 호르무즈 해협을 통해 비이란 항구로 향하는 선박은 제외)</p><h3>Technical Insights</h3><br>• 국제해상법(UNCLOS)상 공해 통항의 자유와 군사적 봉쇄 조치 간의 법적 충돌 - 상선의 운항 자유와 국가 안보 이익의 긴장 관계<br>• 호르무즈 해협 지역 해상 안보 위기 고조로 인한 자동항해/AI 기반 원격 운영 선박 필요성 증대 - 승선원 안전 위협 증가<br>• 상선의 무장화 또는 호위선 동승 운영 논의 가능성 - 국제 해운업계의 경영 비용 및 운영 리스크 급증<br>• IMO 및 국제해사기구의 조정 역할 필요 - 호르무즈 해협 통항 안전 프로토콜 재정의 시급</p></div>`,
+      tags: ["Iranian Tanker","Gulf of Oman","U.S. Navy","Blockade Enforcement","Strait of Hormuz","Military Action"],
+      link: "https://gcaptain.com/u-s-navy-jet-fires-upon-disables-iranian-tanker-accused-of-violating-washingtons-blockade/",
+      coords: [58.5,23.6],
+      location: "Gulf of Oman"
+    },
+    {
+      type: "news",
+      title: "MSC 111 Expected to Adopt MASS Code for Autonomous Ships",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-06",
+      image: "https://images.marinelink.com/images/maritime/w800/source-170398.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• IMO 해사안전위원회(MSC) 111차 회의(2026년 5월 13-22일)에서 자율운항선박(MASS) 안전규칙(MASS Code) 채택 예정<br>• MASS Code는 SOLAS 등 기존 IMO 규칙을 보완하는 목표기반 규정으로, 원격조종 및 완전자율운항 선박의 안전성 확보를 위해 설계<br>• 조사 및 인증, 위험평가, 시스템 설계, 소프트웨어 원칙, 안전운영 관리, 항해안전, 통신, 원격운영, 구조/복원력, 화재안전, 보안, 선적 등 19개 주요 항목 포함<br>• 규제 프레임워크는 자율운항선박 운영 시 요구되는 안전 수준 유지를 핵심 목표로 설정<br>• 작업그룹 구성을 통해 비강제성 MASS Code의 최종 완성 진행 예정</p><h3>Key Quotes</h3><p>• "The MASS Code aims to address the functions needed for safe, secure, and environmentally sound operations of MASS insofar as they are not adequately or fully addressed in other applied IMO instruments" (MASS Code는 기존 IMO 규정에서 충분히 다루지 않은 자율운항선박의 안전하고 안정적이며 환경친화적 운영에 필요한 기능을 규정함을 목표)</p><p>• "The MASS Code is intended as supplementary to other IMO instruments, including SOLAS, and provides a regulatory framework for remotely controlled and autonomous ship operations" (MASS Code는 SOLAS 등 기존 규정을 보완하는 것으로, 원격조종 및 자율운항 선박 운영을 위한 규제 프레임워크 제공)</p><h3>Technical Insights</h3><p>• **규제 표준화**: MASS Code 채택을 통해 자율운항선박의 국제적 운영 기준이 통일되므로, 조선업계의 설계·건조 표준화 및 기술 혁신 가속화 기대</p><p>• **소프트웨어 기반 안전관리**: 시스템 설계, 소프트웨어 원칙, 알림 관리 등이 핵심 규제 대상으로 포함되어, AI·머신러닝 기반 자율운항 시스템의 신뢰성 검증 체계 강화 필요</p><p>• **원격운영 및 통신 인프라**: 원격조종 운항 시 통신 보안 및 신뢰성 요구사항이 규정되므로, 위성통신·5G 등 해상 디지털 인프라 투자 확대 전망</p><p>• **산업 수용성 확대**: 비강제성(non-mandatory) 규칙으로 채택되어 선사 및 조선소의 자발적 도입을 유도하며, 향후 강제규범으로 전환될 가능성을 고려한 기술 준비 시급</p></div>`,
+      tags: ["MASS Code","Autonomous Ships","IMO Regulation","Maritime Safety"],
+      link: "https://www.marinelink.com/news/msc-expected-adopt-mass-code-538893",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
+
+// Auto-collected: 2025-01-25
+addEvents({
+  "2025-01-25": [
+    {
+      type: "accident",
+      title: "Catastrophic Engine Failure and Fire on Site Investigation Vessel Kommandor Susan",
+      source: "MAIB (Marine Accident Investigation Branch)",
+      sourceMeta: "gov.uk · 2026-05-06",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 2025년 1월 25일 스코틀랜드 포스만에서 해상 조사선 Kommandor Susan의 디젤 발전기 엔진이 치명적으로 파괴되어 엔진실 화재 및 완전 정전 발생<br>• **직접 원인**: 2019년 대규모 정비 당시 순정품이 아닌 부품 사용 및 확대된 정비 간격 승인으로 인한 엔진 결함<br>• **사고 경위**: 화재 진압은 성공했으나 모든 전력 손실로 추진력 상실 및 동쪽으로 표류, 앵커 투하 실패(전력 필요)<br>• **선원 대응**: 승무원의 신속한 대응으로 화재 진압 및 안전한 집결 달성, 제한된 추진력으로 라이스 항구 복귀<br>• **조사 결과**: 선박 소유자의 정비 감시 부족 및 계약업체 감시 체계 미흡이 근본 원인으로 지적<br>• **권고사항**: 비공식 권고로 중요 정비 활동에 대한 구조화된 감시 체계 및 명확한 책임 체계 구축 강조</p><h3>Key Quotes</h3><p>• "The crew responded promptly, extinguishing the fire and mustering safely." (승무원들이 신속하게 대응하여 화재를 진압하고 안전하게 집결했다)<br>• "Kommandor Susan was eventually returned to Leith harbour with limited propulsion restored." (최종적으로 제한된 추진력을 복구하여 라이스 항구로 귀환했다)<br>• "a shortfall in oversight and contractor assurance by the vessel owner during overhaul, which allowed the non-genuine components to be installed" (정비 중 선박 소유자의 감시 부족과 계약업체 확인 미흡으로 비순정품 부품 설치를 허용함)</p><h3>Technical Insights</h3><p>• **부품 추적 및 감시의 중요성**: 선박 정비 과정에서 순정품/비순정품 구분 철저화 및 공급망 관리 강화 필요성 증대<br>• **전력 의존성 위험**: 현대 선박의 앵커, 추진 장치 등 주요 시스템이 전기 의존도가 높아 계전기/발전기 중복화 설계 필수<br>• **정비 간격 정책의 위험성**: 제조사 권장 정비 간격은 순정품 사용을 가정하므로, 비순정품 사용 시 간격 조정 의무화 필요<br>• **선주/계약업체 감시 체계**: IMO 규정(SOLAS, MARPOL)과 ISM Code에 따른 정기적 감시 감사 강화 및 독립적 검증 메커니즘 도입</p></div>`,
+      tags: ["engine failure","fire","power loss","diesel generator","investigation report"],
+      link: "https://www.gov.uk/maib-reports/catastrophic-engine-failure-and-subsequent-fire-on-board-the-site-investigation-vessel-kommandor-susan",
+      coords: [-3.1883,56.0196],
+      location: "Firth of Forth, Scotland"
+    },
+    {
+      type: "accident",
+      title: "Catastrophic Engine Failure on Kommandor Susan Due to Non-Genuine Parts",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-06",
+      image: "https://images.marinelink.com/images/maritime/w800/grispb-adobe-170399.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **사건 개요**: 영국 스코틀랜드 포스만(Firth of Forth)에서 해상 시험 중인 조사선 Kommandor Susan의 디젤 발전기 엔진이 2025년 1월 25일 파국적으로 고장나 엔진실 화재 및 완전 정전 발생</p><p>• **직접 원인**: 2019년 주요 정비 중 비정품 엔진 부품 설치 - 소유사의 부실한 감시로 인한 용역업체 점검 미흡</p><p>• **사건 전개**: 승무원의 신속한 대응으로 화재 진화 및 안전한 승선원 집결 성공, 추진력 상실로 동쪽으로 표류하다 제한된 추진력으로 Leith 항구 복귀</p><p>• **안전 결함**: 정품 부품 사용 가정하에 정한 연장된 정비 주기 운영, 정비 과정에서의 주인 감독 부족</p><p>• **후속 조치**: 정식 권고사항 없음, 그러나 해양사고 수석조사관이 전 소유사(Hays Ships Limited)에 명확한 책임 및 모든 중요 정비 활동 모니터링 체계 구축 필요성 지적</p><p>---</p><h3>Key Quotes</h3><p>• "The vessel suffered a catastrophic failure of a diesel generator engine while conducting sea trials in the Firth of Forth, Scotland. The failure resulted in an engine room fire and a complete power blackout." (포스만에서 해상 시험 중 디젤 발전기의 파국적 고장으로 엔진실 화재 및 완전 정전 발생)</p><p>• "A shortfall in oversight and contractor assurance by the vessel owner during overhaul, which allowed the non-genuine components to be installed." (정비 중 선주의 감시 미흡과 용역업체 검증 부족으로 비정품 부품 설치 허용)</p><p>---</p><h3>Technical Insights</h3><p>• **부품 신뢰성 관리**: 선박 엔진 주요 부품의 비정품 사용은 제조사 설계 사양 이탈로 예측 불가능한 고장 초래 - 정비 계약서에 정품 사용 명시 및 검수 강화 필수</p><p>• **유지보수 주기 설정 오류**: 정품 부품 기준으로 수립된 연장 정비 주기를 비정품 적용 시에도 그대로 운영하면 내구성 저하 및 조기 고장 위험 증가</p><p>• **운영사의 감독 책임**: IMO SOLAS 규정상 선주의 안전관리 책임(ISM Code)에 따라 모든 중요 정비 활동에 대한 감시·기록·검증 체계 구축 필수 - 특히 용역업체 작업 검수 강화</p><p>• **전원 계통 이중화**: 완전 정전 시 앵커 권양기 미작동으로 표류 위험 증가 - 중요 시스템(추진력, 앵커링 등)에 백업 전원 또는 독립 전원 공급 체계 고려</p></div>`,
+      tags: ["Engine Failure","Fire","Non-Genuine Parts","MAIB Investigation"],
+      link: "https://www.marinelink.com/news/nongenuine-parts-implicated-engine-538894",
+      coords: [-3.1857,56],
+      location: "Firth of Forth, Scotland"
+    }
+  ]
+});
