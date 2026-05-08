@@ -5913,3 +5913,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-08
+addEvents({
+  "2026-05-08": [
+    {
+      type: "news",
+      title: "ABS, HD Hyundai & Anduril Industries Partner to Advance Autonomous Surface Vessels",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-05-08",
+      image: "https://maritime-executive.com/media/images/article/0b569a95bdd744bdb692a5558b736b2f.f9dfd7.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• ABS, HD Hyundai, Anduril Industries이 자율운항선박(ASV) 개발을 위한 양해각서(MOU)를 체결하여 선박설계, 생산, 자율항법, 분류 등 전 분야를 아우르는 통합 솔루션 개발을 추진 중</p><p>• HD Hyundai의 조선 기술력, Anduril의 자율시스템 및 AI 기술, ABS의 선급/인증 전문성을 결합하여 산업 표준화 추구</p><p>• 자율운항선박 시장이 향후 해운산업과 해군 시장의 핵심 성장 영역으로 평가되며, 안전하고 확장 가능한 상용화 모델 개발 목표</p><p>• ABS는 자율운항 및 원격조종 기술에 대한 기술기준(Requirements for Autonomous and Remote Control Functions) 제공</p><p>• 이번 협력은 규제 프레임워크 정립과 국제 표준화 선도를 통해 글로벌 무인선박 시장 확보 전략</p><h3>Key Quotes</h3><p>• "Autonomy is set to play a defining role in the future of the maritime industry, and this collaboration reflects the importance of bringing together complementary capabilities to help advance that progress." (자율운항 기술이 미래 해운산업의 핵심 역할을 할 것이며, 각 기관의 보완적 역량을 결합하는 것이 중요함을 시사)</p><p>• "The unmanned vessel sector is a defining theme in the future global naval market and an area in which we must take the lead." (무인선박 부문이 향후 글로벌 해군 시장의 결정적 주제이며 리더십 확보 필요성 강조)</p><h3>Technical Insights</h3><p>• **COLREG 및 자율운항 규제 표준화**: ABS의 자율운항 및 원격조종 기술 기준(Requirements) 제시로 IMO 국제해상충돌방지규칙(COLREG) 준수 및 분류기준 통일화 추진</p><p>• **AI/머신러닝 기반 의사결정 시스템**: Anduril의 자율시스템과 AI 기술이 선박의 항로계획, 충돌회피, 기상 대응 등 복합적 해상 환경에서의 의사결정 자동화 실현</p><p>• **조선업의 디지털 전환**: HD Hyundai의 조선 생산 기술과 자율운항 기술의 통합으로 건조 단계부터 자율성 고려한 선박 설계 혁신 가능</p><p>• **선급기관의 역할 강화**: ABS 등 선급기관의 자율선박 인증/검증 권한 확대로 해운산업 신뢰성 확보 및 보험/금융 시장 활성화 기대</p></div>`,
+      tags: ["Autonomous Vessels","HD Hyundai","ABS","Anduril Industries","Maritime Technology"],
+      link: "https://maritime-executive.com/article/abs-hd-hyundai-anduril-industries-to-advance-autonomous-surface-vessels",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
+
+// Auto-collected: 2026-05-07
+addEvents({
+  "2026-05-07": [
+    {
+      type: "event",
+      title: "STM Unveils TENGİZ XLUUV at SAHA EXPO 2026",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-05-07",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/05/TENGIZ_3.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• STM(터키 국방기술사)이 SAHA EXPO 2026에서 최대급 무인수중 차량(XLUUV) TENGİZ를 공식 공개함</p><p>• TENGİZ는 400미터 이상의 작동 심도와 20일 이상의 항속 시간을 보유한 자율형 무인 수중체계</p><p>• 어뢰 발사, 기뢰 전개, ISR/ASW 임무, 전자전 등 전통 잠수함이 수행하는 거의 모든 임무 수행 가능</p><p>• STM 경영진은 해양 방위 영역에서의 기술적 우위 확보와 인명 손실 제거를 강조</p><p>• NETA 300 자율무인 잠수정 후속 개발이며 모함(mothership) 개념으로 소형 무인체계 탑재 가능</p><h3>Key Quotes</h3><p>• "TENGİZ stands out as the largest and most capable platform in this lineup. It is engineered to execute nearly all critical missions typically performed by conventional submarines—ranging from intelligence and mine warfare to torpedo engagement—all while operating autonomously and eliminating risks to human personnel." <br>(TENGİZ는 정보수집부터 기뢰전, 어뢰 공격까지 기존 잠수함의 거의 모든 임무를 자율적으로 수행하면서 인명 위험을 제거함)</p><p>• "Our journey in autonomous unmanned underwater vehicles began with the high-precision STM NETA 300. Following the successful completion of NETA 300's sea trials, we are now expanding this family with new medium and large-class members."<br>(자율형 무인 수중체계 개발은 NETA 300에서 시작되었으며, 현재 중형과 대형급 확대 개발 중)</p><h3>Technical Insights</h3><p>• **자율 잠수함의 전술적 혁신**: TENGİZ는 인명손실 없이 ISR, ASW, 기뢰전, 어뢰 공격 등을 자율로 수행하여 해양 작전 개념 전환</p><p>• **네트워크 중심 전술 통합**: ADVENT C2 시스템과 SATCOM을 통해 네트워크-중심 전쟁 개념에 완벽 통합되어 실시간 정보 공유 및 협동 작전 가능</p><p>• **국방 자율시스템의 윤리/규제 쟁점**: 무인체계의 공격형 임무(어뢰, 기뢰) 자율화는 IMO/국제해양법의 자율무기 규제 논의 심화 필요</p><p>• **해양방위 산업의 기술 고도화**: 40ft ISO 컨테이너 호환성과 모함 개념은 전략적 기동성 향상으로 소국의 해양 방어력 비약적 증대 가능</p></div>`,
+      tags: ["Autonomous Underwater Vehicle","XLUUV","Naval Defense","SAHA EXPO 2026","Unmanned Systems"],
+      link: "https://www.navalnews.com/naval-news/2026/05/stm-unveils-tengiz-xluuv-at-saha-expo-2026/",
+      coords: [32.8597,39.9334],
+      location: "Ankara, Turkey (SAHA EXPO)"
+    }
+  ]
+});
