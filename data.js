@@ -5833,3 +5833,83 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-07
+addEvents({
+  "2026-05-07": [
+    {
+      type: "accident",
+      title: "Indian Sailors Trapped in Hormuz Strait Amid Middle East Conflict - 2,000 Ships Stranded",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-05-07",
+      image: "https://gcaptain.com/wp-content/uploads/2026/05/2026-05-01T172007Z_982900821_RC210LAX5IPO_RTRMADP_3_IRAN-CRISIS-SAUDI-LIQUOR-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **호르무즈 해협 봉쇄로 약 2,000척의 선박이 1개월 이상 갇힘**: 중동 분쟁으로 인한 드론 및 미사일 공격으로 해협 통행 불가능, 일일 평균 138척 선박 운항 중단</p><p>• **인도 선원들의 극악한 상황**: 매일 밤 10~20발의 미사일 폭격, 식량 부족, 통신 두절 등으로 심각한 신체적·정신적 고통 경험</p><p>• **관련 선박 및 인물**: 이란 선박 Ilda 승선 선원 Tithi Chiranjeevi(28세)와 Anant Singh Chauhan 등 인도 국적 선원들</p><p>• **인명피해 및 영향**: 지금까지 최소 3명의 인도 선원 사망, 인도 정부는 약 3,000명의 선원을 안전하게 귀국 지원</p><p>• **경제적 영향**: 선원들은 직업 알선에 450,000 루피($4,800) 고금리 부채를 졌으며, 호르무즈 해협은 세계 석유·LNG 공급량의 1/5 담당</p><p>• **산업 차질**: 인도는 세계 상위 3대 선원 공급국(약 30만 명)으로, 대규모 인력 손실 및 국제 해운업 차질 초래</p><h3>Key Quotes</h3><p>• **"Around 10 to 20 missiles struck every night. No one could sleep"** (매일 밤 10~20발의 미사일이 떨어져 아무도 잠을 잘 수 없었다)</p><p>• **"Sometimes, we used to feel we won't be able to make it back home"** (때때로 우리는 집으로 돌아가지 못할 것 같은 공포를 느꼈다)</p><p>• **"It is like a rebirth for us"** (우리에게는 다시 태어나는 것과 같다)</p><h3>Technical Insights</h3><p>• **호르무즈 해협의 전략적 중요성**: 세계 석유 공급량의 20%, LNG 거래의 중요 통로로 지정학적 분쟁이 글로벌 에너지 공급 차질 직접 초래</p><p>• **해상 안전 및 국제해사법 문제**: 분쟁 지역 선박 통행의 국제해사기구(IMO) 안전 권고 미준수, SOLAS 협약상 선원 보호 의무 위반</p><p>• **해운산업 인력 위기**: 선원 공급국의 대규모 인력 공급 중단으로 국제 컨테이너선·유조선 운영 차질 예상, 선원 복리후생 및 안전 기준 재검토 필요</p><p>• **자율선박·원격운영의 시사점**: 분쟁 지역 인적 승선원 대폭 감소 필요성 대두, 무인 또는 제한된 인력 운영 선박 기술 개발 촉진 계기</p></div>`,
+      tags: ["Strait of Hormuz","Ship Stranded","Middle East Conflict","Indian Seafarers"],
+      link: "https://gcaptain.com/trapped-in-hormuz-indian-sailors-describe-nights-of-missiles-fear-and-hunger/",
+      coords: [56.1436,26.1552],
+      location: "Strait of Hormuz, Khorramshahr, Iran"
+    },
+    {
+      type: "news",
+      title: "ABS, HD Hyundai, and Anduril Industries Partner to Advance Autonomous Surface Vessels",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-07",
+      image: "https://images.marinelink.com/images/maritime/w800/source-170431.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• ABS, HD Hyundai, Anduril Industries이 자율운항선박 개발을 위한 양해각서(MoU)를 체결하여 선박 설계, 생산, 자율화, 분류를 포괄하는 엔드-투-엔드 솔루션 개발에 착수<br>• HD Hyundai의 조선 기술력, Anduril의 자율시스템 및 AI 역량, ABS의 선급 및 기술자문 서비스가 통합되어 자율운항선박의 안전하고 확장 가능한 도입 추진<br>• 해양산업의 미래를 정의할 자율운항 기술이 글로벌 해군 및 중형선 시장의 핵심 영역으로 부상<br>• 해당 협력을 통해 무인선박 시장에서의 기술 우월성과 신뢰성 있는 자율운항선박 개발 목표<br>• ABS의 선급 인증 과정이 무인선박 개발의 핵심 요소로서 역할 수행 예상</p><h3>Key Quotes</h3><p>• "Autonomy is set to play a defining role in the future of the maritime industry, and this collaboration reflects the importance of bringing together complementary capabilities to help advance that progress." (자율운항은 해양산업의 미래를 정의할 핵심 역할을 수행할 것이며, 이 협력은 상호 보완적 역량을 결합하여 진전을 가속화하는 것의 중요성을 보여줌)</p><p>• "The unmanned vessel sector is a defining theme in the future global naval market and an area in which we must take the lead." (무인선박 부문은 향후 글로벌 해군 시장을 정의하는 핵심 주제이며 우리가 선도해야 할 영역)</p><h3>Technical Insights</h3><p>• 자율운항선박의 안전성과 신뢰성 확보를 위해 국제선급사 ABS의 기술자문과 공식 인증 프로세스가 불가피한 요소로 작용하며, IMO 규제 프레임워크 수립 단계에서의 산업계 주도적 기여 의미<br>• HD Hyundai의 조선 생산 역량과 Anduril의 AI 기반 자율운항 알고리즘의 결합으로 군용 및 민용 자율운항선박의 상용화 시간 단축 가능성 높음<br>• 자율운항선박의 항해 안전성 확보를 위한 COLREG 준수 및 충돌회피 시스템의 고도화가 협력의 핵심 기술 과제로 부각되며, 해양 사이버보안 표준 개발도 병행 필요<br>• 글로벌 해양산업에서 자율화 기술 표준화의 선도권 확보 경쟁이 심화되고 있으며, 한국 조선업의 기술 우위 강화 및 새로운 성장 동력 창출 기회 제시</p></div>`,
+      tags: ["autonomous vessels","ABS","HD Hyundai","Anduril Industries","maritime autonomy"],
+      link: "https://www.marinelink.com/news/abs-hd-hyundai-anduril-industries-advance-538953",
+      coords: [126.9784,37.5665],
+      location: "South Korea (HD Hyundai headquarters)"
+    },
+    {
+      type: "news",
+      title: "MARTAC T38 USV Completes Record 192-Hour Autonomous Mission 400 NM Offshore California",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-05-07",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/05/t38-usv.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• MARTAC의 T38 Devil Ray 무인표면선박(USV)이 캘리포니아 해안에서 8일간(192시간) 완전 자율운항 임무를 성공적으로 완료하며 무인함정 운영의 새로운 기준 수립</p><p>• 해군 함정공중전센터(NAWCWD) Point Mugu Sea Range의 Blue Water Instrumentation(BWI) 프로젝트를 통해 원양(400해리 해상) 장시간 자율운항 능력 입증</p><p>• 호위선박 없이 COLREG(국제해상충돌방지규칙 1972) 완전 준수하며 정적·동적 목표물 회피 및 스테이션 유지 성공</p><p>• Sea State 3~5 해상조건에서 평균 4노트의 저속 운항으로 장시간 체류능력 검증, 필요시 50+ 노트 고속 운항 가능 입증</p><p>• 쌍발엔진 단일엔진 운영 2일간 자율적으로 지정 해역 유지 및 임무 수행으로 추진력 감소 조건에서의 효율성 및 제어논리 확인</p><p>• 쌍동선체 설계로 인한 안정성 우위로 높은 해상도에서도 롤 감소 및 센서 데이터 수집 효율성 향상 확인</p><h3>Key Quotes</h3><p>• "The T38 safely navigated around multiple static and mobile contacts during the underway period, further demonstrating that its autonomy stack is compliant with the International Regulations for Preventing Collisions at Sea 1972 (COLREG)." (T38은 운항 중 정적·동적 목표물 주변을 안전하게 항행하며 COLREG 1972 완전 준수하는 자율운항 스택 입증)</p><p>• "A defining element of the mission was a deliberate two-day alternating single-engine operational period conducted approximately 400 nautical miles offshore...the T38 autonomously maintained its designated station, continued data collection, and executed mission objectives without degradation." (400해리 해상에서 의도적으로 단일엔진으로 2일간 운영하면서도 T38은 지정 해역 유지, 데이터 수집 및 임무 수행을 성능 저하 없이 완료)</p><h3>Technical Insights</h3><p>• **COLREG 자율운항 준수 검증**: 실제 운영 환경에서 호위선박 없이 다중 해상교통과의 회피 기동을 완전히 자율적으로 수행함으로써 IMO 자율선박 규정 개발에 중요한 데이터 제공</p><p>• **장시간 체류능력(Endurance) 기술 확보**: 192시간 운항, 해상도 상승(Sea State 5, 파고 10피트) 조건에서 안정적 운영으로 무인감시/정찰(ISR) 미션 수행능력 실증</p><p>• **쌍동선체 설계의 우수성**: 높은 해상도에서 롤 감소로 센서 데이터 품질 유지, 장시간 자율운항 시 인간 개입 불필요성 증명 → 무인함정 플랫폼 설계 표준화 기여</p><p>• **엔진 효율성 및 추진 제어**: 단일엔진 운영으로 연료 효율성 검증하면서도 필요시 고속운항(50+노트) 전환 가능 → 미션 요구사항에 따른 동적 추진력 관리 기술 성숙도 향상</p></div>`,
+      tags: ["Autonomous USV","T38 Devil Ray","COLREG Compliance","Naval Testing"],
+      link: "https://www.navalnews.com/naval-news/2026/05/martac-t38-usv-executes-192-hour-autonomous-mission-400-nm-offshore/",
+      coords: [-119.5,34.7],
+      location: "California Coast, Pacific Ocean"
+    }
+  ]
+});
+
+// Auto-collected: 2025-06-06
+addEvents({
+  "2025-06-06": [
+    {
+      type: "accident",
+      title: "Grounding and subsequent loss of fishing vessel Crystal Stream (LH 147)",
+      source: "MAIB (Marine Accident Investigation Branch)",
+      sourceMeta: "gov.uk · 2026-05-07",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사고 개요**: 2025년 6월 6일 자정 직후, 영국 등록 새우 트롤어 Crystal Stream이 스코틀랜드 Loch Fyne의 Barmore Island 근처 수중 장애물과 충돌하여 의도적으로 해변에 좌초됨</p><p>• **기선사 피로도**: 선장(유일한 당직자)이 사전 주간의 과도한 근무 일정으로 인한 높은 피로도 상태에서 사고 발생</p><p>• **부실한 안전관리**: 선박의 안전관리 체계가 미흡하여 항해 관행, 위험 평가 및 승무원 의료 적합성 검토 등 핵심 운영 분야를 다루지 못함</p><p>• **건조한 총손실**: Crystal Stream은 건조 총손실로 선언되어 이후 해체 및 현장에서 제거됨</p><p>• **승무원 훈련 부족**: 승무원이 승선 시 배상 교육을 받지 못했으며, 정기적인 훈련 부재로 생명 구조 장비 및 긴급 절차에 대한 숙지도가 낮았음</p><p>• **권고사항**: M & I MacKinnon Ltd에 대해 안전관리 체계 개선, 당직 절차 구현, 함대 전역 피로 관리 시스템 도입 권고</p><h3>Key Quotes</h3><p>• "the skipper, who was the lone watchkeeper at the time of the grounding, was highly likely fatigued due to their schedule in the week before the accident" (사고 발생 당시 유일한 당직자였던 선장이 사전 주간의 근무 일정으로 인해 상당히 피로 상태에 있었을 가능성이 높음)</p><p>• "the vessel's safety management was inadequate, failing to address key operational areas including navigational practices, risk assessments and crew medical fitness" (선박의 안전관리가 부실하여 항해 관행, 위험 평가 및 승무원 의료 적합성 등 핵심 운영 분야를 다루지 못함)</p><p>• "Crystal Stream's crew did not receive an induction on joining and a lack of regular drills resulted in them being unfamiliar with the vessel's lifesaving equipment and emergency procedures" (Crystal Stream의 승무원이 승선 시 배상 교육을 받지 못했으며, 정기적인 훈련 부재로 생명 구조 장비 및 긴급 절차에 익숙하지 않음)</p><h3>Technical Insights</h3><p>• **당직 관리 및 피로도 대응**: 어업 선박의 당직 체계에서 단독 당직자의 피로도는 중대한 안전 위협이며, 해양청(Maritime and Coastguard Agency) 지침에 부합한 당직 절차 도입이 필수적</p><p>• **안전관리 체계 미흡**: Fishing Safety Management Code와 연계된 체계적인 안전관리 시스템 부재가 항해 실무, 위험 평가, 승무원 의료 검사 등 다층적 안전 관리 실패로 이어짐</p><p>• **승무원 훈련 및 대응 능력**: SOLAS 규정에 따른 정기적인 비상훈련 및 배상 교육 부재로 위기 상황에서 승무원의 대응 능력 저하 및 생명 구조 장비 미숙 운용 초래</p><p>• **소규모 선박 안전 규제 강화**: 중소 어업 선박의 안전관리 체계가 규제적·기술적으로 미흡한 현황을 반영하여 함대 전역 피로 관리 및 안전 문화 개선이 산업 차원의 과제</p></div>`,
+      tags: ["grounding","fishing vessel","crew fatigue","safety management","constructive total loss"],
+      link: "https://www.gov.uk/maib-reports/grounding-and-subsequent-loss-of-the-fishing-vessel-crystal-stream-lh-147",
+      coords: [-4.96,56.24],
+      location: "Barmore Island, Loch Fyne, Scotland"
+    }
+  ]
+});
+
+// Auto-collected: 2025-01-25
+addEvents({
+  "2025-01-25": [
+    {
+      type: "accident",
+      title: "Substitute Engine Parts Caused Fire on UK Survey Vessel Kommandor Susan",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-05-07",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/05/gardli.jpg?image-crop-positioner-ts=1778137879",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사고 개요**: 영국 해역조사선 Kommandor Susan호가 2025년 1월 25일 스코틀랜드 포스만에서 해상 시운전 중 디젤 발전기 엔진 고장으로 인한 엔진실 화재 및 전력 차단 발생</p><p>• **근본 원인**: 2019년 정비 시 장착된 정품이 아닌 대체 부품으로 인한 베어링의 조기 마모가 화재의 직접적인 원인이며, 대체 부품은 원제조업체(OEM) 미승인 제품으로 재질 접합력이 낮음</p><p>• **선박 정보**: 소유사 Gardline Shipping Limited 소유, 1999년 건조, 길이 83.7m의 영국 국적 해역조사선</p><p>• **사고 영향**: 14명의 선원이 탑승 중이었으나 인명피해 없음, 전력 차단으로 추진력 상실 및 앵커 작동 불가로 표류하다가 제한된 추진력 복구 후 라이스 항구로 귀항</p><p>• **조사 결과**: 전 선주인 Hays Ships Limited의 부실한 감시로 대체 부품 사용 사실이 발견되지 않았으며, 선박의 정전 위험을 고려하지 않은 앵커링 절차도 문제로 지적됨</p><p>• **후속 조치**: 현 소유사 Gardline Shipping이 해당 엔진 재구축 및 모든 발전기 엔진을 OEM 부품으로 정비 완료</p><h3>Key Quotes</h3><p>• "The engine failure was caused by premature wear of bearings fitted during a major overhaul in 2019. These components were not approved by the engine original equipment manufacturer (OEM) and exhibited weaker material bonding than genuine parts." <br>(2019년 정비 시 장착된 미승인 대체 부품의 약한 재질 접합력으로 베어링이 조기에 마모되어 엔진 고장 발생)</p><p>• "The extended service intervals applied to the engines were valid only for OEM components, making the use of substitute parts a critical factor in the failure."<br>(확장된 정비 주기는 정품 부품에만 적용되므로 대체 부품 사용이 고장의 치명적 요인)</p><p>• "Hays Ships Limited, the former owner of the vessel, had minimal oversight of the overhaul process and assumed that OEM parts were used, which meant that the presence of substitute components remained undiscovered."<br>(전 선주의 부실한 감시로 대체 부품 사용 사실이 적발되지 않아 이후 선주에게 정보가 전달되지 않음)</p><h3>Technical Insights</h3><p>• **정품 부품 사용의 중요성**: 선박 엔진의 정비 시 반드시 OEM 인증 부품을 사용해야 하며, 대체 부품 사용 시 제조사가 정한 정비 주기의 신뢰성이 상실되는 심각한 결함 발생 가능</p><p>• **선주의 감시 책임**: 선박 정비 과정에 대한 철저한 문서화 및 감시 체계가 필수적이며, 선박 소유권 변경 시 정비 이력에 대한 명확한 정보 전달 의무화 필요</p><p>• **비상 상황 대비**: 전력 차단 시나리오를 반영한 앵커링 절차 수정이 필수이며, 발전기 다중화 및 자동 백업 시스템 강화 등 선박 안전 설계의 선제적 개선 필요</p><p>• **해양사고 예방**: MAIB 조사 결과는 IMO 안전 기준 준수 및 정기적인 감시 체계의 중요성을 재확인시키며, 해운사 및 정비소의 품질 관리 강화가 해양 안전 문화 정착의 핵심 요소</p></div>`,
+      tags: ["Engine Fire","Diesel Generator Failure","Investigation Report","MAIB"],
+      link: "https://www.offshore-energy.biz/substitute-engine-parts-cause-of-fire-on-board-uk-survey-vessel-report-says/",
+      coords: [-3.1857,55.9533],
+      location: "Firth of Forth, Scotland"
+    }
+  ]
+});
