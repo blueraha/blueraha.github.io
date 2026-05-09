@@ -5951,3 +5951,65 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-08
+addEvents({
+  "2026-05-08": [
+    {
+      type: "accident",
+      title: "US and Iran Clash Near Strait of Hormuz Amid Ceasefire Talks",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-05-08",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/Strait-of-Hormuz-patrol.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국과 이란이 호르무즈 해협 근처에서 군사 충돌 발생 - 호르무즈를 통과하는 미국 구축함 3척(USS Truxtun, USS Rafael Peralta, USS Mason)을 대상으로 한 공격에 대응하는 형태로 미군이 이란의 미사일 및 드론 발사 시설을 공격함</p><p>• 전략적 해역의 자유항행 위협 - 세계 해상유의 약 20%가 통과하는 호르무즈 해협에서의 갈등으로 글로벌 에너지 공급망 및 해상 교통 안전에 직접적 영향</p><p>• 휴전 협상 진행 중 군사 충돌 심화 - 1개월간의 휴전이 유지 중이나 미-이란 간 평화협상 타결을 앞두고 군사적 긴장이 고조되고 있는 상황</p><p>• 글로벌 에너지 시장 파장 - 브렌트유 선물 1.3% 상승, 유럽 천연가스 3.8% 상승 등 국제 에너지 가격의 변동성 심화</p><p>• 상선 통항 안전성 악화 - 이란이 미국의 유조선 2척 공격 주장, 민간 해역에서의 군사 작전으로 상업 선박의 호르무즈 해협 통항 위험도 증가</p><h3>Key Quotes</h3><p>• "Just like we knocked them out again today, we'll knock them out a lot harder, and a lot more violently, in the future, if they don't get their Deal signed, FAST" (만약 이란이 빠르게 협상에 서명하지 않으면, 미국은 향후 더욱 강하고 폭력적으로 대응하겠다는 의도 표현)</p><p>• "The US does not seek escalation but remains positioned and ready to protect American forces" (미국은 군사 escalation을 추구하지 않지만, 미군 보호를 위해 항시 전투 준비 상태 유지)</p><h3>Technical Insights</h3><p>• **호르무즈 해협의 전략적 중요성과 해상교통 안전** - 세계 석유 및 LNG의 약 20%가 통과하는 국제 해로에서의 군사 충돌은 해상 운송 보험료 인상, 회피 항로 이용 증가 등 해운업 전반에 부정적 영향</p><p>• **민군 혼재 해역에서의 충돌 위험 증대** - 상업 선박과 군함이 동일 해역을 통과하는 상황에서 오인 공격, 피발적 충돌 가능성 증가로 해상 안전 규칙(COLREG) 준수의 중요성 부각</p><p>• **IMO 및 국제 해사기구의 역할 강조 필요** - 지역 분쟁이 국제 해상 교통에 미치는 영향을 고려하여 중립 항로 설정, 통항 보호 메커니즘 강화 등 글로벌 해상 안전 체계의 보강 필요</p></div>`,
+      tags: ["US-Iran Conflict","Strait of Hormuz","Military Clash","Maritime Security"],
+      link: "https://gcaptain.com/us-iran-clash-near-hormuz-as-response-on-proposed-deal-awaited/",
+      coords: [56.2482,26.5547],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "accident",
+      title: "Suspected Large Oil Spill Detected Near Iran's Kharg Island Export Hub",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-08",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockimagebank4u-170458.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이란 주요 석유 수출 허브인 카르그 섬 인근에서 약 45㎢ 규모의 대형 유출로 추정되는 기름 띠가 위성 이미지에 포착됨<br>• 코페르니쿠스 센티널 위성(1, 2, 3호)에서 5월 6-8일 촬영한 영상에서 회색과 흰색의 기름 띠가 확인됨<br>• 분쟁환경관측소(CEO) 연구원 Leon Moreland와 데이터 데스크의 Louis Goddard가 유출 상황 분석 및 확인<br>• 유출의 원인과 출발지점 현재 불명확하며, 추가 활성 유출 증거는 5월 8일 이미지에서 미확인<br>• 카르그 섬은 이란 석유 수출의 90%를 담당하는 주요 허브이며, 대부분 중국으로 향함<br>• 미국의 해상 봉쇄와 이란-미국 간 군사 충돌로 인해 페르시아만 내 약 수백 척의 선박이 갇혀있으며 전 지구적 원유 공급에 심각한 차질 초래</p><h3>Key Quotes</h3><p>• "The slick appears visually consistent with oil" (띠의 시각적 특성이 기름과 일치하는 것으로 보임) - Leon Moreland, Conflict and Environment Observatory</p><p>• "potentially the largest to occur since the start of the U.S.-Israel war against Iran 70 days ago" (지난 70일간 미국-이스라엘 대이란 전쟁 이후 발생한 사건 중 가장 큰 규모로 추정) - Louis Goddard, Data Desk</p><p>• "Kharg Island, where U.S. forces said they had destroyed military targets earlier in the war, is the hub for 90% of Iran's oil exports" (미군이 전쟁 초반에 군사 목표를 파괴했다고 밝힌 카르그 섬은 이란 석유 수출량의 90%를 담당하는 허브) - Article context</p><h3>Technical Insights</h3><p>• **위성 감지 기술의 중요성**: Copernicus Sentinel 다중 위성(SAR, 광학 이미지, 다중분광)의 통합 활용으로 넓은 해역에서 정확한 유출 규모 파악 가능하며, 실시간 환경 모니터링 체계의 필수성 입증</p><p>• **해역 안전성 및 환경 영향**: 카르그 섬 근처 유출로 인한 해양 생태계 오염, 해상 교통 위험 증가, 그리고 미군의 해상 봉쇄로 인한 긴급 대응 제약 등 복합적 해사 위험 상황 발생</p><p>• **국제해사기구(IMO) 규제 관점**: 전쟁 상황에서의 불가항력적 해양 오염 사고 처리, MARPOL 협약 이행 불가능성 등 국제해사법의 회색지대 문제 대두</p><p>• **해운산업 연쇄 영향**: 페르시아만 내 300+ 선박 억류, 원유 공급 차질로 인한 글로벌 유가 상승 및 LNG 공급 부족 심화로 국제 해상 무역 체계 마비 수준의 영향 확대</p></div>`,
+      tags: ["Oil Spill","Environmental Incident","Kharg Island","Iran","Satellite Detection","Maritime Accident"],
+      link: "https://www.marinelink.com/news/suspected-oil-spill-visible-satellite-538985",
+      coords: [49.12,29.25],
+      location: "Kharg Island, Persian Gulf, Iran"
+    },
+    {
+      type: "news",
+      title: "ABS, HD Hyundai and Anduril partner on autonomous surface vessels",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-05-08",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/05/ABS-HD-Hyundai-and-Anduril-partner-on-autonomous-surface-vessels.jpg?image-crop-positioner-ts=1778236526",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• ABS(미국선급), HD현대, Anduril Industries가 자율운항선박 개발 및 인증 프레임워크 구축을 위한 양해각서(MoU) 체결</p><p>• 선박 설계, 생산, 자율운항 시스템, 선급 인증에 이르는 end-to-end 통합 솔루션 개발 추진</p><p>• HD현대의 조선 역량, ABS의 선급 및 인증 전문성, Anduril의 자율운항 및 AI 기술을 결합한 협력</p><p>• 무인선박의 안전성, 실용성, 확장성 있는 도입을 위한 협력 체계 구축</p><p>• 해양산업의 미래 발전 방향으로 자율운항 기술의 중요성 강조</p><h3>Key Quotes</h3><p>• "We have high expectations for the certification process for the unmanned vessel to be developed by HD Hyundai and Anduril through our collaboration with ABS." (HD현대와 Anduril이 ABS와 협력하여 개발하는 무인선박의 인증 절차에 높은 기대를 가지고 있다)</p><p>• "Autonomy is set to play a defining role in the future of the maritime industry, and this collaboration reflects the importance of bringing together complementary capabilities to help advance that progress." (자율운항은 해양산업의 미래에 결정적 역할을 할 것이며, 이번 협력은 상호 보완적 역량을 결합하여 진전을 도모하는 것의 중요성을 반영한다)</p><h3>Technical Insights</h3><p>• **선급 인증 체계 구축**: ABS의 선급 인증 전문성과 HD현대의 조선 기술, Anduril의 자율운항 시스템이 결합되어 무인선박에 대한 국제적 인증 기준 마련 가능</p><p>• **AI 및 자율네비게이션 기술**: Anduril의 AI 및 자율운항 기술이 상용선박에 적용되면서 COLREG 준수, 충돌회피, 경로 최적화 등 해양법규 준응 문제 해결 필수</p><p>• **산업 표준화 영향**: 글로벌 선급사인 ABS가 자율선박 인증 프레임워크에 참여함으로써 IMO 규제 선제 대응 및 향후 국제 해양자율운항 표준 수립에 영향력 행사</p><p>• **조선 경쟁력 강화**: 한국 조선소의 첨단 기술과 국제 선급사 협력으로 차세대 자율운항선박 시장 선도 가능성 확대</p></div>`,
+      tags: ["Autonomous Surface Vessels","Classification","ABS","HD Hyundai","Anduril Industries"],
+      link: "https://www.offshore-energy.biz/abs-hd-hyundai-and-anduril-partner-on-autonomous-surface-vessels/",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
+
+// Auto-collected: 2025-08-10
+addEvents({
+  "2025-08-10": [
+    {
+      type: "accident",
+      title: "Alaska Mega-Tsunami from Tracy Arm Landslide Raises Cruise Ship Safety Concerns",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2025-08-10",
+      image: "https://gcaptain.com/wp-content/uploads/2026/05/Alaska-mega-tsunami.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **거대 산사태 발생**: 2025년 8월 10일 알래스카 Tracy Arm 피요르드에서 6,400만 입방미터의 암석이 붕괴되어 481미터 높이의 메가쓰나미 발생</p><p>• **운항 선박 안전 위협**: 인기 있는 크루즈 관광지인 Tracy Arm에서 발생한 사건으로 선박 및 관광객의 직접적인 해양안전 위협 확인</p><p>• **기후변화와의 연관성**: 빙하 후퇴로 인한 산악사면 불안정화가 원인이며, 향후 유사 사건 발생 가능성 높음</p><p>• **조기 감지 가능성**: 사태 발생 전 수일간의 미소지진 활동 감지로 향후 붕괴 사전 예측 가능성 제시</p><p>• **운 좋은 피해 회피**: 새벽 5시 26분 발생으로 인해 인명피해 및 선박 피해 없었으나, 전문가는 "다음엔 운이 없을 수 있다"며 경고</p><p>• **역사적 맥락**: 1958년 Lituya Bay 사건(530m 최대 파고)과 유사하나, 이번은 대규모 선박 통항 지역에서 발생한 점에서 심각성 증대</p><h3>Key Quotes</h3><p>• "The fact that the landslide occurred this early in the morning was unbelievably lucky. Next time — and there will be a next time — we may not be so lucky," (산사태가 이른 아침에 발생한 것은 믿기 어려울 정도로 운이 좋았다. 다음번에는—그리고 분명 다시 일어날 것이다—우리가 그렇게 운이 좋지 않을 수 있다)</p><p>• "Those same features can amplify landslide-generated tsunamis, creating extreme local hazards with little warning." (그 같은 지형 특성들이 산사태 유발 쓰나미를 증폭시켜 거의 경고 없이 극단적 지역 위험을 초래할 수 있다)</p><h3>Technical Insights</h3><p>• **조기 경보 시스템 개발 필요**: 미소지진 활동 감지를 통한 산사태 예측 시스템 구축으로 크루즈선 및 선박의 사전 회피 기동 가능성 증대</p><p>• **기후변화와 해상 안전의 연관성**: 빙하 후퇴에 따른 지형 불안정화가 해상교통 안전에 직접 영향을 미치는 새로운 위협 요소로 대두</p><p>• **피요르드 해역 항해 규제 강화**: 빙하 퇴적 지역의 수심 변화, 표류 빙산, 산사태 위험 등을 종합적으로 고려한 항해 제한 구역 설정 및 선박 운영 지침 수립 필요</p><p>• **국제해사기구(IMO) 논의 대상화**: 기후변화로 인한 자연재해 기반 해상안전 위험이 SOLAS, MARPOL 등 국제 해사규약 개정 시 고려되어야 할 새로운 위험 카테고리로 인식</p></div>`,
+      tags: ["landslide","tsunami","glacier fjord","cruise ships","climate change","maritime safety"],
+      link: "https://gcaptain.com/alaska-mega-tsunami-raises-alarm-for-cruise-ships-in-glacier-fjords/",
+      coords: [-123.2,57.5],
+      location: "Tracy Arm Fjord, Alaska (near Juneau)"
+    }
+  ]
+});
