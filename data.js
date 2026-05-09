@@ -6013,3 +6013,46 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-08
+addEvents({
+  "2026-05-08": [
+    {
+      type: "news",
+      title: "Ukrainian Naval Drone with Explosives Found in Greek Island Cave",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-08",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockpeter-170456.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 우크라이나 제조 MAGURA V3형 해상드론이 그리스 이오니아해 레프카다 섬의 동굴에서 발견됨<br>• 어선 조업 중 목격된 무인 수상 차량(USV)에는 3개의 기폭장치와 폭발물이 장착된 상태로 확인됨<br>• 그리스 군부와 보안당국이 드론의 기술적 특성과 목적을 파악하기 위한 조사 진행 중<br>• 러시아 석유 운반선 타격 가능성과 신호 두절로 인한 표류 가능성 등 두 가지 시나리오 검토 중<br>• 폭발물 제거 전문가팀이 배터리 제거 등 해체 작업 진행, 해양안보상 중요한 사건으로 평가됨</p><h3>Key Quotes</h3><p>• "Preliminary findings indicate the MAGURA V3-type sea drone was fitted with three detonators" (MAGURA V3형 해상드론에 3개의 기폭장치가 장착되어 있는 것으로 예상됨)</p><p>• "Investigators are examining whether the drone was intended to target ships carrying Russian oil in the wider Mediterranean" (조사관들은 이 드론이 지중해 지역에서 러시아 석유 운반 선박을 표적으로 하려는 의도가 있었는지 검토 중)</p><p>• "The vessel may have been part of a shipment of such drones or could have drifted off course after a signal failure" (이 드론은 동종 드론 적재물의 일부이거나 신호 두절 후 표류했을 가능성이 있음)</p><h3>Technical Insights</h3><p>• **무인 수상 차량(USV) 군사 활용의 경계**: MAGURA V3는 우크라이나 자체 개발 해상드론으로 폭발물 탑재가 가능한 플랫폼으로, 자율 항법 기술을 갖춘 해양 무기 시스템의 새로운 위협으로 인식됨</p><p>• **신호 두절과 항법 시스템의 취약점**: 신호 상실로 인한 표류 발생 가능성은 해상 자율 시스템의 GNSS/통신 의존성과 백업 항법 시스템 필요성을 강조</p><p>• **해양안보 및 국제법 이슈**: 무장 USV의 국제해역 운용은 SOLAS, COLREG, UN해양법협약 등 해양 규제 체계에 새로운 법적·안보 문제를 야기하며, IMO의 자율선박 규제 논의와 맞물려 중요한 사례로 작용</p></div>`,
+      tags: ["autonomous vessels","unmanned surface vehicle","maritime security","Ukraine"],
+      link: "https://www.marinelink.com/news/fishermen-find-ukrainianmade-naval-drone-538983",
+      coords: [20.7529,38.8332],
+      location: "Lefkada Island, Ionian Sea, Greece"
+    },
+    {
+      type: "news",
+      title: "Mystery Ukrainian USV Discovered in Greek Sea Cave by Fishermen",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-05-08",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/05/Lefkada-drone-Ukraine.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 그리스 어민들이 레프카다 섬 인근 해상동굴에서 5미터 규모의 무인수상선(USV)을 발견하였으며, 이는 우크라이나와 연관된 것으로 추정됨</p><p>• 해당 무인선은 여전히 엔진이 작동 중인 상태로 발견되었으며, 3대의 카메라와 스타링크 안테나, 여러 개의 밀폐된 구획을 장착하고 있었음</p><p>• 그리스 해안경비대가 회수하여 조사 중이며, 폭발물 탑재 가능성이 제기되고 있음</p><p>• 발견 위치가 최근 러시아 섀도우 플릿 유조선들이 공격받은 지역 근처의 해상 통로에 위치</p><p>• 무인선 장비 구성(FLIR, 장거리 통신장비)과 의도적인 숨김 장소는 감시 및 공격 목적의 군사용 무기체계로 추정됨</p><h3>Key Quotes</h3><p>• "They were fishing near the lighthouse and had their nets in the water when they suddenly noticed the vessel, around five to six meters long, circling repeatedly in the area."<br>(어민들이 등대 근처에서 조업 중 약 5~6미터 길이의 무인선이 같은 지역을 반복적으로 선회하는 것을 발견함)</p><p>• "It was fitted with three cameras on the bow and appeared to have a Starlink antenna. It had several covered compartments on the sides, but nobody attempted to open them."<br>(선수부에 3대의 카메라와 스타링크 안테나가 장착되어 있었으며, 측면에 여러 밀폐된 구획이 있었음)</p><p>• "once it entered the port, the engine started up again, and because it was tied up, it became dangerous."<br>(항구 진입 후 엔진이 재시동되어 줄로 묶인 상태에서 위험한 상황 발생)</p><h3>Technical Insights</h3><p>• **자율운항 무기체계의 발전**: 고급 센서(FLIR), 위성통신(Starlink), 자동항해 기능을 갖춘 소형 USV가 실제 전장에서 운용되고 있으며, 이는 해상 드론 기술의 실용화 수준을 시사</p><p>• **해상 감시 및 공격 능력**: 다중 카메라 시스템과 밀폐된 화물칸 구성으로 보아 감시정찰 및 대함 공격(예: 자폭 드론) 목적의 복합 무기체계로 평가됨</p><p>• **국제해사법 및 IMO 규제의 공백**: 무인 수상선의 불법 운용, 국제해역 진입, 폭발물 탑재 등에 대한 규제 체계가 미비하며, 향후 자율무기체계 규제 강화 필요</p><p>• **민간 해상 보안 위협 증가**: 상업용 선박 근처에서 군사용 드론이 활동함으로써 일반 해운업의 보안 위협이 증가하고 있으며, 해상교통 안전 체계 개선 시급</p></div>`,
+      tags: ["USV","Ukraine","Mediterranean","Unmanned Vessel","Greece","Maritime Security"],
+      link: "https://www.navalnews.com/naval-news/2026/05/mystery-usv-possibly-linked-to-ukraine-found-by-greek-fishermen/",
+      coords: [20.65,38.77],
+      location: "Lefkada Island, Greece (Ionian Sea)"
+    },
+    {
+      type: "news",
+      title: "U.S. Navy Awards $37 Million Contract to Huntington Ingalls for Lionfish Underwater Drone Production",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-05-08",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 해군이 Huntington Ingalls Industries(HII)의 Lionfish 무인 수중 드론 생산 지속을 위해 약 3,690만 달러 규모의 계약 수정안을 발주<br>• Naval Sea Systems Command(NAVSEA)가 기존 계약에 대한 옵션을 행사하여 2027년 5월까지 납품 일정 확정<br>• HII의 Unmanned Systems 부서가 해당 계약을 수주하여 수중 무인 시스템 분야에서의 기술 역량 강화<br>• Lionfish 드론의 지속적 생산은 해군의 수중 감시 및 정찰 능력 강화를 의미<br>• 방위산업체의 자율 수중 운영 기술 개발이 차세대 해양 보안 인프라 구축에 중요한 역할</p><h3>Key Quotes</h3><p>• "Naval Sea Systems Command in Washington awarded the $36.9 million modification to HII's Unmanned Systems division on the existing contract" (워싱턴의 해군함정시스템사령부가 기존 계약에 대해 HII의 무인 시스템 부서에 3,690만 달러 규모의 계약 수정안 발주)</p><h3>Technical Insights</h3><p>• 자율 수중 드론의 지속적 생산 계약은 해군의 수중 감시, 광산 탐지, 정보 수집 능력 확대를 반영하며 차세대 해양 작전 개념의 구현 추진<br>• HII의 Lionfish 플랫폼은 무인 시스템의 신뢰성과 운영 효율성을 증명하여 국방부의 자율화 전략 추진에 기여<br>• 방위산업 계약의 연장은 수중 로봇공학 및 AI 기반 자율 항법 기술 개발의 지속적 투자를 의미하며, 이는 해상 도메인 인식(Maritime Domain Awareness) 향상에 기여</p></div>`,
+      tags: ["Autonomous Underwater Vehicle","Lionfish Drone","U.S. Navy","Defense Procurement"],
+      link: "https://defence-blog.com/u-s-navy-pays-37m-to-keep-lionfish-underwater-drone-in-production/",
+      coords: [-77.0369,38.8951],
+      location: "Washington, D.C."
+    }
+  ]
+});
