@@ -6088,3 +6088,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-08
+addEvents({
+  "2026-05-08": [
+    {
+      type: "news",
+      title: "ABS and HD Korea Shipbuilding & Offshore Engineering Partner on Digital Shipbuilding and Autonomous Vessel Systems",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-08",
+      image: "https://images.marinelink.com/images/maritime/w800/photo-caption-170449.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• ABS(미국선급협회)와 HD 현대조선이 디지털 기술 협력 양해각서 체결 - 조선 산업의 안전성과 성능 강화 목표<br>• 주요 협력 분야: Digital Threads, 자율운항 시스템, 통합 사이버보안 도구 개발<br>• 3D 모델 기반 승인 체계 및 조선소-선급협회 간 신뢰할 수 있는 데이터 교환 방식 수립 추진<br>• HD KSOE의 소프트웨어 정의 선박(Software Defined Vessel) 아키텍처와 ABS Wavesight 플랫폼 통합 검토<br>• IACS 요구사항을 초과하는 차세대 자율운항선의 사이버보안 및 데이터 안전 지침 공동 개발</p><h3>Key Quotes</h3><p>• "Areas of focus will include digital engineering, autonomous vessel systems and integrated cybersecurity tools." (디지털 엔지니어링, 자율운항 시스템, 통합 사이버보안 도구를 중점 협력 분야로 추진)</p><p>• "The two organizations will also explore the establishment of a 3D model-based approval and trusted data exchange between the shipyard and classification society." (조선소와 선급협회 간 3D 모델 기반 승인 체계와 신뢰할 수 있는 데이터 교환 체계 구축 추진)</p><p>• "ABS and HD KSOE will jointly develop integrated cybersecurity and data safety guidelines for autonomous vessel environments, building on and extending beyond current IACS requirements" (현재 IACS 요구사항을 초과하여 자율운항선 환경의 통합 사이버보안 및 데이터 안전 지침을 공동 개발)</p><h3>Technical Insights</h3><p>• **Digital Thread 기술 도입**: 선박의 건조에서 운영까지 전체 가치사슬 단계에서 보안되고 통합된 데이터 흐름(Digital Thread) 구축으로 실시간 성능 모니터링 및 규제 준수 능력 강화</p><p>• **자율운항선 표준화 주도**: ABS와 세계 최대급 조선소의 협력을 통해 자율운항선의 안전 기준 및 사이버보안 가이드라인 국제 표준화 선도 - IMO 규정과 COLREG 준수 체계 고도화</p><p>• **Software Defined Vessel 아키텍처 검증**: HD KSOE의 소프트웨어 정의 선박 기술과 ABS의 선단 모니터링 플랫폼 통합으로 운영 효율성 및 안전성 동시 달성 가능성 확인</p><p>• **사이버보안 위협 대응 고도화**: IACS 기준을 초과하는 차세대 선박의 사이버보안 위협 환경 대응을 위한 선급협회와 조선소 간 선제적 협력 체계 구축 - 해양 자산의 증가된 디지털화에 따른 사이버 리스크 관리 강화</p></div>`,
+      tags: ["Digital Shipbuilding","Autonomous Vessels","Cybersecurity","Classification Society"],
+      link: "https://www.marinelink.com/news/abs-hd-ksoe-collaborate-digital-538977",
+      coords: [126.978,37.5665],
+      location: "South Korea"
+    },
+    {
+      type: "news",
+      title: "Lloyd's Register Approves Wison's Internal Turret FPSO Concept",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-08",
+      image: "https://images.marinelink.com/images/maritime/w800/illustration-credit-170448.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Lloyd's Register가 Wison New Energies의 내부 터렛 계류 시스템을 갖춘 FPSO 설계에 대해 원칙적 승인(AiP)을 부여했음<br>• 극한 해양환경 대응형 부유식 생산·저장·적재 설비(FPSO) 개념이 복잡한 선체·계류·라이저·상부구조 통합을 포함<br>• 개념 단계 검토를 통해 기술적 불확실성 감소 및 프로젝트 초기 의사결정 지원<br>• Wison New Energies는 이 승인으로 극한환경 FPSO 설계 역량 보유, 전 세계 FPSO 수요의 약 90% 대응 가능<br>• 표준화된 FPSO 개념으로 도전적 해역에서의 신속한 배포 전략 추진</p><h3>Key Quotes</h3><p>• "Floating production systems are becoming more complex, and the cost of getting early decisions wrong is rising. Independent assurance at concept stage helps reduce uncertainty and allows projects to move forward with greater technical confidence" (부유식 생산 시스템이 복잡해지고 있으며, 초기 의사결정 오류의 비용이 증가하고 있다. 개념 단계에서의 독립적 검증은 불확실성을 줄이고 프로젝트가 더 큰 기술적 자신감으로 나아갈 수 있게 함)</p><p>• "With design for harsh environment FPSO now completed, Wison has in addition to standard FPSO as well as Gas type FPSO designs already developed, possessed the portfolio to undertake FPSO design for 90% of the current world FPSO demand" (극한환경 FPSO 설계 완료로, Wison은 표준 FPSO 및 가스형 FPSO 설계에 더하여 현재 전 세계 FPSO 수요의 90%를 충족할 수 있는 포트폴리오 보유)</p><h3>Technical Insights</h3><p>• **내부 터렛 계류 시스템의 복잡성**: 내부 터렛은 선체, 계류, 라이저, 상부구조 간 복잡한 통합을 요구하므로, 개념 단계부터의 독립적 승인이 기술적 리스크 관리에 필수적<br>• **조기 프로젝트 의사결정 지원**: Lloyd's Register의 AiP는 극한 해양환경 프로젝트의 높은 비용과 기술적 불확실성을 완화하여 프로젝트 타당성 판단 시간 단축<br>• **표준화된 FPSO 포트폴리오의 산업적 의미**: Wison의 다양한 FPSO 설계 라인업(표준, 가스형, 극한환경)은 전 세계 오일가스 개발 시장 수요의 90% 커버 가능으로 경쟁력 강화<br>• **해양 에너지 산업의 기술 고도화**: FPSO 기술의 극한환경 대응 능력 향상은 심해 및 극저온 지역 자원개발 사업의 경제성 개선에 기여</p></div>`,
+      tags: ["FPSO","Lloyd's Register","Internal Turret Mooring","Offshore Technology","Approval in Principle"],
+      link: "https://www.marinelink.com/news/lloyds-register-approves-wisons-internal-538974",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
