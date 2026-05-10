@@ -6056,3 +6056,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-08
+addEvents({
+  "2026-05-08": [
+    {
+      type: "news",
+      title: "MISC Group Adds Two New LNG Carriers to Fleet in Partnership with SeaRiver Maritime",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-05-08",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/05/Seri-Dian-and-Seri-Dayang-LNG-carriers-Source-MISC.jpg?image-crop-positioner-ts=1778234970",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• MISC Group (Petronas 자회사)이 Hanwha Ocean에서 건조한 174,000 cbm급 LNG 운반선 2척 "Seri Dian"과 "Seri Dayang"의 명명식을 2026년 5월 7일 개최하였으며, 이는 ExxonMobil 자회사인 SeaRiver Maritime과의 장기 용선 계약의 일환임</p><p>• 두 선박은 ICER(배기 재순환 지능형 제어) 시스템과 개선된 화물 보유 시스템을 포함한 에너지 효율적 기술로 장비되어 있으며, Boil-off rate 감소로 운영 효율성 및 안전성 강화</p><p>• SeaRiver Maritime과의 협력 강화로 MISC의 장기 용선 LNG 운반선이 총 4척으로 증가하였으며, 전체 LNG 선대는 32척으로 확대되어 글로벌 선급사 중 최고 운영사 지위 강화</p><p>• 프로젝트 건조 과정에서 누적 200만 안전 작업시간 달성 및 zero lost time injury 기록으로 선원 안전 및 운영 우수성 입증</p><p>• 브루나이 해역 천연가스 개발 프로젝트용 부유식 생산설비(FPU) 운영 및 유지보수 계약 확보로 에너지 솔루션 사업 다각화</p><h3>Key Quotes</h3><p>• "The naming of Seri Dian and Seri Dayang marks another important step forward in how we are Delivering Progress at MISC driven by disciplined growth and operational excellence in delivering energy safely, reliably and efficiently." <br>(MISC가 안전하고 신뢰할 수 있는 에너지 공급을 위한 규율 있는 성장과 운영 우수성을 통해 지속적인 진전을 이루고 있음을 시사)</p><p>• "Built on a strong foundation of trust and performance, it demonstrates how purposeful collaboration enables us to turn shared ambition into meaningful action."<br>(신뢰와 성과에 기반한 협력이 공동의 목표를 실질적 성과로 전환할 수 있음을 강조)</p><h3>Technical Insights</h3><p>• LNG 운반선의 에너지 효율 기술(ICER 시스템 및 개선된 화물 보유 시스템)은 IMO 2030/2050 탄소 감축 규제 대응의 실질적 사례로, 향후 신조선의 핵심 기술 표준이 될 가능성이 높음</p><p>• 대형 LNG 운반선의 안전 성과(200만 안전 작업시간, zero lost time injury)는 현대적 설계와 자동화 기술이 선원 안전 및 운영 효율성을 동시에 달성할 수 있음을 증명하는 사례로, 해운업계의 안전 문화 개선 추진력 역할</p><p>• MISC의 지속적 LNG 선대 확보(32척 규모)는 전 지구적 LNG 수요 증가와 에너지 전환 시대에서 청정연료 운송 인프라의 중요성을 반영하며, 아시아 지역 해운사의 경쟁력 강화 전략으로 평가됨</p></div>`,
+      tags: ["LNG Carriers","MISC Group","Fleet Expansion","Maritime Technology"],
+      link: "https://www.offshore-energy.biz/lng-vessel-pair-enriches-miscs-fleet/",
+      coords: [101.6964,3.139],
+      location: "Malaysia"
+    },
+    {
+      type: "news",
+      title: "We Work the Waterways Launches Corn Belt Ports Rural Logistics & Maritime Training Consortium",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-08",
+      image: "https://images.marinelink.com/images/maritime/w800/waterways-170461.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **콘벨트 항만 내륙 해운 교육 컨소시엄 공식 출범**: We Work the Waterways(WWW)가 주도하는 4개 주(아이오와, 일리노이, 위스콘신, 미주리) 협력 교육 프로젝트가 미국 내륙 수로 해운 인력 파이프라인 강화를 목표로 시작</p><p>• **산학 연계 인력 양성 전략**: 항만, 산업 리더, 커뮤니티 칼리지 등 고등교육 기관들이 협력하여 실무 중심의 자격증 프로그램 및 경력 경로 개발</p><p>• **Maritime Interaction Days를 통한 조기 노출**: WWW의 전국 프로그램과 해운 전문가 네트워킹 행사를 통해 학생들에게 고수익 해운 직종 소개</p><p>• **시골 및 강변 지역사회 접근성 확대**: 전통적으로 해운 인력 부족 지역에서의 교육 기회 및 경력 경로 제공으로 국가적 공급망 회복력 강화</p><p>• **MARAD 해운 우수 센터 지정 추진**: 컨소시엄의 첫 공식 회의 개최로 전국적 인정 및 장기 지속 가능한 인력 파이프라인 구축 기반 마련</p><h3>Key Quotes</h3><p>• "developing a skilled workforce prepared to meet evolving supply chain demands" (진화하는 공급망 요구에 대응할 수 있는 숙련 인력 양성)</p><p>• "By aligning resources across states, industries, and education systems, the initiative aims to build a more connected and sustainable talent pipeline" (주(State), 산업, 교육 시스템 간 자원 통합으로 더욱 연결된 지속 가능한 인력 파이프라인 구축)</p><h3>Technical Insights</h3><p>• **내륙 수로 해운 인력 위기 대응**: 미국 내륙 항로(Mississippi, Ohio 등) 운영에 필수적인 선원, 크루, 로지스틱스 전문가 부족 문제를 교육-산업 협력으로 해결하는 산업 모범 사례</p><p>• **Stackable Credential 모델의 해운 산업 적용**: 직업 교육과 고등교육을 연계한 이력서 형식의 자격증 구조로 근로자의 단계적 경력 개발 및 이동성 향상 기대</p><p>• **해운 산업 공급망 회복력 강화**: COVID-19 이후 미국 내륙 수로 운송의 전략적 중요성 재평가에 따른 국가 차원의 해운 인력 투자 증가 추세 반영</p><p>• **지역사회 기반 해운 진출 개선**: 농촌 지역 고등학생 및 성인 근로자를 위한 조기 경력 탐색 기회 제공으로 해운업의 인구학적 다양성 및 포용성 제고</p></div>`,
+      tags: ["Workforce Development","Maritime Education","Inland Waterways","Training Consortium","Supply Chain"],
+      link: "https://www.marinelink.com/news/work-waterways-provides-workforce-538990",
+      coords: [-93.5,40.2],
+      location: "Corn Belt Region (Iowa, Illinois, Wisconsin, Missouri)"
+    }
+  ]
+});
