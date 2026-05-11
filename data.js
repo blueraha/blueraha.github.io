@@ -6120,3 +6120,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-10
+addEvents({
+  "2026-05-10": [
+    {
+      type: "news",
+      title: "Thrusters Aid the Advance of Autonomous Navigation Systems",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-10",
+      image: "https://images.marinelink.com/images/maritime/w800/photo-andaman-170467.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **자동항해시스템의 필수 요소**: 현대 자동항해 시스템(ANS)은 스러스터와 통합되어 COLREG 준수하는 자동 운항 기능을 제공하고 있으며, 인간의 개입 없이 다중 센서 입력을 초 단위로 통합하여 위험 회피 능력을 갖춤</p><p>• **동적 포지셔닝(DP) 기술의 진화**: IMO 분류 DP1, DP2, DP3 시스템이 GPS, 풍속센서, IMU 등 다양한 센서와 결합되어 정확성과 신뢰성을 향상시키고 있으며, 센서 융합 기술이 개별 추진 시스템에 정확한 명령을 전달</p><p>• **원격 자동운항 시스템**: 무선/위성 통신을 통한 원격 조종이 가능하며, 통신 두절 시 자동항해시스템이 안전한 항해와 귀항을 자동으로 보장하는 이중 안전 체계 구현</p><p>• **스러스터의 다양한 형태와 용도**: 기계식/전기식/유압식 모터로 구동되는 서로 다른 유형의 스러스터가 신조선 및 기존 선박에 적용되며, 추진용 vs 조종용으로 성능 요구사항이 상이함</p><p>• **상업적 기회 확대**: 스러스터 수요 급증으로 자동항해 시스템 통합을 통해 선박의 기동성과 정위치 유지 능력이 대폭 향상되어 새로운 상업적 지평 개척 가능</p><h3>Key Quotes</h3><p>• "The system's own intelligence allows appropriate control of the vessel's propulsion system, thrusters and steering to be applied to create the required COLREGS compliant vessel movements, without human intervention." <br>(자동항해시스템의 자체 지능이 인간의 개입 없이 COLREGS 준수하는 선박 운동을 위해 추진 시스템, 스러스터, 조향장치를 적절히 제어한다는 의미)</p><p>• "An optional module can force the system to automatically take command to steer a path that avoids a collision."<br>(선택사양 모듈이 자동으로 충돌 회피 항로를 자동 조종할 수 있도록 시스템에 강제 명령을 내릴 수 있다는 뜻)</p><h3>Technical Insights</h3><p>• **COLREG 준수 자동화**: Robosys VOYAGER AI 같은 자동항해시스템이 다중 센서 융합 기술을 통해 실시간으로 COLREGS(국제 해상 충돌 방지 규칙)를 자동으로 준수하는 항해 경로를 생성할 수 있으며, 이는 자동운항 선박의 국제 해사법 준수 기준을 충족시키는 핵심 기술</p><p>• **IMO 동적 포지셔닝 분류 활용**: DP1/DP2/DP3 등급 분류 체계에 따라 센서 중복성, 정확도, 신뢰성이 결정되며, 선박의 용도(오일&가스, 해상풍력, 해양과학 등)에 따라 적절한 DP 등급 선택이 경제성과 안전성을 좌우함</p><p>• **센서 융합과 자동 장애 대응**: GPS, IMU, 풍속계 등 다양한 센서 데이터를 Propulsion Management System(PMS)이 실시간 융합하여 동적 포지셔닝 정확도를 높이고, 통신 두절 시에도 자동으로 안전 항로 복귀 가능한 자율성 달성</p><p>• **해양 산업의 인력 구조 변화**: 스러스터와 자동항해시스템 통합으로 항해사의 수동 조종 업무가 모니터링 중심으로 전환되며, 이는 향후 완전 무인 자율운항 선박 운영 모델의 산업 수용성 향상에 기여</p></div>`,
+      tags: ["Autonomous Navigation","Thrusters","Propulsion Systems","Dynamic Positioning"],
+      link: "https://www.marinelink.com/news/tech-focus-thrusters-aid-advance-538996",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "BlackSea Technologies Unveils Comet and Chaser USV at Sea Air Space 2026",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-05-10",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/05/BlackSea-Comet-USV-SAS-2026.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• BlackSea Technologies가 Sea Air Space 2026에서 신규 무인수상차량(USV) Comet과 Chaser를 공개하며 자율운항선박 기술의 군사적 응용 분야 확대를 시사<br>• Comet은 길이 13.1m, 최대 페이로드 10,000 lbs로 C-UAS, ISR, 지뢰제거 등 다양한 임무 수행 가능한 대형 USV<br>• Chaser(GARC Block II)는 20ft 컨테이너에 탑재 가능한 콤팩트 설계로 600-800 해리 항속거리 제공<br>• 적외선 시그니처 감소 기술 적용으로 교전 지역에서의 생존성 향상<br>• Baltimore 생산시설에서 이미 300대 이상의 GARC Block 1 생산 완료, 확대된 생산 체계 구축</p><h3>Key Quotes</h3><p>• "From our perspective this is a truck, a truck that can carry 10,000 lbs of whatever mission you want." (우리 관점에서는 이것이 트럭이며, 원하는 어떤 임무든 10,000 파운드를 운반할 수 있는 트럭입니다.)</p><h3>Technical Insights</h3><p>• USV 플랫폼의 모듈화 설계 추세: Comet과 Chaser는 페이로드에 따라 다양한 임무 조합이 가능한 다목적 자율수상차량으로, 향후 해양 자율운항 시스템의 유연한 확장성을 보여주는 선례<br>• 군사 자율화 기술의 급속 발전: AIM-9X Sidewinder, AGM-114 Hellfire 등 고급 무기체계 통합과 RADA AESA 레이더 탑재로 자율선박의 전투 능력 강화 추세<br>• 컨테이너 배치 개념의 실용화: 20ft 컨테이너 탑재 가능 설계는 전략적 배치 유연성을 제공하며, 해양 방위 체계의 신속한 대응능력 향상에 기여<br>• 운영 데이터의 설계 반영: GARC 5,000시간 운영 경험을 바탕으로 한 Block II 개선은 실전 피드백을 중시하는 자율해양 기술의 성숙도 증가를 의미</p></div>`,
+      tags: ["USV","Autonomous Vehicles","Military Technology","Defense Innovation"],
+      link: "https://www.navalnews.com/naval-news/2026/05/video-new-comet-and-chaser-usv-by-blacksea-technologies/",
+      coords: [-76.6167,39.2904],
+      location: "Baltimore, Maryland"
+    }
+  ]
+});
