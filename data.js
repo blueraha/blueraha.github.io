@@ -6152,3 +6152,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2023-01-28
+addEvents({
+  "2023-01-28": [
+    {
+      type: "accident",
+      title: "Ferry Kaitaki Engine Failure and Blackout Off Wellington Coast",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-11",
+      image: "https://images.marinelink.com/images/maritime/w800/credit-kiwirail-170471.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 2023년 1월 28일 뉴질랜드의 Interislander 페리선 Kaitaki호가 Wellington 근처에서 엔진 냉각계통의 열화된 고무 팽창조인트(REJ) 파손으로 인해 전체 추진력과 전기 동력을 상실하고 검은색 정전 상태에 빠짐</p><p>• **근본 원인**: 고무 팽창조인트가 제조사 권장 수명(교체 5년, 설치 시 8개월 이내 신규)을 초과하여 설치 당시 이미 13년 경과, 파손 시 18년 경과한 부품으로, KiwiRail의 FMEA 시스템에서도 2개월 교체 연체 상태</p><p>• **사고 경과**: 약 1시간 동안 정전 상태에서 닻으로 표류를 저지하고, 승무원이 냉각계통을 복구하여 엔진 재시동 성공, 결국 안전하게 입항</p><p>• **발견된 6가지 안전 이슈**: 안전-중요 부품의 생애 관리, 공학적 의사결정 지원 부재, 노후 선박의 대피 기준 미흡, 긴급 대응 조율 부족, Maritime NZ의 사건 대응팀 문제, 구난·예인 능력 미흡</p><p>• **조직 및 기관**: Transport Accident Investigation Commission(TAIC), KiwiRail Limited, Maritime NZ, Wellington 해역 관할 당국</p><p>• **결과 및 시사점**: 단일 열화 부품의 고장이 전체 추진 시스템 마비를 초래하였으며, 노후 Cook Strait 페리의 위험 관리가 진화하는 해상 위험에 뒤처짐을 지적</p><h3>Key Quotes</h3><p>• "The failure of a single degraded component disabled a key engineering system and as a result all propulsion." (단일 열화 부품의 고장이 핵심 엔진 시스템과 전체 추진력을 마비시켰다는 점이 시스템 신뢰성의 취약성을 보여줌)</p><p>• "The manufacturer of the REJs says they should be no older than eight months when installed, should be inspected annually and replaced after five years." (제조사의 부품 관리 기준이 명확했음에도 18년 경과 부품이 사용 중이었던 유지보수 관리 시스템의 실패)</p><p>• "Kaitaki's crew made the right call to keep people on board while essential systems - like staying afloat - still worked." (승무원의 올바른 판단: 악천후 조건에서 해상 대피는 더욱 위험했으므로 부양성이 보장되는 동안 선내 대기 결정)</p><h3>Technical Insights</h3><p>• **부품 관리 체계의 실패**: 해양 운송 산업에서 안전-중요 부품(safety-critical components)의 생애주기 관리가 선급(classification society)의 감시 기준을 초과하는 낡은 부품 사용으로 이어질 수 있으며, 정기 검사와 FMEA 시스템만으로는 불충분함을 입증</p><p>• **긴급 대응 체계의 조율 부족**: Maritime NZ의 Rescue Coordination Centre가 소집한 다수 기관이 동일한 상황 인식(Common Operating Picture)을 공유하지 못하여 응급 대응 효율성 저하; IMO SOLAS 규정의 긴급 대응 조율 강화 필요</p><p>• **노후 선박의 설계 제약**: 1980년대 건조된 Cook Strait 페리들의 노후화로 인해 최신 해상 환경(strong onshore wind, rough sea conditions) 대응 능력 미흡, 선박 대피 계획(evacuation plan)의 현실성 검토 필요</p><p>• **공학적 의사결정 지원의 중요성**: 구조화된 의사결정 지원 도구(decision support systems) 부재로 인해 응급 상황에서 엔진 복구 시간 지연; 자율운항선(autonomous vessels)의 AI 기반 의사결정 시스템과 달리 기존 선박의 승무원 훈련 및 지원 시스템 개선 시급</p></div>`,
+      tags: ["engine failure","propulsion loss","emergency response","New Zealand","passenger ferry"],
+      link: "https://www.marinelink.com/news/ferry-engine-failure-raises-concern-538999",
+      coords: [174.886,-41.2865],
+      location: "Cook Strait, Wellington, New Zealand"
+    }
+  ]
+});
+
+// Auto-collected: 2026-05-11
+addEvents({
+  "2026-05-11": [
+    {
+      type: "news",
+      title: "UK Deploys Warship HMS Dragon to Middle East for Strait of Hormuz Protection",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-11",
+      image: "https://images.marinelink.com/images/maritime/w800/source-royal-170473.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 영국 해군이 호르무즈 해협 해상 보안 강화를 위해 공중방어 구축함 HMS Dragon을 중동으로 배치 예정<br>• HMS Dragon 함정 및 영국 국방부 - 프랑스와의 다국적 연합군 주도 계획 수립<br>• 이란-미국 10주간의 전쟁 종료 협상 진행 중이며, 상황 안정화 시 해협 통행 보호 작전 개시 예정<br>• 영국·프랑스 주도로 12개국이 참여 의사 표시, 이란과의 조율 필요<br>• 영국 해군의 규모 축소로 보호 임무 참여 능력이 제한적인 상황<br>• 해상 무역로 신뢰 회복과 안전한 통행을 위한 선제적 배치 전략</p><h3>Key Quotes</h3><p>• "The pre-positioning of HMS Dragon is part of prudent planning that will ensure that the UK is ready, as part of a multinational coalition jointly led by the UK and France, to secure the Strait, when conditions allow" <br>(HMS Dragon의 선제 배치는 신중한 계획의 일부이며, 영국과 프랑스가 공동으로 주도하는 다국적 연합의 일원으로서 조건이 허락할 때 해협 보안을 확보할 준비가 되어 있음을 보장)</p><p>• "As the U.S. and Iran inch toward a potential off-ramp from their 10-week war, France and Britain have been working on a proposal to lay the groundwork for safe transit through the Strait once the situation stabilises"<br>(미국과 이란이 10주간의 전쟁에서 벗어날 가능성을 모색하는 가운데, 프랑스와 영국은 상황이 안정화되면 해협을 통한 안전한 통행의 기반을 마련하기 위한 제안 작업을 진행 중)</p><h3>Technical Insights</h3><p>• **호르무즈 해협 해상 안보 강화 - 다국적 연합 운영 체계**: 영국·프랑스 주도의 다국적 연합군 구성으로 국제 해상 보안 체계 구축, 12개국 참여로 광범위한 해역 감시·보호 체계 강화<br>• **함정 전략적 배치와 COLREG 준수**: HMS Dragon(공중방어 구축함)의 사전 배치로 상황 변화에 대한 신속 대응 능력 확보, 국제 해상 안전 규칙(COLREG) 준수하의 자유로운 통항 보장<br>• **해상 무역로 보안과 IMO 지침**: 호르무즈 해협의 전 지구적 해상 무역로 중요성을 감안한 IMO 해상 안전 기준 준수, 선박 통행의 자유와 안전 균형 도모<br>• **영국 해군 규모 축소에 따른 산업적 제약**: 노후 함정 폐기 후 신규 함정 배치 지연으로 인한 해상 방위 능력 약화, 국방 예산 재정 현황이 해운 산업의 보안 능력 영향</p></div>`,
+      tags: ["Strait of Hormuz","Naval Operations","Shipping Security","UK Royal Navy"],
+      link: "https://www.marinelink.com/news/uk-deploys-warship-middle-east-539001",
+      coords: [56.1472,26.1551],
+      location: "Strait of Hormuz, Middle East"
+    }
+  ]
+});
