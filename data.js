@@ -6190,3 +6190,83 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-08
+addEvents({
+  "2026-05-08": [
+    {
+      type: "accident",
+      title: "Fire Breaks Out Aboard Iranian VLCC Sea Star III After U.S. Navy Strike",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-05-11",
+      image: "https://gcaptain.com/wp-content/uploads/2026/05/Sea-Star-III.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이란 국영 유조선 Sea Star III (IMO 9569205)가 2026년 5월 8일 미 해군 F/A-18 슈퍼호넷에 의해 격침되어 화염과 검은 연기 발생</p><p>• 미 중앙군사령부(CENTCOM)의 이란 해상봉쇄 강제 작전의 일환으로 함교(funnel) 부근을 정밀 탄약으로 타격</p><p>• 해당 선박은 화물을 적재하지 않은 상태였으며, 선원 및 해양환경 피해 현황은 미공개 상태</p><p>• USS George H.W. Bush (CVN-77) 항모전단으로부터 발사된 공격으로 Sea Star III와 Sevda 두 척의 이란 유조선이 동시에 피격</p><p>• 호르무즈 해협 일대 상업 해상 통항량 심각한 감소, 외교적 안정화 노력에도 불구하고 이란-미국 간 군사 충돌 지속</p><h3>Key Quotes</h3><p>• "U.S. forces in the Middle East remain committed to full enforcement of the blockade of vessels entering or leaving Iran" (중동 미군은 이란 출입 선박에 대한 봉쇄 강제에 전력을 다하고 있다는 입장)</p><p>• "Our highly trained men and women in uniform are doing incredible work." (고도로 훈련된 미군 장병들이 뛰어난 임무 수행 중이라는 평가)</p><p>• The strikes were "intended to disable the vessels rather than sink them" (침몰이 아닌 기능 상실을 목표로 하는 선택적 공격 전술)</p><h3>Technical Insights</h3><p>• **함교 타격 전술의 해양안전 함의**: 선박의 주요 구조물인 함교를 정밀 타격하는 방식은 선박 전체 침몰 방지 의도로 보이나, 화재 발생으로 인한 2차 피해(환경오염, 선원 안전) 위험 증가</p><p>• **해상봉쇄와 UNCLOS 저촉 문제**: 공해 또는 국제 해역에서의 강제 봉쇄는 국제해양법(UNCLOS) 및 해상교통 자유 원칙과의 법적 충돌 야기, IMO 규정상 상선 보호 의무와 상충</p><p>• **호르무즈 해협 통항 안전성 악화**: 50척 이상의 상선 회항, 해상지뢰 위협, 드론/미사일 공격으로 인해 세계 해상 에너지 공급망 불안정화 및 운송비 상승</p><p>• **국제해사기구(IMO) 해역 안전 기준 재검토 필요**: 분쟁 지역 통항 선박의 항해 자유도, 안전 프로토콜 강화, 인도주의적 해상 회랑(Humanitarian Maritime Corridor) 설정 등 국제적 합의 긴급</p></div>`,
+      tags: ["VLCC","Fire","Iranian Tanker","U.S. Navy","Gulf of Oman","Naval Blockade"],
+      link: "https://gcaptain.com/photos-appear-to-show-fire-aboard-iranian-vlcc-disabled-by-u-s-navy/",
+      coords: [57.92449,25.63345],
+      location: "Gulf of Oman, Bandar-e Jask"
+    }
+  ]
+});
+
+// Auto-collected: 2026-05-11
+addEvents({
+  "2026-05-11": [
+    {
+      type: "news",
+      title: "Trump Says Iran Ceasefire on 'Life Support' as Hormuz Crisis Deepens",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-05-11",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/2026-04-07T211027Z_2026438096_RC2UJKAMYDZN_RTRMADP_3_USA-TRUMP-IRAN-CIVILIZATION.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국-이란 휴전이 협상 결렬로 위기 상황에 직면 - 트럼프 대통령이 이란의 평화안 응답을 거부하며 "휴전이 생명 유지장치에 의존 중"이라 표현</p><p>• 호르무즈 해협 폐쇄로 국제 에너지 공급망 마비 - 세계 석유·LNG 교역량의 약 1/5을 담당하는 해협이 거의 폐쇄되어 유가 상승 (배럴당 $104, 2.7% 상승)</p><p>• 탱커 운항 중단 및 해로 봉쇄 - 이란의 공격 위협으로 선박 추적 기능 해제 후 운항, 지난주 3척의 원유 탱커만 해협 통과, 해상 교통량 급감</p><p>• OPEC 석유 생산량 20년 최저 수준 기록 - 호르무즈 해협 폐쇄로 인한 수출 감소로 4월 OPEC 산출량 사상 최저치 도달</p><p>• 이란의 강경 입장 - 호르무즈 해협 주권, 미국 해양 봉쇄 해제, 제재 완화, 이란 자산 동결 해제 등 포괄적 요구</p><p>• 해상 운송 산업의 심각한 타격 - 분쟁 확산 우려로 해운업체들의 운항 중단 및 대체 해로 탐색 진행 중</p><h3>Key Quotes</h3><p>• "I would call it the weakest right now, after reading that piece of garbage they sent us. I didn't even finish reading it" (지금 가장 약하다고 볼 수 있다. 그들이 보낸 쓰레기 같은 문서를 읽은 후인데, 나는 끝까지 읽지도 않았다)</p><p>• "Our demand is legitimate: demanding an end to the war, lifting the blockade and piracy, and releasing Iranian assets that have been unjustly frozen in banks due to U.S. pressure" (우리의 요구는 정당하다: 전쟁 종료, 해양 봉쇄와 해적 행위 해제, 미국 압력으로 인해 부당하게 동결된 이란 자산 해제)</p><p>• "Safe passage through the Strait of Hormuz and establishing security in the region and Lebanon were other demands of Iran, which are considered a generous and responsible offer" (호르무즈 해협을 통한 안전한 통행과 지역 및 레바논의 안보 확립은 이란의 다른 요구사항이며, 이는 관대하고 책임감 있는 제안으로 간주된다)</p><h3>Technical Insights</h3><p>• **해상 교통로 폐쇄의 글로벌 영향** - 호르무즈 해협의 실질적 폐쇄로 국제 해운 및 에너지 시장에 즉각적인 영향 발생, 선박 추적 시스템 차단으로 해양 안전 우려 증가</p><p>• **선박 운영의 보안 위험** - 탱커 운영사들이 AIS(자동 식별 시스템) 비활성화로 운항하는 상황으로, 해상 교통 안전 관리 및 국제 해사 규칙(COLREG) 준수의 어려움 심화</p><p>• **IMO 및 국제 해사 규제의 과제** - 분쟁 지역의 항해 자유 보장과 선박 안전의 국제 협력 필요성이 부각되며, 중립국 해운업체의 통행권 보호 문제 대두</p><p>• **자율운항선 및 AI 네비게이션의 지정학적 위험** - 향후 자율운항선 도입 시 분쟁 해역에서의 운영 안전성 및 사이버 보안 위협이 추가적 과제로 대두될 것으로 예상</p></div>`,
+      tags: ["Strait of Hormuz","Iran-US Conflict","Ceasefire Negotiations","Maritime Security","Energy Trade Disruption"],
+      link: "https://gcaptain.com/us-iran-far-apart-in-talks-to-end-war-and-reopen-hormuz/",
+      coords: [56.1499,26.1551],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "accident",
+      title: "Fire Breaks Out on DCOR's Offshore Platform Habitat in Santa Barbara Channel",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-05-11",
+      image: "https://gcaptain.com/wp-content/uploads/2026/05/Habitat-platform-fire-scaled.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 2026년 5월 11일 캘리포니아 산타바바라 해협의 DCOR 소유 오프쇼어 플랫폼 하비타트(Platform Habitat)에서 화재 발생</p><p>• **안전 대응**: 플랫폼 탑승 26명 전원이 안전하게 대피했으며 인명피해 없음, 1,000야드 안전지대 설정</p><p>• **응급 대응**: 미국 해안경비대(USCG), 산타바바라 항만경찰, 산타바바라 및 벤투라 카운티 소방대 등 다기관 긴급 대응 실시</p><p>• **시설 정보**: 1981년 설치, 1983년 생산 시작, 약 290피트 수심의 해상 7.8마일 위치, 가스 생산 시설로 24개 유정 보유</p><p>• **원인 및 영향**: 화재 원인 미상, 오염 방출 여부 및 시설 손상 상황 미보도, 추가 정보 발표 대기 중</p><h3>Key Quotes</h3><p>• "USCG, SB Harbor Patrol, SB County Fire, SB City Fire & Ventura County Fire are responding to a fire on platform HABITAT 7.5nm off Santa Barbara. All 26 crew evacuated safely. A 1000 yard safety zone is in effect around the platform." (산타바바라 인근 해상 7.5해리 거리의 하비타트 플랫폼 화재에 대해 다기관이 대응 중이며, 26명 전원이 안전하게 대피했고 플랫폼 주변 1,000야드 안전지대가 설정되었다)</p><h3>Technical Insights</h3><p>• **오프쇼어 안전 프로토콜**: 신속한 전원 대피 및 다기관 협력 체계를 통해 해상 플랫폼 화재의 인명피해를 효과적으로 방지할 수 있음을 입증</p><p>• **환경 리스크 관리**: 화재 발생 시 인접해역의 오염 가능성에 대한 즉각적인 평가와 모니터링이 필수적이며, 이는 해양 환경 보호의 핵심 과제</p><p>• **규제 감시 강화**: BOEM의 수압파쇄(hydraulic fracturing) 승인 검토 절차와 이번 사건의 시간적 근접성은 오프쇼어 시설의 운영 안전성에 대한 규제 감시의 중요성을 강조</p><p>• **산업 영향**: 미국 오프쇼어 생산량이 2025년 기록적 수준(7.14억 배럴)에 도달한 가운데 안전성 강화와 사고 예방의 중요도 증대</p></div>`,
+      tags: ["offshore fire","platform emergency","Santa Barbara Channel","evacuation"],
+      link: "https://gcaptain.com/emergency-crews-battle-fire-on-offshore-oil-platform-in-californias-santa-barbara-channel/",
+      coords: [-119.5,34.3],
+      location: "Santa Barbara Channel, California"
+    },
+    {
+      type: "news",
+      title: "DANAE Project: French Navy to Deploy Armed USV Fleet by 2027",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-05-11",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/05/DANAE-USV-French-Navy.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **DANAE 프로젝트**: 프랑스 해군이 2027년 말까지 무장 무인 수상함(USV) 함대를 배치하는 혁신 가속화 프로젝트로, 기지 보호 및 함정 호위 임무 수행 예정</p><p>• **개발 단계**: 7개 산업 컨소시엄이 1단계 선정되었으며, 3~4개로 압축 후 15개월 내 프로토타입 설계 진행, 최종적으로 최소 12대 이상 구매 계획</p><p>• **핵심 성능 요구사항**: 시속 30노트 초과 고속 자율항해, 충돌회피 자동화, 20미터 이상 거리에서 원격 무기 체계 운영, 장시간 임무 내구성 필요</p><p>• **기술적 난제**: 자율 의사결정 프로세스, 고속 충돌회피 항법, 선상 에너지 관리, 원격 무기 체계 운영의 안정성 및 안전성 확보</p><p>• **협력 기관**: 국방혁신청(Agence de l'innovation de défense), 프랑스 해군(공동 리더), 국방조달청 해양기술부(DGA TN) 주도</p><p>• **운영 목표**: 초기 단계는 비살상 효과로 기지 보호, 장기적으로는 해상 고가치 자산 호위 및 살상 무기 운용</p><p>---</p><h3>Key Quotes</h3><p>• "DANAE (Drone Autonome Naval avec de l'Armement Embarqué or Autonomous Naval Drone with Onboard Armament) project aims to rapidly equip the French Navy with armed Unmanned Surface Vessels (USV)" <br>(DANAE 프로젝트는 프랑스 해군에 무장 무인 수상함을 신속히 장비하는 것을 목표로 함)</p><p>• "The first systems from this 'innovation acceleration project' are expected to be delivered at the end of 2027"<br>(이 '혁신 가속화 프로젝트'의 첫 번째 시스템은 2027년 말에 인도될 예정)</p><p>• "The main challenges of this project concern the autonomous decision-making process, autonomous navigation to avoid collision (with speeds exceeding 30 knots for some teams), onboard energy management"<br>(주요 과제는 자율 의사결정 프로세스, 충돌회피 항법(시속 30노트 초과), 선상 에너지 관리)</p><p>---</p><h3>Technical Insights</h3><p>• **자율항해 기술의 고도화**: 시속 30노트 이상의 고속 자율항해와 실시간 충돌회피 알고리즘 구현이 핵심으로, 해상 교통규칙(COLREG) 준수와 타 선박 탐지·분류 능력이 필수적</p><p>• **무인 전투함의 윤리적·법적 과제**: 원격 무기 체계의 자동화 수준(Human-in-the-Loop vs 완전 자동화)에 대한 국제 규제 논의와 군사 운용 doctrine의 재정의 필요</p><p>• **에너지 자급성 문제**: 장시간 해상 임무 수행을 위한 배터리/연료 관리 시스템 고도화로, 자율함정의 실용성과 운영 비용 효율성 좌우</p><p>• **산업 생태계 확대**: 민간 및 군사 부문 기업들의 협력으로 자율 해상 플랫폼 기술의 상용화 가속화 및 프랑스 방위산업의 경쟁력 강화 예상</p></div>`,
+      tags: ["Autonomous Ships","USV","French Navy","Armed Drones","Defense Innovation"],
+      link: "https://www.navalnews.com/naval-news/2026/05/danae-project-a-fleet-of-armed-usv-for-the-french-navy-by-2027/",
+      coords: [2.3522,48.8566],
+      location: "France"
+    }
+  ]
+});
+
+// Auto-collected: 2026-05-12
+addEvents({
+  "2026-05-12": [
+    {
+      type: "accident",
+      title: "Fire Breaks Out on California Gas Platform During Decommissioning",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-12",
+      image: "https://images.marinelink.com/images/maritime/w800/-170505.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **플랫폼 화재 발생**: 캘리포니아 산타바바라 남서쪽 약 8마일 해상의 비운영 천연가스 플랫폼 Habitat에서 오전 6시 30분에 화재 발생</p><p>• **해체작업 중 화재**: 플랫폼 해체(decommissioning) 작업 중 플랫폼 인원에 의해 화재가 발생했으며, 오전 11시 40분에 진화됨 (약 5시간 10분 소요)</p><p>• **대응기관**: 미국 해안경비대(USCG) 남서부 지구, 산타바바라 및 벤투라 카운티 소방청, 환경안전국(BSEE), 해양유출대응공사(MSRC) 등 다수 기관이 참여</p><p>• **환경 영향 미미**: 현재까지 오염물 해수 유출 징후 없음, 야생동물 및 공중 피해 없음으로 보고</p><p>• **비산유 플랫폼**: Habitat는 석유 생산 플랫폼이 아닌 천연가스 플랫폼으로, 이는 환경 영향을 제한하는 요인</p><p>• **신속한 대응**: 다중 기관의 조율된 대응으로 화재 확산 방지 및 환경 피해 최소화</p><h3>Key Quotes</h3><p>• "At 6:30 a.m. a fire occurred aboard platform Habitat when platform personnel were conducting decommissioning operations for the platform." (플랫폼 해체 작업 중 화재가 발생했음을 나타냄)</p><p>• "There are currently no indications of oil being released from the platform into the water and no current impacts to wildlife or the public." (환경 오염 및 공중 피해가 없음을 확인)</p><h3>Technical Insights</h3><p>• **해체작업 중 화재 위험**: 해상 플랫폼 해체 작업은 용접, 절단 등 고온 작업을 수반하므로 화재 위험성이 높으며, 해양산업에서 중요한 안전 관리 대상</p><p>• **신속한 진화의 중요성**: 해상 플랫폼 화재는 접근성 제약으로 인해 육상 화재보다 대응이 어렵지만, 약 5시간 이내 진화로 환경 피해 최소화 성공</p><p>• **다중 기관 협력 체계**: 미국 해안경비대, 해양환경 규제기관, 지역 소방 기관의 체계적 협력으로 해양 산업 안전 인프라 구축되어 있음</p><p>• **비산유 플랫폼의 이점**: 천연가스 플랫폼은 석유 플랫폼 대비 유출로 인한 환경 영향이 적으므로 해양생태계 보호 관점에서 우호적</p></div>`,
+      tags: ["Platform Fire","Decommissioning","Santa Barbara","U.S. Coast Guard Response"],
+      link: "https://www.marinelink.com/news/fire-breaks-california-gas-platform-539042",
+      coords: [-119.5,34.3],
+      location: "Santa Barbara, California (8 miles southwest)"
+    }
+  ]
+});
