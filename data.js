@@ -6270,3 +6270,53 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-11
+addEvents({
+  "2026-05-11": [
+    {
+      type: "news",
+      title: "FarSounder and SEA.AI Partner to Advance Autonomous Maritime Perception and Integration",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-05-11",
+      image: "https://gcaptain.com/wp-content/uploads/2026/05/gCaptain-Article-5.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 해양산업의 자율운항 기술 발전이 가속화되고 있으나, 실제 운영 단계로의 도입은 여전히 지연되고 있는 상황<br>• FarSounder의 Argos 3D 포워드 룩 소나와 SEA.AI의 머신비전 시스템 통합으로 수상·수중 인식 통합 달성<br>• 자율운항 선박은 선박 조종 자동화, 장애물 감지(1000m 전방), 해저 지도 작성 등의 기능 수행<br>• 해양산업의 만성적인 인력 부족 문제 해결을 위한 자율운항 솔루션의 역할 증대<br>• FarSounder가 25년간 축적한 수중 인식 기술로 Rhode Island Commerce Corp으로부터 제조혁신 바우처 수상<br>• 센서 융합을 통한 통합 인식 체계는 선박의 실시간 의사결정 및 안전성 향상에 기여</p><h3>Key Quotes</h3><br>• "Machines cannot infer what they cannot perceive." (기계는 감지하지 못하는 것을 추론할 수 없다 - 자율운항 시스템의 근본적 한계와 센서 기술의 필수성 강조)<br>• "Autonomy functions as augmentation and allows smaller crews to do more while maintaining safety and efficiency." (자율운항은 증강 기술로서 승무원 감소 상황에서도 안전성과 효율성을 유지하며 더 많은 업무 수행 가능하게 함)<br>• "A growing network of marine technologies is paving the way for the future of maritime operations." (증가하는 해양 기술 네트워크가 미래 해사 운영의 길을 열고 있음)</p><h3>Technical Insights</h3><br>• 포워드 룩 소나(FLS)와 머신비전 시스템의 센서 융합은 자율운항 선박의 실시간 의사결정 능력 향상에 필수적이며, 규제기관이 요구하는 안전 기준 충족의 핵심 요소<br>• 수중 장애물 감지 범위 1000m 달성은 자율운항 선박의 항해 속도 유지와 회피 능력 향상을 가능케 하며, IMO 자율운항선박 기술 기준(MSC.1/Circ.1604) 준수에 중요한 역할<br>• 자율운항 기술의 도입이 선원 부족 위기 해결의 보완책으로 기능하면서, 산업 전체의 인력 재교육 및 운영 패러다임 전환 필요성 대두<br>• 통합된 센서 시스템은 선박의 인지 부하 감소 및 브리지 운영 효율화를 실현하여, 미래 하이브리드 운영(유인-무인 혼합) 모델의 기술적 기반 제공</p></div>`,
+      tags: ["Autonomous Ships","Underwater Perception","Sensor Fusion","Maritime Technology","USV Integration"],
+      link: "https://gcaptain.com/connecting-the-maritime-future-autonomy-integration-and-the-next-era-of-underwater-perception/",
+      coords: [0,0],
+      location: "Global Maritime Industry"
+    },
+    {
+      type: "event",
+      title: "Exercise Bell Buoy: Global Maritime Security Training Program in Auckland, New Zealand",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-11",
+      image: "https://images.marinelink.com/images/maritime/w800/source-european-170502.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **Exercise Bell Buoy** - 뉴질랜드 오클랜드에서 2주간 진행된 국제 해양 보안 훈련으로, 10개국 42명 이상의 참가자가 참여한 대규모 다국적 해군 협력 훈련</p><p>• **참여국 및 기관** - 호주, 캐나다, 에콰도르, 프랑스, 필리핀, 한국, 싱가포르, 영국, 뉴질랜드, 미국 및 NATO, PACIOSWG 등 국제기구 대표 참여</p><p>• **훈련 목표** - 해양 무역 보호, 해양 영역 인식 강화, 해적 사건 및 위기 상황에서의 국제 협력 및 조율 능력 향상</p><p>• **EU CRIMARIO 지원** - IORIS 통신 협력 플랫폼 제공으로 민간 및 군사 인원 간 정보 공유 촉진</p><p>• **인도-태평양 지역 안보 강조** - 지정학적 불안정 심화 속 해상 무역로 보호의 전략적 중요성 재확인</p><p>• **뉴질랜드 의존도** - 뉴질랜드 수입의 99%가 해상 운송에 의존하고 있어 해로 보안의 중요성 강조</p><h3>Key Quotes</h3><p>• "The deteriorating strategic environment in the Indo-Pacific, and indeed the world, is requiring us to be more alert of the potential for impacts to our vital shipping links to international markets" (인도-태평양 지역 및 전 세계적 전략 환경 악화로 인해 국제 시장과의 해상 무역 연결에 미칠 잠재적 영향에 대해 더욱 주의해야 함을 강조)</p><p>• "The global merchant shipping industry is facing 'unprecedented' security challenges" (세계 해상 운송 산업이 전례 없는 보안 도전에 직면하고 있음을 지적)</p><p>• "It highlights the importance of the MTO teams communicating with key shipping and country stakeholders in understanding the array of commercial and military risks" (해상 무역 작전 팀이 상업적·군사적 위험 요소를 파악하기 위해 주요 해운사 및 국가 이해관계자와의 소통 중요성 강조)</p><h3>Technical Insights</h3><p>• **NCAGS/MTO 협력 강화** - 해양 협력 지도(Naval Cooperation and Guidance for Shipping) 및 해상 무역 작전(Maritime Trade Operations) 인력 훈련으로 민간-군사 부문 간 정보 공유 및 조율 체계 개선</p><p>• **디지털 협업 플랫폼** - EU CRIMARIO의 IORIS 플랫폼을 통한 실시간 통신 및 협력으로 다국가 해양 작전의 상호 운용성(Interoperability) 강화</p><p>• **해양 위협 대응 능력** - 해적, 분쟁 지역 통과, 해상 보안 위협 등 다양한 시나리오 기반 해상 제지 작전(Maritime Interdiction Operations) 훈련으로 실무 대응 능력 제고</p><p>• **인도-태평양 지역 안보 체계** - PACIOSWG 등 지역 해운 관련 기구 참여로 인도-태평양 해상 경로 보호를 위한 다층적 국제 협력 체계 구축</p></div>`,
+      tags: ["Maritime Security","Naval Training","International Cooperation","NCAGS","MTO","Indo-Pacific"],
+      link: "https://www.marinelink.com/news/global-maritime-security-training-program-539038",
+      coords: [174.886,-41.2865],
+      location: "Auckland, New Zealand"
+    }
+  ]
+});
+
+// Auto-collected: 2026-05-12
+addEvents({
+  "2026-05-12": [
+    {
+      type: "news",
+      title: "US Sanctions Companies Involved in Iran's Oil Shipments to China",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-12",
+      image: "https://images.marinelink.com/images/maritime/w800/yaroslav-adobe-170504.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 재무부가 이란의 중국으로의 석유 수출을 지원한 개인 3명과 기업 9개사(홍콩 4개, UAE 4개, 오만 1개)에 대한 제재를 단행했으며, 이는 이란 혁명수비대(IRGC)의 자금 조달 차단을 목표로 함</p><p>• 제재 대상 기업들은 홍콩 블루오션, 홍콩 산무, 두바이 오션 얼라이언스 등으로, 석유 판매 중개 및 특별목적선(shadow fleet) 운영을 통해 이란 석유 수출을 촉진함</p><p>• 터키 기반 골든글로브 사를 중심으로 한 이란 석유 거래 네트워크가 적발되었으며, IRGC가 셸 컴퍼니를 통해 수억 달러 규모의 석유 판매를 조율</p><p>• 미국 국무부가 IRGC의 금융 메커니즘 파괴 정보 제공에 대해 최대 1,500만 달러의 현상금 제시</p><p>• 트럼프 행정부가 이란 정권의 무기 구매 및 핵 프로그램 자금 조달 차단을 위해 광범위한 제재 정책 추진 중</p><p>• 이 조치는 호르무즈 해협 재개통 및 미중 협상을 앞두고 이란의 자금 조달 경로 차단 의지를 보여주는 신호</p><h3>Key Quotes</h3><p>• "Treasury will continue to cut the Iranian regime off from the financial networks it uses to carry out terrorist acts and to destabilize the global economy" (재무부는 계속해서 이란 정권이 테러 행위와 글로벌 경제 불안정화에 사용하는 금융 네트워크를 차단할 것)</p><p>• "IRGC relies on shell companies to arrange and receive payment for its allotment of Iranian oil shipments" (IRGC는 이란 석유 수출 대금 수령 및 거래 중개를 위해 셸 컴퍼니에 의존)</p><h3>Technical Insights</h3><p>• **해상물류 금융 제재의 진화**: 특별목적선(shadow fleet)을 통한 석유 수출 자금화 메커니즘이 미국의 주요 제재 대상으로 전환되었으며, 해운 금융 네트워크 차단이 핵심 전략</p><p>• **다층 구조의 해운 사기 적발**: 홍콩/UAE 기반 중개 회사들과 터키의 골든글로브 등 복합 국제 네트워크 적발은 COLREG 준수 외에 금융 투명성, AIS 위조 적발 등 국제 협력의 중요성을 강조</p><p>• **IMO 및 국제 해양 규제의 한계**: 특별목적선의 선주 위장, 선박 관리사 위장 등 해운 부문의 구조적 취약점이 드러났으며, 실질적 소유자(beneficial owner) 파악 강화 필요</p><p>• **산업적 영향**: 석유 거래 관련 해운 금융 규제 강화로 정상 유가 무역 금융도 영향을 받을 가능성이 있으며, 금융기관의 고객실사(KYC) 강화 요구</p></div>`,
+      tags: ["US Sanctions","Iran Oil Trade","China","Shadow Fleet","IRGC","Shipping Finance"],
+      link: "https://www.marinelink.com/news/us-sanctions-companies-involved-irans-oil-539041",
+      coords: [0,0],
+      location: "Global (Hong Kong, UAE, Oman, Iran, China)"
+    }
+  ]
+});
