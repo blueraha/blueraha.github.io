@@ -6320,3 +6320,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-12
+addEvents({
+  "2026-05-12": [
+    {
+      type: "news",
+      title: "Maersk Continues Strait of Hormuz Transit Suspension Amid Ceasefire Uncertainty",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-05-12",
+      image: "https://gcaptain.com/wp-content/uploads/2024/01/2024-01-05T141731Z_1337929630_RC2PB5A22SSA_RTRMADP_3_ISRAEL-PALESTINIANS-SHIPPING-STOCKS.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 마에스크(AP Moller-Maersk)는 미국-이란 간 취약한 휴전으로 인한 불안정성으로 인해 호르무즈 해협 운항 중단을 계속 유지 중<br>• 글로벌 석유 교역량의 약 1/5을 처리하는 호르무즈 해협은 해상 운송 및 LNG, 정제유 운송의 전략적 요충지로 기능<br>• 마에스크를 포함한 국제 해운업계 주요 기업들이 군사적 긴장 완화만으로는 상업적 신뢰 회복 불충분하다고 평가<br>• 36시간 만에 중단된 미국 주도의 프로젝트 프리덤(Project Freedom) 해상 호송작전의 실패가 업계 신뢰도 저하 심화<br>• 마에스크는 이라크, 쿠웨이트, 카타르, 바레인, 사우디 동부 항만, 대부분의 UAE 항만(호르팍칸 제외) 화물 예약 중단</p><h3>Key Quotes</h3><p>• "Volatility persists in the situation. In coordination with our security partners, we have assessed that as of now, transit through the Strait should be avoided." <br>(현 상황은 매우 불안정하며, 보안 파트너와의 협력 하에 현재로서는 해협 운항을 피해야 한다고 판단)</p><p>• "It is crucial that freedom of navigation is restored, and we welcome any effort to achieve this."<br>(해상 항행의 자유 회복이 중요하며 이를 달성하기 위한 모든 노력을 지지한다)</p><p>• "full maritime certainty has not yet been restored"<br>(완전한 해상 운송 안정성이 아직 회복되지 않음)</p><h3>Technical Insights</h3><p>• **지정학적 리스크 관리**: 호르무즈 해협은 일일 1,700만 배럴의 석유와 전 세계 LNG 교역량의 약 20% 이상을 처리하므로, 단기 운항 중단이 글로벌 에너지 시장과 공급망에 즉각적 영향 야기</p><p>• **보험 및 보안 보증 필요성**: BIMCO, ICS 등 해운업계 주요 기구들이 강조하듯이 순수 군사적 긴장 완화보다는 지뢰 제거 보증, 보험료 정상화, 국제 보안 메커니즘 구축이 운항 재개의 선행조건</p><p>• **프로젝트 프리덤의 한계**: 36시간 만에 중단된 미국 주도 호송작전은 군사적 보호 단독으로는 상업 운영자의 신뢰 회복 불가능함을 실증적으로 입증</p><p>• **회사별 위험회피 전략**: 마에스크 외 주요 선사들의 상층부 항만 회피 경로 선택(호르팍칸 등 대체항 우회)은 2026년 호르무즈 해협 상황의 구조적 악화를 시사</p></div>`,
+      tags: ["Strait of Hormuz","Container Shipping","Geopolitical Risk","Maritime Security"],
+      link: "https://gcaptain.com/maersk-keeping-strait-of-hormuz-transits-suspended-as-ceasefire-confidence-wavers/",
+      coords: [56.1425,26.1367],
+      location: "Strait of Hormuz, Persian Gulf"
+    },
+    {
+      type: "news",
+      title: "Iran War Ceasefire Fragile as US Rejects Tehran's Latest Offer - Strait of Hormuz Shipping Standstill",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-05-12",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/2026-04-27T104527Z_1160542938_RC2KXKAKDWHL_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 호르무즈 해협 해상 교통이 완전히 중단된 상태로, 미국-이란 간 휴전 협상이 극도로 불안정한 상황 진행 중<br>• 도널드 트럼프 대통령이 이란의 평화 제안을 거부하고 휴전이 "생명 유지 상태"라고 표현하며 긴장 심화<br>• 이란은 미국의 해상 봉쇄 해제와 제재 완화를 요구하면서 해협 통제권 유지 입장 견지<br>• 브렌트유 가격 2% 상승으로 배럴당 $106 이상으로 올라 글로벌 에너지 위기 심화<br>• 10주간의 분쟁으로 국제 유류 시장 교란 및 미국 내 가솔린 가격 급등으로 소비자 부담 가중<br>• 미국이 전략 석유 비축량 5,330만 배럴 방출하며 유가 안정화 시도 중</p><h3>Key Quotes</h3><p>• "It's a piece of garbage" and the ceasefire was on "life support" (트럼프 대통령이 이란의 제안을 거부하며 휴전 상태를 극도로 부정적으로 평가)<br>• "Iran has given no public indication thus far that it's willing to back down in a war that has seen it exert control over Hormuz" (이란이 호르무즈 해협 통제권 유지 입장을 강경하게 유지 중)<br>• "Reaching a diplomatic solution is very possible" (트럼프 대통령이 외교적 해결 가능성을 제시하며 군사 재개를 직접 언급하지 않음)</p><h3>Technical Insights</h3><p>• **해운 물류 영향**: 호르무즈 해협은 전 세계 해상 유류 교역량의 약 20-30%가 통과하는 전략적 해상로로, 현재의 교통 중단은 글로벌 해운 네트워크 전반에 심각한 영향 미치는 중<br>• **지정학적 리스크**: 국가 간 분쟁으로 인한 특정 해상로 통제는 해상 안전, 항행 자유도, 국제 해사법(UNCLOS) 준수 문제를 야기하는 선례적 사건<br>• **에너지 인플레이션 연쇄효과**: 해상 수송 교란으로 인한 유가 급등은 글로벌 해운비(벙커유, 연료유) 상승으로 이어져 해운업계 수익성 악화 및 운임 인상 압력 발생<br>• **공급망 재편 필요성**: 장기간의 호르무즈 해협 통제는 대체 해상로(수에즈 운하 경유 아프리카 회항, 러시아 북극항로 개발) 검토 등 글로벌 해운 경로 다각화 추진 촉구</p></div>`,
+      tags: ["Strait of Hormuz","Geopolitical Crisis","Shipping Disruption","Oil Markets"],
+      link: "https://gcaptain.com/iran-war-ceasefire-fragile-as-us-rejects-tehrans-latest-offer/",
+      coords: [56.2,26.5],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "UK Leads 40-Nation Defensive Mission with Autonomous Systems to Secure Strait of Hormuz",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-05-12",
+      image: "https://gcaptain.com/wp-content/uploads/2026/03/HMS-Dragon-departs-portsmouth.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 영국이 40개국 연합으로 호르무즈 해협 해상 보안 임무 주도, £115백만 규모의 자율 지뢰탐지 시스템 및 대드론 기술 배치<br>• 영국 해군 HMS Dragon 구축함과 타이푼 전투기, "Beehive" 자율 런칭 시스템 및 Kraken 드론 보트 등 첨단 무인 시스템 투입<br>• 호르무즈 해협의 해양 광산 및 드론 위협 대응을 위한 방어적 성격의 다국적 해상 안보 작전으로, 영국과 프랑스가 공동 주도<br>• 홍해 분쟁에서의 드론 및 비정규 공격 경험을 바탕으로 한 임무 설계, EU의 ASPIDES 작전과 유사한 장기 방어 해상 보안 노력<br>• 상업 해운 신뢰 회복 및 전략적 해상로 보호라는 명확한 목표 설정</p><h3>Key Quotes</h3><br>• "The UK is playing a leading role to secure the Strait of Hormuz, and we are demonstrating that today with new cutting-edge kit to protect our interests and secure the Strait" (영국이 호르무즈 해협 보안에 주도적 역할을 하고 있으며, 최첨단 기술로 국익 보호와 해협 보안을 입증하고 있다)<br>• "With our allies, this multinational mission will be defensive, independent, and credible." (우리의 동맹국들과 함께 이 다국적 임무는 방어적이고, 독립적이며, 신뢰할 수 있을 것이다)</p><h3>Technical Insights</h3><br>• 자율 지뢰탐지 드론 및 Kraken 고속 드론 보트 등 첨단 무인 시스템의 실전 배치로 해상 광산 탐지·제거 능력의 획기적 강화 및 운영 위험 감소<br>• 해양 자율시스템(USV/UUV) 기술이 단순 감시를 넘어 방어작전의 핵심 자산으로 부상하며, IMO 해상자율선박 규제 논의와 동행하는 실제 군사 운용 사례 제시<br>• 대규모 다국적 연합에서의 자율시스템 통합 운영으로 국제 해상 안보 협력의 기술적 복잡성 증대, COLREG 등 자율선박 규범 적용의 현실적 과제 부각<br>• 드론 및 비정규 위협에 대응하는 자율 방어 시스템의 전술적 우위성이 확대되면서, 상업해운의 자율화 및 보안 강화에 대한 산업 수요 가속화</p></div>`,
+      tags: ["Autonomous Mine-Hunting","Maritime Security","Strait of Hormuz","UK Defense","Multinational Mission"],
+      link: "https://gcaptain.com/uk-leads-40-nation-defensive-mission-to-secure-strait-of-hormuz/",
+      coords: [56.2469,26.1367],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "UK Contributes Autonomous Mine-Hunting Equipment to Strait of Hormuz Security Mission",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-12",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockrob-170552.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 영국이 호르무즈 해협의 해상 안전 확보를 위한 다국적 방어 임무에 자율형 기뢰탐지장비 및 무인선박을 포함한 방위 자산 배치 발표<br>• 국방장관 John Healey가 40개 이상 국가의 동료 장관들과의 가상 정상회담에서 £115백만(약 1억5,553만 달러) 규모의 신규 자금 지원 발표<br>• 자율 기뢰탐지·제거 시스템, 고속 무인 드론보트, 태풍 전투기, HMS Dragon 구축함 등으로 구성된 패키지 추진<br>• 이란 전쟁으로 인한 호르무즈 해협 해상 교통 급격한 감소(세계 석유 5분의 1이 통과) 및 에너지 가격 상승에 대응<br>• 영국은 현재 지역 내 1,000명 이상의 인력을 기존 방어 작전 일환으로 배치 중</p><h3>Key Quotes</h3><br>• "With our allies, this multinational mission will be defensive, independent, and credible" (우리 동맹국들과 함께 이 다국적 임무는 방어적이고 독립적이며 신뢰할 수 있을 것입니다)<br>• "About a fifth of the world's oil passes through the strait" (세계 석유의 약 5분의 1이 해협을 통과합니다)</p><h3>Technical Insights</h3><br>• 자율형 기뢰탐지·제거 시스템의 배치는 고위험 해역에서 인적 피해 없이 해상 안전을 확보하는 자율 해양 기술의 실질적 적용 사례<br>• 고속 무인 드론보트 및 대드론 시스템 도입은 현대 해상 위협(드론, 기뢰 등)에 대응하는 첨단 해양 방위 체계의 진화 추세 반영<br>• 국제 해양 자유 항행(Freedom of Navigation) 원칙 수호를 위한 다국적 협력 체계 구축으로 SOLAS/COLREG 등 국제 해양 규정의 실행 강화</p></div>`,
+      tags: ["autonomous systems","mine-hunting","Strait of Hormuz","maritime security","UK defense"],
+      link: "https://www.marinelink.com/news/uk-contribute-minehunting-resources-539113",
+      coords: [56.2404,26.1552],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
