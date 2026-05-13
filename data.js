@@ -6376,3 +6376,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-13
+addEvents({
+  "2026-05-13": [
+    {
+      type: "news",
+      title: "SubSea Craft Advances MARS USV as Production Begins",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-05-13",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/05/Subsea-Craft-MARS-USV.webp",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **MARS USV의 진화 및 본격 생산 개시** - SubSea Craft가 무인 수상함(USV) MARS의 개선된 버전을 발표하고 생산 단계에 진입, 기존 고객 계약을 지원할 예정</p><p>• **혁신적 기술 개발 접근법** - 광범위한 현장 테스트와 운용자 협력을 통해 프로토타입 전쟁 원칙(빠른 혁신, 실제 조건 테스트, 개선)을 적용</p><p>• **핵심 기술 유지 및 향상** - VICTA 멀티도메인 함정에서도 사용되는 검증된 디지털 제어 시스템을 유지하면서 추진 시스템과 모듈식 페이로드 베이 개선</p><p>• **국제적 운용 환경 대응** - 중동을 포함한 다양한 기후 환경에서의 운용을 위해 추진 시스템과 페이로드 베이의 통풍 개선</p><p>• **UK 독립 개발 및 동맹국 지원** - 완전히 자금 지원되고 영국에서 개발된 자율 해양 시스템으로 영국과 동맹국 지원에 대한 약속 표현</p><p>• **확장 가능한 자율 시스템의 필요성** - 컴팩트하고 적응 가능하며 까다로운 환경에서 즉시 운용 가능한 자율 시스템의 전략적 중요성 증대</p><h3>Key Quotes</h3><p>• "This release of MARS demonstrates our focus on delivering mature, operational capability. By iteratively enhancing the existing platform, we are able to rapidly field improved performance while maintaining the reliability and deployability our customers expect." <br>(MARS 출시는 성숙하고 실제 운용 가능한 능력 제공에 대한 집중을 보여주며, 반복적인 플랫폼 개선을 통해 신뢰성과 배치 가능성을 유지하면서 성능 향상을 빠르게 구현)</p><p>• "The operational need for scalable, autonomous systems has never been clearer. Fully resourced and developed in the UK, this latest development reflects SubSea Craft's commitment to supporting the UK and its allies."<br>(확장 가능한 자율 시스템의 운용적 필요성이 그 어느 때보다 명확하며, 영국에서 완전히 자금 지원되고 개발된 이 최신 개발은 영국과 동맹국 지원에 대한 약속을 반영)</p><h3>Technical Insights</h3><p>• **자율 해양 시스템의 모듈화 설계 원칙** - MARS의 모듈식 페이로드 베이와 개선된 통풍 시스템은 다양한 기후 환경과 운용 조건에 대응하는 자율 함정 설계의 중요한 트렌드를 반영</p><p>• **디지털 제어 시스템의 통합 플랫폼화** - VICTA와 공유되는 증명된 디지털 제어 시스템은 다중 플랫폼 간 상호운용성과 신뢰성 확보의 중요성을 시사하며, IMO 자율선박 규정 개발에도 참고 가치</p><p>• **프로토타입 전쟁 방식의 실제 적용** - 실제 운용 조건에서의 테스트와 개선을 통한 빠른 기술 숙성 방식은 규제 환경 변화 속에서 자율시스템 개발의 효율성을 극대화하는 산업 모범 사례</p><p>• **국방 자율 시스템과 민간 해운 기술의 수렴** - 군용 USV 기술의 상용화 추세는 향후 민간 해운 자율화 기술 도입 및 규제 프레임워크 수립에 긍정적 영향을 미칠 것으로 예상</p></div>`,
+      tags: ["Unmanned Surface Vessel","Autonomous Systems","Maritime Technology","UK Defense"],
+      link: "https://www.navalnews.com/naval-news/2026/05/subsea-craft-advances-mars-usv-as-production-begins/",
+      coords: [-2.2426,51.5085],
+      location: "United Kingdom"
+    }
+  ]
+});
+
+// Auto-collected: 2026-05-12
+addEvents({
+  "2026-05-12": [
+    {
+      type: "news",
+      title: "Dolphin Drilling secures multimillion-dollar North Sea contract with Harbour Energy through 2030",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-05-12",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2025/05/Paul-B.-Loyd-Jr.-rig-Source-Dolphin-Drilling.jpg?image-crop-positioner-ts=1746607179",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 돌핀 드릴링(Dolphin Drilling)이 영국 대륙붕(UKCS) 해상 석유 채굴 사업을 위해 해버 에너지(Harbour Energy)와 약 1억 5천만 달러 규모의 계약을 체결했으며, 2030년 8월까지 계속된다</p><p>• 1990년 건조된 Paul B. Loyd Jr. 반잠수식 시추선(Aker H 4.2 설계)이 북해 유전 개발에 투입되며, 수심 1,969피트에서 운영 가능하고 120명 수용 가능</p><p>• 같은 회사의 1974년 건조된 Blackford Dolphin 시추선은 인도 동쪽 해역에서 Oil India Limited와의 계약을 2026년 7월까지 계속 수행</p><p>• 계약 확정으로 돌핀 드릴링의 확정 계약 백로그가 3억 6천 2백만 달러로 증가하였으며, 선택옵션 및 의향서 포함 시 8억 4천 9백만 달러 규모</p><p>• CEO Michael Boyd는 "이 계약이 장기적 수익 안정성과 안전하고 효율적인 운영을 지속할 수 있는 기반을 제공한다"고 평가</p><h3>Key Quotes</h3><p>• "This contract award is a testament to the partnership formed between Dolphin Drilling and Harbour Energy. It provides both parties with stability and the platform to continue to deliver safe and efficient operations." (이 계약 수주는 돌핀 드릴링과 해버 에너지 간 형성된 파트너십의 증거이며, 양사에 안정성과 안전하고 효율적인 운영을 지속할 수 있는 기반을 제공한다)</p><p>• "Dolphin Drilling now has USD 362 million in firm contract backlog with a further 849 million in LOI and options, materially improving future revenue and earnings visibility since the turn of the year." (돌핀 드릴링은 현재 3억 6천 2백만 달러의 확정 계약 백로그와 추가로 8억 4천 9백만 달러의 의향서 및 선택옵션을 보유하고 있어, 연초 이후 향후 수익성 가시성이 대폭 개선되었다)</p><h3>Technical Insights</h3><p>• Aker H 4.2 설계의 반잠수식 시추선은 수심 1,969피트의 북해 심해 환경에서 운영 가능한 고성능 플랫폼으로, 장기 채굴 작업에 적합한 안정적 운영 특성을 보유</p><p>• 1990년과 1974년 건조된 노후 시추선들의 지속적 운영은 해양 에너지 산업에서 적절한 유지보수와 현대화를 통해 수십 년 장수명 운영이 가능함을 시사</p><p>• 북해와 인도 해역에서의 동시 다중 계약 운영은 글로벌 해양 시추 산업의 지역적 수요 편차와 해양 에너지 인프라의 장기 가용성 중요성을 강조</p><p>• 8년 이상의 장기 계약 확보는 해양 석유·가스 산업의 자본 회수 주기와 리스킹 전략에서 계약의 안정성과 예측 가능성이 핵심 경쟁요소임을 반영</p></div>`,
+      tags: ["Drilling Contracts","North Sea","Semi-submersible Rigs","Harbour Energy","Dolphin Drilling"],
+      link: "https://www.offshore-energy.biz/dolphin-drillings-1990-built-rig-scores-north-sea-job-as-1974-built-semi-sub-stays-in-india/",
+      coords: [2.5,56],
+      location: "UK Continental Shelf, North Sea"
+    }
+  ]
+});
