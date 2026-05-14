@@ -6414,3 +6414,65 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-04-21
+addEvents({
+  "2026-04-21": [
+    {
+      type: "accident",
+      title: "MT Honour 25 Seized by Somali Pirates: 10 Pakistani Crew Members Held for Ransom",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-13",
+      image: "https://images.marinelink.com/images/maritime/w800/dummy-adobe-170595.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 팔라우 국적 유조선 MT Honour 25가 4월 21일 소말리아 펀틀랜드 해역에서 소말리 해적에게 피탈, 17명 승조원 중 파키스탄 국적 10명이 인질로 납치됨</p><p>• **인질 상황**: 납치 23일째 현재 승조원들이 깨끗한 음용수 부족으로 오염된 탱크수를 마시고 있으며, 하루 한 끼 밥으로만 생존 중</p><p>• **가족들의 호소**: 카라치 항만 부근에서 5개 가정이 정부의 구출 요청 시위 개최, 인질 가족들이 극심한 스트레스로 자녀들이 공황장애와 불안증 증상 보임</p><p>• **협상 진전 상황**: 파키스탄 외교부 발표에 따르면 해적과 파키스탄 정부 간 직접 협상 없이 선박 소유사가 주도적으로 협상 진행 중, 소말리 정부가 중재 역할</p><p>• **해역 보안 악화**: 2025년 완화되었던 소말리 해적 활동이 2026년 4월 펀틀랜드 해역에서 재증가, 영국 해상 거래 작전실이 높은 위협 수준 경고 발령</p><p>• **전략적 중요성**: 호르무즈 해협 실질적 폐쇄로 인한 아덴만-인도양 항로의 전 지구적 에너지 및 물자 수송 중요성 대두</p><h3>Key Quotes</h3><p>• "He says his brain isn't functioning. He's worried about his dad and that's all that's on his mind." (아들은 뇌가 제대로 작동하지 않으며 아버지 걱정으로만 가득 차 있다는 의미)</p><p>• "The ship owner is negotiating with the pirates and is in touch with the Somali government, which is keeping Pakistan informed of updates." (선박 소유사가 해적과 협상하고 있으며 소말리 정부와 연락 중이라는 파키스탄 외교부의 공식 입장)</p><p>• "Crew members reported the ship had run out of clean water, with sailors drinking dirty tank water and surviving on boiled rice once a day." (승조원들이 깨끗한 물 부족으로 오염수를 마시고 하루 한 끼로만 생존한다는 비인도적 상황)</p><h3>Technical Insights</h3><p>• **해적 대응 제약**: 유화물 운반 유조선의 특성상 소말리 정부 군부대가 강제 진압 작전 수행 불가능하여 장기 협상 불가피, 해양 물류 안보 취약점 노출</p><p>• **아덴만 해역 보안 재악화**: 호르무즈 해협 운영 차단으로 우회 항로 의존도 증가하면서 소말리 해적 활동 재개, 국제 해운 보안 체계 강화 필요</p><p>• **IMO/국제협력 한계**: 파키스탄 정부와 선박주(선사) 간 협상 역할 분담 모호, 해적 사건 해결 시 국가 간 해양안보 조정 메커니즘 개선 필요성 대두</p></div>`,
+      tags: ["piracy","hostage","Somalia","Puntland","oil tanker","MT Honour 25"],
+      link: "https://www.marinelink.com/news/families-pakistani-hostages-call-rescue-539175",
+      coords: [49.2,9.5],
+      location: "Puntland region, Somalia (Gulf of Aden)"
+    }
+  ]
+});
+
+// Auto-collected: 2026-05-13
+addEvents({
+  "2026-05-13": [
+    {
+      type: "news",
+      title: "PteroDynamics to supply Transwing VTOL drone to Royal Australian Navy",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-05-13",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/05/P4-RAN.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• PteroDynamics Inc.가 Transwing VTOL 무인항공기(UAS) 시스템을 호주 왕립해군(RAN)에 공급하기 위한 계약을 체결했으며, 이는 회사의 첫 국제 방위산업 판매임</p><p>• P4 Transwing UAS 항공기와 교육 및 지원 서비스가 제공되며, RAN은 2027년부터 더 큰 P5 모델 구매 옵션을 보유함</p><p>• 2025년 4월 호주 국방부와 왕립해군 인원을 대상으로 한 성공적인 실증은 내륙 및 수상 환경에서의 운용 능력을 검증함</p><p>• AUKUS 삼자 안보 협력과 인도-태평양 지역의 전략적 중요성 증대가 자율 무인 해양 물류 플랫폼 도입을 견인함</p><p>• 미국-호주 방위산업 협력 강화와 신뢰할 수 있는 파트너 간의 협력이 인도-태평양 지역에서의 기술 혁신 기반을 조성함</p><h3>Key Quotes</h3><p>• "Transwing's unique combination of VTOL and fixed-wing performance capabilities for a range of missions" (다양한 임무를 위한 수직이착륙과 고정익 성능의 독특한 결합)</p><p>• "Advancing next-generation uncrewed capabilities that directly support the Integrated Force" (통합전력을 직접 지원하는 차세대 무인 능력 발전)</p><h3>Technical Insights</h3><p>• VTOL 무인항공기의 도입으로 제한된 공간에서의 이착륙 능력이 강화되어 해상 물류 작전의 효율성이 대폭 향상될 것으로 예상됨</p><p>• 자율 해양 물류 플랫폼의 도입은 IMO와 해양 규제 기관의 무인 선박 및 항공기 통합 운용에 관한 새로운 지침 개발을 촉발할 가능성이 높음</p><p>• AUKUS 협력 틀 내에서 호주, 미국, 영국 간의 자율 시스템 기술 표준화 및 상호운용성 강화가 해양 방위산업의 미래 방향을 결정할 것으로 예상됨</p></div>`,
+      tags: ["Autonomous Systems","VTOL Drone","Royal Australian Navy","Defense Technology"],
+      link: "https://www.navalnews.com/naval-news/2026/05/pterodynamics-to-supply-transwing-vtol-drone-to-royal-australian-navy/",
+      coords: [151.2093,-33.8688],
+      location: "Sydney, Australia"
+    },
+    {
+      type: "news",
+      title: "UK to contribute autonomous drones, jets and warship to Multinational Mission securing Strait of Hormuz",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-05-13",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/05/NavNews-Dragon-Gulf-CC-MoD-26.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 영국이 호르무즈 해협의 해양 자유항해 보장을 위한 다국적 군사 임무에 자율형 광해 탐지 드론과 대드론 시스템, 태풍 전투기, HMS Dragon 구축함을 배치할 계획<br>• 이 임무는 40개국 이상이 참여하는 다국적 군사 임무의 일환으로, 방위 장관회의에서 115백만 파운드의 신규 자금 지원 확정<br>• HMS Dragon은 중동으로 향하는 중이며 RFA Lyme Bay는 자율 시스템의 모함(mothership) 역할을 할 수 있도록 무인 장비 업그레이드 진행 중<br>• 호르무즈 해협은 전 세계 석유의 5분의 1이 통과하는 세계 최대 해상 무역로이며, 이 임무는 상선의 신뢰 회복 목표<br>• 영국은 이미 지역 내 1,000명 이상의 인력을 배치해 대드론팀과 전투기 중대가 영국 국민과 동맹국 보호에 중요한 역할 수행 중</p><h3>Key Quotes</h3><p>• "The UK is playing a leading role in securing the Strait of Hormuz, and we are demonstrating that today with new cutting-edge kit to protect our interests and secure the Strait." (영국이 호르무즈 해협 보장에 주도적 역할을 하고 있으며, 신규 최첨단 기술로 영국의 이익과 해협 보안을 지키고 있음)</p><p>• "This multinational mission will be defensive, independent, and credible." (이 다국적 임무는 방어적, 독립적, 신뢰할 수 있는 성격)</p><h3>Technical Insights</h3><p>• **자율형 광해 탐지 기술 도입**: 영국의 자율형 광해 탐지 드론과 대드론 시스템 배치는 해협 내 위협 대응의 효율성을 대폭 향상시킬 것으로 예상되며, 유인 자산 투입 최소화로 운영 비용 절감 가능</p><p>• **하이브리드 해군 전략 추진**: Royal Navy의 "Hybrid Navy" 개념 하에서 유인 전력(HMS Dragon)과 무인 자산의 유기적 통합으로 현대적 해양 안보 모델 구현</p><p>• **국제해상법 준수 기반의 항행 자유 확보**: IMO/UNCLOS와 일치하는 방어적·비호전적 성격의 다국적 임무를 통해 상업 해운의 신뢰 회복과 국제 해양 질서 유지</p><p>• **산업적 파급 효과**: 자율형 광해 탐지 및 드론 기술의 실전 배치는 향후 해양 보안 시스템 개발 표준화에 영향을 미칠 것이며, 관련 기술 수출 시장 확대 기회 제공</p></div>`,
+      tags: ["autonomous systems","mine-hunting drones","counter-drone systems","maritime security","Strait of Hormuz","Royal Navy"],
+      link: "https://www.navalnews.com/naval-news/2026/05/uk-to-contribute-drones-jets-and-warship-to-multinational-mission-to-secure-the-strait-of-hormuz/",
+      coords: [56.2465,26.5953],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "Klein Marine Systems Announces MANTIS UUV with Integrated Sonar Array",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-05-13",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/05/mantis-uuv-1.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Klein Marine Systems가 자율 수중 무인기(UUV) 플랫폼용 첨단 사이드스캔 소나 시스템인 MANTIS UUV를 발표했습니다.<br>• 스마트어레이(SmartArray) 기술을 통해 전자장비를 트랜스듀서 어레이에 직접 통합하여 무게, 크기, 전력 소비를 대폭 감소시켰습니다.<br>• 600 kHz 기본 주파수로 초당 6-8노트의 고속 운영이 가능하며, 측면당 150미터의 광대한 탐사 범위(총 300미터)를 제공합니다.<br>• 1.0cm의 횡단 해상도와 10cm의 종단 해상도를 제공하여 고품질 소나 이미지 생성이 가능합니다.<br>• 실시간 온보드 처리 기능으로 자율 의사결정 및 머신러닝 애플리케이션을 지원하며, 기뢰 대응, 수색/구조, 수로 측량, 해양 인프라 검사 등 다양한 작전 영역에 적용됩니다.<br>• Ethernet 기반 제어 및 데이터 인터페이스로 통합 복잡성을 감소시키고, SonarPro NXT 소프트웨어 플랫폼과 호환성을 제공합니다.</p><h3>Key Quotes</h3><p>• "consistent, high-resolution sonar imagery across changing survey ranges and speeds" (다양한 탐사 범위와 속도에서 일관성 있는 고해상도 소나 이미지 제공)<br>• "The SmartArray Technology approach embeds key electronics within the transducer array itself, a configuration intended to reduce size, weight, and power requirements" (스마트어레이 기술은 핵심 전자장비를 트랜스듀서 어레이에 내장하여 크기, 무게, 전력 요구량을 감소시킴)<br>• "Real-time onboard processing enables the sonar to process data during missions rather than requiring post-mission analysis, a capability that supports autonomous decision-making workflows and machine learning applications" (실시간 온보드 처리로 임무 중 데이터 처리가 가능하여 자율 의사결정 워크플로우와 머신러닝 애플리케이션을 지원)</p><h3>Technical Insights</h3><p>• **자율 해양 시스템의 페이로드 효율성**: SmartArray 기술의 전자장비 통합으로 UUV 운영자는 제한된 페이로드 용량을 보존하여 추가 센서나 장비를 탑재할 수 있게 되어, 자율 수중 임무의 다중 기능화가 용이해집니다.</p><p>• **실시간 데이터 처리와 자율 내비게이션**: 온보드 신호 처리 및 동적 포커싱, 적응 빔포밍 기술은 UUV가 사전 프로그래밍된 경로를 벗어나 실시간 환경 변화에 대응하는 자율 의사결정을 가능하게 하며, IMO 자율 선박 규제(MASS) 논의에서 요구되는 실시간 인지 능력 강화에 기여합니다.</p><p>• **해양 방위 및 민간 해양 인프라의 융합**: 기뢰 대응(MCM), 수색/구조, 수로 측량, 해양 인프라 검사 등 다양한 작전 영역 적용으로 방위산업과 상용 해양 산업 간의 기술 수렴이 심화되고 있으며, 이는 국제 해사 규정 표준화의 필요성을 높입니다.</p><p>• **머신러닝 기반 자동화의 진전**: Ethernet 기반 아키텍처와 SonarPro NXT 소프트웨어 플랫폼의 연계로 빅데이터 분석 및 머신러닝 알고리즘 통합이 가능해져, 향후 완전 자율 해양 운영 시스템의 기술적 기초를 형성합니다.</p></div>`,
+      tags: ["Autonomous Underwater Vehicle","Sonar Technology","UUV","Marine Technology","Naval Systems"],
+      link: "https://www.navalnews.com/naval-news/2026/05/klein-marine-systems-announces-mantis-uuv-with-integrated-sonar-array/",
+      coords: [-71.5724,43.2081],
+      location: "New Hampshire, USA"
+    }
+  ]
+});
