@@ -6476,3 +6476,40 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-13
+addEvents({
+  "2026-05-13": [
+    {
+      type: "news",
+      title: "U.K. Pledges Destroyer, Autonomous Mine Hunting Systems to Strait of Hormuz Mission",
+      source: "USNI News",
+      sourceMeta: "usni.org · 2026-05-13",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 영국 국방부가 호르무즈 해협 항행의 자유 보장을 위해 구축함 HMS Dragon(D35), 타이푼 전투기, 자율형 기뢰 탐지 시스템, 무인 수상함정(Kraken 드론 보트) 등으로 구성된 병력을 배치 발표<br>• 미국과 이란의 '지속가능한' 휴전협정 체결 이후 다국적 해양 보안 임무 참여<br>• HMS Dragon은 3월부터 지중해에 배치되었으며 현재 수에즈 운하를 거쳐 호르무즈 해협으로 이동 중<br>• 자율형 기뢰 탐지 시스템과 무인 수상함정(Kraken)의 배치로 감시, 정찰 및 위협 탐지 능력 강화<br>• 영국 해군의 자율 수상함정 운용으로 국제 해양 안보 임무의 자동화 및 효율성 제고</p><h3>Key Quotes</h3><p>• "The U.K. has pledged a force package that includes a destroyer, Typhoon fighter aircraft, autonomous mine hunting systems and unmanned surface vessels to secure freedom of navigation in the Strait of Hormuz" (영국이 호르무즈 해협의 항행의 자유를 보장하기 위해 구축함, 전투기, 자율형 기뢰 탐지 시스템, 무인 수상함정으로 구성된 병력을 배치하겠다고 약속)</p><p>• "The Royal Navy is sending destroyer HMS Dragon (D35), which has been deployed in the Mediterranean since March and is now making its way to the Suez Canal" (영국 해군이 3월부터 지중해에 배치되어 있던 HMS Dragon 구축함을 수에즈 운하를 거쳐 보내고 있음)</p><p>• "The U.K. also pledged the Royal Navy's autonomous Kraken drone boats, allowing the multinational force to sense" (영국이 자율형 Kraken 드론 보트를 배치하여 다국적 해군 연합이 감시 능력을 갖추도록 함)</p><h3>Technical Insights</h3><p>• 자율형 기뢰 탐지 시스템(Autonomous mine hunting systems)의 호르무즈 해협 배치로 기뢰 위협 탐지 및 제거 작전의 위험 감소 및 운영 효율성 향상<br>• 무인 수상함정(Kraken USV) 운용으로 24/7 지속적인 감시·정찰이 가능하며, 협소한 해역(Chokepoint) 모니터링에 유효<br>• IMO 및 국제 해양법 준수 하에 자율형 장비의 국제 해역 운용 사례로, 자율 선박의 실전 배치 및 운영 가능성 입증<br>• 다국적 해군 연합의 자율형 시스템 통합으로 해상 교통로(SLOCs) 보호 임무의 기술 혁신 가속화</p></div>`,
+      tags: ["Autonomous Systems","Royal Navy","Strait of Hormuz","Maritime Security"],
+      link: "https://news.usni.org/2026/05/13/u-k-pledges-destroyer-drone-hunting-systems-to-strait-of-hormuz-mission",
+      coords: [53.5,26.1],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
+
+// Auto-collected: 2026-05-14
+addEvents({
+  "2026-05-14": [
+    {
+      type: "news",
+      title: "South Korean Cable Maker Taihan Acquires Cable Laying Vessel from DOF Group",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-05-14",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/05/South-Korean-cable-maker-buys-cable-laying-vessel-from-DOF.jpg?image-crop-positioner-ts=1778739432",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 한국 해양케이블 제조업체 대한전선이 노르웨이 DOF그룹으로부터 2016년 건조 케이블 부설선(CLV) '스칸디 커넥터'를 인수</p><p>• 10,000톤급 규모로 네덜란드 대멘사 설계, 27개 프로젝트에 약 1,300km 해저케이블 설치 실적 보유</p><p>• 기존 PALOS 선박과 함께 2척 운영으로 프로젝트 특성별 최적 선박 배치 가능한 이중 설치 시스템 구축</p><p>• 5월 14일 매매계약 체결, 138.4m 규모 선박은 8월 한국 도착 예정</p><p>• 글로벌 해상풍력 확대로 인한 케이블 부설선 수요 급증 상황에서 신조 대신 즉시 운영 가능한 고사양 선박 확보로 프로젝트 대응력 강화</p><p>• 해외 선박 의존도 감소로 국내 전력망 안정성 및 에너지 안보 강화 기대, 추가 용선사업 확대 계획</p><h3>Key Quotes</h3><p>• "The investment is particularly meaningful as it comes amid rapidly growing demand for large-scale cable laying vessels driven by the global expansion of offshore wind power" (글로벌 해상풍력 확대에 따른 대형 케이블 부설선 수요 증가 시점에서 의미 있는 투자)</p><p>• "By securing a high-specification CLV that can be deployed immediately rather than constructing a new vessel, Taihan has improved project responsiveness and operational stability" (신규 건조 대신 즉시 운영 가능한 고사양 선박 확보로 프로젝트 대응성 및 운영 안정성 향상)</p><h3>Technical Insights</h3><p>• 케이블 부설선의 국내 확보로 해상풍력 개발 시 설치 기술력 고도화 및 국제 수주경쟁력 강화 가능</p><p>• 삼각주 케이블, 수출 케이블, 장거리 전력망 연결 및 HVDC 송전망 프로젝트 등 다양한 해양 에너지 인프라 구축에 신속한 대응 체계 구성</p><p>• 한국의 해상풍력 단지 개발 가속화에 따라 국내 용선 의존도 감소로 에너지 자립도 향상 및 프로젝트 비용 경쟁력 개선 기대</p><p>• 이중 선박 운영 체계는 프로젝트 환경별 최적화된 선박 배치로 설치 효율성 극대화 및 글로벌 공급 불균형 해소에 기여</p></div>`,
+      tags: ["Cable Laying Vessel","Offshore Wind","South Korea","Submarine Cables"],
+      link: "https://www.offshore-energy.biz/south-korean-cable-maker-buys-cable-laying-vessel-from-dof/",
+      coords: [127,37.5],
+      location: "South Korea"
+    }
+  ]
+});
