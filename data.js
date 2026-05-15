@@ -6557,3 +6557,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-14
+addEvents({
+  "2026-05-14": [
+    {
+      type: "news",
+      title: "Oil Prices Rise Amid Ship Attacks and Seizures in Strait of Hormuz",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-15",
+      image: "https://images.marinelink.com/images/maritime/w800/source-government-170630.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 호르무즈 해협 내 선박 공격과 압수 우려로 유가 상승 - 브렌트유 배럴당 $106.32, WTI $101.71으로 인상<br>• 이란 해양경비대가 UAE 인근에서 선박 1척을 압수했으며, 수요일에는 인도 화물선이 오만 인근 해역에서 침몰<br>• 이란 혁명수비대는 수요일 저녁 이후 30척이 호르무즈 해협을 통과했다고 주장하나, 전쟁 이전 일일 통상 140척 대비 대폭 감소<br>• 트럼프 미국 대통령과 시진핑 중국 주석이 호르무즈 해협 해상운송로 개방 유지에 합의<br>• 해통기금 분석가 양안(Yang An)은 유가의 주 원인이 공급 부족이라고 언급, 선박 통과로 우려 일부 완화되었으나 추세 변화 미흡</p><h3>Key Quotes</h3><p>• "Ships passing through the strait eased some market concerns, but not enough to change the strong trend driven by tight supply." (해협을 통과하는 선박들이 시장 우려를 다소 완화했지만, 공급 부족으로 인한 강한 추세를 변화시키기에는 충분하지 않다)</p><p>• "China was being very pragmatic about involvement with Iran, and it was important to China to have the Strait of Hormuz open." (중국은 이란 관련 개입에 매우 실용적이며, 호르무즈 해협 개방이 중국에게 중요하다)</p><h3>Technical Insights</h3><p>• 호르무즈 해협은 전 세계 해상 석유 거래의 약 21%가 통과하는 전략적 해상교통로로서, 지정학적 긴장으로 인한 선박 운항 차질은 국제유가에 직결되는 구조<br>• 선박 압수와 침몰 사건은 SOLAS(국제해상인명안전규칙) 및 IMO 안전기준 준수와 해역 보안 강화의 필요성을 대두시키며, 해운사들의 보험료 상승과 운항 경로 변경 압박 초래<br>• 해협 통과 선박 수의 급감(일일 30척 vs. 140척)은 해운업계의 우회 항로 선택 증가를 의미하며, 장거리 운항으로 인한 연료비 증가와 운송 비용 상승을 야기하는 산업적 파장 발생</p></div>`,
+      tags: ["Oil Market","Strait of Hormuz","Ship Seizure","Iran","Geopolitical Risk"],
+      link: "https://www.marinelink.com/news/oil-prices-rise-amid-fears-ship-attacks-539237",
+      coords: [56.27,26.12],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "AI Technology Boosts FarSounder Navigation Capabilities with ProteusCore Integration",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-14",
+      image: "https://images.marinelink.com/images/maritime/w800/source-farsounder-170627.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• FarSounder의 Argos 전방향 소나(FLS) 시스템이 Tocaro Blue의 ProteusCore™ AI 소프트웨어와 통합되어 해양 네비게이션 능력이 강화됨<br>• ProteusCore는 300만 개 이상의 레이더 프레임으로 학습된 머신러닝 모델을 활용하여 목표 탐지 및 환경 인식 능력 제공<br>• Autofocus 기능은 해상 및 기상 조건에 따라 레이더 설정(범위, 게인)을 자동으로 조정하여 수동 조작 필요성 제감<br>• 무인선박, 원양크루즈선, 슈퍼요트, 상업용 선박, 정부 함정 등 전 세계 다양한 선박에서 활용 중<br>• 시스템은 AIS 신호가 없는 선박 분류, 부표, 해안선, 수중 장애물 식별 등 다기능 인식 제공</p><h3>Key Quotes</h3><p>• "ProteusCore transforms marine radar into an intelligent perception sensor capable of detecting, classifying, and tracking objects to support vessel control, collision avoidance, and safer navigation." (ProteusCore는 해상 레이더를 지능형 인식 센서로 변환하여 선박 제어, 충돌 회피 및 안전한 항해를 지원하는 목표 탐지, 분류 및 추적 능력 제공)</p><p>• "Argos FLS delivers a continuously updated 3D view enabling safer navigation in poorly charted waters, shallow coastlines, and many changing environments." (Argos FLS는 미측량 해역, 얕은 해안선 및 다양한 변화하는 환경에서 안전한 항해를 가능하게 하는 지속적으로 업데이트된 3D 보기 제공)</p><h3>Technical Insights</h3><p>• **AI 기반 레이더 인식 기술**: ProteusCore의 머신러닝 모델은 대규모 레이더 데이터셋(300만 프레임)을 학습하여 해상 목표 탐지 정확도 향상, 자율운항선 및 무인선박의 COLREG 준수 역량 강화</p><p>• **해양 감지 능력 통합**: 전방향 소나(FLS)와 AI 레이더 인식의 결합으로 수중(해저, 수주) 및 수상(선박, 부표, 해안선) 환경을 동시에 인식 가능하여 자율항해 안전성 대폭 향상</p><p>• **자동 시스템 조정**: Autofocus 기능은 기상 및 해상 조건 변화에 실시간으로 대응하는 적응형 네비게이션 제공으로, IMO 자율운항선 기준의 "human-equivalent" 인식 요구사항 충족에 기여</p><p>• **비AIS 목표 인식**: AIS 송신이 없는 중소형 선박, 어선, 장애물 등을 분류 식별하는 능력으로 자율운항선의 실해역 적용 가능성 증대 및 해양 교통 안전성 제고</p></div>`,
+      tags: ["AI Navigation","Forward Looking Sonar","Autonomous Vessels","Collision Avoidance"],
+      link: "https://www.marinelink.com/news/ai-technology-boosts-farsounder-539233",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "Wide Barge Innovation Could Reduce Crane Dependency for Offshore Wind Turbine Installation",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-14",
+      image: "https://images.marinelink.com/images/maritime/w800/source-sintef-170626.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• SINTEF, Aker Solutions, Sarens, BOA가 협력하여 풍력 터빈 기초 설치용 초대형 바지선 설계 및 테스트 진행 - 길이 166m, 폭 73m 이상의 세계 최대급 규모</p><p>• 기존에는 전 세계 5척의 선박만이 수천 톤 무게의 해상 풍력 터빈 기초 구조물 운반 가능했으나, 이 바지선은 동시에 여러 개의 기초 구조물 수송 가능</p><p>• 석유·가스 산업의 경험을 활용하여 Trondheim의 SINTEF Ocean Basin에서 모형 시험 수행 - 결과는 매우 긍정적</p><p>• 바지선은 30m 이상의 깊이까지 강하 가능하며 갑판이 수심 22.5m까지 침수되도록 설계되어 유연한 운영 가능</p><p>• 소형 크레인 선박 또는 무 크레인 방식으로 화물 하역 가능 - 운영 비용 절감 및 접근성 개선</p><p>• WindRise 프로젝트의 성공으로 노르웨이 해상풍력 공급산업의 국내외 경쟁력 강화 예상</p><h3>Key Quotes</h3><p>• "We are very satisfied with the tests that we've done so far. The results align well with the numerical analyses that we carried out in advance," says Robert Indergård, a senior research scientist at SINTEF. (SINTEF의 선임 연구원 Robert Indergård는 현재까지의 시험 결과가 사전 수치 분석과 일치한다며 만족감을 표시)</p><p>• "The cargo can either be floated out without a crane vessel altogether or lifted off the barge using smaller, cheaper and more accessible vessels." (화물을 크레인 선박 없이 부유시키거나, 더 작고 저렴하며 접근 가능한 선박으로 바지선에서 하역할 수 있다는 것은 운영 유연성 증대를 의미)</p><h3>Technical Insights</h3><p>• **극한 해상 환경 대응 기술**: 바지선의 자체 힌지 시스템과 리프팅 프레임이 다양한 파도 조건에서 구조물의 안정성을 유지할 수 있도록 설계되어, 가혹한 해상환경에서의 안정적 운영 가능성 입증</p><p>• **중량물 해상운송의 패러다임 전환**: 기존의 고가 대형 크레인 선박(월드와이드 5척)에 대한 의존도를 감소시키고, 소형 크레인 또는 무크레인 방식 도입으로 해상풍력 설치 비용 절감 및 산업 진입장벽 완화</p><p>• **공급망 효율화 및 지속가능성**: 여러 기초 구조물을 동시 운송함으로써 왕복 항차 감소, 연료비 및 탄소 배출 감소 - 재생에너지 산업의 탄소 중립성 강화</p><p>• **조선산업 기술 혁신 기여**: 석유·가스 산업의 엔지니어링 경험을 재생에너지 섹터에 적용하는 사례로, 기술 이전과 산업 간 협력의 모범 사례 제시</p></div>`,
+      tags: ["Offshore Wind","Installation Technology","Heavy Lift Vessel","Innovation","SINTEF Research"],
+      link: "https://www.marinelink.com/news/wide-barge-reduce-crane-needs-turbine-539232",
+      coords: [10.3951,63.4305],
+      location: "Trondheim, Norway"
+    }
+  ]
+});
