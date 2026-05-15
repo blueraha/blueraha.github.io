@@ -6513,3 +6513,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-14
+addEvents({
+  "2026-05-14": [
+    {
+      type: "accident",
+      title: "Somali Piracy Escalation: Multiple Vessel Hijackings and Ransom Demands",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-14",
+      image: "https://images.marinelink.com/images/maritime/w800/honour-source-170629.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **소말리아 해적 활동 급증**: 4월 21일 유조선 Honour 25 외 최소 3척이 소말리아 펀틀랜드 해역에서 납치되어 해적 활동 재확대 추세 확인<br>• **피해 현황 및 신원**: 파키스탄 승무원 10명 포함 총 17명이 Honour 25에 탑승 중이었으며, 현지 주민들의 항의 시위로 인명 상황이 국제적 관심 대상화<br>• **신고가 인상 추세**: 유조선 Eureka의 신고가가 300만 달러에서 1000만 달러로 상향 조정되어 해적 활동의 조직화 및 확대 의도 시사<br>• **전략적 배경**: 홍해 및 호르무즈 해협 군사작전 집중으로 인한 해적퇴치 해군 병력 부족, 유가 상승에 따른 유조선 유인 증가, 소말리아 개발 미국 자금 지원 중단이 복합적 요인<br>• **근본 원인 분석**: 정치 불안정과 극빈곤 등 구조적 문제가 해결되지 않으면서 해적들이 지역사회에서 국가를 대체하는 자치 구조로 변모<br>• **산업 영향**: 팔레몬 해양 보안 보고서에 따르면 서인도양 해상 상황이 악화되고 있어 상선 운항 및 보험료 상승 시사</p><h3>Key Quotes</h3><p>• "Taken together, they point to something more important: the conditions that enable piracy are building again in the Western Indian Ocean." <br>(이들 사건을 종합적으로 볼 때, 서인도양에서 해적 활동을 가능하게 하는 조건들이 다시 형성되고 있음을 의미)</p><p>• "Pirates legitimise their attacks with a Robin Hood narrative, presented as a defence of the common good. By guaranteeing a level of prosperity that Mogadishu cannot offer and redistributing the proceeds, they gain protection from local communities."<br>(해적들은 공익 방어라는 로빈훗식 명분으로 공격을 정당화하며, 모가디슈가 제공할 수 없는 수준의 번영을 보장하고 수익을 재분배함으로써 지역사회의 보호와 정치적 통제력을 확보)</p><h3>Technical Insights</h3><p>• **해상 보안 정보 공유 필요성**: 팔레몬 마리타임 같은 민간 해양보안 기업의 위협 정보가 선박 운영자와 해운산업에 공유될 필요성 증가<br>• **IMO 해상 안전 규정 강화**: 해적 위협 해역 통과 선박의 보안 조치 강화, 선원 보호 프로토콜 강화 등 국제해사기구(IMO) 지침 재검토 필요<br>• **자율운항선박의 해적 취약성**: 향후 자율운항선박(MASS) 도입 시 해적 대응 능력 부족 문제로 고위험 해역 운항 제약 예상<br>• **지역 해양 감시 기술 고도화**: 드론, 인공위성 영상, AI 기반 이상 활동 감지 등 첨단 기술을 통한 해적 조기 경보 및 해군 대응 효율화 필수</p></div>`,
+      tags: ["Piracy","Somalia","Vessel Hijacking","Ransom","Maritime Security"],
+      link: "https://www.marinelink.com/news/somali-piracy-rise-539235",
+      coords: [49.2,8.5],
+      location: "Somalia (Puntland region), Western Indian Ocean"
+    },
+    {
+      type: "accident",
+      title: "India-Flagged Cargo Vessel Sinks Off Coast of Oman After Suspected Drone/Missile Attack",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-14",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stocknataliia-170622.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 인도 국적 목선(木船) 하지 알리호(Haji Ali)가 오만 해역에서 드론 또는 미사일 공격으로 추정되는 화재로 인해 침몰<br>• 승선 인원 14명 전원 오만 해안경비대에 의해 구조되어 디바 항으로 이송됨<br>• 이란-미국/이스라엘 분쟁 개시(2월 28일) 이후 당 해역에서 침몰한 두 번째 선박 사건<br>• 해협 호르무즈 해역 통과 중인 상선 공격으로 약 2만 명의 선원이 해역 탈출 불가 상태<br>• 인도 정부가 상선 공격을 규탄하며 "민간 해운과 항해의 자유 침해"에 대한 깊은 우려 표명<br>• 오만 해역 통과 인도 국적 선박이 이번이 적어도 3번째 공격 사건</p><h3>Key Quotes</h3><p>• "The attack on an Indian-flagged ship off the coast of Oman yesterday is unacceptable and we deplore the fact that commercial shipping and civilian mariners continue to be targeted" <br>(오만 해역의 인도 국적 선박 공격은 용납할 수 없으며, 상선과 민간 선원이 계속 목표가 되는 것을 깊이 유감으로 생각한다)</p><p>• "India reiterates that targeting commercial shipping and endangering innocent civilian crew members, or otherwise impeding freedom of navigation and commerce, should be avoided"<br>(인도는 상선 공격, 무고한 민간 선원 위험, 항해 자유 및 상업 활동 방해를 삼가야 한다고 재차 강조한다)</p><h3>Technical Insights</h3><p>• **호르무즈 해협 해상교통 보안 위기**: 글로벌 에너지 운송의 약 30%를 담당하는 전략적 해역에서의 반복적 공격으로 국제 해운 산업의 구조적 위험 증대<br>• **드론/미사일 기반 신형 해상 위협**: 전통적 해적 행위와 달리 고도화된 무기체계 사용으로 인한 선박 피해 양상 변화 – IMO 해상보안 규정(ISPS Code) 재정비 필요<br>• **민간 해운 국제분쟁 피해 심화**: 분쟁 당사국이 아닌 제3국(인도) 선박의 피해로 국제해사기구의 전시(戰時) 해운 보호 메커니즘 강화 촉구<br>• **해운 경로 회피로 인한 경제적 영향**: 호르무즈 해협 우회 항로 선택으로 인한 운송비 증가 및 2만여 선원의 억류로 국제해사노동기구(ILO) 협약 위반 상황 발생</p></div>`,
+      tags: ["Sinking","Attack","Oman Waters","Indian Vessel","Drone Strike","Maritime Security"],
+      link: "https://www.marinelink.com/news/indiaflagged-cargo-vessel-sinks-off-coast-539221",
+      coords: [58.5921,23.61],
+      location: "Off Coast of Oman / Gulf of Oman"
+    },
+    {
+      type: "news",
+      title: "U.S. Navy Increases Submarine Investment in 2027-2031 Shipbuilding Plan",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-05-14",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/01/Screenshot-2026-01-06-at-15-44-35-585534131_1324141103077032_203544480535893070_n.jpg-JPEG-Image-1013-×-1350-pixels-—-Scaled-96-1.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **대규모 예산 증액**: 미 해군이 2027-2031회계년도 미래방위계획(FYDP)에서 잠수함에 총 1,249억 달러를 배정하여 해군 수중전력 현대화에 대규모 투자를 단행 중</p><p>• **핵전략 핵심자산 확보**: 콜롬비아급(SSBN-826) 탄도미사일 잠수함 5척, 버지니아급 공격잠수함 10척 획득을 통해 핵3원체제의 해상 억제력 유지 및 강화</p><p>• **산업기반 고도화**: 잠수함 산업 공급망 안정화 및 인력 확충에 62억 달러를 투자하여 연간 콜롬비아급 1척, 버지니아급 2척 생산 능력 확보</p><p>• **기술적 우위 강화**: 콜롬비아급의 전자식 추진·제어 시스템과 50년 이상의 저소음 기술 적용으로 오하이오급 퇴역에 따른 전략 억제력 공백 메우기</p><p>• **생산 일정 확정**: 콜롬비아급 1-3번함은 2029-2031년 인수, 4-8번함은 2032-2036년 인수 예정으로 장기 전력화 로드맵 수립</p><h3>Key Quotes</h3><p>• "Our sea-based strategic deterrent—the SSBN force and its associated NC3—are the bedrock of our national security and provide the most survivable leg of the Nuclear Triad, ensuring the President has strategic options to deter aggression and maintain peace." (미 해군의 해상 기반 전략적 억제력은 국가 안보의 초석이며, 핵3원체제 중 가장 생존성 높은 전력으로서 대통령이 침략을 억지하고 평화를 유지할 전략적 선택지를 확보케 함)</p><h3>Technical Insights</h3><p>• **전략 핵잠 현대화의 필수성**: 콜롬비아급은 오하이오급의 노후화로 인한 해상 핵억제력 공백을 메우는 핵심으로, 극도의 저소음 설계와 최신 전자식 추진체계로 50년 이상의 운용 수명을 확보하는 것이 해양 안보의 근본 요소</p><p>• **산업 공급망의 복원력 강화**: 블록VI 다년도 계약(Multi-year Procurement) 체계로 버지니아급의 안정적 수요를 보장하여 조선 산업의 생산 기지 유지 및 노동력 확보를 동시에 달성하는 전략적 접근</p><p>• **고급 수중 지배력 유지**: 버지니아급 블록VI/VII 획득을 통해 공격잠수함의 우위성 확보로 해양 통제 능력을 지속하며, 이는 인도-태평양 지역에서의 미 해군의 수중 작전 우월성 보장과 직결됨</p></div>`,
+      tags: ["U.S. Navy","Submarine","Defense Budget","Columbia-class","Virginia-class"],
+      link: "https://www.navalnews.com/naval-news/2026/05/u-s-navy-goes-all-in-on-submarines-in-released-shipbuilding-plan/",
+      coords: [-77.0369,38.8951],
+      location: "United States (Washington D.C.)"
+    }
+  ]
+});
