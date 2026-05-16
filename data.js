@@ -6645,3 +6645,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-16
+addEvents({
+  "2026-05-16": [
+    {
+      type: "news",
+      title: "Massachusetts Maritime Academy Cadets Win Honorable Mention for Bulk Carrier Conversion Paper",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-05-16",
+      image: "https://maritime-executive.com/media/images/article/MIT-SNAME-Paper-Night.fa4b71.f69cd2.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 매사추세츠 해양 아카데미의 6명 학생 팀이 MIT에서 개최된 SNAME Paper Night에서 "벌크 선박을 이동식 발전소로: 대체 전원 솔루션 설계" 논문으로 우수상(Honorable Mention) 수상<br>• Jackson Perrault, Colby Townsend, Nico Restrepo, Tiernan Moran, Devlin Keon, Hung Tran이 저자로 참여<br>• 논문은 기존 벌크 운반선을 해안 및 도서 지역에 전력을 공급할 수 있는 이동식 발전소로 전환하는 기술적 실현 가능성 평가<br>• SNAME Student Paper Awards는 해양 및 해상 산업 관계자들을 위해 매년 시상하는 권위 있는 학생 논문상<br>• 이는 해양 산업의 미래 지도자들이 선박 재활용 및 에너지 전환 분야에서 창의적 솔루션 개발 중임을 보여주는 사례</p><h3>Key Quotes</h3><p>• "Congratulations to Jackson, Colby, Nico, Tiernan, Devlin, and Hung for their research, compilation, and presentation of an outstanding paper. Their achievement demonstrates the high level of dedication and technical skill our cadets bring to every challenge." (학생들의 연구, 컴파일, 발표에 축하하며, 이는 학생들이 모든 도전에 가져오는 헌신과 기술 능력의 높은 수준을 보여준다는 의미)</p><h3>Technical Insights</h3><p>• 기존 벌크 운반선의 이차적 활용 가능성 검토로 해양 산업의 순환 경제 및 친환경 에너지 전환 동향 반영<br>• 모바일 발전소 개념은 기후 변화 대응 및 도서 지역 전력망 취약성 해소를 위한 해상 인프라 혁신 솔루션으로 평가<br>• SNAME과 같은 전문 학회의 학생 논문 상은 차세대 해양 엔지니어의 기술 역량 강화 및 산업 문제 해결 능력 증진에 기여</p></div>`,
+      tags: ["Maritime Education","SNAME","Ship Conversion","Alternative Energy","Mobile Powerplant"],
+      link: "https://maritime-executive.com/article/mass-maritime-s-sname-cadets-earn-honorable-mention",
+      coords: [-71.0096,42.3601],
+      location: "Massachusetts, USA"
+    }
+  ]
+});
