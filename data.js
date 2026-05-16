@@ -6601,3 +6601,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-15
+addEvents({
+  "2026-05-15": [
+    {
+      type: "news",
+      title: "HII and MetalCraft Marine Deliver ROMULUS-25 USV Prototypes for U.S. Marine Corps",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-05-15",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/05/ROMULUS-25-HII.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• HII와 MetalCraft Marine이 미국 해병대를 위해 ROMULUS-25 무인 표면함정(USV) 2척 프로토타입을 2025년 12월 납품하고 해상 테스트 완료<br>• 방위혁신부(DIU) 계약으로 소형 자율항해 무인정 개발 프로젝트의 일환이며, 미군 및 동맹군의 해군작전 지원 목표<br>• ROMULUS-25는 27피트 고속 요격정으로 1,000파운드 페이로드 탑재 능력과 1,000해리 항속거리 보유<br>• HII의 Odyssey AI 기반 자율항해 시스템으로 구동되며, 5년간 2,200시간 이상의 정부 주도 테스트 검증 완료<br>• Odyssey 자율항해 기술은 30개 이상의 플랫폼에 배치되어 12,000시간 이상의 해상 운영 실적 보유<br>• 미군 다영역작전(Multi-Domain Operations) 개념 하에서 유무인 혼합 함대 역량 고도화의 핵심 사례</p><h3>Key Quotes</h3><p>• "Successfully delivering on this prototype contract with the Defense Innovation Unit and the U.S. Marine Corps is a strong recognition of HII's deep experience and the maturity of our proven autonomous technologies" <br>(방위혁신부 및 해병대와의 프로토타입 계약 성공적 완료는 HII의 깊이 있는 경험과 검증된 자율항해 기술의 성숙도를 인정받은 것)</p><p>• "The ROMULUS-25, powered by our Odyssey autonomy suite, builds on thousands of hours of successful at-sea operations and demonstrates how scalable, AI-enabled unmanned systems can extend the reach, endurance, and effectiveness of naval forces"<br>(Odyssey 자율항해 시스템으로 구동되는 ROMULUS-25는 수천 시간의 성공적 해상운영 경험을 바탕으로, 확장 가능한 AI 기반 무인시스템이 해군의 작전 범위, 지속성 및 효과를 어떻게 확대할 수 있는지 입증)</p><h3>Technical Insights</h3><p>• **Odyssey 자율항해 시스템의 기술 성숙도**: 5년간 2,200시간 정부 테스트와 30개 플랫폼에서 12,000시간 운영 기록은 IMO 무인선박 규제 승인 기준(code of practice) 충족을 위한 강력한 운영 데이터 베이스 제공</p><p>• **모듈식 개방형 시스템 아키텍처(MOSA)**: 센서 통합, Minotaur 표적화 네트워크 연계, AI 기반 접촉 식별 기능은 IMO COLREG 자동화 준수와 SOLAS 안전 요건 이행의 선례 구축</p><p>• **소형 USV 스펙트럼 확장**: 7피트 마이크로 USV부터 190피트 ROMULUS-190까지 다층적 플랫폼 전개는 해양 지역별, 임무별 자율운영 역량 고도화의 표준화 추세 반영</p><p>• **유무인 혼합함대 운영개념**: 해병대 및 동맹군 협력 작전 구도에서 자율USV의 소요군 인수-인도(FOC) 단계 진입으로, 방위사업 무인화 가속화 및 국방 자율시스템 산업 발전의 촉매 역할</p></div>`,
+      tags: ["Autonomous USV","ROMULUS-25","HII","U.S. Marine Corps","Odyssey Autonomy"],
+      link: "https://www.navalnews.com/naval-news/2026/05/hii-metalcraft-marine-deliver-romulus-25-usv-prototypes-for-u-s-marine-corps/",
+      coords: [0,0],
+      location: "U.S. Marine Corps (unspecified)"
+    },
+    {
+      type: "news",
+      title: "Velesto Energy Secures Multi-Well Offshore Drilling Contract in Malaysia",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-05-15",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2024/08/Velesto_NAGA-8_691x518.jpg?image-crop-positioner-ts=1725020110",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 말레이시아 석유굴착 회사 벨레스토 에너지(Velesto Energy)가 히비스커스 오일&가스(Hibiscus Oil & Gas)와의 계약으로 해상 잭업 시추선을 공급하기로 확정</p><p>• 본 계약은 벨레스토의 자회사 벨레스토 드릴링(Velesto Drilling)을 통해 체결되었으며, 제3자 보유 잭업 시추선을 첫 차용하는 "자산 경량화" 구조의 거래</p><p>• 작업 범위: 8개의 마개 및 폐기(P&A) 공정, 1개의 탐사 공정, 최대 7개의 추가 선택 공정 포함</p><p>• 2026년 5월부터 말레이시아 해역(PM3 CAA 및 북사바) 일대에서 시추 작업 개시 예정</p><p>• 이번 계약으로 벨레스토의 수주 잔액 강화 및 운영 능력 확대, 다양한 계약 구조를 통한 지속적 자산 활용 가능</p><h3>Key Quotes</h3><p>• "This award reflects Velesto's ability to support our clients in different ways while maintaining the same focus on operational excellence, safety and performance." <br>(이 수주는 벨레스토가 운영상 우수성, 안전 및 성과에 대한 초점을 유지하면서 다양한 방식으로 고객을 지원할 수 있는 능력을 반영한다)</p><p>• "As our first asset-light arrangement, it broadens how we can execute projects while maintaining the same discipline and consistency in how we operate."<br>(우리의 첫 번째 자산 경량화 구조로서, 같은 규율과 일관성을 유지하면서 프로젝트를 실행하는 방식을 확대한다)</p><h3>Technical Insights</h3><p>• 자산 경량화(Asset-light) 계약 구조 도입으로 해상 시추 기업의 유연성 강화 및 시장 변동성에 대한 신속한 대응 체계 구축 가능</p><p>• 제3자 보유 잭업 시추선 활용을 통해 자본 집약적 장비 소유 부담을 경감하고, 프로젝트별 최적의 자원 배분 전략 실행</p><p>• 말레이시아 해역에서의 다중 시추 공정(P&A 및 탐사) 동시 수행으로 오퍼레이션 효율성 및 고객 가치 제공 극대화</p><p>• 해상에너지 산업의 구조적 변화 추세 반영: 소유 자산 중심에서 운영 능력 중심의 경쟁력 우위 모델로 산업 재편</p></div>`,
+      tags: ["Jack-up Rig","Offshore Drilling","Malaysia","Velesto Energy","Hibiscus Oil & Gas"],
+      link: "https://www.offshore-energy.biz/velesto-lines-up-multi-well-offshore-rig-job-in-southeast-asia/",
+      coords: [102.6331,4.2105],
+      location: "Offshore Malaysia (PM3 CAA and North Sabah)"
+    },
+    {
+      type: "news",
+      title: "Azerbaijan Launches Offshore Wind Measurement Campaign with LiDAR in Caspian Sea",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-05-15",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/05/EOLOS-Floating-LiDAR-Solutions-buoy-Azerbaijan-1024x577-1.jpg?image-crop-positioner-ts=1778843498",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 아제르바이잔 그린에너지(AGEC)가 카스피해에서 스페인 EOLOS사의 부유식 라이다 부이(FLS200)를 배치하여 해상 풍력 측정 캠페인 개시<br>• 초기 용량 200MW, 총 용량 600MW의 해상풍력 프로젝트 개발을 위한 1년 예정의 현장 측정 및 데이터 수집<br>• 아제르바이잔 에너지부와 AGEC의 Clean Energy Capital이 해상풍력 개발 협약 체결(2025년 12월)<br>• EOLOS가 2026년 1월 입찰을 통해 계약 수주, OWC(ABL Group 계열사)가 기술 자문 역할 수행<br>• 카스피해 지역 최초의 해상풍력 현장 평가(site assessment) 프로젝트로, 신흥 재생에너지 시장 개발의 중요한 초석</p><h3>Key Quotes</h3><p>• "We are excited to witness the first tangible steps towards our diversification strategy. EOLOS consistently demonstrated their leading competence to deliver what we require and we have no doubt this dedication of high service will continue throughout the campaign." (우리의 다각화 전략의 첫 번째 실질적 진전을 목격하게 되어 흥분된다. EOLOS는 필요한 요구사항을 충족시킬 수 있는 탁월한 역량을 지속적으로 입증했다.)</p><p>• "This award reflects the rise of new markets that need to be fostered and attended to where experience can be carried over from more familiar geographies." (이 수주는 기존의 익숙한 지역에서의 경험을 적용할 수 있는 새로운 시장의 부상을 반영한다.)</p><h3>Technical Insights</h3><p>• 부유식 라이다(Floating LiDAR) 기술의 카스피해 지역 최초 도입으로 해상 풍력자원 평가 기술의 신흥시장 확대를 의미함<br>• Stage 3 인증 FLS200 시스템은 풍속/해상기상/생물오염 모니터링 장비와 해저 고정식 장비를 조합하여 정밀한 해양 환경 데이터 수집<br>• 1년간의 장기 캠페인을 통한 은행급(bank-grade) 데이터 확보로 터빈 및 기초 설계 선택의 과학적 근거 제공<br>• 카스피해의 독특한 환경(염도, 수심, 해상 조건)에서의 라이다 운영 경험 축적은 향후 중동, 중앙아시아 해상풍력 개발에 기여할 것으로 예상됨</p></div>`,
+      tags: ["Offshore Wind","LiDAR Technology","Caspian Sea","Renewable Energy","Wind Measurement","Azerbaijan"],
+      link: "https://www.offshore-energy.biz/azerbaijan-kicks-off-offshore-wind-measurement-campaign-with-lidar-deployed-in-caspian-sea/",
+      coords: [51.1694,40.1431],
+      location: "Caspian Sea, Azerbaijan"
+    }
+  ]
+});
