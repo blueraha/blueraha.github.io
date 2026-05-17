@@ -6665,3 +6665,58 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-16
+addEvents({
+  "2026-05-16": [
+    {
+      type: "news",
+      title: "BlackSea Technologies Demonstrates GARC USV Capabilities in Arctic Sentry 2026 Exercise",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-05-16",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/05/BlackSea-Technologies-Demonstrates-GARC-USV-Capabilities-in-Norway-.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **BlackSea Technologies의 GARC 무인 수상 시스템이 NATO 연합 군사 훈련인 Arctic Sentry 2026에서 북극권 극한 환경에서의 자율 운용 능력을 입증함**</p><p>• **참여 기관: BlackSea Technologies, U.S. 6th Fleet, U.S. Unmanned Surface Vessel Squadron 3 (USVRON-3), 노르웨이 왕립 해군, NATO Joint Force Command Norfolk**</p><p>• **GARC는 극저온 해양 환경, 동적 분쟁 지역에서의 효과적 운용 능력, NATO 연합군과의 상호운용성 증명, 차세대 해군 전투원 훈련 도구로서의 역할 수행**</p><p>• **소형 분산형 자율 수상 시스템의 전략적 가치 강조 – 극도의 내구성, 적응성, 자율 운용 능력이 필수인 해역에서의 해군 작전 지원**</p><p>• **NATO가 2월 출범한 Arctic Sentry는 북극 및 고위도 지역에서 동맹의 군사 태세를 강화하기 위한 다차원 연합 활동**</p><h3>Key Quotes</h3><p>• "Arctic Sentry proves that GARC can operate effectively in dynamic, contested maritime environments north of the Arctic Circle" (북극권 북쪽의 역동적이고 분쟁 지역 해양 환경에서 GARC가 효과적으로 운용될 수 있음을 증명)</p><p>• "The exercise further cements our nation's military partnerships with key European allies and reflects BlackSea's commitment to preserving freedom of action at sea by delivering scalable, intelligent tools to naval forces around the world" (훈련을 통해 유럽 주요 동맹국과의 군사 협력을 강화하고, 전 세계 해군에 확장 가능한 지능형 도구를 제공함으로써 해상 행동의 자유 보존에 대한 BlackSea의 약속 반영)</p><h3>Technical Insights</h3><p>• **극저온 해양 환경에서의 자율 수상 시스템(USV) 운용 검증 – 배터리, 통신, 센서 성능 등 극한 환경 적응성이 핵심 기술 과제로 부상**</p><p>• **NATO 연합군 상호운용성 강화 – GARC의 데이터 링크, 명령 통제 시스템이 다국적 함대와의 통합 운용에 충분한 호환성을 갖춤을 입증**</p><p>• **분산형 해양 작전(Distributed Maritime Operations, DMO) 개념의 실전 검증 – 소형 자율 수상 시스템이 전통적 대형함정을 보완하는 새로운 해군 전력 구성 방식 확립**</p><p>• **IMO/국제 규제 차원의 함의 – 군용 자율 시스템의 민간 해운 영역 기술 이전 가능성 및 자율선박 국제 규제 체계 수립 시 군용 운용 표준의 영향력 증대**</p></div>`,
+      tags: ["autonomous surface vessel","USV","NATO exercise","Arctic operations","GARC","unmanned systems"],
+      link: "https://www.navalnews.com/naval-news/2026/05/blacksea-technologies-demonstrates-garc-usv-capabilities-in-norway/",
+      coords: [11.9273,68.9585],
+      location: "Ramsund, Norway"
+    },
+    {
+      type: "news",
+      title: "L&T partners with Exail to offer Mine Warfare solutions to the Indian Navy",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-05-16",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/05/EXAIL-MCM.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• L&T(라르센 앤 투브로)와 프랑스 Exail이 인도 해군의 기뢰전 솔루션 공급을 위한 전략적 파트너십 체결<br>• 12척의 기뢰소해함(MCMV) 프로그램을 위한 무인 기뢰소해 시스템 공급 - 약 5조 루피 규모의 대형 프로젝트<br>• 자율 무인정(ASV), 무인잠수정(AUV), 원격조종무인기(ROV) 등 다중 무인시스템 통합 구성<br>• 인도 해군의 오랜 기뢰소해함 도입 시도 실패 이후 최초의 체계적 무인화 기반 솔루션 추진<br>• 호르무즈 해협의 이란 기뢰 위협에 대응한 전략적 해양 방위 능력 강화</p><h3>Key Quotes</h3><br>• "L&T, as the prime contractor, will offer the Unmanned MCM Suite to all shipyards participating in Indian Navy's upcoming program for 12 Mine Counter Measure Vessels." (L&T가 주계약자로서 12척 기뢰소해함 사업에 참여하는 모든 조선소에 무인 기뢰소해 시스템을 공급할 예정)<br>• "Exail will serve as the technology partner. The partnership will enable the delivery of Exail's globally proven MCM technologies, already in operation with several navies worldwide and validated through extensive real-world deployments." (Exail은 기술 파트너로서 전 세계 다수 해군에서 운용 중인 검증된 기뢰전 기술을 제공)</p><h3>Technical Insights</h3><br>• **자율 무인시스템 통합**: CASCADE ASV, HWAUV, MULE 멀티콥터, 20개 이상의 ROV 등 다층적 무인시스템으로 기뢰 탐지·분류·식별·중화를 원격 대거리에서 수행하는 첨단 기술 조합<br>• **무인화 기반 해상 기뢰전 패러다임 전환**: 유인함정의 위험성을 제거하고 자율·원격조종 시스템으로 인명 피해를 최소화하는 현대식 기뢰소해 개념 도입<br>• **국방 산업 국제 협력 강화**: 프랑스 Exail의 검증된 기술과 L&T의 국내 제조 역량 결합으로 자주국방 기술 수준 향상 및 인도-유럽 방위산업 협력 심화<br>• **호르무즈 해협 등 지정학적 위험 대응**: 중동 해상로 보안 위협에 대한 능동적 해양 방위 태세 구축으로 인도의 인도-태평양 전략 실행 능력 강화</p></div>`,
+      tags: ["Mine Warfare","Autonomous Systems","Indian Navy","L&T","Exail","MCMV","Unmanned Systems"],
+      link: "https://www.navalnews.com/naval-news/2026/05/lt-partners-with-exail-to-offer-mine-warfare-solutions-to-the-indian-navy/",
+      coords: [77.2099,28.6139],
+      location: "India"
+    },
+    {
+      type: "news",
+      title: "Shield AI expands Hivemind maritime autonomy in Taiwan with Thunder Tiger partnership",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-05-16",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/05/2026_May_5_SAI_x_Thunder_Tiger_Hero_2-scaled-1-scaled.webp",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Shield AI와 Thunder Tiger Corp.이 Hivemind 자율운항 소프트웨어를 무인수상선박(USV) 등 Thunder Tiger의 무인시스템 포트폴리오에 통합하기 위한 양해각서(MOU) 체결<br>• Hivemind는 Thunder Tiger USV의 AI 파일럿으로 기능하며, 2026년 여름 실시연습 예정으로 대만의 해상 시스템이 자율적으로 항해, 대응 및 실제 임무 수행 가능함을 입증<br>• Shield AI의 Brandon Tseng 공동창립자(전 미 해군 특수부대원)는 다중 자율 시스템의 협력 운영이 분쟁 억지에 필요한 비대칭 능력을 제공한다고 강조<br>• 시뮬레이션 기반 테스트, 하드웨어-인-더-루프 통합, 실제 차량 테스트 등 단계적 통합 및 테스트 방식 추진<br>• Thunder Tiger의 Gene Su 이사는 Hivemind 통합이 대만의 국방산업기반 발전과 자율화된 시스템 능력 향상에 기여할 것으로 평가</p><h3>Key Quotes</h3><br>• "Hivemind has been integrated and proven across dozens of platforms and domains worldwide, and we are excited to see it on the water in Taiwan with Thunder Tiger, supporting the kind of cross-domain, multi-agent teaming that changes what unmanned systems can do in contested environments." (Hivemind는 전 세계 수십 개 플랫폼과 영역에서 통합되고 검증되었으며, 분쟁 환경에서 무인시스템의 역량을 변화시키는 교차영역 다중에이전트 팀 운영을 지원하는 대만에서의 실운영에 기대감을 표현)</p><p>• "Integrating Hivemind gives our platforms the autonomous decision-making capability to execute complex missions independently and operate as part of a coordinated team." (Hivemind 통합은 우리 플랫폼에 복잡한 임무를 독립적으로 수행하고 협력팀의 일원으로 운영할 수 있는 자율의사결정 능력을 제공)</p><h3>Technical Insights</h3><br>• **AI 파일럿 기술의 실전 검증**: Hivemind는 센싱, 의사결정, 행동 수행 능력을 모든 영역에서 제공하는 범용 AI 플랫폼으로, USV를 포함한 다중 플랫폼 통합으로 해양 자율운항 기술의 실용화 가능성 입증<br>• **다중에이전트 협력 운영의 확대**: 혼합 무인기 부대(aerial and maritime)가 조율된 지능형 팀으로 운영되는 기술은 IMO 자율운항 규제 및 COLREG 적응 요구사항에서 미래 표준이 될 가능성<br>• **대만 국방산업 자주성 강화**: 로컬 방위산업체(Thunder Tiger)와의 기술 이전 및 협력은 자율운항 시스템의 국산화 추진, 공급망 안보 확보와 함께 인도-태평양 지역 해양 안보 균형에 영향<br>• **시뮬레이션 중심의 개발 방식**: 시뮬레이션-HiL-실제 차량 테스트 단계적 진행은 고비용 해양 운영 환경에서 개발 효율성을 높이며, 업계 표준화된 자율운항 검증 프로세스로 확산 가능성</p></div>`,
+      tags: ["autonomous systems","USV","AI navigation","Taiwan defense","Shield AI","Hivemind"],
+      link: "https://www.navalnews.com/naval-news/2026/05/shield-ai-expands-hivemind-maritime-autonomy-in-taiwan-with-thunder-tiger-partnership/",
+      coords: [121.565,25.033],
+      location: "Taiwan"
+    },
+    {
+      type: "news",
+      title: "HII Delivers Two Autonomous Surface Vessels to U.S. Marine Corps",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-05-16",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• HII(Huntington Ingalls Industries)가 미 해병대(U.S. Marine Corps)에 2척의 자율 수상함을 인도했으며, 이는 국방혁신부(Defense Innovation Unit) 계약에 따른 납품</p><p>• ROMULUS-25 자율함은 실제 해상 환경에서의 운영 시험을 통해 고급 자율 항해 능력을 검증함</p><p>• HII는 미국 내 2개뿐인 핵능력 조선소이자 핵추진 항공모함의 유일한 건조업체로서 자율함 기술 개발에 선도적 역할 수행</p><p>• 자율 수상함의 해상 운영 검증은 미 해군/해병대의 무인 전력화 전략의 중요한 이정표</p><h3>Key Quotes</h3><p>Currently no direct quotes provided in the article excerpt, but the announcement emphasizes "advanced autonomous capabilities in an operational maritime environment" (실제 해상 운영 환경에서의 고급 자율 항해 능력).</p><h3>Technical Insights</h3><p>• ROMULUS-25의 자율 항해 시스템은 실제 해양 환경에서 검증되었으며, 이는 자율함의 실전 배치 가능성을 입증하는 중요한 기술적 성과</p><p>• 미 해병대를 위한 자율 수상함 개발은 COLREG(해상충돌방지규칙) 준수 및 해상상황인식(Maritime Situational Awareness) 기술의 실제 적용 사례로 평가됨</p><p>• 방위 자율화 기술의 선진화는 IMO의 자율선박 규제 프레임워크 수립에 영향을 미치는 글로벌 산업 트렌드의 일부</p><p>• 민간 해운업계에 자율선박 기술 확산의 촉매 역할을 할 수 있는 군사 자율함 개발의 성공사례</p></div>`,
+      tags: ["autonomous vessels","U.S. Marine Corps","HII","ROMULUS-25","defense technology"],
+      link: "https://defence-blog.com/hii-delivers-two-autonomous-vessels-to-u-s-marine-corps/",
+      coords: [-76.3852,37.0842],
+      location: "United States (HII Newport News, Virginia)"
+    }
+  ]
+});
