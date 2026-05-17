@@ -6720,3 +6720,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-15
+addEvents({
+  "2026-05-15": [
+    {
+      type: "news",
+      title: "Greek-Operated Tanker Crosses Strait of Hormuz Amid U.S.-Israeli War on Iran",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-15",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockaerialdrone-170648.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 그리스 선사 소유의 수에즈맥스 급 유조선 Karolos가 호르무즈 해협을 통과하여 인도로 항해 중이며, 현재 전쟁으로 인한 해협의 사실상 폐쇄 상황에서 극히 드문 석유 운송 사례임</p><p>• 2월 28일 시작된 미국-이스라엘의 이란 전쟁으로 호르무즈 해협이 효과적으로 폐쇄되어 수백 척의 선박이 좌초되고 전례 없는 에너지 공급 차질이 발생 중</p><p>• Karolos는 리베리아 국적선, 최대 100만 배럴 운송 능력, 5월 10일 바스라 유정에서 만재하중으로 선적 완료</p><p>• 호르무즈 해협의 일일 통과 선박이 기존 125~140척에서 현재 10척 이하로 급감하며 세계 에너지 공급의 20% 차질</p><p>• 20,000명 이상의 해원이 해협 내에 갇혀 있으며 식량, 물, 연료 부족 상황에 처해 있음 (국제운수노동연맹 발표)</p><p>• 마셜제도 선박 등록소가 해역 내 위협 수준을 최고 경계 상태로 유지하고 있으며, 트럼프 대통령이 중국 시진핑 주석과의 협상에서 이란의 해협 재개방 필요성 강조</p><h3>Key Quotes</h3><p>• "More than 20,000 seafarers remain trapped inside the Strait of Hormuz, facing fear and uncertainty, cut off from their families, and in many cases running short of food, water and fuel" (호르무즈 해협 내 2만 명 이상의 해원이 가족과 단절된 채 식량·물·연료 부족에 직면한 상태로 갇혀있음)</p><p>• "Before the war on Iran began, the Strait of Hormuz was the conduit for 20% of the world's energy supplies, equating to 125 to 140 daily passages" (이란 전쟁 이전 호르무즈 해협은 세계 에너지 공급의 20%를 담당하며 일일 125~140척의 선박이 통과함)</p><h3>Technical Insights</h3><p>• **호르무즈 해협 교통량 급감의 해운산업 영향**: 일일 통과 선박이 140척에서 10척 이하로 급락하면서 유조선의 회항거리 증가, 운임 급등, 선박 가동률 저하 등 글로벌 해운시장의 구조적 재편 야기</p><p>• **해상안전 및 해원 복지 위기**: 20,000명 이상의 해원이 전쟁 지역에 갇혀 SOLAS/해원협약 등 국제해사규칙 이행의 현실적 한계 노출, IMO의 위기 대응 매뉴얼 및 인도적 지원 강화 필요성 대두</p><p>• **선박항행의 지정학적 리스크 관리**: 그리스 선사들의 호르무즈 해협 운항 재개는 높은 보험료, 지정학적 리스크 프리미엄, 선원 위험 수당 증가 등으로 해운비 구조의 급변화를 초래하며, 자율운항선박 도입 시 이러한 분쟁지역 운항의 의존도 감소 가능성 제시</p><p>• **대체항로 및 에너지 공급망 재구성**: 호르무즈 해협 폐쇄로 인한 수에즈 운하·말라카 해협 등 대체항로 혼잡 심화, 중장기적으로 LNG 수송 및 해상풍력 에너지 운송 시스템으로의 산업 전환 가속화 예상</p></div>`,
+      tags: ["Strait of Hormuz","Tanker Operations","Geopolitical Disruption","Energy Supply"],
+      link: "https://www.marinelink.com/news/greekoperated-tanker-crosses-strait-539267",
+      coords: [56.2,26.5],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "Samsung Heavy Industries Receives AIP Certificate for Floating Data Center from ABS",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-15",
+      image: "https://images.marinelink.com/images/maritime/w800/youngkyu-chief-170643.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 삼성중공업이 미국선급(ABS)으로부터 50메가와트급 부유식 데이터센터 설계에 대한 원칙적 승인(AIP) 획득<br>• 설계는 표준화된 조선 프로세스를 활용하여 설계, 제조, 장비 설치를 동시 진행하며 리드타임 단축과 자체 전력 생산 시스템 탑재<br>• ABS는 선급 요건에 따른 설계 검토 완료 및 오프쇼어 데이터센터의 에너지 그리드 부하 경감 효과 강조<br>• AI 인프라 수요 증가에 따른 부유식 데이터센터의 새로운 시장 기회 창출<br>• 육상 전력망의 에너지 부담 완화 및 관련 리스크 저감의 해상 솔루션 제시</p><h3>Key Quotes</h3><p>• "The rapidly growing capabilities of artificial intelligence present a clear opportunity to support the expanding infrastructure requirements of AI and data-intensive operations." <br>(인공지능의 급속한 발전이 AI 및 데이터 집약적 작업의 인프라 요구를 지원할 수 있는 명확한 기회를 제시함)</p><p>• "Moving them offshore could mitigate certain risks while reducing the strain on local energy grids."<br>(부유식 데이터센터의 해상 배치는 특정 위험을 완화하면서 지역 전력망 부담을 감소시킬 수 있음)</p><h3>Technical Insights</h3><p>• **해양 구조물의 새로운 활용 - 부유식 데이터센터는 해양 플랫폼 기술을 AI 인프라에 적용하는 혁신적 사례로, 선박 설계 및 구조 안전 기준의 적용 필요**</p><p>• **전력 자립 시스템 통합 - 자체 전력 생산 시스템 탑재로 육상 에너지망 의존도 감소 및 에너지 효율성 향상, 향후 해상 원전/신재생 연계 가능성**</p><p>• **조선산업의 다각화 전략 - 전통 조선 프로세스를 데이터센터 구조물에 표준화 적용으로 고부가가치 해양 플랫폼 시장 개척 및 경쟁력 강화**</p><p>• **IMO/ABS 선급 기준 진화 - 부유식 데이터센터 같은 신규 해상 구조물에 대한 설계·건조·운영 기준 정립 필요로 해양산업 규제 체계의 현대화 추진**</p></div>`,
+      tags: ["Floating Data Center","Samsung Heavy Industries","ABS","AI Infrastructure","Offshore Technology"],
+      link: "https://www.marinelink.com/news/samsung-heavy-industries-receives-aip-539260",
+      coords: [127,37.5],
+      location: "South Korea"
+    }
+  ]
+});
