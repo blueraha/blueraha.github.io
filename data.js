@@ -6752,3 +6752,40 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-17
+addEvents({
+  "2026-05-17": [
+    {
+      type: "news",
+      title: "Australia selects U.S.-made Transwing VTOL drone for ship logistics",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-05-17",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• PteroDynamics Inc.의 미국 드론 회사가 호주 해군과의 첫 국제 방위 계약 체결, Transwing VTOL 무인기 시스템 공급 계약 확보<br>• Transwing P4 형 무인기가 2026년 봄 배송 예정되며 해양 분산 물류 작전용으로 활용될 예정<br>• 자동 수직 이착륙(VTOL) 드론 기술이 해양 군사 로지스틱스 분야에서의 운영 효율성 증대에 기여<br>• 미국의 자율 항공기 기술이 주요 동맹국인 호주에 의해 채택되어 국제 방위 기술 협력 강화<br>• 해상 분산 작전 환경에서의 자동화 장비 도입으로 해군의 전술적 유연성 및 대응력 향상</p><h3>Key Quotes</h3><p>• "PteroDynamics Inc., a California-based developer of autonomous VTOL aircraft, announced..." (캘리포니아 기반의 자율 VTOL 항공기 개발사인 PteroDynamics사가 발표했다)</p><p>• "...for maritime distributed logistics operations..." (해양 분산 물류 작전을 위한 목적)</p><h3>Technical Insights</h3><p>• 수직 이착륙(VTOL) 무인기 기술은 제한된 갑판 공간의 군함 환경에서 운영 공간 제약을 해결하는 데 효과적<br>• 자율 비행 시스템의 도입으로 해양 로지스틱스 작전의 인력 의존도 감소 및 24/7 운영 가능성 확대<br>• IMO 및 해군 규제 체계 내에서 무인항공기(UAS)의 해상 운영 표준화 필요성 대두<br>• 호주 해군의 도입으로 인도-태평양 지역 해양 자율화 경쟁 심화 및 관련 국가들의 유사 기술 도입 가속화 예상</p></div>`,
+      tags: ["autonomous systems","VTOL drone","maritime logistics","Royal Australian Navy"],
+      link: "https://defence-blog.com/australia-orders-u-s-made-transwing-vtol-drones-for-ship-logistics/",
+      coords: [151.2093,-33.8688],
+      location: "Australia"
+    }
+  ]
+});
+
+// Auto-collected: 2026-05-18
+addEvents({
+  "2026-05-18": [
+    {
+      type: "news",
+      title: "Hapag-Lloyd, CMA CGM Suspend Cuba Bookings After US Executive Order",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-18",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stock-170651.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 글로벌 해운 대형사 CMA CGM(프랑스)과 Hapag-Lloyd(독일)가 2026년 5월 1일 발효된 미국 행정명령에 따라 쿠바 노선 신규 예약을 중단<br>• 두 회사의 운영 중단으로 쿠바 해운 물동량의 약 60%가 영향을 받을 것으로 예상되며, 이미 심각한 경제 위기와 에너지 부족에 시달리는 쿠바 경제에 추가 타격<br>• 미국 행정명령은 쿠바의 에너지, 방위, 금융, 광물채굴 등 주요 경제 부문뿐만 아니라 모든 경제 부문과 관련된 외국인의 상거래를 포함하도록 제재 범위 확대<br>• 중국발 물품 수송이 가장 심하게 영향을 받을 것으로 예상되며, 북유럽과 지중해 지역도 상당한 영향을 받을 것으로 지적<br>• 쿠바 군부 산하 대형 재벌 Gaesa와 연계된 해운 거래를 차단하는 것이 양사의 운영 중단의 주요 고려 사항<br>• 현지 소식통은 두 해운사가 쿠바 선적을 전면 중단하거나, 트럼프 행정부와 협상을 통해 쿠바 민간부문으로의 해운만 지속하는 옵션을 검토 중이라고 전망</p><h3>Key Quotes</h3><p>• "Following the U.S. Executive Order issued on May 1, CMA CGM has decided to suspend its bookings to or from Cuba until further notice" <br>(미국이 5월 1일 발효한 행정명령에 따라 CMA CGM은 추가 공지 시까지 쿠바 노선 신규 예약을 중단하기로 결정했다)</p><p>• "due to compliance risks associated with the U.S. president's executive order of May 1"<br>(미국 대통령의 5월 1일 행정명령과 관련된 규정 준수 위험 때문이다)</p><p>• "The temporary suspension of new orders by two of the world's largest shipping companies could jeopardize as much as 60% of Cuba's shipping traffic by volume"<br>(세계 최대 규모 해운사 2곳의 임시 운영 중단이 쿠바 해운 물동량의 약 60%를 위협할 수 있다)</p><h3>Technical Insights</h3><p>• **해운업계 규정준수(Compliance) 강화**: 양사의 운영 중단은 국제 제재 규정에 대한 해운사들의 준수 기준이 강화되고 있음을 시사하며, 글로벌 해운사들이 지정학적 리스크에 매우 민감해지는 추세를 반영</p><p>• **해운 네트워크의 지정학적 취약성**: 두 대형 해운사의 결정으로 쿠바 물동량의 60%가 영향받는 것은 글로벌 컨테이너 해운이 극소수 대형 선사들에 의해 지배되는 산업 구조의 위험성을 노출</p><p>• **제재 범위의 확대와 해운산업의 대응**: 행정명령이 특정 섹터를 넘어 "경제 전반"으로 제재 범위를 확대함에 따라, 해운사들은 거래처 실사(due diligence)의 난이도 상승과 운영 비용 증가에 직면</p><p>• **대체 운송 경로의 부재**: 쿠바 제재로 인한 글로벌 해운 네트워크의 재편성이 불가피하며, 소규모 또는 독립 해운사들의 기회 창출 가능성이 있지만 장기 경제 효율성은 저하될 것으로 예상</p></div>`,
+      tags: ["Sanctions","Cuba Trade","Shipping Industry","US Executive Order"],
+      link: "https://www.marinelink.com/news/hapaglloyd-cma-cgm-suspend-cuba-bookings-539273",
+      coords: [0,0],
+      location: "Cuba / Global"
+    }
+  ]
+});
