@@ -6789,3 +6789,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-18
+addEvents({
+  "2026-05-18": [
+    {
+      type: "accident",
+      title: "Russian Drones Strike Two Ships off Ukraine's Odesa Coast",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-18",
+      image: "https://images.marinelink.com/images/maritime/w800/illustration-adobe-170661.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 러시아 무인드론이 우크라이나 오데사 해역 진입 중인 민간 화물선 2척을 공격하여 부분적 화염 피해 발생</p><p>• 피격 선박: KSL Deyang호(중국 소유, 마셜 제도 선박), Guinea-Bissau 국기 선박 1척으로 오데사 항만 운송 중</p><p>• 피해 현황: KSL Deyang호는 대형 손상 없음, 사상자 제로, 선원들이 화재 진압 성공</p><p>• 운영 상황: 피격 당시 적하 상태가 아니었으며 우크라이나 Pivdennyi 항만에서 철광석 적화 목표로 항해 중</p><p>• 전략적 의미: 러시아의 4년간 지속적 해상 수출로 공격으로 해외 무역 및 전시 경제에 영향</p><h3>Key Quotes</h3><p>• "Russian drone had hit a vessel owned by China" (러시아 무인드론이 중국 소유 선박을 격침)<br><li>President Zelenskiy의 X 플랫폼 성명으로 국제적 관심 증대</li></p><p>• "The vessel did not sustain significant damage, there were no casualties and the fire caused by the strike was extinguished by the crew" (선박은 큰 손상이 없었고 사상자 없으며 선원들이 화재를 진압했음)<br><li>선원의 신속한 대응이 참사 방지</li></p><h3>Technical Insights</h3><p>• **해양 보안 위협 증가**: 드론 기술의 발전으로 민간 화물선에 대한 새로운 위협 구조 발생, 해상 안전 감시 시스템 강화 필요</p><p>• **국제 해운 경로 위험**: 흑해 동부 항만 진입 해역이 고위험 지역화되어 국제 선사들의 항로 회피 및 보험료 상승 초래</p><p>• **해상법 및 규제 대응**: IMO와 국제해사기구의 분쟁 해역 해상 안전 규정 재검토 필요성 대두</p><p>• **자율운항 선박의 취약성**: 향후 드론/무인 공격에 대한 자율운항 선박의 방어 체계 및 AI 기반 위협 대응 알고리즘 개발 시급</p></div>`,
+      tags: ["Drone Attack","Black Sea","Ukraine","Cargo Vessel","Maritime Security"],
+      link: "https://www.marinelink.com/news/russian-drones-strike-two-ships-off-539287",
+      coords: [30.2383,46.4856],
+      location: "Odesa, Ukraine (Black Sea)"
+    },
+    {
+      type: "news",
+      title: "Norway Joins EU Baltic Sea Cooperation Alliance for Regional Security",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-18",
+      image: "https://images.marinelink.com/images/maritime/w800/svein-jacobsen-170660.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 노르웨이가 EU 발틱해 지역전략(EUSBSR)에 가입하여 비EU 국가로서 처음 이 협력체에 참여<br>• 스웨덴, 덴마크, 에스토니아, 핀란드, 독일, 라트비아, 리투아니아, 폴란드와 함께 해역 안보 및 협력 강화<br>• 러시아의 우크라이나 침공 이후 해저 케이블, 통신망, 가스 파이프라인 손상이 증가하면서 지역 보안 우려 증대<br>• EUSBSR은 2009년 설립되었으며 해상 안전, 에너지 시장 안정성, 환경 보호 등을 목표로 함<br>• 노르웨이는 해양 협력, 감시, 보안 분야에서 EU와의 협력 강화 기회 확보</p><h3>Key Quotes</h3><p>• "Membership will strengthen Norway's cooperation with the EU in a region that has become central to European and Norwegian security" (노르웨이의 유럽 및 자국 안보에 핵심이 된 지역에서 EU와의 협력을 강화할 것)</p><p>• "The Baltic Sea region has been on high alert after a string of power cable, telecom link and gas pipeline outages since Russia invaded Ukraine in 2022" (2022년 러시아의 우크라이나 침략 이후 발틱해 지역은 여러 인프라 손상으로 인해 고도의 경계 상태 유지 중)</p><h3>Technical Insights</h3><p>• **해양 안보 협력의 강화**: 발틱해는 전략적 요충지로서 수상함정 운항, 영해 감시 시스템 구축 및 국제해사법(COLREG) 준수 강화가 필수적이며, 노르웨이의 참여로 지역 감시 네트워크 고도화 기대</p><p>• **해저 인프라 보호**: 수중 케이블 및 파이프라인 손상 사건들이 증가하면서 해양 감시 기술과 자율운항선박(ASV, Autonomous Surface Vehicle) 활용한 보안 감시 체계 도입 검토 필요</p><p>• **국제 해양 질서 안정화**: IMO 차원의 지역 해양 안보 프로토콜 수립 및 국제 협력 메커니즘 강화로 민간 해운과 전략적 해역 보호의 균형 유지</p></div>`,
+      tags: ["Baltic Sea","EU Strategy","Maritime Security","Norway","Regional Cooperation"],
+      link: "https://www.marinelink.com/news/norway-signs-eu-baltic-sea-cooperation-539286",
+      coords: [10.7522,59.9139],
+      location: "Norway/Baltic Sea Region"
+    }
+  ]
+});
