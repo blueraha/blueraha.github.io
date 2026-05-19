@@ -6865,3 +6865,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-19
+addEvents({
+  "2026-05-19": [
+    {
+      type: "news",
+      title: "Oil Prices Ease as US Pauses Planned Iran Strikes Amid Negotiations",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-19",
+      image: "https://images.marinelink.com/images/maritime/w800/artegorov3gmail-adobe-170697.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 트럼프 대통령이 계획된 이란 공격을 일시 중단하고 협상을 진행하겠다고 발표하면서 유가가 2% 근처 하락</p><p>• 브렌트유 7월물은 배럴당 $110.08, 미국 WTI 6월물은 $108.19로 하락세를 보임</p><p>• 중동 분쟁으로 인해 호르무즈 해협이 사실상 폐쇄되어 글로벌 석유 공급량의 약 20%가 중단된 상태</p><p>• 이란의 평화제안은 전 전선에서의 적대행위 중단, 미군 철수, 전쟁 피해 배상을 포함</p><p>• 미국 전략석유비축량이 역대 최대 규모인 990만 배럴 방출되어 저장량이 2024년 7월 이후 최저 수준으로 감소</p><h3>Key Quotes</h3><p>• "While Trump's signal has eased some immediate pressure, the fundamental risks persist .... The market is now watching whether Trump's comments represent a genuine shift toward de-escalation or just a tactical pause" (트럼프의 신호가 즉각적인 압박을 완화했지만 근본적인 위험은 여전하며, 시장은 그의 발언이 진정한 긴장 완화인지 아니면 일시적 휴전인지를 관찰 중)</p><p>• "The Middle East conflict has effectively closed the Strait of Hormuz, a critical waterway that typically carries about a fifth of the global supplies of oil and liquefied natural gas" (중동 분쟁이 글로벌 석유 및 LNG 공급량의 약 5분의 1을 수송하는 호르무즈 해협을 사실상 폐쇄)</p><h3>Technical Insights</h3><p>• **에너지 공급망 차질**: 호르무즈 해협의 폐쇄로 인한 해상 석유·LNG 수송 중단이 전 지구적 에너지 위기를 야기하고 있으며, 해운업계의 재경로 설정 필요성 증대</p><p>• **전략석유비축량 동원**: 미국의 기록적 규모 SPR 방출(990만 배럴)은 장기적 에너지 안보 전략과 해상 수송 수요의 상충을 보여주는 신호</p><p>• **지정학적 리스크 관리**: 유가 변동성은 국제 해운 시장의 유가 연동 계약(Bunker cost indexation)과 보험료에 직결되어 선주들의 운영 수익성에 급격한 영향을 미침</p><p>• **규제 환경 변화**: 에너지 취약국에 대한 러시아 해상유 제재 면제 연장(30일)은 대체 항로와 선박 운항 계획의 불확실성을 가중시키는 요인</p></div>`,
+      tags: ["Oil Markets","Geopolitics","Iran","Strait of Hormuz","Energy Supply"],
+      link: "https://www.marinelink.com/news/oil-prices-ease-us-holds-off-renewed-strikes-against-iran-539340",
+      coords: [0,0],
+      location: "Middle East / Global"
+    }
+  ]
+});
+
+// Auto-collected: 2026-05-18
+addEvents({
+  "2026-05-18": [
+    {
+      type: "news",
+      title: "FleetZero Develops Modular Battery Technology to Electrify Cargo Ships",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-18",
+      image: "https://images.marinelink.com/images/maritime/w800/image-courtesy-170690.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **FleetZero의 배터리 솔루션**: 마이클 카터와 스티븐 헨더슨이 설립한 FleetZero는 화물선 전기화를 위한 모듈식 컨테이너형 배터리 기술 개발에 집중하고 있는 신생 기업</p><p>• **자금 조성 및 확장**: 약 6천만 달러 자금 조달, 40명 직원 규모로 휴스턴에 새로운 제조/R&D 시설 개설하여 올해 300 MWh 배터리 생산 목표</p><p>• **기술적 우위성**: Leviathan 모듈식 배터리 에너지 시스템은 경쟁사 대비 2배의 에너지 밀도를 절반의 비용으로 제공하는 것을 목표로 함</p><p>• **산업 가정에 대한 도전**: 전통적인 암모니아/메탄올 등 대체연료 중심 논의에 반기를 들고, AIS 데이터 및 실제 운영 프로필 분석을 통해 배터리 추진의 경제성 입증</p><p>• **적용 대상 선박**: 탱커, 벌크선, 컨테이너선 등 다양한 선박 클래스에서 디젤 대비 비용 경쟁력 있는 솔루션 제시</p><h3>Key Quotes</h3><p>• "The systems we looked at weren't cheap enough, and they weren't safe enough." (검토한 기존 배터리 시스템들은 충분히 저렴하지도, 안전하지도 않았다는 의미)</p><p>• "We just didn't subscribe to it" (암모니아/메탄올 중심의 미래 해운 추진 동향에 동의하지 않았음을 표현)</p><p>• "Battery propulsion wasn't just viable, it could be cost-advantageous versus diesel across multiple vessel classes" (배터리 추진이 실행 가능할 뿐 아니라 다양한 선박 클래스에서 디젤보다 경제적으로 유리할 수 있음)</p><h3>Technical Insights</h3><p>• **배터리 기술의 해양 특화**: 기존 육상 배터리 시스템을 그대로 적용하지 않고 선박 운영 환경(AIS 데이터, 적재 프로필, 염해 환경)을 반영한 해양 맞춤형 설계의 필요성 강조</p><p>• **전기추진의 경제성 재평가**: 대체연료 중심 논의에서 벗어나 실제 데이터 기반 분석을 통해 배터리 전기추진의 경제성을 입증함으로써 IMO 2050 탈탄소 목표 달성 경로의 다양성 제시</p><p>• **모듈식 설계의 산업적 의미**: 컨테이너형 모듈식 배터리 시스템은 기존 선박 개조, 신조선 장착의 유연성을 제공하여 해운 산업의 전환 속도 가속화 가능</p><p>• **비용 절감과 안전성**: 에너지 밀도 향상과 비용 감소는 배터리 전기추진의 대규모 상용화 장벽 제거로, 향후 해운 탈탄소화의 실질적 실행 가능성 높임</p></div>`,
+      tags: ["Battery Technology","Ship Electrification","Clean Maritime","Energy Innovation"],
+      link: "https://www.marinelink.com/news/batteries-fleetzero-aims-help-rewrite-539324",
+      coords: [-95.3698,29.7604],
+      location: "Houston, Texas"
+    }
+  ]
+});
