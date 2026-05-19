@@ -6821,3 +6821,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-18
+addEvents({
+  "2026-05-18": [
+    {
+      type: "news",
+      title: "Berg Propulsion to Supply Propulsion Systems for Four Diesel-Electric Tugs in Turkey",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-18",
+      image: "https://images.marinelink.com/images/maritime/w800/propulsion-170686.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Berg Propulsion이 터키 Uzmar 조선소에서 건조되는 4척의 디젤-전기 예인선용 추진 및 제어 시스템 공급 계약 체결<br>• Smit Lamnalco가 발주한 이 예인선들은 터키에서 건조된 동종 선박 중 최강력 규모로 130톤 이상의 계량 당기기(bollard pull) 성능 보유<br>• 각 60m 길이의 예인선은 4,000kW 전기모터 2기, MTA836 Z드라이브 고정피치 방위각 추진기 2기, MTT216 조절가능 피치 선수 추진기 2기 장착<br>• 첫 번째 선박의 설비 인도는 2026년 11월, 마지막 선박은 2027년 7월 예정<br>• 선박은 프랑스령 기아나에서 운영될 예정이며 Bureau Veritas 선급 인증</p><h3>Key Quotes</h3><p>• "The vessels have been ordered by Smit Lamnalco from builder Uzmar Shipyard and will initially operate in French Guyana" (선박은 Smit Lamnalco가 Uzmar 조선소에서 발주했으며 초기에는 프랑스령 기아나에서 운영될 예정)</p><p>• "all four tugs will feature bollard pull capacities exceeding 130 tons, a step up from the largest tugs built by Uzmar to date" (4척 모두 130톤을 초과하는 계량 당기기 용량을 보유하며, 이는 지금까지 Uzmar가 건조한 최대 규모 예인선보다 한 단계 향상된 사양)</p><h3>Technical Insights</h3><p>• 디젤-전기 하이브리드 추진 시스템의 도입으로 연료 효율성과 환경 친화성이 향상되며, 해양 지원선박의 운영 비용 절감 기대<br>• 터키 조선산업이 첨단 예인선 건조의 중심지로 부상하고 있으며, Berg Propulsion과의 장기적 협력으로 해양 추진 기술 혁신 가속화<br>• 4,000kW급 전기모터와 고급 제어 시스템(MPC800)의 통합으로 선박의 조작성, 안정성 및 자동화 수준 대폭 향상</p></div>`,
+      tags: ["Berg Propulsion","Diesel-Electric Tugs","Uzmar Shipyard","Propulsion Systems","Turkey Shipbuilding"],
+      link: "https://www.marinelink.com/news/berg-propulsion-supply-propulsion-539319",
+      coords: [35.1856,38.9597],
+      location: "Turkey"
+    },
+    {
+      type: "news",
+      title: "European Maritime Drug Operation Disrupts Atlantic 'Cocaine Highway' Between Canary Islands and Azores",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-05-18",
+      image: "https://gcaptain.com/wp-content/uploads/2026/05/Europol-drug-bust.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 유럽 해양 법집행 기관들이 "코카인 고속도로"로 알려진 대서양 마약 밀수로를 적발하여 11톤의 코카인과 8.5톤의 해시시를 압수했으며, 2주간의 조직적 해상작전으로 54명을 체포</p><p>• 스페인 과우디아 시빌(Guardia Civil)이 주도하고 유로폴(Europol)이 조정한 작전으로 카나리아 제도와 아조레스 제도 사이의 국제해역에서 불법 해상 이적을 시도한 8척의 선박을 나포</p><p>• 마약밀수 조직들이 전통적인 항구 기반 밀수에서 벗어나 대규모 모선(母船)의 공해상 이적, 고속정(narcولanchas) 중계, 해변 상륙 등 첨단화된 해상 물류 네트워크로 진화</p><p>• 카나리아 제도와 아조레스 제도 사이 광대한 해역의 감시 어려움과 원격성이 마약 밀수 조직에게 전략적 이점 제공</p><p>• 지난해 1월 스페인의 "검은 그림자 작전(Operation Black Shadow)"으로 105명 체포, 10.4톤 이상 코카인 압수한 사례로 볼 때, 유럽의 해상 마약 단속이 지속적으로 강화되는 추세</p><h3>Key Quotes</h3><p>• "Our work proves that when law enforcement acts together, even the Atlantic is not big enough for organised crime to hide" (해양 법집행 기관들이 협력하면 대서양도 조직범죄가 숨을 수 없을 만큼 넓지 않다는 것을 보여준다는 유로폴 부사장의 발언)</p><p>• "The narcotics are then transferred in international waters to high-speed craft — including rigid-hulled inflatable boats and other long-range vessels — before being moved again onto smaller boats for delivery to isolated beaches and marinas" (마약이 국제해역에서 경직성 팽창식 보트와 장거리 항해용 선박 등 고속정으로 이적되어 최종 배송을 위한 소형 보트로 다시 옮겨진다는 밀수 방식 설명)</p><h3>Technical Insights</h3><p>• **해상 감시 및 단속 기술의 한계**: 광대한 대서양 해역에서의 실시간 모니터링 한계로 인해 마약 조직들이 공해상에서의 이적 작전을 선호하고 있으며, 위성항법 시스템(GNSS)과 암호화된 통신을 활용하여 탐지 회피</p><p>• **국제 해양법 집행 협력의 중요성**: 유럽 여러 국가의 해양 법집행 기관과 유로폴의 조직적 협력이 초국경적 마약 밀수 네트워크 적발의 핵심 요소로 작용하며, IMO 및 UNCLOS 체계 내 국제 해상보안 강화 필요</p><p>• **첨단 선박 운영 기술의 악용**: 시속 40노트를 초과하는 고속 마약정(narcolanchas), 공해상 연료 보급 기지, 부유식 보급소 등 장시간 해상 체류 능력의 조직화된 악용으로 전통적 항구 기반 단속 회피</p><p>• **해상 물류 네트워크의 범죄화**: 모선-중계정-소형보트의 다단계 운송 시스템이 마약 조직에 의해 산업 규모로 구축되고 있으며, 이는 일반 해운 물류와의 구별이 어려워 해양 교통 안전 및 항만 보안 위험 증대</p></div>`,
+      tags: ["Drug Trafficking","Maritime Security","Law Enforcement","Atlantic Ocean"],
+      link: "https://gcaptain.com/massive-atlantic-cocaine-highway-busted-in-european-maritime-drug-operation/",
+      coords: [-25,38],
+      location: "Canary Islands - Azores Corridor, Atlantic Ocean"
+    },
+    {
+      type: "news",
+      title: "Boskalis Orders Massive 24,000-ton Cable Lay Vessel for Offshore Energy Projects",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-05-18",
+      image: "https://gcaptain.com/wp-content/uploads/2026/05/Boskalis-cable-layer.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **신규 케이블 포설선 발주**: 네덜란드 해양 건설사 보스칼리스(Boskalis)가 24,000톤급 케이블 포설선(CLV) 건조를 발표, 2029년 취항 예정</p><p>• **HVDC 송전 시스템 특화**: 12,000톤급 동심원형 케이블 카루셀 2개를 장착하여 장거리 고압직류(HVDC) 송전 케이블 설치 능력 극대화</p><p>• **재생에너지 인프라 확대**: 해상풍력 발전 및 국가 간 전력망 연계(인터커넥터) 프로젝트 증가에 따른 투자로, 에너지 전환 및 탈탄소화 목표 지원</p><p>• **보스칼리스의 경험**: 15년 이상 해저 케이블 사업을 운영해왔으며, 전 세계 140건 이상의 케이블 관련 프로젝트 수행</p><p>• **시장 경쟁 심화**: 해상풍력이 해안에서 멀어지고 용량이 증가하면서 대형 케이블 포설 선박 보유 경쟁이 심화되는 추세 반영</p><h3>Key Quotes</h3><p>• "The electrification of energy demand, driven by decarbonization and energy independence objectives, is accelerating the need for robust grid infrastructure." <br>(탈탄소화 및 에너지 독립성 목표에 따른 전력 수요 전기화가 견고한 그리드 인프라 필요성을 가속화하고 있다)</p><p>• "The new vessel also highlights the escalating competition among offshore contractors racing to expand fleets capable of handling next-generation offshore energy projects"<br>(신규 선박은 차세대 해상 에너지 프로젝트 대응 능력을 갖춘 함대 확보를 위해 경쟁하는 해상 건설업체들 간의 경합 심화를 보여준다)</p><h3>Technical Insights</h3><p>• **HVDC 기술의 중요성**: 해상 재생에너지가 대규모화·원거리화되면서 전압강하가 적은 고압직류 송전 시스템의 수요가 급증, 장거리 전력 전송 효율성 극대화</p><p>• **케이블 포설 효율화**: 동심원형 카루셀 설계로 단일 연속 케이블 길이 증대 → 해상 연결부(조인트) 감소 → 설치 기간 단축 및 비용 절감 효과</p><p>• **초대형 선박의 필요성**: 해상풍력이 원거리 해역으로 확대되고 용량이 증대하면서 24,000톤 규모의 전문화된 포설선 수요 증가, 산업 표준화 추세 반영</p><p>• **통합형 솔루션 제공**: 해저 측량, 준설, 케이블 포설, 트렌칭, 암반 설치 등 전주기 서비스 통합으로 프로젝트 리스크 감소 및 턴키형 계약 경쟁력 강화</p></div>`,
+      tags: ["Cable Lay Vessel","Offshore Wind","HVDC Systems","Subsea Infrastructure"],
+      link: "https://gcaptain.com/boskalis-orders-massive-new-cable-layer-for-offshore-energy-projects/",
+      coords: [4.8952,52.3676],
+      location: "Netherlands (Boskalis headquarters)"
+    }
+  ]
+});
