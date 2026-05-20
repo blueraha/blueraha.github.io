@@ -6903,3 +6903,34 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-19
+addEvents({
+  "2026-05-19": [
+    {
+      type: "news",
+      title: "Pentagon Orders 10,000+ Low-Cost Containerized Missiles with Maritime Strike Capabilities",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-05-19",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/04/RAACM_Deck_Launch_Early.webp",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 국방부가 10,000발 이상의 저가 컨테이너 미사일(LCCM) 대량 구매로 해양 타격 능력을 강화하고 있으며, 이는 중국의 다수 함정 대응 및 인도-태평양 지역 군사 태세 강화에 초점을 두고 있음</p><p>• 수상함, 무인 표면함정 등 해양 플랫폼에 탑재 가능한 설계로 CoAspire, Anduril, Leidos, Castelion 등 5개 방위산업체가 계약 체결</p><p>• Anduril의 Barracuda-500M은 500해리 이상의 사거리를 가지며 20피트 ISO 컨테이너에서 16발씩 발사 가능한 컨테이너식 미사일 시스템</p><p>• 2027년부터 2029년까지 각 계약사당 3,000발 이상의 미사일 및 발사 시스템 납품 예정</p><p>• Chief of Naval Operations(해군작전사령관) Adm. Daryl Caudle이 저가, 분산 배치 가능한 컨테이너식 미사일의 해군 전력화에 강한 관심 표시</p><h3>Key Quotes</h3><p>• "Chief of Naval Operations Adm. Daryl Caudle expressed great interest in proliferating the low-cost, dispersible and ambiguous deployment method across the fleet." (해군작전사령관이 저가이고 분산 배치 가능하며 배치 의도를 파악하기 어려운 배포 방식을 함대 전역으로 확대하는 데 높은 관심을 표현)</p><p>• "The Surface-Launched Barracuda-500M (SLB-500M) will be launched out of 20-foot ISO containers capable of handling 16 of the 100-pound warhead cruise missiles apiece. With a range of over 500 nautical miles, the company also highlights that the SLB-500M is 'effective against a wide range of land and maritime targets.'" (20피트 ISO 컨테이너에서 발사되며 500해리 이상의 사거리로 육상 및 해양 목표물에 효과적)</p><h3>Technical Insights</h3><p>• 컨테이너식 미사일(LCCM) 시스템은 기존 함정뿐 아니라 무인 표면함정(USV) 등 다양한 해양 플랫폼에 신속히 통합 가능한 모듈식 설계로, 해군 무기 체계의 유연성과 운용 비용 효율성을 획기적으로 증대</p><p>• 해양 표적 추적 센서 탑재 및 자율주행 능력을 갖춘 Barracuda 등의 순항 미사일은 COLREG 준수 및 해상 교통 안전성 문제와 함께 자율 해상 무기 체계의 국제 규범 논의에 영향을 미칠 수 있음</p><p>• 대함 미사일의 저가화 및 대량 배치는 naval warfare 패러다임을 변화시켜 기존 고가 수상함 중심의 해군 전력 구조를 다수의 저가 플랫폼 분산 배치 모델로 전환할 가능성을 시사</p></div>`,
+      tags: ["Anti-Ship Missiles","U.S. Navy","Defense Procurement","Maritime Strike"],
+      link: "https://www.navalnews.com/naval-news/2026/05/massive-u-s-missile-order-may-expand-american-anti-ship-arsenal/",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "event",
+      title: "German firm demonstrates world's first fully automatic naval drone hangar at Combined Naval Event",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-05-19",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 독일 자율시스템 회사 CiS가 이동 중인 선박에서 인간 개입 없이 완전 자동 드론 발사 및 회수 시스템 운영 가능하다고 주장<br>• Combined Naval Event in Farnborough에서 상용 제품 공개 - 해군 자동화 기술의 획기적 진전<br>• 이동하는 선박 플랫폼에서의 자동 드론 운영으로 해군 작전 효율성 극대화 가능<br>• 유인 개입 제거로 운영 비용 절감 및 위험 감소<br>• 해양 방위 시스템의 자율화 추세를 반영한 핵심 기술 혁신</p><h3>Key Quotes</h3><br>• "world's first fully automatic drone launch and recovery system capable of operating from a moving vessel without any human intervention" (이동 선박에서 인간 개입 없이 운영 가능한 세계 최초의 완전 자동 드론 발사/회수 시스템)</p><h3>Technical Insights</h3><br>• 해상 플랫폼 기반 자율 드론 시스템은 해양 감시, 정찰, 대잠전 등 다양한 해군 작전 능력 강화<br>• IMO 및 국방 규제 측면에서 자율 해양 체계의 인증 기준 정립 필요 - 안전성 및 신뢰성 검증 필수<br>• 이동하는 함정 환경에서의 자동 항법/회수는 고도의 센서 융합, 실시간 해상 상태 인식 기술 필요<br>• 해양 방위 산업의 인력 의존도 감소로 미래 군함 설계 및 운용 개념 변화 예상</p></div>`,
+      tags: ["autonomous systems","naval drones","drone recovery","maritime technology","Combined Naval Event"],
+      link: "https://defence-blog.com/german-firm-builds-self-operating-naval-drone-hangar/",
+      coords: [-1.7074,51.3547],
+      location: "Farnborough, United Kingdom"
+    }
+  ]
+});
