@@ -6934,3 +6934,65 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-21
+addEvents({
+  "2026-05-21": [
+    {
+      type: "news",
+      title: "IMO Releases Revised Rescue Guide for Refugees and Migrants in Distress at Sea",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-21",
+      image: "https://images.marinelink.com/images/maritime/w800/source-170791.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• IMO, UNHCR, ICS가 난민 및 이주민 해상 구조 가이드라인 개정판 발표 - 국제 해상 구조 의무 강화 및 인도주의적 책임 확대<br>• 지중해에서 2025년 1,953명 사망/실종, 동남아시아 로힝야 난민 루트 892명 사망(6,500명 중 최고 사망률 기록)<br>• 해상에서의 인명 구조 의무 이행을 위한 실질적 절차 및 법적 기준에 대한 상세 지침 제공<br>• 선장 및 선원, 정부 기관에 대한 명확한 행동 기준 제시 - 해상을 인도주의적 공간으로 규정<br>• 1951년 난민협약 75주년을 맞아 국제해사법의 법적 의무를 실제 해상 행동으로 전환하는 것이 핵심 과제</p><h3>Key Quotes</h3><p>• "The seas must be treated as a humanitarian space, and the duty to rescue people in distress at sea must be upheld without discrimination" (해상은 인도주의적 공간으로 취급되어야 하며, 차별 없이 해상 조난자 구조 의무가 유지되어야 함)</p><p>• "Established legal obligations must be translated into concrete action at sea. This revised Guide ensures clarity for Governments and provides practical steps for shipmasters and crews" (확립된 법적 의무는 해상에서의 구체적 행동으로 전환되어야 하며, 개정 가이드는 정부와 선장·승무원에게 실질적 절차를 제공)</p><h3>Technical Insights</h3><p>• **SOLAS 협약 강화**: 개정 가이드라인은 SOLAS 제11장의 해상 인명 안전(SAR) 의무를 명확히 하여, 모든 선박의 구조 책임을 국적, 난민 지위와 관계없이 이행하도록 강제<br>• **COLREG 및 해양법 통합**: 국제해상충돌회피규칙(COLREG)과 UN 해양법협약(UNCLOS)의 법적 구조 의무를 해운업계의 실무 매뉴얼로 번역 - 선실(bridge) 의사결정 기준 제공<br>• **업계 자발적 이행체계**: ICS(국제해운회의소) 참여로 민간 해운사의 자발적 준수 문화 조성, 해상 구조 우선순위의 투명성 확보<br>• **지역 SAR 네트워크 강화**: 지중해, 동남아시아, 서아프리카 등 고위험 해역 해상국(Flag State)과 연안국의 SAR 조정 체계 개선, 실시간 통신 프로토콜 표준화</p></div>`,
+      tags: ["IMO","Rescue Operations","Maritime Law","Refugee Protection","SAR"],
+      link: "https://www.marinelink.com/news/imo-releases-revised-rescue-guide-539459",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
+
+// Auto-collected: 2026-05-20
+addEvents({
+  "2026-05-20": [
+    {
+      type: "news",
+      title: "U.S. Navy's First Carrier Operated Unmanned Tanker MQ-25A Stingray Cleared for Production",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-05-20",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/05/HIsrJDbXYAATuZB.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **MQ-25A 스팅레이 무인급유기가 본격 생산 단계 진입** - 미 해군이 "Milestone C" 통과하여 저속 초기 생산(LRIP) 및 정상 제조 사이클로 전환</p><p>• **항공모함 전투력 증강의 핵심 자산** - F/A-18 슈퍼호넷의 급유 임무 대체로 전투기들의 작전 임무(타격, 공중전 초계) 수행 능력 회복</p><p>• **보잉과 미 해군의 9년 개발 성과** - 2018년 선정 이후 T-1 시험기의 2019년 초비행, 2021년 공중급유 성공 달성</p><p>• **2026-2027년 6대 추가 도입, 총 76대 계획** - FY 2027 예산 $771.17백만으로 3대 추가 구매, 총 9대 시험기 + 67대 양산기 예정</p><p>• **2029년 초 초기작전능력(IOC) 달성 목표** - 패턱스턴 강 해군비행장(NAVAIR)에서 통합 시험 예정</p><p>• **일리노이주 마스코타 시설에서 본격 양산** - 보잉의 신규 30만 평방피트 생산 시설과 롤스로이스 등 주요 협력사 참여</p><p>---</p><h3>Key Quotes</h3><p>• "The MQ-25 program has stretched over the past 9 years, with Boeing selected as the winning contractor in 2018 followed by the next few years of extensive flight testing." <br>(보잉이 2018년 선정되어 이후 수년간 광범위한 비행시험을 수행해온 9년의 장기 프로그램)</p><p>• "The U.S. Navy still considers the MQ-25 program to be a priority due to the need to aggressively expand the reach of Carrier Air Wings (CVWs) amidst the operational pressure to conserve airframe lifespan on F/A-18 E/F Superhornets"<br>(항공모함 전투단의 활동 반경을 극대화하면서 슈퍼호넷의 기체 수명을 절감하는 운영상 압력 속에서 MQ-25가 우선순위 과제임)</p><p>• "The MQ-25 utilizes the 'Cobham' Aerial Refueling Store, the same pod system used on the Superhornets which employs a probe and drogue refueling system from an underwing pylon."<br>(슈퍼호넛과 동일한 콤밤사의 공중급유 시스템을 탑재하여 F-35C, E-2D 등 다양한 함정기 지원 가능)</p><p>---</p><h3>Technical Insights</h3><p>• **무인 급유기의 운영 효율성 극대화** - MQ-25A의 도입으로 전통적 유인 전투기의 급유 임무 부담 제거, F/A-18 기체 수명 연장 및 전투 임무 증가 활용성 향상</p><p>• **멀티플랫폼 급유 호환성의 중요성** - 콤밤 급유 포드 시스템 적용으로 F-35C 스텔스 전투기, E-2D 조기경보기 등 차세대 함정기 플랫폼 유연한 지원체계 구축</p><p>• **자동화 항공모함 작전의 선도 사례** - 무인 항공체의 항공모함 기반 운영 표준화는 향후 자율주행 해상 시스템 개발의 선례로서 의미, IMO 규제 환경과 독립적인 군사 도메인의 기술 리드</p><p>• **산업-국방 복합체의 공급망 강화** - 롤스로이스 등 국제 협력사 참여 및 일리노이 신규 시설 건설을 통한 미국 방위산업 기지 재편, 대중국 기술 우위 유지 전략</p></div>`,
+      tags: ["Unmanned Systems","U.S. Navy","MQ-25 Stingray","Carrier Operations","Autonomous Aircraft","Defense Technology"],
+      link: "https://www.navalnews.com/naval-news/2026/u-s-navys-first-carrier-operated-unmanned-tanker-cleared-for-production/",
+      coords: [-90.1994,38.627],
+      location: "Mascoutah, Illinois (Production Facility)"
+    },
+    {
+      type: "news",
+      title: "LNG Canada-bound vessel 'Diamond Gas Jade' named at Samsung Heavy Industries",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-05-20",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/05/Naming-ceremony-for-Diamond-Global-Energys-Diamond-Gas-Jade-LNG-vessel-Source-K-Line.jpg?image-crop-positioner-ts=1779288103",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 일본 카와사키 긴센(K Line)이 삼성중공업에서 건조한 174,000 cbm급 멤브레인식 LNG 운반선 'Diamond Gas Jade'의 명명식을 2026년 5월 19일 개최</p><p>• 다이아몬드 글로벌 에너지(미츠비시 자회사)와 K Line 간의 신조 LNG 운반선 장기 용선 계약으로, 캐나다 키티맷의 LNG 캐나다 프로젝트에 투입될 예정</p><p>• LNG 캐나다는 Shell, Petronas, PetroChina, KOGAS, 미츠비시의 합작투자로 운영되며, 글로벌 에너지 공급망 지원이 주요 목적</p><p>• 선명 'Diamond Gas Jade'는 브리티시컬럼비아의 옥(jade)이 특산품이라는 점과 장수와 번영을 상징하는 의미 포함</p><p>• K Line은 2022년 5월 중기 경영계획에서 LNG 사업을 최우선 투자 영역으로 선정하고 장기 용선 확대 추진 중</p><h3>Key Quotes</h3><p>• "The charter party between DGE and K Line is said to represent the first long-term charter contract for a newly built LNG vessel" (다이아몬드 글로벌 에너지와 K Line 간의 용선 계약은 신조 LNG 운반선 최초의 장기 계약)</p><p>• "The vessel was named to express the companies' hopes for the project's enduring success and prosperity" (선박의 명명은 프로젝트의 지속적 성공과 번영을 염원하는 기업들의 바램을 표현)</p><h3>Technical Insights</h3><p>• 174,000 cbm급 멤브레인식 LNG 운반선은 최신 용량 기준으로 현대적 LNG 운송 플릿의 표준화를 반영하며, 안전하고 효율적인 대량 수송 수행</p><p>• K Line의 장기 용선 계약 추진은 에너지 수요 증가에 따른 안정적 운영 역량 확보 및 글로벌 LNG 공급망 강화 전략의 일환</p><p>• 삼성중공업 같은 주요 조선소의 LNG 운반선 건조 능력은 해운 산업의 에너지 전환 시대 대응 역량을 보여주며, 아시아 조선업의 고부가가치 선박 시장 점유 지속</p></div>`,
+      tags: ["LNG shipping","vessel naming","K Line","LNG Canada","Samsung Heavy Industries"],
+      link: "https://www.offshore-energy.biz/lng-canada-bound-vessel-gets-its-name-at-samsung-heavy-industries-yard/",
+      coords: [-128.37,54.3],
+      location: "Kitimat, British Columbia, Canada"
+    },
+    {
+      type: "news",
+      title: "Yinson Production Opens Shanghai Office to Strengthen China Partnership and Project Execution",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-05-20",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/05/Yinson-Production-has-officially-opened-its-Shanghai-office-in-China-Source-Yinson-Production.jpg?image-crop-positioner-ts=1779284553",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **싱가포르 기반 Yinson Production이 중국 상하이에 새로운 사무소를 개설하여 조선소, 공급업체, 제조 파트너와의 협력 강화**</p><p>• **중국 조선소 생태계와의 협력은 10년 이상 지속되었으며, FPSO John Agyekum Kufuor 프로젝트(2014년부터) 등 다수의 주요 사업에 참여**</p><p>• **회사의 계약 잔액이 약 193억 달러에 달하며 2050년까지 확장되는 대규모 프로젝트 포트폴리오 보유**</p><p>• **중국 내 COSCO Shipping Heavy Industry, CIMC Raffles, Huarun Dadong Dockyard 등 주요 조선소들과 다중 FPSO/FSO 프로젝트 협력**</p><p>• **브라질, 서아프리카, 베트남 등 글로벌 해역에서의 함정 현대화 및 제조 지원 사업 수행**</p><p>• **해양에너지 산업의 복잡성 증가에 따라 안전성, 저배출, 디지털 통합, 신속한 납기 등 클라이언트 기대 충족 필요**</p><p>---</p><h3>Key Quotes</h3><p>• "The Shanghai office reflects the company's long-term commitment to strengthening execution capabilities and building deeper partnerships within China's engineering, fabrication and maritime industries." <br>(상하이 사무소는 중국의 엔지니어링, 제조, 해양산업 내 깊은 파트너십 구축과 실행 능력 강화를 위한 장기적 약속을 반영)</p><p>• "China has become an increasingly important part of our global project ecosystem over the years. As our projects have grown in scale and complexity, closer collaboration with shipyards, suppliers and engineering partners has become more critical to delivering projects safely, on time, on budget and to the quality standards our clients expect."<br>(중국은 수년간 글로벌 프로젝트 생태계에서 점점 더 중요한 부분이 되었으며, 프로젝트 규모와 복잡성 증가에 따라 조선소, 공급업체, 엔지니어링 파트너와의 긴밀한 협력이 안전하고 시간 내 예산 범위 내 고품질 납기를 위해 필수)</p><p>---</p><h3>Technical Insights</h3><p>• **조선소 기반 확충: 중국 주요 조선소(COSCO, CIMC Raffles, Huarun Dadong 등)와의 전략적 파트너십을 통해 FPSO/FSO 건조, 업그레이드, 통합 작업의 효율성 극대화**</p><p>• **글로벌 프로젝트 복잡성 대응: 해양에너지 산업의 저배출화, 디지털 통합, 신속 납기 등 증가하는 클라이언트 기대치 충족을 위한 지역 거점 강화 전략**</p><p>• **공급망 최적화: 아시아 최대 해양엔지니어링 및 제조 허브인 상하이 기반 사무소 개설로 신속한 협력, 품질 관리, 원가 효율성 동시 달성 가능**</p><p>• **장기 사업 안정성: $19.3B 계약 잔액(2050년까지)으로 지속적 성장이 예상되는 가운데, 중국 내 로컬 인프라 구축을 통한 프로젝트 리스크 감소 및 실행 신뢰성 강화**</p></div>`,
+      tags: ["FPSO","Offshore Engineering","China Shipyards","Project Execution","Strategic Expansion"],
+      link: "https://www.offshore-energy.biz/yinson-production-sets-up-shop-in-china-to-bolster-project-execution/",
+      coords: [121.4737,31.2304],
+      location: "Shanghai, China"
+    }
+  ]
+});
