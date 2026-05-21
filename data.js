@@ -6996,3 +6996,53 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-21
+addEvents({
+  "2026-05-21": [
+    {
+      type: "news",
+      title: "Wave-measuring device deployed at Cuttyhunk Test Range in Massachusetts",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-05-21",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/05/Wave-measuring-device-deployed-at-new-marine-energy-test-site-in-Massachusetts.jpg?image-crop-positioner-ts=1779347586",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 매사추세츠 해양재생에너지 협력단(MRECo)이 Cuttyhunk Test Range(CTR)에 SOFAR Spotter Buoy 파도 측정 장치를 배포하여 실시간 해양 데이터 수집 시작</p><p>• SOFAR Ocean의 Spotter Buoy는 파고, 수온, 환경 조건 등을 실시간으로 수집하여 해양 기술 프로젝트의 안전성과 성능 검증 향상</p><p>• CTR은 매사추세츠 Ocean Innovation Network의 첫 번째 현장 기술 배포로, 해양 기술 상용화를 위한 수심 테스트 인프라 제공</p><p>• MassCEC의 자금 지원으로 운영되는 CTR과 Bourne Tidal Test Site는 기업과 연구자들이 상용화 전 실제 환경에서 안전하게 테스트 가능하게 함</p><p>• 파도 측정 장치 배포는 해양 기술 개발의 비용 및 규제 진입장벽을 낮추는 중요한 단계</p><h3>Key Quotes</h3><p>• "This deployment marks an important step for Massachusetts as a leader in ocean innovation" (이 배포는 해양 혁신 분야의 선도자로서 매사추세츠의 중요한 진전을 의미한다)</p><p>• "CTR will remove the permeating and cost barriers for the water testing that is critical for commercialization of marine technologies" (CTR은 해양 기술 상용화에 필수적인 수심 테스트의 비용 및 장벽을 제거할 것이다)</p><h3>Technical Insights</h3><p>• 실시간 파도 높이 및 환경 조건 데이터 수집은 해양 신기술의 검증 및 성능 평가를 위한 신뢰할 수 있는 기초 데이터 제공으로, 기술 개발 기간 단축 가능</p><p>• 허가된 전용 테스트 인프라 구축으로 복잡한 규제 절차를 사전에 해결하여 스타트업 및 중소 기업의 해양 에너지 기술 상용화 가속화</p><p>• 매사추세츠 Ocean Innovation Network는 지역 차원의 공유 해양 테스트 인프라 통합으로 해양 재생에너지 생태계 조성, 향후 자율운항선박(ASV) 및 해양 로봇 테스트도 확대 가능성 시사</p></div>`,
+      tags: ["Marine Renewable Energy","Ocean Technology","Wave Measurement","Test Infrastructure"],
+      link: "https://www.offshore-energy.biz/wave-measuring-device-deployed-at-new-marine-energy-test-site-in-massachusetts/",
+      coords: [-70.6,41.5],
+      location: "Cuttyhunk, Massachusetts, USA"
+    },
+    {
+      type: "news",
+      title: "U.S. Navy Approves Boeing MQ-25A Stingray Unmanned Tanker for Production",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-05-21",
+      image: "https://maritime-executive.com/media/images/article/MQ-25-demonstrator-boeing-2.aa529a.webp",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 해군이 8년간의 개발을 거쳐 보잉의 무인급유항공기 MQ-25A 스팅레이(Stingray)의 양산 승인을 결정함<br>• 이 항공기는 항모 갑판에서 출발하여 약 15,000파운드의 제트 연료를 탑재하고 공중에서 전투기 급유 임무를 자동화<br>• 스팅레이 배치로 F/A-18 슈퍼 호넷들이 급유 업무에서 해방되어 더 많은 전투 작전 수행 가능<br>• 2026년 말 항모 적합성 시험(carrier qualification trials) 예정이며, 첫 해 3대의 항공기 초저율 양산 계획<br>• 무장하지 않은 설계이지만 스텔스와 초장거리 성능으로 인해 향후 대함 미사일(LRASM) 장착 전투형 버전 개발 가능성 제시<br>• 해군의 무인 전투기 개발 노력은 2000년부터 시작되었으며, X-47B 프로젝트의 중단 이후 무인 급유기 개념으로 재전환됨</p><h3>Key Quotes</h3><p>• "Moving the MQ-25A Stingray to Milestone C and into production is arming our warfighters with a capability that increases the lethality of our Carrier Strike Groups." (MQ-25A 스팅레이를 생산 단계로 이동시키는 것은 항모 전단의 전투력을 증대시키는 능력으로 작전 요원들을 무장시키는 것)</p><p>• "The Stingray will free up all of a carrier air wing's F/A-18 Super Hornets to carry out more combat missions by taking them off of tanking duty." (스팅레이는 항모 비행단의 모든 F/A-18 슈퍼 호넷을 급유 업무에서 해방시켜 더 많은 전투 작전 수행 가능하게 함)</p><h3>Technical Insights</h3><p>• **무인 항공기 자동화 기술**: MQ-25A는 항모 기반 무인 항공기의 20년 개발 노력의 결과물로, 완전 자동 급유 시스템과 항모 운용 기술을 통합한 첫 양산 체계를 대표함</p><p>• **군사 해양 전략 변화**: 무인 급유기의 도입은 항모 전단의 작전 반경 확대와 전투기의 임무 효율성 증대를 통해 해상 지배 패러다임을 변화시킬 전망</p><p>• **향후 군사화 가능성**: 현재 무장하지 않은 설계이나 LRASM 등 공대함 미사일 장착 가능성이 시사되며, 이는 자율 전투 시스템으로의 발전을 예고함</p><p>• **국방 산업 영향**: 보잉의 MQ-25A 양산 승인은 무인 방위 시스템 시장 확대와 자율 항공 기술 상용화 가속화를 촉발할 것으로 예상됨</p></div>`,
+      tags: ["Unmanned Aircraft","Naval Defense","Boeing MQ-25A Stingray","Carrier Operations"],
+      link: "https://maritime-executive.com/article/navy-s-unmanned-tanker-jet-for-carriers-has-been-approved-for-production",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
+
+// Auto-collected: 2026-05-20
+addEvents({
+  "2026-05-20": [
+    {
+      type: "news",
+      title: "U.S. Navy's MQ-25A Stingray Unmanned Tanker Cleared for Production",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-05-20",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/05/HIsrJDbXYAATuZB.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **MQ-25A 스팅레이 무인 급유기가 양산 단계(Milestone C) 진입** - 국방부 장관 헝 카오가 미국 해군의 첫 항모 운용 무인 급유기의 양산 승인을 발표하여 연구개발 단계를 벗어남</p><p>• **항모 전투단(CVW) 작전 반경 확대 및 F/A-18 슈퍼호닛 전력 보존이 주요 목표** - 유인 급유기로 사용되던 전투기를 전투 임무에 투입하고 무인 시스템으로 대체하여 항모 전력을 최적화</p><p>• **2027 회계연도 추가 3대 구매 및 총 $771.2백만 규모 투자** - 2026년 3대에 이어 2027년 3대 추가 구매로 총 76대 배치 계획 중 6대 확보(9대 시험기, 67대 양산기)</p><p>• **초기 운용 능력(IOC) 2029년 2분기로 연장** - 원래 2024년 목표에서 약 5년 지연되었으나 프로그램은 지속 추진 중</p><p>• **코방(Cobham) 공중급유 포드 탑재로 F-35C, E-2D 등 다양한 함정 항공기 지원 가능** - 프로브-드로그 급유 시스템 채택으로 항모 전투단의 다양한 플랫폼과 호환성 확보</p><p>• **미국 내 보잉 신규 생산시설 구축** - 세인트루이스 공항 미드아메리카에 30만 평방피트 규모 시설 건설하여 롤스로이스 엔진 등 주요 부품 통합</p><h3>Key Quotes</h3><p>• "The U.S. Navy still considers the MQ-25 program to be a priority due to the need to aggressively expand the reach of Carrier Air Wings (CVWs) amidst the operational pressure to conserve airframe lifespan on F/A-18 E/F Superhornets" <br>(미 해군은 F/A-18E/F 슈퍼호닛의 기체 수명 보존과 항모 전투단의 작전 반경 확대 필요성으로 MQ-25 프로그램을 우선순위로 유지 중)</p><p>• "Relegating Superhornets to tanker duty also reduced the available aircraft for other critical missions such as strike and combat air patrol, a problem solved by the MQ-25"<br>(슈퍼호닛을 급유기로만 사용하면 공격 및 전투 공중 초소 임무용 항공기 가용성이 감소하는 문제를 MQ-25가 해결)</p><p>• "The first MQ-25 produced under Navy ownership by Boeing recently completed it's first test flight outside it's construction facility on April 25th, 2026, with the Navy stating the flight lasted over 2 hours"<br>(보잉이 해군을 위해 생산한 첫 번째 MQ-25가 2026년 4월 25일 2시간 이상의 비행 성공)</p><h3>Technical Insights</h3><p>• **무인 항공 급유 시스템의 군사 자율화 진전** - 항모 전투단 내 유인 전투기 의존도 감소 및 무인 플랫폼 중심 운영 체계로의 전환은 향후 국방 자동화 트렌드의 선례가 될 것으로 예상</p><p>• **프로브-드로그 급유 시스템의 표준화 효과** - 코방 포드 채택으로 F-35C, E-2D 등 기존 함정 항공기와의 호환성 확보로 통합 운영 효율성 극대화 및 미래 무인 항공 플랫폼 확장성 제공</p><p>• **장기 개발 지연과 양산 단계 진입의 산업적 의미** - 9년 개발 기간과 5년의 IOC 연장에도 불구하고 양산 승인은 기술 성숙도 달성 및 미 해군의 강력한 정책 의지를 반영하며, 향후 방위사업 장기화 추세 심화 예상</p><p>• **</p></div>`,
+      tags: ["unmanned aircraft","autonomous systems","U.S. Navy","MQ-25 Stingray","carrier operations","defense technology"],
+      link: "https://www.navalnews.com/naval-news/2026/05/u-s-navys-first-carrier-operated-unmanned-tanker-cleared-for-production/",
+      coords: [38.2975,-76.4735],
+      location: "Naval Air Station Patuxent River, Maryland, USA"
+    }
+  ]
+});
