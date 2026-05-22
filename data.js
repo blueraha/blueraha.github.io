@@ -7046,3 +7046,65 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2025-05-01
+addEvents({
+  "2025-05-01": [
+    {
+      type: "accident",
+      title: "Man overboard and fatal entanglement on UK potting vessel Wilaya (M36)",
+      source: "MAIB (Marine Accident Investigation Branch)",
+      sourceMeta: "gov.uk · 2026-05-21",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사고 개요**: 2025년 5월 1일 영국 등록 어로용 선박 Wilaya에서 갑판원이 줄의 고리에 발이 걸려 배포 장비에 의해 바다로 끌려감<br>• **사망자**: 신속하게 회수되었으나 응급 처치에도 불구하고 소생하지 못함 (1명 사망)<br>• **사고 원인**: 회전하는 어구와 승선원 사이의 안전 분리 부족, 선박의 문서화된 안전 절차 미준수<br>• **위험 요소**: 위험 평가에서 어로 작업 관련 모든 위험이 파악되지 않았으며, 여러 제어 조치가 미실행 또는 실현 불가능했음<br>• **권장 사항**: 해양청에 어로 작업 위험 평가 지침 강화 권고, 선박 소유자에게 자동 배포 시스템의 안전 분리 기능 개선 요청</p><h3>Key Quotes</h3><p>• "a deckhand on the UK registered potting vessel Wilaya was dragged overboard by the deploying gear after his foot became caught in a bight of rope" <br>(영국 등록 어로용 선박 Wilaya의 갑판원이 줄의 고리에 발이 걸려 배포 장비에 의해 바다로 끌려감)</p><p>• "there was no separation from the running gear for the crew working on deck, which put them at risk of entanglement, harm and injury"<br>(갑판에서 작업하는 승무원이 회전하는 어구로부터 분리되지 않아 감김, 상해, 부상의 위험에 노출됨)</p><p>• "the crew did not adhere to the vessel's documented control measures during shooting operations which exposed the crew to a risk of harm and injury"<br>(승무원이 배포 작업 중 선박의 문서화된 제어 조치를 준수하지 않아 부상 위험에 노출됨)</p><h3>Technical Insights</h3><p>• **어로 안전 체계 결함**: 소형 어로 선박의 자동 배포 시스템(self-shooting arrangement)에서 기계적 위험 요소를 완전히 제거하지 못한 설계 문제로, 승무원 안전 절차의 순준수가 매우 중요함</p><p>• **위험 평가 부실**: 선박 수준의 위험 평가(Risk Assessment)가 실제 작업 환경의 모든 위험을 포함하지 못했으며, 문서화된 통제 조치들이 현장에서 실현 불가능한 경우가 있었음을 시사</p><p>• **산업 규제 개선 필요**: IMO/ISM 코드 준수 차원에서 어로 선박의 작은 규모와 운영 특성에 맞게 맞춤형 안전 지침이 강화되어야 함을 강조</p><p>• **Home and Dry 워킹그룹**: 냄비 및 통발 선박의 운영 위험과 하강식 적재(downstacking) 및 자동 배포 시스템 관련 위험에 대한 업계 전문가 그룹의 결과물 시행 추진 권고</p></div>`,
+      tags: ["Man overboard","Fatality","Potting vessel","Entanglement","Rope hazard"],
+      link: "https://www.gov.uk/maib-reports/man-overboard-from-the-potting-vessel-wilaya-m36-with-the-loss-of-1-life",
+      coords: [-5.13,51.73],
+      location: "Jack Sound, Pembrokeshire, Wales"
+    }
+  ]
+});
+
+// Auto-collected: 2026-05-21
+addEvents({
+  "2026-05-21": [
+    {
+      type: "news",
+      title: "IMO Adopts First-Ever Global Rules for Autonomous Ships",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-05-21",
+      image: "https://gcaptain.com/wp-content/uploads/2018/09/gCaptain_Logo.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **IMO, 최초의 자율운항선박 국제 규범 채택** - 국제해사기구(IMO)가 2026년 5월 런던에서 개최된 해사안전위원회 111차 회의에서 해양자율운항선박 국제안전코드(MASS Code)를 전 세계 최초로 채택했으며, 이는 해운 산업의 자율운항 기술 도입에 있어 획기적인 이정표가 됨</p><p>• **4단계 자율화 수준 정의** - MASS 코드는 자동화된 의사결정 지원 시스템을 갖춘 기존 선박부터 인간의 개입 없이 독립적인 의사결정이 가능한 완전 자율선박까지 4가지 자율화 수준을 정의함</p><p>• **비의무적 시작, 2032년 강제시행 예정** - 현재 채택된 코드는 비의무적(non-mandatory)이며, 올해 중 산업 경험 축적 단계를 시작하고, 2028년 강제 코드 작업 개시, 2030년 7월 채택, 2032년 1월 1일 발효 예정</p><p>• **미해결된 법적·기술적 쟁점 존재** - 원격 운항자의 책임, "선장(Master)"의 법적 역할 정의, 자율 의사결정 시스템의 법적 책임 문제, 원격 연결성 및 사이버보안, 선박 조종 및 감시 의무 등이 주요 미해결 과제</p><p>• **광범위한 운영·기술 기준 포함** - 원격 운항, 연결성, 사이버보안, 항해 안전, 기계 장치, 소방, 화물 취급, 선박 감시, 수색구조 의무 등 다양한 운영 및 기술 분야를 포괄</p><p>• **5년간의 규제 개발 프로세스** - IMO는 2021년 자율운항선박에 적용되는 기존 국제조약의 적용 범위를 검토하기 시작했으며, 안전, 항해, 훈련, 책임, 수색구조, 항만 운영 등 주요 협약을 포함한 종합적 검토 완료</p><h3>Key Quotes</h3><p>• **"IMO has adopted the first-ever MASS Code — a global framework for Maritime Autonomous Surface Ships. A milestone that puts IMO at the forefront of regulating emerging technologies, enabling innovation while keeping safety, accountability and the human element central to shipping."** (IMO가 채택한 최초의 MASS 코드는 자율운항선박에 대한 글로벌 규제 체계로, 안전성, 책임성, 인적 요소를 중심으로 한 혁신적 기술 규제의 이정표를 제시함)</p><p>• **"Trials involving remotely operated and semi-autonomous ships are already underway in several regions, particularly on shorter routes between ports."** (원격 운항 및 반자율선박의 시험운영이 이미 여러 지역에서 진행 중이며, 특히 항만 간 단거리 노선에서 활발함)</p><h3>Technical Insights</h3><p>• **자율운항선박의 법적 책임 체계 확립의 중요성** - MASS Code는 자율선박의 의사결정 과정에서 발생하는 법적 책임을 명확히 하기 위해 선장의 역할 재정의, 원격 운영자의 책임 범위, AI/자동화 시스템의 법적 지위 등을 규정해야 하며, 이는 해운 산업의 자율화 확대에 필수적인 규제 기반 마련</p><p>• **IMO의 단계적 규제 도입 전략** - 비의무적 코드로 시작하는 현재의 접근방식은 산업의 자발적 참여를 통해 실제 운영 데이터를 수집하고, 2032년 강제시행 전에 충분한 경험 축적 기간을 확보하는 현실적인 규제 전략으로 평가됨</p><p>• **원격 연결성과 사이버보안의 해결 과제** - 원양 항해에서의 신뢰할 수 있는 통신 인프라 부재, 원격 운항 시스템의 사이버 공격 취약성, 자율</p></div>`,
+      tags: ["Autonomous Ships","MASS Code","IMO Regulation","Maritime Safety"],
+      link: "https://gcaptain.com/imo-adopts-first-ever-global-rules-for-autonomous-ships/",
+      coords: [51.5074,-0.1278],
+      location: "London"
+    },
+    {
+      type: "news",
+      title: "IMO Adopts Global Code for Autonomous Ships (MASS Code)",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-21",
+      image: "https://images.marinelink.com/images/maritime/w800/source-170836.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• IMO가 런던 해사안전위원회 제111차 회의에서 자율운항선박 국제안전규칙(MASS Code)을 채택함<br>• MASS Code는 자동화된 선박, 원격운영 선박, 완전자율운항선박 등 다양한 수준의 자율성을 갖춘 상선의 안전한 통합을 목표로 함<br>• 2026년 7월 1일부터 효력 발생, 최소 2년간 자발적 적용 후 SOLAS 협약에 따른 강제 규정화 예정<br>• 국제 무역 화물선에 적용되며, 기존 선박과 동등한 안전 및 환경 기준 준수를 요구<br>• 선주국의 시험 운영 기간을 통해 규제 틀의 실효성 검증 및 개선 기회 제공</p><h3>Key Quotes</h3><p>• "The MASS Code aims to support the safe integration of autonomous and remotely operated commercial ships into global shipping" (MASS Code는 자율운항 및 원격운영 상용선박의 안전한 국제해운 통합을 지원하는 것을 목표로 함)</p><p>• "It will start on a voluntary basis for at least two years, giving Member States the opportunity to test its use while paving the way for making it mandatory under the SOLAS Convention" (최소 2년간 자발적 적용으로 시작하여 회원국들이 규제를 시험할 기회를 제공하면서 SOLAS 협약에 따른 강제화의 기초를 마련)</p><h3>Technical Insights</h3><p>• **MASS Code의 Goal-based Framework**: 규범적 규제가 아닌 목표 기반의 유연한 규제 체계로 설계되어, 기술 혁신에 빠르게 대응 가능하면서도 안전 기준 준수를 보장하는 균형 추구</p><p>• **다단계 자율성 수준 인정**: 선상 승무원 있는 자동화부터 완전자율운항까지 스펙트럼 전체를 수용함으로써 산업의 현실적 전환 경로 제시 및 기술 성숙도에 따른 점진적 도입 가능</p><p>• **국제 규제의 조화 필요성**: MASS Code의 의무화 이전 2년의 자발적 적용 기간은 선주국들의 국내법 정비, 선원 교육, 통신 인프라 정비 등 제도적 준비 기간으로 활용되어야 하며, IMO-SOLAS의 통합 규제 체계 구축의 신호탄</p></div>`,
+      tags: ["Autonomous Ships","IMO Regulation","MASS Code","Maritime Safety"],
+      link: "https://www.marinelink.com/news/imo-adopts-global-code-autonomous-ships-539519",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "IMO Approves Non-Mandatory MASS Code for Autonomous Ships",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-05-21",
+      image: "https://maritime-executive.com/media/images/article/Zhi-Fei-at-Qingdao.jpg.cfa699.backup",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• IMO 해양안전위원회가 무인선박 안전기준을 규정하는 MASS 코드(Maritime Autonomous Surface Ships code)의 최종 텍스트를 승인했으며, 현재는 비의무 지침이나 2028년 이르면 의무화될 예정<br>• MASS 코드는 자율항해 선박의 안전성 유지와 혁신 활성화의 균형을 맞추기 위해 목표 기반의 규칙으로 수립되었으며, 국제무역에서 운영되는 무인선박에 처음 적용되는 글로벌 표준<br>• COLREGS 충돌회피규칙을 기반으로 하되, 무인선박의 자동항해시스템이 "안전항해에 필요한 모든 정보를 지속적으로 모니터링"하는 상황 인식 요구사항이 추가됨<br>• 무인선박은 승무원이 탑승하지 않기 때문에 선체 구조, 안정성, 소화 장치, 구명 장비, 보안, 화물 취급, 동력 장치 등에서 기존 규격과 상이한 설계 기준 필요<br>• 앵커 윈들래스 등 비상 상황에서 자동 또는 원격으로 작동 가능한 기능이 필수 요구사항으로 규정되어 기술적 도전 과제 발생 예상</p><h3>Key Quotes</h3><br>• "the purpose of the code is to regulate emerging technology and maintain safety while also enabling innovation" (이 코드의 목적은 신흥 기술을 규제하면서 동시에 안전을 유지하고 혁신을 가능하게 하는 것)<br>• "the ship's self-navigation system must continuously monitor all information necessary for safe navigation" (선박의 자동항해시스템은 안전항해에 필요한 모든 정보를 지속적으로 모니터링해야 함)</p><h3>Technical Insights</h3><br>• COLREGS의 시각적·음향적 충돌회피 요구사항을 기반으로 하되, 현재 대부분의 자율항해시스템이 감지하지 못하는 음성 신호와 VHF 통신 해석 능력은 코드에 미포함되어 있어 향후 기술 발전에 따른 규제 강화 필요<br>• 목표 기반의 유연한 규칙 체계는 자율선박 기술 혁신을 촉진하지만, SOLAS 규정 수준의 구체적 기준 부재로 인해 해사 환경의 극악한 상황에서의 신뢰성 검증이 과제<br>• 무인선박의 비상상황 대응(fallback operations)과 열악한 해상환경에서의 설비 유지보수 표준화가 핵심 과제이며, 선급협회와 제조사 간 국제 협력 체계 구축 필요<br>• 2028년 의무화 예정으로 향후 2년간 업계 의견 수렴 및 기술 표준화를 위한 시간 확보되었으며, 자율선박 상용화 시대의 규제 환경 선제적 정립으로 국제 해운산업의 전환기 도래</p></div>`,
+      tags: ["Autonomous Ships","IMO Regulation","MASS Code","Maritime Safety"],
+      link: "https://maritime-executive.com/article/imo-passes-non-mandatory-safety-code-for-autonomous-ships",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
