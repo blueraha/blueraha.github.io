@@ -7108,3 +7108,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-21
+addEvents({
+  "2026-05-21": [
+    {
+      type: "news",
+      title: "Australian Quantum Sensor Company Deteqt Raises A$5M Seed Funding for Maritime Navigation",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-21",
+      image: "https://images.marinelink.com/images/maritime/w800/image-deteqt-170840.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **양자 자기 센서 기술**: 호주 딥테크 기업 Deteqt가 다이아몬드 크리스탈과 반도체 칩을 결합한 초소형 양자 자기계 개발 - 드론, 자율 차량, 로봇에 내장 가능</p><p>• **자금 조성**: Main Sequence가 주도한 A$500만 달러(360만 달러) 시드 펀딩 라운드 완료, ATP Fund, BOKA Capital, Beaten Zone Venture Partners 등이 참여</p><p>• **해양 분야 응용**: GPS 신호가 투과되지 않는 수중 환경에서의 항법, 자기 이상 탐지, 잠수함·파이프라인·미폭발탄 탐지 등에 활용</p><p>• **국방 수요**: GPS 재밍 환경에서의 위치결정 기술 대안으로 군사 플랫폼에 적용 - 분쟁 지역에서 긴급한 수요 증가</p><p>• **기술 검증**: 올해 초 철도 노선 상의 비차폐 환경 현장 시험에서 통행 열차의 자기 서명 감지 성공 - 강한 진동과 전자기 간섭 속 강건성 입증</p><p>• **확장성**: 칩 스케일 양자 자기계를 해양 플랫폼 어레이와 분산 센싱 네트워크에 배치하는 것을 목표</p><h3>Key Quotes</h3><p>• "Our technology uses engineered diamond to measure magnetic fields with extremely high sensitivity. The diamond contains atomic-scale quantum defects that respond to magnetic fields." <br>(공학적으로 제작된 다이아몬드를 이용해 자기장을 매우 높은 감도로 측정하는 기술 - 원자 규모의 양자 결함이 자기장에 반응)</p><p>• "Our chip-scale integration changes that entirely. Marine and subsea environments are an important focus area for Deteqt, particularly for navigation and magnetic anomaly detection."<br>(칩 스케일 통합 기술이 게임을 완전히 바꿈. 특히 해양·수중 환경에서 항법과 자기 이상 탐지에 중점)</p><p>• "Because GPS signals do not penetrate underwater, alternative navigation approaches are needed for subsea systems."<br>(GPS 신호가 수중에 투과되지 않으므로 수중 시스템을 위한 대체 항법 방식이 필수)</p><h3>Technical Insights</h3><p>• **수중 항법 혁신**: GPS 신호 불가 환경에서 양자 자기 센서 기반의 절대항법(Dead Reckoning) 시스템 구현 - 자율 수중선(AUV), 무인 잠수정(ROV) 등의 운용 반경 획기적 확대 가능</p><p>• **IMO 자율선박 규제 대응**: 미래 자율 선박의 필수 백업 항법 장비로서 COLREG 규정상 주요 네비게이션 시스템 다원화 요구에 부합 - 사이버 공격 및 GNSS 재밍 대응 능력 강화</p><p>• **산업 생태계 확장**: 소형화된 양자 센서 기술이 해양 산업 전반의 수중 탐사, 파이프라인 모니터링, 자기 이상 탐지 등 다양한 애플리케이션 개발을 촉발 - 스타트업 생태계와 대형 방산/해양 기업 간 기술 협력 증가</p><p>• **기술 성숙도 단계**: 현장 시험 성공으로 TRL 4~5 단계 진입 - 해양 환경의 고염분, 높은 압력, 전자기 간섭 등 극한 조건에서의 추가 검증 필요, 2~3년 내 상용화 가능성</p></div>`,
+      tags: ["Quantum Sensors","Maritime Navigation","GPS-Denied Systems","Autonomous Vehicles","Deep Tech"],
+      link: "https://www.marinelink.com/news/australian-quantum-sensor-company-raises-539523",
+      coords: [151.2093,-33.8688],
+      location: "Sydney, Australia"
+    }
+  ]
+});
