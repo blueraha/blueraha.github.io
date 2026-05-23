@@ -7128,3 +7128,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-22
+addEvents({
+  "2026-05-22": [
+    {
+      type: "news",
+      title: "Navy Selects 7 MUSV Designs to Enter Prototype Phase",
+      source: "USNI News",
+      sourceMeta: "usni.org · 2026-05-22",
+      image: "https://news.usni.org/wp-content/uploads/2026/05/HIIRomulusUSV-948x534-1.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미 해군이 중형 무인수상함(MUSV) 개발 프로젝트에서 약 24개 제안 중 7개 설계를 선정하여 프로토타입 평가 단계로 진입시켰음</p><p>• 선정된 조선사들은 2026년 10월 이전에 해상 시연을 성공적으로 완료해야 하며, 2027 회계연도에 해군이 함정을 임차 또는 구매할 계획</p><p>• 요구 사양: 25노트 속도, 2,500해리 항정, 25톤 페이로드, 40피트 컨테이너 2개 수용 가능, 자율 운용 능력</p><p>• 각 조선사는 프로토타입 단계에서 1,500만 달러를 지원받으며, 성공 시 후속 양산 계약 대상이 될 수 있음</p><p>• Saronic, HII, Blue Water Autonomy 등 주요 기업들이 MUSV 개발에 참여 중이며, 컨테이너화 전투 능력(containerized capability) 통합 전략의 핵심 플랫폼 역할</p><p>• 해군은 장기 조선 계획에서 2026 회계연도에 36척의 MUSV 구매 의도를 발표</p><h3>Key Quotes</h3><p>• "The Navy selected seven entrants in the Medium Unmanned Surface Vessel (MUSV) marketplace to advance to the next phase – prototype evaluation." (해군이 MUSV 개발에 참여한 7개 업체를 프로토타입 평가 단계로 진행시키기로 선정했다)</p><p>• "The containerized approach generates combat power at speed and scale by placing containerized payloads on any viable platform; frigates, [Littoral Combat Ships], auxiliaries, unmanned systems, and commercial vessels." (컨테이너화된 전투력 개념은 어떤 플랫폼이든 컨테이너 페이로드를 탑재하여 빠르고 대규모로 전투력을 생성하는 방식)</p><h3>Technical Insights</h3><p>• **자율운항 시스템의 고도화**: MUSV는 단순 무인함이 아니라 수주일간 인간 개입 없이 운용 가능한 고도의 자율항법 및 의사결정 시스템을 요구하며, 이는 IMO 자율선박 규정(COLREG 준수) 구현의 선도 사례가 될 수 있음</p><p>• **모듈화 전투체계와 해양 자율로봇**: 40피트 컨테이너 기반 페이로드 표준화는 다양한 전술 시스템을 동일 플랫폼에서 빠르게 재구성할 수 있는 산업 표준화의 중요성을 시사하며, 민간 해운업에도 적용 가능한 모듈 설계 개념</p><p>• **해양 자율 시스템의 성숙도 검증**: 2026년 10월 해상 시연 완료 요구는 실제 운용 환경에서의 자율성능 검증을 의무화하는 것으로, IMO Level 2-3 자율선박 시스템의 개발 추진을 선제적으로 입증하는 군사-민간 기술 전이 모델</p><p>• **산업 생태계 확장**: Saronic, HII, Blue Water Autonomy 등 신규 업체 진입으로 전통 조선산업과 고기술 자율로봇 기업의 협력 모델이 본격화되며, 이는 글로벌 해양 자율화 시장의 경쟁 구도 변화를 의미함</p></div>`,
+      tags: ["autonomous ships","MUSV","unmanned surface vessels","Navy robotics","prototype development"],
+      link: "https://news.usni.org/2026/05/22/navy-selects-7-musv-designs-to-enter-prototype-phase",
+      coords: [0,0],
+      location: "Global/USA"
+    },
+    {
+      type: "news",
+      title: "Iran's Control of Hormuz Strait Exacerbates Crisis for 20,000 Trapped Mariners",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-22",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockaninka-170863.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 호르무즈 해협 봉쇄로 인해 약 20,000명의 선원이 2,000척의 선박에 갇혀있으며, 식량 부족과 식수 부족 등 극심한 고통을 겪고 있음<br>• 이란이 새로운 지도를 발표하며 호르무즈 해협에 대한 통제권을 재확인했으며, 페르시아만 해협청(Persian Gulf Strait Authority)이 통행 허가와 결제를 위한 복잡한 시스템을 운영 중<br>• 2월 28일 미국-이스라엘의 이란 공격 이후 해협 폐쇄로 인해 선원들이 3개월 이상 고립된 생활을 하고 있으며, 미사일과 드론 공격에 대한 공포 상태 지속<br>• 국제운수노동자연맹(ITF)이 임금 지연, 선원 귀국 거부, 물자 부족 등으로 인한 분쟁 관련 2,000명 이상의 선원으로부터 연락을 받았음<br>• 선박 소유자들은 이란이 설정한 복잡한 통행 허가 및 결제 체계를 통해 선박 및 화물을 빼내야 하는 상황에 직면</p><h3>Key Quotes</h3><p>• "The only thing we do here is plan how to spend the night and pray to God that we do not get hit during an attack," (여기서 우리가 하는 유일한 일은 밤을 어떻게 보낼지 계획하고 공격을 받지 않기를 기도하는 것입니다)</p><p>• "Seafarers' vulnerability and exposure is more, let's say, extreme because of the war," (전쟁으로 인해 선원들의 취약성과 노출이 극도로 심각합니다)</p><h3>Technical Insights</h3><p>• 호르무즈 해협의 사실상의 봉쇄는 국제해운법(UNCLOS)과 자유로운 해상통행권에 관련된 국제해사법 원칙에 심각한 위반을 구성하며, IMO의 해상안전 및 선원 복지 규약 준수 문제 야기<br>• 선박의 장기간 정박 상태는 선원의 신체적·정신적 건강, 안전 및 보안, 적절한 식량과 의료 용품 제공 등에 관한 ILO 해사노동협약(MLC, 2006) 위반과 관련되어 있음<br>• 전쟁 지역의 선박 운항 시 자율운항선박(MASS) 도입이 인적 피해를 줄일 수 있는 대안이 될 수 있지만, 현재 기술 수준과 규제 미비로 단기 해결책으로는 부적절<br>• 이란의 해협 통제권 주장과 복잡한 통행 허가 체계는 국제 해운 보험료 인상 및 해상 무역 경로 재조정을 야기하는 산업적 파급효과 발생</p></div>`,
+      tags: ["Strait of Hormuz","Seafarer Welfare","Iran","Gulf Crisis","Maritime Geopolitics"],
+      link: "https://www.marinelink.com/news/irans-continued-control-hormuz-539554",
+      coords: [55.5,26],
+      location: "Strait of Hormuz, Persian Gulf"
+    },
+    {
+      type: "news",
+      title: "Third Qatari LNG Tanker Transits Hormuz Strait to China Amid Iran War",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-22",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockvladsv-170862.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 카타르 LNG 운반선 3척이 호르무즈 해협을 통과하여 중국으로 향하고 있으며, 이는 이란-파키스탄 협약에 따른 중요한 에너지 거래 재개를 의미함</p><p>• 알 사흘라(Al Sahla) 선박은 21만 1,842㎥ 용량으로 라스 라판에서 출발하여 6월 14일 천진 LNG 터미널 도착 예정</p><p>• 미국-이스라엘 공습 이후 이란의 보복으로 카타르의 LNG 수출 능력 17%(연간 1,280만 톤)가 파괴되었으며, 복구에 3~5년 소요 전망</p><p>• 카타르 협상팀이 이란 핵협상 중재를 위해 테헤란에 도착했으며, 파키스탄이 평화협상 조중자 역할 수행 중</p><p>• 카타르는 세계 2위 LNG 수출국으로 대부분의 해상 화물이 아시아 구매자로 향함</p><h3>Key Quotes</h3><p>• "Iranian attacks have destroyed 17%, or 12.8 million metric tons per year, of Qatar's LNG export capacity. Repairs could take between three and five years" (이란의 공격으로 카타르의 연간 LNG 수출 능력 12.8백만 톤(17%)이 파괴되었으며, 복구에 3~5년이 소요될 것으로 예상됨)</p><p>• "Iran approved the shipment to help build confidence between Qatar and Pakistan, which is mediating in peace talks" (이란이 카타르-파키스탄 간 신뢰 구축을 위해 해상 화물 통과를 승인했으며, 파키스탄은 평화협상 중재자 역할을 수행 중)</p><h3>Technical Insights</h3><p>• 호르무즈 해협 통과 운영의 정상화는 전 지역 에너지 무역의 안정성과 해상 항로 안전성 회복을 시사하며, IMO 규정 준수 및 상선 항해 보장의 중요성 강조</p><p>• 지정학적 분쟁으로 인한 LNG 운송 중단 및 재개는 국제 에너지 시장의 공급망 회복력(resilience) 문제를 드러내며, 해상 물류의 예측 불가능성 증대</p><p>• 다자간 중재 체계(카타르-파키스탄-미국-이란)가 호르무즈 해협의 상업 항해 재개에 영향을 미치는 구조는 전략적 해상 교통로(SLOCs) 관리의 정치경제학적 복잡성 입증</p></div>`,
+      tags: ["LNG shipping","Strait of Hormuz","Qatar-Iran conflict","Energy trade","Geopolitics"],
+      link: "https://www.marinelink.com/news/third-qatari-lng-tanker-transits-hormuz-539553",
+      coords: [56.55,26.13],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "France Drafts UN Resolution on Restoring Hormuz Strait Shipping Movement",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-22",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockpeter-170861.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 프랑스가 호르무즈 해협 해상 통행 복구를 위한 국제 임무 설립에 관한 UN 안보리 결의안을 작성했으며, 조건이 맞으면 제출할 의향을 표명함</p><p>• 미국-바레인 결의안은 2주 이상 논의 중이나 중국과 러시아의 거부권 위협으로 투표가 반복 연기되고 있는 상황</p><p>• 호르무즈 해협의 실질적 폐쇄로 인한 유가 급등과 3개월 지속된 미-이란 전쟁이 주요 배경이며, 해협 통행의 자유 확보가 분쟁 해결의 핵심 장애물</p><p>• 미국은 거부권 회피를 위해 약 140개국의 공동 후원을 확보했으나, 상임이사국인 프랑스는 현재 미국 안건을 지지하지 않는 중</p><p>• 마크롱 프랑스 대통령은 미국·테헤란과 협의 후 해협 해상 통행 자유 복구를 위한 국제 임무 구성을 추진할 계획</p><h3>Key Quotes</h3><p>• "We are working on an international mission to restore freedom of navigation. We have also prepared, as a permanent member, a draft resolution that could be discussed if the conditions are right" (해상 통행의 자유를 복구하기 위한 국제 임무에 참여 중이며, 상임이사국 자격으로 조건이 맞으면 논의할 수 있는 결의안 초안을 작성했다는 의미)</p><p>• "Control of the narrow waterway, a vital artery for global energy trade whose virtual closure has led to spiralling oil prices, is a major obstacle in talks to end the three-month-old U.S.-Iran war" (전 세계 에너지 무역의 생명선인 호르무즈 해협의 통제가 유가 급등을 초래했으며, 미-이란 전쟁 종료 협상의 주요 장애물이라는 의미)</p><h3>Technical Insights</h3><p>• **해상 통행의 자유(Freedom of Navigation) 원칙**: 국제해사법상 모든 국가는 공해에서 해상 통행의 자유를 누릴 권리가 있으나, 호르무즈 해협 사태는 전략적 해협 통제 문제가 국제분쟁으로 확대되는 심각한 사례</p><p>• **UN 안보리 메커니즘의 한계**: 상임이사국들의 거부권으로 인해 국제 해상 분쟁 해결이 지연되는 문제를 노출하며, 다자간 외교와 임시 해군 연합의 필요성을 강조</p><p>• **IMO와 국제해사규칙의 효력 문제**: 전쟁/군사 분쟁 상황에서 기존의 COLREG 및 국제해사법 준수 체계가 실효성을 상실하는 현실적 한계를 드러냄</p><p>• **항해 안전과 산업 연속성**: 글로벌 에너지 공급망 중단으로 인한 유가 급등이 전 세계 해운업계, 항만 운영, 자율운항선박 도입 등에 직접적 영향을 미치는 전략적 해상 통제의 중요성 증대</p></div>`,
+      tags: ["Strait of Hormuz","UN Security Council","Freedom of Navigation","International Maritime Policy"],
+      link: "https://www.marinelink.com/news/france-drafts-un-security-council-539552",
+      coords: [56.2424,26.5892],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
