@@ -7184,3 +7184,65 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-22
+addEvents({
+  "2026-05-22": [
+    {
+      type: "news",
+      title: "CMA CGM Q1 2026: Revenue Flat but Margins Squeeze Amid Geopolitical Disruptions",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-22",
+      image: "https://images.marinelink.com/images/maritime/w800/copyright-mariuszadobestock-170860.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• CMA CGM는 2026년 Q1 매출 $132.3억으로 전년동기 대비 거의 동일하나 순이익은 $2.5억으로 55.8% 급락하며 마진 압박 심화<br>• 해운 부문 TEU 물량 5.93백만으로 1.5% 증가했으나 평균 컨테이너당 수익이 거의 10% 하락하며 운임율 정상화 진행 중<br>• 중동 긴장으로 인한 해상로 차질과 유가 상승, 관세 불확실성 등 지정학적 리스크가 주요 악재로 작용<br>• 메탄올 연료 선박 도입(몬테 크리스토호) 및 인도 코칭 조선소에서 LNG 선박 6척 발주로 선대 현대화 가속<br>• 로지스틱스(CEVA) 부문 6.6% 성장과 터미널, 항공화물 등 다각화 전략으로 순해운 경기 의존도 감소 시도</p><h3>Key Quotes</h3><p>• "Ongoing tensions in the Middle East, particularly disruptions affecting Gulf trade lanes, forced CMA CGM to reconfigure services and deploy alternative multimodal logistics corridors to maintain cargo flows." <br>(중동 긴장으로 인한 걸프만 해상로 차질이 CMA CGM으로 하여금 서비스를 재구성하고 대체 다중운송 로지스틱 경로를 구축하도록 강제)</p><p>• "EBITDA in the shipping segment fell more sharply, down 41.3% to $1.49 billion, highlighting the continued normalization of freight markets after recent highs."<br>(해운 부문 EBITDA가 41.3% 급락하여 최근 고점 이후 운임 시장의 지속적 정상화 추세를 반영)</p><h3>Technical Insights</h3><p>• **선대 현대화와 친환경 연료 전환**: 메탄올 연료 컨테이너선 도입 및 LNG 선박 발주는 IMO 탈탄소화 규제(IMO 2050 목표) 대응과 연료 다각화 전략의 핵심으로, 향후 운영비 변동성 감소 예상</p><p>• **지정학적 리스크와 다중운송 로지스틱 전략**: 홍해/수에즈, 걸프만 해상로 차질로 인한 서비스 재구성은 자율항해 기술과 운항 최적화 시스템의 필요성을 증대시키며, AI 기반 경로 최적화 수요 상승</p><p>• **운임 정상화와 산업 구조 조정**: 평균 컨테이너당 수익 10% 하락은 팬데믹 이후 과도한 운임의 정상화를 의미하며, 향후 초대형선(ULCV) 효율화와 자동화/인력 최소화 기술 투자 필수화</p><p>• **포트 터미널 다각화의 경쟁력**: Stonepeak와 글로벌 포트 합작, 철도·프로젝트 로지스틱 인수는 순 해운 마진 악화에 대응한 생태계 통합 전략으로, 자동화 터미널 기술과 IoT 기반 공급망 추적이 차별화 요소</p></div>`,
+      tags: ["CMA CGM","Container Shipping","Financial Results","Geopolitical Risk"],
+      link: "https://www.marinelink.com/news/cma-cgm-q-resilient-shipping-margins-539551",
+      coords: [5.3698,43.2965],
+      location: "Marseille, France"
+    },
+    {
+      type: "news",
+      title: "Incat Crowther Designed EPA Tier 4 Passenger Ferry Enters Service in US Virgin Islands",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-22",
+      image: "https://images.marinelink.com/images/maritime/w800/incat-crowther-170859.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Incat Crowther가 설계한 104피트(32미터) 신규 여객선 'Spirit of 1733'이 미국령 버진아일랜드에서 운항을 시작했으며, EPA Tier 4 배출 규제 완전 준수 선박임<br>• Gulf Craft LLC가 루이지애나에서 건조했으며, 최대 300명의 승객을 시속 28노트로 수송 가능한 USCG Subchapter-K 승인 선박<br>• Red Hook(St. Thomas)과 Cruz Bay(St. John) 간의 주요 관광 및 통근 노선에 투입되며, Incat Crowther가 설계한 기존 28미터급 여객선 2척과 함께 운영<br>• 최신 디젤 엔진 배출 제어 기술 장착, 휠체어 접근성 5개 공간 포함 202명 수용 메인 캐빈, ADA 준수 화장실 2개 등 접근성 우선 설계<br>• 상부 갑판에 100명 수용 옥외 좌석, 조종실의 360도 시야 확보로 안전한 도킹 작업 지원</p><h3>Key Quotes</h3><p>• "Spirit of 1733, a new EPA tier 4 compliant 104-foot (32-meter) passenger ferry designed by global digital shipbuilder Incat Crowther for the U.S Virgin Island's Department of Public Works has entered service." (Incat Crowther가 설계한 EPA Tier 4 준수 신규 여객선이 미국령 버진아일랜드의 공공사업부를 위해 운항을 시작했음)</p><p>• "The vessel is equipped with the latest diesel engine emission control technologies in compliance with Environmental Protection Agency (EPA) Tier 4 standards." (최신 디젤 엔진 배출 제어 기술로 EPA Tier 4 규제 완전 준수)</p><h3>Technical Insights</h3><p>• EPA Tier 4 배출 규제 준수는 해양 산업의 환경 규제 강화 추세를 반영하며, 신규 여객선 건조 시 배출 제어 기술이 필수 요구사항으로 자리 잡음<br>• USCG Subchapter-K 승인 취득으로 미국 내 여객 안전 기준 완벽 충족을 입증하며, 특히 휠체어 접근성과 ADA 준수는 포용적 해상 운송 서비스 제공의 산업 표준화 추세<br>• Incat Crowther의 디지털 조선 설계 기술이 승객 편의성(360도 시야, 통합 측면 승선 램프, 에어컨 실내 등)과 운영 효율성을 동시에 구현하는 현대 여객선 설계의 모범 사례</p></div>`,
+      tags: ["Passenger Ferry","Ship Design","EPA Compliance","US Virgin Islands"],
+      link: "https://www.marinelink.com/news/incat-crowther-designed-passenger-ferry-539550",
+      coords: [-64.8194,18.352],
+      location: "US Virgin Islands (St. Thomas - St. John Route)"
+    },
+    {
+      type: "news",
+      title: "EU Temporarily Suspends Fertilizer Duties Amid Hormuz Crisis",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-22",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockm-170857.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 호르무즈 해협의 거의 완전한 폐쇄로 전 세계 비료 무역의 3분의 1이 차단되면서 글로벌 비료 가격이 급등</p><p>• EU 이사회가 질소 기반 비료(요소, 암모니아) 관세를 1년간 임시 중단하기로 결정해 가격 인상의 영향 완화 추진</p><p>• 호주를 포함한 주요 농산물 수출국에서 파종량 감소로 최대 40% 수확량 감소 위험 직면</p><p>• 관세 면제 혜택은 러시아·벨라루스산 비료 제외, MFN(최혜국) 수입량 2024년 기준 플러스 20% 범위로 제한</p><p>• EU가 2024년 암모니아 2백만 톤, 요소 5.9백만 톤 수입했으나 중동 직접 의존도는 낮은 3~2% 수준</p><p>• UN 식량농업기구(FAO)는 장기 해상 봉쇄 시 전 지구적 농업 식량 위기 경고</p><h3>Key Quotes</h3><p>• "Global fertiliser prices have jumped following the near total closure of the Strait of Hormuz, a narrow shipping route along Iran's coast through which around one-third of global fertiliser trade passes."<br>(호르무즈 해협은 이란 해안을 따라 세계 비료 무역의 약 3분의 1이 통과하는 좁은 해상 항로인데, 이 항로가 거의 완전히 폐쇄되면서 글로벌 비료 가격이 급등했다)</p><p>• "The U.N. Food and Agriculture Organization warned last month that a prolonged blockade could trigger an agrifood catastrophe."<br>(UN 식량농업기구는 지난달 장기간의 봉쇄가 농산물 식량 재앙을 초래할 수 있다고 경고했다)</p><p>• "Farmers in Australia - the third largest wheat exporter - are planting less this year, risking a harvest that is up to 40% smaller."<br>(세 번째 규모의 밀 수출국인 호주의 농민들이 올해 파종량을 줄이고 있어 최대 40% 수확량 감소 위험에 직면했다)</p><h3>Technical Insights</h3><p>• 해상 교통로 차단이 글로벌 공급망에 미치는 즉각적 영향 - 특정 해상 운송 병목이 전 세계 상품 가격과 식량 안보에 연쇄 영향을 미치는 구조적 취약성 노출</p><p>• IMO 및 국제 해사법 체계의 한계 - 지정학적 분쟁으로 인한 해상 항로 폐쇄 상황에서 국제 해사 규제 기구의 대응 능력 및 상업적 배상 메커니즘의 부재 문제</p><p>• 해상 운송 경제 다변화의 필요성 - 특정 해상 통로(예: 호르무즈 해협)에 대한 과도한 의존도 감소 및 대체 항로 개발의 전략적 중요성 증대</p><p>• 자율운항 선박과 디지털 해운의 역할 - 향후 글로벌 공급망 리스크 분산을 위해 스마트 라우팅, 실시간 모니터링, 자동화된 경로 변경 시스템의 구축 필요성 강조</p></div>`,
+      tags: ["Strait of Hormuz","Fertilizer Trade","EU Policy","Supply Chain"],
+      link: "https://www.marinelink.com/news/eu-temporarily-suspends-fertilizer-duties-539548",
+      coords: [55,26.5],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
+
+// Auto-collected: 2026-05-21
+addEvents({
+  "2026-05-21": [
+    {
+      type: "news",
+      title: "DNV: Hydrogen Won't Follow LNG's Global Trade Model",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-21",
+      image: "https://images.marinelink.com/images/maritime/w800/negro-elkha-170841.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• DNV의 에너지 전환 보고서에 따르면 수소는 LNG와 달리 글로벌 무역 모델을 따르지 않을 것으로 예측됨<br>• LNG는 지리적으로 집중된 천연가스 자원을 상품화하는 반면, 수소는 모든 지역에서 생산되어 지역 공급·수요 패턴에 의해 주도될 것<br>• 순수 수소 거래는 전용 인프라(액화시설, 파이프라인, 전문 터미널, 저장소 등)를 필요로 하며 자본집약적이고 장기 계약에 의존<br>• 수소 유도상품(암모니아, 메탄올)은 기존 글로벌 해운 선단과 항만 인프라를 활용할 수 있어 무역 확대가 용이<br>• DNV는 수소 유도상품 중 암모니아 거래가 전체 수소 상당량 거래의 43%를 차지할 것으로 예측<br>• 국제 수소 거래는 글로벌 가격 차익거래보다는 지역 시장 구조 중심으로 조직될 것으로 예상</p><h3>Key Quotes</h3><p>• "Hydrogen will be produced in all regions, shaped primarily by local production, demand patterns, and balancing requirements rather than by global resource scarcity" (수소는 모든 지역에서 생산될 것이며 글로벌 자원 희소성보다는 지역의 생산·수요 패턴과 밸런싱 요구에 의해 결정됨)</p><p>• "Once conversion, long-distance transport, storage, and reconversion are included, the apparent advantage of low-cost production narrows substantially" (변환, 장거리 운송, 저장, 재변환을 고려하면 저비용 생산의 겉보기 이점이 상당히 감소함)</p><p>• "Ammonia and methanol are already traded globally as chemical commodities, supported by existing shipping fleets, port infrastructure, storage facilities and handling standards" (암모니아와 메탄올은 이미 기존 해운 선단, 항만 인프라, 저장시설, 취급 기준으로 지원되는 글로벌 화학 상품으로 거래되고 있음)</p><h3>Technical Insights</h3><p>• **수소 유도상품의 경제성 우위**: 기존 해운 인프라를 활용 가능한 암모니아와 메탄올이 순수 수소 거래보다 비용 효율적이며, 이는 해운 산업의 설비 투자 최소화와 기존 선단 활용을 의미함</p><p>• **지역 중심의 수소 무역 구조**: 글로벌 자원 희소성에 기반한 LNG와 달리 수소는 지역 수급 구조 중심으로 재편되며, 이는 장거리 국제 해운의 필요성 감소를 시사</p><p>• **해운 인프라 활용도의 차등화**: 기존 항만 터미널과 저장시설을 활용 가능한 수소 유도상품이 순수 수소보다 빠른 시장 확대가 가능하여, 해운·항만 산업의 투자 전략 차별화 필요</p><p>• **IMO 규제 및 기술 표준화의 중요성**: 수소 유도상품의 글로벌 거래 확대에 따라 안전 취급 기준, 해양 오염 방지, 탱커 설계 표준화 등 국제 규제 개발이 시급</p></div>`,
+      tags: ["Hydrogen","Energy Transition","LNG","Shipping Infrastructure","Hydrogen Derivatives"],
+      link: "https://www.marinelink.com/news/dnv-why-hydrogen-not-next-lng-539524",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
