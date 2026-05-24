@@ -7246,3 +7246,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-23
+addEvents({
+  "2026-05-23": [
+    {
+      type: "news",
+      title: "Navantia UK unveils LASV75 autonomous surface vessel concept",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-05-23",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/05/Navantia-UK-LASV75-bow.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **Navantia UK, 75m 자율무인수상함 개념 설계 공개**: Navy Leaders Combined Naval Event(CNE) 2026에서 LASV75 규모 모형 공개, 영국 해군의 하이브리드 함대 구성을 지원하기 위해 설계됨</p><p>• **고급 설계 및 운영 성능**: 1,000톤 이상 변위, 감시·호위·전자전·타격 작전 등 다중 임무 수행 가능, 모듈식 페이로드 덱과 재구성 가능한 센서 체계 탑재</p><p>• **NATO 표준 인터페이스 채택**: NavyPOD 방식 페이로드 모듈과 NATO 표준 인터페이스로 아군 해군과의 상호운용성 극대화 추진</p><p>• **Navantia UK 설계팀 주도**: Bristol 기반 설계팀이 개발, 승무원 숙소 및 지원 시스템 제거로 페이로드 유연성과 지속력 극대화</p><p>• **Appledore 조선소에서 생산 계획**: 120m 이하 함정 건조 가능한 Devon 지역 Appledore 시설에서 초기 생산 진행, 저비용 고속 건조 및 신속한 확산 가능성 검토</p><h3>Key Quotes</h3><p>• "This is our vision for what we think the hybrid navy will need in the future to have a credible and persistent capability. To have true persistent capability in the North Atlantic, for example, in harsh cold weather conditions, we believe something of this scale is necessary." (하이브리드 함대가 신뢰할 수 있고 지속적인 능력을 갖추기 위해 필요한 미래 개념이며, 특히 북대서양의 혹독한 환경에서 진정한 지속력을 확보하려면 이러한 규모의 함정이 필수적)</p><p>• "We're thinking about standard interfaces aligned to NATO standards to make these as interoperable and interchangeable as possible." (NATO 표준에 부합하는 표준화된 인터페이스로 아군 해군 간 상호운용성과 교환성을 최대한 확보하려는 전략)</p><h3>Technical Insights</h3><p>• **자율무인함의 설계 최적화**: 승무원 숙소 제거로 구조 단순화 및 페이로드 능력 극대화, 전통적 함정 설계 원칙의 혁신적 변화를 시사함</p><p>• **모듈식 아키텍처의 운영 유연성**: 컨테이너화된 임무 체계, 교환 가능한 센서 구성, 모듈식 마스트로 다양한 전술적 요구사항에 신속 대응 가능</p><p>• **NATO 상호운용성 표준 강화**: 다국적 해군 연합작전 환경에서 자율함의 임무 모듈 교환성 확보, IMO/COLREG 자율항해 규제 프레임워크와 군사 운영 표준의 이원화 필요성 대두</p><p>• **저비용·고속 건조 기술 추진**: Appledore 중소 조선소의 효율적 생산 능력 활용으로 다량 건조 시 비용 절감 및 전력 구성 신속화 가능성 확보</p></div>`,
+      tags: ["Autonomous Surface Vessel","UK Royal Navy","Hybrid Navy","Navantia UK","LASV75"],
+      link: "https://www.navalnews.com/event-news/cne-2026/2026/05/navantia-uk-unveils-lasv75-autonomous-surface-vessel-concept/",
+      coords: [-1.7,51.5],
+      location: "Farnborough, United Kingdom"
+    }
+  ]
+});
