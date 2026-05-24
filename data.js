@@ -7266,3 +7266,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-22
+addEvents({
+  "2026-05-22": [
+    {
+      type: "news",
+      title: "RINA Awards AiP for Energy-Harvesting Ship Producing Green Hydrogen",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-05-22",
+      image: "https://maritime-executive.com/media/images/article/Drift-hydrogen-generation-vessel.b56b44.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• RINA는 영국 스타트업 Drift Energy의 에너지 수확 선박에 대해 원칙적 승인(AiP) 인증서를 발급했으며, 이는 세계 최초의 순 긍정적 에너지 생산 선박 개념이다.<br>• Drift Energy는 2021년 설립되었으며 2027년 첫 선박 취항 계획을 수립하고 현재 30척 이상의 주문을 확보한 상태이다.<br>• 선박은 선체 하부의 수력 터빈으로 심해 바람을 활용해 전기를 생성하고, 전기분해를 통해 그린 수소로 변환하여 저장했다 항만에 공급한다.<br>• AI 기반 최적 경로 설정 기술로 기상 패턴을 추적하여 재생에너지 대비 초고효율 운영이 가능하다.<br>• RINA의 위험기반 AiP 프레임워크를 통해 혁신 선박 안전성 및 분류 요건을 확인했다.<br>• 기존 풍력발전소 대비 건설 시간이 짧고 항구 내 또는 해상에서 직접 다른 선박에 수소 벙커링이 가능하다.</p><h3>Key Quotes</h3><br>• "The AiP validates the vessel's feasibility from a class perspective and is a key step towards full plan approval" (AiP는 선급 관점에서 선박의 기술적 타당성을 검증하고 완전한 설계 승인을 위한 핵심 단계를 의미한다)</p><p>• "Our ships are set to play a pivotal role in the global energy transition" (우리 선박은 글로벌 에너지 전환에 중추적인 역할을 할 것이다)</p><p>• "RINA has assessed a novel design that introduces new approaches to the generation and transport of clean energy at sea" (RINA는 해상에서 청정에너지 생성 및 수송의 새로운 접근방식을 제시하는 혁신적 설계를 평가했다)</p><h3>Technical Insights</h3><br>• **AI 기반 최적 항로 기술**: 머신러닝을 활용한 기상 패턴 추적으로 재생에너지 소스 대비 초고효율(ultra-high load factors) 달성 가능 - 기존 해상풍력 대비 가동률 혁신이 핵심 경쟁력이다.</p><p>• **선급 승인 프레임워크의 확장**: RINA의 위험기반 AiP 프로세스가 에너지 수확 선박 같은 혁신 기술에 적용된 첫 사례로, IMO 규제 체계 내에서 새로운 선박 유형 평가 기준 수립을 선도하고 있다.</p><p>• **지속가능한 해운 에너지 공급망**: 선박 자체가 그린 수소 생산·수송 플랫폼이 되어 탄소중립 해운의 연료 공급 인프라 문제를 혁신적으로 해결하는 순환 구조를 제시한다.</p><p>• **선박 설계 및 분류 산업 영향**: 메가와트급 전기분해기 탑재, 40피트 컨테이너 저장 방식, 해상 벙커링 기능 등 종래 상선 설계 개념을 근본적으로 전환하는 새로운 클래스 요구사항 도입 필요성이 대두된다.</p></div>`,
+      tags: ["Green Hydrogen","Energy Harvesting","AI Navigation","Sustainable Shipping","RINA Approval"],
+      link: "https://maritime-executive.com/article/rina-awards-aip-for-energy-harvesting-ship-that-could-become-green-supplier",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
