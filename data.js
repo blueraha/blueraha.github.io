@@ -7330,3 +7330,53 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-25
+addEvents({
+  "2026-05-25": [
+    {
+      type: "news",
+      title: "Reach Subsea Charters Solstad Vessel for 2+1 Black Sea IMR Contract",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-05-25",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/05/Reach-Subsea-charters-Solstad-vessel-for-21-Black-Sea-contract.jpg?image-crop-positioner-ts=1779689856",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 노르웨이 Reach Subsea가 흑해 지역 IMR(점검, 유지보수, 수리) 및 경량 건설 서비스를 위한 2년 계약을 확보했으며, 1년 연장 옵션 포함<br>• Solstad Maritime의 Normand Jarstein 선박을 용선하여 ROV 기반 해저 작업, 건설 지원 및 현장 서비스 수행<br>• 계약자는 지역 협력사로서 최종 클라이언트와의 조율 및 현지 규제 준수를 지원할 예정<br>• Reach Subsea의 CEO Jostein Alendal은 지중해 및 흑해 지역에서의 성장 기회를 강조하며 회사의 입지 강화 의지 표현<br>• 종래 의향서(LoI) 발표에 이어 정식 계약이 체결되었으며, 선박은 이미 흑해에서 동원 중</p><h3>Key Quotes</h3><p>• "Our technology and asset base—spanning both conventional and remote operations, as well as subsea, survey and monitoring services—are highly relevant for this region, where we see a growing number of opportunities." (우리의 기술과 자산 기반은 재래식 및 원격 작업, 해저 조사 및 모니터링 서비스를 포함하며, 이 지역에서 성장하는 기회에 매우 적합합니다)</p><h3>Technical Insights</h3><p>• 흑해 지역의 에너지 인프라 개발로 ROV 기반 해저 작업 수요 증가 추세 반영<br>• 원격 조작 차량(ROV)과 해저 모니터링 기술을 통한 무인화 작업 확대로 운영 효율성 및 안전성 향상<br>• 다국적 에너지 프로젝트에서 지역 규제 준수 및 협력사 네트워크 구축의 중요성 증대<br>• 해양 에너지 산업의 글로벌 이동으로 신흥 지역(흑해, 지중해)에서의 전문 서비스 제공자 역할 강화</p></div>`,
+      tags: ["Subsea Services","Black Sea","IMR Operations","ROV Services"],
+      link: "https://www.offshore-energy.biz/reach-subsea-charters-solstad-vessel-for-21-black-sea-contract/",
+      coords: [35,43],
+      location: "Black Sea"
+    }
+  ]
+});
+
+// Auto-collected: 2026-05-24
+addEvents({
+  "2026-05-24": [
+    {
+      type: "news",
+      title: "Trump Administration Maintains US Naval Blockade on Iran, Strait of Hormuz Negotiations Ongoing",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-24",
+      image: "https://images.marinelink.com/images/maritime/w800/logostockimages-adobe-170864.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 트럼프 행정부는 이란과의 협상이 완료될 때까지 호르무즈 해협에 대한 해상 봉쇄를 계속 유지하겠다고 선언<br>• 미국은 이란의 고농축 우라늄 폐기, 제재 해제 등을 협상 조건으로 제시하고 있으며, 이란은 동결된 자금 해제를 요구<br>• 호르무즈 해협은 글로벌 석유 및 액화천연가스 운송량의 20%를 담당하는 전략적 해상로로, 현재 3개월간 분쟁이 진행 중<br>• 양측은 60일 내 최종 협상을 완료하는 것을 목표로 하고 있으며, 먼저 해협 재개와 해상 봉쇄 해제를 추진할 예정<br>• 이란 혁명수비대 관련 매체는 미국이 여전히 협상 일부 조건을 방해하고 있다고 주장</p><h3>Key Quotes</h3><p>• "The U.S. blockade on Iranian ships in the Strait of Hormuz would remain in full force and effect until an agreement is reached, certified, and signed" <br>(호르무즈 해협의 이란 선박에 대한 미국 봉쇄는 협상이 체결되고 서명될 때까지 완전히 유지된다는 의미)</p><p>• "Both sides must take their time and get it right" <br>(양측이 시간을 가지고 올바르게 협상을 진행해야 한다는 의미)</p><p>• "Iran had agreed in principle to open the Strait of Hormuz, in exchange for the United States lifting its naval blockade"<br>(이란이 미국의 해상 봉쇄 해제와 교환으로 호르무즈 해협 개방에 원칙적으로 합의했다는 의미)</p><h3>Technical Insights</h3><p>• **해상 운송 영향**: 호르무즈 해협의 폐쇄로 인한 전 지구적 에너지 운송 차질이 지속되고 있으며, 해협 재개 시 전 세계 에너지 공급망 정상화에 중요한 영향을 미칠 것으로 예상</p><p>• **국제 해상법 준수**: 현재의 해상 봉쇄는 국제 해상법상 분쟁 지역의 전략적 해상로 관리 문제로, 향후 IMO 및 국제해사기구의 중재 역할이 중요할 것으로 판단</p><p>• **해운 산업 안정성**: 협상 진행에 따른 불확실성이 해운비 변동과 해상 보험료 인상을 초래하고 있으며, 최종 합의 도달이 글로벌 해운업계의 경영 안정화에 필수적</p><p>• **신뢰성 메커니즘**: UN 핵감시기구(IAEA)의 감시 하에 우라늄 농축도 관리 방안이 논의되고 있으며, 이는 해상 수송 재개 후 국제 검증 체계의 구축과 연계된 사항</p></div>`,
+      tags: ["Iran Blockade","Strait of Hormuz","Geopolitics","Shipping Routes"],
+      link: "https://www.marinelink.com/news/trump-says-rush-iran-deal-us-blockade-539562",
+      coords: [56.5,25.5],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "accident",
+      title: "Ukraine Claims Drone Attack on Russian Frigate Admiral Essen in Novorossiysk",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-05-24",
+      image: "https://maritime-executive.com/media/images/article/Bora-class-corvette-Novorossiysk-May-2026-Magyar-AFU.45853a.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 우크라이나 무인기 부대가 노보로시스크 항구의 러시아 프리깃함 Admiral Essen을 공격했다고 주장하며, 이는 전쟁 초기 순항 미사일로 피격된 동일 함정에 대한 재공격임</p><p>• 공격 대상은 Admiral Grigorovich급 유도미사일 프리깃함 Admiral Essen과 Project 1239 Bora급 미사일 초계함(현존 2척 중 1척)으로, 후자는 시속 55노트의 고속성능을 갖춘 표면효과선(SES)임</p><p>• 동일 작전에서 Sheskharis 유류터미널, Grushova 유류저장탱크 농장, 그리고 제재 대상 섀도우플릿 유조선 Chrysalis도 공격 대상이 됨</p><p>• 러시아는 피격 지점들이 드론 잔해로 인한 피해라고 주장하였으며, 영상 증거는 결론적이지 못한 것으로 평가됨</p><p>• Chrysalis는 2024년 후티 반군의 미사일 2회 공격에도 불구하고 무손상으로 탈출한 경력이 있으며, 공격 당시 보스포루스 해협 진입로 해역에 정박 중이었음</p><h3>Key Quotes</h3><p>• "Ukraine's Unmanned Systems Forces struck the Russian Black Sea Fleet's Admiral Grigorovich-class guided missile frigate Admiral Essen during an aerial attack on Novorossiysk." (우크라이나 무인 시스템군이 노보로시스크에 대한 공중 공격 중 러시아 흑해함대의 Admiral Grigorovich급 유도미사일 프리깃함 Admiral Essen을 격추했다)</p><p>• "The Bora-class is a late Soviet design with a catamaran hull and rubber curtains fore and aft...can function in the manner of a hovercraft to achieve high speeds, up to a maximum of 55 knots in calm conditions." (Bora급은 쌍동선체와 전후 러버 커튼을 갖춘 소련 후기 설계로, 고기동 표면효과선 방식으로 작동하며 해수 상태에서 최대 55노트 달성 가능)</p><h3>Technical Insights</h3><p>• 무인 항공체(UAV)에 의한 해상 전투 플랫폼 공격은 전통적 해전의 개념을 재정의하고 있으며, 특히 고정된 항만 시설에서의 취약성을 여실히 드러냄</p><p>• 표면효과선(SES) 같은 고속 해상 플랫폼의 취약성이 부각되고 있으며, COLREG 및 해상교통 규칙이 분쟁 상황에서의 적용 한계를 노출</p><p>• 선박 추적 시스템(AIS)의 전술적 정보 가치 증대로 인해 민간 선박(shadow fleet 포함)도 안보 위협 대상이 되고 있으며, 국제 해사 규정의 강제성과 감시 체계의 개선 필요성 대두</p><p>• 흑해 해역의 지속적인 분쟁으로 인한 민간 해운업 교란은 국제 에너지 공급망 안정성 저하로 이어지고 있으며, 향후 자율 선박의 분쟁 지역 운영 가능성에 대한 우려 증가</p></div>`,
+      tags: ["Ukraine-Russia conflict","Black Sea Fleet","Drone attack","Naval warfare","Frigate damage"],
+      link: "https://maritime-executive.com/article/ukraine-claims-attack-on-russian-frigate-admiral-essen",
+      coords: [37.77,44.72],
+      location: "Novorossiysk, Black Sea"
+    }
+  ]
+});
