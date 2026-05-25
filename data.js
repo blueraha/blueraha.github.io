@@ -7286,3 +7286,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-24
+addEvents({
+  "2026-05-24": [
+    {
+      type: "news",
+      title: "IMO Adopts First Global Code for Autonomous Ships (MASS Code)",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-24",
+      image: "https://images.marinelink.com/images/maritime/w800/source-170867.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• IMO 해사안전위원회(MSC 111차 회의, 5월 13-22일)가 자율운항선박을 위한 국제해상자율운항선박안전규칙(MASS Code)을 최초로 채택하여 글로벌 자동선박 통합을 위한 포괄적 프레임워크 마련</p><p>• MASS Code는 화물선에 적용되며 2026년 7월 1일 시행되는 비의무적 규칙으로, SOLAS 협약 및 기타 IMO 의무 규칙 준수 요구</p><p>• 국제해사기구(IMO) 사무총장 Arsenio Dominguez는 "안전, 책임성, 인적요소를 해사운영의 핵심으로 유지하면서 혁신을 가능하게 한다"고 평가</p><p>• MASS Code는 선박설계 승인, 운영, 항법, 통신, 원격운영센터(ROC), 화재안전, 구조활동 등 핵심영역에서 새로운 요건 도입</p><p>• 마스터의 책임성 강조 - 원격운영 중에도 마스터가 선박에 대한 전반적 책임 유지</p><p>• 2028년 의무적 MASS Code 개발을 목표로 하며, 12월 2026년 MSC 112에서 경험축적단계(EBP) 프레임워크 개발을 위한 작업반 재구성 예정</p><h3>Key Quotes</h3><p>• "This landmark achievement positions IMO at the forefront of regulating emerging technologies, demonstrating the Organization's ability to anticipate and shape the future of shipping."<br>(이 획기적 성과는 IMO를 신기술 규제의 최전선에 위치시키며, 해운의 미래를 예측하고 형성하는 기구의 능력을 입증합니다)</p><p>• "The MASS Code sets out a comprehensive, goal-based framework to ensure that remotely controlled or autonomous ships are designed and operated to a level of safety, security and environmental protection that is expected of a conventional ship."<br>(MASS Code는 원격제어 또는 자율운항선박이 기존 선박과 동일 수준의 안전, 보안 및 환경보호 기준으로 설계·운영되도록 하는 포괄적인 목표기반 프레임워크를 마련합니다)</p><h3>Technical Insights</h3><p>• **자율운항선박 규제의 이정표**: MASS Code는 약 10년간의 다자간 협의, 법적 검토 및 실해역 시험을 통해 완성된 첫 글로벌 규칙으로, 신기술과 기존 기술의 안전한 통합을 가능하게 함</p><p>• **COLREG 및 SOLAS 호환성**: MASS Code는 국제해사법(UNCLOS 포함)을 고려하여 설계되었으며, 기존 IMO 의무규칙(SOLAS 등)과의 보완적 관계를 유지하여 해상교통법규 준수 보장</p><p>• **원격운영센터(ROC) 표준화**: 사이버보안, 시스템 설계, 위험평가, 인적 감시 등 ROC 운영에 대한 명확한 요건 제시로 안전한 원격운영 가능성 제고</p><p>• **의무화 로드맵**: 2026년부터 비의무적 코드로 경험축적 단계를 거쳐 2028년 의무규칙으로 전환 예정으로, 시장의 준비기간을 확보하면서도 규제 실행을 가속화하는 점진적 접근방식 채택</p></div>`,
+      tags: ["Autonomous Ships","MASS Code","IMO Regulations","Maritime Safety"],
+      link: "https://www.marinelink.com/news/imo-outlines-plans-binding-rules-539565",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "First Sea Lord Advocates Hybrid Navy with Autonomous and Uncrewed Systems for Royal Navy",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-05-24",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/05/Royal-Navy-Hybrid-Navy-LUSV.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 영국 해군(Royal Navy)의 최고 지도부가 북대서양과 북극 지역에서의 전투 효율성을 위해 자율 운영 및 무인 함정이 혼합된 '하이브리드 네이비(Hybrid Navy)' 전략 도입이 필수적임을 강조함</p><p>• First Sea Lord General Sir Gwyn Jenkins가 2026년 5월 19일 Defence Leaders Combined Naval Event(CNE 2026) 컨퍼런스에서 "현 상태의 능력 수준은 더 이상 충분하지 않다"며 러시아의 해상/잠수 위협에 대응하기 위한 전략 전환 필요성 주장</p><p>• 하이브리드 네이비 개념은 유인함정, 무인함정, 자율 함정/항공기를 통합 운영하는 모델로, 감지(sense), 의사결정(decide), 효과 발휘(effect), 연결(connect), 호스팅(host), 지원(enable) 기능을 다중 플랫폼에 분산</p><p>• 우크라이나의 흑해 작전 성공에서 영감을 받은 이 전략은 "유인이 필요한 곳은 유인, 가능한 모든 곳은 무인, 항상 통합"이라는 원칙에 기반</p><p>• 전략 실행을 통해 단위당 비용 감소, 생산 기간 단축, 전력 확충, 함대 운영의 유연성 및 회복력 증대 기대</p><p>• 세 가지 핵심 'Atlantic-series' 작전: 'Atlantic Bastion'(지속적 해상 억제 및 중요 인프라 보호), 'Atlantic Shield'(통합 방공), 'Atlantic Strike'(해상 전력 투사)로 구체화</p><h3>Key Quotes</h3><p>• "The capable status quo is not good enough, not anymore." (현재의 능력 수준은 더 이상 충분하지 않다)</p><p>• "What we need to do is to reduce the cost per unit and time for production to achieve the scale we need, because the reality is that there is no scenario in which we have unlimited resources." (단위당 비용과 생산 기간을 줄여 필요한 규모의 전력을 확보해야 하는데, 무한한 자원이 있는 시나리오는 없기 때문)</p><p>• "Our task is to do the best with that available, and be able to scale it rapidly when needed. The approach is therefore simple: crewed where necessary, uncrewed wherever possible, and integrated always." (주어진 자원으로 최선을 다하고 필요시 신속히 확장할 수 있어야 하는데, 접근방식은 간단하다: 필요한 곳은 유인, 가능한 곳은 무인, 항상 통합)</p><h3>Technical Insights</h3><p>• 하이브리드 네이비 전략은 기존의 대형 고가 플랫폼 중심 설계 패러다임을 근본적으로 전환하여, 다중 저비용 플랫폼의 분산형 운영을 통해 생존성 및 회복력을 강화하는 차세대 함대 운영 모델을 제시</p><p>• 자율운영 시스템과 무인 플랫폼의 대규모 통합 운영은 실시간 데이터 공유, AI 기반 의사결정, 네트워크 중심 전쟁(Network-Centric Warfare) 개념의 실제 구현을 요구하며, 이는 IMO 규정 및 국제 해상법(COLREG)의 자율선박 적용 논의와 밀접한 연관성 보유</p><p>• 우크라이나 흑해 작전에서 입증된 소형 무인 수상·잠수 플랫폼의 전술적 효용성이 양국 간 해군 전략 발전의 촉매제로 작용하며, 이는 글로벌 해군력 구조 재편의 신호</p><p>• 영국 해군의 이러한 전략적 선택은 NATO 동맹국 및 인태 지역 해군에 자율·무인 시스템 통합 모델의 국방 적용 가속화를 촉발할 것으로 예상되며, 민간 해운 산업의 자율선박 기술</p></div>`,
+      tags: ["Royal Navy","Autonomous Ships","Hybrid Fleet","Uncrewed Systems","Naval Strategy","CNE 2026"],
+      link: "https://www.navalnews.com/event-news/cne-2026/2026/05/first-sea-lord-insists-no-alternative-to-hybrid-navy/",
+      coords: [0,0],
+      location: "Global (Royal Navy Strategy)"
+    },
+    {
+      type: "news",
+      title: "Chinese Coast Guard Ship Leaves Standoff Near Taiwan-Controlled Pratas Islands",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-24",
+      image: "https://images.marinelink.com/images/maritime/w800/mariusz-adobe-170865.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 중국 해안경비대 선박이 대만 영토인 남사군도(Pratas Islands) 근처 해역에서의 긴장 대치를 끝내고 철수했으며, 양측 간 라디오를 통한 격렬한 주권 논쟁이 발생했음</p><p>• 대만 해안경비대가 중국 선박을 발견 후 즉시 자신의 함정을 파견하여 경고 방송을 송출하고 무선 통신으로 주권에 대한 강경한 입장을 표시함</p><p>• 남사군도는 대만 본토에서 400km 이상 떨어진 전략적 요충지로 보안 전문가들은 이곳이 중국의 공격에 취약할 수 있다고 평가함</p><p>• 중국의 '관할권 및 주권' 표현과 장시간 체류는 이례적이며, 이는 대만 주변 압박 정책의 일환으로 해석됨</p><p>• 대만 국가안보회의 사무총장 Joseph Wu는 X(구 트위터)에서 현재 제1도련(Japan-Taiwan-Philippines)에 배치된 중국 선박 100척 규모를 공개함</p><h3>Key Quotes</h3><p>• "Please do not destroy peace. You should return and strive for democracy. That is the correct way to serve your country." (평화를 훼손하지 말고 돌아가 민주주의를 위해 노력하는 것이 국가를 섬기는 올바른 방식이라는 대만 해안경비대의 방송 내용)</p><p>• "A Taiwan coast guard official told Reuters that China's wording on having jurisdiction and sovereignty was unusual as was the length of its stay in the waters so close to the Pratas." (대만 해안경비대 관계자가 중국의 관할권과 주권 표현, 그리고 남사군도 근처 해역에서의 장시간 체류가 이례적이라고 지적)</p><h3>Technical Insights</h3><p>• **해상교통관제 및 영해관리**: 대만과 중국 간의 해상 대치 사건은 국제해사기구(IMO)의 해상충돌회피규칙(COLREG)과 영해 관할권 해석 차이가 실제 해상 갈등으로 이어지는 사례를 보여줌</p><p>• **자율운항선박의 지정학적 위험성**: 향후 인공지능 기반 자율운항선박이 이러한 분쟁 해역에 배치될 경우, 인간 판단이 배제된 시스템이 주권 분쟁을 더욱 심화시킬 수 있는 잠재적 위험 존재</p><p>• **해양 감시 기술과 정보 공개**: 드론(reconnaissance drone), 해양 조사선(research ship), 해안경비대 함정 등 첨단 감시 기술의 빈번한 활용이 지정학적 긴장을 증폭시키는 악순환 구조 형성</p><p>• **국제해사 규범의 한계**: 남사군도 같은 분쟁 해역에서 국제해사법(UNCLOS)과 각국의 주권 주장이 충돌하며, 자동화된 해상교통 시스템의 도입이 더욱 복잡한 법적·기술적 문제를 야기할 수 있음</p></div>`,
+      tags: ["Taiwan","China","Pratas Islands","Coast Guard","Geopolitical Tension"],
+      link: "https://www.marinelink.com/news/chinese-ship-leaves-standoff-near-539563",
+      coords: [114.3,20.7],
+      location: "Pratas Islands, South China Sea"
+    }
+  ]
+});
