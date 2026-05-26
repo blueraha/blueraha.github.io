@@ -7436,3 +7436,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-26
+addEvents({
+  "2026-05-26": [
+    {
+      type: "news",
+      title: "Brent Crude Jumps 2% Following US Strikes in Iran Amid Strait of Hormuz Shipping Concerns",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-26",
+      image: "https://images.marinelink.com/images/maritime/w800/hunterpic2013-adobe-170875.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국의 이란 남부 공습으로 브렌트유가 2.5% 상승하며 유가 변동성 심화. 유가는 배럴당 $98.50 도달<br>• 호르무즈 해협을 통한 전 세계 석유 및 LNG 공급량의 약 20% 차단되어 해운 및 에너지 시장에 심각한 영향 발생<br>• 이란이 해협 내 광산 제거 및 통행료 징수 중단을 포함하는 휴전 협상 진행 중이나 합의 도출까지 수 일 소요 예상<br>• 최근 LNG 탱커 3척과 이라크 원유 수송 수퍼탱커 등이 해협 통과 시작하며 해운 재개 신호<br>• 트럼프 대통령의 이란 우라늄 인도 요구 등 협상 변수 존재로 합의 붕괴 위험성 상존</p><h3>Key Quotes</h3><p>• "Tehran has effectively halted nearly all non-Iranian shipping into and out of the Gulf via the Strait of Hormuz since the war began, choking off about a fifth of global oil and liquefied natural gas flows." <br>(이란은 전쟁 시작 이후 호르무즈 해협을 통한 비이란 선박의 거의 모든 해운을 중단시켰으며, 이는 전 세계 석유 및 LNG 해상 운송량의 약 20%를 차단하는 결과를 초래했다)</p><p>• "Traders are betting heavily that a breakthrough will finally free up the long-paralyzed tankers stuck in and around the Strait of Hormuz," said Tim Waterer, chief market analyst at KCM Trade.<br>(호르무즈 해협 및 인근에 갇혀 있던 오랫동안 운영 중단된 탱커들이 마침내 해방될 것으로 거래자들이 강하게 베팅하고 있다)</p><p>• "It's a sharp reminder that the deal could still collapse at the eleventh hour, much like the five previous attempts before it," said Tony Sycamore, a market analyst at IG.<br>(이는 협상이 이전의 5번 시도처럼 막판에 붕괴될 수 있다는 점을 명확히 상기시킨다)</p><h3>Technical Insights</h3><p>• **호르무즈 해협 해운 재개 시나리오**: 협상 타결 시 이란이 30일 내 해협 광산 제거 및 통행료 징수 중단할 예정으로, 국제 해운의 자유로운 통행 복구를 위한 구체적 로드맵 존재. 현재 LNG 탱커와 수퍼탱커의 통과로 재개 신호 포착</p><p>• **국제 해상 보안 및 COLREG 관련성**: 이란의 비상업적 선박 운항 제한과 광산 설치는 국제 해상 법규 및 IMO 협약 위배 사항으로, 향후 해협 항행 안전 기준 재정립 필요</p><p>• **선박 추적 기술의 역할**: AIS 기반 선박 추적 데이터가 실시간으로 해협 통행 상황을 파악하게 함으로써 시장 신뢰도 제고 및 보험료 책정 시 근거 제공. 자율 운항 선박 도입 시 지정학적 위험 해역 회피 알고리즘 필수</p><p>• **에너지 안보와 해운 산업의 상호연관성**: 호르무즈 해협 폐쇄는 단순 유가 변동을 넘어 글로벌 공급망 혼란, 선박 용선료(charter rates) 급등, 재보험료 인상으로 이어지며, 대체 해로(예: 홍해, 수에즈 운하) 의존도 증대로 운항 비용 대폭 증가</p></div>`,
+      tags: ["Oil Markets","Geopolitics","Strait of Hormuz","Shipping Disruption","Energy Security"],
+      link: "https://www.marinelink.com/news/brent-jumps-us-strikes-iran-rattle-oil-539579",
+      coords: [53.9,26.1],
+      location: "Strait of Hormuz / Iran"
+    }
+  ]
+});
+
+// Auto-collected: 2026-05-25
+addEvents({
+  "2026-05-25": [
+    {
+      type: "news",
+      title: "Chinese Bulk Cargo Ship Delivers 15,000 Tons of Rice Aid to Cuba",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-05-25",
+      image: "https://maritime-executive.com/media/images/article/Sunny-Hong-Cuba.8aee87.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 중국 소유 벌크화물선 Sunny Hong(33,847톤)이 5월 23일 하바나에 도착하여 중국산 쌀 15,000톤을 하역 완료<br>• 선박은 4월 1일 칭다오에서 출발, 5월 8일 파나마 운하를 통과한 후 신호 차단 상태로 운항했으며, 쿠바 정부가 공식 환영<br>• 중국이 총 60,000톤의 곡물을 쿠바에 공급하기로 약속했으며, 이는 미국의 경제 봉쇄로 인한 식량 부족 사태에 대응하는 조치<br>• 멕시코와 이탈리아 자선단체(Sant'Egidio International)의 추가 원조 선박들도 연이어 도착 중<br>• 러시아 유류 운반선 Universal은 대서양 중부에서 "지시 대기 중(waiting for orders)" 상태로 표시되어 있으며, 추가 석유 공급의 불확실성 존재</p><h3>Key Quotes</h3><p>• "noble gesture of solidarity" (연대의 숭고한 제스처) - 쿠바 디아스-카넬 대통령이 중국의 원조를 평가한 표현</p><p>• "The product tanker Universal's last reported position was in the middle of the Atlantic, displaying 'waiting for orders.'" (운반선 Universal의 마지막 보고 위치는 대서양 중부로, '지시 대기 중' 상태) - 러시아 유류 공급의 불확실성을 보여주는 사례</p><h3>Technical Insights</h3><p>• 벌크화물선의 AIS 신호 차단 운항: 선박이 4월 1일 출발 후 5월 8일 파나마 운하 통과 이후 신호를 송출하지 않았으며, 이는 국제 규제 회피 또는 운항 보안을 위한 전술적 결정으로 해석됨</p><p>• 인도주의적 화물 운송의 해운 역할: 국제 제재 환경에서도 해상 운송이 원조물자 공급의 주요 수단으로 기능하고 있으며, 벌크화물선의 대량 곡물 운송 능력이 위기 상황 극복에 중요한 역할을 수행</p><p>• 지정학적 해상 물류: 중국, 러시아, 멕시코, EU 자선단체 등 다양한 국가 및 기관이 쿠바 원조 운송에 참여하고 있으며, 해상 운송 네트워크가 지정학적 영향력 투사의 도구로 활용되는 현상 심화</p></div>`,
+      tags: ["Humanitarian Aid","Bulk Cargo","China-Cuba Relations","Shipping Operations"],
+      link: "https://maritime-executive.com/article/bulk-cargo-ship-arrives-in-cuba-carrying-aid-from-china",
+      coords: [-82.3666,23.1291],
+      location: "Havana, Cuba"
+    }
+  ]
+});
