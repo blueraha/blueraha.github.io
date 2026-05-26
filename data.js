@@ -7380,3 +7380,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-25
+addEvents({
+  "2026-05-25": [
+    {
+      type: "news",
+      title: "CMA CGM Appoints Esra Bora as Managing Director of ANL Container Line",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-25",
+      image: "https://images.marinelink.com/images/maritime/w800/source-170873.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• CMA CGM Group이 호주 멜버른 기반 ANL Container Line의 신임 Managing Director로 Esra Bora를 임명함<br>• Esra Bora는 해운업계 18년 이상의 경력 보유자이며, CMA CGM 그룹 내에서 8년 이상 근무한 경험 있음<br>• 터키 General Manager로 입사한 후 마르세유, 아시아, 베트남 클러스터, 중국 등 여러 지역에서 상업 및 지역 리더십 역할 수행<br>• 신임자는 오세아니아 지역의 그룹 활동 및 ANL Container Line의 전략과 운영을 총괄할 예정<br>• Shane Walden의 사직으로 인한 후임 인사로, 2026년 6월 1일부터 직무 시작</p><h3>Key Quotes</h3><p>• "The CMA CGM Group has appointed Esra Bora as Managing Director of ANL Container Line and General Manager of CMA CGM Oceania agencies, based in Melbourne, Australia." <br>(CMA CGM 그룹이 호주 멜버른 기반으로 Esra Bora를 ANL Container Line의 Managing Director 및 CMA CGM 오세아니아 기관의 General Manager로 임명했다)</p><p>• "Bora will oversee the Group's activities across the Oceania region, as well as the strategy and operations of ANL Container Line."<br>(Bora는 오세아니아 지역 전반의 그룹 활동과 ANL Container Line의 전략 및 운영을 감독할 것이다)</p><h3>Technical Insights</h3><p>• 글로벌 해운사 CMA CGM의 오세아니아 지역 경영진 교체는 해당 지역의 전략적 중요성을 반영하며, 특히 아시아-태평양 항로의 경쟁 심화에 대응하는 인사 조치로 평가됨</p><p>• Bora의 다양한 지역 경험(터키, 마르세유, 베트남, 중국)은 국제 해운 네트워크 구축과 다문화 리더십 역량이 컨테이너 라인 경영에 필수적임을 시사함</p><p>• ANL Container Line의 오세아니아 지역 내 경영 강화는 호주-뉴질랜드 항로의 운영 효율성 증대 및 고객 서비스 개선을 통한 시장 점유율 확보 전략의 일환으로 해석됨</p></div>`,
+      tags: ["CMA CGM","ANL Container Line","Management","Oceania"],
+      link: "https://www.marinelink.com/news/cma-cgm-appoints-managing-director-anl-539576",
+      coords: [144.9633,-37.8136],
+      location: "Melbourne, Australia"
+    },
+    {
+      type: "news",
+      title: "Oil Prices Fall 7% as US-Iran Peace Deal Negotiations Progress, Strait of Hormuz Reopening Expected",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-25",
+      image: "https://images.marinelink.com/images/maritime/w800/sashkin-adobe-170870.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 유가가 미국-이란 평화협상 진전에 따라 브렌트유 배럴당 $96.30으로 7% 하락, 호르무즈 해협 재개방 기대감 반영<br>• 이란 협상단 및 외무장관이 카타르 도하에서 미국과의 3개월 분쟁 종료 협상 진행 중, 양측 모두 양해각서 체결로 60일 이내 최종 협상 진행 예정<br>• 호르무즈 해협 통과 유조선 및 LNG 탱커 3척 최근 통과 확인, 이라크산 원유 수송 슈퍼탱커도 3개월 표류 후 중국으로 향함<br>• 협상 성공 시에도 손상된 석유·가스 시설 복구에 수개월 소요로 정상 유동성 회복까지 장기간 예상<br>• 중동 지역 리스크 프리미엄 상당 폭 감소 가능성, 이란 핵물질 포기 시 추가 감소 예상<br>• 현재 일일 1,000-1,100만 배럴 공급 부족이 즉시 해결되지 않아 중동 원유 생산 정상화까지 재고 소진 계속</p><h3>Key Quotes</h3><p>• "Even though it's not done, there seems to be some hope that we will start to get some oil moving through the Strait of Hormuz" (비록 아직 최종 합의는 아니지만 호르무즈 해협을 통한 석유 유동성이 회복될 가능성이 있어 보인다)</p><p>• "We've routinely gotten close and then collapsed on the details multiple times over the past couple of months and Hormuz remains closed" (지난 몇 개월간 여러 차례 합의에 근접했다가 세부사항에서 무산되어 호르무즈 해협은 여전히 폐쇄 상태임)</p><p>• "The underlying supply shortfall of 10-11 million barrels per day of crude oil does not go away immediately and will see markets still drawing inventories until Middle Eastern crude production is back online" (일일 1,000-1,100만 배럴의 근본적 공급 부족은 즉시 해결되지 않으며 중동 원유 생산이 정상화될 때까지 시장은 재고 소진을 계속할 것)</p><h3>Technical Insights</h3><p>• **해양 통상로 지정학 리스크**: 호르무즈 해협은 글로벌 석유 공급의 약 20-30%가 통과하는 전략적 요충지로, 지정학적 분쟁 시 국제 해운 및 에너지 시장에 직접적 영향 미침</p><p>• **선박 추적 데이터의 중요성**: 선박 추적 시스템(AIS)을 통해 LNG 탱커 3척과 이라크산 원유 수송 슈퍼탱커의 해협 통과 확인, 실시간 물류 정보는 시장 신뢰도 제고 역할</p><p>• **해운 재개에 따른 인프라 복구 기간**: 평화협상 성공 후에도 손상된 항만 시설, 해양 터미널, 파이프라인 복구에 수개월 소요로 실제 해운 정상화는 장기 프로세스로 진행될 것으로 예상</p><p>• **글로벌 에너지 안보 및 IMO 규정 적용**: 해협 재개방 시 국제해사기구(IMO) 안전규정, 환경보호협약 준수 강화 필요, 특히 분쟁 지역 통과 선박에 대한 해양보안(MARSEC) 등급 상향 조정 가능성</p></div>`,
+      tags: ["Oil Market","US-Iran Relations","Strait of Hormuz","Geopolitics","Energy Security"],
+      link: "https://www.marinelink.com/news/oil-tumbles-us-iran-seen-moving-closer-539573",
+      coords: [0,0],
+      location: "Global/Middle East"
+    },
+    {
+      type: "accident",
+      title: "Magnetic Mines Detected on Tanker at Russia's Baltic Port of Ust-Luga",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-25",
+      image: "https://images.marinelink.com/images/maritime/w800/max5128-adobe-170869.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 러시아 발트해 Ust-Luga 항구에서 유조선 Arrhenius 선체에 NATO 제조 자기지뢰 다수 발견<br>• 벨기에 앤트워프 항구에서 출발하여 LPG 적재를 위해 도착한 라이베리아 기국선, Maple Mariner Holding(UAE)이 관리<br>• 발견된 자기지뢰는 비활성화되었으며, 러시아 수사위원회는 러시아 영해 내에서 설치되지 않았다고 주장<br>• 2025년 2월 Suezmax 유조선 Koala가 동일 항구에서 엔진실 폭발로 좌초된 사건 이후 항만 보안 강화<br>• NATO는 유조선 채광에 대해 공식 부인, 에너지 인프라 파괴를 목표로 한 의심 사보타주 행위로 인한 긴장 고조</p><h3>Key Quotes</h3><p>• "Based on initial investigative actions, it can already be concluded that the magnetic mines could not have been installed in Russia's territorial waters," (초기 수사 조치에 따르면 자기지뢰는 러시아 영해 내에서 설치될 수 없었다는 결론에 도달할 수 있음)</p><p>• "NATO has not mined any tanker" (NATO는 어떤 유조선도 채광하지 않았음)</p><h3>Technical Insights</h3><p>• **항만 보안 강화**: 러시아는 의심되는 사보타주 사건 이후 선박 선체 검사 및 자기지뢰 탐지 시스템 운영으로 해양 인프라 방어 체계 고도화<br>• **국제 해사법의 한계**: IMO 규정에도 불구하고 민간 유조선에 대한 무장 공격이 현대 해전의 새로운 위협 요소로 부상하며, 정부 간 분쟁이 상선에 영향을 미치는 사례 증가<br>• **선사의 운영 리스크**: 분쟁 지역 항만 통항 시 선체 검사 및 지뢰 제거 비용, 운항 지연, 보험료 인상 등으로 인한 상업적 손실 증대<br>• **공급망 안보**: 에너지 인프라 및 극동 항만 운영의 불안정성으로 인해 글로벌 LNG/유류 수송 경로 재편 및 대체 수송망 개발 가속화</p></div>`,
+      tags: ["Sabotage","Magnetic Mines","Tanker","Baltic Sea","Port Security"],
+      link: "https://www.marinelink.com/news/russia-says-magnetic-mines-found-tanker-539572",
+      coords: [37.675,59.65],
+      location: "Ust-Luga, Baltic Sea, Russia"
+    },
+    {
+      type: "news",
+      title: "Fatal Skirmish Reported in Strait of Hormuz as Ceasefire Deal Edges Closer",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-05-25",
+      image: "https://maritime-executive.com/media/images/article/1779751752_6a14db487ee46.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 호르무즈 해협 인근에서 미국과 이란 간 군사 충돌 발생, 이란군 4명 사망 보고<br>• 미군은 방위적 성격의 공격으로 이란 보트 2척 격침 및 미사일 발사 기지 파괴 주장<br>• 이란의 파르스 통신사는 적대적 무인기를 방공 시스템으로 격추했다고 주장<br>• 호르무즈 해협에서 이란 군이 기뢰 부설을 시도한 사실 확인, 해상 안보 위협<br>• 양측 모두 휴전 협상 진행 중이며 해당 충돌이 휴전 위반이 아니라고 주장<br>• 국제해운의 주요 통로인 호르무즈 해협의 해상 안전성 및 통행 자유도 영향</p><h3>Key Quotes</h3><p>• "U.S. forces conducted self-defense strikes in southern Iran today to protect our troops from threats posed by Iranian forces. Targets included missile launch sites and Iranian boats attempting to emplace mines." <br>(미군은 이란군의 위협으로부터 자군을 보호하기 위해 방위적 공격을 실시했으며, 목표는 미사일 발사 기지와 기뢰 부설을 시도 중인 이란 보트였다)</p><p>• "The IRGC targeted a vessel at sea, followed by U.S. fighter jets striking IRGC naval boats in the Gulf. Several IRGC Navy personnel were killed in the attack."<br>(이란 혁명수비대가 함선을 공격한 후 미군 전투기가 수전을 벌였으며, 이란 해군 인원 다수가 피해를 입었다)</p><h3>Technical Insights</h3><p>• 호르무즈 해협은 전 세계 해상 무역량의 약 21%가 통과하는 전략적 요충지로, 군사 충돌 발생 시 국제 해운 및 에너지 공급 사슬에 심각한 영향<br>• 해상에서의 기뢰 부설은 국제해사기구(IMO)의 해상 안전 규정 및 해상법 위반에 해당하며, 민간 선박의 통행을 위협하는 불법 행위<br>• 자율항해 선박 및 무인 시스템의 운영이 증가하는 상황에서 군사적 갈등 지역의 해상 교통 제어 및 AI 네비게이션 시스템의 위험 회피 능력이 중요해지는 시사점<br>• 국제 해상 분쟁 시 민간 해운업계의 보험료 상승, 항로 우회 비용 증가 등 직접적 경제 영향이 발생할 수 있으며, 해상 안전성 강화를 위한 국제 협력의 필요성 대두</p></div>`,
+      tags: ["Strait of Hormuz","Iran","US Military","Geopolitics","Mine Laying"],
+      link: "https://maritime-executive.com/article/possible-clash-reported-near-bandar-abbas-as-ceasefire-deal-edges-closer",
+      coords: [56.2808,27.068],
+      location: "Strait of Hormuz / Bandar Abbas"
+    }
+  ]
+});
