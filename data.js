@@ -7474,3 +7474,83 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2025-03-10
+addEvents({
+  "2025-03-10": [
+    {
+      type: "accident",
+      title: "Stena Immaculate Crew Honored with Gallant Ship Award Following Deadly Tanker Collision in North Sea",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-05-26",
+      image: "https://gcaptain.com/wp-content/uploads/2025/03/2025-03-15T104326Z_665668132_RC20BDA9ZR7Q_RTRMADP_3_BRITAIN-CRASH-TANKER-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **사고 개요**: 2025년 3월 10일 북해 험버 강 하구 인근에서 정박 중이던 미국 국적 유조선 스테나 이매큘레이트(Stena Immaculate)가 포르투갈 국적 컨테이너선 솔롱(Solong)과 충돌했으며, 약 220,000배럴의 제트유를 운송 중이었음</p><p>• **인명피해 및 피해**: 필리핀 선원 마크 앙젤로 페르니아(Mark Angelo Pernia)가 사망했으며, 충돌로 인해 대형 화재가 발생하고 유조선의 화물 탱크 1개가 파손됨</p><p>• **승무원 대응**: 23명의 승무원이 즉각적인 대피를 시행했으며, 배를 버리기 전 선박의 소화전을 작동시켜 화재를 한 개 화물칸으로 국한시키고 대규모 유출을 방지함</p><p>• **법적 조치**: 솔롱의 함장 블라디미르 모틴(59세, 러시아 상트페테르부르크)이 과실치사죄(gross negligence manslaughter)로 유죄판결을 받고 6년의 징역형을 선고받음(2026년 2월)</p><p>• **훈장 수상**: MARAD의 갈란트 십 어워드(Gallant Ship Award) 수상 - 1944년 제정되어 극히 드물게 수여되는 해양 산업 최고의 영예(이전 수상은 2019년)</p><p>• **운항 상황**: 솔롱이 시정 불량 상황에서 약 16노트의 속도로 충돌했으며, 레이더에 정박 중인 스테나 이매큘레이트가 충돌 36분 전부터 식별되었으나 함장이 회피 조치를 취하지 않음</p><h3>Key Quotes</h3><p>• "This honor for the crew of the Stena Immaculate underscores the essential role that U.S. mariners play in safely sustaining supply chains and supporting national defense at home and abroad" (스테나 이매큘레이트 승무원의 이 영예는 미국 선원들이 안전하게 공급망을 유지하고 국방을 지원하는 필수적인 역할을 강조함)</p><p>• "The Gallant Ship Award, established in 1944, is presented only in cases of exceptional bravery and seamanship during emergencies at sea" (1944년 제정된 갈란트 십 어워드는 해상 긴급상황에서의 뛰어난 용감성과 선장기술을 보이는 경우에만 수여됨)</p><h3>Technical Insights</h3><p>• **COLREG 위반 사례**: 솔롱의 함장이 36분간 레이더에 표시된 정박 선박을 인식했음에도 회피 조치를 취하지 않은 것은 국제해상충돌방지규칙(COLREG) 제5조(망시)와 제8조(조종)의 심각한 위반으로, 정박 선박에 대한 의무적 회피 규정을 무시한 사례</p><p>• **위험화물 운송 및 환경 보호**: 220,000배럴 규모의 제트유 운송 중 충돌로 인한 화물 탱크 파손은 대규모 해양 오염의 위험을 초래했으나, 신속한 소화전 가동으로 화재를 단일 탱크로 국한시켜 환경 재해를 최소화한 뛰어난 응급 대응 사례</p><p>• **선박안전관리시스템(ISM Code)의 중요성**: 스테나 이매큘레이트의 신속하고 조직적인 피난 및 응급 대응은 철저한 안전 훈련과 ISM Code 준수의 결과로, 선박 소유사 크로울리의 안전 문화와 MARAD 탱커 보안 프로그램의 효과성을 입증</p><p>• **군사 수송(MSC) 선박의 안보 역할**: 미 해군 군사해운사령부(Military Sealift Command) 전세 선박으로</p></div>`,
+      tags: ["tanker collision","North Sea","casualty","fire","allision","Gallant Ship Award"],
+      link: "https://gcaptain.com/stena-immaculate-crew-honored-with-gallant-ship-award-following-deadly-tanker-collision/",
+      coords: [-1.1743,53.7418],
+      location: "Humber Estuary, Hull, United Kingdom"
+    }
+  ]
+});
+
+// Auto-collected: 2026-05-26
+addEvents({
+  "2026-05-26": [
+    {
+      type: "accident",
+      title: "Iran Claims U.S. Violates Ceasefire with Strikes Near Strait of Hormuz",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-05-26",
+      image: "https://gcaptain.com/wp-content/uploads/2026/05/2026-05-01T172007Z_982900821_RC210LAX5IPO_RTRMADP_3_IRAN-CRISIS-SAUDI-LIQUOR-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국의 호르무즈 해협 인근 공습이 7주간 유지된 휴전 협정 위반이라는 이란의 주장 제기로 전쟁 종료 협상에 차질 우려<br>• 이란 남부 호르모즈간 주의 미사일 기지 및 기뢰 설치 시도 선박에 대한 미국의 방어적 공격으로 알려짐<br>• 호르무즈 해협의 선박 통행량이 평상시의 일부 수준으로 급락하면서 전 지구적 석유 공급 충격 심화 (브렌트유 배럴당 약 $100으로 상승, 3.5% 증가)<br>• 지난 24시간간 이란 혁명수비대 허가로 25척의 유조선 및 기타 선박만 해협 통과<br>• 초기 양해각서를 통한 60일 협상 일정이 제시되었으나, 핵 프로그램 및 동결 자산 해제($24억) 등 복잡한 이슈 남아있음<br>• 호르무즈 해협은 전 지구적 석유 및 액화천연가스의 약 1/5을 수송하는 전략적 해상로로서 지속적인 통행 개선 필요</p><h3>Key Quotes</h3><p>• "The U.S. strikes in Iran's southern Hormozgan province represented a 'gross violation' of the ceasefire" (미국의 호르모즈간 주 공습은 휴전 협정의 '명백한 위반'을 의미함)<br>• "The Strait of Hormuz had to be open 'one way or the other'" (호르무즈 해협은 반드시 개방되어야 함)<br>• "The war has caused an unprecedented oil supply shock, pushing up the costs of fuel, fertilizer and food" (이 전쟁은 전례 없는 석유 공급 충격을 야기하여 연료, 비료, 식량 비용 급등)</p><h3>Technical Insights</h3><p>• 호르무즈 해협의 해상 통행 차단은 국제 해상 운송 규칙(COLREG) 준수 불가 상황 초래로, IMO의 국제 항행 안전 지침 재검토 필요<br>• 전쟁으로 인한 호르무즈 해협 폐쇄 위험은 해운 산업의 대체 항로(아라비아해, 수에즈 운하) 운영 증가 및 운송비 상승 야기<br>• 군사 충돌 상황에서의 선박 안전 문제로 UKMTO(United Kingdom Maritime Trade Operations)의 해상 주의 경보 체계 강화 필요성 대두<br>• 전 지구적 석유 공급 차질이 해운업 연료비(벙커유) 급등으로 이어지면서 해운사 경영 악화 및 친환경 선박으로의 전환 가속화 가능성</p></div>`,
+      tags: ["Strait of Hormuz","Iran-U.S. Conflict","Ceasefire Violation","Oil Supply Shock"],
+      link: "https://gcaptain.com/iran-says-new-u-s-strikes-violate-ceasefire/",
+      coords: [56.5,26.5],
+      location: "Strait of Hormuz, Hormozgan Province, Iran"
+    },
+    {
+      type: "accident",
+      title: "Tanker M/T Olympic Life Reports External Explosion Off Oman",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-05-26",
+      image: "https://gcaptain.com/wp-content/uploads/2026/05/2026-05-08T060655Z_1659901030_RC2R4LA1DNMR_RTRMADP_3_IRAN-CRISIS-SOUTHKOREA-TANKER-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 마샬제도 국적 유조선 M/T Olympic Life가 오만 동쪽 60해리 해역에서 5월 26일 0945 UTC에 외부 폭발 발생 보고<br>• **선박 정보 및 피해**: 좌현 후미 수선 근처에서 폭발 발생, 선원 및 선박은 안전하나 일부 벙커유 해상 유출<br>• **해역 상황**: 호르무즈 해협 주변 지속적인 해상 보안 위협 상황으로, 상업 선박 통항량이 사전 충돌 수준 이하로 급감<br>• **권고 사항**: UKMTO는 해당 해역 통과 선박에 주의 조치 및 의심 활동 보고 권고<br>• **지정학적 배경**: 미국-이란 협상 진행 중이나 호르무즈 해협 지역 보안 불안정 상태 지속, 다수의 공격 및 폭발 사건 발생</p><h3>Key Quotes</h3><p>• "The vessel's master reported an 'external explosion' near the waterline on the port side aft of the ship." (선박 기장은 선박 좌현 후미 수선 근처에서 발생한 '외부 폭발'을 보고함)</p><p>• "UKMTO advised vessels transiting the area to exercise caution and report suspicious activity." (UKMTO는 해당 해역 통과 선박에 주의 조치를 취하고 의심 활동을 보고할 것을 권고함)</p><p>• "Commercial shipping traffic through Hormuz remains far below pre-conflict levels as shipowners, insurers, and crews continue weighing the risks of operating in what maritime labor groups and insurers now classify as a Warlike Operations Area." (선주, 보험사, 선원들이 해상 노동 단체 및 보험사가 '전쟁 작전 지역'으로 분류하는 지역 운영 위험을 검토하면서 호르무즈 통항 상업 선박 통항량은 충돌 이전 수준 대비 훨씬 아래 유지 중)</p><h3>Technical Insights</h3><p>• **해상 보안 위협의 심화**: 호르무즈 해협 및 오만만 지역에서 발생하는 다중 공격 패턴(폭발, 포사, 보딩, 기뢰 활동 등)은 자동 식별 시스템(AIS) 신호 차단 관행으로 추적 회피 시도와 함께 해상 안전 관리의 근본적 한계 노출</p><p>• **보험 및 운송 리스크 평가 재정의**: 해당 해역을 '전쟁 작전 지역'으로 공식 분류함에 따라 보험료 급상승, 선원 할당 어려움, 선주들의 우회 항로 선택으로 인한 국제 해운 시장 구조 변화</p><p>• **IMO 해상 안전 규정의 실질적 한계**: 현재의 COLREG 및 해상 교통 관제 시스템이 비국가 행위자의 무장 공격 상황에서 상업 선박 보호 기능 상실, 국제 해협 통항 자유 원칙의 실질적 붕괴</p><p>• **자율 운항 선박 도입의 지정학적 함의**: 유인 선박의 호르무즈 해협 운항 회피 증가로 무인/원격 운영 선박 기술 개발 동인 증가, 다만 분쟁 지역 자율선박 운영의 국제법적 책임 문제 미해결</p></div>`,
+      tags: ["Tanker Explosion","Strait of Hormuz","Maritime Security","Gulf of Oman"],
+      link: "https://gcaptain.com/tanker-reports-explosion-off-oman-as-ukmto-warns-ships-to-use-caution/",
+      coords: [58.5,23.6],
+      location: "East of Muscat, Oman"
+    },
+    {
+      type: "news",
+      title: "Chile Approves $4.45 Billion 'Outer Port' Expansion at San Antonio",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-05-26",
+      image: "https://gcaptain.com/wp-content/uploads/2021/09/shutterstock_721673605.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 칠레 산안토니오 항만의 차세대 메가포트 확장 프로젝트인 '푸에르토 익스테리오르'가 환경 허가를 획득했으며, 총 45억 달러 규모의 인프라 사업으로 기록됨</p><p>• 발파라이소 지역 환경평가위원회가 만장일치로 승인했으며, 칠레 국가와 항만공사(EPSA)가 주도하는 공공-민간 협력 사업임</p><p>• 2036년 첫 단계 완공 예정이며, 최종 완성 시 연 600만 TEU(약 6,000만 톤) 처리 능력을 갖추고 400m급 초대형 컨테이너선 8척을 동시 수용 가능</p><p>• 프로젝트 구성: 4km 방파제, 광범위한 준설, 매립 터미널, 730m급 반자동화 컨테이너 터미널 2개 등 4단계 개발 계획</p><p>• EPSA가 19억 5천만 달러, 민간 터미널 운영사가 25억 달러 투자하는 구조로 추진 중</p><p>• 6년간의 환경 검토 과정을 거쳤으며, 시민 참여와 선주민 협의를 포함한 철저한 환경 영향 평가 완료</p><h3>Key Quotes</h3><p>• "This initiative will allow the country to endow the port infrastructure that Chile requires to maintain the competitiveness of foreign trade" (이 사업은 칠레가 국제 무역 경쟁력을 유지하는 데 필요한 항만 인프라를 구축할 수 있도록 할 것)</p><p>• "The Outer Port project is intended to help Chile avoid future port congestion, rising logistics costs, and loss of competitiveness in regional and global supply chains" (푸에르토 익스테리오르는 칠레의 향후 항만 혼잡, 물류비 상승, 그리고 지역·글로벌 공급망에서의 경쟁력 상실을 방지하기 위해 설계됨)</p><h3>Technical Insights</h3><p>• **초대형 선박 수용 능력**: 400m급 초대형 컨테이너선(세계 최대 규모) 8척 동시 수용으로 미래의 메가쉽 트렌드에 대응하는 포트 인프라 확보</p><p>• **자동화 터미널 도입**: 반자동화 컨테이너 터미널 구축으로 운영 효율성 향상, 노동력 최적화, 그리고 화물 처리 속도 증대 가능</p><p>• **해양 환경 및 ESG 고려**: 라구나 오호스 데 마르(Lagunas Ojos de Mar) 습지 생태계 보호 및 로예오 공원 조성 계획으로 환경 영향 최소화 전략 수립</p><p>• **칠레의 글로벌 해운 허브 전략**: 점증하는 선박 대형화와 무역량 증가에 대응하며 남미 태평양 해운 허브로서의 지위 강화</p></div>`,
+      tags: ["Port Infrastructure","Container Terminal","Mega Port","Chile","Public-Private Partnership"],
+      link: "https://gcaptain.com/chile-approves-4-45-billion-outer-port-expansion-at-san-antonio/",
+      coords: [-71.6156,-33.5886],
+      location: "San Antonio, Chile"
+    }
+  ]
+});
+
+// Auto-collected: 2025-05-24
+addEvents({
+  "2025-05-24": [
+    {
+      type: "accident",
+      title: "Three Dead and One Injured in FSO Sepat Lifeboat Maintenance Incident off Malaysia",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2025-05-24",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/05/FSO-Sepat-Source-Bumi-Armada.jpg?image-crop-positioner-ts=1779786343",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 말레이시아 동부 해역의 FSO Sepat에서 2025년 5월 24일 정오 이후 소형보트 유지보수 중 사고 발생으로 3명 사망, 1명 부상<br>• **피해 규모**: 4명의 계약직 근무자가 관여했으며, 3명은 쿠알라 테렌gganu의 Sultanah Nur Zahirah 병원 도착 시 이미 사망 선언<br>• **운영사**: Petronas Carigali가 FSO Sepat가 위치한 Sepat 유전의 운영자이며, JX Nippon과 BIGST 클러스터 공동 개발 협약 진행 중<br>• **조사 현황**: 관련 당국과 협력하여 사고 원인에 대한 조사 진행 중이며, 상세 결과는 조사 완료 후 공개 예정<br>• **현장**: 동부 말레이시아 연안 Sepat 유전에서 FSO(Floating Storage and Offloading) 시설 운영 중 발생한 산업 재해</p><h3>Key Quotes</h3><p>• "Petronas extends its deepest condolences to the families, friends and colleagues of the deceased. The immediate priority of the company is to support the well-being of those affected." (페트로나스는 사망자들의 가족, 친구, 동료들에게 깊은 애도를 표하며, 회사의 즉각적인 우선순위는 영향을 받은 사람들의 복지 지원)</p><p>• "investigations into the cause of the incident are ongoing in coordination with the relevant authorities" (해당 당국과의 협력 하에 사고 원인에 대한 조사가 진행 중)</p><h3>Technical Insights</h3><p>• **해상 안전 관리**: FSO 시설에서의 소형보트(lifeboat) 유지보수 작업은 높은 위험도를 가진 중요 안전 활동으로, 철저한 작업 절차 및 인력 안전 교육의 필수성을 재확인시킴</p><p>• **산업 규제 영향**: 말레이시아 해양 당국의 FSO 운영 관련 안전 기준 강화 및 계약직 근무자 안전 관리 기준 재검토 가능성 증대</p><p>• **운영상 시사점**: Petronas와 같은 대형 에너지 기업의 해상 시설 운영 중 안전 관리 체계의 효과성 검증 필요성 및 지속적인 안전 문화 개선 필요</p></div>`,
+      tags: ["FSO incident","Malaysia","Petronas","lifeboat maintenance","fatalities"],
+      link: "https://www.offshore-energy.biz/investigation-ongoing-three-dead-and-one-injured-in-southeast-asian-fso-incident/",
+      coords: [103.3256,4.2105],
+      location: "East Coast Peninsular Malaysia, Sepat Field"
+    }
+  ]
+});
