@@ -7554,3 +7554,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-27
+addEvents({
+  "2026-05-27": [
+    {
+      type: "news",
+      title: "L3Harris Delivering Clandestine Submarine-Launched AUVs to U.S. Navy",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-05-27",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/05/iver-suite-gallery-isub-launching-iver-render.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• L3Harris가 미 해군의 공격 잠수함 함대를 위해 Iver4 900 자율 수중 차량(AUV)을 개발·납품 중이며, 어뢰 발사관을 통한 발사 및 회수(TTL&R) 기능 구현<br>• Defense Innovation Unit(DIU) 주도의 프로젝트로 Virginia급 잠수함과의 실해역 연습을 통해 설계 검증 진행<br>• Iver4 900은 16~24시간의 독립 운영 능력(최소 페이로드 기준 40시간)을 갖춘 리튬이온 배터리 구동 시스템<br>• 광산 전투(Mine Warfare), 정보 수집(ISR), 해저 지도 제작 등 다목적 임무 수행 가능한 모듈식 페이로드 구조<br>• 잠수함의 "수중 윙맨(underwater loyal wingman)" 역할로 위험한 작업 자동화 및 잠수함의 개별 타격-목표 능력 강화</p><h3>Key Quotes</h3><p>• "When a diver is out there in the ocean, a lot of times they have a dive buddy for safety... unmanned systems are really good for the dull, dirty, and dangerous business." (수중에서 다이버는 안전을 위해 버디가 필요한데, 무인 시스템은 따분하고 위험한 작업에 최적화되어 있다)</p><p>• "We're proving them with the U.S. Navy in exercises. We're iterating with them—what's the capability [the Navy] needs?" (해군과의 연습으로 검증 중이며, 해군이 필요로 하는 능력이 무엇인지 지속적으로 개선하고 있다)</p><h3>Technical Insights</h3><p>• **자율 수중 차량의 잠수함 통합**: TTL&R(어뢰관 발사/회수) 기능은 기존 잠수함 인프라 활용으로 운영 편의성 증대 및 추가 비용 최소화<br>• **모듈식 페이로드 아키텍처**: 측면, 선수, 선미의 교체 가능한 페이로드 구조로 다양한 소나, 해저 지도 작성, 기뢰 탐지 시스템 등 임무별 재구성 가능<br>• **전술적 의의**: AUV의 16~24시간 독립 운영 능력으로 잠수함의 감시정찰(ISR) 반경 확대 및 고위험 작업 무인화로 인원 안전성 강화<br>• **해군 대잠전 진화**: 정보 수집, 해저 지형 인식, 광산 전장 분석 능력 강화로 차세대 잠수함 전술 개념의 기초 구성</p></div>`,
+      tags: ["Autonomous Underwater Vehicle","Submarine Technology","U.S. Navy","Defense Innovation"],
+      link: "https://www.navalnews.com/event-news/sea-air-space-2026/2026/05/l3harris-delivering-clandestine-submarine-launched-auvs-to-the-u-s-navy/",
+      coords: [-76.8021,38.7621],
+      location: "National Harbor, Maryland, USA"
+    },
+    {
+      type: "news",
+      title: "MISC Reports 2.7% Revenue Increase in First Quarter 2026",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-27",
+      image: "https://images.marinelink.com/images/maritime/w800/source-170914.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• MISC 그룹이 2026년 1분기 매출 RM2,891.4백만(7억2,900만 달러)로 전년 동기 대비 2.7% 증가 달성</p><p>• 석유/제품선박 부문의 운임 상승과 운항일수 증가, 해양·중공학 부문의 건설 프로젝트 진행으로 매출 견인</p><p>• LNG 선박 5척에 대한 페트로나스와의 장기용선계약 체결 및 QatarEnergy LNG 운송선 인도 성공</p><p>• 가스자산·솔루션 부문은 건설 수익 감소와 선박 처분·정기중단으로 매출 감소</p><p>• 지정학적 긴장으로 3월 LNG 운임 상승세를 보였으며, 장기 LNG 수요 견고함으로 향후 운임 유지 전망</p><h3>Key Quotes</h3><p>• "The increase was mainly due to higher revenue from the company's Petroleum and Product Shipping segment, primarily driven by higher freight rates and earning days" (석유/제품선박 부문에서 높은 운임과 운항일수 증가가 주요 수익 증대 요인)</p><p>• "LNGC rates are expected to remain elevated relative to the pre-Middle East conflict period, underpinned by robust long-term LNG demand" (중동 분쟁 이전 대비 LNG 운임이 견고한 장기 수요에 힘입어 높은 수준 유지 예상)</p><h3>Technical Insights</h3><p>• **LNG 선대 현대화 전략**: MISC가 효율적인 신형 LNG 선박 인도와 장기용선 확보를 통해 구형 스팀식 LNG 선의 비효율성 문제를 해결하는 선대 재구성 진행 중</p><p>• **에너지 전환 대응**: 이중연료 에탄올 추진 동적포지셔닝 유조선과 액화이산화탄소 운송선 등 저탄소 신기술 선박에 투자하여 IMO 탈탄소화 규제 선제 대응</p><p>• **지정학적 운임 변동성**: 호르무즈 해협 운송 차질로 인한 조 마일 수요 증가 및 유류 무역 흐름 변화가 유조선 운임 상승을 견인하는 시장 메커니즘 작동 중</p><p>• **자산 최적화 운영**: 미용선 선박의 비용 최소화를 위한 장기정기중단 및 자산 현금화를 통한 자본 재배치 전략으로 경기 변동성 대응</p></div>`,
+      tags: ["MISC Group","Financial Results","LNG Shipping","Tanker Market","Fleet Management"],
+      link: "https://www.marinelink.com/news/misc-reports-first-quarter-increase-539628",
+      coords: [101.6964,3.139],
+      location: "Malaysia (MISC headquarters)"
+    },
+    {
+      type: "news",
+      title: "MacGregor Reports Strong Q1 2026 Performance Despite Order Decline",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-27",
+      image: "https://images.marinelink.com/images/maritime/w800/source-macgregor-170913.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• MacGregor는 2026년 첫 독립 회사 연도로서 Q1에 긍정적인 모멘텀을 유지하며 견고한 시작을 기록했음<br>• 수주액은 EUR 252.3백만(약 $294백만)으로 전년동기대비 7% 감소했으나, 이는 PCTC(순수 자동차/트럭 운반선) 특수 수주의 비정상적 피크에 의한 것<br>• 매출액은 6% 증가한 EUR 230.7백만을 기록했으며, 특히 Merchant 부문의 완료 프로젝트 물량 증가가 주도<br>• 조정 EBIT는 30% 증가한 EUR 32.1백만으로 13.9%의 마진율 달성 - 비용 관리와 규율 있는 프로젝트 실행의 성과<br>• 컨테이너선, 크루즈선, 일반화물선 솔루션에 대한 수요 지속으로 견고한 수주 백로그 유지<br>• Full Ahead 전략 이행의 지속적 진전과 긍정적인 연간 전망</p><h3>Key Quotes</h3><p>• "The first quarter of 2026 marks a solid start to our first full year as a standalone company." (2026년 첫 독립 회사 연도의 견고한 출발을 의미)<br>• "Excluding this one-off peak, order intake remained at a solid level, supported by continued strong demand for solutions for container, cruise, and general cargo vessels." (PCTC 특수 수주를 제외하면 실질적 수주는 견조한 수준을 유지 중)<br>• "Adjusted EBIT increased by 30% to EUR 32.1 million, corresponding to a margin of 13.9%." (비용 최적화와 프로젝트 실행 개선을 통한 수익성 대폭 향상)</p><h3>Technical Insights</h3><p>• MacGregor의 Merchant 부문이 컨테이너선, 크루즈선, 일반화물선 등 다양한 선종에 대한 장비/솔루션 수요 증가를 경험 중으로, 글로벌 해운 회복의 신호<br>• Full Ahead 전략의 성공적 이행으로 비용 관리와 프로젝트 실행의 효율성이 개선되었으며, 이는 업계 경기 사이클에서의 경쟁력 강화 의미<br>• PCTC 시장의 변동성(전년 비정상적 수주 피크)은 특정 선종에 대한 신조 수요의 불규칙성을 시사하며, 장비 공급사의 포트폴리오 다각화 중요성 증대</p></div>`,
+      tags: ["MacGregor","Financial Results","Maritime Equipment","Merchant Shipping"],
+      link: "https://www.marinelink.com/news/macgregor-sees-strong-year-despite-order-539627",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
