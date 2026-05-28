@@ -7598,3 +7598,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-27
+addEvents({
+  "2026-05-27": [
+    {
+      type: "news",
+      title: "Davie and Kraken Partner on Autonomous Vessel Production in Canada",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-27",
+      image: "https://images.marinelink.com/images/maritime/w800/source-davie-170948.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **전략적 파트너십**: 캐나다 Davie Shipbuilding과 영국 Kraken Technology Group이 무인 해상 시스템의 캐나다 국내 생산 및 통합을 위한 전략적 협력 체계 수립 발표</p><p>• **핵심 협력 내용**: Davie는 선박 건조 인프라와 생산 능력을 제공하며, Kraken의 무인 해수면 함정(USV) 및 자율 해양 시스템의 생산·통합·개발 담당</p><p>• **전략적 배경**: 서방 정부들이 자율 및 AI 기반 해양 능력을 국방력 강화 및 해군 현대화 전략의 중요 요소로 우선순위 부여</p><p>• **산업적 의의**: 혁신 기술과 캐나다 산업 역량 결합으로 캐나다를 자율 해양 분야의 선도국으로 위치시키고 퀘벡의 조선업 중심지 역할 강화</p><p>• **주요 기관**: Davie Shipbuilding(캐나다 선박 건조 전문), Kraken Technology Group(자율 해양 시스템 개발), 캐나다 정부의 'Build, Partner, Buy' 정책 부합</p><p>• **향후 영향**: 모듈식·확장형 자율 함정 플랫폼의 생산 및 배치 가속화로 방위, 보안, 상용 분야에서의 고객 공급 확대 예상</p><h3>Key Quotes</h3><p>• "The future of maritime security will see crewed and autonomous vessels operating seamlessly across vast distances in the world's most contested environments." <br>(해양 보안의 미래는 유인함과 무인함이 세계의 분쟁 지역에서 광활한 거리에 걸쳐 원활하게 운영되는 형태가 될 것)</p><p>• "By combining innovative technologies with Canadian industrial expertise, this collaboration exemplifies Canada's 'Build, Partner, Buy' policy."<br>(혁신 기술과 캐나다 산업 전문성을 결합함으로써, 이 협력은 캐나다의 '건조·파트너십·구매' 정책을 구현하는 모범 사례)</p><p>• "Combining innovation with industrial capacity is paramount to the future of our security at sea and we look forward to delivering this with Davie."<br>(혁신과 산업 능력의 결합은 해상 안보의 미래에 필수적이며, Davie와 함께 이를 실현하길 기대)</p><h3>Technical Insights</h3><p>• **자율 해양 시스템 발전**: 무인 해수면 함정(USV)과 자율 해양 시스템의 모듈식·확장형 플랫폼 개발로 다양한 작전 환경에서의 유연한 운영 능력 강화 가능</p><p>• **해사 안전 및 규제**: COLREG(해상 충돌 회피규칙) 및 IMO 자율선박 규제 프레임워크 준수 하에서 무인 함정의 안전성과 국제 상호운용성 확보 필요</p><p>• **국방 산업 자주성**: 서방 국가들의 주권 산업 능력 강화 정책에 따라 자율 해양 시스템의 국내 생산 기지 구축으로 공급망 독립성 확보 및 기술 자주성 향상</p><p>• **산업 생태계 구축**: 선진 조선 기업(Davie)과 첨단 자율 기술 기업(Kraken)의 협력으로 설계·개발·생산 일괄 체계 구축, 해양 방위 분야의 종합적 경쟁력 확보</p></div>`,
+      tags: ["autonomous vessels","uncrewed systems","Davie Shipbuilding","Kraken Technology","Canadian shipbuilding","naval modernization"],
+      link: "https://www.marinelink.com/news/davie-kraken-team-autonomous-vessels-539676",
+      coords: [-71.208,46.8139],
+      location: "Québec, Canada"
+    },
+    {
+      type: "news",
+      title: "RWE Begins Pre-Installation Survey at Vanguard West Offshore Wind Farm",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-05-27",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/05/Norfolk-Vanguard-West-image-RWE-cropped.jpg?image-crop-positioner-ts=1779878052",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• RWE가 영국 Norfolk 해상의 Vanguard West 해상풍력발전소(1.4 GW)에서 설치 전 조사 캠페인을 시작할 예정<br>• 조사선박 Breaker호가 6월 15일경 Den Helder 항구에서 출항하여 약 1개월간 24시간 운영될 예정<br>• RWE는 2026년 7월 최종투자결정(FID)을 계획하고 있으며, Vanguard West와 Vanguard East 두 프로젝트는 각각 2029년과 2030년 준공 목표<br>• Vestas V236-15.0 MW 풍력터빈 공급 계약 및 Lamprell의 전이구조물(Transition Pieces) 제조 진행 중<br>• 미국 투자자 KKR과의 파트너십 체결로 프로젝트 재정 안정성 강화</p><h3>Key Quotes</h3><p>• "The survey vessel Breaker is expected to mobilize on or around June 15 to carry out a pre-installation survey within the project's array area." (조사선박 Breaker호가 6월 15일경 프로젝트 배열 지역 내 설치 전 조사를 위해 운영될 예정)</p><p>• "The campaign is scheduled to last approximately one month, with the vessel operating around the clock from the Port of Den Helder." (캠페인은 약 1개월간 지속되며, 선박은 Den Helder 항구에서 24시간 운영될 계획)</p><h3>Technical Insights</h3><p>• 해상풍력 프로젝트의 대규모화로 설치 전 해양 환경 조사의 중요성 증대 - 해저 지형, 해류, 해양 생물 등 종합 데이터 수집 필수<br>• 15 MW급 초대형 풍력터빈 도입으로 기초 구조물(전이구조물) 설계 및 설치 난도 상승, 정밀한 사전조사 데이터 필요<br>• Notice to Mariners 공시를 통한 항해 안전 정보 제공으로 해상교통 관리 체계 강화 - 해상 충돌 위험 최소화</p></div>`,
+      tags: ["Offshore Wind","Pre-Installation Survey","RWE","Vanguard West","UK"],
+      link: "https://www.offshore-energy.biz/rwe-to-carry-out-pre-installation-survey-at-vanguard-west-owf-site/",
+      coords: [1.5,52.5],
+      location: "Norfolk, UK"
+    },
+    {
+      type: "news",
+      title: "Strait of Hormuz Closure: LNG Markets Tighten, Oil Prices Could Soar to $200/bbl",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-05-27",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2025/04/woodmac_upstream_offshore_043.jpg?image-crop-positioner-ts=1744112203",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **호르무즈 해협 폐쇄로 인한 글로벌 에너지 공급 위기**: 전 세계 LNG 공급량의 약 20%에 해당하는 연 8천만 톤 이상의 LNG가 차단되어 수십 년 만의 최대 에너지 공급 충격 초래 가능</p><p>• **유가 급등 시나리오**: 최악의 경우 배럴당 $200까지 유가 상승 가능하며, 걸프만 원유 및 응축유 공급량 1,100만 배럴/일 이상이 차단됨</p><p>• **Wood Mackenzie의 세 가지 시나리오 분석**: '빠른 평화(Quick Peace)', '여름 합의(Summer Settlement)', '장기 중단(Extended Disruption)'으로 분류하여 폐쇄 지속 기간별 영향 평가</p><p>• **글로벌 경제 영향**: 시나리오에 따라 글로벌 GDP 성장률이 2025년 3%에서 2026년 2.3% 이하로 하락하며, 최악의 경우 심각한 경제 침체 초래</p><p>• **LNG 및 석유 공급 부족**: 장기 폐쇄 시 2026년 말까지 지속적인 에너지 부족으로 글로벌 경제에 영구적인 손상 발생</p><h3>Key Quotes</h3><p>• "The Strait of Hormuz is the most critical chokepoint in global energy markets, and a prolonged closure would become far more than an energy crisis." <br>(호르무즈 해협은 글로벌 에너지 시장에서 가장 중요한 병목이며, 장기 폐쇄는 단순한 에너지 위기를 넘어 광범위한 영향을 미칠 것)</p><p>• "The longer disruption persists, the greater the impact on energy prices, industrial activity, trade flows and global economic growth."<br>(중단이 장기화될수록 에너지 가격, 산업 활동, 무역 흐름 및 글로벌 경제 성장에 미치는 영향이 커짐)</p><h3>Technical Insights</h3><p>• **해양 운송 및 에너지 물류의 중요성**: 호르무즈 해협은 글로벌 석유·LNG 무역량의 약 20%를 처리하는 최대 규모 에너지 수송 통로로, 이 지역의 통행 안전이 전 지구적 에너지 공급망에 직결</p><p>• **자율선박 및 스마트 해운의 해결책 가능성**: 향후 자율선박 기술과 AI 항해 시스템의 고도화는 이러한 지정학적 위험 지역에서의 운항 안정성 및 신뢰성 강화에 기여할 수 있음</p><p>• **국제 해양 규칙 및 COLREG의 한계**: 분쟁 상황에서의 통행 자유 보장 문제로 기존 COLREG 및 국제 해양법의 효과성에 한계 노출, IMO 차원의 위기 관리 메커니즘 강화 필요</p><p>• **공급망 다양화 및 해운 경로 분산 전략**: LNG 및 석유 운송의 대체 해운 경로(예: 수에즈 운하, 홍해 우회) 활용 및 다중 터미널 구축을 통한 공급망 회복력 강화 시급</p></div>`,
+      tags: ["Energy Crisis","Strait of Hormuz","LNG Supply","Oil Market","Geopolitical Risk"],
+      link: "https://www.offshore-energy.biz/strait-of-hormuz-closure-tight-lng-markets-oil-prices-could-soar-to-200/",
+      coords: [56.14,26.57],
+      location: "Strait of Hormuz, Persian Gulf"
+    }
+  ]
+});
