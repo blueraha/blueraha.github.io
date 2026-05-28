@@ -7642,3 +7642,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-19
+addEvents({
+  "2026-05-19": [
+    {
+      type: "event",
+      title: "HII Showcased ROMULUS 151 at Combined Naval Event 2026",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-05-28",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/05/HII-Romulus-151-USV-CNE-2026-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• HII(헌팅턴 잉글스 인더스트리즈)가 2026년 5월 19-21일 영국 판보로에서 개최된 해군 합동 이벤트(CNE 2026)에서 자율 무인 해양 시스템 기술을 선보임<br>• ROMULUS 151을 포함한 AI 기반 무인표면선(USV) 및 REMUS 무인수중선(UUV) 계열, Odyssey 자율제어 소프트웨어 스위트 전시<br>• REMUS 시리즈는 25주년을 맞이하며 30개국 750대 이상 운영 중, NATO 회원국 14개국에 공급된 세계 최고의 자율 수중 플랫폼<br>• Odyssey ACS 소프트웨어는 미 해군, 해병대, 해안경비대 및 NATO 동맹국 프로그램에서 성공적 성능 입증<br>• 유인-무인 협력 작전(manned-unmanned teaming) 및 무인 집단 제어 기술로 현대 함대의 작전 능력과 생존성 향상</p><h3>Key Quotes</h3><p>• "HII is proud to be a partner to the U.S. Navy, Royal Navy, NATO allies, and international partners in supporting the growing need for autonomous capabilities and mission enabling technologies in naval operations across both the undersea and surface domains" (HII는 미 해군, 영국 해군, NATO 동맹국 및 국제 파트너들과 협력하여 수중 및 표면 영역의 자율 능력과 작전 지원 기술의 증가하는 수요를 충족시키는 데 자부심을 가지고 있음)</p><p>• "Our autonomous maritime systems are operating today in some of the world's most demanding environments, and we continue to advance capabilities that extend mission reach, improve fleet survivability, and strengthen allied interoperability across the maritime domain" (HII의 자율 해양 시스템은 현재 세계에서 가장 까다로운 환경에서 운영 중이며, 작전 범위 확대, 함대 생존성 향상, 해양 영역 동맹 상호운용성 강화 기술을 지속적으로 발전시키고 있음)</p><h3>Technical Insights</h3><p>• **자율 해양 시스템의 성숙도**: REMUS UUV 시리즈가 25년간 운영되며 90% 이상의 높은 가동률을 유지하는 것은 자율 수중 플랫폼 기술이 상용화 수준에 도달했음을 시사하며, 방위, 상업, 과학 분야에서 광범위하게 활용 중</p><p>• **무인 집단 제어의 군사적 의의**: Odyssey ACS 소프트웨어의 직관적 인터페이스와 무인 집단(swarm) 제어 기능은 COLREG 준수와 자율 의사결정 시 현대 해전에서 critical한 요소로, IMO의 MASS 규제와도 연계된 핵심 기술</p><p>• **유인-무인 협력 작전(MUM-T)의 확대**: 표면 및 수중 영역에서의 유인-무인 협력 능력은 해군 운영 개념 변화를 반영하며, NATO 동맹국 간 상호운용성 강화로 다국가 해양 작전 시대 진입을 의미</p><p>• **방위산업의 자율화 경쟁**: 미국, 영국, NATO 회원국들의 적극적 자율 해양 시스템 도입으로 함정 감시, 대잠 작전, 지뢰 제거 등 고위험 임무의 무인화 추세가 가속화되는 중</p></div>`,
+      tags: ["autonomous vessels","USV","unmanned systems","naval technology","ROMULUS","trade show"],
+      link: "https://www.navalnews.com/event-news/cne-2026/2026/05/hii-showcased-romulus-151-at-combined-naval-event-2026/",
+      coords: [-51.7492,51.7373],
+      location: "Farnborough, United Kingdom"
+    }
+  ]
+});
+
+// Auto-collected: 2026-05-28
+addEvents({
+  "2026-05-28": [
+    {
+      type: "news",
+      title: "Boskalis' BOKA Northern Ocean returns to North Sea operations after Spanish dry dock upgrades",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-05-28",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/05/Boskalis-vessel-back-to-work-in-North-Sea-following-dry-dock-in-Spain.jpg?image-crop-positioner-ts=1779693837",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Boskalis의 2012년 건조 지원선 BOKA Northern Ocean이 스페인 산탄데르 드라이독에서 개조 작업을 완료하고 북해 프로젝트로 복귀<br>• 100톤 니클붐 크레인 개수, 헬리콥터 데크 아래 방롤 탱크 설치로 선박의 동적 항해 성능 및 안전성·정확도 향상<br>• 선박은 Shell과의 수백만 파운드 규모 해제(Decommissioning) 프로젝트에 100일 이상 투입될 예정<br>• Boskalis의 스코틀랜드 애버딘 원격운영센터(ROC)에서 원격조종무인잠수정(ROV) 첫 배치 운용 수행<br>• 해양 에너지 산업의 노후 시설 제거 작업에 첨단 기술 적용으로 운영 효율성 강화</p><h3>Key Quotes</h3><p>• "the vessel departed Santander for a project in the North Sea" (선박이 북해 프로젝트를 위해 산탄데르에서 출항했다)<br>• "making it even safer and more precise" (선박을 더욱 안전하고 정확하게 만든다)<br>• "the first deployment of remotely operated vehicles (ROVs) from Boskalis' Remote Operations Center (ROC) in Aberdeen" (애버딘의 Boskalis 원격운영센터에서 ROV의 첫 번째 배치 운용)</p><h3>Technical Insights</h3><p>• **니클붐 크레인 개수 및 재배치**: 해양 건설 지원선의 주요 작업 장비인 크레인의 성능 향상은 수심 깊은 해역에서의 정밀 작업 능력 강화를 의미하며, 고가 장비의 신뢰성 제고<br>• **방롤 탱크 설치**: 동적 위치 유지(DP) 시스템과 함께 선박의 횡동요(Roll) 감소로 악천후 조건에서의 작업 안전성 및 ROV 운영 정확도 대폭 개선<br>• **원격 운영 센터(ROC) 활용**: 육상 기반 원격 조종으로 다이버 투입을 최소화하고 운영 비용 절감, 안전성 극대화 - 해양 작업의 자동화 및 원격 운영 추세 반영<br>• **해제(Decommissioning) 시장 확대**: 북해 유전의 폐기 단계 진입으로 특화된 지원선 수요 증가, 미래 해양 산업의 주요 수익원 분야로 부상</p></div>`,
+      tags: ["Construction Support Vessel","Boskalis","North Sea","Vessel Upgrades"],
+      link: "https://www.offshore-energy.biz/boskalis-vessel-back-to-work-in-north-sea-following-dry-dock-in-spain/",
+      coords: [0,0],
+      location: "North Sea"
+    }
+  ]
+});
