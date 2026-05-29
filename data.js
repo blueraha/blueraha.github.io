@@ -7680,3 +7680,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2025-03-11
+addEvents({
+  "2025-03-11": [
+    {
+      type: "accident",
+      title: "UK Court Upholds Liability Shield in Solong-Stena Immaculate Collision Despite Fatality and Fire",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-05-28",
+      image: "https://gcaptain.com/wp-content/uploads/2018/09/gCaptain_Logo.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 2025년 3월 영국 험버 해역에서 포르투갈 컨테이너선 Solong이 정박 중인 Stena Immaculate 유조선과 충돌하여 1명 사망, 대규모 화재 발생<br>• **피해 규모**: 필리핀 선원 Mark Angelo Pernia 사망, 22만 배럴 이상의 제트유 적재 유조선 피해, 다중일 화재 발생<br>• **법적 판결**: 런던 해사법원 판사 Andrew Baker가 선주의 배상책임 제한권(LLMC 1976 협약) 인정, Article 4 면제 주장 기각<br>• **선장 처벌**: Solong의 Vladimir Motin 선장은 과실 살인죄로 6년 징역형 확정 (30분 이상 레이더에 탐지되었음에도 회피 조치 미실시)<br>• **법적 의의**: 해사 배상책임 제한 제도의 "거의 깨질 수 없는" 특성 재확인, Article 4 "고의적 불법행위" 입증 기준 강화</p><h3>Key Quotes</h3><p>• **"The asserted Article 4 defence depended on the 'inherently fanciful notion' that senior management knowingly 'chose to roll the dice' with a dangerously operated vessel."** (해사법원 판사는 경영진이 위험한 운항을 알면서도 의도적으로 허용했다는 주장을 "본질적으로 황당한 개념"이라고 판단)</p><p>• **"The defence was characterized as 'speculative imagination' unsupported by evidence."** (Solong 선주의 항변을 증거 없는 "투기적 상상력"으로 평가하며 기각)</p><p>• **"Solong slammed into the anchored tanker Stena Immaculate at approximately 16 knots while carrying more than 220,000 barrels of jet fuel."** (약 16노트 속도로 충돌, 심각한 피해와 연료 유출 위험 초래)</p><h3>Technical Insights</h3><p>• **LLMC 배상책임 제한의 견고성**: Article 4 "고의적/무모한 행위" 예외 조항도 경영진의 직접적 고의·인식 입증이 극히 어렵다는 점이 재확인되어, 선주들의 배상책임 제한권이 실무적으로 "거의 깨지지 않는" 수준임을 의미</p><p>• **해상 운항 안전 규제의 한계**: 선장의 개인적 과실(30분 이상 레이더 탐지 후 회피 조치 미실시)에 대한 형사 처벌은 가능하지만, 이것이 회사의 배상책임 제한을 깨지 못한다는 점은 기업 차원의 체계적 안전 관리 의무 강화 필요성을 제기</p><p>• **IMO 규정과 현실의 괴리**: COLREG 준수 및 충돌 회피 의무를 선장이 위반했으나, 이는 개별 인적 과실로만 취급되고 운영 회사의 구조적 책임 입증은 사실상 불가능한 제도적 한계 노출</p></div>`,
+      tags: ["collision","containership","tanker","liability limitation","LLMC","maritime law"],
+      link: "https://gcaptain.com/uk-court-upholds-virtually-unbreakable-liability-shield-in-solong-stena-immaculate-collision/",
+      coords: [-0.1,53.6],
+      location: "Humber Coast, England"
+    }
+  ]
+});
+
+// Auto-collected: 2024-06-21
+addEvents({
+  "2024-06-21": [
+    {
+      type: "accident",
+      title: "Aratere Ferry Grounding Due to Unfamiliarity with New Steering Control System",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-28",
+      image: "https://images.marinelink.com/images/maritime/w800/source-170988.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **선박 및 사건**: 뉴질랜드 KiwiRail 인터아일랜더 페리 Aratere가 2024년 6월 21일 피톤(Picton)의 티토키 만에서 좌초<br>• **근본 원인**: 신규 설치된 조타 제어 시스템에 대한 승무원 미숙 - 자동조종장치가 이미 통과한 웨이포인트 이후의 다음 웨이포인트로 락온되어 예정된 3도 선회가 아닌 34도 우회전 실행<br>• **운영상 문제**: 변경관리 프로세스 부실로 구 시스템과의 운영상 차이점 미파악, 시운전 및 교육 미흡<br>• **안전 관리 결함**: 안전감시 및 검증 절차 미실행, 도전-확인(Challenge and Verification) 등 위험통제 수단이 효과적으로 작동하지 않음<br>• **결과**: 선박 복원력(watertight integrity) 유지, 벌지 손상 및 내부 구조 수리 필요, 인명피해 없음, 2일 후 튜그 보조로 재부양<br>• **교훈**: 안전 중대 시스템 개조 시 위험분석, 변경관리, 체계적 교육 및 절차의 일관된 적용 필수</p><h3>Key Quotes</h3><p>• "They were unable to regain steering control because they were unfamiliar with procedures for the ship's newly installed steering control system that differed from the old system." (새로 설치된 조타 제어 시스템의 절차에 미숙하여 조타 제어 복구 불가능)</p><p>• "If you modify a safety-critical system, analyze the risks, follow change management processes, and do the training to address operational differences from previous systems." (안전 중대 시스템 변경 시 위험분석, 변경관리 절차 준수, 이전 시스템과의 운영상 차이에 대한 교육 필수)</p><p>• "Hazard controls intended to prevent exactly this type of occurrence – such as challenge and verification, role definition, and good communication – were operating but not effectively enough at the time of the grounding." (도전-확인, 역할 정의, 소통 등의 위험통제가 작동했으나 효과적이지 못함)</p><h3>Technical Insights</h3><p>• **자동조종장치와 웨이포인트 관리의 위험성**: 선박이 이미 통과한 웨이포인트 이후에 자동조항시스템이 다음 웨이포인트로 락온되는 로직상 결함 - 선박 항해 안전관리 시스템에서 웨이포인트 진행 상황의 실시간 모니터링 및 자동조항 명령 재확인 프로세스 강화 필요</p><p>• **변경관리(Change Management)의 중요성**: "like-for-like replacement"라는 가정 하에 신규 시스템 도입 시 운영상 차이점 미파악 - IMO SOLAS/ISM Code에서 요구하는 변경관리 절차의 철저한 이행과 위험평가(Risk Assessment) 필수 이행</p><p>• **Bridge Resource Management(BRM) 및 절차 적용의 일관성**: 안전 매뉴얼에 명시된 절차가 있으나 일관되게 적용되지 않음 - 선제적 안전감시(Safety Audit), 정기적 검증 절차, 승무원 역량 평가의 체계화 필요</p><p>• **신기술 도입 시 조직문화 개선 과제**: 단순 물리적 장비 교체로 취급하지 말고 운영체계 전반의 변경으로 인식 - 교육, 훈련, 시운전 평가를 통한 신뢰성 검증 및 승무원 심리적 준비도 확보 필수</p></div>`,
+      tags: ["grounding","autopilot","steering system","human error","ferry"],
+      link: "https://www.marinelink.com/news/lack-familiarity-new-control-system-led-539718",
+      coords: [174,-41.3],
+      location: "Titoki Bay, Picton, New Zealand"
+    }
+  ]
+});
+
+// Auto-collected: 2026-05-28
+addEvents({
+  "2026-05-28": [
+    {
+      type: "news",
+      title: "Zinus Secures First Australian Charging Tower Contract at Barangaroo Wharf",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-28",
+      image: "https://images.marinelink.com/images/maritime/w800/planned-electric-170987.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Zinus가 호주 내 첫 계약을 체결하여 시드니 바랑가루 부두에 DC 충전 타워 설치 예정<br>• UGL Transport과 Transport for NSW가 발주처로 참여한 프로젝트<br>• ZPP800 완전 자동 DC 충전 타워를 공급하여 도시 및 해양 운송의 전기화 인프라 구축<br>• 호주 시장 진출로 장기적 지속 가능한 전기화 인프라 사업 기반 마련<br>• 도시 항만 지역의 전기화 운송 솔루션 수요 증가에 대응하는 전략적 기반 확보</p><h3>Key Quotes</h3><br>• "The ZPP800 is designed to provide reliable, efficient, and future-ready charging infrastructure, supporting the growing demand for electrified transport solutions in urban and maritime environments." (도시 및 해양 환경에서 증가하는 전기화 운송 솔루션 수요를 지원하기 위해 안정적이고 효율적이며 미래 대비형 충전 인프라 제공)</p><h3>Technical Insights</h3><br>• 완전 자동화된 DC 충전 타워(ZPP800)를 통해 항만 지역의 전기화 인프라 고도화 추진<br>• 해양 및 도시 운송의 전기화 전환 추세에 대응하는 차세대 인프라 솔루션으로, IMO의 탄소중립 목표 달성에 기여<br>• 호주 시장 진출을 통해 아시아 태평양 지역의 지속 가능한 해상 운송 인프라 구축 선도</p></div>`,
+      tags: ["Electric Charging Infrastructure","ZPP800","Barangaroo Wharf","Sustainable Maritime"],
+      link: "https://www.marinelink.com/news/zinus-secures-charging-tower-contract-539717",
+      coords: [151.2093,-33.8688],
+      location: "Sydney, Australia"
+    }
+  ]
+});
