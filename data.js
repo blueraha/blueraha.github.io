@@ -7736,3 +7736,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-28
+addEvents({
+  "2026-05-28": [
+    {
+      type: "news",
+      title: "Davie and Kraken Partner on Canadian USV Production",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-05-28",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/05/Davie_Davie_and_Kraken_set_to_join_forces_on_the_production_of_a.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Davie Shipbuilding(캐나다, 퀘벡)과 Kraken Technology Group(영국)이 자율 무인수상선(USV) 생산 및 통합을 위한 전략적 협력 체결<br>• 캐나다 내 Kraken의 자율해양시스템 생산·통합·개발 역량 구축으로 북미 시장 확대 추진<br>• 서방 정부의 해양 자율화·AI 기술 우선순위 상향으로 주권 산업 기반 강화 및 해군 현대화 가속화<br>• Davie의 선박건조 인프라와 Kraken의 첨단 자율선박 기술 결합으로 '피crewed-무인 혼합 해양작전' 시대 대비<br>• 캐나다 'Build, Partner, Buy' 정책 준수로 퀘벡 조선산업의 중추적 역할 강화 및 서방 해양력 회복 전략 일환</p><h3>Key Quotes</h3><p>• "The future of maritime security will see crewed and autonomous vessels operating seamlessly across vast distances in the world's most contested environments." (해양 안보의 미래는 유인선과 자율선박이 전 지구적 분쟁 지역에서 유기적으로 운영되는 시대가 될 것)</p><p>• "In a new era of maritime competition, autonomous vessels will matter as much as crewed ships. Governments need trusted partners like Davie and Kraken to deliver the most advanced autonomous technologies at speed and scale." (해양 경쟁의 새 시대에서 자율선박은 유인선만큼 중요하며, 정부는 첨단 자율 기술을 신속하고 대규모로 공급할 수 있는 Davie·Kraken 같은 신뢰할 만한 파트너 필요)</p><p>• "Combining innovation with industrial capacity is paramount to the future of our security at sea and we look forward to delivering this with Davie." (혁신과 산업 역량 결합은 해양 안보의 미래에 필수적이며, Davie와의 협력으로 이를 실현)</p><h3>Technical Insights</h3><p>• **모듈식 확장형 USV 플랫폼**: Kraken의 모듈식·확장형 자율선박 기술이 Davie의 조선 인프라와 결합되면, 다양한 방위·상용 용도별 USV 맞춤형 생산 가능 — 산업 표준화 및 상호운용성 강화</p><p>• **COLREG 자동화 시스템**: 유인선·무인선이 혼재된 해상환경에서 자율 충돌회피, 해상교통법규 준수 체계가 IMO 및 국방부 기준 충족 필요 — 캐나다 및 NATO 해역 운용 기준 수립 시급</p><p>• **주권 해양 산업화 전략**: 서방 국가들의 자율선박 개발 경쟁 심화로 공급망 자립화(온쇼어링) 중요성 증대 — 캐나다가 북미·대서양 자율선박 생산 허브로 전략적 위상 강화</p><p>• **방위-상업 겸용 플랫폼**: 방위 용도의 무인정찰선과 상업용 자율 화물선을 동일 생산라인에서 처리하면 경제성 증대 — 국방 현대화와 해운 산업 경쟁력 동시 달성</p></div>`,
+      tags: ["Autonomous Vessels","USV","Canada","Strategic Partnership","Naval Modernisation"],
+      link: "https://www.navalnews.com/naval-news/2026/05/davie-and-kraken-set-to-join-forces-on-the-production-of-usv-in-canada/",
+      coords: [-71.208,46.8139],
+      location: "Quebec, Canada"
+    }
+  ]
+});
