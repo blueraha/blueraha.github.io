@@ -7756,3 +7756,53 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2022-02-16
+addEvents({
+  "2022-02-16": [
+    {
+      type: "accident",
+      title: "Porsche Wins Felicity Ace Lawsuit as Fire Cause Remains Unproven",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-05-29",
+      image: "https://gcaptain.com/wp-content/uploads/2022/02/incencio-navio-acores-7.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **펠리시티 에이스 화재 원인 규명 실패**: 2022년 2월 아조레스 제도 인근에서 발생한 자동차운반선 화재의 정확한 원인이 4년이 지난 현재까지도 공식적으로 밝혀지지 않음</p><p>• **포르셰 법적 승리**: 독일 슈투트가르트 지역법원이 포르셰 타이칸의 리튬이온 배터리가 화재를 유발했다는 주장을 인정하지 않으면서 약 3,400만 달러 손배배상 청구 기각</p><p>• **선주 및 보험사의 입증 실패**: 일본 선박 소유주와 5개 해양보험사가 원고로 참여했으나 법원은 포르셰 차량이 화재의 원인이라는 증거 불충분으로 판단</p><p>• **침몰 및 손실 규모**: 화재 발생 13일 후 2022년 3월 1일 침몰, 약 4,000대의 고급 자동차(포르셰 타이칸 100여 대 포함) 전소</p><p>• **계속되는 법적 분쟁**: 브라운슈바이크 지역법원에서 포르셰와 폭스바겐 그룹 물류회사를 상대로 수억 유로 규모의 추가 손배배상 청구 소송 진행 중</p><h3>Key Quotes</h3><p>• "The court found the plaintiffs failed to prove that a Porsche vehicle was the source of the blaze. The burden of proof rested with the plaintiffs, and the court was ultimately not convinced that a Taycan battery caused the fire." (법원은 원고들이 포르셰 차량이 화재의 원인이라는 것을 입증하지 못했다고 판단했으며, 입증 책임이 원고에게 있었고 법원은 타이칸 배터리가 화재를 야기했다는 것에 확신하지 않음)</p><p>• "However, despite years of speculation, the cause of the fire has never been publicly established. The Panama Maritime Authority submitted its investigation report to the International Maritime Organization in 2022, but the report has not been publicly released." (수년간의 추측에도 불구하고 화재의 원인은 공식적으로 규명되지 않았으며, 파나마 해양청은 2022년 국제해사기구에 조사보고서를 제출했으나 아직 공개되지 않음)</p><h3>Technical Insights</h3><p>• **EV 배터리 화재 위험성의 불확실성**: 펠리시티 에이스 사건은 해상 운송 중 리튬이온 배터리의 자연발화 가능성에 대한 의문을 제기했으나, 본 사건의 법적 판단은 과학적 증거 부족 상태를 드러냄</p><p>• **해사조사 투명성 문제**: IMO에 제출된 파나마 해양청 조사보고서가 비공개 상태로 유지되면서 업계의 투명한 위험평가와 규제 개선이 저해되는 상황</p><p>• **운송 안전 규제의 공백**: EV 및 플러그인 하이브리드 차량의 해상 운송에 대한 국제적 안전 기준 및 검사 절차의 미흡으로, 매트슨 등 주요 선사들이 자체적으로 운송 중단 결정</p><p>• **산업적 영향 및 보험 리스크**: 화재 원인 미규명 상태에서의 법적 분쟁 장기화는 자동차 운반선 산업의 보험료 인상 및 EV 운송 기피 현상을 초래할 가능성</p></div>`,
+      tags: ["Felicity Ace","Car Carrier Fire","Lithium-ion Battery","Legal Battle","Vehicle Transport Safety"],
+      link: "https://gcaptain.com/porsche-wins-felicity-ace-lawsuit-as-cause-of-fire-remains-unproven/",
+      coords: [-31.2,37.7],
+      location: "Azores Islands, Atlantic Ocean"
+    }
+  ]
+});
+
+// Auto-collected: 2026-05-29
+addEvents({
+  "2026-05-29": [
+    {
+      type: "news",
+      title: "Trump Negotiates Iran Ceasefire Deal with Strait of Hormuz Reopening Conditions",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-29",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockrobert-171006.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 트럼프 대통령은 이란과의 휴전 연장 제안에 대해 최종 결정을 내릴 예정이며, 호르무즈 해협의 무제한 개방을 주요 조건으로 제시<br>• 미국은 이란의 핵무기 폐기와 해협 통행료 철폐를 요구하고 있으나, 이란은 자국과 오만이 해협 관리권을 결정해야 한다고 주장<br>• 휴전 연장 협상은 4월 초 합의된 휴전을 추가 60일간 연장하여 영구 평화협상을 위한 시간 확보가 목표<br>• 호르무즈 해협 폐쇄로 인한 유가 상승이 미국 휘발유 가격 인상을 초래하였으며, 트럼프 행정부는 11월 중간선거 전 유가 안정화 필요<br>• 합의 시 이란의 동결 자산 120억 달러 해제, 해협 내 기뢰 제거, 갇힌 선박들의 항해 재개 예상<br>• 카자흐스탄이 이란의 고농축 우라늄 재고 보관을 수용할 의사 표시</p><h3>Key Quotes</h3><p>• "Iran must agree that they will never have a Nuclear Weapon or Bomb. The Hormuz Strait must be immediately open, no tolls, for unrestricted shipping traffic, in both directions." (이란은 핵무기를 절대 보유하지 않아야 하며, 호르무즈 해협은 즉시 개방되어 양방향 무제한 해운 통행이 가능해야 한다는 조건)</p><p>• "Say HELLO to your wives, husbands, parents, and families from me, your favorite President!" (해협의 기뢰 제거 및 갇힌 선박들의 귀환을 표현하며 제시한 트럼프의 발언)</p><h3>Technical Insights</h3><p>• **해운 및 해양 안보**: 호르무즈 해협은 전 세계 해상 석유 수송의 약 30% 이상이 통과하는 중요한 거점으로, 해협 폐쇄는 글로벌 에너지 가격 변동성과 해운 산업에 직접적인 영향을 미침</p><p>• **국제 해양법 준용**: 해협의 무제한 통행은 국제해법(UNCLOS)에 규정된 '통과통행권(Transit Passage)' 원칙과 부합하며, 해협 내 강제 통행료 부과는 국제법 위반 소지가 있음</p><p>• **선박 안전 및 해운 운영**: 기뢰 제거, 통항 제한 해제 시 선박들의 안전한 항해 복귀와 해운 보험료 인하, 선적 일정 정상화 등 해운산업의 경제성 개선 예상</p><p>• **지정학적 영향**: 호르무즈 해협 관리권을 둘러싼 미국-이란 간 협상은 중동 지역 해상 안보 체제와 국제 해운 자유도에 장기적인 규제 체계 변화를 초래할 수 있음</p></div>`,
+      tags: ["Iran","Strait of Hormuz","Geopolitics","Shipping"],
+      link: "https://www.marinelink.com/news/trump-final-decision-iran-ceasefire-539747",
+      coords: [56.5,26.5],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "Saronic Launches First Marauder Medium Unmanned Surface Vessel (MUSV)",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-05-29",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/05/Saronic-Marauder-MUSV-3.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Saronic이 첫 번째 Marauder 중형 무인표면선박(MUSUS) 시험 운항을 완료했으며, 초기 설계부터 시운전까지 1년 이내에 완료하여 미국 조선산업에서 2차 세계대전 이후 전례가 없는 속도 달성</p><p>• Marauder는 25노트 이상의 최고속력, 5,400해리의 항속거리, 150톤의 적재량을 갖춘 완전 자율 또는 원격 조종 운영 가능한 쌍용(민군) 플랫폼</p><p>• Saronic의 Franklin 조선소는 2026년 말까지 연간 20척의 Marauder 생산 능력 확보 예정으로, 프로토타입 단계를 벗어나 실제 함대 통합 가능성 제시</p><p>• 통합 설계-제조-자율운항 개발 조직으로 신속한 생산 가능하며, ISO 컨테이너 4개(40피트) 또는 8개(20피트) 탑재 가능한 모듈식 페이로드 구성</p><p>• 장거리 지속 임무, 해양도메인 인식(MDA), 정보·감시·정찰(ISR), 물류 등 다양한 민군 용도 적용 가능한 다목적 플랫폼</p><h3>Key Quotes</h3><p>• "Designing, building, and launching an entire new class of ships in under a year is a feat the American shipbuilding industry hasn't seen in generations" (미국 조선산업이 세대 이후 처음으로 1년 내에 신규 선급 설계, 건조, 진수를 달성한 것)</p><p>• "Marauder is built for the kinds of sustained, long-range missions that place the greatest demands on any maritime vessel and present the greatest risks to any crew" (Marauder는 지속적이고 장거리 임무로 인한 최대 요구사항과 승무원 위험을 해소하도록 설계됨)</p><h3>Technical Insights</h3><p>• 완전 자율운항(fully autonomous) 또는 원격인적감시(remote human supervision) 운영 모드로 IMO COLREG 준수 및 해양안전 규정 적용 필요성 증가</p><p>• 모듈식 페이로드(ISO 컨테이너 표준화) 구성으로 임무 재배치 없이 다목적 운영 가능하며, 상용 해운·국방 이중용도 플랫폼으로 산업 생태계 확대</p><p>• 연간 20척 생산 능력으로 무인선박이 프로토타입에서 실제 함대 규모 도입으로 전환되는 산업적 전환점 형성, 자동화·노동력 감소·운영비 절감 효과</p><p>• 통합 설계-제조 조직 모델로 개발 기간 단축 및 비용 효율성 향상, 미국 조선산업 부흥 및 글로벌 해운 산업 패러다임 변화 주도</p></div>`,
+      tags: ["autonomous ships","unmanned surface vessel","MUSV","American shipbuilding","dual-use capability"],
+      link: "https://www.navalnews.com/naval-news/2026/05/saronic-launches-first-marauder-medium-unmanned-surface-vessel/",
+      coords: [-91.8749,29.9511],
+      location: "Franklin, Louisiana"
+    }
+  ]
+});
