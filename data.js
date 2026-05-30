@@ -7806,3 +7806,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-29
+addEvents({
+  "2026-05-29": [
+    {
+      type: "news",
+      title: "Navy Selects Seven Companies for First MUSV Prototype Testing Program",
+      source: "USNI News",
+      sourceMeta: "usni.org · 2026-05-29",
+      image: "https://news.usni.org/wp-content/uploads/2026/05/Saronic-Marauder-MUSV-3-1536x882.jpg.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 해군이 중형 무인 수상함(MUSV) 프로토타입 개발을 위해 7개 기업을 선정하여 첫 번째 테스트 라운드 시작<br>• HII(Huntington Ingalls Industries), Saronic, Sea Machines, PacMar Technology, Birdon America, Leidos, Galliano Marine Services 등이 참여<br>• 선택된 기업들은 회계연도 말까지 해군의 기술 요구사항 충족 여부를 입증해야 하며, 성공한 기업은 1,500만 달러 수상 및 추가 양산 계약 기회 획득<br>• MUSV는 해상 상태 4(Sea State 4)에서 25노트로 2,500 해리 항해 및 25톤 페이로드 운반 능력 필수<br>• 각 기업은 선체, 기계 및 엔지니어링 시스템, 무인 자동화 소프트웨어를 통합한 완전 무인 운영 시스템 개발<br>• 차월부터 해상 시험(At-Sea Testing) 개시 예정</p><h3>Key Quotes</h3><p>• "Companies whose MUSV successfully completes the at-sea test will receive $15 million and will be eligible for follow-on production. At-sea testing will begin next month"<br>(해상 시험을 성공적으로 완료한 기업들은 1,500만 달러를 받게 되며, 후속 양산 계약 대상이 될 수 있습니다. 해상 시험은 다음 달부터 시작될 예정입니다)</p><p>• "The MUSV concepts have to pair the hull, mechanical and engineering systems, along with autonomy software that can operate the vessels without any crew aboard"<br>(MUSV 개념은 선체, 기계 및 엔지니어링 시스템과 함께 승무원 없이 선박을 운영할 수 있는 자동화 소프트웨어를 통합해야 합니다)</p><h3>Technical Insights</h3><p>• **자동화 소프트웨어 통합의 중요성**: 선박의 완전 무인 운영을 위해서는 안정적인 자동항해 시스템이 필수적이며, HII의 Odyssey 자동화 시스템, Mythos AI, HavocAI 등 다양한 자동화 솔루션 업체들의 참여가 산업 성숙도를 반영</p><p>• **해양 운영 기준 충족**: 2,500 해리 항해거리, 25노트 속도, 해상 상태 4 조건에서의 안정성, 25톤 페이로드 운반 능력 등의 엄격한 해군 요구사항은 COLREG 준수 및 IMO 자동화 선박 규정과 연계되어 산업 표준화에 기여</p><p>• **방위산업 생태계 조성**: 선박 건조업체(Breaux Brothers, St. Johns Ship Building), 자동화 소프트웨어 업체, 드론 제조사(Anduril) 등이 참여하는 협력 체계는 해양 자동화 기술의 상업화를 가속화</p><p>• **양산 계약 유도 메커니즘**: 프로토타입 성공 시 $15M 지급 및 추가 양산 계약 자격 부여 방식은 기술 개발과 산업 수익성 간의 균형을 맞추어 중장기적 MUSV 도입 확대 기대</p></div>`,
+      tags: ["MUSV","Autonomous Ships","Navy Procurement","Unmanned Surface Vessels","Defense Technology"],
+      link: "https://news.usni.org/2026/05/29/hii-saronic-included-in-first-musv-navy-prototype-tests",
+      coords: [-76.2859,37.0042],
+      location: "Newport News, Virginia"
+    }
+  ]
+});
