@@ -7826,3 +7826,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-30
+addEvents({
+  "2026-05-30": [
+    {
+      type: "news",
+      title: "Saronic Marauder MUSV: Shipbuilding Claims vs. Reality in US Naval Drone Development",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-05-30",
+      image: "https://gcaptain.com/wp-content/uploads/2026/05/Saronic-Marauder-MUSV-3.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Saronic의 Marauder 중형 무인수상선(MUSV)은 150피트 알루미늄 선박으로 설계부터 진수까지 1년 이내에 완성되었으며, 미국 해군의 실질적 수요를 충족하는 성과를 달성했음</p><p>• gCaptain의 Captain John Konrad는 Saronic과 업계가 이를 "WWII 이후 미국 조선 산업이 경험하지 못한 속도"라고 주장하는 것을 비판하며, 이는 실제로는 일반적인 소형 작업선(workboat) 건조 수준이라고 지적</p><p>• 미국 조선소들은 매년 수백 척의 250피트 이하 작업선(튜그, 타운보트, 페리, 순찰정, 승무원선, 준설선, 바지선 등)을 건조하고 있으며, 최근 1년간 925척이 인도·건조·주문 상태에 있음</p><p>• Saronic 및 다른 무인선박 제조업체들이 새로운 조선 자금과 미디어 관심을 활용하기 위해 의도적으로 "선박(ship)"과 "자율항해선(autonomous ships)"이라는 용어를 오용하고 있다는 우려</p><p>• 정확한 분류로는 Marauder는 "반자율 승무원선(semi-autonomous crewboat)"이며, 실제 조선소 규모의 선박이 아니라는 점이 중요함</p><h3>Key Quotes</h3><p>• "Saronic's Marauder, a Medium Unmanned Surface Vessel (MUSV) designed for the US Navy, is a real accomplishment. The company built something the Department of War genuinely needs, I'm a fan, and I want Congress to fund it aggressively." <br>(사로닉의 Marauder는 미 해군을 위해 설계된 중형 무인수상선으로 실질적 성과이며, 국방부가 실제로 필요로 하는 것을 만들었으므로 의회의 적극적 지원을 원함)</p><p>• "Designing, building, and launching a 150-foot aluminum workboat in under a year is not a historic feat. American yards do exactly this — tugs, towboats, ferries, patrol boats, crewboats, dredges, barges, aluminum hulls — every single year, by the hundreds, many on agressive timelines."<br>(150피트 알루미늄 작업선을 1년 이내에 설계·건조·진수하는 것은 역사적 업적이 아니며, 미국 조선소들이 매년 수백 척을 이런 공격적 일정으로 건조함)</p><p>• "The use of the word 'ship' is dishonest, and clearly intended to tap into billions of dollars of newly announced shipbuilding money and a media that has finally woken up to the death of our shipyards."<br>("선박"이라는 용어 사용은 부정직하며, 새로운 조선 자금과 조선소 사망에 깨어난 미디어 관심을 활용하려는 의도가 명백함)</p><h3>Technical Insights</h3><p>• **용어 정의의 중요성**: 무인선박 산업에서 "선박(ship)" vs "작업선(workboat)"의 정확한 분류가 정책 자금 배분, 규제 적용, 산업 신뢰도에 직결되며, 특히 국방 조달에서 의도적 오분류는 예산 낭비와 산업 왜곡을 초래할 수 있음</p><p>• **소형 무인수상선(MUSV) 시장의 혼동**: 무인선박 제조업체들이 진정한 "자율항해 선박"과 "반자율 작업 선박"을 구분하지 않음으로써, 미 해군의 MUSV 프로그램의 실제 기술 수준과 능력에 대한 오해를 야기</p><p>• **미국 조선 산업의 실상**: WorkBoat의 조사에 따르면 연간 925척의 소형 선박이 인도·건조 중이며, 이는 미국 조선 산업이 "죽었다"는 통념과 달리 소형 작업선 분야에서 매우 활발함을 시사</p><p>• **미디어와 자금 왜곡의 위험**: 새로운 조선 자금 환경에서 용어 오용이 자금 배분</p></div>`,
+      tags: ["Autonomous Vessels","MUSV","US Navy","Shipbuilding Industry","Naval Drones"],
+      link: "https://gcaptain.com/saronic-marauder-ship-or-boat/",
+      coords: [-91.5,29.8],
+      location: "Franklin, Louisiana"
+    }
+  ]
+});
