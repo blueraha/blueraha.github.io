@@ -7846,3 +7846,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-31
+addEvents({
+  "2026-05-31": [
+    {
+      type: "news",
+      title: "U.S. Navy Selects 7 Contenders for Medium Unmanned Surface Vessel (MUSV) Program",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-05-31",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/05/ROMULUS_group_a16fefd8a4.webp",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미해군이 MUSV(중형 무인 수상함) 프로그램을 위해 7개 업체를 선정했으며, 이는 수십억 달러 규모의 미해군 현대화 사업의 일환</p><p>• 선정 업체: Sea Machines, Leidos, Saronic Technologies, Galliano Marine Services, PacMar Technologies, Birdon, Huntington Ingalls Industries (HII) - 대형 방위산업체와 신생 기업의 혼합 구성</p><p>• 각 업체가 해상 시험 활동을 위해 1,500만 달러씩 추가 지원받으며, 6월부터 10월까지 4개월간 시험 수행 예정</p><p>• MUSV 설계 요구사항: 2,500 해리 항속거리, 25톤 탑재량, 해상 4급 상태에서 25노트 속도, 자율운항 기능 필수</p><p>• 2026 회계연도에 1.95억 달러 투자, 향후 5년간 추가 30억 달러 할당으로 2031년까지 81척 조달 계획</p><p>• 2031년까지 총 83척의 무인함정 운용 목표로 무인 수상함이 보조함의 역할을 대체하는 새로운 해군 구조 전환</p><h3>Key Quotes</h3><p>• "I've observed firsthand how Robotic Autonomous Systems deliver a wide array of capabilities that swing the advantage in conflict. The Commander's ability to tailor these forces to meet unique security demands is essential." (로봇 자율시스템이 분쟁에서 우위를 제공하는 다양한 기능을 제공하며, 지휘관이 독특한 보안 수요에 맞게 이 전력을 조정할 수 있는 능력이 필수적이라는 의견)</p><h3>Technical Insights</h3><p>• **자율운항 기술 요구**: 모든 MUSV 설계에 자율운항 기능이 필수 요구사항으로 포함되어 있으며, 이는 향후 무인함정의 운영 효율성과 인력 감축을 위한 핵심 기술</p><p>• **모듈형 페이로드 시스템**: 컨테이너화된 모듈식 탑재물을 통해 타격, 정찰감시(ISR), 수송 등 다양한 임무 수행 가능하도록 설계되어 있어 CONOPS 유연성 극대화</p><p>• **산업 위험 이전 모델**: "마켓플레이스" 방식의 조달 프로그램으로 R&D 위험을 방위산업체에 전가하고, 정부는 입증된 설계 조달에 집중하는 혁신적 방식 도입</p><p>• **IMO 자율선박 규정 영향**: 무인 군함의 대규모 도입은 향후 민간해운의 자율선박 규제 및 COLREG 개정에 선례가 될 수 있으며, 국제해운 표준화에 영향</p></div>`,
+      tags: ["Autonomous Ships","MUSV Program","U.S. Navy","Unmanned Surface Vessels","Defense Technology"],
+      link: "https://www.navalnews.com/naval-news/2026/05/u-s-navy-selects-7-contenders-for-the-musv-program/",
+      coords: [0,0],
+      location: "Global/U.S. Navy Operations"
+    }
+  ]
+});
