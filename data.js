@@ -7866,3 +7866,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-05-31
+addEvents({
+  "2026-05-31": [
+    {
+      type: "accident",
+      title: "US Military Fires Missile at Blockade Runner Lian Star in Gulf of Oman",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-31",
+      image: "https://images.marinelink.com/images/maritime/w800/admiral-cooper-171012.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 중부군사령부(CENTCOM)가 이란으로 향하던 감비아 국적 선박 Lian Star의 엔진실을 Hellfire 미사일로 타격했다고 발표<br>• 해당 선박은 국제 해역에서 호르무즈 해협 방향으로 항행 중이었으며, 미군은 20회 이상의 경고를 사전에 발령<br>• 4월 13일 시작된 이란 봉쇄 이후 미군이 최소 115척의 선박을 방향 전환시킴<br>• 호르무즈 해협 폐쇄로 인한 전 지구적 에너지 가격 상승 및 미-이란 갈등 심화<br>• 국방장관 Pete Hegseth는 협상 실패 시 이란에 대한 추가 타격 준비 상태 유지 선언</p><h3>Key Quotes</h3><p>• "The U.S. military says it fired a missile into the engine room of a vessel trying to get through the U.S. blockade of Iran on Friday" (미군이 이란 봉쇄를 뚫려던 선박의 엔진실을 미사일로 타격했다)</p><p>• "U.S. forces issued 'more than 20 warnings' informing the vessel it was in violation of the U.S. blockade" (미군이 선박에 대해 20회 이상 봉쇄 위반 경고를 발령함)</p><h3>Technical Insights</h3><p>• **해상 안전 및 국제법**: 국제 해역에서의 군사 작전은 UNCLOS(유엔해양법협약)과 해상충돌방지규칙(COLREG) 준수 문제를 야기하며, 민간 선박에 대한 무장 충돌 행위의 국제법적 정당성 논쟁 발생</p><p>• **해상 교통 통제**: 군사 봉쇄로 인한 대규모 선박 우회(115척 이상)는 해운 산업에 심각한 경제적 영향을 미치며, 호르무즈 해협의 전략적 중요성 재확인</p><p>• **지정학적 리스크**: 중동 지역의 군사 긴장이 전 지구적 해상 무역 및 에너지 공급망에 직접적 영향을 미치는 구조적 취약성 노출</p><p>• **해상 보안 운영**: 경고 절차(20회 이상)와 강제 방향 전환, 최후의 수단으로서 무장 타격 등 단계적 해상 보안 대응 체계의 현실적 운영 사례</p></div>`,
+      tags: ["military action","blockade","missile strike","Gulf of Oman","Iran"],
+      link: "https://www.marinelink.com/news/us-military-says-fired-missile-engine-539760",
+      coords: [58.5,22.5],
+      location: "Gulf of Oman"
+    },
+    {
+      type: "news",
+      title: "Seasats Completes First Autonomous Transit of the Taiwan Strait",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-31",
+      image: "https://images.marinelink.com/images/maritime/w800/source-seasats-171019.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Seasats의 Lightfish 무인수상선(USV)이 대만 해협 전역을 5일간에 걸쳐 자율 운항으로 완주하며 역사적 이정표를 달성<br>• 운항 중 중국 인민해방군(PLAN) Type 056 초계함을 포함한 다수의 중국 군함과 조우하였으며, AIS 신호 미송신 상태의 선박들을 추적·촬영<br>• Seasats는 미국 정부로부터 1억 달러 이상의 계약을 수주했으며, 미 해군, NOAA, 국제 연구기관과 협력 중인 자율운항 기술 선도 기업<br>• 대만이 우크라이나, 이란의 무인 시스템 운영 사례를 검토하며 해양 방어 전략의 핵심으로 장시간 체류 USV 도입 추진<br>• 이 운항은 장시간 체류 무인수상선의 해양 도메인 인식(Maritime Domain Awareness) 능력과 감시·정찰 가치를 실증</p><h3>Key Quotes</h3><p>• "This isn't our vessel's first run-in with a Chinese warship, but the location and timing make this encounter notable. It's generally understood that the PLAN aggressively projects its vessels into the sovereign waters of smaller neighbors, but the opportunity to capture and share geolocated photographic evidence of it is unique." (중국 군함과의 조우는 처음이 아니지만, 이번 위치와 시점은 주목할 만하며, 지리적 좌표가 포함된 사진 증거를 포착하고 공유할 수 있는 기회는 매우 독특하다)</p><p>• "Taiwan is studying those lessons closely and is increasingly prioritizing uncrewed systems as a cornerstone of its defense strategy. As this operation has proven, long-endurance USVs like the Lightfish can help Taiwan monitor and defend its waters, denying the PLAN the freedom to move undetected." (대만은 이러한 교훈을 주의 깊게 검토 중이며, 무인 시스템을 방위 전략의 핵심으로 우선순위를 높이고 있으며, Lightfish 같은 장시간 체류 USV는 대만이 영해를 감시·방어하고 중국 해군의 미탐 이동 자유도를 제한하는 데 도움이 될 수 있다)</p><h3>Technical Insights</h3><p>• **자율운항 기술의 군사적 활용 확대**: 무인수상선이 5일간 대만 해협 전역을 독립적으로 운항하며 선박 추적 및 식별 임무를 수행한 것은 자율운항 기술의 신뢰성과 실용성을 입증하는 중요한 사례<br>• **해양 도메인 인식(MDA)의 중요성 부각**: AIS 신호 미송신 선박의 추적과 촬영을 통해 기존 감시 체계의 한계를 보완하는 무인 시스템의 가치가 증명되었으며, 해양 영역 거버넌스와 투명성 제고에 기여<br>• **국제법과 UNCLOS 적용 문제**: 무인 시스템의 증가로 인해 배타적 경제수역(EEZ) 내 자유로운 항행과 감시권의 경계가 모호해지고 있으며, IMO와 국제사회의 규범 정립이 시급한 상황<br>• **해양 안보 패러다임의 변화**: 우크라이나, 이란 사례와 같이 저비용 무인 시스템의 스케일 가능성이 전통적 해군 운영 방식을 변화시키고 있으며, 대만 같은 소국의 해양 방위 전략에 혁신적 기회 제공</p></div>`,
+      tags: ["Autonomous Vessels","USV","Taiwan Strait","Maritime Domain Awareness","Naval Operations"],
+      link: "https://www.marinelink.com/news/seasats-completes-first-autonomous-539767",
+      coords: [121,24.5],
+      location: "Taiwan Strait"
+    },
+    {
+      type: "news",
+      title: "Saronic's Marauder MUSV Enters On-Water Trials with 25+ Knots Speed and 5,400 NM Range",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-31",
+      image: "https://images.marinelink.com/images/maritime/w800/source-saronic-171015.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사로닉의 마로더 MUSV 해상 시험 개시**: 사로닉(Saronic)이 개발한 중형 무인수상함(MUSV) 마로더가 해상 시험 단계에 진입했으며, 방위 및 상업용 이중용도 자율항해 능력을 갖춘 최초의 함정</p><p>• **뛰어난 성능 사양**: 최고 속도 25노트 이상, 항속거리 5,400해리, 150톤의 적재량 능력으로 장거리 독립 운영 가능</p><p>• **혁신적 조선 기술**: 초기 설계부터 해상 시험까지 1년 이내에 완성된 신형 함선 개발은 미국 조선산업 수십 년 만의 쾌거</p><p>• **대규모 생산 능력**: 루이지애나주 프랭클린 조선소에서 연간 최대 20척 생산 가능성 확보로 프로토타입 단계를 벗어난 실용화 프로그램으로 전환</p><p>• **통합 제조 모델**: 설계, 제조, 자율항해 기술 개발을 사로닉이 단일 조직 내에서 일괄 수행하여 빠른 의사결정과 반복 개선 실현</p><h3>Key Quotes</h3><p>• "Designing, building, and launching an entire new class of ships in under a year is a feat the American shipbuilding industry hasn't seen in generations" <br>(미국 조선산업이 수십 년 만에 이루어낸 성과로서, 신형 함선 설계부터 건조, 진수까지를 1년 이내에 완성)</p><p>• "It's what happens when design, production, and manufacturing are fully integrated under one roof"<br>(설계, 생산, 제조가 같은 지붕 아래 완전히 통합될 때 비로소 가능한 결과)</p><h3>Technical Insights</h3><p>• **COLREG 준수 자율항해 시스템**: 25노트 이상의 고속 항해와 5,400해리의 장거리 자율운영 능력은 해상교통로 내 완전 자동화 항해를 위한 고도의 충돌회피·항로 계획 알고리즘 탑재 필수</p><p>• **모듈식 페이로드 설계 혁신**: 40피트 또는 20피트 ISO 컨테이너 최대 8개까지 탑재 가능한 구성으로, 물류·해양 감시·첩보수집 등 다양한 상용·군사 임무의 빠른 전환이 가능한 산업표준화 추진</p><p>• **미국 조선산업 부흥의 신호**: 통합 제조 모델 도입으로 기존의 분산된 설계·생산·자율화 개발 체계의 비효율성을 극복하며, 연간 20척 생산체계 구축은 자율선박의 실용화 시대 개막을 의미</p><p>• **IMO 자율선박 규범화 대응**: MUSV의 상용화 규모 확대는 IMO의 MASS(Maritime Autonomous Surface Ship) 개발 규범과 국제 해상법 제정을 가속화할 촉매 역할</p></div>`,
+      tags: ["autonomous ships","unmanned surface vessel","MUSV","defense technology","shipbuilding"],
+      link: "https://www.marinelink.com/news/saronics-marauder-enters-onwater-trials-539763",
+      coords: [-92.3,30.21],
+      location: "Franklin, Louisiana, USA"
+    },
+    {
+      type: "news",
+      title: "AUKUS Coalition to Develop Unmanned Undersea Vehicles with 2027 Delivery Start",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-05-31",
+      image: "https://images.marinelink.com/images/maritime/w800/david-adobe-171014.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **AUKUS 3국 협력 UUV 개발 프로젝트**: 미국, 영국, 호주가 무인 수중 차량(UUV) 공동 개발을 발표하며 2027년부터 인도 시작 예정</p><p>• **군사 능력 강화**: 대잠전, 대함전, 기뢰 제거, 전자전, 리토럴 기동 등 다층적 해상 작전 능력 향상을 목표</p><p>• **Pillar Two 전략 일환**: 양자 컴퓨팅, 초음속, AI, 사이버 기술 등 첨단 방위기술 개발 프로그램의 핵심 프로젝트</p><p>• **인도-태평양 지역 전략**: 중국의 영향력 확대에 대응하기 위한 3국 연합의 방위력 증강 및 해양 우위 확보</p><p>• **기술적 다목적성**: 적응형 멀티미션 페이로드 탑재로 수중 작전 다양화 및 수중 케이블·파이프라인 보호 능력 강화</p><p>• **실행 강조**: 영국 국방장관의 "말은 많고 실행은 적었다"는 자성과 함께 신속한 기술 전개 의지 표현</p><h3>Key Quotes</h3><p>• "This will rapidly give our forces the very most advanced battlefield technologies as together we produce a range of cutting-edge sensors and weapons systems for undersea drones" (우리 군대에 가장 첨단의 전장 기술을 신속히 제공하며, 함께 수중 드론용 최첨단 센서와 무기 체계를 개발할 것이다)</p><p>• "The signature project will deliver a suite of highly adaptable multi-mission UUV payloads designed to support undersea operations and maintain our collective advantage in the maritime domain" (이 대표 프로젝트는 수중 작전을 지원하고 해양 영역에서의 집단적 우위를 유지하도록 설계된 높은 적응성의 멀티미션 UUV 페이로드 패키지를 제공할 것이다)</p><p>• "For too long in AUKUS, we talked too much and delivered too little" (AUKUS에서는 너무 오래도록 말은 많고 실행은 적었다)</p><h3>Technical Insights</h3><p>• **자율 수중 시스템의 방위력 통합**: 기존의 유인 해군 작전을 AI 기반 무인 수중 플랫폼으로 전환하여 운영 효율성 및 생존성 극대화 - 3국의 해양 우위 전략 전환점</p><p>• **멀티미션 페이로드 설계 표준화**: 다양한 센서 및 무기 체계를 하나의 UUV 플랫폼에 탑재 가능하도록 설계함으로써 임무별 맞춤형 배치 및 비용 효율성 증대</p><p>• **수중 인프라 보호 임무 확대**: 수중 케이블·파이프라인 감시 및 방어 능력은 차세대 해양 분쟁의 핵심 영역으로서 UNCLOS 및 해양법 체계에 대한 새로운 해석 필요</p><p>• **Indo-Pacific 해양 거버넌스 재편**: AUKUS 3국의 UUV 배치는 남중국해, 대만해협 등 분쟁 해역의 새로운 무력 균형 형성 및 규칙 기반 질서 재정의의 신호</p></div>`,
+      tags: ["UUV","AUKUS","Autonomous Systems","Defense Technology","Indo-Pacific"],
+      link: "https://www.marinelink.com/news/aukus-develop-uuvs-delivery-set-539762",
+      coords: [101.6869,1.3521],
+      location: "Singapore / Indo-Pacific Region"
+    }
+  ]
+});
