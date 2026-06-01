@@ -7922,3 +7922,46 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-01
+addEvents({
+  "2026-06-01": [
+    {
+      type: "news",
+      title: "EU Selects Austrian CAMCOPTER S-300 Drone for Next-Generation Submarine Detection",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-06-01",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 오스트리아의 쉬벨(Schiebel) 사가 개발한 CAMCOPTER S-300 무인 헬리콥터가 EU 자금 지원 잠수함 탐지 프로젝트의 플랫폼으로 선정됨<br>• 최대 350kg의 탑재 능력과 24시간 연속 비행 시간을 갖춘 고성능 무인 시스템<br>• 유럽 해군의 차세대 해양 방위 능력 강화를 위한 자율 드론 시스템 도입<br>• EU의 해양 안보 및 국방 기술 혁신 전략 일환<br>• 무인 항공 시스템(UAS)의 해군 작전 응용 확대 추세를 반영하는 선택</p><h3>Key Quotes</h3><p>• "Austrian unmanned helicopter capable of carrying 350 kg of payload and staying airborne for 24 hours" (350kg의 탑재량을 가지고 24시간 동안 공중에 머물 수 있는 오스트리아 무인 헬리콥터)</p><h3>Technical Insights</h3><p>• **자율 해양 방위 시스템의 진화**: 전통적인 군함 기반 잠수함 탐지에서 드론 기반 원격 탐지 체계로의 전환으로, 해상 작전의 자동화와 효율성 향상<br>• **장시간 체류 능력의 의의**: 24시간 연속 비행 능력은 광해역 감시와 실시간 정보 수집을 가능하게 하며, 해군 작전의 커버리지 확대<br>• **EU 해양 전략의 일환**: NATO 및 유럽 해양 안보 강화 추세 속에서 자율 무인 시스템의 전술적 역할 확대<br>• **산업적 영향**: 오스트리아 방위 산업의 해양 무인 시스템 분야 진출 확대 및 유럽 내 국방 기술 협력 강화</p></div>`,
+      tags: ["Autonomous Systems","Naval Defense","EU Maritime Security","Unmanned Helicopter"],
+      link: "https://defence-blog.com/eu-picks-austrian-drone-to-hunt-submarines-from-the-sea/",
+      coords: [14.5501,48.2082],
+      location: "Austria (Schiebel headquarters)"
+    },
+    {
+      type: "news",
+      title: "SBM Offshore and Petrobras seal $12 billion FPSO pair deal for Sergipe-Alagoas Basin",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-06-01",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/03/Fast4Ward-SBM-Offshore.jpg?image-crop-positioner-ts=1773765098",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 브라질 국영 석유회사 페트로브라스가 네덜란드 SBM 오프쇼어와 두 개의 FPSO 유닛 건설 계약 체결 (총 120억 달러 규모)<br>• SEAP I과 SEAP II 프로젝트를 위한 P-87, P-81 FPSO 건조 - 각각 일일 12만 배럴 생산 용량<br>• 2030년과 2031년부터 각각 석유 생산 시작 예정, 가스 수출은 2031년부터 진행<br>• SBM 오프쇼어는 설계, 건조, 조립 및 6.5년간 운영·유지보수 담당 (BOT 모델)<br>• 총 10억 배럴 이상의 석유 생산량 예상, 브라질 천연가스 공급 확대 및 에너지 안보 강화</p><h3>Key Quotes</h3><br>• "With total investments exceeding R$ 60 billion (around $12 billion), Petrobras confirmed the two projects would produce more than 1 billion barrels of oil equivalent" (총 120억 달러 이상의 투자로 10억 배럴 이상의 석유 생산량 예상)<br>• "the Dutch giant will be responsible for the design, construction, and assembly, as well as the operation and maintenance of the two FPSOs for an initial period of 6.5 years" (SBM 오프쇼어가 FPSO의 설계, 건조, 조립 및 초기 6.5년간의 운영·유지보수 담당)</p><h3>Technical Insights</h3><br>• FPSO 기술 활용으로 깊은 수심(80-100km 해상)에서의 석유·가스 생산 가능화 - 해양 자원개발 효율성 향상<br>• 134km 길이의 가스 수송 파이프라인(해상 111km, 육상 23km) 구축으로 브라질 천연가스 인프라 확충 및 에너지 안보 강화<br>• BOT(Build-Operate-Transfer) 모델 적용으로 민간 기업의 기술력과 운영 경험을 활용한 프로젝트 효율화 및 위험 분산</p></div>`,
+      tags: ["FPSO","Oil & Gas","Petrobras","SBM Offshore","Brazil"],
+      link: "https://www.offshore-energy.biz/sbm-offshore-and-petrobras-seal-fpso-pair-deal-for-12-billion-oil-gas-duo/",
+      coords: [-37.5,-10.3],
+      location: "Sergipe-Alagoas Basin, Brazil"
+    },
+    {
+      type: "news",
+      title: "French Navy Intercepts Russian 'Shadow Fleet' Tanker Tagor in Atlantic",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-01",
+      image: "https://images.marinelink.com/images/maritime/w800/monktwins-adobe-171030.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 프랑스 해군이 러시아 제재 대상 유조선 '타고르'호를 대서양에서 적발하고 프랑스 본토로 강제 이동 명령 - 국제 수역 내에서 단행된 영국 지원 작전<br>• 탑승 검사 결과 선박의 허위 마다가스카르 기선국 등록 및 러시아 무르만스크 항구 출발 확인, 서방 제재 회피용 '섀도우 플릿' 선박 전형<br>• 러시아는 해당 조치를 국제해양법 위반 및 '국제 해적 행위'라고 반발, 크렘린궁은 해상 화물 안전 보장을 위한 대응 조치 예고<br>• 프랑스는 이번이 네 번째 제재 대상 유조선 적발 사례이며, EU 19차 대러시아 제재 패키지에도 불구하고 섀도우 플릿의 증가세 지속<br>• 이란 전쟁으로 유가 상승 속 인도·중국 등으로의 할인 석유 판매 활발, 우크라이나의 러시아 유전 타격이 모스크바의 유가 상승 이득 상쇄 중<br>• 에스토니아는 군사 보복 우려로 섀도우 플릿 적발 자제, 러시아는 4월 군함 동원하여 영국 해협 통과 호위 사례로 서방의 적발 행위에 대한 물리적 대응 의지 표현</p><h3>Key Quotes</h3><p>• "It is unacceptable for ships to circumvent international sanctions, violate the law of the sea, and finance the war that Russia has been waging against Ukraine for more than four years" (국제 제재를 우회하고 해양법을 위반하며 4년 이상 러시아가 우크라이나에 대해 벌이고 있는 전쟁 자금 조달을 하는 선박들은 받아들일 수 없다는 마크롱 대통령의 입장)</p><p>• "Russia would take measures to ensure the safety of shipping cargo in response to the incident" (사건에 대응하여 해상 화물 안전 보장을 위한 조치를 취할 것이라는 러시아 크렘린궁 대변인의 경고)</p><h3>Technical Insights</h3><p>• **해양 제재 집행과 국제해양법 충돌**: 공해(국제 수역)에서의 선박 나포 행위가 선박 소유국의 기선국 권리와 충돌하며, 제재 집행 국가의 관할권 범위를 둘러싼 국제해양법상 해석 차이 심화 - UNCLOS 검사권 조항의 재평가 필요</p><p>• **섀도우 플릿과 선박 식별 기술**: 허위 기선국 등록, 선박명 변경, 자동식별장치(AIS) 신호 차단 등의 은폐 수법에 대응하여 위성 자료, 선체 분석, 거래 추적 등 다층적 적발 시스템 고도화 필수 - 국제해사기구(IMO) 차원의 투명성 규제 강화 시급</p><p>• **군사적 대응 고조와 해상안보 위험**: 러시아의 호위함 배치, 에스토니아의 자제 선언 등으로 볼 때 제재 집행 해역에서의 군사 긴장 고조 가능성 - 해상 충돌 방지 협정(COLREG) 준수 및 해상 우발상황 통제협약(INCSEA) 같은 위험 관리 메커니즘 강화 필요</p><p>• **산업적 파급**: 유조선 용선료 및 보험료 상승, 정상 해운 기업의 경영 악화, 고령 유조선의 운영 회피로 인한 안전성 저하 등 글로벌 해운 산업에 광범위한 부작용 발생 - IMO 2030 감탄소 규제와 제재 회피선의 충돌 이슈</p></div>`,
+      tags: ["Russian sanctions","Shadow fleet","False flag","Oil tanker","Naval interception"],
+      link: "https://www.marinelink.com/news/french-navy-boards-suspected-russian-539783",
+      coords: [-8.5,47.5],
+      location: "Atlantic Ocean, 400 miles west of Brittany"
+    }
+  ]
+});
