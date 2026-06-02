@@ -7965,3 +7965,77 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-01
+addEvents({
+  "2026-06-01": [
+    {
+      type: "news",
+      title: "Shipping Industry Warns Hormuz Peace Deal Requires Clear Rules Beyond Ceasefire",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-06-01",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/shutterstock_2673491375.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 호르무즈 해협 평화협상이 진행 중이나, 해운업계는 휴전만으로는 정상 운영 재개가 불가능하다고 경고<br>• Posidonia 해양 전시회에서 선박사 경영진들이 명확한 통항 규칙, 보안 보장, 신뢰 회복의 필요성을 강조<br>• Heidlar Maritime Holdings의 Pankaj Khanna 회장과 Centrofin Management의 Yiannis Procopiou CEO는 구체적인 규정 및 교전 규칙 부재를 주요 문제점으로 지적<br>• 3개월간의 위기로 수백 척의 선박이 운항 불가 상태이며 수천 명의 선원이 지역에 갇혀있는 상황<br>• 보험 가입 가능성만으로는 신뢰 회복에 불충분하며, 미국-이란 간의 명확한 관계 설정이 필수<br>• Capital Maritime & Trading Corp.의 Evangelos Marinakis 회장은 수주 내 해결 가능성에 낙관적 태도 표현</p><h3>Key Quotes</h3><p>• "What we need is obviously a framework, a rules regulation, whatever tells us exactly how we can go in and get out" (우리가 필요한 것은 명확한 통항 절차를 규정한 프레임워크와 규칙이다)<br>• "While insurance might be available, this does not mean that the strait is really a place where you want to be transiting" (보험이 가능하더라도 그것이 해협이 안전한 통항 지역임을 의미하지는 않는다)<br>• "An agreement that would make us feel safe and confident for the future" (향후 안전감과 신뢰를 느낄 수 있는 협정이 필요하다)</p><h3>Technical Insights</h3><p>• **해운 위험 평가의 다층화**: 단순한 휴전 합의보다 통항 절차, 군사 지시사항, 보험 커버리지, 책임 범위 등 운영 상세사항이 정확히 규정되어야 선박의 재항해가 가능한 상황<br>• **지정학적 위험 지속**: 미국-이란 간의 명확한 "교전 규칙(Rules of Engagement)" 부재로 인해 해운 신뢰도가 심각하게 훼손되었으며, 정치적 평화협상만으로는 해운산업의 신뢰 회복이 불가능한 상황<br>• **인도주의적 고려**: 현재 호르무즈 해협 해역에 갇혀있는 수천 명의 선원들에 대한 구조 및 보호 대책도 재항해 정상화에 포함되어야 함을 강조<br>• **산업 협력의 중요성**: 선박사, 보험사, 해양 보안 기관 등 다양한 이해관계자들의 지속적인 경고가 반영되어야 지속 가능한 해운 재개가 가능함</p></div>`,
+      tags: ["Strait of Hormuz","shipping crisis","geopolitical risk","maritime security","Iran-US negotiations"],
+      link: "https://gcaptain.com/shipping-industry-says-hormuz-peace-deal-alone-wont-bring-ships-back/",
+      coords: [56.2439,26.1211],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "Davie Breaks Ground on $1 Billion Texas Shipyard Expansion for Coast Guard Icebreakers",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-06-01",
+      image: "https://gcaptain.com/wp-content/uploads/2025/09/Davie-Defense-American-Icebreaker-Factory-Rendering-1.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **Davie Defense가 텍사스 갤버스턴의 Gulf Copper 조선소 현대화에 10억 달러 규모의 투자를 시작** - 미국 해안경비대의 차세대 북극 쇄빙선(Arctic Security Cutter) 건조를 위한 전략적 기반 마련</p><p>• **Arctic Security Cutter 프로그램의 획기적 이정표** - 핀란드 헬싱키 조선소에서 최초 2척을 건조한 후 2028년부터 텍사스에서 본격 생산 예정</p><p>• **일자리 창출 및 경제 효과** - 직접 일자리 2,400개, 공급망 포함 주(州) 전체 7,000개 일자리 창조 예상</p><p>• **미국의 해양 산업 기반 복원 의지** - 러시아·중국의 북극 영향력 확대에 대응하기 위한 미국의 쇄빙선 확보 전략의 일환</p><p>• **Phase 1 완공 2028년, 3척 중 첫 번째 배 2028년 인도 예정** - Davie Defense의 35억 달러 해안경비대 계약의 주요 이행 일정</p><h3>Key Quotes</h3><p>• "America cannot restore maritime strength without rebuilding its industrial capability" (미국이 해양력을 복원하려면 산업 기반을 재건할 수밖에 없다)</p><p>• "Texas is ground zero for the revitalization of the American shipbuilding industry" (텍사스는 미국 조선산업 재활성화의 핵심 지역이다)</p><h3>Technical Insights</h3><p>• **국제 조선 경험의 통합** - 핀란드 헬싱키 조선소의 세계 최고 수준의 극지 쇄빙선 건조 기술과 미국의 현지 생산 역량 결합으로 기술 이전 및 현지화 전략 추진</p><p>• **해양 전략 자산의 재확보** - Polar Star(노후 중장비), Healy(중형), Storis(신규) 등 제한된 쇄빙선 보유 현황에서 11척 규모 프로그램으로 북극 해양 안보 강화</p><p>• **해운 산업 생태계 복원** - 조선소 현대화를 통한 공급망 구축으로 미국 해양산업 기반 강화 및 지정학적 경쟁력 제고</p><p>• **IMO/국제해사법** 관련성 - 북극항로 개방에 따른 해역 운영 기준 및 극지 해역 규제 준수 능력 강화로 국제 해사 기준 선도</p></div>`,
+      tags: ["Shipbuilding","Coast Guard","Arctic Security Cutter","Icebreakers","Industrial Expansion"],
+      link: "https://gcaptain.com/davie-texas-icebreaker-factory-groundbreaking/",
+      coords: [-94.7577,29.7604],
+      location: "Galveston and Port Arthur, Texas, USA"
+    },
+    {
+      type: "news",
+      title: "IMO Adopts MASS Code: Autonomous Ships Enter Regulated Reality",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-06-01",
+      image: "https://gcaptain.com/wp-content/uploads/2017/06/33022902585_1b9c359a89_k-2.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• IMO가 2026년 5월 22일 111차 해사안전위원회에서 해양자율운항선박(MASS)에 특화된 첫 글로벌 규제 프레임워크인 MASS Code를 채택했으며, 2026년 7월 1일부터 비의무적 규정으로 발효됨</p><p>• MASS Code는 현물 시점에서 화물선에만 적용되며, 여객선 적용은 보류되었고 자발적 경험축적 단계를 거쳐 추가 검토될 예정</p><p>• 코드는 4단계의 자율성 수준을 규정: 1단계(승선 승무원 + 자동화 지원), 2단계(원격조종 + 승무원 승선), 3단계(원격조종 + 무인), 4단계(완전자율운항)</p><p>• 경험축적 단계의 공식 프레임워크는 2026년 12월 MSC 112에서 수립되며, 의무적 MASS Code 채택은 2030년 7월 1일, SOLAS 개정을 통한 발효는 2032년 1월 1일 목표</p><p>• 이는 해운산업이 수십 년 단위로 규제 변화를 측정해온 관례에 비해 매우 압축된 일정이며, 자율운항선박이 실험적 승인에서 정당한 운영 범주로 공식 인정받은 획기적 전환점</p><h3>Key Quotes</h3><p>• "It is the moment at which the world's maritime regulator formally acknowledged that autonomous and remotely operated ships are a legitimate operational category requiring dedicated international governance" (세계 해운규제 기관이 자율운항 및 원격조종선박이 전용 국제규제를 필요로 하는 정당한 운영 범주임을 공식 인정하는 순간)</p><p>• "The Code enters into effect as a non-mandatory instrument on 1 July 2026, beginning what the IMO describes as an Experience Building Phase" (규제는 2026년 7월 1일부터 비의무적 규정으로 발효되며, IMO가 규정한 경험축적 단계가 개시됨)</p><h3>Technical Insights</h3><p>• **자율성 수준 분류의 명확화**: MASS Code의 4단계 자율성 프레임워크는 국제 해상법상 선박의 책임 범위, 승무원 자격 요건, 통신 표준 등을 명확히 함으로써 기술 개발의 방향성을 제시</p><p>• **화물선 우선 규제와 여객선 차별화**: 안전성과 책임 문제가 복잡한 여객선 규제를 유예함으로써 현실적이고 단계적인 규제 진행을 추진하며, 이는 IMO 규제 방식의 실용적 진화를 반영</p><p>• **비의무적→의무적 규제의 이행 전략**: 5년 6개월의 자발적 경험축적 기간을 통해 현장 데이터를 수집한 후 의무화하는 방식은 COLREG 충돌예방 규칙의 자율운항 적용 문제를 실제 운영 사례를 바탕으로 해결 가능하게 함</p><p>• **선급, 플래그스테이트, 해사당국의 역할 정의 필요**: MASS Code 발효에 따라 선박의 인증, 원격운영 센터의 기준, 인명안전 책임 배분 등에 관한 상세 지침 개발이 MSC 112에서 진행되어야 하며, 이는 자율선박 보험 및 손해배상 체계의 재정의로 이어질 것으로 예상</p></div>`,
+      tags: ["MASS Code","IMO Regulation","Autonomous Ships","Maritime Safety"],
+      link: "https://gcaptain.com/imo-adopts-mass-code-the-autonomous-ship-moves-from-drawing-board-to-regulated-reality/",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "MARTAC and Mystic Powerboats Expand ASV Production Capacity Through Co-Production Partnership",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-01",
+      image: "https://images.marinelink.com/images/maritime/w800/martac-171043.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• MARTAC(Maritime Tactical Systems, Inc.)가 Mystic Powerboats와 자율무인수상선(USV) 생산 역량 확대를 위한 공동생산 파트너십 체결<br>• Devil Ray 및 MANTAS 플랫폼의 국내 생산 능력을 증대하여 미국 및 동맹국 고객의 요구 충족<br>• Mystic Powerboats는 탄소섬유 복합재 제조 분야 30년 경험 보유, 10만 평방피트 규모 생산시설 운영<br>• 분산형 생산 모델을 통한 공급망 다각화로 납기 단축 및 급증 대응 능력 강화<br>• 국방 및 국가안보 기관의 해상 자율시스템 수요 급증에 대응하는 전략적 확장</p><h3>Key Quotes</h3><p>• "The distributed production model strengthens MARTAC's ability to meet operational demand by increasing surge capacity, diversifying the supply chain, and accelerating delivery timelines."<br>(분산형 생산 모델은 급증 대응 능력 증대, 공급망 다각화, 납기 단축을 통해 MARTAC의 운영 수요 대응 능력을 강화한다)</p><p>• "Demand for autonomous maritime systems is accelerating as defense and national security organizations expand their use of autonomous capabilities in distributed maritime operations, maritime domain awareness, logistics support and force protection."<br>(국방 및 국가안보 기관이 분산형 해상작전, 해상영역인식, 물류지원, 전력보호 등에서 자율 기능을 확대함에 따라 자율해상시스템 수요가 급증하고 있다)</p><h3>Technical Insights</h3><p>• USV 플랫폼의 성숙도: Devil Ray와 MANTAS는 10년 이상 정부 프로그램과 훈련에서 운용 실증되어 기술 신뢰성과 안정성 확보<br>• 복합재 제조 기술 동기화: 에폭시 수지 함침, 탄소섬유 라미네이션, 폼코어 구성 기술의 호환성이 높아 생산 효율성과 품질 관리 용이<br>• 해상 자율화의 방위산업 확대: 국방 부문에서의 자율화 수요 증대는 IMO 규정 외 국방 운용 표준 개발의 필요성 강조<br>• 공급망 탄력성: 지정학적 긴장 속 국내 생산 기반 강화로 안보 자급도 제고 및 기술 유출 방지</p></div>`,
+      tags: ["Autonomous Surface Vehicles","USV Production","Defense Technology","Manufacturing Partnership"],
+      link: "https://www.marinelink.com/news/martac-mystic-powerboats-expand-asv-539802",
+      coords: [0,0],
+      location: "United States"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-02
+addEvents({
+  "2026-06-02": [
+    {
+      type: "accident",
+      title: "IMO: Gulf Maritime Crisis - 20,000 Seafarers Stranded Amid U.S.-Iran Conflict",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-02",
+      image: "https://images.marinelink.com/images/maritime/w800/source-171050.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **극심한 해상 위기**: 2월 28일 미국-이스라엘의 이란 공격 이후 약 2만 명의 선원이 페르시아만에 고립된 상태로 남아있음</p><p>• **IMO의 우려 및 입장**: Arsenio Dominguez IMO 사무총장은 이란의 호르무즈 해협 통제로 인해 현재 휴전 상황에도 선원 소개는 "너무 위험하다"고 명시</p><p>• **인명피해 기록**: 분쟁 발발 이후 IMO 자료에 따르면 페르시아만에서 11명의 선원이 사망</p><p>• **경제적 영향**: 호르무즈 해협은 일일 세계 원유·LNG 공급량의 20%를 운반하며, 현재 통행량이 급격히 감소</p><p>• **구조 협상 진행 중**: IMO는 오만을 통한 안전 해양회랑 조성을 위해 각 당사자와 협상 중이나 상황이 불안정하여 진전 미흡</p><p>• **선원의 인도적 고통**: Heidmar Maritime의 CEO는 3개월 고립된 선원들이 가족 상봉, 출생, 사망, 결혼식 등 인생의 주요 순간을 놓치고 있다고 지적</p><h3>Key Quotes</h3><p>• "We will not be able to activate anything until the root causes are addressed and there is more of a final agreement, a ceasefire, or complete agreement, between the parties involved in the conflict" (분쟁 당사자 간의 최종 합의가 이루어질 때까지는 어떤 행동도 개시할 수 없다는 의견)</p><p>• "In the meantime, it's going to be too risky to take any actions in moving the seafarers because there are no guarantees on their safety" (선원의 안전 보장이 없는 상황에서 소개 작업은 매우 위험하다는 경고)</p><p>• "You get announcements that the Strait of Hormuz is open, and then a few hours later, the Strait of Hormuz is closed. We can't take the risk until we have something more secure" (호르무즈 해협의 개폐 상황이 불규칙하여 신뢰할 수 있는 안전 보장이 필요하다는 진단)</p><h3>Technical Insights</h3><p>• **해상 안전 회랑(Safe Maritime Corridor) 필요성**: IMO가 제시한 구조 방안으로, 중립국인 오만을 중심으로 이란과의 협상을 진행 중이나, 현재의 불안정한 휴전 상황으로는 실행이 불가능한 상태</p><p>• **국제 해사법(COLREG/IMO) 적용 한계**: 지정학적 갈등 상황에서 기존의 국제해사규칙이 제 역할을 하지 못하고 있으며, 분쟁 당사국의 정치적 합의가 우선되어야 함을 시사</p><p>• **해운 산업의 경제적 파급효과**: 호르무즈 해협 통행 제한으로 인한 유조선·LNG선의 운항 지연이 글로벌 에너지 시장 변동성을 증대시키고 해운료(freight rate) 상승을 초래</p><p>• **선원 복지 및 인도적 위기**: 3개월 이상의 강제 승선으로 인한 선원의 정신건강 악화, 피로도 증가 등 해사노동협약(MLC) 준수 차원에서의 우려 사항 대두</p></div>`,
+      tags: ["Strait of Hormuz","Seafarer Safety","Geopolitical Crisis","IMO Response"],
+      link: "https://www.marinelink.com/news/imo-risky-move-seafarers-gulf-539815",
+      coords: [53.5,26.8],
+      location: "Persian Gulf / Strait of Hormuz"
+    }
+  ]
+});
