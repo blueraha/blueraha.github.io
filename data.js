@@ -8039,3 +8039,46 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-01
+addEvents({
+  "2026-06-01": [
+    {
+      type: "news",
+      title: "House Urges Army to Evaluate Unmanned Surface Vessels for Watercraft Escort Missions",
+      source: "USNI News",
+      sourceMeta: "usni.org · 2026-06-01",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미 하원 군사위원회가 육군의 수상 함정을 보호하기 위한 무인 수상 함정(USV) 도입을 검토하도록 권장했습니다.</p><p>• 경쟁 상황에서의 물류 운송 중 비대칭 위협, 무인 시스템, 적의 포화에 대한 방어 능력 강화를 목표로 합니다.</p><p>• 2027 회계연도 입법안(FY 2027)에 이 권장사항이 포함되었으며, 전투 중 육군 함정의 취약성 감소를 중점으로 합니다.</p><p>• 유인 수상 함정에 전용 무인 수상 함정을 함께 배치하여 강화된 전력 투사 체계 구축을 제안합니다.</p><p>• 이는 미군의 해상 작전 자동화 및 무인화 전략의 일환으로, 해양 방위 기술 분야에서 중요한 정책 변화를 시사합니다.</p><h3>Key Quotes</h3><p>• "The committee believes that manned Army watercraft may be aided by dedicated unmanned surface vessels (USV) providing enhanced force"<br>(위원회는 유인 육군 수상 함정이 강화된 전력을 제공하는 전용 무인 수상 함정(USV)에 의해 지원받을 수 있다고 믿습니다)</p><h3>Technical Insights</h3><p>• **자율 해상 운영**: 무인 수상 함정의 도입은 미 육군의 해상 작전 자동화 및 원격 운영 능력 확대를 의미하며, 국방 해양 기술의 새로운 패러다임 변화를 나타냅니다.</p><p>• **비대칭 위협 대응**: 드론, 소형 무인선, 지뢰 등 현대 해양 위협에 대응하기 위해 USV 기반의 다층 방어 시스템 구축이 필수적입니다.</p><p>• **복합 시스템 운영**: 유인-무인 함정의 협력 운영 체계는 IMO 및 COLREG 국제 해양 규정 적용 범위 확대를 촉발할 가능성이 있습니다.</p><p>• **산업 파급효과**: 미군의 USV 도입 결정은 국방 해양 무인화 시장 성장을 견인하며, 동맹국들의 유사 기술 개발 경쟁을 가속화할 것으로 예상됩니다.</p></div>`,
+      tags: ["Unmanned Surface Vessels","USV","Military Maritime","Autonomous Systems","Defense Technology"],
+      link: "https://news.usni.org/2026/06/01/house-wants-the-army-to-consider-sea-drones-for-watercraft-escort-missions",
+      coords: [-77.0369,38.8951],
+      location: "United States (Washington D.C.)"
+    },
+    {
+      type: "news",
+      title: "Fugro to conduct marine mammal monitoring for Irish offshore wind grid connection",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-06-01",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/06/Visualisation-of-underwater-sound-data-Fugro.jpg?image-crop-positioner-ts=1780307217",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Fugro는 EirGrid와 2년 계약을 통해 아일랜드 남해안 해상풍력 그리드 연결 인프라에 대한 해양포유류 모니터링 사업 진행<br>• 해저에 8개 음향센서 부이를 배치하여 고래, 돌고래, 쇠돌고래 등 해양포유류 활동 장기 감시<br>• 남해안 해상풍력 연계 프로젝트는 약 900 MW 규모의 해상풍력 발전 용량 연결 예정<br>• Fugro의 신규 개발 무어링 시스템의 첫 상업 배포 사례로 기록<br>• 2025년 서명된 7년 규모 EirGrid 프레임워크 협약의 일부로 해양 환경조사 및 케이블로트 조사 포함</p><h3>Key Quotes</h3><p>• "The monitoring systems will collect long-term data on cetacean activity, including harbour porpoises, which are known to inhabit the area" (모니터링 시스템은 해역에 서식하는 쇠돌고래를 포함한 고래류의 장기 활동 데이터를 수집할 것)<br>• "The campaign also marks the first commercial deployment of Fugro's newly developed mooring system" (이 캠페인은 Fugro의 새로 개발된 무어링 시스템의 첫 상업 배포를 의미함)</p><h3>Technical Insights</h3><p>• 해양 재생에너지 개발 시 환경영향평가 강화 추세로, 수중 음향센서를 활용한 해양생물 모니터링 기술의 중요성 증대<br>• 장기간 자동화된 데이터 수집 체계를 통해 해양포유류 행동 패턴 분석 가능하며, 이는 해상풍력 시설의 환경친화적 설계에 필수적<br>• 무어링 시스템 등 해상 인프라 기술의 상용화는 해양 에너지 산업의 기술 수준 향상을 나타내며, 유럽 해역의 환경 규제 강화에 대응하는 산업 동향 반영</p></div>`,
+      tags: ["Marine Mammal Monitoring","Offshore Wind","Environmental Assessment","Ireland","Fugro"],
+      link: "https://www.offshore-energy.biz/fugro-to-carry-out-marine-mammal-monitoring-for-irish-offshore-wind-grid-connection/",
+      coords: [-8.2439,51.8985],
+      location: "Ireland - South Coast"
+    },
+    {
+      type: "news",
+      title: "Frontera Energy secures LNG regasification contract with Ecopetrol for Colombian FSRU operations",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-06-01",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/06/Puerto-Bahia.jpg?image-crop-positioner-ts=1780326291",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Frontera Energy가 캐나다의 순수 에너지 인프라 회사로 전환 완료 - 탐사 및 생산 자산을 Parex Resources에 매각하고 LNG/LPG 사업에 집중<br>• Puerto Bahía가 에콰도르 국영석유사 Ecopetrol과 LNG 재기화 용역 계약 체결 - 2027년부터 시작하여 초기 126백만 CFD에서 2년 후 300백만 CFD로 확대<br>• FSRU(부유식 저장 및 재기화 설비) 리스 계약 체결 - 미국 기업으로부터 약 500백만 CFD 용량의 FSRU를 7년 초기 계약 조건으로 임차<br>• Colombia 카르타헤나 항만에서 통합 물류 및 LNG 재기화 서비스 제공 예정<br>• Frontera의 강력한 재무 상태 - 현금 약 6,400만 달러 보유 및 ODL 파이프라인으로부터 예상 배당금 약 6,500만 달러</p><h3>Key Quotes</h3><p>• "Frontera has evolved into a focused energy infrastructure company at a critically important time for Colombia and the broader energy sector." (프론테라가 콜롬비아와 광범위한 에너지 부문에 매우 중요한 시기에 전문화된 에너지 인프라 회사로 진화했다)</p><p>• "The agreement provides Puerto Bahía with access to an FSRU with LNG regasification capacity of around 500 million cfd beginning in 2027 for an initial term of seven years" (협약은 Puerto Bahía에 2027년부터 약 500백만 CFD의 LNG 재기화 용량을 갖춘 FSRU에 대한 접근 제공)</p><h3>Technical Insights</h3><p>• FSRU 기반 LNG 재기화 인프라는 고정식 LNG 터미널 대비 초기 투자비 절감 및 배치 유연성 제공 - 신흥 시장의 에너지 안보 강화에 효과적<br>• 2단계 확대 계획(126 → 300백만 CFD)은 남미 지역의 천연가스 수요 증가 및 에너지 전환 추세를 반영한 인프라 확장 전략<br>• FSRU 임차 모델과 장기 take-or-pay 계약은 자본집약적 항만 인프라 사업의 금융 리스크 분산 및 운영 효율성 제고 사례</p></div>`,
+      tags: ["LNG","FSRU","Infrastructure","Colombia","Energy"],
+      link: "https://www.offshore-energy.biz/frontera-cinches-lng-contract-with-ecopetrol-to-underwrite-fsru-lease/",
+      coords: [-75.5136,10.391],
+      location: "Cartagena, Colombia"
+    }
+  ]
+});
