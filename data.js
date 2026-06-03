@@ -8082,3 +8082,83 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-02
+addEvents({
+  "2026-06-02": [
+    {
+      type: "accident",
+      title: "Pirate Attack Foiled in Gulf of Aden; Multiple Maritime Security Incidents Reported Globally",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-02",
+      image: "https://images.marinelink.com/images/maritime/w800/tomkorcak-adobe-171097.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **해적 공격 저지**: 인도 해군이 아덴만 인근에서 헬리콥터 및 해상진압팀을 투입하여 의심되는 해적 공격으로부터 상선을 보호<br>• **전 지역 보안 위협 심화**: 흑해, 페르시아만, 호르무즈 해협, 기니만, 핀란드만 등 주요 해상 회랑에서 5월 24-31일 간 총 15건의 해양 보안 사건 발생<br>• **다중 위협 요소**: 무인기(UAV), 자기지뢰, 해적 급습정, 드론 보트, 해양 폭발물 등 다양한 위협이 동시에 활동 중<br>• **선박 피해 사례**: 예멘 인근 유조선 무장 급습, 무스카트 인근 폭발로 인한 유조선 손상, 우크라이나/러시아 드론의 선박 격침 사례 다수<br>• **Palaemon Maritime 권고사항**: 해상 운영자들에게 선체검사, 조종점 회피, 적극적 억지력 배치, 보안 브로드캐스트 모니터링 강화 등을 제시</p><h3>Key Quotes</h3><p>• "A suspected pirate attack was foiled near the Gulf of Aden, with the Indian Navy deploying a helicopter and boarding team to protect a merchant vessel." (인도 해군이 헬리콥터와 해상진압팀을 투입하여 아덴만 인근의 의심 해적 공격으로부터 상선을 보호했다)</p><p>• "Russian air and underwater drones hit five ships, including four foreign cargo vessels bound for Turkey and a vessel inside Odessa Port." (러시아 공중 및 수중 드론이 터키 행 외국 화물선 4척을 포함한 5척의 선박과 오데사 항구 내 선박을 공격했다)</p><p>• "Maintain sharp lookouts for UAVs, waterborne drone boats, and floating naval mines in the Black Sea and Strait of Hormuz." (흑해와 호르무즈 해협에서 UAV, 수상 드론보트, 부유식 해양지뢰에 대한 예의주시 필요)</p><h3>Technical Insights</h3><p>• **복합 위협 환경의 진화**: 전통적 해적 활동에서 최신 드론, 자기지뢰, 무인 보트 등으로 진화한 해양 보안 위협으로, 선박의 기술적 감지 및 방어 시스템 고도화 필수</p><p>• **IMO 보안 규정 강화의 필요성**: SOLAS, ISPS Code 등 국제 해양 보안 규정의 실행 강화와 함께 드론 탐지, 자기지뢰 방어 등 신규 위협 대응 프로토콜 개발 시급</p><p>• **자율운항선박(MASS)의 보안 취약성**: 무인 또는 최소 승무원 자율운항선박이 증가함에 따라 이러한 다중 위협(해적, 드론, 지뢰)에 대한 자동 회피 및 대응 알고리즘 개발이 핵심 과제</p><p>• **국제 해사 정보 공유의 중요성**: UKMTO, JMIC, NAVWARN 등 국제 해양 보안 정보 플랫폼의 실시간 모니터링과 정보 공유 강화로 사전 예방 및 대응력 제고</p></div>`,
+      tags: ["piracy","maritime security","Gulf of Aden","armed attack","Indian Navy"],
+      link: "https://www.marinelink.com/news/pirate-attack-foiled-amidst-heightened-539877",
+      coords: [52.5,12.5],
+      location: "Gulf of Aden / Multiple Global Maritime Corridors"
+    },
+    {
+      type: "accident",
+      title: "US Fires Hellfire Missile at Tanker M/T Lexie in Iran Blockade",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-02",
+      image: "https://images.marinelink.com/images/maritime/w800/source-centcom-171095.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 중앙군(Centcom)이 이란으로 향하는 보츠와나 기국 유조선 M/T Lexie에 헬파이어 미사일을 발사하여 엔진실을 손상시킴</p><p>• 해당 선박은 24시간 동안 미국군의 반복적인 경고에도 불구하고 지시를 따르지 않아 무력화 조치가 실행됨</p><p>• 트럼프 대통령의 이란 협상 압박 정책에 따른 해상 봉쇄 작전의 일환으로, 4월 13일 이후 6번째 피해 선박</p><p>• 미국 군부는 현재까지 이란 항구 진출입을 시도한 122척의 선박을 우회 지시한 상태</p><p>• 국제 해양법과 선박 안전에 관한 심각한 우려 사항 제기 가능성</p><h3>Key Quotes</h3><p>• "The ship's crew ignored repeated warnings, failing to comply with directions from U.S. forces multiple times over a 24-hour period" <br>(선박 승무원이 24시간에 걸친 미국군의 반복적인 경고와 지시를 여러 차례 무시함)</p><p>• "A U.S. aircraft ultimately disabled the vessel by firing a Hellfire missile into the ship's engine room, preventing the tanker from reaching Iran."<br>(미국 항공기가 헬파이어 미사일로 엔진실을 공격하여 선박을 무력화하고 이란 도착을 저지함)</p><h3>Technical Insights</h3><p>• **군사적 해상 봉쇄와 해양 안전**: 이란 봉쇄 정책의 일환으로 민간 선박에 대한 무력 조치가 계속되고 있으며, 국제해사기구(IMO) 규정과의 충돌 가능성 존재</p><p>• **COLREG 및 국제해양법 준수 문제**: 선박의 항해 자유와 주권 문제가 미국의 일방적 봉쇄와 충돌하면서 국제 해양법의 적용 범위에 대한 논쟁 심화</p><p>• **선박 피해의 누적 효과**: 6개월간 6척의 선박 무력화와 122척의 우회 지시로 글로벌 해운 공급망과 연료 유통에 영향을 미칠 수 있음</p><p>• **선원 안전 및 인도주의적 우려**: 의도적인 엔진실 공격으로 인한 선원 피해, 환경 오염(유류 유출), 해난 구조의 어려움 등 다층적 위험 증가</p></div>`,
+      tags: ["Military Action","Tanker","Iran Blockade","Engine Damage"],
+      link: "https://www.marinelink.com/news/us-fires-hellfire-missile-tanker-539875",
+      coords: [53,26],
+      location: "Arabian Gulf / Iran Waters"
+    },
+    {
+      type: "news",
+      title: "HII's ROMULUS USV Advances to U.S. Navy Medium USV At-Sea Testing Phase",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-06-02",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/04/HII-Romulus-151-1.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Huntington Ingalls Industries(HII)의 ROMULUS 중형 무인수상선(MUSV)이 미 해군의 해상 시험 평가 단계로 진출했으며, 이는 자율 해양 운영의 획기적인 마일스톤</p><p>• HII의 Odyssey 자율통제솔루션(ACS)이 핵심 기술로, 현재 30개국에서 REMUS 무인잠수정과 ROMULUS USV에 배치되어 지능형 로봇 시스템으로 전환</p><p>• ROMULUS는 고내구성, 다목적 페이로드 용량, 효율적인 제조를 통해 분산 해양 작전과 유인-무인 협력 운영에 최적화된 전투 준비 플랫폼</p><p>• 정보수집감시정찰(ISR), 무인항공기 대응, 기뢰 대항 작전, 공격, UUV/UAV 발사 및 회수 등 다양한 임무 수행 가능</p><p>• 미 해군, 해병대, 합동군, 동맹국 요구사항 충족을 위해 설계된 ROMULUS 계열 USV는 스케일 가능성과 비용 효율성 중심</p><p>• Andy Green 경영진의 성명은 HII의 자율 해양 시스템 글로벌 리더십과 미 해군의 신뢰 강조</p><h3>Key Quotes</h3><p>• "ROMULUS brings together advanced autonomy, scalable platform design, and efficient manufacturing in a production-ready solution engineered to meet the demands of distributed maritime operations and integrated manned-unmanned teaming" (ROMULUS는 분산 해양 작전과 유인-무인 협력 운영의 요구사항을 충족하기 위해 설계된 생산 준비 완료 솔루션으로 고급 자율성, 확장 가능한 플랫폼 설계, 효율적인 제조를 통합)</p><p>• "Odyssey enables intuitive command and control of autonomous platforms and swarms across domains, enhancing fleet lethality, survivability, and operational effectiveness" (Odyssey는 영역 간 자율 플랫폼 및 스웜의 직관적 명령통제를 가능하게 하여 함대의 전투력, 생존성, 작전 효과를 향상)</p><h3>Technical Insights</h3><p>• **자율제어 기술의 확산**: HII의 Odyssey ACS가 30개국의 REMUS UUV 및 ROMULUS USV 플랫폼에 배치되어 무인 해양 시스템의 국제 표준화 추세를 선도하고 있으며, 이는 IMO 자율선박 가이드라인의 실제 적용 사례로 주목</p><p>• **유인-무인 협력 운영(Manned-Unmanned Teaming)**: COLREG 준수 및 해상 안전 규정을 충족하면서 다중 차량 협력 자율성과 센서 융합 기술을 구현하여 차세대 해군 작전 개념의 핵심 인프라 구축</p><p>• **해양 방위 산업의 기술 경쟁**: 미 해군 MUSV 프로그램의 ROMULUS 선정은 자율 수상선의 전투 응용과 ISR, MCM, 대공 작전 등 다중 임무 수행 능력이 해양 방위 체계의 미래 전력 중심이 될 것을 시사</p><p>• **상용-군용 기술 통합**: 고내구성과 원양 자율성 설계가 민간 해운 분야의 자율선박 개발에도 적용될 수 있는 기술 선행 모델로 기여할 것으로 기대</p></div>`,
+      tags: ["Autonomous Surface Vessel","ROMULUS USV","U.S. Navy","Unmanned Maritime Systems","Odyssey Autonomy"],
+      link: "https://www.navalnews.com/naval-news/2026/06/hiis-romulus-usv-advances-to-u-s-navy-medium-usv-at-sea-testing-phase/",
+      coords: [0,0],
+      location: "U.S. Navy"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-03
+addEvents({
+  "2026-06-03": [
+    {
+      type: "news",
+      title: "U.S. Navy Selects HII's ROMULUS USV for Medium Unmanned Surface Vessel Program At-Sea Testing",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-03",
+      image: "https://images.marinelink.com/images/maritime/w800/source-171101.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• HII의 ROMULUS 무인표면함정(USV)이 미 해군의 중형 무인표면함정(MUSV) 프로그램 해상시험 단계로 선정됨<br>• HII의 자율항행 제어 소프트웨어인 Odyssey Autonomous Control Solutions(ACS)가 핵심 기술로 30개국에 배포 중<br>• ROMULUS는 정보수집, 대드론 작전, 기뢰제거, 타격 및 수중/공중 무인기 발사·회수 등 다목적 임무 지원 가능<br>• 고내구성 원양 자율항행 능력과 비용효율성, 확장성을 강조하며 분산 해양작전 대응<br>• REMUS 무인잠수정과 연계하여 이중영역(dual-domain) 전력 구성으로 해양 작전 능력 확장</p><h3>Key Quotes</h3><p>• "ROMULUS USV has advanced to the U.S. Navy's Medium Unmanned Surface Vessel evaluation phase, a milestone that reflects HII's longstanding track record for delivering mission-ready autonomous capabilities that support the U.S. Navy's evolving operational requirements." (ROMULUS USV가 미 해군의 중형 무인표면함정 평가 단계로 진출했으며, 이는 HII의 미 해군의 진화하는 작전 요구사항을 지원하는 임무 대비 자율항행 능력 제공 실적을 반영한다)</p><p>• "Odyssey enables intuitive command and control of autonomous platforms and swarms across domains, enhancing fleet lethality, survivability, and operational effectiveness." (Odyssey는 여러 영역에서 자율 플랫폼과 다수 장비의 직관적 지휘통제를 가능하게 하며, 함대의 치명성, 생존성 및 작전 효과 강화)</p><h3>Technical Insights</h3><p>• **자율항행 소프트웨어의 확장성**: Odyssey ACS는 플랫폼, 모듈, 알고리즘 수준에서 유연한 구현을 지원하여 다양한 센서, 페이로드, 임무 프로필에 대응 가능한 범용 솔루션으로 작동<br>• **다중 무인기 협력 자율항행**: 센서 융합(sensor fusion) 및 고급 인식 능력으로 여러 USV/UUV의 협력 임무 수행 가능하며, IMO 규정 및 COLREG 해상충돌방지규칙 준수 기반 구축 필요<br>• **분산 해양작전 구도**: ROMULUS와 REMUS의 이중영역 통합으로 수중-수상 연계 작전 구성, 현대 해군의 분산형 작전 개념(Distributed Maritime Operations) 실현<br>• **산업 전파 효과**: 미 해군 채택은 동맹국 및 상용 해운 부문의 자율선박 기술 표준화 촉진, 향후 국제 자율선박 규제 개발 방향에 영향</p></div>`,
+      tags: ["autonomous ships","USV","U.S. Navy","unmanned systems"],
+      link: "https://www.marinelink.com/news/us-navy-selects-hii-usv-advance-atsea-539881",
+      coords: [-77.0369,38.8951],
+      location: "United States (Naval Operations)"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-01
+addEvents({
+  "2026-06-01": [
+    {
+      type: "accident",
+      title: "MSC Sariska V struck by projectiles in Umm Qasr port - maritime security incident",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-06-02",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2025/07/MSC-returns-to-Chinas-Zhoushan-Changhong-with-new-order-for-12-LNG-powered-boxships-768x570-1.jpg?image-crop-positioner-ts=1753438699",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: MSC 소유의 파나마 국적 화물선 MSC Sariska V가 이라크 움 카스르 항구에서 2발의 발사체 공격을 받음<br>• **피해 현황**: 이란 혁명수비대(IRGC)가 공격 책임을 주장했으며, 승무원 전원이 안전하고 무해함<br>• **공격 원인**: IRGC는 이 공격이 라이언 스타 선박에 대한 미국의 행동에 대한 보복이라고 주장<br>• **MSC 입장**: 중립적 상업 운송업체로서 미국이나 이스라엘과 무관하며, 공격은 부당함을 강조<br>• **지역 영향**: 중동 긴장 고조로 호르무즈 해협 폐쇄, 걸프 에너지 인프라 복구 비용 약 250억 달러 추정<br>• **해운 산업 우려**: 중동 해역 해상 무역에 대한 심각한 위협과 해상 보안 위험 증가</p><h3>Key Quotes</h3><p>• "All crew members are safe, unharmed and acted with exceptional professionalism throughout the incident to secure the vessel, and its cargo" (모든 승무원이 안전하고 무해하며, 사건 동안 선박과 화물을 보호하기 위해 뛰어난 전문성을 발휘했음)</p><p>• "This retaliatory action is completely unjustified based on the allegations made by the IRGC since MSC is a neutral commercial carrier with no affiliation to the United States or Israel" (MSC는 미국이나 이스라엘과 무관한 중립적 상업 운송업체이므로 IRGC의 주장에 근거한 보복 조치는 완전히 부당함)</p><p>• "unprovoked attacks and the risk they create for its innocent seafarers, and essential maritime trade in the region" (무고한 해원과 지역 해상 무역에 대해 야기하는 위험성을 강조)</p><h3>Technical Insights</h3><p>• **해상 보안 위기**: 중동 지정학적 갈등이 상업 해운에 직접적 위협으로 확대되고 있으며, 국제 해상법과 중립성 원칙이 훼손되는 심각한 상황<br>• **인프라 영향**: 호르무즈 해협 폐쇄로 인한 글로벌 에너지 공급 차질, 250억 달러 규모 복구 비용은 국제 해운 및 에너지 산업에 광범위한 경제적 영향<br>• **COLREG 준수 실패**: 전쟁 상황에서도 상업 선박의 중립성과 해원 보호 의무가 무시되고 있으며, IMO 안전 규정의 실효성 저하<br>• **산업 리스크 관리**: 고위험 해역 운항 선박의 보험료 인상, 항로 우회에 따른 운송 비용 증가, 중동 해역 해운 산업의 구조적 위기</p></div>`,
+      tags: ["Maritime Security","Projectile Attack","Middle East","MSC","IRGC","Cargo Ship"],
+      link: "https://www.offshore-energy.biz/projectile-strikes-on-mscs-vessel-raise-maritime-security-concerns/",
+      coords: [47.6167,29.9617],
+      location: "Umm Qasr, Iraq"
+    }
+  ]
+});
