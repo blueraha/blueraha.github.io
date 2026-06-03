@@ -8162,3 +8162,70 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-03
+addEvents({
+  "2026-06-03": [
+    {
+      type: "accident",
+      title: "Ukraine strikes Russian corvette Boyky at Kronstadt Naval Base",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-06-03",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 우크라이나군이 2026년 6월 2-3일 야간에 크론슈타트 해군기지의 러시아 발트함대 미사일 소함정 보이키(Boyky)를 무인 시스템으로 공격<br>• 우크라이나 무인시스템군(Unmanned Systems Forces)과 우크라이나 보안국(SBU)이 공격 확인<br>• 같은 작전으로 상트페테르부르크 석유터미널도 화재 발생<br>• 러시아 푸틴 대통령의 연례 경제포럼 개막일 야습 작전 실행<br>• 발트함대 전투력 저하 및 주요 해군시설 피해 확대</p><h3>Key Quotes</h3><br>*Article excerpt incomplete - full quotes not available in provided content*<br>• "Ukrainian Unmanned Systems Forces and the Security Service of Ukraine confirming the [strike]" (우크라이나 무인시스템군과 보안국이 공격을 확인했다)</p><h3>Technical Insights</h3><br>• 무인 시스템(드론/순항미사일)을 활용한 장거리 정밀 타격으로 전통적 해군 전력에 대한 새로운 위협 방식 시연<br>• 해항 기지 방어 시스템의 취약성 노출 - 육상 고정 시설에 대한 비대칭 작전 전술의 효과성 증명<br>• 해상 안보와 항만 운영의 취약성 증가로 해사산업의 리스크 관리 강화 필요<br>• IMO 관련 해상안보 기준(ISPS Code) 준용 해군기지 보안 강화의 중요성 부각</p></div>`,
+      tags: ["Naval Attack","Russian Navy","Ukraine","Baltic Fleet","Corvette Boyky"],
+      link: "https://defence-blog.com/ukraine-hits-russian-missile-corvette-at-kronstadt-base/",
+      coords: [29.3514,59.8969],
+      location: "Kronstadt Naval Base, Russia"
+    },
+    {
+      type: "news",
+      title: "Saipem Completes Gas Recovery Module Lifting for Bouri Offshore Project in Libya",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-06-03",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/06/S7000_Bouri-Projec_1.jpg?image-crop-positioner-ts=1780478747",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 이탈리아 엔지니어링 및 건설 기업 사이펨(Saipem)이 리비아 부리 가스전의 가스 회수 모듈 리프팅 작업을 성공적으로 완료했으며, 이는 약 $1억 EPCIC 계약의 주요 이정표로 평가됨</p><p>• 5,200톤 이상의 거대 가스 회수 모듈(높이 45m, 폭 31m × 45m)을 세계 최대급 크레인 선박인 사이펨 7000을 사용하여 설치 완료</p><p>• 로세티 마리노에서 약 2년에 걸쳐 제작된 모듈은 첨단 가스 처리 시스템을 통합하며, 리비아 해안에서 약 170km 떨어진 부리 가스전의 기존 플랫폼에 설치됨</p><p>• 프로젝트는 현재 소각되고 있는 부생 가스를 회수하여 멜리타 처리 시설로 운송하여 CO₂ 배출량 감축 및 생산량 증대(일 약 200만 세제곱미터)에 기여할 예정</p><p>• 향후 모듈 통합, 훅업 및 운영 개시, 28km의 해저 파이프라인 전 운영 활동 진행 예정</p><h3>Key Quotes</h3><p>• "The lifting of the module marks a major milestone in the execution phase of the project, confirming Saipem's ability to manage complex operations through advanced engineering planning and the use of heavy-lifting solutions" <br>(모듈의 리프팅은 프로젝트 실행 단계의 주요 이정표로, 첨단 엔지니어링 계획과 중량물 양중 솔루션을 통해 복잡한 작업을 수행할 수 있음을 확인)</p><p>• "Reducing flaring is anticipated to avoid the combustion of gas into the atmosphere, significantly contributing to the reduction of CO2 emissions and supporting an increase in production"<br>(소각 감축은 대기로의 가스 연소를 방지하여 CO₂ 배출량 대폭 감축과 생산량 증대를 지원)</p><h3>Technical Insights</h3><p>• 해상 중량물 양중 기술의 진화: 사이펨 7000과 같은 초대형 크레인 선박의 활용으로 5,000톤 이상의 대형 모듈을 극한 환경에서도 정밀하게 설치 가능하며, 안전 기준 준수와 함께 프로젝트 일정 단축 실현</p><p>• 해상 가스전 인프라 현대화: 기존 플랫폼의 리노베이션을 통해 부생 가스 회수 기술을 도입하면서 환경 규제 준수(가스 소각 감축) 및 생산 효율성 동시 달성 가능성 입증</p><p>• 국제 해양 프로젝트의 통합 관리: 이탈리아 엔지니어링 기업이 리비아 국영석유공사 및 에니(Eni)와 협력하여 해저 파이프라인 네트워크와 해상 플랫폼 통합 운영 시스템 구축 추진</p><p>• IMO 환경 규제 대응: 해상 부분의 탄소 감축 의무화에 따라 기존 가스전의 소각 감축을 통한 CO₂ 저감 기술이 해양 산업의 필수 요소로 부상 중</p></div>`,
+      tags: ["Saipem","Offshore Gas","Libya","Heavy Lift Operations","EPCIC Contract"],
+      link: "https://www.offshore-energy.biz/saipem-makes-inroads-at-african-offshore-gas-project-with-major-milestone-gallery/",
+      coords: [13.28,32.87],
+      location: "Bouri Gas Field, Libya (170 km offshore)"
+    },
+    {
+      type: "news",
+      title: "Northern Lights Awards Second LCO2 Vessel Contract to K Line and MISC Consortium",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-06-03",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/06/Northern-Lights-JV.jpg?image-crop-positioner-ts=1780475482",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **Northern Lights 프로젝트의 LCO2 선박 확대**: 쉘, 에퀴노르, 토탈에너지스의 공동 벤처인 Northern Lights가 K Line과 MISC 컨소시엄과 12,000 cbm 규모의 액화 이산화탄소 운반선에 대한 장기 선박대차 계약 체결 (2번째 선박 수주)</p><p>• **선박 건조 및 기술 사양**: 대련조선 해양공업(DSOC)이 건조하는 신규 선박으로 이중 연료 LNG 추진 방식 적용, 유럽의 첫 개방형 CCS 운송 및 저장 인프라 지원</p><p>• **사업 규모 및 영향**: 기존 4척에 이어 추가 선박 2척 확보로 Northern Lights의 용량 확대 계획 지원, 유럽 전역 산업 허브에서 노르웨이의 해저 저장 시설까지 CO2 운송 네트워크 확대</p><p>• **MISC의 전략적 포지셔닝**: "Delivering Progress" 전략의 "Profitable New Energy" 축에 따라 저탄소 에너지 전환 시대의 해운 솔루션 포트폴리오 강화 및 신흥 시장 역량 구축</p><p>• **CCS 산업 발전**: 2024년 이후 Northern Pioneer, Pathfinder, Phoenix 등 3척 인수 및 2025년 8월 실제 액화 CO2 저장 개시로 상용 CCS 운송 서비스 본격 운영 단계 진입</p><h3>Key Quotes</h3><p>• "Securing this second vessel award reinforces our confidence in the long-term potential of the LCO2 shipping segment and marks another step forward in expanding MISC's portfolio of future-focused maritime solutions."<br>(2번째 선박 수주는 LCO2 해운 부문의 장기 잠재력에 대한 확신을 강화하며, 미래 지향적 해운 솔루션 포트폴리오 확대의 또 다른 진전을 의미함)</p><p>• "This project will strengthen our position in an emerging market by developing the capabilities, expertise and strategic partnerships needed to support the evolving carbon management value chain."<br>(본 프로젝트는 진화하는 탄소 관리 가치사슬을 지원하기 위한 역량, 전문성, 전략적 파트너십 개발을 통해 신흥 시장에서의 위치를 강화할 것임)</p><h3>Technical Insights</h3><p>• **LCO2 해운의 기술 표준화**: 12,000 cbm 규모 선박 설계 및 이중 연료 LNG 추진 시스템 도입으로 CCS 운송 분야의 선박 기술 표준 확립, 향후 동급 선박 건조의 벤치마크 제공</p><p>• **IMO 및 국제 규제 대응**: 액화 CO2 운송의 위험물 취급, 적재기준, 안전 관리 규정 준수 필요성 증대로 해운업계의 규제 적응 비용 및 인증 체계 고도화 추진</p><p>• **글로벌 에너지 전환 생태계 형성**: K Line(일본), MISC(말레이시아), DSOC(중국), Northern Lights(유럽)의 국제 컨소시엄 구조로 탈탄소 인프라 투자의 글로벌 협력 모델 시범 운영</p><p>• **신규 해운 시장 창출**: CCS 운송 서비스의 상용화로 기존 일반 화학 운반선 시장과 차별화된 고부가가치 전문 해운 세그먼트 형성, 향후 5년 내 50척 이상의 LCO2 선박 수요 예상</p></div>`,
+      tags: ["LCO2 carrier","carbon capture storage","K Line","MISC","Northern Lights","CCS infrastructure"],
+      link: "https://www.offshore-energy.biz/northern-lights-strengthens-its-fleet-with-new-lco2-vessel-award-to-k-line-and-misc/",
+      coords: [10.7522,59.9139],
+      location: "Norway (Northern Lights CCS Project)"
+    },
+    {
+      type: "news",
+      title: "Lloyd's Register, Samsung Heavy Industries Partner on Floating Data Center Design",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-03",
+      image: "https://images.marinelink.com/images/maritime/w800/credit-lloyds-171112.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Lloyd's Register, Samsung Heavy Industries, Capital Clean Energy Carriers가 해상 부유식 데이터센터 설계 공동개발 협약을 체결했으며, 이는 AI 기술 수요 증가에 따른 디지털 인프라 솔루션을 제시하는 혁신적 프로젝트임</p><p>• Posidonia 2026에서 발표된 이 프로젝트는 조선기술과 데이터센터 기술을 결합하여 표준화된 건조 공정으로 납기 단축, 해상 전력 발전, 해수 냉각 시스템을 통합한 구조</p><p>• Lloyd's Register의 기술평가는 Samsung Heavy의 설계의 구조 안전성, 안전 고려사항, 발전 시스템 통합 가능성을 확인하여 개념의 타당성을 검증</p><p>• 부유식 데이터센터는 부지 제약, 전력 공급, 냉각 문제가 심화되는 육상 시설의 대안으로 활용될 수 있는 차세대 디지털 인프라로 평가</p><p>• Lloyd's Register Advisory는 별도의 양해각서를 통해 타당성 연구, 기술경제 모델링, 사업화 방안 개발을 지원하며 복잡한 설계의 위험성 저감을 주도</p><h3>Key Quotes</h3><p>• "This agreement highlights how owners and yards are rethinking asset strategy as digital infrastructure demand accelerates. Early-stage assurance will be important as projects scale, helping developers de-risk complex designs, secure investment and bring new offshore assets to market with confidence in their safety, performance and long-term efficiency." (이 협약은 디지털 인프라 수요 증가에 따라 선주와 조선소가 자산 전략을 재검토하고 있음을 보여주며, 조기 단계의 검증이 복잡한 설계의 위험을 줄이고 투자 확보, 안전성과 장기 효율성을 갖춘 해상 자산의 시장 진출을 도울 것임을 강조)</p><p>• "This FDC concept represents a natural extension of our shipbuilding capabilities into the digital infrastructure sector. Combined with sustainable energy solutions, it will set new standards in the global data market and serve as a key driver of future growth." (부유식 데이터센터는 조선 역량을 디지털 인프라 부문으로 자연스럽게 확장하는 것으로, 지속 가능한 에너지 솔루션과 결합하면 글로벌 데이터 시장의 새로운 기준을 설정하고 미래 성장의 핵심 동력이 될 것)</p><h3>Technical Insights</h3><p>• **조선 기술의 신규 시장 진출**: 조선업체의 핵심 역량인 표준화된 건조 공정과 구조 설계 기술을 데이터센터 산업에 적용하여 신규 고부가가치 시장 창출 기회 제공</p><p>• **해상 에너지-냉각 통합 솔루션**: 해상 전력 발전(재생에너지)과 해수 냉각을 통합하여 기존 육상 데이터센터의 에너지 효율성 및 환경적 지속가능성을 극대화하는 기술 혁신</p><p>• **분류사의 기술검증 역할 강화**: Lloyd's Register의 조기 단계 기술평가(Early-stage Assurance)가 복잡한 신규 설계의 위험성 저감, 투자자 신뢰 확보, 규제 승인 촉진에 중추적 역할을 수행하는 새로운 비즈니스 모델</p><p>• **AI 시대 인프라 수요 대응**: 인공지능 기술 고도화에 따른 막대한 데이터 처리 및 냉각 전력 수요 급증에 대응하는 차세대 해상 인프라 솔루션으로 해양산업의 디지털 전환 촉진</p></div>`,
+      tags: ["Floating Data Center","Samsung Heavy Industries","Lloyd's Register","Digital Infrastructure","AI Technology","Shipbuilding Innovation"],
+      link: "https://www.marinelink.com/news/lr-samsung-heavy-capital-partner-floating-539898",
+      coords: [23.6345,37.9838],
+      location: "Athens (Posidonia 2026)"
+    },
+    {
+      type: "news",
+      title: "Northern Lights Expands LCO2 Fleet with Vessel Charter for MISC, K Line",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-03",
+      image: "https://images.marinelink.com/images/maritime/w800/credit-northern-171110.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Northern Lights JV가 K LINE과 MISC 컨소시엄에 12,000m³ 규모의 LCO2 운반선 용선 계약 체결 - 유럽의 탄소포집저장(CCS) 인프라 확대 지원</p><p>• 선박은 대련조선소(Dalian Shipbuilding Offshore)에서 건조되며, 이중연료 LNG 추진 방식 채택으로 친환경성 강화</p><p>• Northern Lights JV(Equinor, TotalEnergies, Shell 공동 소유)는 유럽 전역의 산업 배출가스를 포집·액화하여 노르웨이 해상 저장소로 운송하는 CCS 네트워크 구축 중</p><p>• MISC와 K LINE 컨소시엄이 수주한 두 번째 선박으로, 유럽 전역의 다양한 상용 고객사 지원 가능성 확대</p><p>• 신흥 LCO2 운송 시장에서 MISC의 시장 위치 강화 및 에너지 전환 솔루션 포트폴리오 확대의 중요한 계기</p><h3>Key Quotes</h3><p>• "Securing this second vessel award reinforces our confidence in the long-term potential of the LCO₂ shipping segment and marks another step forward in expanding MISC's portfolio of future-focused maritime solutions." <br>(두 번째 선박 수주는 LCO₂ 운송 시장의 장기적 잠재력에 대한 확신을 보여주며, 미래 지향적 해운 솔루션 포트폴리오 확대의 중요한 진전을 의미함)</p><p>• "This project will strengthen our position in an emerging market by developing the capabilities, expertise and strategic partnerships needed to support the evolving carbon management value chain."<br>(본 프로젝트는 진화하는 탄소 관리 가치사슬을 지원하기 위한 역량, 전문성, 전략적 파트너십 개발을 통해 신흥 시장에서의 위상 강화)</p><h3>Technical Insights</h3><p>• LCO2 운송 기술 고도화: 12,000m³급 전문 운반선과 이중연료 LNG 추진으로 차세대 해운 기술 표준 확립 - 탄소 중립 운송 솔루션 실현</p><p>• CCS 인프라 통합 운영: 산업 배출가스 포집·액화·운송·저장의 전체 가치사슬을 체계적으로 통합하는 대규모 프로젝트로, 국제 해운업의 에너지 전환 주도</p><p>• 신규 해운 시장 개척: LCO2 운송이라는 새로운 니치 시장 창출로 MISC·K LINE 등 주요 해운사의 포트폴리오 다각화 및 저탄소 경제로의 전환 가속화에 기여</p><p>• 정규 운송 네트워크 구축: 유럽 산업 중심지에서 노르웨이 저장소까지의 안정적 운송 루트 확보로 국제 CCS 협력 체계 강화 및 IMO 탄소 저감 규제 대응 모범 사례 제시</p></div>`,
+      tags: ["LCO2 Carrier","Carbon Capture Storage","MISC","K Line","Northern Lights","Dual-fuel LNG","CCS Infrastructure"],
+      link: "https://www.marinelink.com/news/northern-lights-expands-lco-fleet-vessel-539895",
+      coords: [10.7522,59.9139],
+      location: "Northern Europe (Norway)"
+    }
+  ]
+});
