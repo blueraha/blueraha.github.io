@@ -8285,3 +8285,52 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-03
+addEvents({
+  "2026-06-03": [
+    {
+      type: "accident",
+      title: "Gulf Hostilities Spike: Iranian Attacks on Kuwait, US Strikes Near Strait of Hormuz",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-03",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockwidy-171141.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 6월 3일 이란이 쿠웨이트 국제공항에 드론 및 미사일 공격을 실시하여 시설 피해, 1명 사망, 60명 이상 부상 발생<br>• 미국 중앙사령부(CENTCOM)가 이란 남부의 미사일 발사 시설, 채굴 시도 보트, 호르무즈 해협 인근 카슈마 섬을 타격하는 방어 공격 실행<br>• 2월 28일 미국-이스라엘 공격 이후 3개월 이상 호르무즈 해협 대부분 폐쇄 상태 지속, 유전 수송량의 약 20% 영향<br>• 4월 초 체결된 휴전협정이 지속적인 교전으로 인해 심각하게 위협받고 있으며 외교 협상 진전 부족<br>• 유가가 2% 상승했으며 글로벌 LNG 및 석유 해상수송 경로 재개 협상이 교착 상태</p><h3>Key Quotes</h3><p>• "Any hostile act will be met with an immediate, decisive response" (모든 적대 행위는 즉각적이고 단호한 대응으로 맞이할 것 - 이란 외무장관 아바스 아라치)</p><p>• "The aggression does not target one country alone, but all of us" (이 침략은 단일 국가만을 대상으로 하는 것이 아니라 우리 모두를 대상으로 한다 - UAE 대통령 외교 자문관)</p><p>• "Iranian ballistic missiles failed to strike their targets in the region" (이란의 탄도미사일이 지역 내 목표물 타격에 실패했다 - 미 중앙사령부)</p><h3>Technical Insights</h3><p>• **호르무즈 해협 해상교통 마비**: 글로벌 에너지 공급망의 약 20%를 담당하는 전략적 수로가 3개월 이상 폐쇄되어 해운 산업 및 해사보험에 심각한 영향 초래</p><p>• **해상 채굴 활동 및 선박 위협**: 이란군이 해협 폐쇄를 위해 해상 채굴 시도를 하고 있으며, 이는 항행 안전성과 선박 손상 위험도를 급격히 상승시킴</p><p>• **국제해사법(COLREG) 및 IMO 규정 적용의 한계**: 군사적 충돌 상황에서 민간 해운 보호 체제의 실질적 작동 불능 상태 노출, 해운사 및 선주의 보험료 급등과 항로 회피 현상 심화</p><p>• **해상 안보 및 경제 연쇄 효과**: 해협 폐쇄로 인한 우회 항로 이용 증가(아프리카 대륙 주변 우회), 배송 기간 연장, 연료비 상승이 글로벌 해운 산업의 구조적 변화 초래</p></div>`,
+      tags: ["Iran-US Conflict","Strait of Hormuz","Shipping Disruption","Military Action"],
+      link: "https://www.marinelink.com/news/gulf-hostilities-spike-iran-us-launch-539930",
+      coords: [53.5547,26.1367],
+      location: "Strait of Hormuz / Persian Gulf"
+    },
+    {
+      type: "accident",
+      title: "Ukrainian drones strike Russian corvette RFS Boiky near Saint Petersburg",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-06-04",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/06/Ukrainian-drones-strike-corvette-RFS-Boiky.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 우크라이나 UAV가 6월 3일 크론슈타트 드라이독의 RFS Boiky 함정을 오전 06시 35분에 공격<br>• Steregushchy급 초계함인 RFS Boiky는 2월부터 정기 정비 중이었으며, 함선 중앙부 함교 후방에 최소 2회 이상 피격<br>• 우크라이나의 확대되는 UAV 캠페인의 일부로, 러시아 군사·경제 목표를 광범위하게 타격<br>• 상트페테르부르크 지역 유전터미널(우스트루가, 프리모르스크) 및 피터스부르그 오일터미널이 주요 타격 대상<br>• 우크라이나 UAV는 함정의 전자 센서, 레이더, 통신 장비 파괴로 '소프트킬' 전술 추구<br>• 러시아 산업이 재현 불가능한 서방 부품 기반의 전자 장비 손상으로 장기간 복구 어려움</p><h3>Key Quotes</h3><br>• "Ukrainian UAV crews are trying to inflict the maximum amount of damage which will prevent the vessel to be fully combat capable." (우크라이나 UAV 운영진은 함정이 완전한 전투 능력을 유지하지 못하도록 최대 피해를 입히려고 함)<br>• "An unintended side effect is that most of some of these electronic systems were obtained from Western companies and contain components which the Russian industry finds difficult to impossible to replicate." (의도하지 않은 부작용으로 대부분의 전자 시스템이 서방 회사로부터 확보되었으며, 러시아 산업이 복제 불가능한 부품 포함)</p><h3>Technical Insights</h3><br>• UAV의 제한된 폭발력으로 인해 우크라이나가 '소프트킬' 전술 개발 - 함교, 마스트 상의 센서/레이더/통신 장비 파괴로 전투 무능력화<br>• 서방 기술 기반의 전자 장비 의존도 높은 러시아 해군 함정의 취약점 노출 - 부품 수급 및 복구 기간 장기화<br>• 무인 수상정(USV)과 UAV의 복합적 운영으로 다층 해상 위협 체계 구축 - 점진적 기술 고도화로 대형 함정 마저도 위협 대상화<br>• Baltic Fleet의 Kronstadt 기지까지 공격 범위 확대로 러시아 해군의 작전 반경 급속 축소 - IMO 규제 해역에서의 자율 시스템 발전과 별개로 현실의 해전 패러다임 전환 중</p></div>`,
+      tags: ["drone attack","Russian Navy","Steregushchy-class corvette","Kronstadt"],
+      link: "https://www.navalnews.com/naval-news/2026/06/ukrainian-drones-strike-russian-corvette-rfs-boiky-near-saint-petersburg/",
+      coords: [30.2041,60.0039],
+      location: "Kronstadt, Saint Petersburg, Russia"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-04
+addEvents({
+  "2026-06-04": [
+    {
+      type: "news",
+      title: "Saronic Technologies launches first Marauder autonomous warship",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-06-04",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **Saronic Technologies의 첫 Marauder 무인 수상함정 진수 완료** - 오스틴 기반 회사가 자율주행 중형 무인함정(MUSV)의 첫 선체 진수 성공</p><p>• **경이로운 건조 속도 달성** - 1년 미만의 건조 기간으로 2차 세계대전 이후 미국 조선 산업에서 유례없는 빠른 속도 기록 (Liberty ship 이후 최초)</p><p>• **Marauder 무인함정의 특징** - 중형 무인수상함정(MUSV)으로 자율주행 및 원격 제어 능력을 갖춘 해군 플랫폼</p><p>• **미국 해군의 무인화 전략 가속화** - 자율주행 함정 개발을 통한 해군 전력의 현대화 및 운영 효율성 증대</p><p>• **산업적 파급효과** - 빠른 건조 속도는 조선 산업의 기술 혁신과 자동화 수준을 반영하며 향후 대량 건조 가능성 시사</p><h3>Key Quotes</h3><p>• "An Austin-based firm put an autonomous warship in the water last week, and it took less than a year to build — a pace American shipbuilding hasn't matched since the Liberty ships of World War II." <br>(오스틴 기반 회사가 자율주행 함정을 1년 미만에 건조했으며, 이는 2차 세계대전 이후 미국 조선 역사상 유례없는 속도)</p><h3>Technical Insights</h3><p>• **자율주행 군함의 기술적 도약** - 무인수상함정(MUSV)의 자율항해, 센서 통합, AI 기반 의사결정 능력이 해군 작전 패러다임 변화 주도</p><p>• **COLREG 준수 및 안전 규정** - 자율주행 군함도 국제해상충돌방지규칙(COLREG) 준수 필요성 및 해상 교통안전 체계와의 통합 요구</p><p>• **조선산업 디지털 혁신** - 빠른 건조 속도는 선박 설계의 모듈화, 건조 공정 자동화, 로봇 활용도 증가를 의미하며 업계 전체의 혁신 촉발</p><p>• **IMO 및 국제 규제 대응 과제** - 무인 군함의 국제법상 지위, 교전규칙(ROE), 해양안전협약 적용 범위 등에 대한 국제 규범 정립 필요</p></div>`,
+      tags: ["autonomous warship","unmanned surface vessel","Marauder","Saronic Technologies","naval technology"],
+      link: "https://defence-blog.com/saronic-puts-first-marauder-autonomous-warship-in-water/",
+      coords: [-97.7431,30.2672],
+      location: "Austin, Texas, USA"
+    }
+  ]
+});
