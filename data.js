@@ -8229,3 +8229,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-03
+addEvents({
+  "2026-06-03": [
+    {
+      type: "news",
+      title: "VIKING Pentagon Star: New Mass Rescue Device for Maritime and Aviation Emergencies",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-06-03",
+      image: "https://gcaptain.com/wp-content/uploads/2018/09/gCaptain_Logo.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• VIKING Life-Saving Equipment가 대규모 해상 인명 구조용 신기술 'Pentagon Star'를 출시했으며, 해안 경비대와 스칸디나비아 공항으로부터 초기 주문을 확보함<br>• Pentagon Star는 항공기 불시착, 여객선 사고 등 다수 인명이 수중에 있는 고위험 상황 대응을 위해 설계되었으며, 최대 100명을 10개 접근점을 통해 수용 가능<br>• 기존 SOLAS 규격 대피 시스템(330kg)과 달리 약 60kg의 경량화로 헬리콥터, 항공기, 구조함정에서 단일 운영자에 의한 신속 배치 가능<br>• 펼쳤을 때 738cm × 696cm × 68cm 크기로 대형 여행가방 정도로 압축되어 운송 용이성 확보<br>• SOLAS 등 국제 규정과 독립적으로 설계되었으며, 기존 생명 구조 장비를 보완하는 응급 대응 솔루션으로 위치 지음<br>• 현재 유럽 해군 시연 및 고정익 항공기 운용 검증을 위한 추가 테스트 진행 중</p><h3>Key Quotes</h3><p>• "Pentagon Star is all about getting people out of the water. Evacuees can board the large platform surface from all sides, which reduces boarding congestion and time in the water." (Pentagon Star의 핵심은 물 속의 사람들을 신속하게 구출하는 것이며, 4방향 탑승으로 혼잡도를 줄이고 수중 체류시간 단축)</p><p>• "While conventional mass evacuation systems compliant with SOLAS typically weigh around 330 kg, Pentagon Star weighs approximately 60 kg due to its optimised structure and materials." (기존 SOLAS 규격 대피 시스템이 330kg인 반면, Pentagon Star는 최적화된 구조와 재료로 60kg에 불과함)</p><h3>Technical Insights</h3><p>• **다중 접근점 설계의 혁신성**: 기존 개방형 구명 뗏목(2개 진입점) 대비 10개의 접근점을 통해 SAR(Search and Rescue) 작업 효율성 극대화 및 보드 시간 단축으로 저체온증 위험 감소<br>• **경량 컴팩트 설계의 운용 이점**: 60kg 규격으로 헬리콥터 및 고정익 항공기 운용성 향상, 원격 지역 신속 배치 가능성 제고로 해상/항공 재난 대응 시간 단축<br>• **SOLAS 독립 설계의 규제 특성**: 국제 해사 규정을 따르지 않음으로써 기존 장비와의 중복 규제 회피 및 응급 상황 특화 솔루션으로서 신속 배치 가능성 확보<br>• **해방 및 항공 당국의 협력 확대**: 해안 경비대, 공항, 해군 등 다층적 사용자 기관의 관심 증가로 국제 해상 안전 시스템의 다원화 추세 반영</p></div>`,
+      tags: ["Life-Saving Equipment","Mass Rescue Device","SAR Operations","Maritime Safety"],
+      link: "https://gcaptain.com/viking-pentagon-star-provides-rapid-escape-route-from-the-water-in-disaster-scenarios/",
+      coords: [0,0],
+      location: "Global/Scandinavia"
+    },
+    {
+      type: "accident",
+      title: "Gulf Hostilities Spike as Iran, US Launch Attacks Near Strait of Hormuz",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-03",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockwidy-171141.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이란과 미국의 군사 충돌이 6월 3일 급격히 악화되었으며, 이란의 드론 및 미사일 공격으로 쿠웨이트 국제공항이 피해를 입고 60명 이상이 부상함</p><p>• 호르무즈 해협이 3개월 이상 폐쇄 상태이며, 글로벌 해상유류 및 LNG 운송량의 약 20%가 영향을 받고 있음</p><p>• 미국 중앙군부(CENTCOM)는 이란의 탄도미사일이 목표물에 명중하지 못했다고 주장하며 "방어적 공격"을 실시했다고 발표</p><p>• 4월 초 합의된 휴전이 지속적으로 붕괴되고 있으며, 양측은 해협 재개방을 둘러싼 협상에서 진전을 보이고 있으나 최종 합의에 도달하지 못함</p><p>• 유가는 2% 상승했으며, 걸프만 지역 전체 안보에 대한 통합된 지역 대응 필요성이 대두됨</p><h3>Key Quotes</h3><p>• "Any hostile act will be met with an immediate, decisive response" (모든 적대 행위에 대해 즉각적이고 결정적인 대응을 할 것)<br><li>Iranian Foreign Minister Abbas Araqchi</li></p><p>• "The aggression does not target one country alone, but all of us" (이 공격은 한 국가만을 겨냥한 것이 아니라 우리 모두를 겨냥한 것)<br><li>Anwar Gargash, UAE Presidential Adviser</li></p><h3>Technical Insights</h3><p>• **해상수송 보안 위협**: 호르무즈 해협의 장기간 폐쇄는 국제 해상운송의 약 20%를 직접 영향으로 보면 자동운항선박의 안전한 항행이 극도로 제한되는 상황이며, 기뢰 매설 시도로 인한 해로 장애물 증가로 자율항행 시스템의 신뢰성 문제 야기</p><p>• **COLREG 및 IMO 규정 적용 불가**: 군사 분쟁 지역에서의 국제해사법 적용이 불가능한 상황이며, 민간 선박의 통행권 보호 메커니즘이 작동하지 않음을 시사</p><p>• **산업적 영향**: 유류 및 LNG 공급망 차질로 인한 대체 항로(수에즈운하, 남아프리카 우회) 증가로 운송비용 상승 및 배송 기간 연장, 자동운항선박 기술 도입이 더욱 지연될 수 있는 상황</p><p>• **지역 협력의 필요성**: 다자간 안보 협력 부재로 인한 해상 인프라 보호의 어려움이 증가하고 있으며, 향후 자율해상운송시스템 구축 시 지정학적 리스크 요소 사전 고려 필수</p></div>`,
+      tags: ["Iran-US conflict","Strait of Hormuz","Gulf security","Shipping disruption"],
+      link: "https://www.marinelink.com/news/gulf-hostilities-spike-iran-us-launch-attacks-539930",
+      coords: [54.3773,26.1551],
+      location: "Strait of Hormuz / Persian Gulf"
+    },
+    {
+      type: "news",
+      title: "MARTAC Opens San Diego Innovation Center for Autonomous USV Development",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-03",
+      image: "https://images.marinelink.com/images/maritime/w800/martac-171135.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• MARTAC(Maritime Tactical Systems, Inc.)가 샌디에이고에 혁신 센터 개소를 발표하며 미국 서부 지역 진출 확대<br>• 무인수상선(USV) 자율항해 분야 업계 선도 기업으로, 미해군과 방위산업 고객 지원 역량 강화<br>• 센터는 첨단 엔지니어링, 실해역 시범, 고객 훈련 및 임무 계획 수립 등 다양한 활동 지원<br>• MANTAS T-series 및 Devil Ray 등 전투 검증된 플랫폼이 이미 전 세계 함대작전 중 배치 운용 중<br>• 미해군의 무인함 함대 확대 계획으로 자율 해양 능력에 대한 수요 급증</p><h3>Key Quotes</h3><p>• "The new facility marks a milestone in the company's expansion, strengthening its ability to serve defense, security and commercial customers across the West Coast and Pacific regions." (새 시설은 회사의 확장 이정표를 표시하며, 서해안 및 태평양 지역의 국방, 보안 및 상용 고객 지원 역량을 강화)</p><p>• "MARTAC's combat-proven platforms—including the MANTAS T-series and Devil Ray—are already in operational deployment supporting fleet operations worldwide." (MARTAC의 전투 검증된 플랫폼들은 이미 전 세계 함대작전을 지원하며 실전 배치 중)</p><h3>Technical Insights</h3><p>• 완전 자율 무인수상선(fully autonomous USV) 개발 및 실해역 시범 능력 확대로 미해군의 무인화 전략(Uncrewed Fleet Initiative) 지원 강화</p><p>• 샌디에이고의 해군 기술 생태계와 개방 해역 시험 환경 활용으로 자율항해 시스템의 실용화 및 검증 가속화 가능</p><p>• COLREG 등 국제 해상충돌예방규칙 준수 능력과 함대 통합 운용 체계 개발로 무인 해전 플랫폼의 규제 적합성 및 운용 신뢰성 확보</p></div>`,
+      tags: ["Autonomous USV","MARTAC","Innovation Center","Defense Technology"],
+      link: "https://www.marinelink.com/news/martac-expands-across-western-usa-opening-539923",
+      coords: [-117.1611,32.7157],
+      location: "San Diego, California"
+    },
+    {
+      type: "news",
+      title: "Harbor Breeze Cruises Debuts Hybrid El Escudo Excursion Vessel at Port of Los Angeles",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-03",
+      image: "https://images.marinelink.com/images/maritime/w800/source-angeles-171146.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 로스앤젤레스 항구에서 350명 승객 수용 하이브리드 선박 '엘 에스쿠도' 운영 시작, 최신 배출감소 기술 탑재<br>• Harbor Breeze Cruises, 캘리포니아 대기자원위원회(CARB), 롱비치 항구가 협력한 LA MER 프로젝트의 결과물<br>• 병렬 하이브리드 추진 시스템으로 완전 전기(무배출), 디젤, 하이브리드 모드 3가지 운영 모드 지원<br>• 연간 최소 30% 이상 무배출 모드로 운영 예정이며, 노선과 운항 시간에 따라 100% 무배출 운항도 가능<br>• 총 6,100만 달러(CARB 보조금 3,100만, 민간 매칭펀드 3,000만) 규모 프로젝트로 연간 60톤 이상 배출 감축 예상<br>• 추가 2척의 하이브리드 선박 현재 건조 중이며, 항구 충전 인프라 구축에 3,500만 달러 추가 투자</p><h3>Key Quotes</h3><br>• "The vessel features a parallel hybrid propulsion system, enabling operation in fully electric (zero-emission), diesel, or hybrid modes." <br>(병렬 하이브리드 추진 시스템으로 완전 전기 무배출 모드, 디젤, 하이브리드 모드 운영 가능)</p><p>• "The vessel will operate at least 30% of the time in zero-emission mode, with some trips achieving 100% zero-emission operations, depending on route and runtime requirements."<br>(노선과 운항 시간 요건에 따라 최소 30% 무배출 모드 운영, 일부 운항은 100% 무배출 달성 가능)</p><h3>Technical Insights</h3><br>• 병렬 하이브리드 추진 시스템은 운항 특성과 에너지 효율성을 고려한 선택적 전환 기술로, 항만 내 단거리 운항에 최적화된 친환경 해운 기술 솔루션<br>• EPA Tier 4 및 CARB 상용 항만 선박 배출 기준을 초과 달성함으로써 북미 해양 환경규제의 표준 설정 역할<br>• 다중 자금 조달 구조(정부 보조금 + 민간 매칭펀드 + 항구 인프라 투자)는 지속 가능한 해운 전환을 위한 공공-민간 협력 모델 제시<br>• 선박 충전 인프라 구축과 함께 기술 평가 연구 지원으로 차세대 하이브리드/무배출 선박 개발 생태계 조성</p></div>`,
+      tags: ["Hybrid Propulsion","Zero-Emission Technology","Port of Los Angeles","Environmental Innovation"],
+      link: "https://www.marinelink.com/news/new-excursion-boat-debuts-port-los-539941",
+      coords: [-118.2437,33.7298],
+      location: "Port of Los Angeles, San Pedro Bay"
+    }
+  ]
+});
