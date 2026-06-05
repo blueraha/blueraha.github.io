@@ -8334,3 +8334,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-04
+addEvents({
+  "2026-06-04": [
+    {
+      type: "news",
+      title: "U.S. Coast Guard Launches NAVITA Digital Mariner Credentialing Platform to Address 19,000+ Application Backlog",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-06-04",
+      image: "https://gcaptain.com/wp-content/uploads/2021/02/port_state_control_inspection.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 미국 해안경비대(Coast Guard)가 2026년 9월 새로운 디지털 선원 자격증명 플랫폼 'NAVITA'(라틴어로 "선원"을 의미)를 출시할 예정<br>• 연방정부 자금 공백으로 인한 국가해양센터(NMC) 운영 중단 이후 19,000건 이상의 자격증명 신청 적체 발생<br>• NAVITA는 온라인 신청 간소화, 서류 감소, 오류 최소화, 신청 상태 투명성 제공을 목표로 설계됨<br>• 2005년부터 운영되던 HOMEPORT 시스템 폐지 후 ASAP 포털을 임시 대체 시스템으로 운영 중<br>• Rear Adm. Wayne Arguin은 "선원 경험을 중심으로 서비스를 설계하고 해안경비대에 대한 신뢰 향상"을 강조<br>• 신청 완료 후 처리 기간이 8~12개월까지 소요될 수 있는 상황을 개선하기 위한 시스템 현대화</p><h3>Key Quotes</h3><br>• "For many mariners, today's credentialing process can involve extensive paperwork, multiple submissions, and lengthy back-and-forth communication" (많은 선원들에게 현재의 자격증명 절차는 광범위한 서류 작업, 여러 번의 제출, 그리고 길어진 왕복 소통을 포함할 수 있다)<br>• "This is about more than replacing a system. It's about designing services around the mariner experience and improving the public's interactions with—and trust in—the Coast Guard" (이것은 단순한 시스템 교체가 아니라 선원 경험을 중심으로 서비스를 설계하고 일반인의 해안경비대와의 상호작용과 신뢰를 개선하는 것)</p><h3>Technical Insights</h3><br>• NAVITA는 클라우드 기반 디지털 플랫폼으로 선원 자격증명(MMC) 및 의료 인증서 신청을 전자화하여 행정 효율성 향상 및 처리 시간 단축을 실현<br>• IMO 해양산업 근로자 표준(Maritime Labour Convention) 준수를 위한 자격증명 시스템 현대화는 국제 규제 요구사항에 부응하는 중요한 조치<br>• 해안경비대의 디지털 트랜스포메이션 전략은 해양 산업 전반의 운영 투명성 및 신뢰도 향상을 통해 선박 안전 및 보안 인프라 고도화에 기여할 것으로 예상<br>• 자동화된 오류 검사 및 투명한 진행 상황 추적 기능은 선원들의 행정 부담을 경감하고 궁극적으로 선박 운영 효율성 향상에 긍정적 영향</p></div>`,
+      tags: ["Digital Transformation","Maritime Credentials","Coast Guard","Administrative Systems","Mariner Services"],
+      link: "https://gcaptain.com/coast-guard-unveils-new-digital-mariner-credentialing-platform-amid-massive-backlog/",
+      coords: [0,0],
+      location: "United States"
+    },
+    {
+      type: "news",
+      title: "Rex International's Yumna Field Drilling Program Postponed; Energy Emerger Jack-up Rig Timeline Revised",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-06-04",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2024/06/Energy-Emerger-jack-up-rig-Source-Northern-Offshore-1024x577-1.jpg?image-crop-positioner-ts=1719222891",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Rex International의 자회사 Jasmine Energy가 오만 Block 50의 Yumna 유전에서 수행할 예정이던 3개 개발정 시추 프로그램의 일정이 변경됨<br>• Northern Offshore Drilling Operations에서 운영하는 2017년식 Energy Emerger 잭업 시추 리그를 활용하는 계약이 2026년 1월에 체결됨<br>• 업데이트된 시추 일정은 향후 공개될 예정이며, 구체적인 연기 사유나 새로운 착공일은 미공시됨<br>• Block 50은 오만 동쪽 마시라 만 일대 약 17,000㎢ 규모의 해양 광구<br>• 동일 리그는 2024년 시추 캠페인에도 사용되었으며, Yumna 유전은 2020년 2월 첫 생산, 7월 상업화 승인을 획득함</p><h3>Key Quotes</h3><p>• "An updated schedule for its drilling program, covering three development wells, at the Yumna field in Block 50 offshore Oman will be disclosed in due course." <br>(오만 Block 50 Yumna 유전 3개 개발정을 대상으로 한 시추 프로그램의 업데이트된 일정은 추후 공개될 예정)</p><p>• "The firm inked a multi-well drilling contract in January 2026 for the 2017-built Energy Emerger jack-up drilling rig, operated by Northern Offshore Drilling Operations."<br>(회사는 2026년 1월 Northern Offshore Drilling Operations가 운영하는 2017년식 Energy Emerger 잭업 시추 리그와 다중정 시추 계약을 체결함)</p><h3>Technical Insights</h3><p>• **잭업 리그 활용 추세**: 오만 해역의 얕은 수심(Gulf of Masirah) 개발에 9년식 잭업 리그 재활용으로 운영 비용 효율화 추구 중<br>• **시추 일정 변경의 산업적 영향**: 개발 프로젝트의 진행 지연은 오만 지역 석유 생산량 증감에 영향을 미치며, 해상 시추 수요 변동을 반영<br>• **리그 가용성 관리**: 동일 리그가 2024년, 2026년 연속 활용되는 점은 해양 시추 장비의 높은 가용성 수요와 장기 계약 체계의 중요성을 시사</p></div>`,
+      tags: ["Jack-up Rig","Drilling Operations","Oman Offshore","Rex International","Oil & Gas"],
+      link: "https://www.offshore-energy.biz/2017-built-rigs-asian-multi-well-drilling-assignment-awaits-new-start-date/",
+      coords: [58.5,20.2],
+      location: "Gulf of Masirah, Oman"
+    },
+    {
+      type: "news",
+      title: "Velesto Energy Secures Jack-up Rig Contract for Multi-well Drilling Campaign in Gulf of Thailand",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-06-04",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/06/NAGA-6.jpg?image-crop-positioner-ts=1780558592",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 말레이시아 Velesto Energy의 자회사 Velesto Sumber이 Northern Gulf Petroleum(NGP)과의 계약으로 태국 걸프 해역에서 석유 시추 작업 수행<br>• 2014년 건조된 NAGA 6 잭업 시추선(jack-up rig)을 투입하여 4개 infill well과 3개 탐사 정공(exploration well) 시추 예정<br>• 본 계약 수주는 Velesto의 프리미엄 잭업 시추선의 지속적 활용과 동남아시아 핵심 시장에서의 사업 확대 전략을 반영<br>• 태국뿐만 아니라 말레이시아 해역의 Hibiscus Oil & Gas와의 계약도 최근 수주하여 지역 내 사업 포트폴리오 강화<br>• 리그 오퍼레이터로서 신뢰성 있는 운영과 가동률 유지를 통해 동남아시아 오프쇼어 유전 개발 추세에 대응</p><h3>Key Quotes</h3><br>• "We appreciate the confidence placed in Velesto by NGP. The award supports the continued utilisation of our premium jack-up rigs and is expected to contribute positively towards earnings." (NGP의 신뢰에 감사하며, 본 계약은 Velesto의 프리미엄 잭업 리그의 지속적 활용을 지원하고 수익에 긍정적 기여가 예상됨)<br>• "The contract award further strengthens Velesto's drilling segment and reflects continued ability to secure opportunities across our core operating markets amid ongoing offshore development and exploration activities in the region." (본 계약 수주는 Velesto의 시추 부문을 강화하며 지역 내 진행 중인 오프쇼어 개발·탐사 활동 속에서 핵심 시장에서 계속 기회를 확보할 수 있는 능력을 입증)</p><h3>Technical Insights</h3><br>• **Infill Well vs 탐사정공의 혼합 포트폴리오**: 4개의 infill well(기존 유전의 추가 시추정)과 3개의 탐사정공으로 구성되어 성숙 유전의 증산과 신규 자원 개발을 동시에 진행하는 전략 반영<br>• **잭업 리그의 시장 수요 지속**: 12년 운영 경력의 2014년 건조 잭업 리그가 여전히 주요 계약 수주 중심이며, 동남아시아 천해 유전 개발의 주력 장비로 기능<br>• **지역 내 시추 서비스 시장의 경쟁**: Velesto가 태국·말레이시아 연속 수주로 동남아시아 주요 석유회사들의 신뢰 기반 구축 중이며, 오퍼레이션 신뢰성이 경쟁력의 핵심<br>• **IMO/국제 규제 준수 운영**: 프리미엄 잭업 리그의 안전성과 환경 규제 준수 능력이 대형 석유사 계약 확보의 주요 평가 요소로 작용</p></div>`,
+      tags: ["Jack-up Rig","Drilling Contract","Gulf of Thailand","Velesto Energy","Offshore Oil & Gas"],
+      link: "https://www.offshore-energy.biz/velestos-2014-built-rig-takes-on-multi-well-drilling-campaign-in-southeast-asia/",
+      coords: [101.5,12.5],
+      location: "Gulf of Thailand"
+    }
+  ]
+});
