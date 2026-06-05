@@ -8378,3 +8378,65 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-05
+addEvents({
+  "2026-06-05": [
+    {
+      type: "news",
+      title: "Aselsan Showcases Kiliç Kamikaze Underwater Drones at Efes 2026",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-06-05",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/06/Aselsan-Kilic-Kamikaze-Drone.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **아셀산의 킬릭 자율 수중드론 공개**: 터키 방위산업체 아셀산이 2026년 에페스 국방훈련에서 선박 격침용 킬릭 자폭식 자율 수중차량(AUV)을 국제사회에 공개하였으며, 이는 자하 2026에서의 초기 공개 이후 추가 개발 계획을 수반함</p><p>• **운영 범위 및 통신 방식**: 킬릭 드론은 10~200 해리 범위에서 해상 목표물 탐지 및 격침이 가능하며, 유선, RF, 위성통신을 통해 제어 가능한 다중 통신 옵션 제공</p><p>• **분산형 해전 전술**: 아셀산은 여러 드론의 무리 운용을 통해 적 함정 격침 및 광대한 해역에 대한 거부 영역(area denial) 구성을 구상하고 있으며, 이는 비대칭 해전 개념을 반영</p><p>• **플랫폼 다양성**: 킬릭은 해안에서 발사되거나 무인 수상함정(USV) 탑재 방식으로도 운용 가능하며, 아셀산의 알바트로스 자폭식 USV에 이어 두 번째 자살 공격 무기 시스템</p><p>• **비용 효율성 및 전술 가치**: 전통적 해안방어 순항미사일 대비 저렴한 비용으로 제한된 해역 환경에서 작전하는 각국 해군에 비대칭적 해상 격침 및 영역 거부 솔루션 제공</p><h3>Key Quotes</h3><p>• "As maritime operations shift toward distributed, network-centric and increasingly asymmetric engagements, unmanned systems are emerging as a defining element of naval power" (해양 작전이 분산형, 네트워크 중심 및 비대칭 교전으로 변화함에 따라 무인 시스템이 해군력의 핵심 요소로 부상하고 있다는 의미)</p><p>• "Kiliç drones are designed to sense and strike maritime targets at a variety of ranges, extending from 10 to 100 or 200 nautical miles" (킬릭 드론은 10해리에서 200해리까지 다양한 거리에서 해상 목표물을 탐지하고 격침하도록 설계되었다는 의미)</p><h3>Technical Insights</h3><p>• **자율 수중 플랫폼의 군사화**: 킬릭과 같은 자폭식 AUV는 전통적인 COLREG 기반 해상교통관리 체계와 별도의 독립적 운영 계획을 요구하며, 민간 해역에서의 충돌 회피 및 안전 프로토콜 재정의 필요</p><p>• **네트워크 중심 전술의 확산**: 드론 무리(swarm) 운용 개념은 IMO의 자율선박 규범 개발과는 별도로 군사 영역에서 빠르게 진화 중이며, 상용 자율선박의 민군 혼용 문제 대두</p><p>• **센서 및 통신 기술의 통합**: 아셀산의 자체 전자시스템 및 통신 역량이 킬릭 개발의 핵심이며, 자율 수중 시스템의 신뢰성과 재밍 회피 능력이 향후 산업 경쟁력의 관건</p><p>• **비용 효율적 해상 억지 개념**: 전통 대함 미사일 대비 저비용 무인시스템의 확산은 해양 보안 및 연안국 방어 체계의 새로운 패러다임이 되고 있으며, 국제 해양 질서에 영향을 미칠 가능성 존재</p></div>`,
+      tags: ["autonomous underwater vehicles","unmanned systems","Turkish defense","maritime technology","kamikaze drones"],
+      link: "https://www.navalnews.com/naval-news/2026/06/aselsan-showcases-kilic-kamikaze-underwater-drones-at-efes/",
+      coords: [32.8597,39.9334],
+      location: "Ankara, Turkey"
+    },
+    {
+      type: "news",
+      title: "Japan Develops Unmanned AAV with MUM-T Capability for Amphibious Operations",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-06-05",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/06/IMG_5853.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 일본 방위사업청이 2024년부터 개발 중인 국산 무인 상륙용 장갑차(AAV)는 산호초 지형 통과 능력과 30mm 자동포 장착으로 기존 AAV-7의 한계를 극복하도록 설계됨</p><p>• 나가사키현 소재 상륙급속대응여단(ARDB)이 운용하는 52대의 AAV-7은 한국 도서 방어에 필수적이나, 제한된 상륙 지점과 낮은 화력으로 인해 개선 필요성 대두</p><p>• 신규 국산 AAV는 궤도와 수제트 추진 방식을 결합해 산호초 극복 및 다양한 상륙점 확보 가능</p><p>• MUM-T(Manned-Unmanned Teaming) 기술을 적용한 무인 운용 체계로 원격 조종 및 자율 작전 능력 보유</p><p>• 중국의 확대된 군사력에 대응하기 위한 난세이 제도(오키나와 포함) 방어 전략의 핵심 무기체계</p><h3>Key Quotes</h3><p>• "The new Japanese AAV is designed to generate substantial propulsive force by using both its tracks and water jets mounted at the rear of the hull in order to overcome coral reefs." (새로운 일본식 상륙용 장갑차는 궤도와 함체 후부에 장착된 수제트를 결합하여 산호초 극복을 위한 강력한 추진력 생성)</p><p>• "This would enable it to engage and counter enemy armored vehicles as well." (이를 통해 적의 장갑차와 유사 자산에 대응할 수 있는 능력 확보)</p><h3>Technical Insights</h3><p>• **하이브리드 추진 시스템**: 궤도와 수제트 병용으로 산호초 같은 복잡한 해양 지형 통과 능력 강화 – 상륙작전 지역 선택의 자유도 대폭 증대</p><p>• **MUM-T 기술 적용**: 유인-무인 복합운영 체계로 원격 조종뿐만 아니라 자율적 작전 지휘 가능성 제시 – 해상 무인 시스템의 산업 트렌드 반영</p><p>• **화력 강화**: 12.7mm 기관총에서 30mm 자동포로 업그레이드로 대장갑차 교전 능력 확보 – 도서방어 전술의 획기적 전환</p><p>• **IMO/COLREG 비적용 영역**: 국방용 무인 장비로서 민간 해상 자율운항 규제와 무관하나, 향후 기술 파급 효과로 민간 무인선박 발전에 영향 가능성</p></div>`,
+      tags: ["Unmanned Systems","Amphibious Operations","Japan Defense","AAV Development","MUM-T"],
+      link: "https://www.navalnews.com/naval-news/2026/06/japan-is-developing-a-new-unmanned-aav-which-will-bring-mum-t-to-amphibious-operations/",
+      coords: [130.8753,34.6901],
+      location: "Japan (Nagasaki/Kyushu)"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-04
+addEvents({
+  "2026-06-04": [
+    {
+      type: "news",
+      title: "LNG Bunkering Volumes Surge in 2026 with 90% of Alternative Fuel Orders",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-04",
+      image: "https://images.marinelink.com/images/maritime/w800/steve-courtesy-171184.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• LNG 벙커링 볼륨이 2026년 1분기에 싱가포르 48%, 로테르담-앤트워프 브루게 44% 증가하는 등 주요 항만에서 급증 중<br>• SEA-LNG 연합은 메탄 탈탄소화 경로가 지정학적 혼란과 규제 불확실성에도 불구하고 진전되고 있다고 강조<br>• 액화 바이오메탄(LBM) 판매량은 주요 항만에서 6배 증가했으며, 로테르담항만에서 Q1 2026에만 15,260 cbm 벙커링<br>• LNG 연료 선박이 전 세계 대체연료 신규주문의 약 90%를 차지하며 지난해 66%에서 상승<br>• DNV 데이터에 따르면 2026년 1월~5월 LNG 이중연료 선박 60척 신규주문으로 컨테이너선, 자동차운반선, 유조선, 크루즈선 등 다양한 선종 포함<br>• 이중연료 선박은 LNG, LBM, 기존 해양연료 간 전환 가능으로 변동성 있는 시장에서 회복력 제공</p><h3>Key Quotes</h3><p>• "The transition is not without headwinds. Some parts of the industry are pulling back. But the methane pathway is not one of them. Bunkering volumes are up. The orderbook is growing. Emissions are coming down. The value chain is stepping forward, not back." <br>(전환 과정에 역풍이 있지만, 메탄 경로는 후퇴하지 않고 있으며, 벙커링 볼륨과 신규주문이 증가하고 배출량은 감소하는 중)</p><p>• "Fuel optionality is one of the reasons for the success of the methane pathway. Dual-fuel vessels can switch between LNG, LBM and conventional marine fuels as market conditions change, providing resilience in a volatile market."<br>(연료 선택 다양성이 메탄 경로의 성공 이유이며, 이중연료 선박은 시장 조건 변화에 따라 LNG, LBM, 기존 연료 간 전환으로 시장 변동성에 대한 복원력 제공)</p><h3>Technical Insights</h3><p>• IMO 2030/2050 탈탄소화 규제에 따른 LNG 및 바이오메탄 기반 이중연료 추진 시스템의 기술적 성숙도가 높아지면서 신규주문 증가세 지속<br>• Gasum과 Titan Clean Fuels의 바이오메탄 판매 비중 급증(0.8%→12.3%, 6.5%→19.1%)은 폐기물 기반 순환경제형 연료의 공급망 발전을 의미하며, e-메탄과 함께 공급 다양화 전략의 핵심<br>• 선박의 이중연료 옵션성(LNG/LBM/기존 연료 전환 가능)은 지정학적 공급망 리스크 분산과 시장 변동성 대응 능력을 제공하므로, 규제 리스크 회피 차원에서도 산업 채택 가속화<br>• 싱가포르항만의 LNG 벙커링 48% 증가는 아시아 해운 탈탄소화 추진의 가속화를 시사하며, 로테르담-앤트워프의 높은 성장률은 유럽 그린딜 규제와 EU 메탄올/LNG 전환 정책의 구체적 영향을 반영</p></div>`,
+      tags: ["LNG bunkering","alternative fuels","decarbonization","liquefied biomethane","maritime fuel transition"],
+      link: "https://www.marinelink.com/news/sealng-lng-bunkering-surging-539984",
+      coords: [0,0],
+      location: "Global (Singapore, Rotterdam, Antwerp-Bruges)"
+    },
+    {
+      type: "news",
+      title: "HHI Receives AiP for LPG Dual-Fuel 1,400 TEU Container Vessel Design from DNV",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-04",
+      image: "https://images.marinelink.com/images/maritime/w800/vidar-dolonen-171180.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• HD Hyundai Heavy Industries(HHI)가 DNV로부터 LPG 이중연료 1,400 TEU 컨테이너선 설계에 대한 원칙적 승인(AiP) 획득<br>• Posidonia 해사 박람회에서 DNV의 Vidar Dolonen 동북아시아 지역매니저가 HHI의 홍렬 류 CTO에게 인증서 수여<br>• LPG 이중연료는 LNG 대비 연료 시스템 복잡도 감소, 자본비 및 운영비 절감의 장점 제공<br>• 선박 설계는 소형 컨테이너선 세그먼트의 환경규제 대응 및 효율성 향상을 목표로 개발<br>• Type-C LPG 저장탱크, 저인화점 연료공급 시스템(LFSS), 가스연소장치(GCU) 통합 보일러 탑재로 안전성 및 운영 효율성 확보</p><h3>Key Quotes</h3><p>• "LPG is potentially an equally interesting option offering an additional pathway to enhanced efficiency and reduced emissions" (LPG는 LNG 못지않게 효율성 향상과 배출감소를 위한 대안 제공)</p><p>• "An Approval in Principle (AiP) is an independent assessment of a concept within a defined framework of requirements. It confirms the feasibility of the design and verifies that no significant technical barriers exist to its implementation." (원칙적 승인은 설계의 타당성을 확인하고 구현에 있어 중대한 기술적 장애가 없음을 검증하는 독립적 평가)</p><h3>Technical Insights</h3><p>• **LPG 연료 선택의 기술적 우위**: LNG 대비 복잡한 연료 취급 시스템 감소로 설계 난이도 낮추고, 자본비·운영비 절감 가능성 증대<br>• **안전 배치 설계**: Forward accommodation 배치로 화물 용적 극대화하면서 승무원 거주구역을 위험지역으로부터 분리, Type-C 탱크를 선미 갑판에 전략적 배치하여 위험성 최소화<br>• **IMO EEDI/CII 규제 대응**: 소형 컨테이너선(1,400 TEU) 세그먼트에서 대안 연료 도입으로 2030년 이후 탄소집약도 규제(CII) 충족 경로 제시<br>• **산업 파급효과**: HHI의 LPG 이중연료 설계 AiP 획득은 아직 LNG 중심의 소형선 시장에 새로운 환경친화적 선택지 제공, 향후 업계 표준화 가능성 높음</p></div>`,
+      tags: ["LPG dual-fuel","container vessel","DNV AiP","HD Hyundai Heavy Industries","alternative fuel","emissions reduction"],
+      link: "https://www.marinelink.com/news/hhi-receives-aip-lpg-dualfuel-vessel-539980",
+      coords: [23.6345,37.9715],
+      location: "Posidonia Trade Fair, Athens"
+    }
+  ]
+});
