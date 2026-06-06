@@ -8440,3 +8440,70 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-05
+addEvents({
+  "2026-06-05": [
+    {
+      type: "news",
+      title: "ABS Grants AiP for Nuclear Reactor Integration in Vessel Design",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-05",
+      image: "https://images.marinelink.com/images/maritime/w800/photo-caption-171199.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **원자력 추진 시스템 승인**: ABS(American Bureau of Shipping)가 MIT, HD 현대중공업(KSOE), Capital Maritime Group이 공동 개발한 핵반응로 기반 선박 추진 시스템에 대해 원칙적 승인(AiP)을 최초로 부여함</p><p>• **혁신적 설계 특징**: MIT 설계는 특수 합성유체를 이용한 열 전달 방식으로 10~20MW의 마이크로 규모 출력을 달성하며, 근-대기압 작동으로 얇고 가벼운 반응로 용기 구조 가능</p><p>• **MIT Maritime Consortium 출범**: ABS, HD KSOE, Capital Maritime Group이 설립 멤버로 참여하는 컨소시엄을 통해 대체 연료, 자율운항, 사이버보안, 선박 제조 기술 등을 통합 연구</p><p>• **산업 파급 효과**: 선박 추진 에너지원의 다변화 추진으로 탈탄소화 및 장거리 운항 효율성 대폭 향상 기대</p><p>• **ABS NTQ 프로그램 활용**: 신기술 적격성 인증 서비스를 통한 체계적인 조선 혁신 기술 도입 지원 체계 구축</p><h3>Key Quotes</h3><p>• "This design uses a special synthetic fluid to carry heat from the reactor core. Today's designs typically focus on micro-scale thermal outputs of 10 to 20 megawatts." (이 설계는 특수 합성유체를 이용해 반응로 핵심부에서 열을 전달하며, 현재 설계들은 10~20MW의 마이크로 규모 열출력을 중심으로 함)</p><p>• "The MIT design's near-atmospheric operating pressure can allow for thinner, lighter reactor vessels, supporting modular construction and easier transport." (MIT 설계의 근-대기압 작동 방식은 더 얇고 가벼운 반응로 용기를 가능하게 하여 모듈식 건조와 운송 용이성을 지원함)</p><p>• "The consortium brings together academia and industry to advance technologies with the potential to reshape the maritime sector, including alternative fuels, new nuclear technologies, data-driven operational strategies, autonomy, cybersecurity and onboard manufacturing." (컨소시엄은 선박산업을 재편할 잠재력을 갖춘 대체 연료, 원자력 기술, 데이터 기반 운영 전략, 자율운항, 사이버보안, 선상 제조 등의 기술 발전을 위해 학계와 산업계를 통합함)</p><h3>Technical Insights</h3><p>• **원자력 추진의 장거리 항해 혁신**: 핵반응로 기반 추진으로 무탄소 에너지 공급이 가능하며, 대형 벌크선과 컨테이너선의 장거리 항해 경제성 획기적 개선 가능</p><p>• **선급 인증 체계의 확대**: ABS의 NTQ 프로그램을 통한 신기술 평가 기준 수립으로 IMO 국제해사규칙 적용 가능성 높아짐; 향후 다른 선급도 동일한 기술 표준 채택 예상</p><p>• **모듈식 건조의 조선산업 효율화**: 가볍고 소형화된 핵반응로 설계로 조선소의 모듈 제조 및 통합이 용이해지며, 선박 건조 기간 단축 및 원가 절감 기대</p><p>• **자율운항 기술과의 시너지**: 원자력 추진과 AI/자율운항 기술 결합 시 해운업의 완전한 패러다임 전환 가능; 향후 5~10년 내 상용화 기대</p></div>`,
+      tags: ["Nuclear Propulsion","ABS Approval","MIT","Alternative Energy","Ship Design Innovation"],
+      link: "https://www.marinelink.com/news/abs-grants-aip-nuclear-reactor-540007",
+      coords: [0,0],
+      location: "Global (MIT-HD KSOE-Capital Maritime collaboration)"
+    },
+    {
+      type: "news",
+      title: "Royal Navy progresses towards Project Vanquish autonomous aircraft carrier demonstration",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-06-05",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/06/GA-ASI-Gambit-QEC.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 영국 해군(RN)과 공군(RAF)의 합작으로 추진 중인 프로젝트 반퀴시는 2027년 말까지 퀸 엘리자베스급 항공모함에서 자율주행 고정익 항공기(ACP)의 해상 비행 시험을 수행할 계획</p><p>• 스티브 볼턴 준장(Deputy Director Aviation Programmes and Futures)이 CNE 2026 방위 지도자 회의에서 이 프로젝트가 해군의 하이브리드 에어윙 개념 개발을 위한 핵심 기술 입증 임무임을 강조</p><p>• 자율주행 항공기는 F-35B 라이트닝을 보완하며, 해상 감시, 공중 급유, 공대공 전투 등 다양한 해양 작전을 지원하도록 설계</p><p>• 2040년까지 함대 항공대(Fleet Air Arm) 무인화 전환을 목표로 하는 해양항공 변환(MATX) 프로그램의 일환으로 추진 중</p><p>• 성공적인 기술 입증은 향후 자율주행 항공 시스템의 광범위한 운영 확대 및 해양 전투 능력 강화를 위한 근거 자료로 활용될 예정</p><h3>Key Quotes</h3><p>• "The demonstration will provide the evidence to understand the practicality of fielding collaborative combat aircraft, or CCAs, as they are commonly known." (이 시연은 협력형 전투 항공기(CCA)를 실제 전장에 배치할 수 있는 실현 가능성을 검증하기 위한 핵심 증거를 제공할 것이다.)</p><p>• "We're currently looking at working through several credible options from industry, and are looking forward to fielding a trial in the next 12 to 18 months." (현재 산업체의 여러 신뢰할 수 있는 방안들을 검토 중이며, 향후 12~18개월 내 시험 운영을 시작할 준비를 하고 있다.)</p><h3>Technical Insights</h3><p>• **자율주행 항공기의 해상 운영 기술**: 항공모함에서 카타펄트나 갑판 제동 장치 없이 독립적으로 운영 가능한 자율형 고정익 항공기 개발로, 차세대 항공모함 운영 패러다임의 근본적 전환을 의미</p><p>• **네트워크 중심 전투(Network-Centric Warfare) 강화**: 해상 정밀항법 시스템(PNT), 탄력적 통신망, 표적 협력 조정 체계 등의 고도화로 광범위한 자율주행 항공기 운영을 가능하게 하는 해양 전투 웹(Maritime Fighting Web) 구축</p><p>• **산업 파트너십과 기술 생태계**: 민간 항공우주 업계와의 협력을 통해 고아음속 제트 동력 자율항공기 개발의 실용화를 추진하며, 향후 대량 도입 경로 수립을 위한 기초 자료 축적</p><p>• **2040년 무인 함대 항공대(Hybrid Air Wing) 구현 로드맵**: 프로젝트 반퀴시의 성공은 F-35B와의 운영 통합성 입증을 통해 향후 광범위한 자율주행 항공기 도입의 가능성 및 비용-효과성 검증</p></div>`,
+      tags: ["Autonomous Aircraft","Royal Navy","Project Vanquish","Maritime Aviation Transformation","Uncrewed Systems"],
+      link: "https://www.navalnews.com/event-news/cne-2026/2026/06/royal-navy-progresses-towards-fixed-wing-acp-demonstration-from-aircraft-carrier/",
+      coords: [51.5074,-0.1278],
+      location: "United Kingdom"
+    },
+    {
+      type: "accident",
+      title: "Ukrainian Naval Drone Causes Explosion at Constanța Port After Russian EW Jamming",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-06-05",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 우크라이나 해군 드론이 러시아의 전자전 재밍으로 제어 불능 상태에 빠진 후 루마니아 영해로 표류하여 콘스탄차 항구 내 민간 항만시설에 폭발<br>• 사건으로 인해 도시 전역에서 폭발음이 감지되었으며 대규모 해안 지역 대피 조치 시행<br>• 우크라이나 해군이 사건 확인 및 공식 발표, 러시아의 전자전 능력과 우발적 피해의 위험성 노출<br>• 검증되지 않은 드론 제어 손실로 인한 국제 수역 침해 및 민간 인프라 피해 발생<br>• 흑해 지역 군사 작전 중 EW 재밍의 실제 피해 사례로, 자율 시스템의 보안 취약성 시사</p><h3>Key Quotes</h3><p>• "A Ukrainian naval drone lost control after Russian electronic warfare jammed its guidance system during a Black Sea mission, drifted into Romanian territorial waters, and detonated inside the civilian port" (러시아의 전자전이 우크라이나 드론의 유도 체계를 재밍하여 제어 불능 상태로 만들었고, 결국 루마니아 영해의 민간 항구에서 폭발)</p><h3>Technical Insights</h3><p>• **자율 시스템의 EW 취약성**: GPS/INS 기반 드론 유도 체계가 의도적 전자전 재밍에 의해 완전히 무력화될 수 있으며, 페일세이프 메커니즘 부재 시 통제 불능 상태로 발전 가능</p><p>• **국제 수역 안전 규제 공백**: 군사용 무인체계의 오류로 인한 민간 항만 침해 사건에 대한 명확한 국제법 책임 체계 및 배상 메커니즘 부재</p><p>• **자율 해양 운영의 보안 설계 필요성**: 상용 자율선박 및 무인 시스템 도입 시 강화된 EW 대항 기술, 안전 귀환 프로토콜, 지역 거부(geofencing) 등의 필수 안전 장치 요구</p></div>`,
+      tags: ["drone","explosion","Black Sea","electronic warfare","port damage"],
+      link: "https://defence-blog.com/ukraine-confirms-its-jammed-drone-caused-the-constanta-port-explosion/",
+      coords: [28.6579,44.1829],
+      location: "Constanța, Romania"
+    },
+    {
+      type: "news",
+      title: "Jack-up rig Admarine 502 contracted for six-well drilling campaign at Mako gas field in West Natuna Sea",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-06-05",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2025/05/ades-international-rigs-1.jpg?image-crop-positioner-ts=1747720364",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Conrad Asia Energy의 자회사 WNEL이 인도네시아 West Natuna Sea의 Duyung PSC 개발을 위해 Admarine 502 jack-up 장비를 확보했으며, 이는 Mako 가스전 개발의 중요한 진전을 의미함</p><p>• Pertamina Drilling Services Indonesia(PDSI-ADES 컨소시엄)와 180일 기간의 구속력 있는 계약 체결, 2027년 2분기부터 6개 개발정(development well) 시추 및 지원 프레임 설치 예정</p><p>• Mako 프로젝트는 총 3억 2천만 달러의 초기 개발자본을 투입하여 2027년 2분기 시추 개시, 2028년경 본격 생산을 목표로 수립</p><p>• 시추된 가스는 약 59km의 18인치 파이프라인을 통해 인접한 Kakap PSC의 KF 플랫폼으로 운송되며, 최종적으로 WNTS 파이프라인을 거쳐 인도네시아 국내 시장에 공급</p><p>• 향후 운영비용은 파이프라인 운송비 포함하여 연간 7천만~8천만 달러 수준으로 추정</p><h3>Key Quotes</h3><p>• "A binding rig contract is not a plan – it is a commitment, and it signals to the market that the Mako Gas Field is moving to drill." (구속력 있는 장비 계약은 단순 계획이 아니라 실질적 약속이며, Mako 가스전이 본격적으로 시추 단계로 진입함을 시장에 신호하는 것)</p><p>• "This agreement represents a critical milestone for the Duyung PSC JV as we advance toward drilling at Mako." (이 계약은 Mako 시추 추진을 위한 Duyung PSC JV의 중요한 마일스톤을 나타냄)</p><h3>Technical Insights</h3><p>• Jack-up 리그의 계약은 동남아시아 심해 가스전 개발에 있어 고정비용 증감과 프로젝트 실행 타이밍을 결정하는 핵심 요소로, 초기 자본투자 계획의 실현 가능성을 증명함</p><p>• 인도네시아 국내 가스 시장과 기존 WNTS 파이프라인 인프라의 활용은 새로운 가스전 개발의 경제성을 크게 향상시키며, 지역 에너지 공급 안정화에 기여하는 산업적 의의가 있음</p><p>• 모바일 해상 생산 플랫폼(MOPU) 임차 방식 채택으로 초기 자본투자 규모를 3억 2천만 달러 수준으로 통제하면서도 효율적인 가스전 개발이 가능함을 보여줌</p></div>`,
+      tags: ["Jack-up rig","Gas field development","Southeast Asia","Indonesia"],
+      link: "https://www.offshore-energy.biz/jack-up-rig-picked-for-six-well-drilling-campaign-in-southeast-asia/",
+      coords: [106.5,3.5],
+      location: "West Natuna Sea, Indonesia"
+    },
+    {
+      type: "news",
+      title: "Mermaid Maritime establishes Singapore JV to reactivate offshore support vessel",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-06-05",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/06/Mermaid-Maritime-sets-up-joint-venture-in-Singapore-to-reactivate-existing-vessel.png?image-crop-positioner-ts=1780661178",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 태국 해양회사 Mermaid Maritime이 중국 DS Global Offshore Engineering과 싱가포르에서 합작회사(DS Mermaid Pte. Ltd.) 설립<br>• 1987년식 해양지원선박 Mermaid Commander의 재가동 및 상용화 목표, DS Global이 수리비 전액 부담<br>• Mermaid Subsea Services가 선박 50% 현물출자, DS Global이 선박 재가동/수리/선박관리 서비스로 50% 지분 보유<br>• 재가동 완료 후 DS Mermaid Commander로 명칭 변경 예정<br>• 합작회사는 선박관리 및 해양에너지 시장 진출에 중점</p><h3>Key Quotes</h3><p>• "Under the arrangement, DS Global will undertake and fund the reactivation and repair work." (DS Global이 선박 재가동 및 수리 작업을 주도하고 자금을 제공한다는 의미)</p><p>• "The joint venture's primary activity will be to engage in ship management and the vessel's commercial development, with a primary strategic focus on entering the offshore maritime market." (합작회사는 선박관리와 상용화에 집중하며 해양에너지 시장 진출을 전략적 목표로 삼음)</p><h3>Technical Insights</h3><p>• **선박 자산 활용 전략**: 40년 이상 된 기존 선박의 재가동을 통해 해양에너지 시장 수요 대응, 신조 선박 건조 대비 낮은 비용으로 빠른 시장 진입 가능</p><p>• **국제 조선 협력**: 태국 회사와 중국 회사의 싱가포르 거점 합작으로 동남아 해양 서비스 사업 확대, 싱가포르의 글로벌 해양 허브로서의 역할 강화</p><p>• **선박관리 표준화**: 재가동된 선박의 COLREG 및 국제 해양규칙 준수, 현대적 선박관리 시스템 도입으로 운영 효율성 극대화</p></div>`,
+      tags: ["Joint Venture","Offshore Support Vessel","Ship Reactivation","Subsea Services"],
+      link: "https://www.offshore-energy.biz/mermaid-maritime-sets-up-joint-venture-in-singapore-to-reactivate-existing-vessel/",
+      coords: [103.8198,1.3521],
+      location: "Singapore"
+    }
+  ]
+});
