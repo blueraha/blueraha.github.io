@@ -8507,3 +8507,71 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-05
+addEvents({
+  "2026-06-05": [
+    {
+      type: "news",
+      title: "Seaspan and Hapag-Lloyd Complete First Methanol Retrofit of Five-Vessel Program",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-06-05",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/06/First-of-five-methanol-retrofits-completed-under-Seaspan-and-Hapag-Lloyds-collab.jpg?image-crop-positioner-ts=1780652987",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Seaspan Corporation와 Hapag-Lloyd가 추진하는 5척 메탄올 개조 프로젝트 중 첫 번째 선박(Seaspan Yangtze) 완성<br>• 저탄소 메탄올 연료 사용 시 선박당 연간 약 30,000~50,000톤의 CO2e 배출량 감축 예상<br>• SAVER 프로그램과 CleanBlue 이니셔티브를 통해 기존 선박의 연료 유연성 확대 및 선박 수명 연장<br>• 남은 4척(Amazon, Ganges, Thames, Zambezi)은 계획대로 개조 진행 예정<br>• 해운업계의 2045년 탄소중립 목표 달성을 위한 실질적이고 경제적인 감축 방안 제시</p><h3>Key Quotes</h3><p>• "The successful conversion of the Seaspan Yangtze together with the planned retrofit of its four sister vessels is another important step on our ambitious path towards net-zero fleet operations by 2045" (Seaspan Yangtze의 성공적 개조와 4척 자매선의 계획된 개조는 2045년 탄소중립 함대 운영을 향한 야심찬 노력의 중요한 진전)</p><p>• "Retrofitting and upgrades on existing fleets play a practical, immediate, and economical role in accelerating shipping's decarbonization journey" (기존 함대의 개조와 업그레이드는 해운산업의 감축 여정을 가속화하는 실질적이고 즉각적이며 경제적인 역할을 수행)</p><h3>Technical Insights</h3><p>• 메탄올 연료 전환을 통한 해운산업의 급진적 탄소중립 전환: 신규 건조보다 기존 선박 개조가 단기 감축의 경제적 핵심 전략<br>• WattSpan Maritime Technology 등 JV 파트너사와의 통합으로 복잡한 대규모 개조 프로젝트 실행 역량 강화<br>• IMO 2050 탄소중립 목표 달성을 위한 저탄소/무탄소 연료 기술 도입의 실현 가능성 입증으로 산업 신뢰도 제고</p></div>`,
+      tags: ["methanol retrofit","decarbonization","Seaspan","Hapag-Lloyd","emission reduction"],
+      link: "https://www.offshore-energy.biz/first-of-five-methanol-retrofits-completed-under-seaspan-and-hapag-lloyds-collab/",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "SBM Offshore sells 45% stake in Gulf of Mexico FSO Chalchi to NYK",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-06-05",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2025/04/woodsidetrion.jpg?image-crop-positioner-ts=1743500694",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• SBM Offshore가 멕시코만 FSO Chalchi 프로젝트에서 45% 지분을 일본 해운사 NYK(일본선박)에 매각하기로 합의<br>• SBM Offshore는 55% 지분 유지로 계속 주도권 확보, NYK는 FSO 운영 및 리스 관련 특수목적회사에 참여<br>• FSO Chalchi는 Suezmax급 선체 기반으로 건조 중이며, 2,500m 수심에 정박되어 95만 배럴 원유 저장 가능<br>• Woodside Energy가 20년간 리스·운영 계약으로 운영하며, Trion 유전(멕시코 해안 180km 떨어진 위치)에 배치 예정<br>• Trion 유전은 Woodside(60% 운영)와 멕시코 국영석유회사 Pemex(40%)의 합작사업<br>• 계약 체결 조건 및 필요한 인허가 승인이 최종 선행요건으로 남아있음</p><h3>Key Quotes</h3><p>• "The Dutch firm will remain the majority shareholder with a 55% ownership interest" (SBM Offshore는 55% 지분으로 지분 다수 주주 지위 유지)<br>• "The FSO will be moored in water depth of about 2,500 meters and will be able to store around 950,000 barrels of crude oil" (FSO는 약 2,500m 수심에 정박되어 약 95만 배럴의 원유 저장 능력 보유)<br>• "This project is a joint venture between Woodside (60%, operator) and Petróleos Mexicanos (Pemex, 40%)" (Trion 유전은 Woodside(60%, 운영사)와 멕시코 국영석유(40%)의 합작사업)</p><h3>Technical Insights</h3><p>• FSO(부유식 저장하역설비)의 국제적 산업 협력 강화 - SBM Offshore의 설계·건조 기술과 NYK의 장기 운영 경험 결합으로 프로젝트 리스크 분산 및 운영 효율성 극대화<br>• 심해 석유 개발의 필요성 증대 - 2,500m 수심에서의 정박 시스템(disconnectable turret mooring)은 IMO 기준을 충족하는 고난이도 해양기술로, 자동화 및 원격 모니터링 기술 적용 가능성 높음<br>• 멕시코 에너지 정책 변화와 국제 해운업의 역할 - Pemex와 Woodside의 합작 구조에서 국제 해운사(NYK)의 참여는 기술 이전 및 운영 표준화를 통한 메이저 프로젝트의 글로벌화 추세 반영<br>• 장기 리스 계약(20년)을 통한 안정적 운영 모델 - 불확실한 유가 환경에서 FSO 운영비용의 예측 가능성 강화로 해양 자산 관리의 새로운 비즈니스 방식 확립</p></div>`,
+      tags: ["FSO","Gulf of Mexico","SBM Offshore","NYK","Offshore Facilities"],
+      link: "https://www.offshore-energy.biz/sbm-offshore-shedding-partial-stake-in-gulf-of-mexico-bound-fso/",
+      coords: [-94.5,24.5],
+      location: "Gulf of Mexico (Trion Field)"
+    },
+    {
+      type: "news",
+      title: "Canada's $4B Cedar LNG FLNG Unit Launched at Samsung Heavy Industries",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-06-05",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/06/Cedar-FLNG-is-being-built-at-Samsung-Heavy-Industries-Geoje-shipyard-Source-SHI.jpg?image-crop-positioner-ts=1780669334",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 삼성중공업이 캐나다 Cedar LNG 프로젝트의 부유식 LNG(FLNG) 장치인 Megúgu 유닛 진수식 개최<br>• 40,000톤급 규모로 2028년 상반기 완공 예정이며 캐나다 영토 키티맷 인근 해상 배치 계획<br>• Haisla Nation 주도의 프로젝트로 세계 최초 원주민 다수 소유 LNG 시설이며 BC주 수력발전 전력으로 운영<br>• 초저탄소 LNG 생산으로 아시아의 고배출 에너지 대체 가능성 보유<br>• 삼성중공업은 현재 캐나다, 말레이시아, 이탈리아 프로젝트용 3개 FLNG 동시 건조 중</p><h3>Key Quotes</h3><br>• "The successful launch of the Cedar FLNG and the world's first simultaneous construction of three FLNG units are the result of Samsung Heavy Industries' smart shipyard innovation." (삼성중공업의 스마트 조선소 혁신 기술이 세계 최초의 3개 FLNG 동시 건조 성공을 가능하게 함)<br>• "We will respond to the era of mass production in FLNG by advancing our future-oriented smart shipyard." (미래지향적 스마트 조선소 고도화로 FLNG 대량생산 시대 대응)</p><h3>Technical Insights</h3><br>• FLNG 기술의 대규모 상용화 단계 진입으로 부유식 가스 처리 시설의 설계·건조 역량이 경쟁력 핵심으로 작용<br>• 재생에너지(수력발전) 기반 LNG 생산으로 탄소중립 해운·에너지 산업 전환에 부응하는 선박 플랫폼으로서의 가치 증대<br>• 원주민 주도의 에너지 자주권 확보 프로젝트로 ESG/지속가능성을 고려한 해양 에너지 인프라 개발 트렌드 반영<br>• 삼성중공업의 다중 FLNG 동시 건조는 조선 산업의 스마트팩토리 기술과 대형 해양 구조물 건조 최적화의 성숙도 입증</p></div>`,
+      tags: ["FLNG","LNG","Samsung Heavy Industries","Canada","Renewable Energy"],
+      link: "https://www.offshore-energy.biz/canadas-4b-hydro-powered-lng-project-advances-with-flng-launch-at-samsung-heavy-industries/",
+      coords: [-128.6,54.1],
+      location: "Kitimat, British Columbia, Canada"
+    },
+    {
+      type: "news",
+      title: "Hanwha Ocean Contracts GTT for LNG Carrier Tank Design",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-06-05",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/02/LNG-vessel-Source-GTT.jpg?image-crop-positioner-ts=1771505165",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• Hanwha Ocean가 프랑스 기술사 GTT로부터 새로운 LNG 운반선의 크라이오제닉 탱크 설계 용역 수주<br>• 174,000입방미터 용량의 NO96 Super+ 멤브레인 격납 시스템 적용<br>• 미공개 유럽 선주를 대상으로 2029년 3분기 납품 예정<br>• GTT는 HD KSOE, Hanwha Ocean과 최근 다수의 LNG 운반선 탱크 설계 계약 체결<br>• 한국 조선산업의 고부가가치 LNG 운반선 건조 수주 지속적 확대</p><h3>Key Quotes</h3><p>• "GTT received an order from Hanwha Ocean in the second quarter of 2026 for the tank design of one new LNG carrier on behalf of an undisclosed European shipowner." (Hanwha Ocean이 미공개 유럽 선주를 대신하여 2026년 2분기에 새로운 LNG 운반선의 탱크 설계를 GTT에 발주함)</p><p>• "The tanks will be fitted with the firm's NO96 Super+ membrane containment system." (탱크는 GTT의 NO96 Super+ 멤브레인 격납 시스템으로 장착됨)</p><h3>Technical Insights</h3><p>• LNG 운반선의 극저온 탱크 설계는 고도의 기술력과 안전성이 요구되는 핵심 장비로, 전문화된 기술 용역사(GTT)의 역할이 증대되고 있음</p><p>• 174,000cbm 급 초대형 LNG 운반선은 글로벌 에너지 안보 및 탈탄소화 추세에 따른 수소·암모니아 연료 전환의 기반이 되는 핵심 해운자산</p><p>• NO96 Super+ 고도화된 멤브레인 기술은 운송 효율성, 안전성, 규제 준수(IMO SOLAS, IGC Code)를 동시에 만족하는 차세대 표준 기술</p><p>• 한국 조선소의 지속적인 고급 LNG 운반선 수주는 조선 산업의 기술 경쟁력 강화 및 글로벌 에너지 전환 주도권 확보의 증거</p></div>`,
+      tags: ["LNG Carrier","Tank Design","GTT","Hanwha Ocean","Shipping Technology"],
+      link: "https://www.offshore-energy.biz/hanwha-ocean-taps-gtt-for-lng-carrier-tank-design/",
+      coords: [37.5665,126.978],
+      location: "South Korea"
+    },
+    {
+      type: "news",
+      title: "Finnish Police Suspect Four People in Subsea Cable Breach in Baltic Sea",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-05",
+      image: "https://images.marinelink.com/images/maritime/w800/credit-adobe-171201.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 핀란드 경찰이 발틱해 해저 통신케이블 손상 사건과 관련하여 4명을 용의자로 지목했으며, 검사가 기소 여부를 결정할 예정<br>• 러시아에서 이스라엘로 향하던 Fitburg 화물선이 2025년 12월 31일 체포되었으며, 헬싱키에서 에스토니아로 연결되는 케이블 손상 혐의를 받음<br>• 수사 혐의 내용: 중대한 형사 손괴, 미수 중대 손괴, 중대한 통신 방해 등 3가지 범죄<br>• 용의자 4명 중 3명이 여행 금지 명령을 받은 상태<br>• 러시아의 우크라이나 침략 이후 2022년부터 발틱해 지역에서 전력 케이블, 통신 링크, 가스 파이프라인 손상 사건이 지속적으로 발생<br>• NATO가 프리깃, 항공기, 해상 드론으로 군사 주둔을 강화하고 발틱해 지역에 고도의 경계 태세 유지 중</p><h3>Key Quotes</h3><br>• "The investigation concluded with four suspects, three of whom remain subject to a travel ban" (수사 결과 4명의 용의자가 지목되었으며, 이 중 3명이 여행 금지 명령을 받은 상태)<br>• "The Baltic Sea region is on high alert after a string of power cable, telecom link and gas pipeline outages since Russia invaded Ukraine in 2022" (러시아의 우크라이나 침략 이후 발틱해 지역에서 전력 케이블, 통신 링크, 가스 파이프라인 손상이 계속되면서 고도의 경계 태세 유지)</p><h3>Technical Insights</h3><br>• 해저 통신 인프라에 대한 의도적 손상은 해양 보안의 새로운 위협으로 부상하고 있으며, 국제 해상법 및 UNCLOS 하에서 정의된 영해 내 범죄로 규정되어야 함<br>• 발틱해의 반복적인 해저 케이블/파이프라인 손상 사건은 전략적 해역의 중요 인프라 보호를 위한 IMO 및 NATO의 조율된 대응 필요성을 제시<br>• 상선(화물선)이 수로 측정 기술 또는 마그네틱 앵커 드래깅을 통해 해저 케이블을 손상시킬 수 있으며, 항해 보안 강화 및 영해 감시 체계 개선이 필수적<br>• 이 사건은 국가 간 긴장 속에서 핵심 해양 인프라에 대한 사이버-물리적 공격의 증가 추세를 반영하며, 해운 산업의 보안 프로토콜 개정 필요성 강조</p></div>`,
+      tags: ["Subsea Cable Damage","Baltic Sea","Criminal Investigation","Finland","Telecommunications Infrastructure"],
+      link: "https://www.marinelink.com/news/finnish-police-suspect-four-people-subsea-540009",
+      coords: [25.7482,60.1695],
+      location: "Gulf of Finland, Baltic Sea"
+    }
+  ]
+});
