@@ -8575,3 +8575,65 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-05
+addEvents({
+  "2026-06-05": [
+    {
+      type: "accident",
+      title: "Maritime Drone Self-Detonates in Constanta Port, Romania",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-05",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockmilan-171200.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 2026년 6월 5일 루마니아 콘스탄차 항구(흑해)에서 우크라이나 해군 드론이 러시아 전자전 교란으로 인해 통제를 잃고 자폭 - 인명피해 없음</p><p>• **관련 당사자**: 우크라이나 해군, 러시아(전자전 교란 혐의), 루마니아 국방부 및 해군, EU</p><p>• **사건 영향**: 1,000명 이상 해변 대피, 항구 일시 폐쇄, 선박 및 헬리콥터 수색 작업 - 추가 드론 미발견 후 제한 해제</p><p>• **지역 안보 위협**: NATO 동부 진영의 루마니아 국경 근처에서 1주일 내 드론 관련 2건 사건 발생, 러시아 드론 및 기뢰의 반복적인 침입 증가</p><p>• **국제 정치적 반응**: EU 집행위원장 폰더라이엔, 우크라이나 외무부 대변인이 러시아의 전쟁이 지역 전체의 위협이 됨을 강조</p><p>• **해상 무역 영향**: 콘스탄차항(156개 선석, 32km 부두)은 루마니아 최대 항구로 우크라이나의 곡물 수출 및 연료 수입 대체 경로 역할</p><h3>Key Quotes</h3><p>• "This incident shows once again that Russia's ongoing full-scale aggression poses a threat not only to Ukraine, but to the entire region" (러시아의 지속적인 전면 침략이 우크라이나뿐만 아니라 지역 전체에 위협이 된다는 것을 보여줌)</p><p>• "Ukraine's navy said one of its naval drones lost control while on a mission in the Black Sea, as a result of Russian electronic warfare, and drifted towards the coast." (우크라이나 해군이 러시아 전자전으로 인해 해상 드론이 통제를 잃고 해안으로 표류했다고 주장)</p><p>• "The Black Sea is crucial for shipments of grain, oil and oil products and is shared by Bulgaria, Romania, Georgia and Turkey, as well as Ukraine and Russia." (흑해는 곡물, 석유 및 석유 제품 수송에 중요하며 다국적 공유 해역)</p><h3>Technical Insights</h3><p>• **해상 무인장비 보안**: 드론 및 해상 무인시스템의 전자전 교란 취약성 증대 - 항구 보안 및 수로 감시 체계 강화 필요</p><p>• **IMO/COLREG 적용 한계**: 군사용 드론 및 기뢰 같은 불규칙 위협에 대해 기존 해상교통 규칙의 적용 불가 - 새로운 해상 보안 프레임워크 필요</p><p>• **자율항해 및 해상안전**: 현재 전쟁 지역의 전자전 환경에서 자율항해 시스템 운영 불가능 - 흑해 상용 항해 위험도 급증, 보험료 및 우회 항로 비용 증가</p><p>• **국제해사기구 대응**: NATO 동부 해역의 지속적 군사 위협에 대응하는 해상 교통 안전 지침 및 위기 관리 프로토콜 개발 시급</p></div>`,
+      tags: ["Maritime Drone","Black Sea","Ukraine-Russia Conflict","Port Security"],
+      link: "https://www.marinelink.com/news/maritime-drone-selfdetonates-constanta-540008",
+      coords: [28.66,44.18],
+      location: "Constanta Port, Romania (Black Sea)"
+    },
+    {
+      type: "news",
+      title: "DNV Approves HHI's Type B VLGC Tank Design for LPG Carriers",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-05",
+      image: "https://images.marinelink.com/images/maritime/w800/credit-171197.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• DNV가 현대중공업(HHI)의 90,000입방미터 독립형 Type B LPG화물탱크 설계에 대해 원칙적 승인(AiP)을 부여했으며, 초대형 가스운반선(VLGC)의 안전성과 유지보수 접근성 향상을 목표로 함</p><p>• HHI의 설계는 균열 전파 및 피로 분석을 포함하며, Type A 탱크의 일반적인 좌굴 및 슬로싱 평가를 초과하는 고급 구조 신뢰성 기술을 적용</p><p>• 부분적 2차 방벽(누수 경로), 4개의 전용 드립 트레이, 그리고 용접 영역 위의 스프레이 실드를 통해 선체 구조 보호 및 누수 방지 기능 강화</p><p>• 설계 단계에서 내부 선체 재료 선택의 유연성을 제공하여 선박 건조 효율성 및 비용 최적화 개선</p><p>• Type B 탱크 도입으로 LPG 운반선의 운영 안전성, 유지보수성, 그리고 설계 적응성이 향상되어 차세대 가스운반선 시장에서 경쟁력 강화</p><h3>Key Quotes</h3><p>• "With our first LPG carrier design incorporating an independent Type B cargo tank, we are advancing safer and more adaptable gas carrier solutions. DNV's AiP builds confidence as we move toward practical application," (독립형 Type B 화물탱크를 채용한 첫 LPG 운반선 설계로 더 안전하고 적응 가능한 가스운반선 솔루션을 개발하고 있으며, DNV의 승인은 실제 적용을 향해 나아가는 데 신뢰성을 구축한다는 의미)</p><p>• "The use of Type B tanks in VLGCs is intended to improve operational safety and maintenance accessibility throughout a vessel's service life, while providing greater flexibility in the selection of inner hull materials during the design stage." (Type B 탱크는 선박의 전체 운영 수명 동안 안전성과 유지보수 접근성을 향상시키면서 동시에 설계 단계에서 내부 선체 재료 선택에 대한 더 큰 유연성을 제공)</p><h3>Technical Insights</h3><p>• **Type B 탱크 기술의 차별성**: Type A 탱크 대비 균열 전파 분석, 피로 평가 등 고급 구조 해석 기법을 도입하여 극한 운항 환경에서의 장기 구조 신뢰성 확보</p><p>• **IMO SOLAS 국제 규정 준수**: DNV의 Approval in Principle은 국제해사기구(IMO) 및 선급 규정 준수를 확인하는 것으로, 글로벌 LPG 운반선 시장에서의 상업화 가능성 증대</p><p>• **안전성 강화 및 2차 방벽 시스템**: 부분적 2차 방벽과 다중 드립 트레이 설계를 통해 극단적 누수 상황에서도 환경 오염 및 화재/폭발 위험을 최소화하는 과학적 안전 설계 철학 체현</p><p>• **산업 경쟁력 강화**: HHI의 독립형 Type B 탱크 설계 승인은 한국 조선산업의 고부가가치 LPG 운반선 기술력을 입증하며, 향후 친환경 해운 전환 시대에서 경쟁 우위 확보에 기여</p></div>`,
+      tags: ["LPG Carriers","Tank Design","DNV Approval","HHI","VLGC","Type B Containment"],
+      link: "https://www.marinelink.com/news/dnv-greenlights-hhis-type-b-vlgc-tank-540004",
+      coords: [127.0069,37.2656],
+      location: "South Korea (HHI Headquarters)"
+    },
+    {
+      type: "news",
+      title: "Oil Prices Decline as Oman Confirms Normal Operations at Mina al Fahal Terminal",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-05",
+      image: "https://images.marinelink.com/images/maritime/w800/illustration-denys-171193.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 오만의 미나 알 파할(Mina al Fahal) 터미널이 폭발 사건 이후에도 정상 운영 중임을 확인하여 유가가 소폭 하락<br>• 페트롤륨 디벨로프먼트 오만(Petroleum Development Oman)은 매일 80만~90만 배럴의 원유를 수출하는 주요 터미널 운영사<br>• 브렌트유는 배럴당 $94.79로 0.25% 하락, WTI는 $92.48로 0.6% 하락했으나 주간 기준으로는 상승세 지속<br>• 중동 분쟁 장기화와 호르무즈 해협 교통 제약으로 유가 변동성이 높은 상황으로, 전문가들은 상방 리스크에 주목<br>• 이란 해상 봉쇄로 이란산 원유 수출이 6년 최저 수준이며, 중국의 약한 수요가 유가 하락 압력으로 작용</p><h3>Key Quotes</h3><p>• "Any optimism remains heavily clouded by a tangled web of headlines and counter-headlines" (긍정적 신호가 여러 모순된 뉴스로 인해 큰 불확실성 속에 있다는 의미)<br>• "As long as (WTI) crude oil remains above trendline support in the low $80s, the risks remain skewed to the upside" (WTI유가가 저점대 $80선을 유지하는 한 상승 압력이 지배적이라는 기술적 전망)</p><h3>Technical Insights</h3><p>• 호르무즈 해협 통과 물동량의 제한으로 글로벌 에너지 공급망 리스크가 증대되고 있으며, 이는 해상 운송(Oil Tanker) 운영사에 직접적인 영향을 미치는 중요한 지정학적 요소<br>• OPEC이 올해 석유 수요 증가를 일일 120만 배럴로 유지하고 있으나, 중동 분쟁 지속과 공급 차질 우려로 인해 3분기 재고 부족 시나리오가 대두되는 중<br>• 터미널 폭발 사건 이후에도 신속한 운영 정상화 확인으로 해상 에너지 운송의 연속성과 공급망 복원력(Supply Chain Resilience)이 강화되는 시장 신호로 해석됨</p></div>`,
+      tags: ["Oil Markets","Mina al Fahal","Oman","Energy Shipping","Middle East Geopolitics"],
+      link: "https://www.marinelink.com/news/oil-slips-oman-reports-normal-operations-539999",
+      coords: [58.5921,22.7693],
+      location: "Mina al Fahal, Oman"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-06
+addEvents({
+  "2026-06-06": [
+    {
+      type: "news",
+      title: "US Forces Counter IRGC Attacks in Strait of Hormuz; New Shipping Route Strategy Emerges",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-06-06",
+      image: "https://maritime-executive.com/media/images/article/Apache-rocket-strafing-run-May-2026-US-Army.2d6126.webp",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이란혁명수비군(IRGC)이 6월 6일 호르무즈 해협에서 택시를 받지 않은 4척의 탱커를 공격했으며, 미국 중부사령부(CENTCOM)는 대응으로 공격용 드론 4대를 격추하고 해안 감시 시설을 파괴함<br>• 미국 해군이 직접 호위 작전(Operation Project Freedom)을 중단한 대신, 공중 감시 자산을 활용하여 해상 교통로를 모니터링하고 선박 운영자에게 안전 경로 정보를 제공하는 전략으로 전환<br>• 오만 영해를 따라 남쪽 경로를 이용하는 약 4척/일의 선박이 조심스럽게 통제되고 있으며, 자율 기뢰 제거 장비가 배치되었을 가능성<br>• CENTCOM의 공중 감시 능력으로 IRGC 위협 요소를 지속적으로 감시하고 신속하게 대응하는 체계 구축<br>• 호르무즈 해협의 자유로운 통행 보장을 위한 오만의 중립적 입장이 새로운 해상 통행 전략의 기반이 됨</p><h3>Key Quotes</h3><p>• "CENTCOM is able to do this without having manned vessels on the water in the strait, principally using airborne surveillance assets." (CENTCOM은 항공 감시 자산을 주로 활용하여 해협에 유인 선박을 배치하지 않고도 이러한 작업을 수행할 수 있다)</p><p>• "The activity may not be directly supported by Oman, but permitted under its insistence that there should be free and unrestricted transit use of the strait for innocent passage." (이러한 활동이 오만의 직접 지원을 받지는 않을 수 있지만, 해협의 자유로운 통행 보장에 대한 오만의 주장 하에 허용되는 것으로 보인다)</p><h3>Technical Insights</h3><p>• **자율 기뢰 제거 장비의 활용**: CENTCOM이 오만 영해를 통한 안전한 해상 통로 확보를 위해 자율 기뢰 제거 장비를 배치했을 가능성이 있으며, 이는 자율 해상 로봇 기술의 실전 운용 사례에 해당<br>• **공중 감시 자산의 해양 안보 역할**: 유인 선박의 직접 호위 없이 항공 감시 자산만으로 해협 통행 보안을 유지하는 방식은 향후 자율 감시 시스템과의 통합 가능성을 시사<br>• **국제해사기구(IMO) 안전 규정과 분쟁 지역 통행**: 호르무즈 해협과 같은 분쟁 지역에서의 무고한 통행(Innocent Passage)에 관한 국제법 적용과 자동화된 해상 교통 관리 시스템의 필요성 증대<br>• **선택적 선박 운영 체계**: 특정 국적 선박만 참여하도록 제한하는 운영 방식은 향후 자율선박의 해협 통행 시 국가별 정보 공유 및 신뢰 기반 시스템 구축의 중요성을 반영</p></div>`,
+      tags: ["Strait of Hormuz","IRGC","CENTCOM","Maritime Security","Shipping Routes"],
+      link: "https://maritime-executive.com/article/braving-the-dangers-in-the-strait-of-hormuz",
+      coords: [56.5,26.5],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
