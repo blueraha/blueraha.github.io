@@ -8637,3 +8637,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-06
+addEvents({
+  "2026-06-06": [
+    {
+      type: "accident",
+      title: "Russian Forces Attack Ukrainian Rescue Vessels in Black Sea, Causing Injuries",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-06-07",
+      image: "https://gcaptain.com/wp-content/uploads/2014/09/1024px-Pauk_1_BG52_Balaklava.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 우크라이나 해양 구조 서비스 소속 2척의 민간 구조선이 러시아군의 공격을 받아 인명 피해 발생<br>• 알렉시 쿨레바 우크라이나 부총리가 텔레그램을 통해 공격 사실 발표<br>• 피격 선박들은 루마니아 항으로 향하는 우크라이나 해상 회랑(Black Sea Corridor) 내에서 인도주의 활동 수행 중이었음<br>• 현재 우크라이나 해군 보트에 의한 인명 구조 작업이 진행 중<br>• 흑해 지역 민간 선박에 대한 군사적 공격 사건으로 국제 해사법상 중대 위반에 해당</p><h3>Key Quotes</h3><p>• "The enemy launched strikes on two boats of the maritime search and rescue service which were carrying out a humanitarian mission within the Ukrainian sea corridor" (적군이 우크라이나 해상 회랑 내에서 인도주의 활동을 수행 중인 2척의 해양 구조선을 공격했다)</p><p>• "Unfortunately, there are injured. Evacuation by boats of the Ukrainian navy is currently underway." (불행히도 부상자가 있으며, 현재 우크라이나 해군 보트에 의한 구조 작업이 진행 중이다)</p><h3>Technical Insights</h3><p>• **UNCLOS 및 국제 해사법 위반**: 민간 구조선은 국제법상 보호받는 선박으로, 무장 분쟁 중에도 인도주의적 활동 수행 시 공격 대상이 되어서는 안 됨<br>• **흑해 해상 회랑의 안전 위협**: 곡물 운송 및 인도주의 물자 수송 경로로 지정된 우크라이나 해상 회랑의 실질적 안전성 악화로 국제 해상 운송 질서 붕괴<br>• **민간 해운 산업에 미치는 영향**: 흑해 지역 민간 선박의 운영 위험도 급증으로 해운사 보험료 상승 및 선박 운항 기피 현상 심화<br>• **국제 해사 기구(IMO)의 대응 필요성**: 무장 분쟁 지역 민간 선박 안전 보호를 위한 국제적 합의 및 감시 메커니즘 강화 필요</p></div>`,
+      tags: ["Black Sea","Ukraine-Russia Conflict","Search and Rescue","Maritime Attack","Humanitarian Mission"],
+      link: "https://gcaptain.com/russian-forces-attack-rescue-vessels-in-ukrainian-waters-causing-injuries/",
+      coords: [35.5,43.5],
+      location: "Black Sea (Ukrainian Waters)"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-05
+addEvents({
+  "2026-06-05": [
+    {
+      type: "accident",
+      title: "Container Ship Golden Star 1 Sinks Off Batam, Indonesia",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-07",
+      image: "https://images.marinelink.com/images/maritime/w800/paola-adobe-171215.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 탄자니아 국적의 컨테이너선 Golden Star 1이 2026년 6월 5일 인도네시아 바탐 인근 약 6km 지점에서 침몰<br>• 선박이 침수되어 침몰했으며, 승선원 9명 전원이 인도네시아 당국에 의해 안전하게 구조됨<br>• 싱가포르 해사항만청(MPA)이 항행 경보를 발령하여 해당 해역 통과 선박들에 주의 권고 및 표류 컨테이너 목격 보고 요청<br>• 선박 침몰의 구체적인 원인은 아직 조사 진행 중<br>• 대량의 컨테이너 적재 물품이 해상에 표류할 가능성으로 인한 해상 교통 안전 위험 증가</p><h3>Key Quotes</h3><p>• "The vessel reportedly took on water and subsequently sank" (선박이 침수되어 침몰했다)<br>• "All nine crew members were safely rescued by the Indonesian authorities" (모든 선원 9명이 인도네시아 당국에 의해 안전하게 구조되었다)</p><h3>Technical Insights</h3><p>• 선박 침수 및 침몰 사고에 대한 신속한 해상 교통 경보 체계의 중요성 - 싱가포르 MPA의 즉각적인 항행 경보 발령으로 2차 사고 예방 기여<br>• 컨테이너선 침몰로 인한 대량의 표류 물품이 해상 교통 통로를 교란할 수 있으며, 수색구조(SAR) 자산 배치 및 항로 변경 필요성 증대<br>• 동남아시아 주요 해상 통로인 말라카 해협 인근 해역의 해상 안전 관리 강화 필요 - 선박 검사 및 유지보수 기준 준수 감시 필수<br>• 국제 해사 안전 규정(SOLAS, MARPOL) 준수 및 선박 상태 점검 체계의 강화로 유사 사고 예방 필요</p></div>`,
+      tags: ["Container Ship","Sinking","Batam","Indonesia","Crew Rescue"],
+      link: "https://www.marinelink.com/news/container-ship-sinks-off-batam-540024",
+      coords: [104.0131,1.1892],
+      location: "Batam, Indonesia"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-08
+addEvents({
+  "2026-06-08": [
+    {
+      type: "news",
+      title: "Van Oord's subsea rock installation vessels to be equipped with TMC's compressed air systems",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-06-08",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/06/Subsea-rock-installation-vessels_illustration-credit-Van-Oord.jpg?image-crop-positioner-ts=1780909188",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• TMC(노르웨이 압축공기 시스템 제조업체)가 네덜란드 해양 계약업체 Van Oord의 수심 암반 설치 선박 2척에 해양 압축공기 시스템을 공급하는 계약 체결</p><p>• Van Oord의 신규 선박은 35,000톤의 적재 용량과 DP-2 동적 위치 유지 시스템을 갖추어 해상풍력 프로젝트 등 에너지 전환에 기여할 것으로 예상</p><p>• Yantai CIMC Raffles Offshore가 건조 중인 선박들은 다중연료 엔진, DC 그리드, 대용량 배터리 저장 시스템 등 친환경 설계 적용</p><p>• 압축공기 시스템은 높은 신뢰성과 원양 장거리 프로젝트 운영에 적합한 선상 유지보수 용이성이 특징</p><p>• 이 계약은 TMC가 COSCO Shipping Heavy Industry와 체결한 FSO 챌치 프로젝트 이후 연이은 성과</p><h3>Key Quotes</h3><p>• "It is always fun and interesting to equip innovative and unique vessels such as these two. They can play an important role in facilitating the energy transition through enabling, amongst other things, offshore wind projects." <br>(혁신적이고 독특한 선박들을 장비하는 것이 흥미롭고 재미있으며, 해상풍력 프로젝트 등을 통해 에너지 전환에 중요한 역할을 할 수 있다)</p><p>• "Our marine compressed air systems are highly reliable and designed so that the vessel crew can maintain the compressors themselves, also while at sea. We believe this is the ideal solution for a vessel that is designed to manage long-distance projects."<br>(당사의 해양 압축공기 시스템은 매우 신뢰성이 높으며 선원들이 해상에서도 자체적으로 압축기를 유지보수할 수 있도록 설계되어 있다)</p><h3>Technical Insights</h3><p>• DP-2 동적 위치 유지 시스템은 파도, 바람, 해류 등 악조건에서도 정밀한 위치 유지를 가능하게 하며, 장거리 프로젝트 효율성과 배출 감소를 실현</p><p>• 다중연료 엔진(바이오연료, 메탄올)과 대용량 배터리 저장 시스템을 갖춘 DC 그리드는 해상풍력 등 재생에너지 인프라 구축 프로젝트의 친환경 운영을 지원</p><p>• TMC의 압축공기 시스템은 선상 자체 유지보수 설계로 장기 원양 운영 중 가용성과 신뢰성을 극대화하여 운영 비용 절감 실현</p><p>• 암반 설치 업체의 설비 고도화는 해상풍력, 해양 에너지 자산 보호 등 에너지 전환 시대의 해상 인프라 구축에서 중요한 역할을 담당하는 핵심 기술 경향</p></div>`,
+      tags: ["compressed air systems","subsea rock installation","Van Oord","offshore wind","marine technology"],
+      link: "https://www.offshore-energy.biz/van-oords-subsea-rock-installation-vessels-to-sport-tmcs-compressed-air-system/",
+      coords: [5.2913,52.1326],
+      location: "Netherlands"
+    }
+  ]
+});
