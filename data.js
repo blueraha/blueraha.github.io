@@ -8761,3 +8761,52 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-09
+addEvents({
+  "2026-06-09": [
+    {
+      type: "event",
+      title: "Bulgarian Shipbuilder MTG-Dolphin Unveils Proteus 36 MLC Medium USV at HEMUS 2026",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-06-09",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/06/Proteus-36-MLC-and-part-of-its-mission-modules.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• MTG-Dolphin(불가리아 조선소)가 HEMUS 2026 국방전시회에서 37미터 중형 무인 수상함정(MUSUS) 개념인 Proteus 36 MLC를 공개했으며, 이는 자율주행 및 AI 통합 기능을 갖춘 플랫폼으로 설계됨</p><p>• Proteus 36 MLC는 160톤급 고속 모듈식 플랫폼으로 기존 코르벳함의 전투력을 제공하며, 3D 레이더, 화력통제 레이더, 30mm CIWS 및 20피트 임무 모듈을 장착 가능</p><p>• 분산해양작전(DMO) 및 반접근/지역거부(A2/AD) 환경에서 대공전(AAW), 대함전(ASuW), 대잠전(ASW), 전자전(EW), 기뢰전(MW) 등 다양한 임무 수행 가능</p><p>• Naval Strike Missiles(NSM) 8발 이상의 고급 해군 시스템 통합 가능하며, 드론 방어 및 떼 공격(Swarm) 기술 지원</p><p>• 불가리아 대통령 Iliyana Yotova와 군사고문 Mitko Petev 해군중장이 공식 방문하여 함정의 운용 개념에 대한 상세 설명을 청취</p><p>• MTG-Dolphin은 35년 이상의 조선 경험을 보유한 NATO 표준의 복합 임무용 함정 건조 전문 조선소</p><h3>Key Quotes</h3><p>• "The Proteus 36 MLC is an autonomous-ready naval platform engineered to integrate seamlessly with advanced artificial intelligence, autonomous control systems, and swarm technologies"<br>(Proteus 36 MLC는 고급 인공지능, 자율주행 제어시스템, 떼 기술과 원활하게 통합되도록 설계된 자율주행 준비 완료된 해군 플랫폼임)</p><p>• "The strong interest demonstrated by leading Bulgarian Military officials and our international partners on the opening day of HEMUS 2026 confirms the relevance of this capability and validates our strategic vision for the future of naval warfare"<br>(불가리아 군 고위 관계자들과 국제 파트너들의 높은 관심도는 이 능력의 관련성을 확인해주며 향후 해전의 미래에 대한 우리의 전략적 비전을 검증함)</p><h3>Technical Insights</h3><p>• **자율주행 및 AI 통합**: Proteus 36 MLC는 인공지능, 자율주행 제어시스템, 떼 공격 기술의 통합을 위해 설계되어 유인함 선택지도 제공하며, 향후 해군 운용의 무인화 추세를 반영</p><p>• **모듈식 페이로드 아키텍처**: 20피트 컨테이너식 임무 모듈 탑재로 AAW, ASuW, ASW, EW, MW 등 다양한 작전을 단일 플랫폼에서 신속하게 전환 가능하며, 임무 효율성 극대화</p><p>• **DMO/A2/AD 환경 대응**: 분산해양작전과 반접근/지역거부 환경에서 소형 고속 플랫폼의 생존성과 화력을 통해 미래 해전의 비대칭 전투 개념 구현</p><p>• **NATO 표준 준수 및 국제 협력**: 불가리아 조선소의 NATO 표준 함정 건조 경험과 HEMUS 2026에서의 국제적 관심은 유럽 해군의 무인/자율주행 함정 협력 강화 추세를 시사</p></div>`,
+      tags: ["USV","Autonomous Vessels","Naval Technology","Defense Exhibition","HEMUS 2026"],
+      link: "https://www.navalnews.com/naval-news/2026/06/bulgarian-shipbuilder-reveals-new-medium-usv-concept/",
+      coords: [24.7502,42.1533],
+      location: "Plovdiv, Bulgaria"
+    },
+    {
+      type: "news",
+      title: "Japan considers AEW radar pod for MQ-9B SeaGuardian maritime patrol drones",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-06-09",
+      image: "https://www.navalnews.com/wp-content/uploads/2025/11/saab-will-demonstrate-aewc-mq9b.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 일본 해상자위대(JMSDF)가 미국의 MQ-9B SeaGuardian 무인항공기에 공중조기경보(AEW) 레이더 포드 시스템 장착을 검토 중이며, 이는 태평양 측 방어력 강화를 목표로 함<br>• 스웨덴 방위산업체 Saab과 General Atomics가 공동 개발한 양날개 장착형 레이더 포드 시스템으로 300km 이상 범위의 항공기 및 미사일 탐지 가능<br>• 일본 방위성은 2017년 이후 바시 해협을 통한 중국 군용기 활동과 2025년 중국 항모 확대 배치에 대응하기 위해 태평양 측 감시 역량 강화 추진<br>• MQ-9B는 24시간 이상 비행 지속 가능하며 2024년 말 기준 가와사키 P-1 해상초계기 임무의 부분 대체 목적으로 선정<br>• 기지는 가고시마현 가노야 및 아오모리현 하치노헤 배치, 2027년도부터 2기 운영 시작, 최종 23기 도입 계획</p><h3>Key Quotes</h3><p>• "The MQ-9B SeaGuardian is an unmanned maritime patrol aircraft equipped with electro-optical sensors, signals intelligence collection antennas, and maritime surveillance radar systems, enabling it to continuously gather a wide range of intelligence while remaining airborne for more than 24 hours." (MQ-9B SeaGuardian은 전자광학 센서, 신호정보 수집 안테나, 해상감시 레이더 시스템을 갖춘 무인 해상초계 항공기로, 24시간 이상 비행하면서 광범위한 정보 수집이 가능함)</p><p>• "The Japanese government has grown increasingly concerned about Chinese military bombers operating through the Bashi Channel and advancing into the Pacific Ocean since 2017." (일본 정부는 2017년 이후 바시 해협을 통해 운영되는 중국 군용 폭격기와 태평양 진출에 대해 우려를 증가시키고 있음)</p><h3>Technical Insights</h3><p>• 양익 장착 AEW 레이더 포드 시스템으로 거의 360도 감시 범위 구현 가능하며, 300km 이상의 탐지 거리는 기존 P-1 해상초계기의 감시 역량을 크게 상회하는 수준의 원거리 감시 능력을 제공</p><p>• 무인항공기 기반 해상감시 시스템의 도입은 유인 해상초계기 운영의 피로도 감소와 동시에 연속 비행을 통한 24/7 감시 태세 구현으로 해상방위 공백 해소에 기여</p><p>• 태평양 측 "방어 공백" 해소를 위한 적응형 감시 체계로, 중국의 항모 전투단과 장거리 항공 자산의 활동 실시간 추적으로 역내 전략적 균형 유지에 중요한 역할 수행</p></div>`,
+      tags: ["unmanned aerial vehicles","maritime surveillance","MQ-9B SeaGuardian","Japan Self-Defense Forces","AEW radar"],
+      link: "https://www.navalnews.com/naval-news/2026/06/japan-considers-aew-radar-pod-for-mq-9b-seaguardian-drones/",
+      coords: [138.2529,36.2048],
+      location: "Japan"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-08
+addEvents({
+  "2026-06-08": [
+    {
+      type: "news",
+      title: "Magura Maritime Drones Sink Target Ship at Balikatan 2026 Exercise",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-06-08",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Magura 자율 수상 드론이 필리핀 북부 해역에서 미-필리핀 연합군 Balikatan 2026 훈련 중 목표함정을 침몰시켰으며, 우크라이나에서의 흑해 작전 이후 인도-태평양 지역에서의 첫 공개 운용 기록<br>• UFORCE가 제조하는 Magura 드론 계열은 실제 전투 조건에서 무인 수상 전투체계의 능력을 실증<br>• 무인 표면선박(USV)의 군사적 활용 확대로 해양 전술 및 자율 무기체계의 발전을 의미<br>• 필리핀 해역에서의 운용은 아시아-태평양 지역 해양 안보 및 자율 시스템 도입 가속화를 시사<br>• 대미 전략적 영향: 무인 해양 플랫폼의 신뢰성 입증으로 향후 해군 운영 패러다임 변화</p><h3>Key Quotes</h3><br>• "Unmanned surface vessels that has been hunting Russian warships in the Black Sea made its Indo-Pacific debut" (흑해에서 러시아 전함을 추적해온 무인 수상함정이 인도-태평양 지역에 처음 배치됨)<br>• "Sinking a decommissioned target ship in live-fire conditions" (실제 전투 조건에서 폐기 예정 목표함정을 침몰시킴)</p><h3>Technical Insights</h3><br>• 자율 무인 수상선박(Autonomous Unmanned Surface Vessels, AUSV)의 실전 운용 가능성 입증으로 해양 로봇 기술의 군사화 추진 가속화<br>• 대함(Anti-Ship) 드론 기술의 발전으로 기존 해군 전술 및 COLREG 규제 체계 재검토 필요성 대두<br>• IMO 및 국제 해사기구의 자율선박 규제 프레임워크 수립 시급 - 민간 해상 운송과 군사 자율 플랫폼의 충돌 위험 관리 필요<br>• 인도-태평양 지역 해양 안보 경쟁 심화에 따른 자율 수중/수상 무기체계 다중국 도입 가능성 증대</p></div>`,
+      tags: ["autonomous vessels","unmanned surface vehicles","maritime drones","military exercise"],
+      link: "https://defence-blog.com/uforce-confirms-magura-drones-sank-target-ship-at-balikatan-2026/",
+      coords: [121.9,18.5],
+      location: "Northern Philippines, Indo-Pacific"
+    }
+  ]
+});
