@@ -8693,3 +8693,71 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-08
+addEvents({
+  "2026-06-08": [
+    {
+      type: "accident",
+      title: "Crew Evacuated After 'Suspicious' Tanker Fire Near Oman's Masirah Island",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-06-08",
+      image: "https://gcaptain.com/wp-content/uploads/2018/07/shutterstock_108351062.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 오만 마시라 섬 북동쪽 약 15해리 지점의 탱커에서 선내 화재 발생으로 승무원 전원 긴급 대피<br>• 영국해양거래운영센터(UKMTO)가 경고 064-26을 발령했으며, 사건을 '의심 활동(suspicious activity)'으로 분류<br>• 오만 및 인도 당국이 대응 조율 중이며 현재까지 환경 영향 보고 없음<br>• 호르무즈 해협과 아라비아해를 연결하는 전략적 해상로에서 발생한 사건으로 중동 해역 보안 우려 심화<br>• 선박 정체, 승무원 수, 화재 원인 등 구체적 정보 미확보 상태<br>• 미-이란 갈등 및 호르무즈 해협 통항 자유 제한 우려와 맞물린 상황</p><h3>Key Quotes</h3><p>• "A tanker has experienced a fire onboard resulting in the evacuation of crew. Omani and Indian Authorities are coordinating the response." (탱커 선내 화재로 승무원이 대피했으며, 오만과 인도 당국이 대응을 조율 중)</p><p>• "The location lies along a key shipping route connecting the Arabian Sea with the Gulf of Oman and the Strait of Hormuz, a region that has remained under heightened scrutiny amid ongoing security concerns across the Middle East." (사건 발생 지역은 아라비아해와 오만만, 호르무즈 해협을 연결하는 핵심 해상로에 위치하며, 중동 보안 우려 속에 지속적인 감시 대상)</p><h3>Technical Insights</h3><p>• **의심활동 분류의 의미**: UKMTO가 명확한 화재 원인을 특정하지 않고 '의심활동'으로 표현한 것은 해상 테러, 드론 공격, 또는 기타 악의적 행위의 가능성을 시사하며, 호르무즈 해협 인근 해역의 보안 위협 증대를 반영</p><p>• **지역 해상보안 체제의 한계**: 오만과 인도 양국의 공동 대응 필요성은 현지 해상교통관제 인프라 부족과 광역 해역 감시의 어려움을 드러내며, IMO 해상안전기준의 집행 강화 필요</p><p>• **자율운항선박 도입의 시사점**: 호르무즈 해협 등 고위험 해역에서 승무원 안전 문제를 노출한 사건으로, 무인/원격 운항 기술 도입 시 현존 위협 회피 능력 및 자동화 시스템 보안(Cybersecurity) 강화 필수</p><p>• **국제해양법 적용의 복잡성**: 다국적 당국 개입과 해역의 전략적 중요성으로 인해 사건 조사, 책임 규명, 손해배상 등에서 해양법과 국제분쟁해결 메커니즘의 효율성 문제 야기</p></div>`,
+      tags: ["tanker fire","crew evacuation","Masirah Island","suspicious activity","Oman","maritime security"],
+      link: "https://gcaptain.com/crew-evacuated-after-tanker-fire-near-omans-masirah-island/",
+      coords: [58.92,20.65],
+      location: "Masirah Island, Oman"
+    },
+    {
+      type: "accident",
+      title: "US Disables Tanker M/T Marivex in Gulf of Oman; Indian Crew Safe After Fire",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-08",
+      image: "https://images.marinelink.com/images/maritime/w800/sailors-carry-171254.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 팔라우 국적의 유조선 M/T Marivex가 2026년 6월 8일 오만만에서 미군에 의해 무장해제됨. 이란 항구로 향하던 중 미국의 이란 해상봉쇄 위반으로 인한 군사 개입 발생</p><p>• **피해 현황**: 선박에 탑승한 인도인 승무원 24명 전원 안전 구출됨. 피격 후 선박에서 화재 발생했으나 오만 당국의 협력으로 모두 구조됨</p><p>• **군사 작용**: USS Abraham Lincoln 항모에서 출격한 F/A-18 Super Hornet 전투기가 정밀 유도탄으로 선박의 기관실과 조타실을 공격하여 무력화</p><p>• **제재 이력**: M/T Marivex는 미국 재무부 해외자산통제실(OFAC)로부터 사전 제재 대상 선박으로 지정되어 있었음</p><p>• **배경 상황**: 미국의 이란 항구 해상봉쇄는 2026년 4월 이란의 호르무즈 해협 해운 제한 조치에 대한 대응으로 시작됨</p><p>• **국제 협력**: 인도 외교부, 주오만 인도대사관, 인도 해군이 승무원 안전을 위해 조율 중</p><h3>Key Quotes</h3><p>• "Marivex is no longer sailing to Iran" (마리벡스는 더 이상 이란으로 향하지 않음 - 미 중부사령부의 성명)</p><p>• "We are coordinating with the Ministry of External Affairs, our Indian missions abroad, the Indian Navy, and the Ministry of Defence to ensure their safety" (외교부, 해외 인도 공관, 인도 해군, 국방부와 조율하여 승무원 안전을 보장하고 있음 - 인도 연방 항만·해운부 국장)</p><p>• "The vessel turned away on three occasions after repeated warnings by the U.S. Navy" (미 해군의 반복된 경고 후 선박이 3차례 방향을 바꾸었음)</p><h3>Technical Insights</h3><p>• **해상 안전 규정 한계**: 이 사건은 국제 해상법(UNCLOS)상 공해 통항의 자유와 국가 안보 사이의 갈등을 드러냄. 선박의 자동화 및 원격 조종 기술이 발전하면 해상 강제 조치의 실행 방식도 변화할 가능성</p><p>• **블록제이드 운영의 신기술 활용**: 미군이 정밀 유도탄을 사용한 선택적 무력화 기술로 승무원 피해를 최소화하는 방식은 향후 해상 분쟁에서 자율항행선박의 디스에이블링 프로토콜 개발 방향을 제시</p><p>• **선박 추적 및 식별 시스템의 중요성**: OFAC 제재 대상 선박 탐지와 추적에 AI 기반 해양 감시 시스템의 역할이 증대하고 있으며, 이는 자동화된 콜레그 준수 체계 개발의 필요성을 강조</p><p>• **산업적 영향**: 해운사들의 항로 선택 및 제재 회피 기술이 진화하는 반면, 국가 군사력에 의한 강제 조치도 고도화되고 있어 해상 운송의 불확실성 증가로 이어질 수 있음</p></div>`,
+      tags: ["Oil Tanker","Gulf of Oman","US Military Action","Fire","Indian Crew","Iran Blockade"],
+      link: "https://www.marinelink.com/news/us-disables-tanker-indian-crew-safe-fire-540062",
+      coords: [58.5,23.5],
+      location: "Gulf of Oman"
+    },
+    {
+      type: "news",
+      title: "Autonomous Systems Redefining Mine Countermeasure Operations in Critical Waterways",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-06-08",
+      image: "https://gcaptain.com/wp-content/uploads/2026/06/Bayonet_USCG-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **자율 해양 기술의 광산 제거 작전 혁신**: Greensea IQ의 Bayonet 수중 크롤러가 20년 개발을 거쳐 상업적으로 준비된 최초의 광산 제거용 로봇으로 등장하여, 기존 잠수부 중심 작전의 한계를 극복</p><p>• **호르무즈 해협의 전략적 중요성**: 호르무즈 해협의 소수 광산 배치만으로도 글로벌 해상 무역 차단, 보험료 인상, 항로 변경 강요 가능</p><p>• **고급 센서와 자율 시스템의 필수성**: 현대 광산의 소형화, 정교화로 인한 탐지 어려움 증가로 인해 고급 자율 시스템의 필요성 대두</p><p>• **해양 환경의 복잡성 극복**: 호르무즈 해협의 강한 해류, 천해 모래파, 암반 지역, 해상 교통으로 인한 잔해 등의 복잡한 환경에서 자율 시스템의 효과성 증명</p><p>• **인명 안전 및 운영 효율성 개선**: 기존 잠수부의 잠수 시간 제한, 감압병, 저체온증, 피로도 등 한계 극복으로 안전성 및 효율성 향상</p><p>• **미해군과의 20년 협력 검증**: 2014년부터 미해군과의 협력을 통한 폭발물 제거(EOD) 솔루션 개발 및 배포 실적으로 신뢰성 입증</p><h3>Key Quotes</h3><p>• "A mine doesn't have to strike a ship to disrupt global commerce. In the Strait of Hormuz, the threat of mines alone has sparked uncertainty across the entire maritime industry, increasing insurance costs and delaying shipments along major routes." (광산이 선박에 충돌하지 않아도 국제 무역을 중단시킬 수 있으며, 호르무즈 해협에서 광산의 위협만으로도 보험료 상승과 선적 지연을 야기할 수 있음)</p><p>• "The Bayonet underwater crawler is the only commercially ready robot capable of conducting mine countermeasure missions from the shoreline to the seafloor." (Bayonet 수중 크롤러는 해안선에서 해저까지 광산 제거 작전을 수행할 수 있는 유일한 상업용 로봇)</p><p>• "Modern mines are becoming smaller, more sophisticated, and harder to detect, increasing the complexity of clearance operations and reinforcing the need for advanced autonomous systems capable of operating in these conditions." (현대 광산의 소형화와 정교화로 탐지 난이도가 증가하면서 이러한 환경에서 작동 가능한 고급 자율 시스템의 필요성이 강조됨)</p><h3>Technical Insights</h3><p>• **자율 수중 로봇(AUGV)의 운영상 우월성**: 기존 잠수부의 생리적 한계(감압 시간, 수온, 피로도, 생명 유지 장비 의존)를 극복하여 지속적 작전 수행 가능</p><p>• **복합 해양 환경에서의 센서 기술**: 호르무즈 해협의 강한 해류, 천해 환경, 해상 교통으로 인한 해저 잔해 등 복잡한 조건에서 정밀한 광산 탐지 및 위치 파악 기술의 중요성</p><p>• **IMO 및 국제 해사 보안 규제의 진화**: 자율 시스템을 활용한 광산 제거 표준화 및 국제 규약 정립 필요성 증대로 해상 교통 안전 체계 개선</p><p>• **해양 보안 인프라의 현대화**: 전략적 해협(Chokepoint) 보호를 위한 자율 기술 도입으로 국제 해상 무역로 안정성 강화 및 지역 안보 향상</p></div>`,
+      tags: ["Autonomous Systems","Mine Countermeasures","Strait of Hormuz","Maritime Security","Greensea IQ","Bayonet AUGV"],
+      link: "https://gcaptain.com/clearing-the-strait-how-autonomous-systems-are-redefining-mine-countermeasure-operations/",
+      coords: [56.2381,26.1552],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "US Senators Push Trump Administration to Reinstate Port Fees on Chinese Ships for Shipbuilding Revival",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-06-08",
+      image: "https://gcaptain.com/wp-content/uploads/2021/04/2021-04-08T053602Z_495845708_RC2HRM9WZOIF_RTRMADP_3_HEALTH-CORONAVIRUS-USA.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 상원의원 Mark Kelly와 Elizabeth Warren이 트럼프 행정부에 중국 연계 선박에 대한 항만료 재개를 촉구하며, 이는 미국 조선산업 부흥과 중국 해운 부문 의존도 감소를 위해 필수적이라고 주장</p><p>• Section 301 항만료 및 규제 조치는 2025년 11월 트럼프-시진핑 무역합의로 인해 일시 중단되었으며, 상원의원들은 즉각적인 복구를 요구</p><p>• 중국의 글로벌 상업용 선박 생산 비중이 2000년 5% 미만에서 현재 50% 이상으로 급증한 반면, 미국의 상업용 선박 생산 비중은 0.1% 수준으로 국가 안보 위협으로 대두</p><p>• 2025년 첫 9개월간 중국 조선소 수주량이 23.5% 감소하여, 항만료 도입 예정이 글로벌 조선시장에 즉각적 영향을 미쳤음을 입증</p><p>• 전 세계 공급망 교란과 이란 관련 지역 분쟁 지속으로 국내 해운산업의 중요성이 국가 안보 차원에서 강조되고 있음</p><h3>Key Quotes</h3><p>• "Section 301 port fees are critical to revitalizing U.S. shipbuilding" (Section 301 항만료는 미국 조선산업 부흥에 필수적)</p><p>• "A strong domestic shipping industry is essential for our national security, especially in moments of global conflict" (국내 해운산업의 강화는 국가 안보에 필수적이며, 특히 글로벌 분쟁 상황에서 더욱 중요)</p><h3>Technical Insights</h3><p>• 무역 보복 관세(Section 301)의 항만료 정책은 조선 산업의 지정학적 중요성을 반영하며, 글로벌 공급망 안정성과 국가 해양 능력 강화라는 IMO/국제 해사 정책의 주요 의제와 연결</p><p>• 중국 조선산업의 급속한 성장과 구조적 우위(국가 보조금, 산업정책)에 대응하기 위한 보호주의적 조치로서, 선박 소유권·운영·건조국 다원화 추진 필요성 대두</p><p>• 항만료 재개 시 자율운항선박(autonomous vessels) 및 친환경 선박 개발 분야에서 미국의 경쟁력 제고를 통해, 글로벌 해운 기술 표준 설정 권한 확보 가능성 있음</p></div>`,
+      tags: ["Trade Policy","Shipbuilding","US-China Relations","Port Fees","Maritime Security"],
+      link: "https://gcaptain.com/senators-urge-trump-administration-to-reinstate-port-fees-on-chinese-ships/",
+      coords: [-118.2437,33.7381],
+      location: "Port of Los Angeles/Long Beach, California"
+    },
+    {
+      type: "news",
+      title: "ABS Grants Approval for Nuclear Reactor Integration in Vessel Design Developed Through MIT Maritime Consortium",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-06-08",
+      image: "https://gcaptain.com/wp-content/uploads/2026/06/unnamed-2.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• ABS(American Bureau of Shipping)가 MIT, HD KSOE, Capital Maritime Group이 개발한 핵반응로 통합 화물선 추진 시스템에 대해 승인원칙(AIP)을 최초로 부여했음</p><p>• MIT 설계의 핵반응로는 합성유체를 통해 열을 전달하며, 10~20MW 규모의 소규모 열출력을 지원하고 근상압 운영으로 경량화 및 모듈식 건설 가능</p><p>• 이는 MIT Maritime Consortium의 첫 번째 AIP 승인으로, ABS, HD KSOE, Capital Maritime Group이 창립 멤버로 참여 중</p><p>• 해운산업의 탈탄소화를 위한 대체 연료, 자율운항, 사이버보안, 선상 제조 기술 등 혁신 기술 개발을 추진하는 산학협력 플랫폼 구축</p><p>• 국제 환경규제 강화에 대응하기 위해 핵에너지를 차세대 상용선박의 친환경 솔루션으로 추진 중</p><h3>Key Quotes</h3><p>• "This approval in principle highlights the value of collaboration with key stakeholders in advancing promising commercial nuclear technologies." (협력을 통한 상용 핵기술 발전의 가치를 강조)</p><p>• "Nuclear energy represents one of the most promising alternatives to traditional fossil fuels." (핵에너지를 전통 화석연료의 가장 유망한 대체 에너지로 평가)</p><p>• "Any pathway to net zero is grounded in the non-negotiable highest standards of crew safety, vessel integrity, and environmental protection." (탄소중립 달성은 승무원 안전, 선박 무결성, 환경 보호의 최고 기준을 기반으로 함)</p><h3>Technical Insights</h3><p>• **핵추진 기술의 해운 산업 도입**: 근상압(near-atmospheric pressure) 운영으로 기존 고압 원자로 대비 얇고 가벼운 용기 설계가 가능하며, 모듈식 건설과 운송 용이성이 해운산업의 건조 및 운영 효율성을 크게 향상시킬 수 있음</p><p>• **탄소중립 규제 대응**: IMO 2050 탄소중립 목표 달성을 위해 핵에너지가 LNG, 메탄올 등 기존 대체 연료와 함께 실질적인 장기 솔루션으로 검토되고 있으며, 이는 업계의 에너지 믹스 다양화를 의미함</p><p>• **산학 협력의 중요성**: MIT Maritime Consortium을 통한 학계-산업 연계가 표준화, 안전성 검증, 규제 승인 프로세스를 동시에 진행함으로써 신기술 해운 적용의 제도적 기반을 마련하고 있음</p><p>• **국제 해사법과의 조화**: ABS 같은 선급협회의 검증 체계가 핵추진 기술의 SOLAS 준수, COLREG 적합성, 환경 안전 기준을 만족시키는 데 필수적이며, 향후 IMO 차원의 국제 기준 수립 선행 역할을 할 것으로 예상됨</p></div>`,
+      tags: ["Nuclear Propulsion","Vessel Design","Alternative Energy","MIT Maritime Consortium","ABS Approval","Decarbonization"],
+      link: "https://gcaptain.com/abs-grants-approval-for-nuclear-reactor-integration-in-vessel-design-developed-through-mit-maritime-consortium/",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
