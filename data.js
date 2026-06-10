@@ -8866,3 +8866,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-09
+addEvents({
+  "2026-06-09": [
+    {
+      type: "news",
+      title: "Saipem's JSD6000 vessel preparing for €4B Black Sea gas project operations",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-06-09",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/06/JSD6000-Source-Saipem.jpg?image-crop-positioner-ts=1780994493",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **선박 준비 현황**: Saipem의 JSD6000 다목적 DP3 중량 리프팅 및 파이프 레잉 선박이 제노바 항의 San Giorgio del Porto 조선소에서 Black Sea 프로젝트를 위한 준비 작업 진행 중</p><p>• **선박 사양**: 2024년 6월 인도된 215m 규모 선박으로 5,200톤 회전식 크레인, J-Lay 시스템(1,500톤 레잉, 2,000톤 보유 용량), S-Lay 시스템(900톤) 장착</p><p>• **프로젝트 개요**: OMV Petrom과 Romgaz가 주도하는 Neptun Deep 가스전 개발 프로젝트로 €40억 투자, 2027년 첫 가스 생산 목표</p><p>• **작업 내용**: 선박은 해상 인프라 설치 담당, 시추정을 생산 플랫폼으로 연결하는 해저 배관 및 구조물 설치 수행</p><p>• **기술 점검**: 파이프 레잉 장비 등 핵심 시스템에 대한 기술 정비, 유지보수, 업그레이드 작업으로 운영 요구사항 준수 확보</p><h3>Key Quotes</h3><p>• "The ship, moored at the San Giorgio del Porto shipyard, will carry out technical, maintenance, and upgrading activities on key systems, particularly its pipelay equipment, to ensure full compliance with operational requirements." (조선소에 정박한 선박은 운영 요구사항 준수를 보장하기 위해 파이프 레잉 장비를 포함한 핵심 시스템에 대한 기술, 유지보수, 업그레이드 작업 수행)</p><p>• "JSD6000 is described as one of the most advanced vessels in its class, equipped for both S-Lay and J-Lay operations and capable of operating in deep waters" (JSD6000은 S-Lay 및 J-Lay 작업 모두에 장비되어 있으며 심해 운영이 가능한 현대적 선박으로 평가됨)</p><h3>Technical Insights</h3><p>• **심해 파이프 레잉 기술**: 5,200톤 크레인과 이중 파이프 레잉 시스템(S-Lay/J-Lay)을 갖춘 JSD6000은 Black Sea의 깊은 수심 조건에서 고난도 해저 설치 작업을 수행할 수 있는 최첨단 장비로, 에너지 인프라 구축에 필수적인 전문화된 선박</p><p>• **해양 안전 및 규제 준수**: 사전 정비 및 업그레이드 작업은 IMO 규정 및 각 국가 해양 안전 기준 준수를 위한 표준 관행으로, 심해 작업의 위험성을 감안한 예방적 조치</p><p>• **글로벌 에너지 프로젝트 의존성**: 유럽의 에너지 공급 다양화를 위한 Black Sea 가스 개발은 고도화된 해양 건설 능력에 의존하며, Saipem 같은 전문 기업의 선박 확보가 대규모 프로젝트 추진의 핵심 요소</p></div>`,
+      tags: ["Saipem","JSD6000","Black Sea","Neptun Deep","Pipe-laying"],
+      link: "https://www.offshore-energy.biz/saipems-heavy-lifting-and-pipe-laying-vessel-gearing-up-for-work-on-e4b-black-sea-gas-project/",
+      coords: [29.6597,43.7384],
+      location: "Black Sea (Romanian waters)"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-10
+addEvents({
+  "2026-06-10": [
+    {
+      type: "news",
+      title: "IMO Secretary-General Warns of Unsafe Hormuz Strait Passage Amid Security Risks",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-10",
+      image: "https://images.marinelink.com/images/maritime/w800/source-171303.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• IMO 사무총장 Arsenio Dominguez가 호르무즈 해협을 통과하는 선박들의 안전 문제에 대해 공식 경고 발표<br>• 최근 사건으로 인한 해원들의 피해(사망, 부상, 억류)가 발생했음에도 불구하고 선박들이 신뢰할 수 있는 보안 보장 없이 항행 시도<br>• 현재 상황이 극도로 불안정하며 신뢰할 수 있는 보안 보장이 부재한 상태로, IMO는 안전한 통행이 존재하지 않는다고 판단<br>• 선사와 선박 선장은 안전·보안 관리 체계에 따라 철저한 위험 평가를 수행할 책임이 있으며, 이는 근본적인 의무<br>• 상업적·운영상 고려사항이 해원의 생명 보호를 정당화할 수 없으며, 해원의 안전이 최우선 과제여야 함을 강조</p><h3>Key Quotes</h3><p>• "My primary concern is for the safety and lives of the seafarers being placed in these situations. They must not be exposed to conditions where the risks are known, significant, and clearly beyond mitigation." <br>(제 주된 우려는 이러한 상황에 놓인 해원들의 안전과 생명입니다. 해원들은 위험이 알려져 있고 심각하며 완화 불가능한 조건에 노출되어서는 안 됩니다.)</p><p>• "Under such circumstances, safe passage cannot be considered to exist."<br>(이러한 상황 하에서는 안전한 통행이 존재한다고 간주될 수 없습니다.)</p><p>• "No commercial or operational consideration can justify exposing seafarers to such levels of danger."<br>(어떤 상업적 또는 운영상 고려사항도 해원들을 이러한 수준의 위험에 노출시키는 것을 정당화할 수 없습니다.)</p><h3>Technical Insights</h3><p>• **위험 평가 의무화**: IMO 안전관리(ISM) 및 보안(ISPS) 체계에 따라 선박 선장과 선사는 항로 계획 단계에서 철저하고 현실적인 위험 평가를 수행해야 하며, 이는 법적 의무이자 선원 보호의 기초</p><p>• **해역 위험도 분류**: 호르무즈 해협과 같이 지정학적 불안정이 높은 해역에서는 보험사, 깃발국, 해운 협회 등이 공동으로 위험도를 지속적으로 모니터링하고 운항자에게 정보 제공해야 함</p><p>• **선주의 Duty of Care**: UNCLOS 등 국제해법과 ILO 해사노동협약(MLC)에 따라 선주는 해원이 안전하지 않은 항로로 강제되지 않도록 보호할 법적 책임을 가지며, 이는 상업적 압력을 초과하는 기본 의무</p><p>• **글로벌 해상 보안 거버넌스**: 이 사건은 특정 해역의 안전 보장 부재 시 IMO 차원의 지역 안보 협력 강화, 해상 보안 정보 공유, 선원 보호 프로토콜 개선의 필요성을 시사함</p></div>`,
+      tags: ["Strait of Hormuz","Maritime Security","IMO","Seafarer Safety","Risk Assessment"],
+      link: "https://www.marinelink.com/news/dominguez-warns-safe-hormuz-passage-540121",
+      coords: [56.2433,26.5547],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
