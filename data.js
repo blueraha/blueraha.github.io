@@ -8810,3 +8810,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-09
+addEvents({
+  "2026-06-09": [
+    {
+      type: "news",
+      title: "Saronic's Autonomous Surface Vessel Completes First Military Personnel Rescue Near Strait of Hormuz",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-06-09",
+      image: "https://gcaptain.com/wp-content/uploads/2025/12/Saronic-Corsair.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사로닉의 자율운항선박(ASV) 코르세어가 미 해군의 군사작전에서 처음으로 인원 구조 임무 수행** - 오만 해역에서 추락한 아파치 헬리콥터 승무원 2명을 약 2시간 내에 구조</p><p>• **미 해군 제5함대 태스크포스 59(TF-59)의 무인시스템 통합작전 성공 사례** - 자율운항선박의 원격 감시 및 독립 운영 능력이 군사작전에 실질적으로 적용됨을 입증</p><p>• **사로닉의 코르세어 운영 규격** - 24피트, 1,000파운드 적재능력, 1,000해리 이상 운영거리, 레이더/위성통신/자동항법소프트웨어 탑재</p><p>• **지정학적 배경: 호르무즈 해협 긴장고조** - 트럼프 대통령이 헬리콥터 격추를 이란의 공격으로 규정하며 미국의 대응을 예고</p><p>• **산업적 성과: 사로닉의 성장 궤적** - 6개월 전 미 해군으로부터 $392 million 계약 수주 후 실전 작전 성공으로 자율운항선박 기업의 위상 강화</p><h3>Key Quotes</h3><p>• "The drone picked them up and transported them to another location on the water where they were hoisted up to a helicopter for further transport" (자율운항선박이 구조인원을 픽업한 후 다른 해상 지점으로 이동시켜 헬리콥터로 수송 가능한 위치에 배치함)</p><p>• "The U.S. military has acknowledged that a Saronic Corsair autonomous surface vessel was used in the recent rescue operation following the downing of a U.S. Army helicopter" (미 군부가 사로닉 코르세어 자율운항선박이 군용 헬리콥터 격추 이후 구조작전에 사용되었음을 공식 인정)</p><h3>Technical Insights</h3><p>• **자율운항선박의 실전 군사작전 적용 확대** - 종래의 감시정찰을 넘어 실질적인 인명구조 임무 수행으로 ASV 기술의 신뢰성과 실용성 입증, 향후 해양안보 작전 개념의 전환 계기 마련</p><p>• **태스크포스 59의 무인시스템 통합전술 성숙** - 자율운항선박과 항공자산(헬리콥터) 간의 조율된 작전 수행으로 인간중심의 해전 개념에서 AI-무인시스템 중심의 네트워크 중심전으로의 전환 추세 가속화</p><p>• **상용 ASV 기술의 군사전용 확대 시사** - 사로닉의 코르세어는 상업적 해양보안 설계에서 출발했으나 고급 자동항법, 위성통신, 실시간 상황인식(SAA) 시스템으로 군사 운영 표준 충족, 민군겸용 기술 플랫폼 모델의 성장성 제시</p></div>`,
+      tags: ["Autonomous Surface Vessel","Military Operations","Saronic Corsair","Task Force 59","Strait of Hormuz"],
+      link: "https://gcaptain.com/billion-dollar-usv-builder-saronic-scores-operational-milestone-in-oman-rescue/",
+      coords: [56.5,23.5],
+      location: "Strait of Hormuz, Oman"
+    },
+    {
+      type: "accident",
+      title: "US Navy Drone Rescues Apache Helicopter Crew Near Oman",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-09",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockrobert-171291.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 미국 육군 AH-64 아파치 공격헬기가 오만 해상에서 현지시간 화요일 오전 3시경 추락하였으며, 승무원 2명이 탑승 중이었음</p><p>• **구조 수행**: 미 해군의 자율수상선박(ASV) 콜세어(Corsair) 드론이 근접성과 운용 능력을 바탕으로 2시간 이내에 승무원을 수색 및 구조하는 첫 사례를 기록</p><p>• **구조 선박**: 제조사 Saronic의 24피트(7.3미터) 콜세어는 1,000해리 이상을 항해 가능하며 454kg까지 운반 능력을 보유한 자율수상선박</p><p>• **승무원 상태**: 두 조종사는 안정적 상태이며, 대통령은 "아무도 부상을 입지 않았다"고 발표했으나 중앙사령부는 보다 신중한 언어 사용</p><p>• **운영 조직**: 미 5함대 소속 태스크포스 59가 무인 시스템과 인공지능을 일상적 해양작전에 통합하는 전담 부대로 활동 중</p><p>• **사고 원인**: 헬기 추락 원인은 조사 중이며, 현재 미국과 이란 간 불안정한 휴전 상태가 지속되고 있는 상황</p><h3>Key Quotes</h3><p>• "The drone picked them up and transported them to another location on the water where they were hoisted up to a helicopter for further transport" (드론이 승무원을 회수하여 다른 해상 위치로 이동한 후 헬기로 인양하여 추가 수송함)</p><p>• "The soldiers were safely rescued within approximately two hours and are in stable condition. The cause of the incident is under investigation" (승무원들이 약 2시간 이내에 안전하게 구조되었으며 안정적 상태이고, 사고 원인은 조사 중)</p><h3>Technical Insights</h3><p>• **자율수상선박의 실전 응용**: 콜세어 ASV가 해상 구조작전에 성공적으로 투입된 사례로, 무인 시스템이 인명구조 임무에서의 신뢰성과 효율성을 입증</p><p>• **태스크포스 59의 역할**: 미 해군 5함대 예하 태스크포스 59는 무인시스템과 AI를 해양작전에 통합하는 전담 부대로, 향후 자율선박의 군사적 활용 확대 방향 시사</p><p>• **해상작전의 미래 지향**: 저속 자율수상선박이 헬기와의 연계 작전으로 기존 구조 능력을 보완하며, 원거리 해상 운영 지역에서의 신속한 대응 체계 구축 가능성 제시</p><p>• **IMO/COLREG와의 관계성**: 본 사건은 자율수상선박의 운항 규칙 정립 및 해상교통안전 규정 개정 필요성을 강조하며, 민간 해운업 적용 시 규제 프레임워크 선행 필요</p></div>`,
+      tags: ["helicopter crash","rescue operation","autonomous surface vessel","US Navy","Oman"],
+      link: "https://www.marinelink.com/news/us-navy-drone-rescues-apache-helicopter-540104",
+      coords: [58.5,22.5],
+      location: "Oman coast, Arabian Sea"
+    },
+    {
+      type: "news",
+      title: "Saronic USV Rescues Two U.S. Army Pilots in Historic First Search and Rescue Operation",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-06-09",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/06/Saronic-Corsair-USV.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **역사적 첫 SAR 작전**: Saronic Corsair USV를 활용한 첫 무인선박 수색구조(SAR) 임무 성공으로 해군 드론 기술의 새로운 활용 영역 확보</p><p>• **관련 기관 및 장비**: 미 해군 Task Force 59가 Saronic Corsair 무인선박을 투입하여 오만 인근 해역에서 추락한 미 육군 AH-64 공격 헬리콥터 조종사 2명 구조</p><p>• **작전 성과**: 2시간 만에 조종사 2명을 안정적 상태로 구출, 1,000해리 이상 운영 범위 및 1,000파운드 탑재 능력 입증</p><p>• **무인선박 다목적 활용**: 해상상황인식(Maritime Domain Awareness)부터 전투작전까지 다양한 작전에서 USV의 효율성과 확장성 증명</p><p>• **지역 전략적 의의**: 이란-미국 분쟁 상황에서 무인선박 시스템의 즉시 대응 능력이 전술적 우위 제공</p><h3>Key Quotes</h3><p>• "Two Army pilots patrolling regional waters near Oman were rescued after their AH-64 attack helicopter went down" <br>(오만 인근 해역을 순찰 중이던 미 육군 조종사 2명이 AH-64 공격 헬리콥터 추락 후 구조됨)</p><p>• "The U.S. Navy's Task Force 59 used its recently procured Saronic drone boats to pick up the pilots, marking the first known use of USVs to conduct a search and rescue mission"<br>(미 해군 Task Force 59가 최근 도입한 Saronic 무인보트로 조종사를 회수하여 USV를 이용한 첫 수색구조 임무를 수행함)</p><p>• "The Corsair USV is capable of operating at ranges over 1,000 nautical miles and can support 1,000-pound payloads"<br>(Corsair USV는 1,000해리 이상의 운영 범위와 1,000파운드 탑재량을 지원 가능함)</p><h3>Technical Insights</h3><p>• **USV 기술 진화**: 무인선박이 전통적인 수송·정찰 역할을 넘어 실시간 구조작전(SAR)까지 수행 가능함으로써 해상 자율시스템의 신뢰성 입증</p><p>• **지휘통제 혁신**: Task Force 59의 다국적 무인 플랫폼 통합 운영 모델이 빠른 의사결정과 신속한 현장 대응을 가능하게 함</p><p>• **마리타임 도메인 인식(MDA) 강화**: USV 네트워크를 통한 실시간 해상 감시 데이터가 작전 상황인식 개선 및 전술적 선제 능력 제공</p><p>• **향후 임무 확대 가능성**: SAR 성공이 수송, 물자공급, 전자전 등 다양한 해상 작전 영역으로의 USV 활용 확대 기반 마련</p></div>`,
+      tags: ["USV","unmanned surface vessel","search and rescue","Task Force 59","Middle East operations"],
+      link: "https://www.navalnews.com/naval-news/2026/06/saronic-usv-rescues-two-u-s-army-pilots-downed-by-iran/",
+      coords: [58.5,20],
+      location: "Oman Waters, Persian Gulf Region"
+    },
+    {
+      type: "news",
+      title: "Pentagon Seeks New Autonomous Resupply Vehicles (ARV-S) for Indo-Pacific Contested Logistics",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-06-09",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/06/9305496-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 국방부가 인도-태평양 지역 contested environment에서 미군 육군 물류 작전 지원을 위해 수십 대 규모의 무인 표면 선박(USV) 조달 추진 중<br>• Defense Innovation Unit(DIU)가 주도하는 Autonomous Resupply Vehicle (ARV-S) 프로젝트로, 20피트 컨테이너 운송 전담 및 1,600해리 왕복 항해 능력 요구<br>• 자동 조종 능력, 해상 상태 4-6급 운항, 최소 2개 컨테이너 수용량 등 핵심 요구사항 명시<br>• 중국 해군 현대화에 대응하기 위해 분산형 물류 체계 필요성 증가, 남중국해 및 대만 유사 작전에서의 실증 경험 축적<br>• 미국 하원군사위원회도 2027회계연도 입법에서 육군 선박 호위용 USV 조달 권고 사항 추가</p><h3>Key Quotes</h3><p>• "For Indo-Pacific Contested Logistics, [USVs] can provide significant operational advantages by eliminating risk to onboard personnel and reducing the need for trained mariners" (인도-태평양 contested environment 물류 작전에서 USV는 승선 인원 위험 제거 및 훈련된 해기사 감소를 통해 상당한 작전 이점 제공)</p><p>• "end strength may require dozens or more ARV-S's to be produced quickly, and any bid must have a realistic capability to scale production" (최종 전력 기준 수십 대 이상의 ARV-S 빠른 생산 필요, 입찰업체는 생산 확대 현실성 증명 필수)</p><h3>Technical Insights</h3><p>• **자율항해 기술의 군사적 적용**: ARV-S는 contested environment에서 유인 선박의 위험 노출 최소화하며, 자동 조종 능력을 통해 피아식별(IFF) 및 충돌회피(COLREG) 자동화 요구<br>• **분산형 물류 네트워크 구축**: 전통적 중앙집중식 물류 기지 대신 다수의 무인 선박 배치로 adversary의 targeting을 분산시키고, South China Sea 같은 광대한 해역에서 지속적 보급 가능<br>• **IMO/국방부 규제 문제**: 민간 해역에서의 자율운항 선박 운영 시 국제해사기구(IMO) 규정과 해군 작전 규정의 조화 필요, 특히 교전 규칙(RoE)과의 통합 요구</p></div>`,
+      tags: ["USV","Autonomous Vessels","Indo-Pacific","Military Logistics","Defense Innovation"],
+      link: "https://www.navalnews.com/naval-news/2026/06/pentagon-eyes-new-usv-for-indo-pacific-contested-logistics/",
+      coords: [139.6917,35.6895],
+      location: "Indo-Pacific Region"
+    }
+  ]
+});
