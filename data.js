@@ -8936,3 +8936,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-11
+addEvents({
+  "2026-06-11": [
+    {
+      type: "news",
+      title: "Ultra Maritime Completes First In-Water Trial of Next-Generation Multistatic Active Receive Sonobuoy",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-06-11",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/06/Ultra-Maritime-MSARS-Sonobuoy.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Ultra Maritime가 스코틀랜드에서 차세대 멀티스태틱 능동 수신 소노부이(MSARS)의 첫 번째 수중 배치 시험을 성공적으로 완료하여 영국의 대잠 전력(ASW) 강화에 중요한 이정표를 달성</p><p>• 미국 General Atomics와의 협력을 통해 MSARS를 MQ-9B SeaGuardian 무인항공기(UAS)에 통합하여 작전 범위 확대 및 분산형 멀티스태틱 ASW 운용 가능성 제시</p><p>• 영국 국방과학기술연구소(Dstl) 지원 하에 개발되었으며, Atlantic Bastion 프로그램의 자율 ASW 능력 확대 목표에 부합</p><p>• 북대서양 지역 러시아 잠수함 활동 증가에 대응하기 위한 위협 탐지 및 추적 능력 향상이 주요 동기</p><p>• Ultra Maritime의 G-크기 소노부이 독점 제조 능력이 무인 항공계 플랫폼에 최적화된 컴팩트 부이 운용을 가능하게 함</p><p>• 자율화된 대잠전 시스템이 유인 플랫폼(Merlin Mk2) 및 무인 플랫폼의 효율성을 동시에 향상시키는 혼합 운용 개념 구현</p><h3>Key Quotes</h3><p>• "MSARS is designed to meet this need by delivering improved performance over current Royal Navy sonobuoy systems" (현 영국 해군 소노부이 시스템 대비 우수한 성능을 제공하도록 설계됨)</p><p>• "This integration will extend operational reach, increase sonobuoy payload capacity and support distributed multistatic ASW operations, strengthening the ability of allied forces to detect and track increasingly sophisticated undersea threats" (통합을 통해 작전 범위 확대, 소노부이 탑재량 증가, 분산형 멀티스태틱 ASW 운용 지원으로 동맹국의 고도화된 수중 위협 탐지 추적 능력 강화)</p><p>• "As the only manufacturer of G-size sonobuoys, Ultra Maritime is uniquely positioned to deliver these compact buoys ideally suited for unmanned aerial system (UAS) operations" (G-크기 소노부이의 유일한 제조사로서 무인항공 운용에 최적화된 컴팩트 부이 공급에 유리한 위치)</p><h3>Technical Insights</h3><p>• **멀티스태틱 소나 기술 진화**: 기존 쌍방향 소나에서 다중 송수신기를 활용한 멀티스태틱 방식으로의 전환으로 잠수함 탐지 정확도 및 음향 신호 처리 능력 대폭 향상</p><p>• **자율 ASW 운용 패러다임**: MQ-9B SeaGuardian 같은 장기체공 무인항공기와의 통합을 통해 기존 유인 해상 초계기 중심의 대잠전을 분산형 무인 시스템 기반으로 전환하여 지속적 감시 및 비용 효율성 개선</p><p>• **도메인 통합 개념(Air-Surface-Subsea)**: 공중, 수상, 수중 도메인을 아우르는 통합 대잠전 체계 구축으로 하이브리드 위협 대응 능력 향상 및 NATO 해역 우위 강화</p><p>• **IMO 규제 및 자율화 병행**: 무인 해양 시스템의 자율성 확대와 국제 해상 안전 규정의 조화 필요성 대두, 특히 작전 해역에서의 충돌회피 및 통신 안정성 확보 중요</p></div>`,
+      tags: ["Anti-Submarine Warfare","Sonobuoy Technology","Autonomous Systems","UK Defense","Unmanned Aerial Systems"],
+      link: "https://www.navalnews.com/naval-news/2026/06/ultra-maritime-progresses-with-new-multistatic-active-receive-sonobuoy/",
+      coords: [-3.436,56.4907],
+      location: "Scotland, North Atlantic"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-10
+addEvents({
+  "2026-06-10": [
+    {
+      type: "news",
+      title: "Swedish firm Alleima secures $105M order for subsea umbilical tubes for Indonesia's Kutei North Hub gas project",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-06-10",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/04/Jangkrik-01-Source-Eni.jpg?image-crop-positioner-ts=1776695529",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 스웨덴의 Alleima가 인도네시아 쿠테이 노스 허브(Kutei North Hub) 가스 프로젝트용 고급 해저 탯줄(umbilical tubes) 공급 계약 약 1억 500만 달러 규모 수주<br>• Eni-Petronas 합작회사인 Searah가 운영하는 프로젝트로, 동칼리만탄 해안으로부터 약 50km 떨어진 수심 1,700~2,000m 지역에 위치<br>• SAF 2507 고급 합금 튜브로 16개 생산 정유정 지원 및 FPSO(부유식 생산·저장·적재 설비)와의 통신 및 유압 제어 기능 담당<br>• 극한의 해저 환경에서 압력, 부식 저항성이 뛰어나며 2026~2030년에 걸쳐 공급 예정(2026년 20%, 2027년 60%, 2030년 20%)<br>• 프로젝트는 일일 10억 입방피트 이상의 가스 및 9만 배럴의 응축액 생산 능력 보유</p><h3>Key Quotes</h3><br>• "The development of large deepwater projects places very high demands on technology, materials and collaboration." (대규모 심해 프로젝트 개발은 기술, 재료, 협력에 대한 매우 높은 요구사항을 제시함)<br>• "Alleima's experience in advanced corrosion resistant alloys and reliable seamless tubing solutions make us well positioned..." (Alleima의 고급 내식 합금 및 신뢰할 수 있는 심 없는 튜브 솔루션 경험이 우리를 좋은 위치에 배치함)</p><h3>Technical Insights</h3><br>• 심해 환경에서의 극한 조건(고압, 고염분, 저온) 대응을 위해 SAF 2507 고급 이중상 스테인리스강 합금 적용으로 장기 운영 신뢰성 확보<br>• 해저 인프라와 지상 시설 간 유압 제어 신호 전달 및 생산 유체 운송의 핵심 역할을 하는 탯줄 기술은 심해 유가스 개발의 필수 핵심 기술<br>• 인도네시아·말레이시아 14개 광구를 포함한 Searah 프로젝트 포트폴리오 확장으로 동남아시아 에너지 자원 개발 가속화 및 선진 재료 공급망 구축 동향 반영</p></div>`,
+      tags: ["Subsea Technology","Indonesia","Gas Project","Deepwater","Advanced Materials"],
+      link: "https://www.offshore-energy.biz/swedish-firm-gets-nearly-105m-order-for-subsea-piece-of-southeast-asian-gas-project/",
+      coords: [117.5,-0.5],
+      location: "East Kalimantan, Indonesia (Kutei North Hub)"
+    }
+  ]
+});
