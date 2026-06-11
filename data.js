@@ -8904,3 +8904,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-10
+addEvents({
+  "2026-06-10": [
+    {
+      type: "accident",
+      title: "Armed Security Team Repels Suspected Pirate Attack Off Yemen",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-06-10",
+      image: "https://gcaptain.com/wp-content/uploads/2017/04/12052771315_e0d9bb0246_b.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 예멘 남부 해역 88해리 해상에서 상선이 6명의 무장 개인을 탑승한 소형 선박으로부터 해적 공격을 받았으며, 선박의 무장 보안팀이 응전하여 공격선을 격퇴함<br>• 영국해사거래운영본부(UKMTO)에 의해 보고되었으며, 소말리 해적 활동과 후티 그룹의 미사일/드론 공격과는 다른 양상을 보임<br>• 결과: 선박 피해 및 인명 피해 없음, 현재 당국이 사건 조사 중<br>• 동 해역의 소말리 해적 문제: 현재 3척의 상선이 소말리 해적에 의해 피로 상태이며, 계절 기후 조건에도 불구하고 해적 활동 위험 지속<br>• 후티 운동의 최근 성명과 달리 확인된 공식 공격은 없으나, 소형 선박을 이용한 해적 활동 위험은 증가하는 추세</p><h3>Key Quotes</h3><br>• "There was an exchange of fire between the small craft and the cargo vessel's Armed Security Team resulting in the small craft turning away" (소형 선박과 화물선의 무장 보안팀 사이에 총격전이 발생하여 소형 선박이 후퇴했음)<br>• "piracy action group activity remains possible in the Gulf of Aden and Somali Basin despite seasonal weather conditions limiting offshore small-boat operations" (계절적 기후 조건이 해상 소형 선박 작전을 제한하고 있음에도 불구하고 아덴 만과 소말리 분지에서 해적 활동 집단의 활동이 가능함)</p><h3>Technical Insights</h3><br>• 해적 전술의 변화: 전통적 소형 선박 기반 해적 활동과 후티 그룹의 드론/미사일 공격 간 차별화된 위협 프로필로, 해운사들은 다층방어 체계(armed security teams, 레이더 감시, 회피 전술) 강화 필요<br>• 해역 보안 관리의 복잡성: 아덴 만과 홍해 지역에서 지정학적 갈등(후티)과 전통적 해적 활동이 동시 진행되어 해상 교통 안전에 대한 통합적 위험 평가 필요<br>• 무장 보안팀의 역할 강화: IMO 지침 및 국제 규범 준수 하에 선박 방어 능력 향상이 필수적이며, UKMTO 등 정보 공유 기관과의 실시간 협력 체계 강화 필요</p></div>`,
+      tags: ["piracy","Gulf of Aden","armed attack","security incident","Yemen"],
+      link: "https://gcaptain.com/armed-security-team-repels-suspected-pirate-attack-off-yemen/",
+      coords: [51.5,13.2],
+      location: "Southwest of Balhaf, Yemen (Gulf of Aden)"
+    },
+    {
+      type: "news",
+      title: "PXGEO and Equinor Test Autonomous Subsea Inspection Drone Technology",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-06-10",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/06/Saab-Sabertooth-UID-testing-will-be-conducted-in-Norway-Source-PXGEO.jpg?image-crop-positioner-ts=1781083385",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• PXGEO와 노르웨이 Equinor이 Saab Sabertooth 수중 드론(UID)의 자율 검사 기술 검증을 위한 1년 협약 체결<br>• 노르웨이 연안에서 자율 도킹 및 음향센서(sonar), 카메라를 이용한 해저 인프라 검사 시행 예정<br>• PXGEO의 첫 상용 자율 해저 검사 계약으로, 무인 운영 기술이 산업 표준화되는 추세 반영<br>• 이 협력은 브라질 Petrobras 컨소시엄과의 지진 탐사 계약에 이어진 PXGEO의 확장 계약<br>• 자율화(autonomy) 기술이 해양 에너지 산업의 핵심 운영 방식으로 전환되는 시점을 의미</p><h3>Key Quotes</h3><p>• "This is our first commercial contract in autonomous subsea inspection and the right partner and platform to do it with." <br>(이것은 자율 해저 검사의 첫 상용 계약이며, 함께 진행할 최적의 파트너와 플랫폼입니다)</p><p>• "The Sabertooth will dock autonomously and inspect subsea infrastructure in AUV mode"<br>(Sabertooth는 자율적으로 도킹하여 AUV 모드에서 해저 인프라를 검사할 것입니다)</p><h3>Technical Insights</h3><p>• **자율 수중 드론 기술**: Saab Sabertooth UID는 음향센서와 카메라를 탑재한 자율 도킹 기능을 보유하며, 원격 제어 없이 AUV(자율 수중 차량) 모드로 운영되는 차세대 기술<br>• **산업 표준화 전환**: 해양 에너지 산업에서 무인 운영(unmanned operations)이 표준화되고 있으며, 이는 인명 피해 위험 감소 및 운영 효율성 향상을 의미<br>• **IMO/국제 규제**: 자율 수중 드론의 확대 운영은 국제해사기구(IMO)의 무인선박 기술 기준 및 안전 규정 발전을 촉진하는 선례<br>• **비용 최적화와 안전성**: 자율 해저 검사 기술은 인적 오류 감소, 작업 시간 단축, 극한 환경 작업의 안전성 향상 등 복합적 이점 제공</p></div>`,
+      tags: ["autonomous subsea inspection","underwater drone","Saab Sabertooth","AUV technology","offshore operations"],
+      link: "https://www.offshore-energy.biz/pxgeo-and-equinor-putting-drone-for-autonomous-subsea-inspection-ops-to-the-test/",
+      coords: [5.852,60.472],
+      location: "Norway (nearshore)"
+    }
+  ]
+});
