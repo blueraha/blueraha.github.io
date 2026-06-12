@@ -8974,3 +8974,65 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-09
+addEvents({
+  "2026-06-09": [
+    {
+      type: "accident",
+      title: "U.S. Navy Strike on Tanker Settebello Kills Three Indian Seafarers in Gulf of Oman",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-06-11",
+      image: "https://gcaptain.com/wp-content/uploads/2026/06/MT-Settebello-attack.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 미국 해군의 정밀 공격으로 팔라우 국기 유조선 Settebello가 피격되어 인도 선원 3명이 사망한 사건 발생<br>• 선박 관리사 IOS Marine은 미국의 경고 통신 주장을 강하게 부인하며 국제 조사 촉구<br>• 미국 중앙군(CENTCOM)은 이란 석유 운송 혐의 및 지시 불이행을 이유로 엔진룸 타격 실행<br>• 선박 관리사는 이란과 무관한 정당한 상업 운항이었으며 10일간 정지 상태였다고 주장<br>• 탱커 추적업체 TankerTrackers.com은 해당 선박이 최소 5년간 이란산 원유 운송했다고 확인<br>• 사건은 미국의 이란 해상 봉쇄 정책 시행 과정에서 처음으로 확인된 사망 사고</p><h3>Key Quotes</h3><br>• "Three innocent lives have been lost, and the families of the deceased deserve answers" (세 명의 무고한 생명이 잃어졌으며, 사망자 가족들은 답변을 받을 자격이 있다)<br>• "We categorically reject claims that the Motor Tanker SETTEBELLO ignored warning calls, communications, or instructions" (Settebello 선박이 경고 신호, 통신 또는 지시를 무시했다는 주장을 명확히 거부한다)<br>• "No warning call, message, or communication was ever successfully established with the vessel prior to the actions taken against it" (공격 이전에 선박과 경고 신호, 메시지 또는 통신이 성공적으로 이루어진 적이 없다)</p><h3>Technical Insights</h3><br>• 해상 통신 및 경고 체계의 국제적 표준 부재 문제: 미국 해군과 선박 간 통신 수립 가능성에 대한 기본적인 입장 차이가 사건의 핵심 쟁점이며, IMO 차원의 명확한 절차 수립 필요성 대두<br>• 유조선 추적 기술의 신뢰성 문제: 독립적 추적 회사와 선박 관리사 간의 정보 불일치로 인해 해상 통제 작전에서의 데이터 신뢰성에 대한 국제적 검증 체계 구축이 시급한 상황<br>• 해상 봉쇄 정책 시행 시 민간 선박 안전 기준의 부족: 군사 작전에서 민간 해운 종사자의 생명 보호를 위한 명확한 국제 규약 및 에스컬레이션 절차(COLREG 강화) 필요성 강조<br>• 산업적 영향: 해양 보안 및 통신 기술 고도화에 대한 투자 증가 및 국제 해사 기구의 분쟁 해역 통항 안전 지침 개정 촉발 가능성</p></div>`,
+      tags: ["Tanker Attack","Gulf of Oman","Casualties","U.S. Navy","Iran Blockade"],
+      link: "https://gcaptain.com/ship-manager-demands-international-probe-into-fatal-u-s-attack-on-tanker/",
+      coords: [58.5,25.5],
+      location: "Gulf of Oman"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-11
+addEvents({
+  "2026-06-11": [
+    {
+      type: "news",
+      title: "Saronic and Castelion Partner on Maritime Hypersonic Launch from Autonomous Vessels",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-11",
+      image: "https://images.marinelink.com/images/maritime/w800/saroniccastelion-171388.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **자율무인표면함정(ASV)과 극초음속 미사일의 첫 통합**: 사로닉(Saronic)과 캐스텔리온(Castelion)이 무인 표면함정에서 극초음속 미사일 발사를 가능하게 하는 협력 발표, 2027년 시연 목표</p><p>• **핵심 자산**: 사로닉의 중형 자율무인표면함정(MUSV) '마라우더'와 캐스텔리온의 극초음속 미사일 '블랙비어드'의 통합으로 분산된 하이퍼소닉 발사 능력 실현</p><p>• **기술적 의의**: 2025년 말 ASV 코르세어가 텔레메트리 수집 및 통신 노드로 운영되며 사전 검증 완료, 2027년 해상 발사 시연을 위한 위험 저감 진행 중</p><p>• **생산 역량 확대**: 사로닉은 루이지애나 조선소 3억 달러 규모 확장(연 20척 마라우더 생산), 캐스텔리온은 뉴멕시코 레인저 프로젝트 통해 연 수천 척의 블랙비어드 미사일 생산 계획</p><p>• **전략적 함의**: 다수의 저비용 자율 플랫폼에서 하이퍼소닉 발사 능력을 분산시켜 발사 위치, 궤적, 타이밍의 예측 어려움으로 전략적 억제력 강화</p><h3>Key Quotes</h3><p>• "Hypersonic systems launched from unmanned platforms give commanders more ways to generate credible strike capacity without relying only on scarce, expensive crewed launch assets." (무인 플랫폼에서 발사되는 극초음속 시스템은 지휘관에게 희소하고 비싼 유인 발사 자산에만 의존하지 않고 신뢰할 수 있는 타격 능력을 갖출 수 있는 방법 제공)</p><p>• "By distributing launch across a larger number of lower-cost platforms, the U.S. can increase magazine depth, create more operational flexibility, and present adversaries with more launch locations, trajectories, and timing challenges." (더 많은 수의 저비용 플랫폼에 발사 능력을 분산시켜 미국은 탄약 저장량 증가, 운영 유연성 확대, 적국에 더 많은 발사 위치/궤적/타이밍 과제 제시 가능)</p><h3>Technical Insights</h3><p>• **자율무인표면함정의 군사적 확대**: 사로닉의 ASV 플랫폼이 단순 감시/정찰에서 극초음속 미사일 발사 플랫폼으로 진화, 무인 해양 전투 플랫폼의 새로운 패러다임 제시</p><p>• **분산 네트워크 기반 억제 전략**: 다수의 자율 플랫폼 네트워크를 통한 극초음속 무기 운용으로 기존 중앙집중식 발사 능력의 취약성 극복, 해양 작전의 복잡성 기하급수적 증가</p><p>• **조선 산업의 생산 혁명**: 사로닉의 연 20척 자율함정 생산, 텍사스 시설의 연 수천 척 소형 ASV 생산 목표는 해양 무인 플랫폼의 '대량 생산 체제' 구축의 신호탄으로, IMO 규제 체계 개정 압력 초래 예상</p><p>• **해양 COLREG와 자율 운영**: 극초음속 미사일 발사 플랫폼으로서의 ASV 운영은 국제 해상 충돌 방지 규칙(COLREG) 준수, 국제 수역 내 자율 군사 플랫폼의 법적 지위 문제로 국제 규제 개정 논의 촉발 가능성</p></div>`,
+      tags: ["Autonomous Surface Vessels","Hypersonic Systems","Maritime Technology","Defense Innovation"],
+      link: "https://www.marinelink.com/news/saronic-castelion-collaborate-maritime-540220",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "France Issues RFI for Carrier-Capable Collaborative Combat UAV System",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-06-11",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/06/PANG-France-Libre-Rafale-Marine-F5-CCA-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 프랑스 국방 조달청(DGA)이 차세대 협력형 전투 무인항공기(CCA) 체계에 대한 정보요청(RFI)을 2026년 6월 4일 공식 발표하였으며, 이는 유인-무인 팀 작전(MUM-T) 플랫폼 개발의 시장 탐색 단계를 의미함</p><p>• 해군 차원에서 함선 탑재 가능성이 강조되었으며, RFI의 기술 요구사항에서 항공모함 착함을 위한 최대 이착륙 중량 및 캐터펄트 대응 능력이 명시됨</p><p>• 향후 프랑스 차세대 항공모함(PANG) 프로그램 및 2038년 운용 예정인 프랑스 리브르(France Libre) 항공모함 구조 변화와 직결된 전력 요구사항으로 분석됨</p><p>• 무인항공기는 라팔 M(F5 표준) 전투기와의 협력 운영을 통해 대공방어망 침투, 적 방공 억제(SEAD), 정찰감시(ISR) 등 고위험 임무 수행 역할 기대</p><p>• 전자광학, 적외선, 레이더, 전자전 센서 및 대함 무장 통합 능력 등 복합 임무 장비 탑재 요구사항이 포함되어 해양 항공전 환경에서의 작전 능력 강조</p><p>• 산업체 응모 마감일은 2026년 8월 21일이며, 방위사업체 및 컨소시엄의 종합 제안 제출이 필요함</p><h3>Key Quotes</h3><p>• "The DGA explicitly asks industry to provide details on 'maximum takeoff weight' involving catapulting, as well as 'maximum landing weight' specifically accommodating 'landing on an aircraft carrier, if applicable.'" <br>(DGA는 산업체에 캐터펄트 운용 시 최대 이륙 중량 및 항공모함 착함 가능성에 대한 최대 착륙 중량 세부정보 제공을 명시적으로 요청함)</p><p>• "Future aircraft carrier-launched collaborative drones are expected to act as force multipliers for the Rafale M in the 'F5' standard, taking on high-risk roles such as penetrating anti-access/area-denial (A2/AD) bubbles, suppression of enemy air defenses (SEAD), and advanced intelligence, surveillance, and reconnaissance (ISR) ahead of the strike group."<br>(향후 항공모함 탑재 협력형 무인기는 라팔 M(F5 표준) 전투기의 전력 증강 수단으로 작용하며, 접근 거부/영역 거부(A2/AD) 돌파, 대공방어 억제(SEAD), 타격 집단 전방 정찰감시(ISR) 등 고위험 임무 담당)</p><h3>Technical Insights</h3><p>• 유인-무인 팀 작전(MUM-T) 아키텍처 해상 적용 시 자율 비행 및 임무 자동화 체계와 지휘통제(C2) 민첩성이 핵심 요구사항이며, 지상 제어소 및 유인기로부터의 직접 제어 능력이 필수적임</p><p>• 차세대 항공모함(PANG/프랑스 리브르) 운용 환경에 맞춘 함상 무인항공기 통합은 해상 전력 투사 역량 강화 및 항공모함 전투단의 작전 효율성 대폭 향상을 의미하며, 2038년 이후 해군 항공 체계의 근본적 변화를 예견함</p><p>• 센서 다중화(멀티센서 융합) 및 전자전 대응 능력 통합으로 거부된 해양 공역에서의 생존성 확대가 가능하며, 이는 대함 작전 및 방공 임무 수행 시 고도의 자율 의사결정 능력 필요를 시사함</p><p>• IMO 해사안전 규정과는 별개로, 군사용 무인항공체계의 국제 규범화 논의 및 협력군 간 운용 상호운용성(Interoperability)</p></div>`,
+      tags: ["UAV","Autonomous Systems","French Navy","Carrier Aviation","MUM-T","Defense Technology"],
+      link: "https://www.navalnews.com/naval-news/2026/06/france-issues-rfi-for-future-collaborative-combat-uav-with-carrier-capable-focus/",
+      coords: [2.3522,48.8566],
+      location: "France"
+    },
+    {
+      type: "news",
+      title: "Saronic and Castelion to Demonstrate First Maritime Hypersonic Launch from Autonomous Surface Vessel in 2027",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-06-11",
+      image: "https://www.navalnews.com/wp-content/uploads/2025/04/Saronic-Marauder-ASV.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **최초 통합 사례**: Saronic의 Medium Unmanned Surface Vessel(MUSV) Marauder와 Castelion의 Blackbeard 초음속 무기를 통합한 최초의 자율 해상 플랫폼 기반 초음속 발사 시스템 개발</p><p>• **기업 협력**: 2022년 말 설립된 두 스타트업이 분산형 초음속 타격 능력 개발을 위해 협력 중이며, 2027년 해상 시연을 목표로 진행 중</p><p>• **기술적 진전**: Saronic의 24피트 자율무인선 Corsair가 2025년 말 Castelion Blackbeard 비행 시험에서 원격 측정 및 통신 노드로 성공적으로 운용됨</p><p>• **전력 다각화 효과**: 저비용 무인 플랫폼을 통한 초음속 무기 분산 배치로 작전 유연성 향상, 적의 방어 회피, 발사 위치 예측 불가능성 증대</p><p>• **생산 능력 구축**: Saronic이 루이지애나 주 Franklin에 조선소를 운영하며 3척 추가 선체를 건조 중, 양사 모두 신속한 기술 반복 가능 구조 확보</p><p>• **군사 전략**: 유인 자산의 부족 및 고비용 문제를 해결하면서 전장 억지력(Deterrence)의 세 요소(능력, 역량, 신용성) 모두 강화 가능</p><h3>Key Quotes</h3><p>• "Launching a Castelion hypersonic from a Marauder MUSV significantly changes the approach for any adversary calculating where and how the U.S. can strike" <br>(Castelion 초음속 무기를 Marauder MUSV에서 발사하면 적군의 공격 위치와 방식 계산 방식을 근본적으로 변화시킨다)</p><p>• "Hypersonic systems launched from unmanned platforms give commanders more ways to generate credible strike capacity without relying only on scarce, expensive crewed launch assets"<br>(무인 플랫폼에서 발사되는 초음속 시스템은 희귀하고 비싼 유인 발사 자산에만 의존하지 않고도 신뢰할 수 있는 타격 능력을 생성할 수 있는 더 많은 방법을 제공한다)</p><h3>Technical Insights</h3><p>• **자율무인선의 군사 활용 확대**: 기존 감시정찰(ISR) 임무에서 벗어나 능동적 무기 플랫폼으로 진화하는 추세로, IMO MASS(Maritime Autonomous Surface Ships) 규제 프레임워크와는 별개로 군사 자율 시스템의 발전 속도가 급증</p><p>• **분산형 해양 전력 개념**: 고가의 유인 전투함 중심의 전력 투사 구조를 저비용 다수의 무인 플랫폼으로 전환하는 패러다임 변화로, 해상 봉쇄, 기뢰 탐지, 초음속 무기 발사 등 다층적 임무 수행 가능</p><p>• **신속한 개발 사이클**: Castelion의 2.5년 내 25회 이상의 비행시험 달성 및 Saronic의 1년 내 해상 시험 완료로, 전통적인 국방 납품 계약 기간(5-10년)을 대폭 단축하는 민간 기술 기업의 역할 증대</p><p>• **통합 자율화의 해양 안보 함의**: 복수의 무인 플랫폼 운용 시 통신 중단, GPS 거부 환경, 규칙 기반 충돌회피(COLREG) 미준용 우려 등으로 인해 사이버 보안 및 운영 안전성 확보가 함대 전력화의 핵심 과제로 부상</p></div>`,
+      tags: ["Autonomous Surface Vessels","Hypersonic Weapons","Military Technology","Unmanned Systems"],
+      link: "https://www.navalnews.com/naval-news/2026/06/saronic-and-castelion-to-demonstrate-first-of-its-kind-maritime-hypersonic-launch-capability/",
+      coords: [-92.3731,32.3792],
+      location: "Franklin, Louisiana, USA"
+    }
+  ]
+});
