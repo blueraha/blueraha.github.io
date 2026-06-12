@@ -9036,3 +9036,58 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2025-02-04
+addEvents({
+  "2025-02-04": [
+    {
+      type: "accident",
+      title: "Tow Rope Failure and Crew Injury on Tug Svitzer Avon",
+      source: "MAIB (Marine Accident Investigation Branch)",
+      sourceMeta: "gov.uk · 2025-02-04",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2025년 2월 4일 영국 브리스톨 킹로드 해역에서 선박 보조 작업 중 예인줄이 파단되어 선원 2명이 부상<br>• 선박: 스비처 에이본(Svitzer Avon) 예인선, 자동차 운반선 오토 에코(Auto Eco)와의 선박 보조 작업 중 발생<br>• 원인: 선박 침로 수정 과정에서 과도한 하중 증가로 예인줄 파단, 반사된 줄이 선실 앞 창을 파괴하고 비산한 유리파편으로 선장과 항해사 경상<br>• 주요 결함: 제한된 경험의 구호 선장이 항해사를 감독했으며, 예인줄 위험관리 시스템 부족 및 최고 관행 미이행<br>• 과거 사례: 동일 예인줄이 2024년 7월에 파단된 후 끝부분 교체했으나, 307회 작업 후 재파단<br>• 결과: 두 선원 모두 병원 치료 후 퇴원, 선박은 계속 운항하여 보조 작업 완료</p><h3>Key Quotes</h3><p>• "The relief master was not authorised to supervise the mate during the move." (구호 선장이 이 작업 중 항해사를 감독할 권한이 없었음)</p><p>• "The tow rope had previously parted in July 2024 after 800 tasks and had been changed end-to-end. The tow rope subsequently parted on its 307th task due to the excessive towline assembly loading" (예인줄이 2024년 7월 800회 작업 후 파단되어 양 끝을 교체했으나, 307회 작업 후 과도한 예인줄 하중으로 재파단)</p><p>• "The towage company relied on visual inspection and tow rope rotation for towline risk management. The company did not follow best practice nor conduct residual strength testing on parted ropes" (예인 회사는 시각 검사와 예인줄 회전에만 의존했으며, 파단된 줄에 대한 잔존 강도 검사나 최고 관행을 따르지 않았음)</p><h3>Technical Insights</h3><p>• **예인줄 손상 관리의 미흡**: 2024년 7월 파단 이후 끝부분 교체만 실시했으나, 잔존 강도 검사(residual strength testing)를 시행하지 않아 재파단 위험을 간과함. 국제 해사 관행상 파단된 예인줄은 전면 교체가 필수</p><p>• **선박 보조 작업 중 과도한 하중**: 자동차 운반선의 침로 수정 과정에서 과도정정(overcorrection)이 발생하면서 예인줄에 설계 하중을 초과하는 응력이 가해짐. 렌더 시스템(render system)이 설치되어 있었음에도 사용하지 않아 하중 완화 기회 상실</p><p>• **인력 관리 및 훈련 체계의 결함**: 제한된 경험의 구호 선장이 항해사를 감독하도록 허가된 상황으로, 선주사의 훈련 규정이 명확하지 않고 모니터링이 미흡함. IMO 및 SOLAS 규정상 적절한 감독 체계 수립 필수</p><p>• **위험 관리 시스템의 개선 필요**: 단순 시각 검사와 줄 회전만으로는 파단 위험을 식별 불가. 정기적 비파괴 검사(NDT), 하중 모니터링 시스템, 손상 평가 프로토콜 도입으로 예방적 유지보수 체계 강화 권고</p></div>`,
+      tags: ["tow rope failure","crew injury","tugboat accident","River Severn","ship assist operation"],
+      link: "https://www.gov.uk/maib-reports/failure-of-a-tow-rope-and-injury-to-crew-on-board-the-tug-svitzer-avon",
+      coords: [-2.6117,51.4545],
+      location: "King Road, River Severn, Bristol, England"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-12
+addEvents({
+  "2026-06-12": [
+    {
+      type: "news",
+      title: "Canadian AI Company Demonstrates 43km Autonomous Maritime Targeting Without GPS",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-06-12",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 캐나다 방위 소프트웨어 업체 SPARC AI Inc.가 GPS 신호 없이 43km 거리에서 목표물을 자동으로 획득 및 추적하는 자율 타겟팅 시스템 시연<br>• 개발 기술은 해양 초크포인트(maritime chokepoint)에서의 작전 운용을 기준으로 벤치마킹되었으며, 개방 수역에서의 운영 가능성 입증<br>• 자율 시스템이 GPS 의존성을 제거하고 독립적 표적 추적 능력을 확보하는 것은 해양 방위 및 자율선박 기술의 중요한 진전<br>• SPARC AI의 기술은 드론 및 해상 플랫폼의 실시간 목표 획득 능력 향상으로 해양 감시/방어 체계 고도화 가능<br>• 이 기술은 GPS 신호 차단 상황에서도 해상 자율 운항 시스템의 안정적 운영 필요성을 강조</p><h3>Key Quotes</h3><p>• "demonstrated that its autonomous targeting system can acquire and track a target at a range of 43 km over open water without relying on GPS" (GPS에 의존하지 않고 개방 수역에서 43km 거리의 목표물을 자동으로 획득하고 추적할 수 있는 자율 타겟팅 시스템을 시연했다)</p><h3>Technical Insights</h3><p>• **GPS-독립적 자율항법**: 전자전(EW) 환경이나 GPS 신호 차단 상황에서도 자율 추적 능력 확보는 해양 무인 시스템의 신뢰성 강화에 기여<br>• **COLREG 준수 및 감지-회피 능력**: 자율 타겟팅 기술의 발전은 국제 해사법규(COLREG) 준수 알고리즘과 통합되어야 하는 과제 제기<br>• **해상 초크포인트 보안**: 분쟁 수역(남중국해, 호르무즈 해협 등)에서의 자율 감시/방어 시스템 고도화로 해상 보안 체계 변화<br>• **민간 자율선박 산업 함의**: 방위 기술의 자율화 수준 향상은 민간 자율선박의 기술 발전 경로 및 규제 요구사항 재검토 필요성 시사</p></div>`,
+      tags: ["Autonomous Systems","AI Navigation","Maritime Technology","Defense Innovation"],
+      link: "https://defence-blog.com/drone-locks-onto-target-43km-away-without-gps-signal/",
+      coords: [0,0],
+      location: "Global (Maritime Chokepoint Reference)"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-11
+addEvents({
+  "2026-06-11": [
+    {
+      type: "news",
+      title: "Taihan Cable signs HVDC cooperation agreements with Jan De Nul and Boskalis",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-06-11",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/06/Taihan-signs-HVDC-cooperation-MOU-with-Jan-De-Nul.jpg?image-crop-positioner-ts=1781170683",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 한국 태환케이블이 벨기에 Jan De Nul, 네덜란드 Boskalis와 고압직류(HVDC) 해저케이블 사업 협력을 위한 양해각서(MOU)를 체결했습니다.</p><p>• 협력 범위는 HVDC 해저케이블 및 관련 인프라 개발, 글로벌 에너지 전환 및 해상 전력 송전 시장의 새로운 사업 기회 탐색입니다.</p><p>• 태환케이블은 케이블 제조 및 프로젝트 실행 능력과 두 유럽 기업의 해상풍력, 해양 인프라, 해저케이블 설치 전문성을 결합하여 글로벌 HVDC 케이블 시장에서의 위치를 강화합니다.</p><p>• 당진에 건설 중인 제2 해저케이블 제조 시설은 640kV HVDC 케이블 생산 능력을 보유할 예정입니다.</p><p>• 최근 10,000톤급 케이블 포설선(CLV) Skandi Connector 인수로 설치 역량을 강화했으며, 기존 Palos 운영으로 국내 유일의 전용 케이블 포설선을 보유하고 있습니다.</p><p>• 해상 전력 송전 프로젝트의 제조, 운송, 설치 통합 서비스 제공 전략을 추진 중입니다.</p><h3>Key Quotes</h3><p>• "These investments are intended to support its strategy of providing integrated manufacturing, transportation and installation services for offshore power transmission projects worldwide." (해상 전력 송전 프로젝트의 제조, 운송, 설치 통합 서비스를 전 세계적으로 제공하는 전략을 지원하기 위한 투자입니다.)</p><p>• "The partnerships will focus on HVDC submarine cables and related infrastructure, with the companies also exploring new business opportunities linked to the global energy transition and offshore power transmission market." (협력은 HVDC 해저케이블 및 관련 인프라에 초점을 맞추며, 글로벌 에너지 전환과 해상 전력 송전 시장의 새로운 사업 기회를 탐색합니다.)</p><h3>Technical Insights</h3><p>• 해상 풍력 및 재생에너지 확대에 따른 HVDC 해저케이블 수요 증가로, 제조-운송-설치의 수직 통합 사업 모델이 글로벌 경쟁력의 핵심 요소가 되고 있습니다.</p><p>• 640kV 고압직류 케이블 기술은 장거리 해상 전력 송전의 손실 최소화와 효율성 극대화를 가능하게 하며, 유럽의 재생에너지 통합망 구축에 중요한 역할을 합니다.</p><p>• 전용 케이블 포설선(CLV) 보유는 해상 에너지 인프라 프로젝트의 비용 효율성과 일정 관리의 경쟁 우위를 제공하며, 한국 해양플랜트 산업의 오프쇼어 에너지 시장 진출을 강화합니다.</p><p>• 한국-EU 에너지 전환 협력 포럼을 통한 이번 협력은 탄소중립 달성을 위한 국제 협력 강화 추세와 아시아 에너지 기업의 유럽 오프쇼어 시장 진출 전략을 반영합니다.</p></div>`,
+      tags: ["HVDC Subsea Cable","Strategic Partnership","Offshore Wind","Cable Manufacturing"],
+      link: "https://www.offshore-energy.biz/taihan-cable-signs-hvdc-cooperation-agreements-with-jan-de-nul-and-boskalis/",
+      coords: [4.3517,50.8503],
+      location: "Brussels, Belgium"
+    }
+  ]
+});
