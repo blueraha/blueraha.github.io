@@ -9141,3 +9141,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-12
+addEvents({
+  "2026-06-12": [
+    {
+      type: "news",
+      title: "HaiSea Marine Awards Contracts for Escort Vessel and Terminal Tugboats",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-12",
+      image: "https://images.marinelink.com/images/maritime/w800/haisea-marine-171429.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• HaiSea Marine이 BC 북부 해안 지역 함대 확장을 위해 새로운 예선 계약 발주<br>• Sanmar Shipyards(터키)와 Damen Shipyards Group(베트남)에서 각각 호위 예선과 터미널 예선 2척 건조 계약<br>• 호위 예선은 Robert Allan RAstar 4000 시리즈 설계로 현재 키티마트에서 운영 중인 HaiSea 예선과 동일 사양<br>• ASD 2813 터미널 예선은 70톤급 볼라드 풀(bollard pull) 성능 제공, 동절기 운영 패키지 및 소방 기능 포함<br>• 신규 예선 도입으로 BC 북부 해안의 항만 운영 효율성 및 안전성 강화 예상</p><h3>Key Quotes</h3><br>• "The escort vessel is a variant of the well-proven Robert Allan designed RAstar 4000 series of high-performance escort tugs" (호위 예선은 입증된 Robert Allan 설계의 RAstar 4000 시리즈 고성능 예선의 변형 모델)<br>• "The terminal tugs will offer a bollard pull of up to 70 tonnes. The design will include a winterization package, along with firefighting capabilities" (터미널 예선은 최대 70톤의 볼라드 풀 성능을 제공하며 동절기 패키지와 소방 능력을 포함)</p><h3>Technical Insights</h3><br>• 예선 선대 현대화: RAstar 4000과 ASD 2813은 업계 표준 설계로 운영 신뢰성과 유지보수 효율성이 우수한 검증된 모델<br>• 지역 해상 운영 강화: 동절기 운영 패키지와 소방 능력 통합으로 극한 기후 환경에서의 항만 안전성 및 비상 대응 능력 개선<br>• 다중 조선소 활용 전략: 터키와 베트남 조선소 활용으로 글로벌 공급망 다각화 및 건조 일정 최적화 달성</p></div>`,
+      tags: ["Fleet Expansion","Tugboat","Shipbuilding Contract","BC North Coast"],
+      link: "https://www.marinelink.com/news/haisea-marine-awards-contracts-escort-540269",
+      coords: [-128.5,55.5],
+      location: "Kitimat, British Columbia"
+    },
+    {
+      type: "news",
+      title: "Gulf Oil Supply Disruption from Iran War Less Severe Than Initially Estimated",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-12",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stocklukasz-171424.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이란 전쟁 개시 이후 호르무즈 해협을 통한 원유 공급 차질이 초기 예상보다 훨씬 적음 - 초기 추정 1,200만~1,500만 배럴/일에서 실제 500만~600만 배럴/일 수준으로 조정</p><p>• Kpler 해운 데이터 분석에 따르면 4월 초~6월 10일 기간 호르무즈 해협을 통과한 비이란산 원유는 약 1억 3,600만 배럴(일평균 190만 배럴/일)에 달함</p><p>• 이라크, 쿠웨이트, UAE 등이 위성추적 시스템을 꺼놓은 유조선을 활용한 대체 물류 경로 구축으로 원유 유통 지속</p><p>• 사우디아라비아의 얀부 항(홍해)을 통한 우회 수출, 미국 원유 수출 증가, 국제 비축유 방출(4억 배럴), 중국 수요 감소 등이 유가 안정화에 기여</p><p>• 브렌트유 선물가격이 3월 초 배럴당 $120에서 $90 이하로 하락하며 시장의 공급 안정성 평가 반영</p><h3>Key Quotes</h3><p>• "After an initial disruption at the onset of the conflict, flows strengthened as alternative logistics scaled up" (분쟁 초기의 차질 이후 대체 물류망 확대로 원유 흐름이 강화되었음)</p><p>• "The figure could be closer to 5 to 6 million barrels per day, sources at two major trading companies said, citing internal calculations based on producers finding ways to keep cargoes moving" (주요 거래회사들의 내부 계산에 따르면 실제 공급 차질은 일 500만~600만 배럴 수준으로 생산업체들이 화물 운송 방법을 지속적으로 발견하고 있음)</p><h3>Technical Insights</h3><p>• **해운 추적 및 스푸핑 기술**: 위성 위치확인 시스템(AIS) 차단 및 신호 위장을 통한 은폐 운항이 공급망 우회 수단으로 활용되면서 해운 투명성 감시의 한계 노출</p><p>• **에너지 공급 안보 및 다층 경로 구축**: 단일 해협 의존도를 낮추기 위한 대체 항로(홍해 얀부 항, 육로 수송) 개발로 국제 해운 시스템의 탄력성 강화 필요성 대두</p><p>• **국제 해양법 준수와 제재 우회 문제**: 이란과의 거래 여부 불명확한 우회 수출이 UNCLOS 및 국제 제재 체계에 미치는 영향과 해양 교통 규제의 실질적 효과성 재평가 필요</p><p>• **LNG 및 대체 에너지 경쟁력 강화**: 원유 공급 위기 대응으로 신재생에너지 및 LNG 활용 가속화되는 추세로 장기적 해운 물동량 구조 변화 예상</p></div>`,
+      tags: ["Oil tankers","Strait of Hormuz","Iran conflict","Crude supply","Alternative logistics"],
+      link: "https://www.marinelink.com/news/lost-gulf-oil-start-iran-war-less-540264",
+      coords: [56.1499,26.1207],
+      location: "Strait of Hormuz, Persian Gulf"
+    },
+    {
+      type: "news",
+      title: "Shipping Industry Leaders Condemn Attacks on Seafarers in Strait of Hormuz",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-12",
+      image: "https://images.marinelink.com/images/maritime/w800/-171420.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **심각한 해양안보 위기**: BIMCO, ICS, INTERCARGO, INTERTANKO 등 주요 해운 단체들이 호르무즈 해협 내 상선에 대한 공격 46건(2월 28일 이후)을 규탄하며, 확인된 선원 사망자는 14명에 달함</p><p>• **국제법 위반 우려**: 자유로운 해상 통행이라는 기본 원칙이 심각하게 훼손되고 있으며, 무장분쟁법(Law of Armed Conflict)에 따른 비례성과 민간인 피해 최소화 원칙이 준수되지 않고 있음</p><p>• **선원 보호 절실**: 민간인 성격의 상선과 선원들은 운송 화물이나 항로 결정에 영향력이 없으며, 정치·군사적 압박의 도구로 악용되어서는 안 됨</p><p>• **글로벌 무역 영향**: 국제 무역의 핵심을 담당하는 상선들의 안전성 훼손은 세계 경제에 직결된 중대 문제이며, 신뢰 재구축을 위해 모든 당사자의 자제와 국제법 준수 필요</p><p>• **선사의 대응 촉구**: 선주들에게 상황을 신중히 평가하고 분쟁 당사자로부터의 지시를 받을 시 승무원 안전을 최우선으로 할 것을 요구</p><h3>Key Quotes</h3><p>• "Seafarers should never be collateral damage, victims or instruments of political or military pressure." (선원들은 정치적·군사적 압박의 담보물이나 도구가 되어서는 안 됨)</p><p>• "Attacks on merchant ships constitute a direct challenge to the fundamental principle of freedom of navigation which is essential to the global economy and enshrined in international law." (상선에 대한 공격은 국제법에 명시된 글로벌 경제의 필수 원칙인 자유로운 해상 통행에 대한 직접적 도전)</p><p>• "Rebuilding confidence in the safety of the Strait of Hormuz will require not only an end to attacks, but also clear demonstrations of restraint and adherence to international law by all parties." (호르무즈 해협의 안전성에 대한 신뢰 재구축을 위해서는 공격 중단뿐만 아니라 모든 당사자의 명확한 자제와 국제법 준수 필요)</p><h3>Technical Insights</h3><p>• **해상자유통항권(Freedom of Navigation)**: 유엔해양법협약(UNCLOS)에서 보장하는 기본 원칙이 무장분쟁으로 훼손되고 있으며, IMO를 포함한 국제기구의 중재와 모니터링 강화 필요</p><p>• **선박 자동화·자율운항의 필요성**: 고위험 해역에서의 유인 선박 운영 리스크 증가에 따라 무인 자율운항선(Autonomous Ships)과 원격조종(Remote Operation) 기술 도입의 가속화 예상</p><p>• **기업사회책임(CSR) 및 보험료 영향**: 해운사들의 고위험 해역 항해 결정 시 선원 보호와 비용-편익 분석이 강화될 것이며, 해양보험료 상승과 운임 인상 가능성 높음</p><p>• **국제해사기구(IMO) 역할 강화**: 분쟁해역 선박 운항 지침 개발, 해상안전 모니터링 체계 개선, 그리고 SOLAS 규정 등 국제해사안전규약의 실효적 이행 감시 필요성 대두</p></div>`,
+      tags: ["Strait of Hormuz","Maritime Security","Seafarer Safety","Freedom of Navigation"],
+      link: "https://www.marinelink.com/news/shipping-industry-leaders-condemn-recent-540261",
+      coords: [56.1422,26.1241],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
