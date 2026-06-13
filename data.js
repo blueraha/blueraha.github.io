@@ -9091,3 +9091,53 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-09
+addEvents({
+  "2026-06-09": [
+    {
+      type: "accident",
+      title: "M/T Settebello Struck by U.S. Forces in Gulf of Oman; Hormuz Death Toll Reaches 14",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-06-12",
+      image: "https://gcaptain.com/wp-content/uploads/2026/06/MT-Settebello-attack.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **M/T Settebello 피격**: 팔라우 국적 유조선이 2026년 6월 9일 오만만에서 미군의 정밀 공격으로 엔진실이 파괴되었으며, 인도 선원 3명이 사망함</p><p>• **호르무즈 해역 위기 심화**: 2월 28일 이후 호르무즈 해협 및 인접 지역에서 46건의 공격이 확인되었으며, 총 14명의 선원이 사망한 것으로 집계됨</p><p>• **국제 해운 조직의 공동 성명**: BIMCO, ICS, INTERCARGO, INTERTANKO가 상선 공격 중단과 국제법 준수, 민간 해양인 보호를 촉구하는 성명을 발표함</p><p>• **민간인 피해의 심각성**: IMO 사무총장 Arsenio Dominguez는 해운업계가 아무 책임이 없는 분쟁에 피해를 입고 있다며 강하게 비난함</p><p>• **미국의 봉쇄 정책 대가**: 6월 9일 공격은 미국의 이란 해운 봉쇄 강제 과정에서 처음으로 확인된 사망 사건임</p><p>• **해양 안전의 국제적 우려**: 상선과 승무원의 민간인 지위가 군사·정치적 압력의 도구가 되어서는 안 된다는 국제적 합의 위반</p><p>---</p><h3>Key Quotes</h3><p>• "There is grave concern about the recent escalation of the conflict which puts the lives of our seafarers at risk, compromises the safety of international shipping and restricts freedom of navigation" <br>(분쟁의 최근 확대로 인해 해양인의 생명이 위험에 처해 있으며, 국제 해운 안전이 훼손되고 항해의 자유가 제한되고 있다는 심각한 우려가 있다)</p><p>• "I strongly condemn any act from any party that endangers the lives of seafarers and the safety of international shipping. This is simply unacceptable"<br>(어느 누구든 해양인의 생명과 국제 해운 안전을 위협하는 행위에 대해 강력히 비난한다. 이는 단순히 용납될 수 없다)</p><p>• "Seafarers should never be collateral damage, victims or instruments of political or military pressure"<br>(해양인은 절대로 부수적 피해, 피해자, 또는 정치·군사적 압력의 도구가 되어서는 안 된다)</p><p>---</p><h3>Technical Insights</h3><p>• **국제해사법 위반**: 상선에 대한 군사 행동은 국제해사기구(IMO) 및 UNCLOS에서 명시한 민간 해상 활동 보호 규정을 위반하며, 자유항해권과 국제법의 기본 원칙에 저촉됨</p><p>• **호르무즈 해협 안전 위기**: 전략적 요충지인 호르무즈 해협에서의 무장 충돌로 인해 글로벌 해상 무역로 차단 위험이 증가하고 있으며, 이는 국제 에너지 공급망에 직접적 영향을 미침</p><p>• **선박 추적 및 규제 시스템의 악용**: 상선의 항로 데이터와 선적 정보가 군사적 목표물 선정에 활용되는 추세로, 해운 투명성 시스템(AIS, IMO-DJIBOUTI CODE)이 오용될 우려가 있음</p><p>• **산업 리더십의 집단 행동**: BIMCO 등 글로벌 해운 조직의 공동 성명은 상선 중립성 원칙 회복을 위한 국제적 압력 강화를 시사하며, IMO의 규범 집행 능력과 국제중재 메커니즘의 필요성을 부각시킴</p></div>`,
+      tags: ["tanker attack","Gulf of Oman","U.S. blockade","seafarer casualties","maritime security"],
+      link: "https://gcaptain.com/shipping-industry-condemns-attacks-on-seafarers-as-hormuz-death-toll-reaches-14/",
+      coords: [56.5,26.5],
+      location: "Strait of Hormuz / Gulf of Oman"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-12
+addEvents({
+  "2026-06-12": [
+    {
+      type: "accident",
+      title: "Oil Spill from Trinidad and Tobago Threatens Venezuelan Waters and Fishing",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-12",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockpeter-171426.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **유출 사건 규모**: 베네수엘라 정부가 트리니다드토바고 해역에서 발생한 유류 유출이 5월 사건보다 더 큰 규모이며 베네수엘라 해역으로 확산되었다고 발표</p><p>• **환경 및 경제적 위협**: 유류 유출로 인해 베네수엘라의 어업 및 환경에 직접적인 위협이 발생하며, 위성 이미지로 확인됨</p><p>• **트리니다드토바고의 대응**: 트리니다드토바고 정부는 공군, 해안경비대, 드론을 동원하여 유류 유출 위치 파악 및 정찰 작업 실시 중</p><p>• **외교적 갈등**: 베네수엘라 외교장관이 이전 5월 유출사건에 대한 배상을 요청했으며, 현 사건에 대해 국제기구에 책임 추궁할 권리를 예약</p><p>• **양국 관계 악화**: 트리니다드토바고의 새 정부가 베네수엘라 전 대통령 니콜라스 마두로 체포를 주도한 미국 조치를 지지하면서 양국 관계가 14개월간 긴장 상태 지속</p><h3>Key Quotes</h3><p>• "This event exceeds in magnitude the one that occurred in May and confirms the drift of pollutants toward Venezuelan waters" <br>(이번 사건은 5월에 발생한 사건보다 규모가 크며 오염물질이 베네수엘라 해역으로 유입되고 있음을 확인해준다)</p><p>• "The Air Guard and Coast Guard have been deployed to do reconnaissance work on the sea and with drones to determine the facts"<br>(공군과 해안경비대가 해상 정찰 작업 및 드론을 활용하여 사실 파악을 위해 배치되었다)</p><p>• Venezuela "reserves the right to take appropriate action before the competent international bodies to determine liability"<br>(베네수엘라는 책임 규명을 위해 국제기구에 적절한 조치를 취할 권리를 보유하고 있다)</p><h3>Technical Insights</h3><p>• **해양오염 대응 프로토콜**: 양국이 유류 유출 원점과 오염물질 확산 경로 파악에 상이한 입장을 보이고 있으며, 정확한 위치 좌표 공유 및 국제 해양법에 따른 책임 규명 필요</p><p>• **환경 모니터링 기술**: 위성 이미지 활용을 통한 유류 유출 감지 및 추적이 이루어지고 있으며, 드론과 함께 실시간 해상 정찰 체계 구축의 중요성 확대</p><p>• **국제해사기구(IMO) 절차**: 양국 간 해양오염 사건에 대한 국제적 책임 배분 및 보상 메커니즘이 활성화될 가능성 높으며, MARPOL(해양오염방지협약) 규정의 준수 강화 필요</p><p>• **지정학적 영향**: 정치적 갈등이 해양환경 분쟁으로 확대되는 양상으로, 역내 해양 거버넌스 및 분쟁 해결 메커니즘 강화의 시급성 대두</p></div>`,
+      tags: ["Oil Spill","Environmental Damage","Venezuela","Trinidad and Tobago","Marine Pollution"],
+      link: "https://www.marinelink.com/news/venezuela-trinidad-tobago-oil-spill-540266",
+      coords: [10.5,10.8],
+      location: "Venezuelan Waters / Trinidad and Tobago"
+    },
+    {
+      type: "news",
+      title: "MDL Supports Saipem's Flex-Lay Operations in Guyana with Tensioner Solution",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-06-12",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2022/05/Normand-Maximus-Solstad.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **MDL이 Saipem의 가이아나 해상 작업 지원**: Aberdeen 기반 Maritime Developments Limited(MDL)가 이탈리아 Saipem의 flex-lay 준비 작업을 미국 루이지애나주 후마에서 지원</p><p>• **2-track 텐셔너 패키지 활용**: MDL의 고용량 저풋프린트 텐셔너가 Normand Maximus 선박의 under-deck carousel로 우산형 케이블(umbilical)을 재배치하는 데 사용됨</p><p>• **ExxonMobil Uaru 프로젝트 대상**: 이 장비는 가이아나 Stabroek 블록의 ExxonMobil 운영 Uaru 심해 개발 프로젝트에 투입될 예정</p><p>• **지역 장비 기지의 전략적 가치**: Houma 시설에서 빠른 장비 동원과 품질 테스트가 가능하여 미주 지역 대응력 강화</p><p>• **25년 이상의 flex-lay 전문성**: MDL은 서아프리카, 지중해, 가이아나 등 심해 분지에서 25년 이상의 축적된 경험으로 신규·확장 프로젝트 지원</p><h3>Key Quotes</h3><p>• "Guyana is a key part of MDL's Americas strategy and our high-capacity but low-footprint equipment, combined with over 25 years of global flexlay expertise, mean we are perfectly placed to enable new and expanding developments in the region with speed and confidence." (가이아나는 MDL의 미주 전략의 핵심이며, 고용량이면서도 공간 효율적인 장비와 25년의 flex-lay 전문성으로 지역의 신규 및 확장 프로젝트를 신속하고 자신감 있게 지원할 수 있다)</p><p>• "Saipem required a tensioner to support our vessel transpooling effort in the US during our vessel mobilization. MDL was able to provide a quick solution being in country with their equipment and provided a quality solution." (Saipem은 미국 내 선박 동원 시 transpooling을 지원할 텐셔너가 필요했는데, MDL은 현지 장비를 보유하고 있어 신속하고 품질 높은 솔루션을 제공했다)</p><h3>Technical Insights</h3><p>• **지역 기반 장비 동원 체계의 중요성**: 미주 지역 Houma 장비 기지를 통해 flex-lay 패키지를 신속히 테스트·동원할 수 있으며, 이는 걸프 및 양 아메리카 동부 해안 프로젝트 대응력 강화의 핵심 인프라</p><p>• **심해 개발의 로지스틱 효율성**: Transpooling 작업 중 현지 전문 인력 지원과 품질 검증(squeeze test)이 가능하여 프로젝트 일정 지연 위험 감소 및 운영 신뢰성 향상</p><p>• **가이아나 블록 개발 확대와 산업 성장**: ExxonMobil의 Uaru, Yellowtail 등 다중 프로젝트 진행으로 가이아나의 심해유전 개발이 가속화되고 있으며, 이는 서방 국가 에너지 공급 다원화 전략의 일환</p></div>`,
+      tags: ["flex-lay operations","subsea equipment","Guyana","deepwater development"],
+      link: "https://www.offshore-energy.biz/mdl-lends-saipem-a-hand-with-flex-lay-prep-for-ops-in-guyana/",
+      coords: [-58.8697,4.8604],
+      location: "Guyana (Stabroek Block)"
+    }
+  ]
+});
