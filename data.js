@@ -9185,3 +9185,53 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-13
+addEvents({
+  "2026-06-13": [
+    {
+      type: "accident",
+      title: "Ukrainian Drone Strikes Ignite Fire at Tamanneftegaz Terminal in Temryuk, Russia",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-06-13",
+      image: "https://gcaptain.com/wp-content/uploads/2026/06/2026-06-04T092414Z_1107733592_RC2BMLA2T10Q_RTRMADP_3_UKRAINE-CRISIS-ST-PETERSBURG-ATTACK-800x509.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 우크라이나 드론이 러시아 남부 템류크 항구의 타만네프테가즈 유류 터미널을 공격하여 화재 발생 및 1명 사망<br>• 공격 대상: 유류 저장탱크 5개, 석유 로딩 스탠드 2개, 화물 수송 터미널 및 저장 시설<br>• 동시에 볼고그라드 지역의 석유 처리·송유 시설도 드론 공격으로 화재 발생<br>• 루코일 소유 볼고그라드 정유소는 5월 29일 이후 석유 처리 중단 상태<br>• 우크라이나는 러시아의 에너지 인프라를 지속적으로 타격하는 전략 수행 중</p><h3>Key Quotes</h3><br>• "Ukrainian drones hit the Tamanneftegaz oil and gas terminal in the Russian Krasnodar region, striking five fuel tanks and also two oil loading stands" (우크라이나 드론이 타만네프테가즈 터미널의 연료 저장탱크 5개와 석유 로딩 스탠드 2개를 타격)<br>• "Ukraine continues to pummel Russia's energy infrastructure as peace talks to resolve the four-year Ukraine war have stalled" (평화 협상이 교착 상태에 빠진 가운데 우크라이나는 러시아의 에너지 인프라를 계속 타격)</p><h3>Technical Insights</h3><br>• 항만·해상 터미널에 대한 드론 공격은 해상 물류 네트워크 전반에 광범위한 영향을 미치며, 국제 해양법상 전쟁 지역 해상 활동의 위험성 증대<br>• 석유 처리 및 송유 시설 손상으로 인한 환경 오염 위험 및 해양 생태계 영향 가능성<br>• 주요 에너지 인프라 공격으로 인한 지역 경제 마비 및 해운 산업의 공급망 차질</p></div>`,
+      tags: ["drone attack","oil terminal fire","Russia","Ukraine conflict","energy infrastructure"],
+      link: "https://gcaptain.com/ukraine-drone-strikes-sparks-fire-at-russian-port/",
+      coords: [45.2842,45.2867],
+      location: "Temryuk, Krasnodar Region, Russia"
+    },
+    {
+      type: "news",
+      title: "Inmarsat NexusWave Certified by ClassNK for IACS Cyber Security Standards",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-06-13",
+      image: "https://maritime-executive.com/media/images/article/f1c7a6ab-f489-e83c-f87d-14da793cece7.672489.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Inmarsat Maritime의 NexusWave 관리형 연결 서비스가 ClassNK로부터 사이버 보안 형식인증(Type Approval) 획득<br>• IACS Unified Requirement UR E27 (Rev.1) 최신 기준 완전 준수 확인 - 선박 시스템의 사이버 복원력 의무 요구사항 충족<br>• ClassNK는 온보드 ICT 아키텍처, 네트워크 장비, 오케스트레이션 프로세스, 관리형 서비스 엣지 인프라를 통합 검증<br>• 선박 운영자들의 사이버 복원력 요구사항 증가에 따른 신뢰성 있는 솔루션 제공<br>• Viasat 산하 Inmarsat Maritime의 설계 초기 단계부터 보안 및 복원력 강화 전략 입증</p><h3>Key Quotes</h3><p>• "Cyber resilience has become a critical operational requirement for shipowners. The ClassNK Cyber Security certification independently verifies that NexusWave has been designed from the ground up to be secure and resilient." (선박 운영자들에게 사이버 복원력이 중요한 운영 요구사항이 되었으며, ClassNK 인증이 NexusWave가 처음부터 보안과 복원력을 갖도록 설계되었음을 독립적으로 검증)</p><p>• "Working with industry front-runners such as Inmarsat Maritime is an important step in supporting the implementation of cyber-resilient technologies onboard ships." (Inmarsat Maritime 같은 업계 선도 기업과의 협력이 선박 온보드 사이버 복원력 기술 구현을 지원하는 중요한 단계)</p><h3>Technical Insights</h3><p>• **UR E27 규제 준수**: IACS의 Unified Requirement UR E27(Rev.1)은 선박 시스템의 사이버 사건 발생 및 영향을 줄이기 위한 필수 요구사항으로, NexusWave의 통합 온보드 ICT 아키텍처 차원의 검증으로 시스템 레벨 사이버 복원력 달성</p><p>• **통합 시스템 검증의 중요성**: 개별 컴포넌트뿐만 아니라 네트워크 장비, 오케스트레이션 프로세스, 관리형 서비스 인프라를 포함한 통합 온보드 ICT 아키텍처 평가로 실제 운영 환경의 사이버 복원력 검증</p><p>• **선박 연결성 보안의 산업 기준화**: 독립적 분류 기관(ClassNK)의 형식인증이 해운 산업의 사이버 보안 기준 현지화 및 신뢰도 향상, 향후 해운 디지털화 가속 시 보안 요구사항의 업계 표준화 촉진</p><p>• **선주 운영 신뢰도 강화**: 중요 업무 애플리케이션 및 규제 요구사항 충족을 위한 신뢰성 있는 선상 연결성 솔루션 제공으로 해운사의 운영 위험도 감소 및 규제 대응 기반 구축</p></div>`,
+      tags: ["Cyber Security","Classification Society","IMO Compliance","Ship Connectivity"],
+      link: "https://maritime-executive.com/article/inmarsat-nexuswave-certified-by-classnk-for-iacs-cyber-security-standards",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-12
+addEvents({
+  "2026-06-12": [
+    {
+      type: "news",
+      title: "Nereida Energy Raises $3.3M for Maritime Battery Technology Expansion",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-12",
+      image: "https://images.marinelink.com/images/maritime/w800/bjrkeli-nereida-171412.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 노르웨이 해양기술 회사 Nereida Energy가 배터리 및 에너지 저장 솔루션 사업 확장을 위해 330만 달러(3,200만 노르웨이 크로네) 펀딩 조성 완료</p><p>• Grieg, Eviny, Nysnø, Nye Aasen 등 산업 및 금융 투자자들이 참여한 민간 주식 배치를 통한 투자 라운드 진행</p><p>• 2025년 설립된 회사로서 페리, 서비스 선박, 해양 플랫폼용 배터리 시스템과 독점 제어·소프트웨어 플랫폼 개발 중</p><p>• 조성 자금은 조직 강화, 제품 개발 진행, 전략적 성장 이니셔티브 지원에 사용 예정</p><p>• DNV 해양 포캐스트에 따르면 2024~2028년 기간 배터리·하이브리드 시스템 사용 선박 수 거의 2배 증가 예상으로 시장 성장 전망 양호</p><h3>Key Quotes</h3><p>• "Batteries are increasingly becoming commoditized, so it is the management and control system that truly differentiates solutions and determines how much value you get out of the batteries." (배터리가 점점 일반화되고 있으므로, 진정한 차별화는 관리 및 제어 시스템에 달려 있으며, 배터리로부터 얼마나 많은 가치를 얻을 수 있는지를 결정한다.)</p><p>• "In practice, we develop the brain and nervous system of the battery systems and deliver this as a turnkey solution, in line with maritime regulations, to shipowners, shipyards and vessel designers." (실제로 우리는 배터리 시스템의 두뇌와 신경계를 개발하고 이를 해양 규정에 맞춘 턴키 솔루션으로 선주, 조선소 및 선박 설계자에게 제공한다.)</p><h3>Technical Insights</h3><p>• 해양 배터리 기술의 차별화 포인트가 하드웨어에서 소프트웨어 기반 제어 시스템으로 전환되고 있으며, 사이버보안과 안전성을 통합한 종합 솔루션 개발이 핵심 경쟁력으로 부상</p><p>• 선박 에너지 저장 최적화, 실시간 배터리 상태 모니터링, 데이터 수집 및 처리 기능이 해양 규정 준수와 함께 통합되어야 하는 산업 요구사항 반영</p><p>• 2024~2028년 기간 배터리·하이브리드 시스템 탑재 선박이 거의 2배 증가할 것으로 예상되어, 해양 전기화 시장의 급속한 성장으로 배터리 관리 기술 수요 폭발적 증가 전망</p><p>• IMO 규정 준수와 친환경 추진 기술 도입이 해양업계의 주요 투자 영역으로 확립되면서, 통합 배터리 관리 솔루션의 전략적 가치 상승</p></div>`,
+      tags: ["Maritime Battery","Energy Storage","Vessel Electrification","Funding"],
+      link: "https://www.marinelink.com/news/nereida-energy-raises-m-expand-maritime-540247",
+      coords: [10.7522,59.9139],
+      location: "Norway"
+    }
+  ]
+});
