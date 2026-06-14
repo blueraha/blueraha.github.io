@@ -9235,3 +9235,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-12
+addEvents({
+  "2026-06-12": [
+    {
+      type: "news",
+      title: "Norwegian Eitzen Group Orders Two Electric Container Vessels for North Sea Operations",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-06-12",
+      image: "https://maritime-executive.com/media/images/article/Zen-electric-battery-container-vessel.b2f86e.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 노르웨이의 해운투자그룹 Eitzen이 중국 저장동펑조선소에서 900TEU 규모의 대형 전기 컨테이너선 2척을 발주하여 단기해운(Short-Sea Shipping)의 전동화를 가속화</p><p>• Eitzen 그룹의 Zen 계열사가 주도하여 2026년 하반기부터 2027년 중반 사이 순차 인도 예정</p><p>• 탄소중립 에너지 인프라: 노르웨이 Tønsberg의 배터리 제조 시설에서 100MWh 이상의 고에너지밀도 배터리팩 생산(부피당 에너지밀도 기존 대비 2배), 500~600해리 항속거리 제공</p><p>• 북해 구간(함부르크-예테보리-오슬로) 전기화물 회랑 구축으로 Northern Europe 친환경 해운망 확대</p><p>• 노르웨이 정부 재정지원: Enova 펀드에서 NOK 2억 제공, 오슬로항 고압 육상전원(6.6kV, 7.5MVA) 충전시설 개발에 NOK 2,060만 추가 지원</p><h3>Key Quotes</h3><p>• "Electrification is no longer a concept of the future. It is becoming commercially viable today on selected trade routes." <br>(전기화는 더 이상 미래의 개념이 아니며, 선택된 운송로선에서 오늘날 상업적으로 실행 가능해지고 있다는 의미)</p><p>• "Zen is established to lead this transition and to build the infrastructure required to scale electric shipping."<br>(Zen은 이러한 전환을 주도하고 해운 전동화 확대에 필요한 인프라 구축을 담당한다는 입장 표현)</p><h3>Technical Insights</h3><p>• **배터리 기술 혁신**: 100MWh 이상의 고에너지밀도 배터리팩은 부피당 에너지밀도가 기존 솔루션 대비 2배 수준으로, 짧은 단거리 항로(500~600해리)에서 경제성 있는 운영을 가능하게 함. 방수 및 수중 완전침수 내구성으로 해상 환경 대응력 강화</p><p>• **북해 회랑 운영 모델**: 함부르크-예테보리-오슬로 삼각형 항로 설정은 유럽 내 단거리 컨테이너 운송에서 전기추진 선박의 경제성을 입증할 수 있는 실증 사례로, IMO 2050 탄소중립 목표 달성을 위한 단계적 전환 전략 제시</p><p>• **항만 인프라 통합**: 오슬로항의 고압 육상전원(Shore Power) 설치는 선박의 항만 체류 중 배터리 충전 효율성을 높이고, 이는 향후 유럽 주요 항만들의 충전 인프라 표준화 및 확대를 촉발할 수 있는 모델</p><p>• **정부 재정 메커니즘**: 노르웨이 Enova 펀드의 지원은 전기선박 상용화 진입장벽을 낮추며, 7개 프로젝트 동시 지원을 통해 북유럽의 친환경 해운 생태계 구축을 가속화하는 공공-민간 파트너십 사례</p></div>`,
+      tags: ["Electric Vessels","Battery-Powered Ships","Maritime Electrification","Short-Sea Shipping","Green Shipping","Norway"],
+      link: "https://maritime-executive.com/article/norwegian-shipping-group-orders-two-electric-short-sea-container-vessels",
+      coords: [10.7522,59.9139],
+      location: "Norway (Oslo)"
+    },
+    {
+      type: "news",
+      title: "Deputy Minister of Maritime Affairs Visits Port of Thessaloniki for Infrastructure Development Review",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-06-12",
+      image: "https://maritime-executive.com/media/images/article/Port-of-Thessaloniki.8300e6.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 그리스 해양청 및 도서정책담당 차관 스테파노스 기카스가 테살로니키항 방문하여 항만 현대화 및 발전 전략 점검<br>• ThPA S.A. 경영진은 테살로니키항의 장기 투자 프로그램과 피어 6 확장 프로젝트의 진행 상황을 상세 설명<br>• 피어 6 확장 프로젝트는 테살로니키항을 남동부 유럽의 현대적이고 경쟁력 있는 복합운송 및 관광 허브로 전환하는 데 절대적 우선순위<br>• 해안경비대 시설 방문 및 건설 현장 투어를 통해 항만 확장 공사의 진전 상황을 직접 확인<br>• 국가 네트워크와의 연결을 위한 중요 프로젝트 완성의 필요성과 크루즈 부문 투자 계획 논의<br>• 차관은 테살로니키항의 전략적 중요성을 재확인하며 국가 경제 및 지역 발전에 기여하는 핵심 거점으로서의 역할 강조</p><h3>Key Quotes</h3><p>• "The Port of Thessaloniki is fully operational and capable of serving all cruise ships, providing high-quality services to passengers, crew, and cruise lines" (테살로니키항은 모든 크루즈선 운항이 가능하며 승객, 선원, 크루즈 회사에 고품질 서비스 제공)</p><p>• "The Port of Thessaloniki [is] a strategic gateway for trade and transport for the country, with a decisive contribution to strengthening regional development, extroversion, and the supply chain" (테살로니키항은 국가의 무역 및 운송을 위한 전략적 관문으로서 지역 발전, 국제화 및 공급망 강화에 결정적 기여)</p><h3>Technical Insights</h3><p>• 피어 6 확장 프로젝트는 테살로니키항의 처리 용량을 대폭 증대시키고 발칸반도 및 중부 유럽 시장과의 연결성 강화를 목표로 하는 핵심 항만 기반시설 개발 사업<br>• 항만의 현대화는 복합운송 네트워크 연결, 크루즈 부문 투자, 고품질 서비스 제공을 통해 남동부 유럽 지역의 물류 허브 구축에 기여하며 국가 경제 발전과 지역 수출 기능 강화<br>• 정부-항만공사 간의 건설적 협력과 국가 네트워크 연결 인프라 완성이 현대적 항만 환경 조성과 지속적 서비스 고도화를 위한 필수 요소로 확인</p></div>`,
+      tags: ["Port Infrastructure","Greece","Pier 6 Expansion","Government Policy"],
+      link: "https://maritime-executive.com/article/tour-of-the-deputy-minister-of-maritime-affairs-and-insular-policy",
+      coords: [22.9375,40.6401],
+      location: "Port of Thessaloniki, Greece"
+    },
+    {
+      type: "news",
+      title: "Iran Claims Hormuz Strait Closure; Trump Dismisses as Negotiations Continue",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-06-12",
+      image: "https://maritime-executive.com/media/images/article/US-forces-monitoring-shipping-CENTCOM.3f98ad.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이란이 호르무즈 해협 완전 폐쇄를 주장했으나 트럼프 대통령이 소셜미디어를 통해 이를 반박하며 미국-이란 간 긴장 고조</p><p>• IRGC 해군이 해협 동서 입구 통제를 주장했으나 미 CENTCOM은 해협이 개방되어 있고 선박 통행이 진행 중이라고 반박</p><p>• 양측이 협상 합의에 임박했다고 인정했으나, 인도 선원 3명 사망을 포함한 선박 공격으로 총 139척이 정지되고 9척이 피해</p><p>• 이란은 호르무즈 해협 30일 내 재개, 미국의 안보보장 및 자금 해제 등을 포함한 12개 조항 합의안 제시</p><p>• 호르무즈 해협 주변에 약 50척의 선박이 대기 중이며, 추가 선박들이 선착장에 정박 대기 상태로 글로벌 해운에 심각한 영향</p><h3>Key Quotes</h3><p>• "They better get their act together, and fast" (이란이 빨리 행동을 개선해야 한다는 트럼프의 강경 입장 표현)</p><p>• "The Strait of Hormuz is fully closed... no ships are making the transit without permission" (이란 IRGC 해군의 호르무즈 해협 완전 폐쇄 주장)</p><p>• "The blockade remains in full effect... 139 vessels stopped and nine disabled" (미국 CENTCOM의 해협 봉쇄 현황 보고)</p><h3>Technical Insights</h3><p>• 호르무즈 해협의 지정학적 통제 분쟁으로 국제해상교통법(UNCLOS) 및 공해자유 원칙 위반 우려 - 해상교통 안전 국제규범의 심각한 침해</p><p>• 미-이란 간 선박 공격으로 해운보험료 급등 및 인도 등 제3국 선원의 인명피해 발생 - 국제해사기구(IMO)의 중립 해역 보호 원칙 재검토 필요</p><p>• 139척 이상의 상선 정지로 글로벌 에너지 및 무역 수송망 마비 상태 - 해양 자율항해 및 안전 기술의 위험지역 회피 솔루션 수요 증가</p><p>• 협상 과정에서 인도주의적 화물 통행 허용 논의 - IMO와 UNHCR 등 국제기구의 중재 역할 강화 필요성 대두</p></div>`,
+      tags: ["Strait of Hormuz","Iran-US Relations","Shipping Disruption","Political Tensions"],
+      link: "https://maritime-executive.com/article/iran-s-claims-of-having-stopped-hormuz-transits-rebuffed-by-trump",
+      coords: [56.243,26.1367],
+      location: "Strait of Hormuz, Persian Gulf"
+    }
+  ]
+});
