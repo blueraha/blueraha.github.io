@@ -9279,3 +9279,70 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-14
+addEvents({
+  "2026-06-14": [
+    {
+      type: "accident",
+      title: "U.S. Navy and Merchant Vessel Rescue 14 Indian Mariners Near Hormuz After Engine Failure",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-06-14",
+      image: "https://gcaptain.com/wp-content/uploads/2026/06/MV-Jabal-Ali-9.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **사건 개요**: 인도 국적 범선 Virat 1이 오만 인근 아라비아해에서 엔진 고장으로 인해 비활성화되고 승무원 14명이 구명정으로 대피하여 긴급 구조 상황 발생</p><p>• **구조 참여 기관**: 미 해군 니미츠급 항공모함 USS Abraham Lincoln(CVN 72) 소속 MH-60S Sea Hawk 헬리콥터, P-8 해상초계기, Arleigh Burke급 미사일구축함 USS Michael Murphy, UAE 기반 화물선 MV Jabal Ali 9</p><p>• **구조 과정**: 미 해군 P-8이 먼저 도착하여 구명정 투하 → MV Jabal Ali 9가 11명 구조 → 악천후로 인한 구명정 전복 후 헬리콥터가 3명 추가 구조 → 모든 14명 안전하게 회수 및 뭄바이로 향함</p><p>• **지정학적 배경**: 지난주 미국의 유조선 Settebello에 대한 봉쇄 집행 중 인도 선원 3명 사망 사건으로 미국-인도 간 긴장 고조, 인도 정부의 공식 항의 및 미국 방위 입장 대비</p><p>• **해양 안전 우려**: 호르무즈 해협 인근 이란 석유 적재 선박에 대한 미국 제재 집행 과정에서 민간 선박 승무원의 안전성 문제 대두</p><h3>Key Quotes</h3><p>• "All 14 crew members have been rescued and are presently onboard Jabal Ali 9 heading to Mumbai. The crew members are safe and in good health," (14명의 승무원이 모두 구조되었으며 현재 Jabal Ali 9에 승선하여 뭄바이로 향하고 있으며, 승무원들은 안전하고 건강한 상태임)</p><p>• "Such lethal actions against commercial shipping are not justified." - External Affairs Minister Subrahmanyam Jaishankar (상용 해운에 대한 이러한 치명적 조치는 정당화될 수 없음 - 인도 외교부 장관)</p><p>• "Commercial vessels must comply with instructions from U.S. forces enforcing sanctions and restrictions on Iranian oil shipments through the Strait of Hormuz." (상용 선박은 호르무즈 해협을 통한 이란 석유 적재에 대한 제재와 제한을 집행하는 미 해군의 지시를 준수해야 함)</p><h3>Technical Insights</h3><p>• **해상 안전 관리**: 악천후 환경에서의 구명정 운영 및 헬리콥터 구조 작전의 위험성 - 파도 높이와 풍속 증가 시 승무원 구조율 저하 및 이차 사고 위험 증대</p><p>• **국제 해상법 쟁점**: 호르무즈 해협 인근 제재 집행 해역에서 국제해상법(UNCLOS)과 상선의 항행 자유 권리 간 충돌 심화, IMO 및 국제해사기구의 민간 선박 보호 지침 필요성 대두</p><p>• **지역 해상 보안 체계**: 미국과 인도의 상이한 해상 전략으로 인한 인도-태평양 지역 민간 해운 위험 증가, 다자간 조정 메커니즘 구축의 중요성 강조</p><p>• **선박 운영 리스크**: 엔진 고장 예방을 위한 정기 유지보수 표준화 및 긴급 상황 시 빠른 대응 프로토콜 필수 - 특히 지정학적 긴장이 높은 해역에서의 이중 안전 체계 강화 필요</p></div>`,
+      tags: ["search and rescue","engine failure","Arabian Sea","Indian mariners","Hormuz Strait"],
+      link: "https://gcaptain.com/merchant-ship-u-s-navy-rescue-14-indian-mariners-near-hormuz-shipping-route/",
+      coords: [56.5,24],
+      location: "Northern Arabian Sea (off Oman coast)"
+    },
+    {
+      type: "news",
+      title: "U.S. Army demonstrates autonomous boat swarm in the Philippines",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-06-14",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 육군이 필리핀 카시구란 해협에서 자율 보트 무리(swarm) 시연을 통해 군사 화물선의 호위 및 실시간 감시 데이터 수집 능력을 입증했다.</p><p>• 2026년 살락니브(Salaknib) 훈련으로 미국-필리핀 연합 해상 보안 시연을 실시하여 자율 기술의 전술적 활용성을 검증했다.</p><p>• 무인 보트 편대는 해안 지휘관들에게 실시간 감시 정보를 중계하며 자동화된 스크리닝(screening) 임무 수행 능력을 보여주었다.</p><p>• 육군 병력이 직접 자율 보트를 조종하며 향후 해상 작전의 인력 효율성과 미션 확장성을 제시했다.</p><p>• 이 시연은 인도-태평양 지역 해상 안보 전략에 자율 보트 기술 통합의 실질적 가능성을 시사한다.</p><h3>Key Quotes</h3><p>• "A swarm of autonomous boats operated by U.S. Army soldiers spread across a Philippine waterway during Exercise Salaknib 2026, screening a military cargo ship and relaying real-time surveillance data to commanders ashore" (미군 병사들이 조종하는 자율 보트 무리가 필리핀 해역에 배치되어 군사 화물선을 호위하고 육상 지휘관에게 실시간 감시 데이터를 중계했다)</p><h3>Technical Insights</h3><p>• **자율 보트 편대(Swarm) 기술**: 개별 무인 선박들이 조직적으로 협력하는 멀티-에이전트 시스템으로, 기존 단일 선박 자율화를 넘어 집단 작전 능력으로 진화했다.</p><p>• **해상 감시 및 스크리닝**: COLREG 준수는 물론 특정 목표물(화물선)의 보호를 위한 자동화된 순찰 패턴 생성으로 인적 오류 감소와 24시간 운영 가능성을 시사한다.</p><p>• **군사적 적용과 이중용도 기술**: 무인 보트 스웜 기술은 해적 대응, 항만 보안, 영해 감시 등 상업 해운 보안으로도 확대 적용 가능하며 IMO 규제 체계의 선제적 수용이 요구된다.</p><p>• **인력 효율성과 전술 혁신**: 조종사 감소로 장기 해상 작전의 비용 효율성 향상 및 위험 노출 감소, 인도-태평양 지역 해상 분쟁 대응의 전술적 유연성 증대를 의미한다.</p></div>`,
+      tags: ["autonomous vessels","military","swarm technology","maritime security"],
+      link: "https://defence-blog.com/u-s-army-demonstrates-autonomous-boat-swarm-in-the-philippines/",
+      coords: [122,15.8],
+      location: "Casiguran Sound, Philippines"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-09
+addEvents({
+  "2026-06-09": [
+    {
+      type: "accident",
+      title: "Three Indian Mariners Killed in U.S. Navy Blockade Enforcement in Strait of Hormuz",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-06-14",
+      image: "https://gcaptain.com/wp-content/uploads/2025/11/2025-11-12T221302Z_1462984874_RC29VHA02UX2_RTRMADP_3_CANADA-G7-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 2026년 6월 9일 유조선 Settebello가 미 해군의 봉쇄 집행 작전 중 격퇴되면서 탑승한 인도 해원 3명이 사망<br>• 인도 외무부장관 자이샨카르가 마르코 루비오 미 국무장관에게 강력한 항의 제기 - "상업 해운에 대한 치명적 조치는 정당화될 수 없음"<br>• 호르무즈 해협 지역에서 일주일 내 인도 선원들이 탑승한 3척의 유조선(Marivex, Settebello, Jalveer)이 피해를 입음<br>• 인도 해운청(DG Shipping)이 긴급 보안 공시 발표 - 분쟁 지역으로의 인도 해원 배치 제한 권고<br>• 미국은 이란 석유 수출 제재 집행과 군사 지시 준수 강조, 인도는 민간 해운 종사자 안전성 중시</p><h3>Key Quotes</h3><br>• "Such lethal actions against commercial shipping are not justified" (상업 해운에 대한 이러한 치명적 행동은 정당화될 수 없다)<br>• "All commercial vessels should immediately comply with orders from U.S. forces as they seek to uphold peace and security in the Strait" (미군이 해협의 평화와 안보를 유지하기 위해 모든 상업선이 즉시 미 해군의 명령을 준수해야 한다)</p><h3>Technical Insights</h3><br>• 호르무즈 해협 내 강제 검색(boarding) 및 선박 격퇴 작전의 민간 해운 영향 - COLREG 및 국제해상법상 상업선에 대한 무력 사용의 정당성 문제 제기<br>• 글로벌 해원 공급망(특히 인도 국적 해원 35만명 이상)에 미치는 지정학적 영향 - 고위험 지역 배치 회피로 인한 선원 부족 심화 가능성<br>• IMO 및 국제사회의 민간 해운 보호 의무와 국가의 일방적 봉쇄 집행권 간의 긴장 관계 심화 - 향후 국제 해상 분쟁 해결 메커니즘 강화 필요</p></div>`,
+      tags: ["Maritime Casualty","Strait of Hormuz","Indian Seafarers","U.S. Navy Operations","Blockade Enforcement","Diplomatic Protest"],
+      link: "https://gcaptain.com/rubio-defends-hormuz-enforcement-after-india-protests-seafarer-deaths/",
+      coords: [56.5,26.5],
+      location: "Strait of Hormuz / Gulf of Oman"
+    }
+  ]
+});
+
+// Auto-collected: 2025-02-04
+addEvents({
+  "2025-02-04": [
+    {
+      type: "accident",
+      title: "Tow Rope Failure Caused by Over-Correction During Ship Assist Operation at Bristol",
+      source: "MarineLink (MAIB)",
+      sourceMeta: "marinelink.com · 2026-06-15",
+      image: "https://images.marinelink.com/images/maritime/w800/source-171446.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사고 개요**: 2025년 2월 4일 영국 브리스톨 로얄 포트베리 독의 킹 로드 해역에서 예인선 Svitzer Avon의 예인줄이 파단되어 조종실 유리창이 파괴되고 선원 2명이 경미한 부상을 입음</p><p>• **사고 원인**: Auto Eco 자동차운반선이 선회 중 과도한 방향 수정(over-correction)으로 인한 예인줄의 과도한 하중으로 파단 발생</p><p>• **선박 및 관련 기관**: 영국 등록 예인선 Svitzer Avon, Svitzer Brunel, 자동차운반선 Auto Eco / 영국 해양사고조사청(MAIB) 조사</p><p>• **주요 결함**: 미경험 대리 선장의 비인가 감독, 정의되지 않은 훈련 체계, 불충분한 예인줄 관리(시각 검사만 의존, 잔존강도 시험 미실시)</p><p>• **예인줄 이력 문제**: 해당 예인줄은 2024년 7월 800회 작업 후 파단되어 양끝 교체되었으나, 이후 307회 작업 만에 재파단</p><p>• **결과**: 선원 2명 병원 이송 후 경미한 부상으로 퇴원, Auto Eco는 안전하게 독 내 계류</p><h3>Key Quotes</h3><p>• "The relief master was not authorized to supervise the mate during the move." (대리 선장은 이 작업 중 선원을 감독할 권한이 없었음)</p><p>• "The tow rope parted under the increased load experienced during the recovery maneuver." (복구 조종 중 증가된 하중으로 예인줄이 파단됨)</p><p>• "The towage company relied on visual inspection and tow rope rotation for towline risk management. The company did not follow best practice nor conduct residual strength testing." (예인회사는 시각 검사와 예인줄 교체에만 의존하였으며, 업계 모범 사례를 따르지 않았고 잔존강도 시험을 실시하지 않음)</p><h3>Technical Insights</h3><p>• **예인줄 관리 체계 부재**: MAIB 조사에서 지적한 바와 같이, 정량적 잔존강도 시험 없이 시각 검사에만 의존하는 관행은 IMO 및 업계 모범 사례(ISO 4309 등)에 미달 - 예인줄의 피로 손상은 외관상 판별 불가능</p><p>• **선원 적격성 및 감독 관리**: 예인선 운영사의 훈련 체계 미정의로 인한 비인가 감독 상황 발생 - 선박 조종의 신뢰성 저하 및 COLREG 준수 미흡 야기</p><p>• **과도한 방향 수정과 동적 하중**: 선회 중 과도한 조타로 인한 동적 하중이 예인줄 파단의 직접 원인 - 자동선박(autonomous vessel) 도입 시 정밀한 선회 알고리즘과 예인 하중 모니터링 필수</p><p>• **산업 안전 규제 강화**: 예인회사의 예인줄 관리 기준을 강제화하고 정기적인 비파괴 검사(NDT) 도입 필요 - 국제해사기구(IMO) 및 해급협회(Classification Societies)의 가이드라인 강화 권고</p></div>`,
+      tags: ["tow rope failure","tug operation","ship assist","Bristol","human error"],
+      link: "https://www.marinelink.com/news/overcorrection-led-failure-tow-rope-540285",
+      coords: [-2.6117,51.4545],
+      location: "King Road, Bristol, England"
+    }
+  ]
+});
