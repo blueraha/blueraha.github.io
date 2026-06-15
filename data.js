@@ -9346,3 +9346,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-15
+addEvents({
+  "2026-06-15": [
+    {
+      type: "news",
+      title: "Japan's Shipping Industry Awaits Clarifications on Hormuz Reopening After U.S.-Iran Peace Agreement",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-15",
+      image: "https://images.marinelink.com/images/maritime/w800/hyperlapsepro-adobe-171451.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국-이란 평화협정으로 호르무즈 해협 재개통 예상되나, 일본 해운업계는 구체적 정보 대기 중<br>• 호르무즈 해협에 일본 연계 선박 38척이 통항 중단으로 좌초 상태 유지<br>• 지난 2월 28일 시작된 미국-이스라엘 대 이란 전쟁으로 세계 석유·LNG 공급량의 약 20% 운송로 차단<br>• 6월 19일 스위스에서 미국-이란 협정 정식 서명 예정, 일본 해운협회는 이 시점까지 추가 정보 대기<br>• 해협 내 기뢰 부설 우려로 협정 체결만으로는 운항 재개 불가능한 상황<br>• 일본 최대 해운사 니폰유센(NYK)은 운영 정상화를 희망하나 좌초 선박 구체적 일정 미공개</p><h3>Key Quotes</h3><p>• "Given the situation, we cannot simply say, 'Right then, let's go' based on news of the agreement alone." <br>(현재 상황을 고려할 때, 협정 뉴스만으로는 단순히 '좋아, 출항하자'고 할 수 없다는 입장)</p><p>• "wait a little longer for more concrete information" <br>(더 구체적인 정보를 기다려야 한다는 일본 해운협회의 입장)</p><h3>Technical Insights</h3><p>• **호르무즈 해협의 전략적 중요성**: 세계 석유·LNG 공급량의 약 20%가 통과하는 국제 해상 운송의 핵심 병목 구간으로, 지정학적 위험은 글로벌 해운 물류와 에너지 안보에 직결<br>• **해양 안전 및 규제 준수**: 기뢰 제거 및 해역 안전 확인 절차가 완료되어야 COLREG 준수 및 선박 항해 안전성이 확보되는 만큼, IMO 기준의 안전 운항 환경 조성 필수<br>• **일본 해운산업의 공급망 관리**: 38척의 좌초 선박 상황은 일본의 해운사, 해운협회, 그리고 석유·화학·금속 수입산업의 공급망 회복에 영향을 미치는 중요한 지표로 작용<br>• **국제 해사 협력의 중요성**: 국제적 분쟁 해결과 해역 인프라 복구(기뢰 제거 등) 과정에서 IMO, 국제해사기구, 다국적 해운사 간 조율이 매우 중요</p></div>`,
+      tags: ["Strait of Hormuz","U.S.-Iran Agreement","Japan Shipping","Supply Chain","Oil & LNG"],
+      link: "https://www.marinelink.com/news/japans-shipping-industry-awaits-540292",
+      coords: [56.1,26.1],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "Oil Prices Fall as US-Iran Peace Deal Reopens Strait of Hormuz",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-15",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stock-171449.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **미국-이란 평화협상 타결**: 트럼프 대통령과 이란 외교부 차관이 전쟁 종료 및 호르무즈 해협 통행 재개에 합의한 초기 협약 도달<br>• **유가 급락**: 브렌트유 배럴당 $83.68(4.2% 하락), WTI $80.75(4.9% 하락)로 3개월 만의 최저가 기록<br>• **호르무즈 해협 개방**: 스위스에서 양해각서 서명 예정이며, 30일 내 이란 주도로 해협 재개통 계획<br>• **글로벌 공급망 영향**: 세계 석유·LNG 공급량의 1/5를 담당하는 호르무즈 해협의 3개월 이상 폐쇄로 인한 공급 부족 해소<br>• **지정학적 리스크 프리미엄 해제**: 유가에 내재되어 있던 지정학적 위험 프리미엄이 공급 정상화 전망으로 급격히 이완</p><h3>Key Quotes</h3><p>• "The geopolitical risk premium that had been built into crude is now being unwound quite aggressively as traders price in the prospect of restored oil flows" (유가에 내재된 지정학적 위험 프리미엄이 석유 공급 회복 전망으로 공격적으로 해제되고 있음)</p><p>• "While the conflict may have come to an end and oil flows through the Strait of Hormuz may gradually return to normal, the damage already done cannot be reversed overnight" (분쟁은 종료되고 호르무즈 해협을 통한 석유 흐름이 점진적으로 정상화될 수 있지만, 이미 발생한 피해는 하루아침에 복구될 수 없음)</p><h3>Technical Insights</h3><p>• **해상 통행로 안전성 회복**: 호르무즈 해협 재개통으로 해운업계의 항로 선택 폭 확대 및 운항 비용 감소로 국제 해상 물동량 정상화 기대<br>• **IMO 규제 프레임워크 적용 강화**: 분쟁 종료로 국제 항해 규칙(COLREG) 및 해상 안전 규정 준수 모니터링 재개, 차단된 해역의 항만 운영 정상화<br>• **에너지 안보와 자율운항 기술 영향**: 공급망 안정화로 친환경 선박 및 자율운항 기술 도입에 대한 업계 투자 재개 가능성, 해양 물류 효율성 개선 추진 예상</p></div>`,
+      tags: ["Strait of Hormuz","Oil Markets","US-Iran Deal","Geopolitical Risk","Maritime Trade"],
+      link: "https://www.marinelink.com/news/oil-slumps-usiran-reach-initial-peace-540289",
+      coords: [56.2419,26.5883],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "Royal Caribbean Begins Construction on Seventh Oasis Class Vessel",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-15",
+      image: "https://images.marinelink.com/images/maritime/w800/source-royal-171444.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Royal Caribbean가 Chantiers de l'Atlantique 조선소에서 7번째 Oasis급 크루즈선의 용골 거양식을 개최하며 선박 건조 시작<br>• 해당 선박은 2028년 준공될 예정이며, 기존 Oasis급 6척(2009~2024년)에 이어 계열선으로 편입될 예정<br>• Oasis급은 현대 크루즈산업의 혁신적인 플래그십 클래스로 Royal Caribbean의 핵심 선대 확충 전략 반영<br>• 건조지는 프랑스 생나제르의 Chantiers de l'Atlantique로, 유럽 대형 크루즈선 건조의 중심지 역할 중</p><h3>Key Quotes</h3><br>• "The soon-to-be-named ship will join the revolutionary Oasis Class lineup in 2028" (곧 명명될 해당 선박은 2028년 혁신적인 Oasis급 선대에 합류할 예정)<br>• "Royal Caribbean has celebrated the keel-laying of its seventh Oasis Class vessel at the Chantiers de l'Atlantique shipyard in Saint-Nazaire, France" (Royal Caribbean이 프랑스 생나제르의 Chantiers de l'Atlantique 조선소에서 7번째 Oasis급 선박의 용골 거양식을 축하함)</p><h3>Technical Insights</h3><br>• Oasis급은 메가십 크루즈선 카테고리의 표준 설계로, 지속적인 건조 추진은 대형 여객선의 안정적인 해운 수요를 반영하는 산업 지표<br>• 15년 이상의 장기 건조 계획(2009~2028)은 크루즈산업의 중장기 성장성 및 Royal Caribbean의 시장 지배력 유지 전략을 시사<br>• 대형 크루즈선의 건조는 고도의 선박 엔지니어링, 자동화 기술, 환경 규제 대응(IMO 2030/2050 규정) 등 다층적 해양 기술 발전과 연계된 산업 구조를 반영</p></div>`,
+      tags: ["Cruise Ships","Oasis Class","Shipbuilding","Royal Caribbean"],
+      link: "https://www.marinelink.com/news/royal-caribbean-begins-construction-540283",
+      coords: [-2.1733,47.2863],
+      location: "Saint-Nazaire, France"
+    },
+    {
+      type: "news",
+      title: "IMO Training Highlights Legal Gaps in Maritime Human Rights Protection",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-15",
+      image: "https://images.marinelink.com/images/maritime/w800/source-human-171439.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 국제해사기구(IMO) 산하 국제해사법률원에서 개최된 BlueRights 훈련 프로그램이 해상 인권 보호와 관련된 국제법의 심각한 법적 공백을 드러냄</p><p>• 해상에서의 생명권 보호, 특히 수색·구조, 무력 사용, 해상 작업장 위험 관련 법적 책임이 복잡하고 단편화되어 있음을 확인</p><p>• 참가자들은 국제인권법, 유엔해양법협약, 유럽인권협약 등 다양한 법적 체계 간의 불일치와 모순 발견</p><p>• 누가 구조 작전의 안전성을 보장할 책임이 있는지, 해상 조난의 정의, 국가의 무력 사용 정당성 등 핵심 법적 의무가 명확하지 않은 상태</p><p>• 200명 이상의 국제법, 인권, 어업, 해운, 법 집행 분야 전문가로 구성된 BlueRights 네트워크가 해상 인권 보호 이행 방안 연구 중</p><h3>Key Quotes</h3><p>• "We created a realistic scenario concerning search and rescue at sea and asked participants to formulate legal advice on how to address the human rights harms that were suffered by victims." (해상 수색·구조 상황에 대한 현실적 시나리오를 구성하여 참가자들이 피해자들의 인권 침해를 해결하는 방법에 대한 법적 조언을 제시하도록 함)</p><p>• "Some students were surprised by the lack of clarity in many key legal obligations, such as who is responsible for ensuring the safe conduct of rescue operations, what constitutes distress at sea, or when the use of force by a state's navy/coastguard is reasonable or legitimate." (구조 작전의 안전성을 보장할 책임이 누구에게 있는지, 해상 조난의 정의, 국가의 무력 사용 정당성 등 핵심 법적 의무가 명확하지 않다는 점에 놀람)</p><h3>Technical Insights</h3><p>• 국제해양법과 국내법 간의 법적 단절로 인해 해상에서의 인권 보호가 국가별로 상이하게 적용되고 있으며, 통일된 해석과 이행 기준의 필요성 대두</p><p>• 유엔해양법협약, 국제인권법, 유럽인권협약 등 상충하는 법적 체계로 인해 법률 전문가들도 현장에서 실질적인 법적 조언을 제공하기 어려운 상황</p><p>• 해상 수색·구조, 해양 법 집행, 어업 관련 활동 등에서 인권 보호 기준의 명확화와 국제적 조화가 IMO 및 국제사회의 시급한 과제</p><p>• BlueRights와 같은 국제 협력 네트워크의 구성을 통해 해상 인권 보호 법제의 체계화 및 선진적 법적 프레임워크 개발 필요</p></div>`,
+      tags: ["Maritime Law","Human Rights","Search and Rescue","IMO","Legal Framework"],
+      link: "https://www.marinelink.com/news/training-targets-lack-legal-clarity-540279",
+      coords: [35.8989,35.8981],
+      location: "Malta (IMO International Maritime Law Institute)"
+    }
+  ]
+});
