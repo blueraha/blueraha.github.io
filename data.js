@@ -9446,3 +9446,65 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-16
+addEvents({
+  "2026-06-16": [
+    {
+      type: "news",
+      title: "Bourbon Secures Subsea Services Contract on Ghana's Jubilee Field",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-16",
+      image: "https://images.marinelink.com/images/maritime/w800/bourbon-evolution-171489.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Bourbon이 가나 Jubilee 유전의 해저 서비스 계약을 확보하여 다목적 지원선박(MPSV) Bourbon Evolution 802 배치<br>• 이중 작업급 ROV 2대를 장비한 해당 선박으로 해저 검사, 유지보수, 수리 및 파이프라인 설치 작업 수행<br>• 약 60명의 인원(클라이언트 대표 포함)이 승선하여 캠페인 지원 중<br>• 서아프리카 지역에서의 Bourbon의 입지 강화 및 Tullow Oil과의 지속적인 협력 관계 심화<br>• Bourbon Evolution 802는 심해 중재 작업 설계로 해저 및 수상 지원 능력을 결합한 첨단 선박</p><h3>Key Quotes</h3><br>• "This contract reflects our ability to deliver integrated subsea solutions that combine engineering and offshore operations in our traditional markets." (이 계약은 전통적인 시장에서 엔지니어링과 해양 운영을 결합한 통합 해저 솔루션을 제공할 수 있는 능력을 보여준다)</p><h3>Technical Insights</h3><br>• 해저 인프라 유지보수 시장에서 고급 ROV 기술과 MPSV의 중요성 증대 - 심해 유전 개발에 필수적인 기술 플랫폼<br>• 서아프리카 지역의 석유·가스 산업 회복세로 인한 해양 서비스 수요 확대 및 오프쇼어 운영 회사의 역할 강화<br>• 통합 해양 솔루션 제공 능력(해저 검사, 파이프라인 설치, FPSO 체인 관리 등)이 계약 수주의 핵심 경쟁력</p></div>`,
+      tags: ["Subsea Services","Offshore Operations","MPSV","ROV","Ghana"],
+      link: "https://www.marinelink.com/news/bourbon-secures-subsea-services-contract-540338",
+      coords: [-2.5,5.5],
+      location: "Jubilee Field, Ghana"
+    },
+    {
+      type: "news",
+      title: "AD Ports Group and Dajin Heavy Industry Sign MoU for Offshore Wind Supply Chain Partnership",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-16",
+      image: "https://images.marinelink.com/images/maritime/w800/credit-ports-171487.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• AD Ports Group와 해상풍력 장비제조업체 Dajin Heavy Industry가 해상풍력 공급망 개발, 해양물류, 항만인프라 협력을 위한 양해각서(MoU)를 체결했습니다.</p><p>• 본 협력은 해상풍력 부품 운송솔루션, 사전조립 허브 개발, 해상에너지 인프라 제조·조립·물류서비스 등 다양한 분야를 포함합니다.</p><p>• AD Ports Group은 스페인 Balenciaga Astilleros 조선소 인수와 Masdar, Siemens Energy 등과의 재생에너지 파트너십을 통해 해상풍력 사업을 확장하고 있습니다.</p><p>• 본 MoU는 두 회사의 해양·물류·산업 역량을 결합하여 유럽 및 기타 지역의 해상풍력 시장 성장을 지원하기 위한 통합적이고 효율적인 솔루션 제공을 목표로 합니다.</p><p>• 글로벌 재생에너지 투자 확대와 탈탄소화 목표에 따라 해상풍력 배치가 지속적으로 확대되는 상황에서 장기적 협력 기회를 모색합니다.</p><h3>Key Quotes</h3><p>• "We are pleased to partner with Dajin Heavy Industry to jointly work on opportunities that leverage our maritime and logistics capabilities in support of the offshore wind sector, a strategic growth area for us." <br>(AD Ports Group이 전략적 성장 분야인 해상풍력 산업을 지원하기 위해 해양물류 역량을 활용한 협력 기회를 추진하게 되어 기쁘다는 의견)</p><p>• "This MoU represents an exciting opportunity to combine industrial strength, maritime expertise, and long-term strategic vision. We believe both companies can create meaningful value together in support of the global energy transition."<br>(산업 강점, 해양 전문성, 장기 전략적 비전을 결합하여 글로벌 에너지 전환을 지원하는 의미 있는 가치를 창출할 수 있을 것으로 기대한다는 입장)</p><h3>Technical Insights</h3><p>• 해상풍력 산업의 공급망 통합화: 해상풍력 부품 운송, 사전조립, 물류 등 전 과정을 단일 플랫폼에서 제공함으로써 운영 효율성 극대화 및 비용 절감이 가능합니다.</p><p>• 항만 기반시설의 다목적 활용: 기존 항만 인프라를 해상에너지 관련 제조·조립·보관·운송 거점으로 재편성하여 포트 비즈니스 다각화와 글로벌 재생에너지 가치사슬 구축을 동시에 추진합니다.</p><p>• 조선업과 항만물류의 수직통합: Balenciaga Astilleros 조선소와의 연계를 통해 해상풍력 관련 선박 설계·건조부터 운영·물류까지 통합적 솔루션 제공이 가능하며, 이는 해양산업의 고부가가치화 전략입니다.</p><p>• IMO 규제 대응 및 환경 규제 선도: 탈탄소화 및 친환경 에너지 인프라 구축에 참여함으로써 해운산업의 환경적 책임 이행과 함께 차세대 성장동력 확보를 동시에 달성합니다.</p></div>`,
+      tags: ["Offshore Wind","Maritime Logistics","Supply Chain","Renewable Energy"],
+      link: "https://www.marinelink.com/news/ad-ports-group-dajin-heavy-explore-540335",
+      coords: [54.3773,24.4539],
+      location: "Abu Dhabi, UAE"
+    },
+    {
+      type: "news",
+      title: "UK Expands Russia Sanctions with Focus on Shadow Fleet and Military Procurement",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-16",
+      image: "https://images.marinelink.com/images/maritime/w800/pawinee-adobe-171481.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 영국이 70개 신규 제재 대상을 지정하며 러시아 제재를 대폭 확대했으며, 특히 러시아 섀도우 플릿(shadow fleet) 선박 20척 이상과 LNG 선박 다수를 포함<br>• 제재 대상: 얀덱스은행, 로스고스스트라흐 보험사, 에보파이낸스 모스나르은행, 와일드베리스은행 및 네프튠 주식회사(Russian military intelligence procurement network)<br>• 영국은 현재까지 약 600척의 섀도우 플릿 선박을 제재했으며, 3월 이후 군부대의 선박 적재 및 억류 권한 도입으로 실질적 단속 강화<br>• 6월 영국 특수부대가 채널에서 제재 대상 유조선을 나포한 G7 첫 군사 개입 작전 실시<br>• 러시아의 아크틱 LNG 2 프로젝트 관련 선박에 대한 G7 국가 최초 제재로 에너지 공급망 차단 강화</p><h3>Key Quotes</h3><p>• "These sanctions target the vessels, the money and the actors propping up Russia's war economy, and in turn, threatening European security" - Prime Minister Keir Starmer (이 제재는 러시아의 전쟁 경제를 지탱하는 선박, 자금, 행위자들을 겨냥하고 유럽 안보를 위협하는 요소들을 차단)</p><p>• "first time a G7 country has sanctioned ships linked to Russia's Arctic LNG 2 project" (G7 국가 중 최초로 러시아 아크틱 LNG 2 프로젝트 연관 선박에 제재를 부과)</p><h3>Technical Insights</h3><p>• **해사 보안 규제 강화**: 섀도우 플릿 단속을 위해 군사력 기반의 공해상 선박 억류 조치 도입으로, 기존 국제해사법(UNCLOS) 및 IMO 규정의 집행 메커니즘이 강화되는 추세 반영</p><p>• **선박 추적 기술 고도화**: 약 600척 규모의 제재 선박 운영 추적은 AIS(Automatic Identification System) 신호 차단, 스푸핑, 전자식별 우회 기술과의 군비경쟁 심화를 의미하며, IMO 디지털 해상 안전 체계 고도화 필요성 대두</p><p>• **에너지 공급망 차단의 해운 영향**: 아크틱 LNG 2 및 러시아 유가스 운송 선박의 제재로 글로벌 유조선/LNG선 수요 재편, 비제재 국가 항만 활용 우회 루트 증가로 운송 효율성 저하 및 보험료/운임 상승</p><p>• **국제 제재 협력의 해운 규범화**: 영국의 일방적 군사 조치는 해상 제재 집행의 새로운 선례로, G7 국가들 간 해운 안보 프레임워크 통합 및 제3국 해운업체의 규제 리스크 증대</p></div>`,
+      tags: ["Russia Sanctions","Shadow Fleet","Oil Tankers","UK Military Action","Arctic LNG 2"],
+      link: "https://www.marinelink.com/news/uk-expands-russia-sanctions-focus-shadow-540330",
+      coords: [51.5074,-0.1278],
+      location: "United Kingdom"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-15
+addEvents({
+  "2026-06-15": [
+    {
+      type: "news",
+      title: "Stena Line Secures Rail Ferry Service Agreement with Swedish Transport Administration Until 2031",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-15",
+      image: "https://images.marinelink.com/images/maritime/w800/source-stena-171478.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 스테나 라인과 스웨덴 교통청이 2031년 12월 31일까지 트렐레보르그-로스토크 철도 여객선 운영을 보장하는 합의 체결</p><p>• M/S 스코네호와 M/S 메클렌부르크-포어포메른호 2척의 철도 여객선이 1998년부터 스웨덴의 유일한 정기 철도 여객 운송 서비스 담당</p><p>• 덴마크의 외레순드 대교 개통 이후 대륙행 화물열차의 다수가 대교를 이용하면서 철도 여객선의 경제성 악화</p><p>• 스웨덴 정부의 재정 지원으로 NATO 군사 이동성 지원 및 국가 방위 인프라 보강의 전략적 역할 강조</p><p>• 독일-스웨덴 간 최대 무역 거래선으로서 외레순드 대교의 중량·폭 제한으로 통과 불가능한 화물 운송 수행</p><p>• 외레순드 대교에 대한 장기 운영 중단 시 대체 경로로서 철도 여객선의 중요성 강화</p><h3>Key Quotes</h3><p>• "Stena Line is very pleased that the conditions are now in place for our operation on the Trelleborg–Rostock route to continue. We view our role in the transport system in general, and in the vital rail connection to continental Europe provided by our ferries in particular, with both pride and great responsibility." (스테나 라인은 트렐레보르그-로스토크 노선 운영 지속을 위한 조건이 마련된 것에 만족하며, 철도 여객선의 대륙 간 연결 역할을 자부심과 책임감으로 바라본다는 의미)</p><p>• "Rail ferries have declined significantly over the past 20 years due to weak economic viability... However, the ferries remain necessary, which is why the Swedish state, through the Swedish Transport Administration, is now stepping in to secure continued operations." (지난 20년간 경제성 악화로 철도 여객선이 급속 감소했으나 여전히 필요하므로 스웨덴 정부가 운영 지속을 보장한다는 의미)</p><p>• "Through rail ferry services, we can maintain NATO's fundamental requirement for a robust transport system that supports national resilience. The transport system must function in peacetime, crisis and war." (철도 여객선을 통해 NATO의 기본 요구사항인 국방 탄력성 유지 및 평시·위기·전시 운영 지속을 담보한다는 의미)</p><h3>Technical Insights</h3><p>• **전략적 운송 인프라의 이중화**: 외레순드 대교라는 단일 고정식 철도 연결에 대한 의존도 감소 및 장기 운영 중단 시 대체 경로 확보로 국방 인프라 복원력 강화</p><p>• **NATO 군사 이동성 지원**: 스웨덴의 NATO 가입에 따른 군사 물자 이동 및 상호 지원 체계(Host Nation Support) 확보를 위한 필수 해상 운송 인프라로 지정된 점</p><p>• **경제성 악화에 대한 공공 개입 모델**: 시장 기제만으로는 지속 불가능한 전략적 인프라에 대한 정부 재정 지원의 필요성을 보여주는 사례로, 유럽 항만 및 해운 산업의 공공-민간 협력 구조 변화 시사</p><p>• **화물 운송 제약 극복**: 덴마크-독일 간 철도 인프라의 중량·폭 제한으로 인한 초대형 화물 운송 수요를 해상 운송으로 충당하는 물류 다원화 전략</p></div>`,
+      tags: ["Rail Ferry","Stena Line","Sweden-Germany","Transport Infrastructure","Strategic Logistics"],
+      link: "https://www.marinelink.com/news/agreement-secures-continued-rail-ferry-540325",
+      coords: [12.1424,55.4304],
+      location: "Trelleborg, Sweden"
+    }
+  ]
+});
