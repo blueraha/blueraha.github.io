@@ -9402,3 +9402,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-15
+addEvents({
+  "2026-06-15": [
+    {
+      type: "accident",
+      title: "Armed Skiffs Attack Two Ships Off Yemen in Separate Gulf of Aden Incidents",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-06-15",
+      image: "https://gcaptain.com/wp-content/uploads/2025/11/Red-Sea-transit.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **2척의 선박 무장 스키프 공격**: 예멘 해역에서 컨테이너선과 유조선이 무장한 소형 보트로부터 총격 및 로켓유탄(RPG) 공격을 받음</p><p>• **전통적 해적 활동 재개**: 소말리아 해적 위기 시대의 전형적인 보드 시도 방식으로, 후티 운동의 드론/미사일 전술과 구별되는 패턴 보임</p><p>• **UKMTO 보고**: 첫 번째 사건은 예멘 남쪽 14해리, 두 번째 사건은 아덴 동남쪽 111해리에서 발생</p><p>• **인명/피해 현황**: 첫 번째 공격에서는 피해 보고 없음, RPG 공격 사건에서는 조사 진행 중</p><p>• **지역 안보 우려**: 현재 소말리아 해적에 의해 3척의 선박이 피랍 상태이며, 아덴만이 세계 주요 해운 통로로서 다층적 위협에 노출</p><h3>Key Quotes</h3><p>• "The occupants opened fire and attempted to board the vessel before the attack was thwarted." <br>(선박 탑승을 시도하기 전에 무장 인물들이 총을 발사했으며, 공격은 저지됨)</p><p>• "The use of armed skiffs and attempted boardings is more consistent with traditional piracy activity that plagued the region during the height of the Somali piracy crisis."<br>(무장 스키프와 탑승 시도는 소말리아 해적 위기 당시의 전형적인 해적 활동 방식과 일치함)</p><h3>Technical Insights</h3><p>• **해적 전술 변화**: 후티 운동의 드론/미사일 작전과 달리 전통적 해적의 소형선박 보드 전술이 재개되고 있으며, 이는 다양한 비국가 행위자의 활동을 시사</p><p>• **해운 보안 다층화**: 아덴만 통항 선박들은 해적 공격, 무장 강도, 지역 분쟁 연관 위협 등 복합적 해양 보안 위협에 동시에 노출되어 있음</p><p>• **UKMTO/JMIC 역할 강화**: 영국 해양 교역 정보 센터와 합동 해양 정보 센터의 실시간 경보 체계가 선박 보안 의존도 증가, IMO 해적 방지 지침 준수 중요성 부각</p><p>• **선박 자위 능력**: 무장 보안팀을 탑승시킨 선박의 반격 성공 사례는 아덴만 통항 선박의 능동적 방어 필요성을 강조하며, SOLAS 해적 대응 규정 준수 강화 필요</p></div>`,
+      tags: ["Piracy","Armed Attack","Gulf of Aden","Maritime Security","Yemen","Containership","Tanker"],
+      link: "https://gcaptain.com/armed-skiffs-attack-two-ships-off-yemen-in-separate-gulf-of-aden-incidents/",
+      coords: [44.2,13.5],
+      location: "Gulf of Aden, Yemen"
+    },
+    {
+      type: "news",
+      title: "Fassmer Orders Eight Henriksen Slipway Systems for Unmanned Vessel Operations",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-15",
+      image: "https://images.marinelink.com/images/maritime/w800/henriksen-171468.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Fassmer(독일)가 Henriksen Slipway System(HSS) 8개 시스템을 주문하여 대형 모선에서 소형보트 및 무인해양드론(USV) 자동 투·회수 운영 지원<br>• Henriksen사 개발 신형 HSS는 모선의 선미 경사로에서 안전하고 자동화된 투·회수 기능을 제공하며, 거친 해상 환경에서도 작동 가능<br>• 경찰, 군사, 해안경비, 통관, 소방 및 구조 작업 등 다양한 분야에서 1분 이내 신속 대응 및 무인드론 기뢰제거 작전 지원 가능<br>• Fassmer가 건조 중인 4척 선박에 총 8개 시스템 설치 예정으로, 노르웨이 Tønsberg 신규 제조 공장에서 생산<br>• 센터 윈치 제어 및 synchronized winch 운영으로 smooth docking 실현, HPHA7 Capture Claw를 통한 자동 위치 맞춤 및 회수 기능 포함</p><h3>Key Quotes</h3><p>• "The system now makes it possible for a police or military crew to board a RIB and be under way on the water in less than a minute." (경찰 또는 군사 승무원이 RIB에 탑승하여 1분 이내에 해상 출동 가능)</p><p>• "Even in rough sea conditions, the boat or USV can be automatically recovered on completion of its mission and taken on board the mother vessel without any crew involvement." (거친 해상 환경에서도 임무 완료 후 선원 개입 없이 자동으로 회수)</p><h3>Technical Insights</h3><p>• **무인해양드론(USV) 통합 운영 플랫폼**: Henriksen HSS는 전통적 소형보트뿐 아니라 무인드론의 자동 투·회수를 동일 시스템으로 지원하여 차세대 해양 운영 패러다임 구현<br>• **자동화 및 안전성 강화**: 센터 윈치, synchronized winch, HPHA7 Capture Claw 등 다중 제어 메커니즘으로 거친 해상 환경에서도 smooth docking 실현, 승무원 안전성 대폭 개선<br>• **신속 대응 전술 구현**: 1분 이내 투입 가능으로 해상 경찰, 통관, 기뢰제거 등 긴급 대응 작전의 효율성 극대화<br>• **산업적 파급**: 독일 Fassmer의 대규모 주문(4척, 8개 시스템)은 자동화 소형보트 회수 시스템의 시장 수요 증가 신호로, 향후 해양방위 및 민간 해양 운영 표준화 추진 가능성 시사</p></div>`,
+      tags: ["Unmanned Surface Vehicles","Autonomous Launch Recovery","Maritime Technology","Naval Systems"],
+      link: "https://www.marinelink.com/news/fassmer-places-order-eight-henriksen-540312",
+      coords: [10.2,59.9],
+      location: "Germany/Norway"
+    },
+    {
+      type: "news",
+      title: "Jacket for EU's Largest Offshore Gas Development Departs Saipem's Sardinian Shipyard",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-06-15",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/06/Neptun-Deep_jacket-Source-Saipem.jpg?image-crop-positioner-ts=1781509223",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• EU 최대 규모 해상 천연가스 프로젝트인 넵튠 딥(Neptun Deep) 개발용 자켓 구조물이 이탈리아 사이펨(Saipem) 사르디니아 조선소에서 출항<br>• 자켓은 약 7,500톤 무게, 높이 135m, 밑면 50×50m 규모로 해상 운송 후 흑해에서 수직으로 설치될 예정<br>• OMV페트롬과 롬가즈가 공동 개발하는 이 프로젝트는 총 40억 유로 규모이며 2027년 가동 예정<br>• 사이펨은 플랫폼 자켓 제조, 수중 파이프라인 및 광섬유 케이블 부설 등 전체 엔지니어링·조달·시공·설치 담당<br>• 이 프로젝트는 EU의 에너지 공급원 다각화에 기여하며 해상 에너지 인프라 부문에서의 사이펨의 국제적 위상 강화</p><h3>Key Quotes</h3><p>• "The foundation, weighing approximately 7,500 tons, is among the largest structures ever built at the shipyard" (이 자켓은 조선소에서 건조된 가장 대규모 구조물 중 하나로 약 7,500톤의 무게를 보유)</p><p>• "This initiative contributes to the diversification of the European Union's energy supply sources and enhances Saipem's role as an international operator in the offshore energy infrastructure sector" (이 사업은 EU의 에너지 공급원 다각화에 기여하고 해상 에너지 인프라 분야에서 사이펨의 국제적 역할 강화)</p><h3>Technical Insights</h3><p>• **초대형 해상 구조물 운송 기술**: 135m 높이의 거대 자켓을 수평으로 운송하여 현지에서 수직 설치하는 고난도 해양 엔지니어링 작업으로, 사이펨의 크레인 선박(Saipem 7000)을 활용한 정밀한 시공 역량 입증</p><p>• **수심 1,000m 심해 개발**: 도미노 필드의 1,000m 수심에서의 심해 가스전 개발은 유럽 해상 가스 개발의 기술적 한계를 확장하는 사례로, 특히 길이 160km의 30인치 가스 파이프라인 부설은 높은 기술 난이도 요구</p><p>• **EU 에너지 안보 강화**: 우크라이나 사태로 러시아 에너지 의존도 감소 추세 속에서 루마니아 흑해 가스전 개발은 EU의 에너지 자립성 향상에 전략적 중요성 보유</p><p>• **국제 해양건설 시장의 선두 역할**: 사이펨이 설계·조달·시공·설치(EPC) 전 단계를 통합 관리하는 이 프로젝트는 글로벌 해양 인프라 업체의 경쟁력 있는 포지셔닝 시사</p></div>`,
+      tags: ["Offshore Gas","Neptun Deep","Black Sea","Saipem","Infrastructure"],
+      link: "https://www.offshore-energy.biz/jacket-for-eus-largest-offshore-gas-development-sails-away-from-saipems-shipyard/",
+      coords: [29.7189,43.589],
+      location: "Black Sea, Romania"
+    }
+  ]
+});
