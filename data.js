@@ -9508,3 +9508,77 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-16
+addEvents({
+  "2026-06-16": [
+    {
+      type: "accident",
+      title: "Russian Frigate Admiral Grigorovich Fires Warning Shots to Avert Yacht Collision in English Channel",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-17",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stock-171523.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 러시아 호위함 Admiral Grigorovich가 영국 해협에서 충돌 위험을 피하기 위해 영국 요트에 대해 경고사격을 실시<br>• 무선 통신 수립 실패 후 경고사격(소화기 사격 포함)을 시행했으며, 요트가 침로를 변경하여 이탈<br>• 사건은 짙은 안개 속에서 발생했으며 영국 영해 외부(Wight섬 남쪽 약 20해리)에서 발생<br>• 러시아 국방부는 국제해사규칙 준수 및 필요한 모든 조치를 취했다고 주장<br>• 양국 국방부 모두 충돌 회피 목적의 정당한 행동으로 평가했으며, 인명피해 없음<br>• 사건은 영국의 러시아 제재 유조선 나포 작전(Smyrtos 사건)과는 무관한 독립적 사건으로 분류</p><h3>Key Quotes</h3><p>• "the crew of the frigate Admiral Grigorovich spotted a yacht travelling on a course that risked collision with the ship" (Admiral Grigorovich 승무원이 자함과의 충돌 위험이 있는 침로로 항해 중인 요트를 발견)</p><p>• "the frigate fired warning shots, including small arms fire, ahead of the yacht" (호위함이 요트 전방에 경고사격을 실시했으며, 여기에는 소화기 사격 포함)</p><p>• "the crew on Tuesday acted in accordance with international maritime rules and took all necessary measures to prevent an incident" (승무원은 국제해사규칙을 준수하고 사건을 방지하기 위해 필요한 모든 조치를 취함)</p><h3>Technical Insights</h3><p>• **COLREG 준수 논쟁**: 국제해사규칙(COLREG)에서는 경고사격이 충돌 회피의 최후 수단으로 규정되어 있으나, 무선 통신 불성공 시 정당성 존재. 안개 조건에서의 충돌 회피 의무(Rule 19) 적용 여부가 분석 대상</p><p>• **해상 안전 통신의 중요성**: 무선 통신 실패가 경고사격이라는 극단적 조치로 이어진 사례로, 현대 해상 교통에서 AIS 및 다중 통신 채널의 필수성을 강조</p><p>• **자율운항선박 시사점**: 본 사건은 인적 판단 오류(요트 침로 미인식, 무선 응답 불가)가 위험 상황을 야기한 사례로, 자율운항선박의 AI 기반 충돌 회피 시스템의 우월성을 시사</p><p>• **산업적 영향**: 긴장된 지정학적 상황에서의 경고사격 사용은 국제해사법 준수 범위와 군사 작전 간의 경계선을 모호하게 하며, 향후 해상 교통 안전 규정 강화 필요성 대두</p></div>`,
+      tags: ["collision avoidance","warning shots","English Channel","Admiral Grigorovich","maritime safety"],
+      link: "https://www.marinelink.com/news/russian-frigate-fired-warning-shots-avert-540378",
+      coords: [-1.5,50.5],
+      location: "English Channel, 20 nautical miles south of Isle of Wight"
+    },
+    {
+      type: "news",
+      title: "Polaris, Avikus, HD Hyundai and ABS Launch Study on Unmanned Bridge System for Open-Ocean Navigation",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-06-16",
+      image: "https://maritime-executive.com/media/images/article/Polaris-VLOC-image-2026-Polaris-Shipping-3.7b978e.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **무인 선교 시스템 개발 착수**: 아비쿠스(Avikus)와 현대중공업, 폴라리스 쉬핑, ABS가 협력하여 개방 해역에서의 조건부 무인 선교 시스템에 대한 연구 개발 프로젝트 시작</p><p>• **상용화 목표 및 IMO MASS Code 대응**: IMO가 채택한 비의무적 MASS Code 프레임워크 하에서 무인 선교가 자율운항선박 시장 진입의 첫 번째 형태가 될 것으로 예상되며, 2030년 의무화 규정 확정 전 실제 운영 데이터 수집</p><p>• **적용 선박 및 운영 범위**: 325,000 DWT의 대형 광석운반선(VLOC)을 대상으로 장거리 개방 해역 항해 중 경선 조건에서의 완전 무인 운영 시스템 설계 추진</p><p>• **다중 이해관계자 역할 분담**: 폴라리스는 운영 데이터 기반 선교 운영 경계선 결정, 아비쿠스는 기술 요구사항 수립, 현대중공업은 선박 설계 개선, ABS는 안전성 및 규정 적합성 평가 담당</p><p>• **안전 평가의 복잡성**: 무인 선교 개념의 기술적 복잡성은 단일 시스템이 아닌 자율 운항, 선박 설계, 무인 운영 조건 간의 상호작용에 있으며, ABS는 체계적 안전 평가 방법론 적용</p><h3>Key Quotes</h3><p>• "The unmanned bridge concept is expected to be the first form of autonomous shipping to enter the market under the IMO MASS Code framework" <br>(무인 선교 개념은 IMO MASS Code 프레임워크 하에서 자율운항선박 시장에 진입하는 첫 번째 형태가 될 것으로 예상됨)</p><p>• "The technical complexity of the concept lies not in any single system, but in the interactions between autonomous navigation, vessel design and the conditions during unmanned bridge periods"<br>(이 개념의 기술적 복잡성은 단일 시스템이 아닌 자율 운항, 선박 설계, 무인 선교 운영 조건 간의 상호작용에 있음)</p><h3>Technical Insights</h3><p>• **IMO MASS Code 2030 의무화 대비**: 현재 비의무적 MASS Code 채택 이후 실제 운영 데이터 수집 및 안전성 입증을 통해 2030년 의무 규정 도입 시 기술 표준 마련에 선제 대응</p><p>• **장해 식별 및 기능 안전 분석**: ABS의 체계적 안전 평가는 위험 인식, 기능 안전성 분석, MASS Code 정렬을 통해 무인 선교 운영의 증거 기반 안전성 확보 필요</p><p>• **선박 운영 데이터 활용의 중요성**: 폴라리스의 실제 운항 데이터 기반으로 유인/무인 운영 전환 경계선 설정 시 승무원 대응 시간 등 현실적 요소 반영으로 실용성 높은 시스템 개발</p><p>• **상용화 선도 지위**: 아비쿠스의 자율 운항 지원 시스템이 DNV 형식승인 획득 및 현대중공업 신조선 표준 장비 탑재로 대규모 상용화 진출에 경쟁 우위 확보</p></div>`,
+      tags: ["autonomous shipping","unmanned bridge","AI navigation","IMO MASS Code","VLOC"],
+      link: "https://maritime-executive.com/article/polaris-evaluates-unmanned-bridge-for-open-ocean-navigation",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "Pentagon Develops Carrier-Free Unmanned Strike Aircraft for Navy Destroyers",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-06-16",
+      image: "https://maritime-executive.com/media/images/article/Mach-Industries-viper-Mach.80e978.webp",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미 국방부 산하 Defense Innovation Unit(DIU)가 구축함에서 발진 가능한 무인 타격항공기 RIMES(Runway Independent Maritime & Expeditionary Strike) 개발에 착수했으며, 이는 항공모함 기반 전투기 수준의 타격능력을 제공할 수 있음</p><p>• Mach Industries와 Whisper Aero가 공동으로 Atlas 무인항공기를 개발 중이며, 하이브리드 전기식 추진, 1,400해리의 편도 항속거리, 1,000파운드급 무장 탑재 능력을 목표로 설계됨</p><p>• DIU는 반함 미사일의 위협이 증가함에 따라 수상함정에 장거리 타격능력을 제공하여 함정의 안전거리 확보를 추진하는 것을 주요 목적으로 설정</p><p>• 해군 항공모함 전투기 공동체가 2010년대 후반 무인 전투기 개발을 포기했으나, 방위혁신부서가 이 분야에서 주도권 확보를 추진 중</p><p>• Mach Industries는 최근 3억 달러 규모의 Series C 펀딩을 완료했으며, 5가지 타격 및 정찰 제품 포트폴리오 보유</p><h3>Key Quotes</h3><p>• "We are determined to dramatically lower our cost-per-kill, while reducing our risk to force, replacing warfighters with economical fires and robots" (우리는 비용 대비 효과를 획기적으로 낮추면서 전투원을 대체하여 경제적인 화력과 로봇으로 전력 위험을 감소시키는 데 최우선을 두고 있습니다)</p><p>• "highly efficient" on fuel, and unusually quiet due to JetFoil's properties (JetFoil 추진계통의 특성으로 인해 연료 효율성이 뛰어나고 매우 조용함)</p><h3>Technical Insights</h3><p>• **해상 무인 타격 시스템의 자율성 고도화**: RIMES는 높은 수준의 임무 자율성(Mission Autonomy)을 요구하고 있으며, 이는 GPS 거부 환경에서의 항법과 표적 식별 능력이 필수적임을 의미함</p><p>• **함정 기반 드론 운용의 산업적 파급**: 구축함 후방 갑판에서의 이착륙 능력은 기존 항공모함 운용 패러다임을 변화시킬 수 있으며, 소형 및 중형 전투함의 전력화 가능성 증대</p><p>• **비용 효율성과 규모 생산**: Mach Industries의 "대규모 비용 효율적 생산" 설계 철학은 향후 해군 드론 플랫폼의 표준화 및 상호운용성(Interoperability) 확보에 중요한 의미를 가짐</p><p>• **IMO/UNCLOS 규제 선제 대응**: 군사용 자율무인 시스템의 증가는 국제해사기구(IMO)의 향후 규제 논의와 해양법상 국제 협약 개정의 선행 사례로 작용할 가능성 높음</p></div>`,
+      tags: ["Unmanned Aircraft","Naval Technology","Defense Innovation","UAV","Navy Modernization"],
+      link: "https://maritime-executive.com/article/pentagon-pursues-a-carrier-free-unmanned-strike-aircraft-for-the-navy",
+      coords: [0,0],
+      location: "United States (Pentagon)"
+    },
+    {
+      type: "news",
+      title: "Rotterdam Demonstration Marks Milestone in Autonomous Inland Shipping",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-06-16",
+      image: "https://maritime-executive.com/media/images/article/Letitia-autonomous-shipping-rotterdam.3be8bd.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **자율운항 내륙선박의 성공적 시연**: 네덜란드 플래그의 135m 컨테이너선 Letitia호가 로테르담 항만 내에서 자율 항행 시연을 완료하여 내륙해운 자동화의 이정표를 달성했음</p><p>• **주요 선박 및 운영 기관**: 2024년 건조된 Letitia호는 HTS Group이 운영하며 최대 610 TEU 수송 가능한 내륙 컨테이너선으로, Amaliahaven에서 Waalhaven까지 약 25km 항로를 자율 운항</p><p>• **자율 기동 성능**: 독립 접안/이안, 항로 항행, 충돌 회피 등 복잡한 항만 기동을 실시간 주변 상황 감시 및 타선박 탐지를 통해 안전하게 수행</p><p>• **MAGPIE 프로젝트의 일환**: EU 공동자금지원 유럽 혁신 프로젝트로 45개 기관이 참여하며 기후중립 항만 전환 목표로 10개 시연 프로젝트 중 하나</p><p>• **상용화 전망**: Alphatron Marine, Argonics, Argonav 등 파트너사들이 argoPositionPilot, argoRadarPilot 등 항행지원 솔루션을 상용화할 계획으로 내륙선박 시장 진입 준비 중</p><p>• **운송 효율성 기대효과**: 도로 운송 대비 에너지 효율성 향상 및 도로 혼잡 완화, 화물 처리량 증가 시 내륙해운의 운송분담률 확대에 기여 예상</p><h3>Key Quotes</h3><p>• "Autonomous sailing enables new logistics concepts that improve the flexibility, efficiency, and reliability of inland shipping, which is an important hinterland transport modality for the Port of Rotterdam" (자율운항은 로테르담 항만의 중요 내륙 운송 수단인 내륙해운의 유연성, 효율성, 신뢰성을 향상시키는 새로운 물류 개념을 가능하게 함)</p><p>• "Containers, bulk, and liquids transported via inland waterway reduce pressure on the road network and are moved more energy-efficiently than by road" (내륙 수로를 통한 컨테이너, 벌크, 액체화물 운송은 도로 네트워크의 부하를 감소시키고 도로 운송 대비 훨씬 더 에너지 효율적으로 이동)</p><h3>Technical Insights</h3><p>• **항행 자동화 기술 성숙도**: 실시간 센서 융합 및 머신러닝 기반 충돌 회피 알고리즘이 혼잡한 항만 환경에서 안전한 자율 기동을 가능하게 하며, 고정식 추진기 및 타를 갖춘 내륙선박에 최적화된 솔루션 개발</p><p>• **COLREG 준수 및 규제 프레임워크**: 자율운항선박의 해사 규칙(COLREG) 준수, 선장의 감시 책임, 국제해사기구(IMO) 자율선박 가이드라인 적용 등 법적·규제적 측면 정립 필요</p><p>• **내륙해운의 탈탄소화 전략**: 자율운항을 통한 연료 효율성 극대화 및 최적 항로 설정으로 CO₂ 배출 감축, EU 기후 중립 목표(2050년) 달성에 기여하는 핵심 기술로 평가</p><p>• **산업 생태계 확산**: 항행 보조 솔루션 상용화로 선박소유사-조선소-기술 공급자 간 협력 네트워크 형성, 유럽 내륙해운 시장의 디지털화 및 스마트화 가속화 예상</p></div>`,
+      tags: ["autonomous shipping","inland vessels","Port of Rotterdam","MAGPIE project","climate-neutral ports"],
+      link: "https://maritime-executive.com/article/rotterdam-demonstration-marks-milestone-in-autonomous-inland-shipping",
+      coords: [4.2686,51.9225],
+      location: "Port of Rotterdam, Netherlands"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-17
+addEvents({
+  "2026-06-17": [
+    {
+      type: "news",
+      title: "ABS and Partners to Develop Conditional Unmanned Bridge for VLOCs",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-17",
+      image: "https://images.marinelink.com/images/maritime/w800/patrick-senior-171527.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• ABS, Polaris Shipping, HD Hyundai Heavy Industries(HHI), AVIKUS가 조건부 무인 브릿지(Conditional Unmanned Bridge) 개발을 위한 4자 협약 체결</p><p>• 심해 항해 중 정의된 조건(예: 외양 항해)에서만 Polaris Shipping의 325K 초대형 광석운반선(VLOC)에서 무인 브릿지 운영 개념 개발</p><p>• 완전 무인 운영이 아닌 단계적 자율항해 개념으로, IMO MARITIME AUTONOMOUS SURFACE SHIPS(MASS) Code 개발 추진과 부합하며 근단기에 실현 가능한 자율선박 형태로 업계에서 평가</p><p>• ABS는 위험 식별, 기능안전 분석, IMO MASS Code 부합성을 통한 구조화된 안전평가 수행 예정</p><p>• Polaris Shipping은 실제 운영 데이터를 기반으로 인간 조작과 자동화 운영 간의 경계 정량화, HHI는 자율항해 개념을 반영한 선박 설계 방향 수립, AVIKUS는 무인 브릿지용 자율항해시스템 기술요구사항 정의</p><p>• IMO MASS Code 프레임워크 내에서 무인 브릿지 개념이 시장 진입 최초 자율선박 형태로 예상됨</p><h3>Key Quotes</h3><p>• "The technical complexity of the concept lies not in any single system, but in the interactions between autonomous navigation, vessel design and the conditions during unmanned bridge periods." (기술적 복잡성은 단일 시스템이 아닌 자율항해, 선박 설계, 무인 브릿지 운영 조건 간의 상호작용에 있음)</p><p>• "The 325K VLOC, with its high proportion of open-ocean voyages, is a suitable target for the unmanned bridge concept. We plan to use real operational data to quantitatively define the boundary between human and automated operations." (외양 항해 비중이 높은 325K VLOC는 무인 브릿지 개념에 적합한 대상이며, 실제 운영 데이터를 통해 인간과 자동화 운영 간 경계를 정량적으로 정의할 계획)</p><p>• "The unmanned bridge concept is expected to be the first form of autonomous shipping to enter the market under the IMO MASS Code framework." (무인 브릿지 개념은 IMO MASS Code 프레임워크 내에서 시장에 진입할 최초의 자율선박 형태로 예상됨)</p><h3>Technical Insights</h3><p>• **조건부 무인운영의 현실성**: 완전 무인화가 아닌 정의된 저위험 조건(외양 항해)에서만 무인 브릿지 운영하는 단계적 접근법으로, IMO MASS Code(Maritime Autonomous Surface Ships) 레벨 2~3 수준의 조건부 자율운영으로 근단기 시장 진입 가능성 높음</p><p>• **안전평가 프레임워크**: ABS의 구조화된 안전평가(hazard identification, functional safety analysis)와 IMO MASS Code 부합성 검증을 통해 자율항해 시스템, 선박 설계, 운영 조건 간 상호작용에 대한 증거기반 위험 평가 필요</p><p>• **실제 운영 데이터의 중요성**: Polaris Shipping의 실제 크루 운영 데이터(인간 반응시간 포함)를 기반으로 자동화와 인간 개입의 경계를 정량적으로 정의함으로써, 규제 당국의 수용성 확보 및 운영 표준화 추진</p><p>• **선박 설계 통합 검토**: HHI를 통한 선박 설계 수정사항 도출, AVIKUS의 자율항해시스템 기술요구사항 정의로 자율운항을 위한 선박 플랫폼 최적화 및 산업 표준화 기반 마련</p></div>`,
+      tags: ["Autonomous Navigation","Unmanned Bridge","MASS Code","VLOC","IMO Regulations"],
+      link: "https://www.marinelink.com/news/abs-partners-develop-conditional-unmanned-540382",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
