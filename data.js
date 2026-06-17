@@ -9582,3 +9582,53 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-17
+addEvents({
+  "2026-06-17": [
+    {
+      type: "accident",
+      title: "Russian Frigate Fires Warning Shots at UK-Flagged Yacht in English Channel",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-06-17",
+      image: "https://gcaptain.com/wp-content/uploads/2026/06/2026-06-16T161448Z_1250547241_RC23VLADD99W_RTRMADP_3_UKRAINE-CRISIS-BRITAIN-RUSSIA.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 러시아 해군 함정 Admiral Grigorovich가 영국 해협에서 영국 국적 요트에 경고사격을 실시한 사건 발생<br>• 러시아측은 충돌 위험을 이유로 무선 연락 시도 실패 후 경고사격을 감행했으며, 영국 방위부는 러시아 함정의 표류 상태에서의 경고사격으로 평가<br>• 영국 총리 Keir Starmer는 해당 사건을 "무분별하고 깊이 우려스러운" 행동이라 비판<br>• 요트 탑승자들이 극도의 공포를 경험했을 것으로 추정되며, 영국 방위부는 이를 고립된 사건으로 분류<br>• 러시아 그림자 함대 선박 나포 사건과는 무관한 독립적 사건으로 판단</p><h3>Key Quotes</h3><p>• "What happened in the Channel was deeply concerning. It was reckless," (영국 해협에서 발생한 일은 매우 우려스럽고 무분별한 행동이었다)<br>• "the couple on the yacht must've been terrified" (요트 탑승 부부는 반드시 극도의 공포를 느꼈을 것이다)</p><h3>Technical Insights</h3><p>• 국제해사기구(IMO) COLREG 규칙 하에서 충돌 위험 상황의 신호 규정을 위반한 경고사격 행위는 국제해양법상 심각한 문제<br>• 해양에서의 안전통신 실패 시 무력 사용은 민간 해운의 안전성을 위협하며, 국제 해상교통 규제의 중요성 강조<br>• 러시아 해군의 영국 해협 활동 증가는 해역 통제 및 안보 우려와 관련된 정치·군사적 긴장 표현</p></div>`,
+      tags: ["English Channel","Russian Navy","Admiral Grigorovich","Warning Shots","Maritime Safety"],
+      link: "https://gcaptain.com/uk-pm-starmer-calls-channel-incident-involving-russian-warship-reckless/",
+      coords: [0.5,50.5],
+      location: "English Channel"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-16
+addEvents({
+  "2026-06-16": [
+    {
+      type: "news",
+      title: "U.S. Navy Restructures Unmanned Systems Programs Following GAO Audit Recommendations",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-06-16",
+      image: "https://maritime-executive.com/media/images/article/Orca_XLUUV_Boeings_Advanced_Autonomous_Submarine_for_US_Navy.584271.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• GAO(미국 정부감시기구)의 감사 결과에 따르면 미 해군의 무인시스템 프로그램들이 조직 개편을 통해 자율 로봇 시스템에 더 나은 자원 배분과 리더십 집중이 필요했음<br>• 미 해군은 2025년 말 약 200개 프로젝트를 25개 프로그램 사무소에서 통합하여 새로운 Portfolio Acquisition Executive Robotic Autonomous System (PAE RAS) 조직 출범<br>• 기존 문제점: 리더십 교체, 우선순위 변경, 무인시스템이 유인 플랫폼과의 자원 경쟁, 경직된 요구사항 설정으로 인한 개발 지연<br>• GAO는 해군의 잠수함, 무인선, 항공기 등 모든 자율시스템을 통합 관리하고 상용 산업 모범 사례 도입을 권고<br>• Rebecca Gassler 전 Project Overmatch 총괄 엔지니어가 PAE RAS 지휘관으로 임명되어 새로운 능력 중심적 접근법 추진 중</p><h3>Key Quotes</h3><p>• "the service needed to reorganize its acquisitions programs in order to give robotic autonomous systems the resources and leadership focus that they deserve, instead of letting them fall through the cracks when manned weapons platforms take priority." <br>(유인 무기 플랫폼이 우선시될 때 자율 로봇 시스템이 소홀히 되지 않도록 조직을 개편하여 충분한 자원과 리더십 지원이 필요함)</p><p>• "A 'capability-centric' and iterative approach would align better with commercial best practice"<br>(능력 중심적이고 반복적인 접근 방식이 상용 산업의 모범 사례와 더 잘 맞음)</p><h3>Technical Insights</h3><p>• **자율시스템 포트폴리오 통합의 중요성**: 무인 잠수함, 수상함, 항공기 등 도메인별 산업군을 통합 관리함으로써 공통 핵심기술(enabling technologies) 개발에 자원을 집중할 수 있게 됨<br>• **상용 산업 모델 도입**: 경직된 사전 요구사항 설정 대신 반복적 개선과 시장 기반 경쟁 방식(MUSV 마켓플레이스)을 도입하여 개발 속도와 유연성 향상<br>• **국방 자율시스템 산업의 전환점**: 미 해군의 구조 개편이 대규모 국방 프로젝트의 자율화 추진 시 조직 혁신의 모범 사례로 작용할 가능성 높음</p></div>`,
+      tags: ["Autonomous Systems","U.S. Navy","Unmanned Vessels","Defense Acquisition","GAO Audit"],
+      link: "https://maritime-executive.com/article/gao-u-s-navy-s-unmanned-systems-restructuring-is-much-needed",
+      coords: [0,0],
+      location: "United States (Navy)"
+    },
+    {
+      type: "news",
+      title: "HII Delivers First REMUS 130 Unmanned Underwater Vehicle to U.S. Ally",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-06-16",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/06/REMUS_130_36fc8cbb29.webp",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Huntington Ingalls Industries (HII)가 REMUS 100 시리즈의 3세대 후속 모델인 REMUS 130 무인수중차량(UUV)의 첫 번째 생산 모델을 미국 동맹국에 인도함<br>• REMUS 130은 25년 이상의 운용 경험을 바탕으로 현대화된 전자장비, 개방형 아키텍처 인터페이스, 향상된 탑재 장비 유연성을 통합<br>• 100m 심도 운용, 최대 10시간 항속력, 2인 휴대 가능한 컴팩트 설계로 운용성 및 전술적 유연성 극대화<br>• 오디세이 자율제어시스템(Odyssey ACS) 탑재로 협업 자율성, 센서 융합, 향상된 인식 능력 등 고급 기능 제공<br>• 현재 30개국 이상에서 750대 이상의 REMUS 플랫폼이 배치되어 있으며, 14개 NATO 해군에서 운용 중</p><h3>Key Quotes</h3><p>• "The delivery of the first REMUS 130 represents an important step in the continued evolution of the REMUS family. For decades, customers have relied on REMUS vehicles for their durability, ease of operation and proven performance." (REMUS 130의 인수는 REMUS 계열의 지속적인 진화를 나타내는 중요한 단계이며, 수십 년간 고객들은 REMUS 차량의 내구성, 운용 용이성, 검증된 성능에 의존해왔음을 의미)</p><p>• "Odyssey ACS transforms underwater vehicles into intelligent robotic systems through an open-architecture design that supports evolving mission requirements while reducing lifecycle costs and technology risk." (오디세이 ACS는 개방형 아키텍처 설계를 통해 수중차량을 지능형 로봇 시스템으로 변환하면서 라이프사이클 비용과 기술 위험 감소를 지원)</p><h3>Technical Insights</h3><p>• **자율수중차량의 모듈식 설계**: REMUS 130은 필드에서 교체 가능한 배터리, 개방형 탑재장비 인터페이스를 통해 다양한 임무에 빠르게 대응 가능한 모듈식 플랫폼으로 설계됨. 이는 해군 및 상용 운영자의 운영 비용을 절감하고 임무 적응성 향상</p><p>• **협업 자율성 기술의 확산**: 오디세이 ACS의 협업 자율성 기능은 다수의 UUV가 네트워크로 연결되어 복잡한 해양 임무를 공동으로 수행할 수 있게 하며, 이는 해양 도메인 인식(MDA)과 반잠수함전(ASW) 임무에서 전술적 우위 제공</p><p>• **글로벌 자율수중차량 시장의 표준화 추세**: 750대 이상의 REMUS 플랫폼이 30개국에서 운용되고 있다는 점은 국제적 상호운용성과 표준화된 무인체계 아키텍처에 대한 수요가 증가함을 시사</p><p>• **IMO 및 해양 규제 프레임워크와의 조화**: 자율수중차량의 확산에 따라 국제해사기구(IMO)의 무인선박 규제 체계가 수중 도메인에도 확대될 것으로 예상되며, 상용 및 군사 운영 간의 규제 통일화가 향후 과제</p></div>`,
+      tags: ["autonomous underwater vehicle","UUV","REMUS 130","HII","unmanned systems"],
+      link: "https://www.navalnews.com/naval-news/2026/06/hii-delivers-first-of-the-newest-remus-variant-130/",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
