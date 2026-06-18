@@ -9705,3 +9705,71 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2023-12-13
+addEvents({
+  "2023-12-13": [
+    {
+      type: "accident",
+      title: "Fall overboard from crab potting vessel Amadeus (TH7) with loss of 1 life",
+      source: "MAIB (Marine Accident Investigation Branch)",
+      sourceMeta: "gov.uk · 2026-06-18",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2023년 12월 13일 영국 등록 갈게잡이 어선 Amadeus에서 갑판원이 황해에서 갈게통을 회수하던 중 전복되어 사망</p><p>• 냉수에서 개인용 부양구조장비(PFD) 없이 수 분 내 무반응 상태가 되었으며, 광범위한 수색·구조 작전에도 불구하고 실패</p><p>• 갈게통 회수 작업 중 불안정한 자세로 선측에 기대어야 하는 위험한 작업 방식과 효과적인 추락 방지 조치 부재가 주요 원인</p><p>• 선내 인력 부양 비상훈련 미실시, 회수 장비 미준비, 과로로 인한 승무원 피로 누적이 사고에 기여</p><p>• MAIB는 해양청, 선사, 어업 산업에 안전 관리 시스템 강화, 작업시간 관리 개선, 수동 작업 위험 감소 권고</p><p>• 어업 종사자 안전 관리 규정 및 감시·감독 체계의 근본적 개선 필요성 강조</p><h3>Key Quotes</h3><p>• "The pot hauling method required crew to lean over the vessel's side in an unstable posture, creating a significant risk of falling overboard." <br>(갈게통 회수 작업 시 승무원이 불안정한 자세로 선측에 기대어야 하는 방식이 전복의 상당한 위험을 야기함)</p><p>• "The casualty was rapidly incapacitated in cold water and, without a personal flotation device, survivability was significantly reduced."<br>(사고자가 냉수에서 급속히 무반응 상태가 되었으며, 부양구조장비 부재로 생존 가능성이 현저히 감소함)</p><p>• "The vessel was unprepared for a man overboard emergency; drills had not been practised and recovery arrangements were not ready for immediate use."<br>(선박이 인력 부양 비상 상황에 대비되지 않았으며, 훈련이 실시되지 않았고 회수 장비가 즉시 사용 가능한 상태가 아니었음)</p><h3>Technical Insights</h3><p>• **수동 작업 위험 관리의 부재**: 어선의 갈게통 회수 작업은 인체공학적으로 위험한 자세를 강요하는데, IMO STCW 규정과 ILO 협약의 수동 작업 안전 기준이 소형 어선에 충분히 적용되지 않는 규제 공백 존재</p><p>• **냉수 생존성과 PFD 의무화**: 북해 운영 어선의 경우 수온이 5-10°C 수준으로 PFD 착용이 생명을 좌우하는 요소인데, 어선 종사자의 PFD 착용율이 상선에 비해 극히 낮은 산업 문화 개선 필요</p><p>• **안전 관리 시스템의 규모별 차등 적용**: 15m 이상 어선에 대한 공식적 안전 관리 시스템 의무화 부재로, SOLAS/ISM Code 수준의 체계적 위험 평가·통제 기능 미흡</p><p>• **승무원 피로 관리 규제**: ILO 188호 협약의 작업·휴식 시간 규정이 어업 부문에서 실효성 있게 운영되지 않아 만성 피로가 판단력 저하 및 사고 위험을 증폭시키는 악순환 구조 형성</p></div>`,
+      tags: ["man overboard","fishing vessel","cold water","fatigue","safety management"],
+      link: "https://www.gov.uk/maib-reports/fall-overboard-from-the-crab-potting-vessel-amadeus-th7-with-the-loss-of-1-life",
+      coords: [2.5,55],
+      location: "German Bight, North Sea"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-18
+addEvents({
+  "2026-06-18": [
+    {
+      type: "news",
+      title: "Oil Prices Drop to 3-Month Low Following US-Iran Peace Agreement and Strait of Hormuz Reopening",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-18",
+      image: "https://images.marinelink.com/images/maritime/w800/creative-adobe-171568.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 미국-이란 임시협약 체결로 인해 유가가 배럴당 2달러 이상 급락하며 3개월 내 최저가 기록 (브렌트유 $77.41, WTI $74.43)</p><p>• 호르무즈 해협 재개통 및 60일 협상 기간 중 무료 통행 허용, 30일 내 전면 용량 복구 계획 수립</p><p>• 이란 석유 공급 복귀로 에너지 시장이 유가 하락 요인 선반영, 다만 단기 공급 회복은 제한적일 가능성</p><p>• 선사들이 협약 붕괴 위험에 대비해 호르무즈 해협 운항 탱커선 재배치에 신중한 입장 유지</p><p>• IEA 전망: 2027년 공급 과잉이 일일 505만 배럴에 달할 수 있으며, 중동 석유 회귀가 시장 변동성 증대 예상</p><p>• 미 연방준비제도의 금리 인상 우려로 인해 경제 성장 둔화 및 석유 수요 억제 추가 압박</p><h3>Key Quotes</h3><p>• "The sell-off extended as energy markets continued to aggressively price in a faster-than-expected return of Iranian barrels following the recent U.S.-Iran memorandum of understanding" <br>(에너지 시장이 미국-이란 양해각서 이후 예상보다 빠른 이란 석유의 복귀를 적극 반영하면서 유가 하락세가 지속되고 있음)</p><p>• "The volume of crude returning to the market after Hormuz reopens could be limited as some cargoes already exited through workaround arrangements, while shipowners may remain reluctant to send tankers back into the region"<br>(호르무즈 해협 재개통 후 시장에 복귀하는 원유 물량은 제한적일 수 있으며, 선사들이 협약 붕괴 위험으로 인해 탱커선 재배치를 꺼려할 가능성)</p><h3>Technical Insights</h3><p>• 호르무즈 해협 재개통에 따른 해상 유가 운송 로트 증가는 선박 용선료(Tanker Spot Rate) 변동성을 높일 것으로 예상되며, 단기적으로는 迂回항로(Cape of Good Hope) 사용 감소로 선복 공급 과잉 초래 가능</p><p>• IMO 해양 환경 규제(MARPOL, Ballast Water Management) 관점에서 호르무즈 재개통 시 중동 지역 유조선 운항 증가에 따른 해양 오염 위험 증가 및 규제 준수 강화 필요</p><p>• 이란 제재 해제에 따른 유가 급락은 선박 건조 시장(Newbuilding)과 중고선 거래 시장에 부정적 영향을 미칠 수 있으며, 특히 유가 연동형 해운 운임 지수(Baltic Clean Tanker Index) 약세 심화 예상</p><p>• 공급 과잉 전망(2027년 일일 505만 배럴)은 유조선(Tanker) 보유 선사들의 선박 감선(Lay-up) 증가와 장기 운송 계약 구조 재편성을 초래할 수 있음</p></div>`,
+      tags: ["Oil Market","US-Iran Deal","Strait of Hormuz","Energy Supply","Shipping"],
+      link: "https://www.marinelink.com/news/oil-drops-month-low-usiran-deal-signals-540431",
+      coords: [56.5,26.5],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "Korean Partners Develop Robotic 'Total Hull Care Solution' for Autonomous Hull Management",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-18",
+      image: "https://images.marinelink.com/images/maritime/w800/credit-hyundai-171567.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• HD현대 중공업과 계열사 5개, KCC, TAS Global 등이 선체 자동 진단·청소·검증을 통합한 로봇 기반 "Total Hull Care Solution" 개발 추진</p><p>• 선체 생물오염(biofouling)으로 인한 연료효율 저하 및 환경규제 강화에 대응하기 위해 실시간 데이터 기반 선체 상태 모니터링 시스템 개발</p><p>• 수중 자율로봇, 방오도료 표준 규격, 연료효율 최적화 기술, 청소 효과 검증 자동화 시스템을 통합 개발 예정</p><p>• HD현대가 로봇 제조 역량을 활용하여 선체 진단부터 청소, 효율성 검증까지 전 과정의 수중 자율로봇 개발 주도</p><p>• 선박수리 및 유지보수 시장으로 확대하여 새로운 비즈니스 모델 구축 목표</p><h3>Key Quotes</h3><p>• "This collaboration is the industry's first attempt to integrate shipbuilding, paint, and robot technologies into a single solution" <br>(조선, 도료, 로봇 기술을 단일 솔루션으로 통합하는 업계 최초 시도)</p><p>• "We expect this to go beyond simple cleaning to maximize fuel savings and carbon reduction, and to establish itself as a new business model by expanding into the ship repair and maintenance market in the future."<br>(단순 청소를 넘어 연료절감과 탄소감축을 극대화하고, 향후 선박수리·유지보수 시장 확대를 통해 새로운 비즈니스 모델로 정착할 것으로 기대)</p><h3>Technical Insights</h3><p>• 자율수중로봇(AUV) 기반의 선체 상태 진단 기술로 기존의 수동적·주기적 청소 방식에서 벗어나 실시간 모니터링 및 예측적 유지보수(predictive maintenance) 체계 구축 가능</p><p>• 선체 생물오염 제어를 통한 연료효율 최적화는 IMO 2030/2050 탄소감축 목표 달성에 기여하는 핵심 기술로, 선박의 운영 성능과 환경 규제 준수를 동시 달성</p><p>• HD현대의 로봇 제조 역량과 조선·도료·수중로봇 전문기업의 협력 모델은 해양산업의 디지털화·자동화 가속화 사례로, 향후 선박 유지보수 시장의 구조적 변화를 주도할 것으로 예상</p></div>`,
+      tags: ["autonomous robots","hull maintenance","robotics","shipping technology","fuel efficiency","HD Hyundai"],
+      link: "https://www.marinelink.com/news/korean-partners-develop-robotic-total-540428",
+      coords: [126.9784,37.5665],
+      location: "South Korea"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-17
+addEvents({
+  "2026-06-17": [
+    {
+      type: "news",
+      title: "UAE Plans Major Infrastructure Investment to Bypass Strait of Hormuz Shipping Route",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-06-17",
+      image: "https://maritime-executive.com/media/images/article/ADNOC-tanks-and-pipelines.597bf4.c7dbba.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• UAE는 호르무즈 해협 의존도 완전 제거를 목표로 2028년까지 일일 520만 배럴 석유 생산량 달성 계획 추진 중<br>• ADNOC(UAE 국영석유회사)가 후자이라 항구를 통한 대체 경로로 일일 200만 배럴을 이미 운송 중이며, 드론 공격으로 유조선 피격 경험<br>• UAE 무역부 장관 타니 알 제유디는 "호르무즈 의존도 제로"를 명확한 목표로 선언하며 해협 개통 여부와 관계없이 계획 지속 의지 표현<br>• 2025-2030년 자본 예산 1,500억 달러를 투자하여 파이프라인, 항만(후자이라, 호르 팍칸, 디바), 철도·도로 인프라 확장<br>• 육상 운송 네트워크 확대로 컨테이너 화물의 육상 운송 비용 절감 및 제베 알리 항만 허브 지위 유지 계획<br>• 이란의 탄도미사일 및 드론 위협이 지속되는 가운데 지정학적 리스크 최소화 전략으로 기능</p><h3>Key Quotes</h3><p>• "We're moving toward having zero Hormuz dependency and that's regardless of whether it's open or not." (호르무즈 해협 개통 여부와 관계없이 호르무즈 의존도 제로를 목표로 추진 중)</p><p>• "The Strait is going to open and we hope that will happen quickly, but we will not stop the new plan." (해협 개통을 희망하지만 인프라 확충 계획은 계속 진행한다는 의지 표현)</p><h3>Technical Insights</h3><p>• **공급망 리질리언스 강화**: 단일 경로(호르무즈 해협) 의존에서 다중 경로 체계로의 전환은 해상 운송의 지정학적 리스크 최소화 및 공급 안정성 향상을 실현하는 현대적 전략<br>• **인프라 통합 개발**: 파이프라인-철도-도로-항만을 유기적으로 연결하는 육상 물류 네트워크는 선박 운항에 대한 의존도 감소와 비용 절감 효과 기대<br>• **대형 선박(VLCC) 활용 변화**: 호르무즈 우회로 인해 후자이라 같은 소규모 항만에서 외국적 선박으로의 화물 환적 증가로 선박 운영 전략 변화 필요<br>• **지정학적 해운 시장 변동성**: 이란의 미사일/드론 위협 지속은 인도양 지역 해상 보험료 상승 및 선박 라우팅 변경을 유발하는 해운업계 구조적 변화 야기</p></div>`,
+      tags: ["UAE","Strait of Hormuz","Oil Shipping","Pipeline Infrastructure","ADNOC","Geopolitical Risk"],
+      link: "https://maritime-executive.com/article/uae-wants-to-end-its-reliance-on-shipping-through-strait-of-hormuz",
+      coords: [54.3773,24.4539],
+      location: "United Arab Emirates / Strait of Hormuz"
+    }
+  ]
+});
