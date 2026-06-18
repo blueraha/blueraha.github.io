@@ -9632,3 +9632,76 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2025-03-20
+addEvents({
+  "2025-03-20": [
+    {
+      type: "accident",
+      title: "Serious Head Injury from Failed Lifting System on Bulk Carrier Thor Nitnirund",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-18",
+      image: "https://images.marinelink.com/images/maritime/w800/source-171562.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 2025년 3월 20일 뉴질랜드 쿡 해협에서 벌크선 Thor Nitnirund호의 선원이 즉흥적으로 설계된 화물 체인 회수 작업 중 웹 슬링 파손으로 인한 심각한 머리 부상을 입음</p><p>• **근본 원인**: 손상되고 유지보수되지 않은 웹 슬링이 최소 파단 하중의 50% 미만에서 파손되었으며, 해당 장비는 선박의 리프팅 장비 등록부에 기록되지 않음</p><p>• **안전 관리 체계 부실**: 선박의 안전 관리 시스템에서 위험 평가 및 공구박스 회의가 요구되었으나 실제로는 적절히 적용되지 않았고, 운영사의 감사에서도 이러한 격차를 발견하지 못함</p><p>• **작업 계획 결여**: 즉흥적인 리프팅 시스템 구성으로 인한 결과와 위험을 적절히 파악하지 못했으며, 공구박스 회의를 화물실에서 개최하여 현장에서 위험 요소를 식별하기 어려움</p><p>• **조사 기관**: 뉴질랜드 운송 사고 조사위원회(TAIC)에서 조사 완료 및 권고사항 발표</p><p>• **결과**: 선원이 헬리콥터로 긴급 후송됨</p><h3>Key Quotes</h3><p>• "The sling failed at less than half of its expected minimum breaking load because its webbing was damaged and in poor condition." (웹 슬링의 손상되고 불량한 상태로 인해 예상 최소 파단 하중의 50% 미만에서 파손됨)</p><p>• "The crew did not identify the consequences of a failure under load and underestimated the risks of the improvised lifting arrangement." (선원들은 하중 작용 시 파손의 결과를 파악하지 못했으며 즉흥적 리프팅 시스템의 위험을 과소평가함)</p><p>• "Never stand in the bight of a line or lifting system. If equipment fails, serious injury can happen fast." (로프나 리프팅 시스템의 중간 부분에 절대 서있지 말 것, 장비 파손 시 심각한 부상이 빠르게 발생할 수 있음)</p><h3>Technical Insights</h3><p>• **비일상적 작업 위험 관리**: 정기적인 화물 취급 업무가 아닌 즉흥적 리프팅 작업에 대해 체계적인 위험 평가 및 사전 계획 수립의 중요성 강조 - IMO SOLAS 규정 및 각국 안전 관리 체계에서 비정상 작업의 위험도 평가 필수</p><p>• **안전 관리 시스템의 형식적 이행 문제**: 선박 안전 관리 규정(ISM Code)이 존재하더라도 현장에서 실제로 적용되지 않으면 실효성이 없으며, 감사 시 서류 완성도만 확인하는 방식의 개선 필요</p><p>• **해양 장비 추적 관리**: 전임 운영사로부터 승계된 장비가 현재 안전 관리 체계에 포함되지 않아 검사 및 유지보수 누락되는 사례 방지를 위해 선박 인수 시 모든 안전 관련 장비의 재등록 및 상태 확인 필수</p><p>• **인적 요소 및 현장 감독**: 공구박스 회의를 현장이 아닌 사무실에서 개최하는 것은 선원들의 위험 요소 인식 능력을 저하시키므로, 실제 작업 환경에서의 사전 안전 브리핑이 해양 재해 예방의 핵심</p></div>`,
+      tags: ["lifting operation","cargo handling","safety management","investigation"],
+      link: "https://www.marinelink.com/news/improvised-lifting-operations-led-serious-540423",
+      coords: [174.876,-41.286],
+      location: "Cook Strait, New Zealand"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-16
+addEvents({
+  "2026-06-16": [
+    {
+      type: "news",
+      title: "GAO Report on Navy's Robotic Autonomous Systems - Leadership and Organizational Challenges",
+      source: "USNI News",
+      sourceMeta: "news.usni.org · 2026-06-16",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미 해군의 로봇 자율시스템(RAS) 도입이 해전 양상을 근본적으로 변화시키고 있으며, 우크라이나와 중동 최근 분쟁에서 그 효과가 증명됨</p><p>• 미 국방감시청(GAO)은 해군이 제2차 세계대전 이후 중앙집중식 전투 모델에서 분산된 적응형 작전으로 전환할 필요성을 강조</p><p>• 현재 해군 조직 체계와 리더십 구조가 로봇 자율시스템 운영에 필수적인 변화에 대응하지 못하고 있다는 점이 핵심 문제</p><p>• 상원 군사위원회 및 하원 군사위원회에 제출된 GAO 보고서는 조직적 리더십 과제 해결의 긴급성을 강조</p><p>• 해군의 전통적 대함전 전략과 신규 자율시스템 기술 간의 운영 개념 통합이 미흡한 상태</p><h3>Key Quotes</h3><p>• "Recent conflicts in Ukraine and the Middle East prove that robotic and autonomous systems (RAS) are disrupting naval warfare and challenging traditional naval superiority" <br>(우크라이나와 중동의 최근 분쟁들이 로봇 자율시스템이 해전 양상을 근본적으로 변화시키고 전통적 해양 우위체계에 도전하고 있음을 증명)</p><p>• "Navy intends to shift away from its World War II-era operating model, which was based on closely knit [centralized operations]"<br>(해군이 제2차 세계대전 시대의 중앙집중식 운영 모델에서 벗어나 분산형 작전 체계로 전환할 의도를 가지고 있음)</p><h3>Technical Insights</h3><p>• **해양 자율시스템 운영 개념 변화**: 전통적 함정 중심의 집중식 전술에서 벗어나 무인시스템 네트워크 기반의 분산 작전으로의 패러다임 전환이 필수적이며, 이는 해양 로봇 자율화의 핵심 추세</p><p>• **조직 구조 및 명령 체계 개편**: 로봇 자율시스템의 실시간 데이터 처리와 자동 의사결정 능력을 활용하기 위해서는 기존 계층적 해군 지휘 체계의 근본적인 개혁이 필요</p><p>• **해양 방위 산업 표준화 문제**: 함정과 무인 플랫폼 간 통신 프로토콜, 자율 항해 알고리즘, 충돌회피 시스템(COLREG 준수)의 통합 표준화 부재가 운영 효율성 저해</p><p>• **국방 해양 기술 안보**: 적대국의 자율시스템 기술 발전에 대응하기 위한 기술 선도권 확보 및 사이버 보안 강화가 시급한 산업 과제</p></div>`,
+      tags: ["Autonomous Systems","Naval Warfare","Military Robotics","Defense Policy"],
+      link: "https://news.usni.org/2026/06/16/gao-report-to-congress-on-the-navys-robotic-autonomous-systems",
+      coords: [0,0],
+      location: "United States (Federal)"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-18
+addEvents({
+  "2026-06-18": [
+    {
+      type: "news",
+      title: "Protecting Crew Lives Launches Resource Platform for Superyacht Crews",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-18",
+      image: "https://images.marinelink.com/images/maritime/w800/kyryl-gorlov-171561.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **새로운 독립 플랫폼 출범**: Protecting Crew Lives(PCL)가 슈퍼요트 승무원을 위한 중앙집중식 자원 허브 플랫폼을 론칭했으며, 해사법에서 제공하는 권리를 실질적으로 보장하는 것을 목표로 함</p><p>• **설립 배경**: 바하마에서 요트 근무 중 사망한 20세 청년 Paige Bell을 추모하기 위해 두 명의 어머니 Nicole Coetzer와 Chantal Johnson이 설립함</p><p>• **주요 자원**: 4단계 자원 라이브러리, MLC 2006·STCW·ISPS 코드 규정 가이드, 신고 채널, 그리고 승무원 중심의 서비스 제공자 디렉토리(Yellow Rose Crew Directory) 제공</p><p>• **기술적 접근**: 모바일 웹 앱(Progressive Web App) 형식으로 설계되어 기기 저장 공간 부담 없이 즉시 접근 가능하며 홈 화면에 직접 설치 가능</p><p>• **산업적 문제 지적**: 현장에서 계약 규정 무시, MLC 의무 회피 등이 지속되고 있으며, 승무원들이 고용 유지를 위해 침묵을 강요받고 있는 현실을 강조</p><p>• **규제 준수 강화**: 플랫폼 등록 기관은 자발적으로 안전·복지 기준 체크리스트를 제출해야 하며, 투명한 운영과 공동 책임 문화 조성을 추구</p><h3>Key Quotes</h3><p>• "Our aim is non-negotiable. It is to ensure that every single protection maritime law affords crew on paper, is actually felt by crew in practice." <br>(우리의 목표는 협상할 수 없습니다. 해사법이 종이 위에서 보장하는 모든 보호가 실제로 승무원들에게 느껴지도록 하는 것입니다.)</p><p>• "Crew deserve the same human rights afforded to any land-based worker. Those rights are not a privilege. They are the law."<br>(승무원은 육상 근로자와 동일한 인권을 받을 자격이 있으며, 이러한 권리는 특권이 아니라 법입니다.)</p><h3>Technical Insights</h3><p>• **해사노동협약(MLC 2006) 실행의 격차**: 국제협약이 존재하지만 현장에서의 이행이 불충분하여, 독립적 플랫폼을 통한 보완 및 감시 체계의 필요성 대두</p><p>• **STCW 규정 투명성 강화**: 승무원들이 항해사 훈련·자격 및 당직 규정에 대한 명확한 이해를 가질 수 있도록 지원하여 해상 안전과 작업 환경 개선 기여</p><p>• **ISPS 코드와 보안 기준**: 항만 시설 보안 규정의 준수 현황을 승무원들이 스스로 인식하고 모니터링할 수 있는 플랫폼 제공으로 규제 투명성 증진</p><p>• **디지털 접근성 전략**: PWA 기술을 통해 인터넷 대역폭 제약이 있는 선상 환경에서도 실시간 정보 접근이 가능하도록 설계하여 산업 디지털화 촉진</p></div>`,
+      tags: ["Superyacht","Crew Welfare","Maritime Law","MLC 2006","STCW"],
+      link: "https://www.marinelink.com/news/protecting-crew-lives-launches-resource-540422",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-17
+addEvents({
+  "2026-06-17": [
+    {
+      type: "news",
+      title: "Iran Gears Up to Boost Oil Exports Following U.S. Deal Announcement",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-17",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockchernikovatv-171553.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 이란이 미국 해상 봉쇄를 뚫고 주간에 5백만 배럴 규모의 유류 수송선 3척을 통과시켜 유출 재개 신호 발신<br>• 영웅함 II(Hero II), 디오나(Diona), 소니아 I(Sonia I) 등 대형 유조선(VLCC)들이 아라비아만을 통과해 아시아 방향으로 항해 중<br>• 트럼프 대통령이 6월 14일 발표한 이란과의 전쟁 종료 협정이 6월 19일 스위스에서 서명 예정으로, 미국의 유류 판매 즉시 허용 조항 포함<br>• 미국의 봉쇄로 인해 이란의 유류 수출이 월 26만 배럴로 6년 만의 최저 수준으로 하락했으나, 협정 체결 시 대폭 회복 예상<br>• 벤치마크 브렌트유 선물이 배럴당 120달러에서 80달러 이하로 급락하며 국제유가 변동성 확대</p><h3>Key Quotes</h3><p>• "The gap between the announcement and the expected signing on June 19 gives both sides scope for issuing conflicting statements on the agreement" (6월 19일 서명까지의 기간이 양측에 상충되는 성명 발표 여지를 제공한다)</p><p>• "The signal has gone out and they are repositioning in expectation of the end of the U.S. blockade. Clearly, a system reboot is in progress" (신호가 발신되었고 미국 봉쇄 해제 예상하에 재배치 중이며, 명백히 시스템 재부팅 진행 중)</p><p>• "Ships of the World, start your engines. Let the oil flow!" (세계의 선박들이여, 엔진을 시작하라. 석유를 흘러보내라!)</p><h3>Technical Insights</h3><p>• 대형 유조선(VLCC) 급 수송선들의 고의적 위치 변경은 IMO 해운 규제 환경에서 지정학적 제재 회피 수단으로 활용되는 사례로, 선박 추적(AIS) 데이터의 규제 감시 중요성 증대</p><p>• 국제유가(브렌트유) 급락으로 인한 해운 업계 수익성 악화 전망으로, 탱커 용선료(TCE) 인상 압력 증가 및 선박 효율화 요구 사항 강화 예상</p><p>• 이란-말레이시아 간 장기 정박 선박들의 귀로 항해는 해상 봉쇄 해제에 따른 선박 운영 정상화 신호로, 해운 물류망의 신속한 구조 조정 필요성 시사</p></div>`,
+      tags: ["Iran Oil Exports","Tanker Traffic","U.S. Blockade","Geopolitics"],
+      link: "https://www.marinelink.com/news/iran-gears-boost-oil-exports-540410",
+      coords: [54.3569,25.2048],
+      location: "Persian Gulf / Gulf of Oman"
+    }
+  ]
+});
