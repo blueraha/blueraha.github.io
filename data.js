@@ -9829,3 +9829,34 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-18
+addEvents({
+  "2026-06-18": [
+    {
+      type: "news",
+      title: "ABS, Polaris Shipping, HHI & AVIKUS Sign Agreement for Unmanned Bridge Development",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-06-18",
+      image: "https://maritime-executive.com/media/images/article/IMAGE-Polaris-HHI-Avikus-Unmanned-Bridge.353baa.3ebc71.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **조건부 무인 선교 개발**: ABS, 폴라리스 쉬핑, HHI, AVIKUS가 심해 항해 중 정해진 조건에서 선교 무인 운영을 가능하게 하는 자율 항법 개념 개발에 합의</p><p>• **대상 선박**: 폴라리스 쉬핑의 325K 초대형 철광석 운반선(VLOC)을 대상으로 하며, 공해 항해 구간에서 무인 운영 적용 예정</p><p>• **IMO MASS Code 부합성**: 완전 무인 운영이 아닌 단계별 자율 항법 개념으로, IMO 해양자율선박(MASS) 규범에 따라 개발되며 업계에서 근시일 내 배포 가능한 현실적 형태로 평가됨</p><p>• **참여 기관별 역할**: AVIKUS는 자율 항법 시스템 운영 개념 정의, HHI는 선박 설계 변경사항 검토, 폴라리스 쉬핑은 실제 운영 데이터 기반 정량적 파라미터 도출, ABS는 안전 및 규제 검토 담당</p><p>• **기술적 복잡성**: 개별 시스템이 아닌 자율 항법, 선박 설계, 무인 운영 조건 간의 상호작용이 핵심이며, ABS는 위험 식별 및 기능 안전 분석을 통한 체계적 안전 평가 수행</p><h3>Key Quotes</h3><p>• "The technical complexity of the concept lies not in any single system, but in the interactions between autonomous navigation, vessel design and the conditions during unmanned bridge periods." <br>(기술적 복잡성은 단일 시스템이 아니라 자율 항법, 선박 설계, 무인 운영 조건 간의 상호작용에 있다)</p><p>• "The 325K VLOC, with its high proportion of open-ocean voyages, is a suitable target for the unmanned bridge concept."<br>(공해 항해 비중이 높은 325K VLOC은 무인 선교 개념의 적합한 대상이다)</p><p>• "The unmanned bridge concept is expected to be the first form of autonomous shipping to enter the market under the IMO MASS Code framework."<br>(무인 선교 개념은 IMO MASS Code 체계 하에서 시장에 진입할 첫 번째 형태의 자율 해운이 될 것으로 예상된다)</p><h3>Technical Insights</h3><p>• **단계별 자율 항법 접근**: 완전 무인 운영이 아닌 공해 항해 등 저위험 상황에 한정한 조건부 무인 운영 개념으로, IMO MASS Code의 규제 프레임워크에 부합하는 현실적인 구현 방식</p><p>• **실제 운영 데이터 기반 개발**: 폴라리스 쉬핑의 실제 선원 운영 데이터와 인적 반응 시간을 정량적 파라미터로 변환하여, 인적 운영과 자동화 운영 간 경계를 과학적으로 정의</p><p>• **선박 설계 통합 검토**: HHI의 선박 설계 변경과 AVIKUS의 자율 항법 시스템이 통합적으로 검토되어야 하며, 이는 자율 선박 구현의 핵심 과제인 인프라-소프트웨어 호환성 확보</p><p>• **안전 규제 선제적 대응**: ABS의 독립적 안전 평가를 통해 IMO 규제 요구사항을 선제적으로 충족하고, 향후 MASS Code 관련 규정 개발에 업계 기준 제시 가능</p></div>`,
+      tags: ["Autonomous Navigation","Unmanned Bridge","MASS Code","VLOCs","IMO Regulations"],
+      link: "https://maritime-executive.com/article/abs-polaris-shipping-hhi-avikus-sign-agreement-for-unmanned-bridge",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "U.S. Army Deploys Drone Boats to Escort Logistics Vessels in Philippine Salaknib Exercise",
+      source: "USNI News",
+      sourceMeta: "usni.org · 2026-06-18",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미 육군이 Salaknib 훈련에서 무인 해상 선박(Unmanned Surface Vessels)을 이용한 해상 보안 작전을 실시 - 제1도련 지역 물류 지원 능력 강화 목표</p><p>• Hawaii 기지 제25보병사단이 최소 3척의 무인 선박을 배치하여 필리핀군 차량을 수송하는 상륙정 호위 임무 수행</p><p>• 중국과의 잠재적 충돌에 대비한 신규 전술·기술·운영 편성 실험의 일환으로, 미군의 인도-태평양 지역 전략적 관심 반영</p><p>• 무인 해상 선박의 군사적 활용으로 기존 유인 함정의 위험 노출 감소 및 운영 효율성 향상 추진</p><p>• 서태평양 지역 동맹국(필리핀)과의 합동훈련을 통한 상호운용성 검증 및 신기술 실전 배치 검증</p><h3>Key Quotes</h3><p>• "The U.S. Army is deploying drone boats to guard its logistics vessels in the Philippines as the service trains to sustain forces in the first island chain." (미 육군이 필리핀에서 드론 보트를 이용해 물류 선박을 보호하면서 제1도련 지역 군 병력 지원 능력 훈련 실시 중)</p><p>• "Troops from the Hawaii-based 25th Infantry Division deployed at least three unmanned surface vessels last week to establish a maritime security screen to protect a landing craft transporting Philippine Army vehicles." (Hawaii 기지 제25보병사단이 필리핀군 차량을 수송하는 상륙정 보호를 위해 최소 3척의 무인 해상 선박을 배치)</p><h3>Technical Insights</h3><p>• 무인 해상 선박의 군사적 보안 호위 역할 수행으로 자율 해상 플랫폼의 실무 운용 능력 입증 - 민간 해운 분야의 자율 선박 기술 개발에도 간접적 영향</p><p>• 제1도련 도서 지역의 분산된 물류 작전 지원을 위한 무인 선박 네트워크 운영 모델 개발 - 향후 해상 자율 시스템의 다중 선박 협력 운용 표준화 가능성</p><p>• 동맹국과의 무인 선박 공동훈련을 통한 상호운용성(Interoperability) 검증으로 COLREG 준수 및 국제 해상 자율선박 규제 논의에 영향 미칠 가능성</p><p>• 군사 무인 해상 시스템의 상용화 가능성 및 기술 이전을 통한 해양산업 혁신 기대 - IMO의 자율 선박 규제 틀 수립에 군사 운영 경험 제공 가능</p></div>`,
+      tags: ["Autonomous Vessels","Unmanned Surface Vessels","Military Operations","Western Pacific","Salaknib Exercise"],
+      link: "https://news.usni.org/2026/06/18/u-s-army-uses-drone-boats-to-escort-logistics-craft-in-philippine-drill",
+      coords: [121.774,12.8797],
+      location: "Philippines"
+    }
+  ]
+});
