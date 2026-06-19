@@ -9773,3 +9773,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-18
+addEvents({
+  "2026-06-18": [
+    {
+      type: "news",
+      title: "OMS Group's USV Elite Completes Sea Trials off France, Q4 Mobilization Planned",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-06-18",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/06/USV-Elite.jpg?image-crop-positioner-ts=1781786831",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **무인 해상 선박(USV Elite) 해상 수용 시험(SAT) 진행 중** - 싱가포르 기반 OMS Group이 프랑스 남부 해역에서 장거리 무인 표면 선박의 수용 시험을 수행하고 있으며, 2026년 4분기 배치 예정</p><p>• **안정성 및 성능 검증 결과 우수** - 선박 조종, 안정성, 시스템 통합, 심해 측량 성능에서 강력한 초기 결과를 확인했으며, 연장 미션에 적합한 안정적인 항로 유지 능력 입증</p><p>• **Kongsberg EM124 심해 멀티빔 음향 측심기 통합** - 완전 해양 심도 케이블 경로 측량 작업에 필요한 강력한 전체 스와스 수심 획득 능력을 시연 중</p><p>• **자율 운영 모델의 혁신적 전환** - 원격 운영, 고급 측량 페이로드, 자율 기술을 결합하여 해상 측량 캠페인 계획 및 실행 방식의 근본적 재편성 추구</p><p>• **Exail DriX O-16 플랫폼 기반의 우수한 데이터 품질** - 측량 라인 전반에서 강력한 성능을 보이고 있으며, 데이터 정확성과 일관성이 중요한 심해 측량에 적합함을 입증</p><h3>Key Quotes</h3><p>• "Beyond the survey performance itself, we are validating an entirely new operating model. The integration of autonomous technologies, remote operations and advanced survey payloads has the potential to fundamentally reshape how offshore survey campaigns are planned and executed." (측량 성능 자체를 넘어서 완전히 새로운 운영 모델을 검증하고 있으며, 자율 기술, 원격 운영, 고급 측량 페이로드의 통합이 해상 측량 캠페인의 계획 및 실행 방식을 근본적으로 재편할 수 있다)</p><p>• "The combination of the Exail DriX O-16 platform and the Kongsberg EM124 is demonstrating the stability and data quality required for deepwater bathymetric acquisition." (Exail DriX O-16 플랫폼과 Kongsberg EM124의 조합이 심해 수심 획득에 필요한 안정성과 데이터 품질을 입증하고 있다)</p><h3>Technical Insights</h3><p>• **자율 선박 운영 모델의 표준화 필요성** - OMS Group의 SAT 프로그램은 무인 해상 선박의 원격 운영, 페이로드 통합, 품질 보증 프로세스 등 전체 운영 워크플로우를 검증하는 것으로, IMO와 해사 규제 당국에서 요구하는 자율 선박 운영 표준화의 실제 사례 제시</p><p>• **심해 해양 인프라 구축의 기술적 진화** - 완전 해양 심도 케이블 경로 측량 분야에서 무인 선박 기반의 고정밀 측심 기술이 도입되면, 글로벌 해저 통신 인프라 구축 속도와 비용 효율성이 대폭 개선될 것으로 전망</p><p>• **자율 선박 기술 통합 과제** - 선박 시스템과 측량 페이로드 간 엔드-투-엔드 통합 검증을 통해 실제 운영 환경에서의 통신 신뢰성, 센서 정확도, 원격 제어 안정성 등 핵심 과제들이 해결되어야 함을 입증</p><p>• **해양 산업의 안전 및 환경 성능 개선** - 무인 선박 기반 자율 운영으로 인력 수송 감소, 연료 효율성 향상, 해양 생태계 교란 최소화 등 지속 가능한 해양 산업으로의 전환이 가속화될 것으로 기대</p></div>`,
+      tags: ["Autonomous Ships","Uncrewed Surface Vessel","Offshore Survey","Sea Trials"],
+      link: "https://www.offshore-energy.biz/uncrewed-surface-vessels-mobilization-set-for-q4-as-sea-trials-continue-off-france/",
+      coords: [3.88,43.13],
+      location: "South of France"
+    },
+    {
+      type: "news",
+      title: "ABS, Polaris Shipping, HHI & AVIKUS to Build Conditional Unmanned Bridge on VLOC",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-06-18",
+      image: "https://maritime-executive.com/media/images/article/IMAGE-Polaris-HHI-Avikus-Unmanned-Bridge.353baa.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• ABS, Polaris Shipping, HD Hyundai Heavy Industries(HHI), AVIKUS 등 4개 기관이 조건부 무인 선교 개발을 위한 개념 연구 협약을 체결했으며, Polaris Shipping의 325K 초대형 광석운반선(VLOC)에 적용될 예정</p><p>• 무인 선교 운영은 완전 자동화가 아닌 단계적 자율항해 개념으로, 개방 해역 항행 등 저위험 상황에서만 선교 무인 운영을 실시하는 조건부 자율항해 시스템</p><p>• IMO의 해양자율표면선박(MASS) 규정 프레임워크에 부합하며, 산업계에서 단기 내 시장 진출 가능성이 높은 현실적인 자율항해 형태로 평가</p><p>• 각 기관의 역할: Polaris Shipping은 실제 운영 데이터 기반 인간-자동화 운영 경계 정의, AVIKUS는 자율항해 시스템 운영 개념 및 기술 요구사항 정의, HHI는 선박 설계 변경 검토, ABS는 안전성 및 규제 독립 검토</p><p>• 325K VLOC는 높은 비율의 개방 해역 항행 특성을 보유해 무인 선교 개념 적용에 적합한 선박으로 판단</p><h3>Key Quotes</h3><p>• "The technical complexity of the concept lies not in any single system, but in the interactions between autonomous navigation, vessel design and the conditions during unmanned bridge periods." (기술적 복잡성은 단일 시스템이 아닌 자율항해, 선박 설계, 무인 선교 운영 조건 간의 상호작용에서 발생)</p><p>• "The 325K VLOC, with its high proportion of open-ocean voyages, is a suitable target for the unmanned bridge concept." (325K VLOC는 높은 개방해역 항행 비율로 인해 무인 선교 개념의 이상적인 대상)</p><p>• "The unmanned bridge concept is expected to be the first form of autonomous shipping to enter the market under the IMO MASS Code framework." (무인 선교 개념은 IMO MASS Code 프레임워크 하에서 시장 진출 가능성이 높은 첫 번째 자율항해 형태로 예상)</p><h3>Technical Insights</h3><p>• IMO MASS Code 준수를 기반으로 한 단계적 자율항해 개념은 완전 무인 운영의 안전성 리스크를 최소화하면서도 자동화의 이점을 실현할 수 있는 현실적 접근 방식</p><p>• 실제 운영 데이터 기반의 인간 반응 시간 분석을 통해 정량적 안전 파라미터를 도출함으로써 해상 안전 기준과 규제 요구사항에 부합하는 자율항해 시스템 개발 가능</p><p>• 선박 설계, 자율항해 시스템, 운영 개념의 통합적 검토는 향후 MASS Code 기반 자율선박의 상용화 단계에서 필수적인 시스템 엔지니어링 모델을 제시</p><p>• 광석운반선과 같은 특정 선종의 운항 특성(정기항로, 개방해역 항행 비율 높음)을 활용한 차별화된 자율항해 솔루션은 해운 산업의 선택적 자동화 추진 전략의 성공 사례가 될 전망</p></div>`,
+      tags: ["Autonomous Navigation","Unmanned Bridge","MASS Code","VLOC","IMO Regulations"],
+      link: "https://maritime-executive.com/article/abs-polaris-shipping-hhi-avikus-to-build-conditional-unmanned-bridge",
+      coords: [0,0],
+      location: "Global (Deep-Sea Voyages)"
+    },
+    {
+      type: "news",
+      title: "Book Review: How Can We Keep Humans in Control of Autonomous Systems?",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-06-18",
+      image: "https://maritime-executive.com/media/images/article/NCL-Salten-grounding-Lars-Bugge-Aarset.b9bee1.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **자율선박 시대의 인간 통제 강화**: 새로운 저서 "Safety by Design"은 AI와 자동화 기술이 해양 운영에 도입되면서 인간이 시스템을 통제할 수 있는 방안을 제시</p><p>• **안전의 설계 단계 통합**: 기술 개발 후 안전을 추가하는 방식이 아니라, 개발 초기 단계에서부터 인적 요소와 운영자 역할을 시스템에 통합해야 함</p><p>• **의미 있는 인간 통제(Meaningful Human Control) 프레임워크**: 운영자가 상황 인식, 의사결정 권한, 자동화 시스템에 대한 개입 능력을 유지하도록 설계된 개념</p><p>• **저자진**: NTNU의 Ole Andreas Alsos 교수와 Stig Ole Johnsen이 편집, 항공, 해양, 에너지, 운송 분야의 전문가들이 기여</p><p>• **핵심 메시지**: 자율선박의 안전성 향상은 인간을 제거하는 것이 아니라, 운영자의 실제 업무를 이해하고 기술을 그에 맞게 설계하며 상황 변화에 대응할 수 있도록 하는 것에서 비롯됨</p><h3>Key Quotes</h3><p>• "As automation and AI move into safety-critical domains, safety can no longer be treated as something that is verified only at the end of development. It must be designed into the relationship between people, organizations and technology from the very beginning" (자동화와 AI가 안전 중요 영역으로 확대될수록, 안전은 개발 후반부에만 검증하는 것이 아니라 사람, 조직, 기술 간의 관계 속에서 처음부터 설계되어야 한다)</p><p>• "Autonomous and remotely operated maritime systems will not become safe simply by removing people from the bridge or the control loop. They become safer when we understand the work operators actually have to perform, design the technology around that work, and ensure that people can build situation awareness and intervene when conditions change" (자율선박과 원격 운영 시스템은 단순히 사람을 교량에서 제거한다고 해서 안전해지는 것이 아니며, 운영자의 실제 업무를 이해하고 기술을 그에 맞춰 설계하며 상황 변화에 개입할 수 있게 할 때 안전해진다)</p><h3>Technical Insights</h3><p>• **COLREG 및 IMO 규정 대응**: 유럽의 새로운 AI 규정이 도입되면서 "의미 있는 인간 통제" 개념이 해양산업 규제 준수의 핵심이 될 것으로 예상</p><p>• **인간-기계 상호작용 설계**: 항공, 에너지, 운송 분야의 사례를 통해 입증된 바와 같이, 기술과 조직, 인적 업무 프로세스의 정렬이 부족할 때 중대 사건이 발생</p><p>• **운영자 지원 시스템의 중요성**: 자율화 수준이 높아질수록 운영자의 상황 인식(Situational Awareness) 유지와 의사결정 권한이 더욱 중요해지므로, UI/UX 설계가 안전 성능을 좌우하는 요소</p><p>• **산업 전환기 전략**: 원격 운영 해양 서비스와 차세대 자율선박 개발 조직들에게 "기술 중심"에서 "인간 중심" 설계로의 패러다임 전환이 필수적</p></div>`,
+      tags: ["Autonomous Ships","Human-Machine Interaction","AI Safety","Maritime Operations"],
+      link: "https://maritime-executive.com/article/book-review-how-can-we-keep-humans-in-control-of-autonomous-systems",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "Fassmer and ST Engineering Sign Teaming Agreement for Unmanned Surface Vessels",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-06-18",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/06/1781620113263.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 독일 조선업체 Fassmer GmbH와 싱가포르 ST Engineering이 무인수상함(USV) 공동개발을 위한 팀 협력 계약을 2025년 6월 3일 체결하고 6월 17일 공식 발표<br>• 두 회사는 독일 해군의 OPEX II 훈련(2025년)에서 USV 능력 시연 계약을 이미 수주하며 협력 실적 보유<br>• Fassmer는 독일 조선 전통과 특수 용도 선박 건조 경험 제공, ST Engineering은 자율 항행 시스템과 센서 통합 능력 제공<br>• NATO 해군들의 무인 해양 시스템 투자 가속화 추세에서 전략적 협력이 이루어지는 것으로 평가<br>• USV는 인원 투입 없이 정찰, 기뢰 제거, 호위 임무 등 수행 가능한 전력 증강 수단으로 인식</p><h3>Key Quotes</h3><br>• "The teaming agreement signals a convergence of European shipbuilding heritage and Asian defence technology expertise" (유럽의 조선 전통과 아시아 방위 기술 전문성의 수렴을 의미하는 협력 체제)<br>• "USVs are increasingly seen as force multipliers — capable of performing intelligence, surveillance, and reconnaissance (ISR) missions, mine countermeasures, and escort duties without putting personnel at risk" (무인수상함은 인원 위험 없이 정보 수집, 감시, 정찰 임무와 기뢰 제거, 호위 임무를 수행할 수 있는 전력 증강 수단으로 인식)</p><h3>Technical Insights</h3><br>• **자율항행 기술의 국방 적용 확대**: NATO 해군의 무인 해양 시스템 도입 가속화로 고도화된 자율 항행 기술, 센서 통합, AI 기반 의사결정 시스템의 군사 적용 범위 확대 추세<br>• **COLREG 및 IMO 규제 대응**: 독일 해군 OPEX II 훈련 참여를 통한 실제 운용 환경에서의 규제 준수 및 안전성 검증 진행, 향후 국제 해사법규 적응성 강화<br>• **산업 전략 결합의 중요성**: 유럽의 조선 기술과 아시아의 첨단 전자 방위 기술 결합으로 글로벌 경쟁력 강화, 선진국 해군의 무인 플랫폼 수요 창출</p></div>`,
+      tags: ["USV","Autonomous Ships","Unmanned Maritime","Germany-Singapore Partnership","Defense Technology"],
+      link: "https://www.navalnews.com/naval-news/2026/06/fassmer-and-st-engineering-sign-teaming-agreement-for-unmanned-surface-vessels/",
+      coords: [10.2,51.5],
+      location: "Germany & Singapore"
+    }
+  ]
+});
