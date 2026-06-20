@@ -9910,3 +9910,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-19
+addEvents({
+  "2026-06-19": [
+    {
+      type: "news",
+      title: "Norway's Advanced AUV Begins First Mission to Map Norwegian Sea Subsea Areas",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-06-19",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/06/AUV-can-operate-at-depths-of-up-to-6000-meters-collecting-high-resolution-data.-Photo-Jorgen-Ramse-Vadla.jpeg?image-crop-positioner-ts=1781873545",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **노르웨이 정부, 고급 자율수중로봇(AUV) 도입** - 노르웨이 해양청(NOD)이 2025년 후진 Superior AUV를 도입하여 노르웨이 북해 해역의 해저 지형 측량 임무 시작</p><p>• **최대 6,000m 깊이에서 고해상도 음향 센싱** - 박쥐의 음파탐지 방식과 유사한 소나 기술을 활용하여 해저 구조물과 지형을 정밀하게 매핑</p><p>• **운영기관은 베르겐 대학교 산하 노르웨이 해양 데이터 센터(NORMAR)** - 고급 해양 데이터 수집 및 분석을 국내 체계로 구축, 민간 용역 의존도 감소</p><p>• **심해역 관리 및 에너지 자원 이해도 향상** - Hilde Braut 차장관 강조: "고급 매핑 기술 확보로 노르웨이 심해역 책임 있는 관리 능력 강화"</p><p>• **2026년 6월 초 첫 임무 시작** - 베르겐에서 공식 명명식 개최, 해양청·에너지부·해양연구소·콩스베르그 그룹 대표 참석</p><h3>Key Quotes</h3><p>• "This is important for Norway. Now that we have access to our own advanced mapping resources, we're enhancing both the knowledge base and our ability to understand and manage deep sea areas in a responsible way." <br>(노르웨이에게 중요한 진전. 자체 첨단 매핑 자원 확보로 심해역 이해와 책임 있는 관리 능력 강화)</p><p>• "In many ways, it operates like a bat underwater, orienting itself and gathering information using audio waves."<br>(음파를 이용해 방향을 파악하고 정보를 수집하는 박쥐와 유사한 방식으로 작동)</p><h3>Technical Insights</h3><p>• **자율수중로봇(AUV) 기술의 산업화** - 민간 용역에 의존하던 고해상도 해저 측량을 정부 소유 AUV로 전환, 비용 효율성 및 운영 자율성 향상</p><p>• **음향 센싱 기술의 고도화** - 다중빔 음향 측심기(Multibeam Echo Sounder)와 AUV 결합으로 종전 1800년대 추측량 방식에서 밀리미터 단위 정밀도 달성</p><p>• **심해 자원 관리의 전략적 중요성** - 북해 해역 에너지 자원 탐사 및 환경 모니터링에 AUV 활용으로 해양 거버넌스 고도화, IMO 해양환경보호 규정 이행 강화</p><p>• **국제 협력 및 기술 이전 사례** - 노르웨이의 Kongsberg Group(선도적 AUV 제조업체)과 정부 협력 사례로 국방·해양 기술의 민간 활용 모델 제시</p></div>`,
+      tags: ["Autonomous Underwater Vehicle","Subsea Mapping","Norway","HUGIN AUV","Marine Technology"],
+      link: "https://www.offshore-energy.biz/advanced-underwater-vehicle-goes-on-first-mission-to-chart-norwegian-seas-subseascape/",
+      coords: [8.4689,60.3913],
+      location: "Norwegian Sea, Norway"
+    },
+    {
+      type: "news",
+      title: "Equinor and Aker BP secure North Sea drilling permits with COSL and Saipem rigs",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-06-19",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2025/02/Scarabeo-8-source-Saipem1-1024x682-1.jpg?image-crop-positioner-ts=1740130582",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 노르웨이 석유가스 2개 업체(Equinor, Aker BP)가 북해에서 시추 작업을 위한 허가 획득<br>• Equinor는 COSL Innovator 반잠수식 시추선, Aker BP는 Saipem의 Scarabeo 8 시추선 운영<br>• Equinor의 허가는 2023년 2월부터 2030년까지 유효하며, 2026년 9월 시추 예정<br>• Aker BP의 허가는 2022년 3월부터 2030년까지 유효하며, 2026년 6월 북해에서 시추 진행 중<br>• COSL Innovator는 최대 수심 750m, Scarabeo 8은 최대 수심 10,668m(35,000피트) 운영 가능<br>• 양사 모두 장기 계약 옵션 및 연장 계약으로 2028-2030년까지 운영 계획</p><h3>Key Quotes</h3><br>• "The wellbore 16/4-14 is expected to be spud in September 2026. The Norwegian state-owned giant booked the COSL Innovator rig in August 2023 for a two-year contract, starting in the second quarter of 2025." (노르웨이 국영 석유사 Equinor가 2025년 2분기부터 시작하는 2년 계약으로 COSL Innovator 시추선을 확보했으며, 2026년 9월 시추 개시 예정)</p><p>• "The rig has an accommodation capacity for 140 people and a maximum drilling depth of 35,000 feet (about 10,668 meters). The semi-submersible is staying with the Norwegian player for an additional year, taking the deal into 2028." (Saipem의 Scarabeo 8은 최대 수심 10,668m까지 운영 가능하며, 승무원 140명 수용 가능, 2028년까지 Aker BP와의 계약 연장)</p><h3>Technical Insights</h3><br>• 북해 심해 시추 활동의 증가로 차세대 반잠수식 시추선(sixth-generation dual-derrick)의 수요 증가 추세 확인<br>• 2012년 건조된 고효율 시추선들(COSL Innovator, Scarabeo 8)이 14년 이상 운영되며 장기 경제성 입증<br>• 노르웨이 대륙붕(NCS)에서의 시추 허가 체계가 7년 유효기간 설정으로 장기 사업 계획성 제공<br>• 국제 석유가스 업체들(Inpex Idemitsu, OKEA, Harbour Energy)의 파트너십 구조가 위험 분산 및 자본 효율화 전략 반영</p></div>`,
+      tags: ["North Sea","Drilling Operations","Semi-submersible rigs","Oil & Gas"],
+      link: "https://www.offshore-energy.biz/two-oil-gas-operators-gearing-up-for-north-sea-drilling-ops-with-cosl-and-saipems-rigs/",
+      coords: [2.5,56.5],
+      location: "North Sea, Norwegian Continental Shelf"
+    }
+  ]
+});
