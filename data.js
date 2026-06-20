@@ -9860,3 +9860,53 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2024-03-26
+addEvents({
+  "2024-03-26": [
+    {
+      type: "accident",
+      title: "Dali Chief Engineer Admits Criminal Conduct in Baltimore Bridge Allision",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2024-03-26",
+      image: "https://gcaptain.com/wp-content/uploads/2024/03/Dali_dive_operations_Mar_28-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **사건 개요**: 2024년 3월 26일 컨테이너선 Dali가 볼티모어의 Francis Scott Key Bridge와 충돌하여 건설 노동자 6명이 사망하고 약 50억 달러의 경제 피해 발생</p><p>• **주요 피의자**: Dali의 선임 기관사 Karthikeyan Deenadayalan이 항만·수로 안전법(Ports and Waterways Safety Act) 위반으로 범죄 합의(Deferred Prosecution Agreement) 체결</p><p>• **근본 원인**: Dali 및 자매선(Maersk Saltoro, Cezanne)이 중복성이 없는 불안전한 연료 공급 장치를 사용 중이었으며, 블랙아웃 이후 자동 재시작 불가능한 플러싱 펌프 사용</p><p>• **조직적 은폐**: Synergy Marine의 기술 담당자 Radhakrishnan Karthik Nair가 기관사에게 연료 소비량에 대한 "설득력 있는" 이메일을 전송하도록 지시하여 불안전한 상태 은폐 시도</p><p>• **법적 책임**: 총 3개 법인(Synergy Marine Pte Ltd, Synergy Maritime Pvt Ltd) 및 개인 1명이 안전 위반으로 기소되었으며, 사건은 최근 미국 해사 역사상 최악의 재난 중 하나로 기록</p><h3>Key Quotes</h3><p>• "Chief Engineer Karthikeyan Deenadayalan admitted that he was aware the Dali and two sister ships were operating with an unsafe fuel supply arrangement that lacked redundancy and could impair the vessels' ability to recover from a power loss." <br>(기관사가 Dali와 자매선들이 중복성이 없는 불안전한 연료 공급 장치로 운영 중이었으며 이것이 전력 손실 복구 능력을 손상시킬 수 있음을 인식하고 있었음을 인정)</p><p>• "Deenadayalan admitted that Nair directed him to send a 'convincing' email to the vessel's charterer regarding the Dali's fuel consumption to avoid drawing attention to the use of the flushing pump."<br>(기관사가 플러싱 펌프 사용에 대한 주의를 피하기 위해 연료 소비량에 대한 "설득력 있는" 이메일을 용선자에게 발송하도록 지시받았음을 인정)</p><p>• "Federal prosecutors allege the defendants knowingly operated the Singapore-flagged containership with unsafe modifications that contributed to the blackout sequence that ultimately caused the vessel to strike the Francis Scott Key Bridge on March 26, 2024."<br>(연방 검사진은 피의자들이 블랙아웃 시퀀스에 기여한 불안전한 개조를 인식하고 실행했다고 주장)</p><h3>Technical Insights</h3><p>• **연료 공급 시스템의 설계 결함**: 플러싱 펌프가 블랙아웃 이후 자동으로 재시작되도록 설계되지 않아 전력 복구 실패 → IMO 및 해안경비대 안전 기준 강화 필요성 대두</p><p>• **조직적 안전 관리 붕괴**: Synergy Marine 그룹의 기술 담당자가 의도적으로 불안전한 상태를 은폐하도록 지시한 사례로, 선박 관리사의 독립적 감시와 감독 강화 필요</p><p>• **COLREG 및 항행 안전 규정 준수 강화**: 전력 손실 시나리오에 대한 중복 시스템 의무화 및 정기적인 안전 점검 강화를 통해 유사 사건 방지</p><p>• **산업적 영향**: 대형 컨테이너선의 전력 계통 중복성 설계 기준 강화 및 선박 관리사에 대한 규제 감시 확대로 인한 운영 비용 증가 예상</p></div>`,
+      tags: ["Baltimore Bridge Collapse","Dali Container Ship","Criminal Liability","Power Loss","Safety Violation"],
+      link: "https://gcaptain.com/dali-chief-engineer-admits-criminal-conduct-in-baltimore-bridge-allision/",
+      coords: [-76.6126,39.2904],
+      location: "Baltimore Harbor, Maryland, USA"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-19
+addEvents({
+  "2026-06-19": [
+    {
+      type: "news",
+      title: "Oil Shipments Resume in Hormuz After US-Iran Ceasefire; Concerns Over Iran's Transit Control Remain",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-06-19",
+      image: "https://gcaptain.com/wp-content/uploads/2026/05/2026-05-01T172007Z_982900821_RC210LAX5IPO_RTRMADP_3_IRAN-CRISIS-SAUDI-LIQUOR-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **호르무즈 해협 유조선 통행 재개**: 미국-이란 휴전 협정 서명 후 금요일 적어도 4척의 유조선이 해협을 통과했으며, 6월 18일 하루 25척의 상선이 통행하여 4월 18일 이후 최고치 기록</p><p>• **선박 위치정보 송신 재개**: 수주일간 트랜스폰더를 끈 채 이동하던 선박들이 다시 위치정보 송신을 시작했으며, 일본 소유 유조선과 인도 국기 대형유조선(Desh Vibhor, Desh Vaibhav) 등이 항행 재개</p><p>• **이란의 통행료 징수 가능성**: 휴전 협약 60일 후 이란이 호르무즈 해협 통행료를 징수할 수 있는 조항 포함되어 있으며, 선박들은 이란 혁명수비대 해군과의 사전 조율 의무 발생</p><p>• **지뢰 위험 및 항해 제약**: 미국 해군 주도 합동해양정보센터가 지뢰 위험으로 인해 국제항로(Traffic Separation Scheme) 회피를 권고했으며, 광산 제거 작업이 계속 진행 중</p><p>• **불안정한 합의 전망**: 스위스에서 예정된 미국-이란 평화협상이 연기되고 부통령 방문이 취소되는 등 합의의 지속성에 대한 불확실성 상존</p><p>• **석유 생산 재개 준비**: 쿠웨이트 석유공사와 아부다비 국영석유회사가 강제불가항력 조항을 해제하고 7월 인도분 입찰을 시작하는 등 생산 증설 준비</p><h3>Key Quotes</h3><p>• "Mariners should be advised of the existence of mines and expect naval presence as clearance operations continue" <br>(선원들은 광산 존재와 제거 작업 진행 중 해군 존재를 예상해야 함을 알아야 함)</p><p>• "Risks range from the danger of mines … to that of getting stuck in the Mideast Gulf should tempers flare and Iran block Hormuz once again" <br>(광산 위험에서부터 긴장 고조 시 이란의 호르무즈 재차단으로 인한 격리 위험까지 다양한 위험 존재)</p><p>• "The deal … opens the possibility for Iran to charge fees to manage Hormuz transits after 60 days"<br>(협약은 60일 후 이란이 호르무즈 통행 관리료를 징수할 가능성을 열어둠)</p><h3>Technical Insights</h3><p>• **호르무즈 해협 해상교통 관리의 정치화**: 1968년 UN 해사기구가 채택한 국제항로(Traffic Separation Scheme)가 지뢰 위협으로 인해 회피 권고되면서, 전통적 해상교통 규칙이 지정학적 위협에 의해 영향받는 사례 입증</p><p>• **선박 위치추적 시스템의 보안 딜레마**: 전쟁 상황에서 선박들이 자발적으로 AIS 트랜스폰더를 차단했다가 휴전 후 재개하는 현상은 해상 보안과 투명성 간의 긴장 관계 반영</p><p>• **새로운 통행료 체계의 국제해사법 함의**: 이란의 호르무즈 통행료 징수 가능성은 국제해협의 자유로운 통행권(UNCLOS 관련)과 연안국의 관할권 간 법적 충돌 가능성을 야기</p><p>• **지뢰 제거 및 항로 복구 시간**: 광산 제거 작업 진행 중으로 인한 항로 제약이 지속될 것으로 예상되며, 완전한 항만 정상화까지 상당 기간 필요 - 글로벌 석유 공급망의 구조적 취약성 노출</p></div>`,
+      tags: ["Hormuz Strait","Oil Shipping","Iran-US Ceasefire","Geopolitical Risk","Maritime Traffic"],
+      link: "https://gcaptain.com/oil-shipments-rise-in-hormuz-although-questions-grow-over-irans-transit-terms/",
+      coords: [56.25,26.59],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "Oil Shipments Through Hormuz Resume Following US-Iran Ceasefire Agreement",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-19",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockrayhan-171616.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국과 이란의 휴전 협정 체결로 호르무즈 해협 유류 운송이 재개되었으며, 금요일 4척 이상의 유조선이 해협을 통과했음<br>• 6월 18일 상업용 선박 25척이 호르무즈를 통과하여 4월 18일 이후 최고 기록을 달성했으나, 전쟁 전 일일 120척과 비교하면 여전히 낮은 수준<br>• 쿠웨이트석유공사와 아부다비국립석유회사가 7월 유류 배송 입찰을 실시하면서 생산 증대 계획 추진 중<br>• 미해군 해양정보센터는 광산 위협으로 인해 선박에 주의를 권고하고 교통분리제도 회피를 지시했음<br>• 이란은 선박의 혁명수비대와 조정 필요 등 항행 통제 강화 신호를 보내고 있으며, 60일 후 호르무즈 통항료 부과 가능성 존재</p><h3>Key Quotes</h3><p>• "Mariners should be advised of the existence of mines and expect naval presence as clearance operations continue" (선원들은 광산의 존재를 인식하고 정리 작업이 계속되는 동안 해군의 존재를 예상해야 함)<br>• "Risks range from the danger of mines ... to that of getting stuck in the Mideast Gulf should tempers flare and Iran block Hormuz once again" (위험은 광산 위험부터 감정이 격해져 이란이 호르무즈를 다시 차단할 경우 중동 만에 갇힐 가능성까지 다양함)</p><h3>Technical Insights</h3><p>• 호르무즈 해협 통항 재개로 AIS 송신 신호 복구 - 수주 간 운영자들이 선박 위치 숨김으로 안전 모니터링 체계 마비 상태에서 정상화 진행 중<br>• IMO 1968년 제정 교통분리제도(Traffic Separation Scheme)가 현재 광산 위협으로 기능 불능 - 국제해사기구 규정의 현실적 한계 노출<br>• 이란의 혁명수비대 조정 요구는 자국 영해 관할권 강화 의도로 보이며, 향후 SOLAS/COLREG 준수 상황의 불확실성 증대<br>• 해협 통행료 부과 가능성은 국제 해상 통상의 원칙을 위협하는 사항으로 해운업계의 운영비 상승 및 항로 변경 고려 촉발 가능</p></div>`,
+      tags: ["Strait of Hormuz","Oil Trade","Ceasefire","Maritime Security","Iran-US Relations"],
+      link: "https://www.marinelink.com/news/oil-shipments-hormuz-pick-back-end-540490",
+      coords: [56.5,26.5],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
