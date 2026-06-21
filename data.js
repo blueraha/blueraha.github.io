@@ -9942,3 +9942,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-20
+addEvents({
+  "2026-06-20": [
+    {
+      type: "accident",
+      title: "Iran Declares Strait of Hormuz Closed, Threatens Global Shipping Transit",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-06-20",
+      image: "https://gcaptain.com/wp-content/uploads/2026/06/2026-06-18T123648Z_920911053_RC2BWLA245QQ_RTRMADP_3_IRAN-CRISIS-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이란이 2026년 6월 20일 호르무즈 해협의 해상운송 통행을 폐쇄했다고 선언했으며, 이유는 이스라엘의 휴전 위반과 레바논 남부에서의 계속된 공격이라고 주장<br>• 이란 군부 합동사령부는 이를 첫 번째 대응 조치로 표명했으며, 동시에 미국과의 평화협상을 위해 스위스로 협상팀을 파견<br>• 호르무즈 해협은 세계 석유 운송의 약 20-30%를 담당하는 전략적 해상로로, 일일 수백만 배럴의 석유가 통과하는 지역<br>• 이란은 최근 "페르시아만 해협청(PGSA)"을 통해 모든 선박에 통행 허가증 요구 정책을 발표했으나, 이는 국제법(UNCLOS 제44조)에 위배<br>• 선박들은 이미 오만 해안 남쪽 항로를 통해 위성 신호를 끄고 야간에 운항하며 운송을 계속 중이며, 중앙 항로는 전쟁 중 기뢰가 설치된 것으로 추정</p><h3>Key Quotes</h3><p>• "I am very confident we can maintain the ceasefire. We're going to give this negotiation a chance." - VP JD Vance (휴전을 유지할 수 있다고 확신하며 협상에 기회를 주겠다는 의지 표현)</p><p>• "No vessel is permitted to pass through the Strait of Hormuz without a valid passage permit issued by the PGSA." - PGSA Terms & Conditions (모든 선박이 PGSA 발급 통행허가 없이 호르무즈 해협 통과 불가라는 이란의 일방적 선언)</p><p>• "Ships carrying millions of barrels a day of oil were quietly escaping using the Omani route by transiting at night with their satellite signals turned off." (선박들이 위성 신호를 끄고 야간에 오만 해안로를 통해 몰래 빠져나가고 있다는 현실을 반영)</p><h3>Technical Insights</h3><p>• **호르무즈 해협의 국제법적 지위**: UNCLOS(국제연합 해양법협약) 제44조는 통행국이 내수를 통과하는 선박에 과도한 제한을 둘 수 없도록 규정하고 있으며, 이란의 PGSA 일방적 통행허가 정책은 국제해양법 위반에 해당</p><p>• **해상운송 우회 경로의 부상**: 선박들이 위성 신호를 비활성화하고 야간 운항으로 감지를 피하면서 운영하는 상황은 국제해운 질서의 약화와 함께 AIS(자동선박식별장치) 기반의 안전관리 체계의 신뢰성 저하를 초래</p><p>• **지정학적 위험이 자율운항 기술에 미치는 영향**: 전쟁과 정치적 분쟁이 심화되는 지역에서는 원격 운영 자율선박 기술의 도입이 더욱 제한될 수 있으며, 인간 선원의 안전과 통제권 문제가 더욱 부각</p><p>• **보험 및 해운 산업의 리스크 증가**: 호르무즈 해협을 통과하는 선박들에 대한 전쟁 위험 보험(War Risk Insurance) 프리미엄 상승이 불가피하며, 6개월 이상 갇혀있던 선박들의 운영 재개 불확실성이 글로벌 에너지 시장에 영향</p></div>`,
+      tags: ["Strait of Hormuz","Iran","Shipping Closure","Geopolitical Risk","Middle East"],
+      link: "https://gcaptain.com/iran-says-hormuz-has-been-closed-but-sends-team-for-swiss-talks/",
+      coords: [56.2417,26.5564],
+      location: "Strait of Hormuz, Persian Gulf"
+    }
+  ]
+});
