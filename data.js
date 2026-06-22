@@ -9982,3 +9982,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-22
+addEvents({
+  "2026-06-22": [
+    {
+      type: "news",
+      title: "Qatari LNG Carriers Re-Enter Hormuz as Traffic Through Strait Slumps",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-22",
+      image: "https://images.marinelink.com/images/maritime/w800/moofushi-adobe-171623.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 카타르의 LNG 운반선 4척(Wadi Al Sail, Mekaines, Al Sadd, Mesaimeer)이 이란 폐쇄 선언에도 불구하고 호르무즈 해협에 진입 - 2월 28일 미국-이스라엘 대 이란 전쟁 이후 처음<br>• 호르무즈 해협 일일 통항 선박이 26척에서 5척으로 급격히 감소했으나, 사우디 유전 및 이란산 원유(500만 배럴 이상) 통과 지속<br>• QatarEnergy의 LNG 수출이 전쟁 개시 이후 대폭 제한되었으며, 일본 관련 선박 45척에서 37척으로 감소<br>• 미국-이란 간 60일 휴전 합의에 따라 호르무즈 해협 실질적 봉쇄 해제되었으나, 이란 혁명수비대의 재폐쇄 선언으로 불확실성 지속<br>• 전 세계 석유 무역의 21~33%가 통과하는 호르무즈 해협의 지정학적 위험이 해운업계의 경제성 및 운영 결정에 직접 영향</p><h3>Key Quotes</h3><p>• "Four liquefied natural gas tankers controlled by Qatar headed into the Strait of Hormuz on Monday, despite a fall in ship traffic after Iran announced that it had again closed the waterway over the weekend" (카타르가 통제하는 4척의 LNG 운반선이 이란의 재폐쇄 발표에도 불구하고 월요일 호르무즈 해협으로 진입)</p><p>• "QatarEnergy, whose LNG exports have been heavily curbed since the war began on February 28, did not immediately respond to a request for comment" (2월 28일 전쟁 개시 이후 LNG 수출이 대폭 제한된 카타르에너지는 코멘트 요청에 즉시 응답하지 않음)</p><p>• "Over 25 million barrels of Iranian oil have passed through the virtual blockade line since Monday" (월요일 이후 2,500만 배럴 이상의 이란산 원유가 가상 봉쇄선을 통과)</p><h3>Technical Insights</h3><p>• **지정학적 해운 경로 선택**: 선사들이 호르무즈 해협의 불확실성에 대응하여 AIS 신호 차단(Dark Ship) 운영, 경로 우회, 또는 적극적 통과 전략을 혼용하고 있으며, 이는 IMO 투명성 요구사항과의 갈등 야기</p><p>• **에너지 무역 구조의 회복탄력성**: 사우디, UAE, 쿠웨이트 등 주요 석유 생산국들이 해협 내외 로딩 옵션 제시로 공급망 다각화를 추진 중이며, 이는 특정 지정학적 위기의 중장기 영향 완화 기제로 작용</p><p>• **해운 보험료 및 운영비 상승**: 호르무즈 해협 통과 선박의 불확실성 증대로 전쟁 위험 보험료(War Risk Premium), 우회 연료비, 선원 추가 수당 등이 지속적으로 상승하며, 이는 글로벌 LNG 및 원유 가격에 연쇄 영향</p><p>• **자율선박 기술의 필요성 강화**: 호르무즈 해협과 같은 고위험 수역에서 인적 요소 감소, 실시간 경로 최적화, 위협 자동 감지 시스템 필요성이 부각되며, IMO 자율선박 규제 체계(MASS Code) 조기 도입 논의 가속화</p></div>`,
+      tags: ["LNG Carriers","Strait of Hormuz","Qatar","Iran","Geopolitical Risk"],
+      link: "https://www.marinelink.com/news/qatari-lng-carriers-reenter-hormuz-540500",
+      coords: [56.5,26.5],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-19
+addEvents({
+  "2026-06-19": [
+    {
+      type: "news",
+      title: "BMT and Austal Sign Strategic Engineering Alliance for Shipbuilding Support",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-19",
+      image: "https://images.marinelink.com/images/maritime/w800/credit-171609.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• BMT(영국 해양 엔지니어링 컨설팅사)와 호주 조선사 Austal이 전략적 협력 협약을 체결하여 함정 설계 및 엔지니어링 역량을 확대하고 상용·방위 조선 사업을 지원<br>• Austal은 프로젝트 수요 변동에 따라 BMT의 해양건축학 및 엔지니어링 전문 자원에 접근 가능하여 피크 업무량 관리 및 일정 위험 감소<br>• BMT는 함정 설계, 해양건축, 엔지니어링 서비스를 제공하며 양사는 상용 조선 시장 진출 기회 공동 추진 계획<br>• 호주 및 아시아태평양 지역에서 방위 및 상용 부문의 해양 지속성 유지, 통신, 엔지니어링 지원 프로그램 확대<br>• Austal의 안전하고 효율적인 고품질 조선 납기 유지와 BMT의 설계 전문성 결합으로 상호 보완적 강점 활용</p><h3>Key Quotes</h3><p>• "This agreement means a great deal to us and reflects the strong mutual value we see in working with Austal. Together, we bring highly complementary strengths: Austal's standing as Australia's strategic shipbuilder, and BMT's position as Australia's largest independent maritime design, engineering and assurance capability." (이 협약은 우리에게 매우 중요하며 Austal과 협력하는 상호 가치를 반영합니다. 함께 우리는 상호 보완적인 강점을 제공합니다: Austal의 호주 전략 조선사로서의 위상과 BMT의 호주 최대 독립 해양 설계, 엔지니어링 및 보증 능력)</p><p>• "As our shipbuilding programs continue to grow, access to scalable, specialist design and engineering support will help us respond with agility while maintaining focus on safe, efficient and high-quality shipbuilding delivery." (우리의 조선 프로그램이 계속 성장함에 따라, 확장 가능한 전문 설계 및 엔지니어링 지원에 대한 접근은 안전하고 효율적이며 고품질의 조선 납기라는 초점을 유지하면서 민첩하게 대응하는 데 도움이 될 것입니다)</p><h3>Technical Insights</h3><p>• **공급망 효율성 강화**: 산업 변동성이 높은 조선 부문에서 확장 가능한(scalable) 엔지니어링 자원 접근은 고정 비용을 최소화하고 프로젝트 변동성에 대응하는 최신 산업 트렌드를 반영<br>• **호주 방위 산업 지원**: AUKUS 협정과 지역 방위력 강화 추세 속에서 BMT-Austal 연합은 호주의 전략적 조선 능력 강화에 기여하며 국방 기술 자립성 강화<br>• **국제 경쟁력 제고**: 양사의 설계·건조 역량 통합으로 아시아태평양 지역 상용 및 수출 조선 시장 진출이 용이해지며, 글로벌 조선 시장에서의 호주 입지 강화<br>• **디지털 전환 기반 마련**: 전략적 협력을 통한 설계-건조 통합은 향후 AI 기반 설계 자동화, 디지털 트윈 기술 등 조선 산업의 고도화에 유리한 기반 구축</p></div>`,
+      tags: ["Shipbuilding","Naval Architecture","Strategic Partnership","Engineering Services"],
+      link: "https://www.marinelink.com/news/bmt-austal-sign-engineering-alliance-540485",
+      coords: [115.8605,-31.9505],
+      location: "Australia"
+    }
+  ]
+});
