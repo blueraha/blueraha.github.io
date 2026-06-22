@@ -9962,3 +9962,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-21
+addEvents({
+  "2026-06-21": [
+    {
+      type: "accident",
+      title: "Armed Skiff Attempts to Board Tanker Southeast of Al-Shihr, Yemen",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-06-21",
+      image: "https://gcaptain.com/wp-content/uploads/2019/03/maritime_pirates.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 예멘 알-시르 동남동쪽 약 50해리 해역에서 탱커가 무장한 스키프(소형보트) 5명의 접근 및 탈취 시도 사건 발생<br>• 영국 해양무역작전부(UKMTO)에 의해 보고되었으며, 해당 선박과 승무원 모두 안전한 것으로 확인됨<br>• 탱커는 회피 기동을 수행하고 침로를 변경하여 위험에서 벗어남<br>• 현재 다음 기항지로 항해를 재개했으며, 관련 당국이 사건 조사 중<br>• 예멘 해역의 해적 및 무장 세력의 위협이 지속되는 상황 반영</p><h3>Key Quotes</h3><br>• "A tanker reported being approached by a skiff carrying five armed individuals about 50 nautical miles southeast of Al-Shihr, Yemen." (탱커가 예멘 알-시르 동남동쪽 약 50해리 지점에서 무장한 5명을 탄 스키프에 의해 접근당했다고 보고함)<br>• "The armed people appeared to be attempting to board the vessel, prompting the tanker to conduct evasive maneuvers and alter course away from the skiff." (무장 인원들이 선박에 탑승을 시도하려는 것으로 보여 탱커가 회피 기동 및 침로 변경을 수행함)</p><h3>Technical Insights</h3><br>• 예멘 해역의 해상 안보 위협이 증대되고 있으며, UKMTO 같은 국제 해양 모니터링 기구의 정보 공유 역할의 중요성이 강조됨<br>• 탱커 등 화물선의 해적 및 무장 세력 대응 능력(회피 기동, 침로 변경, 보안 체계)이 생명선이 되는 고위험 해역 운항의 현실<br>• 인도양 및 홍해 지역의 지정학적 불안정이 국제 해상 운송 안전에 미치는 직접적 영향과 해운사의 경로 재검토 필요성</p></div>`,
+      tags: ["piracy attempt","Yemen","tanker","armed boarding","Indian Ocean"],
+      link: "https://gcaptain.com/ukmto-receives-report-of-tanker-incident-southeast-of-al-shihr-yemen/",
+      coords: [50.5,14.8],
+      location: "Southeast of Al-Shihr, Yemen"
+    }
+  ]
+});
