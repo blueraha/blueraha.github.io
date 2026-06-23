@@ -10064,3 +10064,22 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-22
+addEvents({
+  "2026-06-22": [
+    {
+      type: "news",
+      title: "U.S. Marines Receive Unmanned Ship-Killer Missiles in Okinawa",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-06-22",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미 해병대 제12 해안작전연대(12th Marine Littoral Regiment)가 2026년 6월 해군-해병 원정 함정 요격 시스템(Navy-Marine Expeditionary Ship Interdiction System, NMESIS)을 정식 배치 완료</p><p>• 육상 기반 무인 함정 격침 미사일 및 트럭 탑재 무인기 격추 시스템(Marine Air Defense Integrated System, MADIS) 동시 운영 능력 확보</p><p>• 오키나와 주둔 미 해병대의 전력 투사 및 방위 능력 대폭 강화, 인도-태평양 지역 해양 통제 전략 전환</p><p>• 무인 및 자동화 무기체계의 해병대 통합 운영으로 현대적 연안 전투(littoral warfare) 패러다임 실현</p><p>• 함정 요격 시스템의 차량 탑재 이동성으로 분산 배치 및 생존성 향상, 대함 위협 억제력 증대</p><h3>Key Quotes</h3><p>• "The 12th Marine Littoral Regiment formally received both the Navy-Marine Expeditionary Ship Interdiction System and the Marine Air Defense Integrated System in June 2026" <br>(제12 해안작전연대가 2026년 6월 함정 요격 시스템과 공중방위 통합 시스템을 정식으로 배치받았음을 의미)</p><h3>Technical Insights</h3><p>• 무인 함정 격침 미사일의 육상 배치는 기존 해군 함정 중심의 해상 통제 전략에서 분산형 연안 방위 개념으로의 전환을 의미하며, 자율 네트워킹 및 원격 조종 기술 필수</p><p>• 트럭 탑재형 무인기 격추 시스템(MADIS)의 운용은 해상 자율무인선박(MASS) 관련 기술과 유사한 자동 추적 및 목표 식별 알고리즘 활용, 민간 해양 자율화와 군사 기술의 수렴 추세 반영</p><p>• 해병대 통합 무인 무기체계 운영은 COLREG 및 국제해사법 해석의 복잡성 증가를 야기하며, 해상 자율시스템의 국방 응용과 민간 자율선박 규제 간 상호작용 모니터링 필요</p></div>`,
+      tags: ["Naval Defense","Unmanned Systems","U.S. Military","Okinawa","Anti-Ship Missiles"],
+      link: "https://defence-blog.com/u-s-marines-get-unmanned-ship-killer-missiles-in-okinawa/",
+      coords: [127.6789,26.2128],
+      location: "Okinawa, Japan"
+    }
+  ]
+});
