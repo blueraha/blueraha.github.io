@@ -10020,3 +10020,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-22
+addEvents({
+  "2026-06-22": [
+    {
+      type: "accident",
+      title: "Thirteen Dead, Dozens Injured in Explosion at Qatar's Ras Laffan LNG Complex During Restart Operations",
+      source: "gCaptain / Reuters",
+      sourceMeta: "gcaptain.com · 2026-06-22",
+      image: "https://gcaptain.com/wp-content/uploads/2026/03/2026-03-18T190759Z_469246041_RC2EWJAW7GUK_RTRMADP_3_IRAN-CRISIS-QATAR-ATTACK.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 카타르 라스 라판 LNG 복합단지 바르잔 가스공급 시설에서 폭발 사고 발생 - 13명 사망, 66명 부상(피해자 대부분 인도·파키스탄 출신 근로자)</p><p>• 이란의 3월 미사일 공격으로 중단된 LNG 생산 운영의 재개 과정에서 발생한 '기술적 사고'로 파악 - 2025년 12월부터 의도적으로 전면 중단하고 2일 전 재시작</p><p>• 라스 라판 LNG 시설은 연간 7,700만 톤 생산 규모로 글로벌 LNG 공급의 약 20% 담당 - 이란 공격으로 생산능력의 17% 손실</p><p>• 호르무즈 해협 폐쇄로 카타르는 LNG 대체 운송로 부재 상황 - 중동 주요 에너지 생산국의 전략적 취약성 노출</p><p>• LNG 재시작 프로세스의 복잡성 강조 - 영하 162°C 냉각 과정의 열 충격 방지를 위한 단계적 재개 필수</p><h3>Key Quotes</h3><p>• "This was an accident and not a sabotage or hostile in nature…Plant production was intentionally completely stopped since December 2025 due to urgent maintenance requirements, it was first restarted again only two days ago" (기술적 사고이며 외부 공격은 아니며, 시설은 2025년 12월부터 의도적으로 전면 중단 중이었고 재시작 후 이틀 만에 발생)</p><p>• "Restarting LNG operations is a particularly complex process due to a deliberately slow cooldown to avoid thermal shock. LNG trains cannot restart simultaneously and must be brought back in sequence." (LNG 운영 재개는 열 충격 방지를 위한 단계적 냉각 과정으로 인해 매우 복잡하며, 동시 재시작 불가능)</p><h3>Technical Insights</h3><p>• **LNG 냉각 프로세스의 임계성** - 영하 162°C 냉각 과정이 LNG 재시작의 가장 위험한 단계이며, 열 충격(thermal shock) 방지를 위한 철저한 절차 준수 필수</p><p>• **복합시설 운영 리스크** - 바르잔 가스공급 시설의 폭발이 전체 라스 라판 단지 운영에 미치는 영향 및 장기간 가동 중단 후 재개 시 안전 관리 체계 강화 필요</p><p>• **지정학적 에너지 공급망 취약성** - 호르무즈 해협 폐쇄로 인한 카타르의 전략적 취약점 및 글로벌 LNG 시장 안정성 저하, 에너지 공급 다각화의 중요성 재확인</p></div>`,
+      tags: ["LNG facility explosion","Industrial accident","Qatar energy infrastructure","Casualty incident"],
+      link: "https://gcaptain.com/thirteen-dead-dozens-injured-after-blast-during-restart-at-giant-qatar-lng-site/",
+      coords: [51.5731,25.8617],
+      location: "Ras Laffan Industrial City, Qatar"
+    },
+    {
+      type: "news",
+      title: "Autonomous Vehicles Solve and Create Problems for Ports",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-22",
+      image: "https://images.marinelink.com/images/maritime/w800/corsair-saronics-171648.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **자율운항 무기화 위협**: 우크라이나의 자율 수중드론이 러시아 잠수함을 공격한 사건은 항만이 직면한 정교한 위협을 시사하며, 해킹된 카메라와 AI 기반 표적 추적 기술이 복합적으로 활용되고 있음</p><p>• **주요 기업 협력 확대**: Ocean Power Technologies(OPT)와 Mythos AI의 파트너십을 통해 WAM-V 자율수면선(ASV)에 AI 자율항법 소프트웨어가 통합되고 있으며, 실시간 에지 프로세싱과 다중센서 융합 기술이 표준화되는 중</p><p>• **실시간 감지-대응 시스템 필수**: Sofar Ocean 등 업체들이 강조하듯이 위협 감지 이후 반응 속도가 0.5초 이내로 단축되어야 하며, 센서 레벨에서의 실시간 데이터 처리가 핵심</p><p>• **항만 감시 패러다임 전환**: Saronic의 Corsair 24피트 ASV 등 24시간 무인 순찰 솔루션으로 기존의 인력 집약적 해상 경비에서 자율·분산형 감시 체계로 전환 추진</p><p>• **광학·열화상·음향 센서 통합**: Open Ocean Robotics의 Enhanced Horizon(광학/열화상)과 Underwater Listener(수중음향 모니터링) 기술이 차별화된 상황 인식 제공</p><p>• **항만 보안과 자율선박 운영의 양면성**: 항만 보호를 위한 자율 무기 시스템의 도입이 동시에 상용 자율선박의 통항 환경을 더욱 복잡하게 만드는 이중 문제 야기</p><h3>Key Quotes</h3><p>• "Detection only matters if it's fast enough to act on. Real-time processing at the sensor closes the gap between identifying a threat and responding to it." — Shane Swiderek, Sofar Ocean (위협 감지 후 대응까지의 시간 갭을 줄이기 위해 센서 레벨의 실시간 처리가 필수)</p><p>• "To counter these threats, we're seeing a shift in priorities toward solutions that are scalable, autonomous and data-driven, built on distributed, attritable systems capable of operating 24/7 with minimal human oversight." — Rob Lehman, Saronic (항만 보안의 미래는 24시간 자율운영, 최소 인력 감시 기반의 분산형 시스템으로 진화)</p><h3>Technical Insights</h3><p>• **AI 자율성 통합의 산업표준화**: OPT-Mythos AI 파트너십 사례에서 보듯이 자율수면선(ASV)과 자율수중선(AUV)에 AI 기반 의사결정 시스템이 표준 탑재되는 추세이며, 이는 IMO의 MASS(Maritime Autonomous Surface Ships) 규제 체계와 충돌 가능성 존재</p><p>• **다중센서 융합과 상황인식(SA) 향상**: 광학, 열화상, 음향 센서의 실시간 통합 분석으로 항만 내 전면적 감시 커버리지를 확보하려는 움직임은 자율선박의 네비게이션 안전성을 강화하는 한편, 프라이버시 침해 논쟁을 야기</p><p>• **항만 자율화와 해상교통 관리의 복잡성 증대**: ASV 기반 항만 보안과 자율선박 운영이 동시에 진행될 경우, COLREG 규정(특히 충돌회피 규칙)과의 상충 발생 우려, 항만 통항 시 자율 무기체계와의 협력·충돌 회피 프로토콜 필요</p><p>• **엣지 컴퓨팅과 저지연 처리의 중요성**: 센서에서의 실시간 에지 프로세싱은 클라우드 의존도를 낮추고 공격 취약점을 감소시키는 이점이 있으나, 자율선박과의 상황 정보 공유 표준화 부재로 인한 운영 비효율 초래 가능</p></div>`,
+      tags: ["autonomous vehicles","port security","AI autonomy","maritime threats","ASV/AUV"],
+      link: "https://www.marinelink.com/news/autonomous-vehicles-solve-create-problems-540531",
+      coords: [0,0],
+      location: "Global (Port Security Focus)"
+    },
+    {
+      type: "news",
+      title: "MARTAC and Intrepid Powerboats Partner to Scale Autonomous Surface Vessel Production to 200-300 Units Annually",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-06-22",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/06/1781788321064-1.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• MARTAC(해양전술시스템)와 플로리다 기반 프리미엄 보트빌더 Intrepid Powerboats가 자율 수상함정(USV) 생산 확대 파트너십 체결<br>• Devil Ray USV 플랫폼의 연간 생산 능력을 200~300척으로 확대하여 미국 정부, 동맹국, 상업 고객의 수요 대응<br>• Intrepid Powerboats의 기존 생산 능력, 숙련 해양 인력, 고성능 선체 제조 노하우를 활용한 협력 구조<br>• 신규 생산시설 건설의 막대한 자본투자와 장기간을 피하고 플로리다 해양산업 기반 활용으로 비용 절감 및 납기 단축<br>• MANTAS와 Devil Ray 계열이 다양한 전장에서 배치되고 있으며, 전 세계적 운영·조달 수요 계속 확대 중</p><h3>Key Quotes</h3><p>• "This partnership shows how quickly we can scale when we tap into the talent and capacity that already exists in Florida's marine manufacturing sector" (플로리다 해양 제조업 기존 인력과 생산 능력을 활용하면 얼마나 빠르게 확장할 수 있는지 보여주는 파트너십)</p><p>• "Partnering with MARTAC lets us put that craftsmanship and capacity to work supporting national security and the broader unmanned maritime mission" (MARTAC와의 협력을 통해 4십년의 기술력과 생산 능력을 국방과 무인해양 미션 지원에 투입할 수 있다)</p><h3>Technical Insights</h3><p>• **생산 확대 전략의 혁신**: 신규 생산시설 건설이 아닌 기존 우수 해양 제조업체와의 제조 파트너십 모델로 자율수상함정 생산을 신속하게 확대할 수 있는 산업 생태계 구축 사례</p><p>• **국방 자율화 가속화**: 미국 국방부의 무인해양시스템(UMS) 수요 급증 추세 반영으로, 연간 200~300척 규모의 대량 생산 체계 구축이 차세대 해군 전력화의 핵심 기반시설로 작용</p><p>• **공급망 회복력 강화**: 플로리다 집중형 해양산업 기반을 활용한 국내 공급망 보강으로 지정학적 불확실성에 대응하는 국가 방위산업 자립도 제고 및 동맹국 수출 경쟁력 확보</p><p>• **상용-국방 이중용도 기술**: Devil Ray USV의 다양한 전장 배치와 상업 고객 수요 병행으로 민군 겸용 기술 개발 가속화 및 해양 자율화 산업 생태계 성숙도 향상</p></div>`,
+      tags: ["autonomous surface vessel","USV","manufacturing partnership","Devil Ray","MARTAC"],
+      link: "https://www.navalnews.com/naval-news/2026/06/martac-and-intrepid-powerboats-announce-manufacturing-partnership-to-scale-autonomous-surface-vessel-production/",
+      coords: [-81.5158,27.9947],
+      location: "Florida, USA"
+    }
+  ]
+});
