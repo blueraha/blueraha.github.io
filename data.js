@@ -10126,3 +10126,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-24
+addEvents({
+  "2026-06-24": [
+    {
+      type: "news",
+      title: "Saipem divests Saudi Arabian shallow-water drilling operations to ADES, selling five jack-up rigs",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-06-24",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2022/06/Gulf-Driller-VII-aka-Perro-Negro-11.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **거래 규모**: 이탈리아 석유 서비스 기업 Saipem이 사우디아라비아의 천해(shallow-water) 시추 사업부를 ADES Holding Company에 2억 8,500만 달러에 매각하는 계약 체결</p><p>• **자산 이전**: Perro Negro 7, 8, 10(자체 소유) 및 Perro Negro 11, 13(임차) 등 총 5척의 잭업(jack-up) 시추선이 ADES로 이관되며, 선대 평균 선령은 10.4년</p><p>• **거래 완료 시기**: 2026년 3분기(Q3) 중 규제 승인 등 통상적인 선행 조건 충족 시 거래 완료 예정</p><p>• **Saipem의 전략 전환**: 천해 시추 사업에서 철수하고 심해(deepwater) 사업으로의 사업 방향 전환 가속화</p><p>• **ADES의 확장**: 사우디아라비아 내 입지 강화와 함께 멕시코 시장 진출을 통해 국제 사업 포트폴리오 다각화</p><p>• **운영 연속성**: Saipem이 멕시코 내 기존 계약 이행을 위해 Perro Negro 10을 임차(bareboat charter)하는 형태로 운영 지속</p><p>---</p><h3>Key Quotes</h3><p>• "The addition of five, high-specification premium jack-ups, with an average fleet age of 10.4 years, further enhances our premium asset base and supports earnings visibility, strong cash flow generation and long-term value creation." <br>(평균 선령 10.4년인 5척의 고사양 프리미엄 잭업 인수는 자산 기반 강화 및 장기 가치 창출을 지원한다는 의미)</p><p>• "This transaction marks ADES' entry into Mexico, adding a new market to our international footprint and creating a platform for future growth opportunities in the region."<br>(본 거래는 ADES의 멕시코 시장 진출을 의미하며, 지역 내 향후 성장 기회의 발판을 마련한다는 점을 강조)</p><p>---</p><h3>Technical Insights</h3><p>• **잭업 시추선의 전략적 가치**: 평균 선령 10.4년의 고사양 잭업 선대는 천해 시추에 최적화된 자산으로, 사우디아라비아 및 멕시코 만(Gulf of Mexico) 지역의 천해 자원 개발에 즉시 투입 가능한 인프라 제공</p><p>• **지역 해운 시장의 회복**: GCC 지역의 긴장 완화와 기존 중단된 시추선의 운영 재개로 인한 시장 가시성 개선이 본 거래의 배경이 되었으며, 해양 석유·가스 산업의 순환적 회복을 반영</p><p>• **선박 임차(Bareboat Charter) 활용**: Saipem이 멕시코에서의 기존 계약 의무를 충족하기 위해 Perro Negro 10을 임차 운영하는 구조는 자산 소유와 운영 유연성을 분리하는 산업 표준 관행으로, 자본 효율성 극대화 전략을 시사</p><p>• **공급망 최적화 기대효과**: ADES의 통합 선대 확대를 통한 물류, 정비, 구매 조달의 규모의 경제 달성은 운영 비용 절감 및 수익성 개선으로 귀결될 전망</p></div>`,
+      tags: ["Jack-up rigs","Saipem","ADES","Shallow-water drilling","Saudi Arabia","Fleet acquisition"],
+      link: "https://www.offshore-energy.biz/saipem-exits-saudi-arabian-shallow-water-drilling-with-sale-of-jack-up-rig-fleet-to-ades/",
+      coords: [46.6753,24.7136],
+      location: "Saudi Arabia"
+    }
+  ]
+});
