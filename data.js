@@ -10083,3 +10083,46 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-23
+addEvents({
+  "2026-06-23": [
+    {
+      type: "news",
+      title: "Shield AI's V-BAT VTOL UAV Selected for Polish Navy Maritime Operations",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-06-23",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/06/Shield_AI_V-BAT-1024x687.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Shield AI의 V-BAT 수직이착륙(VTOL) 무인항공기가 폴란드 해군 작전을 지원하기 위해 폴란드 군수청과 계약 체결됨<br>• 폴란드 해군 함정 탑재용으로 배포되어 해상 상황 인식(Maritime Domain Awareness) 및 정보/감시/정찰(ISR) 기능 제공<br>• NATO Class I 표준의 V-BAT는 12시간 이상의 내구성, 고연료 엔진, GPS/통신 두절 환경에서의 운용 능력 보유<br>• 우크라이나에서 실전 증명된 기술로, 전자전 환경에서의 안정성과 함정 갑판에서의 안전한 자동 발착함 가능<br>• 그리스, 네덜란드, 미 해군, 일본 해상자위대 등 NATO 및 동맹국 운용자들이 이미 V-BAT 도입<br>• 발틱해의 에너지 및 통신 인프라 위협 증가 상황에서 악천후 및 고해상 상태에서의 신뢰성 있는 센서 플랫폼으로 기대</p><h3>Key Quotes</h3><p>• "V-BAT has proven its capabilities in Ukraine and beyond, particularly in environments where communications and GPS links are disrupted or denied." (V-BAT는 우크라이나를 포함한 여러 지역에서 특히 통신 및 GPS 링크가 두절되거나 거부되는 환경에서 그 능력을 증명함)</p><p>• "V-BAT delivers ISR and targeting capability at significantly lower cost and logistical burden than larger NATO Class II and III systems." (V-BAT는 더 큰 NATO Class II/III 시스템보다 현저히 낮은 비용과 후방지원 부담으로 ISR 및 목표 지시 능력을 제공함)</p><h3>Technical Insights</h3><p>• **무인 항공 시스템의 함정 운용 혁신**: V-BAT의 덕티드 팬 설계와 단일 엔진 구조는 함정 갑판에서의 안전한 자동 발착함을 가능하게 하여, 전통적 해군 항공 운용의 인프라 부담을 획기적으로 경감<br>• **거부/간섭 환경(Contested Electronic Warfare) 대응**: GPS 및 통신 링크 두절 상황에서의 자율 운용 능력은 현대 해양 안보 위협(에너지 인프라 공격, 해저 케이블 손상)에 대한 신뢰성 있는 감시 수단 제공<br>• **NATO 해양 방어 태세 강화**: Class I 무인기의 배치로 소규모 함정 및 연안국들의 해상 상황 인식 능력이 향상되어, 발틱해 지역 NATO 방어 체계의 다층 센서 네트워크 구축에 기여<br>• **비용 효율성과 로지스틱 우위**: 기존 Class II/III 무인항공기 대비 현저히 낮은 운용비용과 후방지원 요구사항은 재정 제약이 있는 중소 해군들의 현대화 추진을 가능하게 하는 산업적 파급효과 창출</p></div>`,
+      tags: ["Autonomous Systems","UAV/Drone Technology","Polish Navy","NATO","Maritime Domain Awareness"],
+      link: "https://www.navalnews.com/naval-news/2026/06/shield-ais-v-bat-to-support-polish-naval-operations/",
+      coords: [21.0122,52.2297],
+      location: "Poland / Baltic Sea"
+    },
+    {
+      type: "news",
+      title: "U.S. Transfers Ocean Aero Tritons to Philippine Navy USV Unit",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-06-23",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/06/06-23-2026-PR-United-States-Provides-Triton-Unmanned-Systems-to-Strengthen-Philippines-Maritime-Domain-Awareness-2.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국이 Ocean Aero사의 Triton 자율수상·수중 드론 4대를 필리핀 해군 무인함정 전술부대(USV Unit One)에 이양했으며, 이는 미국이 지원하는 보안협력 이니셔티브의 일환임</p><p>• 태양광과 풍력으로 구동되는 Triton은 최대 30일간 연속 운용 가능하며, 해상 및 수중 활동 지속적 감시에 최적화된 플랫폼임</p><p>• 필리핀 해군은 남중국해에서의 중국과의 해양 긴장 속에서 해양 감시 및 추적 능력 강화를 위해 이 시스템을 도입하였으며, 광범위한 도서 지역과 배타적경제수역(EEZ) 모니터링에 활용될 예정</p><p>• Triton은 측면주사 소나, 수동 음향 센서, 항법 시스템 등 다양한 페이로드 탑재 가능하며, 전방 전진기지와 원격 도서에서 신속 배치 가능한 이점 보유</p><p>• 필리핀 해군은 이전에 Maritime Tactical Systems사의 Mantis T-12 및 Devil Ray T-38 무인함정도 도입한 바 있으며, 이들과 함께 남중국해 운용에 투입될 예정</p><h3>Key Quotes</h3><p>• "The Ocean Aero Triton is particularly well aligned with AFP needs because it addresses persistent maritime awareness at ultra-low cost and low logistics burden—a critical gap for an archipelagic nation" (Triton은 지속적 해양 감시를 극히 저렴하고 낮은 후방지원 부담으로 해결하기 때문에 도서국 필리핀의 중요한 능력 공백을 메우는 데 최적화되어 있다)</p><p>• "Unlike traditional unmanned underwater vehicles that are constrained by battery endurance and require frequent recovery, Triton can persist in an operational area for extended periods, continuously collecting and transmitting data while maintaining a minimal logistics footprint." (배터리 제약과 빈번한 회수가 필요한 기존 무인잠수정과 달리, Triton은 운용 지역에서 장시간 지속하며 최소 후방지원으로 데이터를 지속적 수집·전송한다)</p><h3>Technical Insights</h3><p>• **자율수중/수상 플랫폼의 지속성 운용**: Triton의 태양광·풍력 하이브리드 추진 시스템은 배터리 의존형 전통 UUV의 제약을 극복하여 30일 이상의 장기 운용을 가능하게 함으로써, 광대한 배타적경제수역 감시에서 운영비용과 후방지원 부담을 대폭 감소</p><p>• **해양 감시 개념의 혁신**: 다중 센서 페이로드(측면주사 소나, 수동 음향 센서) 탑재로 선박/잠수함 탐지, 해저 구조 감시, 해양 인프라 보호, 해저 warfare 지원 등 다목적 운용이 가능한 게임 체인징 플랫폼</p><p>• **분쟁 해역의 비효과적 비용 전략**: "그레이존" 활동 감시와 항행의 자유 보호 임무에서 저비용 자율시스템의 배치는 전통적 고비용 유인 감시자산 대비 높은 지속성과 저 리스크를 제공하여 남중국해 해양 안보 균형에 새로운 변수 제시</p><p>• **도서국 해양 안보의 비약적 강화**: 전방 기지 및 원격 도서에서의 신속 배치 능력은 필리핀이 광범위한 도서 지역과 스프래틀리 군도, 바탠 도서군 등 분쟁 지역에서의 실질적 감시 능력을 대폭 향상시키고, IMO 해역 관리 체계 강화에 기여</p></div>`,
+      tags: ["Autonomous Vehicles","USV/UUV","Philippine Navy","South China Sea","Maritime Security","U.S. Military Aid"],
+      link: "https://www.navalnews.com/naval-news/2026/06/u-s-transfers-ocean-aero-tritons-to-philippine-navy-usv-unit/",
+      coords: [120.8854,14.3995],
+      location: "Naval Operating Base Subic Bay, Philippines"
+    },
+    {
+      type: "news",
+      title: "U.S. Transfers Autonomous Vessels to Philippines, Plans Armed Drone Delivery by 2027",
+      source: "USNI News",
+      sourceMeta: "usni.org · 2026-06-23",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국이 필리핀 해군에 Ocean Aero Triton 자율 수상/수중 무인체 4대를 인도했으며, 이는 비대칭 전력 지원 프로그램의 일환임<br>• 필리핀 해군(Philippine Navy)이 수혜 기관이며, 미국 국방부의 보안 지원 이니셔티브로 추진 중<br>• 2027년까지 무장 드론(lethal capabilities) 전달 계획을 포함한 장기 프로그램으로, 남중국해 감시 및 중국 억제 목적<br>• 자율 수상 및 수중 무인체의 운용을 통해 해양 감시 능력 강화 및 비대칭 전력 확보 가능<br>• 자동화/자율 항해 기술의 군사적 활용 사례로, IMO 규정과 해양 안전 기준 적용의 국방 분야 확대를 시사</p><h3>Key Quotes</h3><p>• "Four Ocean Aero Triton autonomous underwater and surface vehicles were delivered on Monday to the Philippine Navy as part of Washington's drone-focused asymmetric capabilities program." (미국이 필리핀 해군에 자율 수상/수중 무인체를 비대칭 전력 프로그램 일환으로 인도함)</p><p>• "The program, which is a security assistance initiative, has outlined U.S. plans to arm Manila with 'lethal capabilities' – such as armed drones – by 2027" (보안 지원 이니셔티브로서, 미국은 2027년까지 필리핀에 무장 드론 같은 '치명적 능력'을 제공할 계획을 수립함)</p><h3>Technical Insights</h3><p>• Ocean Aero Triton 플랫폼은 수상 및 수중 양용 자율 무인체로서, 장시간 해양 감시 미션 수행에 최적화되어 있으며 자율 항해 기술의 실전 운용 사례를 제공<br>• 자율 무인체의 군사적 배치는 COLREG 및 IMO 해양 안전 규정과의 충돌 가능성을 제기하며, 국제 해상 법규의 무인체 관련 조항 정비 필요<br>• 비대칭 전력으로서의 자율 드론 운용은 남중국해의 해양 분쟁 심화 우려를 반영하며, 향후 자율 무기체계의 국제적 규제 논의 필요성을 부각</p></div>`,
+      tags: ["autonomous vessels","unmanned systems","Philippines Navy","geopolitics","South China Sea"],
+      link: "https://news.usni.org/2026/06/23/u-s-asymmetric-aid-program-transfers-unmanned-vessels-to-the-philippines-plans-attack-drone-transfer-by-2027",
+      coords: [120.9842,14.5995],
+      location: "Manila, Philippines"
+    }
+  ]
+});
