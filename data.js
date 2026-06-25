@@ -10146,3 +10146,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-24
+addEvents({
+  "2026-06-24": [
+    {
+      type: "accident",
+      title: "Containership Fire Breaks Out Every 17 Days as Misdeclared Cargo Remains Major Threat",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-06-24",
+      image: "https://gcaptain.com/wp-content/uploads/2021/10/2021-10-25T215410Z_1496490882_RC25HQ9WC65L_RTRMADP_3_CANADA-SHIP-2.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2025년 전 세계적으로 컨테이너선 화재가 17일마다 1건씩 발생하고 있으며, 알리안츠 보험사 안전해운 리뷰에 따르면 연간 200건 이상의 선박 화재가 기록됨</p><p>• 선적서류 허위기재 및 미신고 위험물(특히 리튬이온 배터리, 화학물질)이 화재의 주요 원인으로, 화물 관련 사건의 약 25%를 차지</p><p>• 세계해운위원회(WSC) 회장 조 크라멕은 "이는 단순한 서류 문제가 아닌 생명과 죽음의 안전 문제"라고 강조</p><p>• 리튬이온 배터리 전 지구적 해운량이 5년 전 대비 6배 증가했고, 2030년까지 다시 2배로 증가할 것으로 예상</p><p>• 대형 선박에서의 화재는 승무원이 압도당할 수 있으며, 일반평균분담(General Average) 청구로 화물가액의 최대 50%까지 비용 분담 발생</p><p>• 자동차 운반선도 37일마다 1건의 화재가 발생하며 동일한 위험에 직면한 상태</p><h3>Key Quotes</h3><p>• "Misdeclared and undeclared dangerous goods are a known and preventable threat to seafarers, ships, cargo and the marine environment. This is not a paperwork issue. It is a life-and-death safety issue." <br>(허위기재 및 미신고 위험물은 해원, 선박, 화물, 해양환경에 대한 알려진 예방 가능한 위협이며, 이는 서류 문제가 아니라 생명과 죽음의 안전 문제)</p><p>• "The vast majority of shippers do the right thing. But a small group of irresponsible actors are cutting corners, hiding risk and creating danger for everyone in the supply chain."<br>(대다수의 선적인은 올바르게 행동하지만, 책임감 없는 소수 그룹이 규칙을 무시하고 위험을 숨기며 공급망의 모든 사람에게 위험을 초래)</p><h3>Technical Insights</h3><p>• 리튬이온 배터리의 급증으로 인한 선박 화재 위험 증가는 에너지 전환과 전기자동차 채택의 필연적 부작용이며, 손상되거나 부적절히 포장된 배터리의 자기 점화 위험성 관리가 핵심 과제</p><p>• 허위기재 화물의 부적절한 적재로 인해 SOLAS 규정상 안정성 및 소화 작업 효율성이 저해되므로, IMO 차원의 화물신고 검증 강화 및 디지털 추적 시스템 도입 필요</p><p>• 대형 컨테이너선의 초대형화로 인해 화재 발생 시 승무원의 대응 능력 한계를 초래하고 있으므로, 자동 소화 시스템 고도화 및 원격 모니터링 기술의 도입이 중요</p><p>• WSC의 인공지능 기반 Cargo Safety Program은 선적서류 검증 및 위험 화물 탐지 자동화를 통해 허위기재를 사전 차단할 수 있는 혁신적 방안으로 평가됨</p></div>`,
+      tags: ["Container Ship Fire","Misdeclared Cargo","Lithium-ion Batteries","Maritime Safety"],
+      link: "https://gcaptain.com/containership-fire-breaks-out-every-17-days-as-misdeclared-cargo-remains-major-threat/",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-21
+addEvents({
+  "2026-06-21": [
+    {
+      type: "accident",
+      title: "Explosion and fire at QatarEnergy's Barzan gas facility: 13 dead, 66 injured",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-06-24",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2025/11/Ras-Laffan-petrochemicals-project-in-Qatar-aerial-view-Source-CPChem.jpg?image-crop-positioner-ts=1762177598",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사고 개요**: 카타르 국영 석유가스기업 QatarEnergy의 라스 라판 산업도시 내 바르잔 가스공급시설에서 2026년 6월 21일 저녁 폭발 및 화재 발생</p><p>• **인명피해**: 사망자 13명(인도 12명, 파키스탄 1명), 부상자 66명(생명 위험 상태 없음) - 카타르, 인도, 파키스탄, 방글라데시, 케냐, 가나, 탄자니아, 나이지리아, 네팔 국적 근로자 포함</p><p>• **사고 원인**: QatarEnergy는 '운영상 사고'로 규명하고 무단침입(sabotage)이나 적대행위 부정 - 2025년 12월부터 유지보수를 위해 완전 중단되었던 시설이 사고 2일전 재가동</p><p>• **대응 조치**: 비상 대응팀 즉시 출동으로 화재 진압 성공, 손상 평가 진행 중 - LNG 시설, 라스 라판 항만, 수출능력은 정상 운영</p><p>• **조사 및 후속**: QatarEnergy와 카타르 시민방위국이 사고원인 규명을 위한 전면 조사 착수 - Saad Sherida Al-Kaabi 에너지부 장관 겸 CEO가 인도 대사관 방문하여 추도</p><h3>Key Quotes</h3><p>• "The loss of innocent lives is a tragedy that touches all of us. Our thoughts and prayers are with the families and loved ones of those who lost their lives during this tragic incident."<br>(무고한 생명의 상실은 우리 모두에게 닿아있는 비극이며, 피해자 가족들을 위해 기도한다는 의사 표현)</p><p>• "QatarEnergy would like to emphasize that this was an operational accident and not sabotage or hostile in nature"<br>(QatarEnergy는 본 사건이 운영상 사고이며 무단침입이나 적대행위가 아님을 강조)</p><h3>Technical Insights</h3><p>• **사후 안전관리**: 유지보수 완료 후 재가동 시 충분한 검증 절차 부족으로 보임 - 4개월 이상 중단된 시설의 재시동 프로토콜 강화 필요성 제기</p><p>• **해양에너지 산업 영향**: 걸프 지역 LNG 생산 허브인 라스 라판의 안전성 우려로 국제 에너지 시장에 미치는 신뢰도 영향 가능</p><p>• **다국적 근로자 안전**: 9개국에서 온 근로자들이 종사하는 에너지 시설에서 문화 및 언어 다양성을 고려한 안전교육 및 비상대응 체계 개선 필요</p><p>• **규제 강화 전망**: IMO/국제해사기구의 해상 에너지시설 안전 기준 및 육상 LNG 시설 운영 국제 표준 재점검 촉발 가능성</p></div>`,
+      tags: ["LNG accident","Gas facility fire","Industrial explosion","QatarEnergy","Ras Laffan"],
+      link: "https://www.offshore-energy.biz/investigation-into-tragic-incident-ongoing-13-dead-66-injured-in-explosion-and-fire-at-qatarenergys-gas-asset/",
+      coords: [51.5136,25.7782],
+      location: "Ras Laffan Industrial City, Qatar"
+    }
+  ]
+});
