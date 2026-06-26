@@ -10234,3 +10234,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-26
+addEvents({
+  "2026-06-26": [
+    {
+      type: "news",
+      title: "Dutch Floating Power Hub for Remote Subsea Assets Secures €3.2M Government Funding",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-06-26",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/06/Source-SolarDuck2.jpg?image-crop-positioner-ts=1782458144",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• SolarDuck와 Maritime Research Institute Netherlands(MARIN)는 원격 해양 자산에 전력을 공급하는 부유식 해양 전력 허브 개발을 위해 네덜란드 정부로부터 €3.2백만 지원금을 확보했다.</p><p>• 'Steady Seas' 연구 프로젝트는 SolarDuck의 Offshore Floating Power & Utility Hub(OFPH)의 기본 설계를 발전시키며, 해상 태양광 발전을 통해 원격 해양 및 해저 자산에 전력, 통신 및 기타 유틸리티를 제공한다.</p><p>• OFPH는 재배치 가능한 해양 플랫폼으로, 통합 에너지 저장 및 보조 시스템을 통해 연속 운영을 지원하고 탄소 포집 및 저장(CCS) 및 해저 연결 프로젝트의 생명 주기 비용을 절감할 수 있다.</p><p>• 기술적 과제는 유체역학 성능, 계류 및 운동 거동, 전력 및 통신 시스템 통합, 해저 인프라와의 인터페이스 등을 포함한다.</p><p>• SolarDuck는 OFPH 설계 및 시스템 통합을 주도하고, MARIN은 유체역학 분석, 시뮬레이션 및 수조 테스트를 통해 플랫폼의 신뢰성과 파도 대응 성능을 검증한다.</p><p>• 연구 단계 이후 업계 파트너와의 협력을 통한 실제 해양 조건에서의 시연 프로젝트가 진행될 예정이다.</p><h3>Key Quotes</h3><p>• "Steady Seas allows us to take the lessons learned from building and testing Merganser in the North Sea and apply them to a design tailored for single-platform offshore applications." (북해의 머거서 건설 및 테스트에서 얻은 교훈을 단일 플랫폼 해양 응용에 맞춘 설계에 적용할 수 있다.)</p><p>• "The technical challenges of powering assets far offshore are significant, from mooring and motion behaviour to integration with subsea infrastructure." (계류 및 운동 거동에서 해저 인프라 통합에 이르기까지 원해 자산에 전력을 공급하는 기술적 과제는 상당하다.)</p><h3>Technical Insights</h3><p>• **해양 재생에너지 인프라 혁신**: 부유식 태양광 플랫폼의 실용화는 원격 해양 자산(CCS, 유가스 시설 등)의 전력 자급 자족을 가능하게 하여 해양 에너지 전환의 가속화를 주도할 것으로 예상된다.</p><p>• **유체역학 및 구조 안전성**: MARIN의 수조 테스트와 극한 파도 조건 하의 구조 하중 평가는 국제 해양 안전 기준(DNV, ABS 등) 준수와 해양 플랫폼의 신뢰성 검증에 필수적이다.</p><p>• **해양 인프라 통합 표준화**: OFPH의 해저 인프라 인터페이스 표준화는 향후 IMO와 국제 기구의 부유식 해양 구조물 규제 개발에 기여할 수 있는 선행 사례가 될 것이다.</p><p>• **산업 탈탄소화 기여**: 원격 해양 자산의 전력화를 통해 연료 소비 감소 및 배출가스 저감이 가능하며, 특히 CCS 프로젝트의 경제성 향상으로 해양 탄소중립 달성에 기여한다.</p></div>`,
+      tags: ["offshore renewable energy","floating solar","subsea infrastructure","Netherlands"],
+      link: "https://www.offshore-energy.biz/dutch-floating-power-hub-for-remote-subsea-assets-secures-e3-2m-govt-push/",
+      coords: [4.8952,52.3676],
+      location: "Netherlands (North Sea)"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-25
+addEvents({
+  "2026-06-25": [
+    {
+      type: "news",
+      title: "44 Jack-Up Rigs Relocated Ahead of Indian Monsoon Season",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-06-25",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/06/Aqualis-ABL.jpeg?image-crop-positioner-ts=1782384241",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• ABL(Aqualis Offshore)는 인도의 국영 석유공사 ONGC를 지원하여 2026년 3월 15일부터 5월 31일까지 44척의 잭업 리그를 재배치 완료</p><p>• 몬순 시즌 전 총 5,500해리 이상의 거리에서 리그 이동 작업을 안전하게 수행하여 산업 기준 신설</p><p>• ONGC의 보험회사 및 컨설턴트로부터 임명받아 인도 해역 내 잭업 및 이동식 해상 생산 설비에 대한 해양 보증 서비스 제공</p><p>• 2025년 9월부터 2026년 5월까지 인도 서부 해안 ONGC 광구에서 75척의 리그 이동을 지원</p><p>• ABL은 중동 지역(바레인, 사우디아라비아, 카타르, 아랍에미리트, 이집트)에서 지난 12개월간 750회 이상의 리그 이동 작업 지원</p><h3>Key Quotes</h3><p>• "This period has set new benchmarks in terms of the number of rig moves executed, total distance covered, and overall operational delivery across both the India and Middle East regions." (이 기간은 실행된 리그 이동 수, 커버된 총 거리, 인도 및 중동 지역 전체의 운영 성과 측면에서 새로운 기준을 수립했다)</p><p>• "This success reflects the dedication of our offshore teams, including our tow masters and marine warranty surveyors, supported by our geotechnical and structural engineers" (이 성과는 예인선 선장과 해양 보증 검사관을 포함한 해양팀의 헌신과 지반공학 및 구조 엔지니어의 지원을 반영한다)</p><h3>Technical Insights</h3><p>• **몬순 시즌 대응 운영**: 극악의 해양 환경에서 대규모 해양 구조물의 안전한 이동 관리는 해양 기술 및 기상 예측 능력의 통합이 필수적이며, 빅데이터 기반 경로 최적화 시스템의 중요성 대두</p><p>• **해양 보증 서비스(Marine Warranty Survey)**: IMO 규정 준수와 해양 안전 강화 추세에 따라 MWS 서비스 수요 증가로 인한 해양 보험 및 안전 관리 산업의 성장 가능성 제시</p><p>• **지역 해양 운영 전문성**: 인도, 중동 지역의 환경 특성(계절풍, 극한 기후)에 특화된 해상 운영 능력이 글로벌 에너지 기업의 경쟁력 결정 요소로 작용하며, 자율항해 기술도 이러한 지역 맞춤형 운영 요구에 대응 필요</p></div>`,
+      tags: ["jack-up rigs","ONGC","monsoon season","offshore operations","India","marine warranty"],
+      link: "https://www.offshore-energy.biz/44-jack-up-rigs-relocated-in-race-against-monsoon-season/",
+      coords: [72.8479,19.076],
+      location: "India (West Coast)"
+    }
+  ]
+});
