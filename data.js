@@ -10184,3 +10184,53 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2025-05-10
+addEvents({
+  "2025-05-10": [
+    {
+      type: "accident",
+      title: "Serious injury to deckhand on scallop dredger Jacoba (BM77) - May 2025",
+      source: "MAIB (Marine Accident Investigation Branch)",
+      sourceMeta: "gov.uk · 2026-06-25",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 2025년 5월 10일 영국 등록 가리비 준설선 Jacoba에서 갑판 작업자가 준설 작업 중 선실에서 작동된 주요 빔에 의해 적재 바와 사이에서 압박되어 중상을 입음</p><p>• **피해**: 작업자는 헬리콥터로 병원으로 긴급 후송됨. 심각한 신체 손상 입음</p><p>• **근본 원인**: 준설 장비 작동에 대한 부적절한 위험 평가, 비효율적 위험 완화, 승무원 교육 부재, 불완전한 안전 관리 체계</p><p>• **규제 결함**: 강제 안전 교육 미이수 승무원의 승선 운항 계속, 규제 기관의 후속 감시 부족</p><p>• **권고사항**: 해양 및 해안경비청(MCA) 지침에 따른 안전 관리 체계 구축, 위험 평가 재검토, 승무원 필수 교육 이수 확보</p><p>• **산업 파급**: 어업 업계 대상 안전 전단 배포로 유사 사건 예방 강화</p><h3>Key Quotes</h3><p>• "The deckhand was attempting to clear a snagged dredge chain while positioned between the vessel's main beam and tipping bar when the beam was lowered from the wheelhouse, striking and crushing them against the equipment." (선실에서 주요 빔을 내렸을 때 갑판 작업자가 준설 체인을 정리하려고 빔과 틸팅 바 사이에 위치하고 있어서 빔에 압박되어 중상을 입음)</p><p>• "The risk assessments did not adequately address the operation of scallop dredging gear, resulting in associated hazards being ineffectively mitigated and placing the crew at risk." (위험 평가가 가리비 준설 장비 작동을 적절히 다루지 못해 관련 위험이 효과적으로 완화되지 못하고 승무원이 위험에 노출됨)</p><p>• "Jacoba continued to operate with uncertified crew. This reduced assurance that those on board had the required safety knowledge." (Jacoba는 인증받지 않은 승무원으로 계속 운항하여 승선 인원이 필요한 안전 지식을 갖추었다는 보장이 감소함)</p><h3>Technical Insights</h3><p>• **위험 평가 체계 결함**: 선박의 준설 장비 작동과 관련된 위험 평가가 불완전하여 갑판 작업 중 발생할 수 있는 기계적 위험에 대한 완화 조치가 미흡함. IMO 권고 위험 평가 프로토콜 적용 필수</p><p>• **승무원 교육 의무화 부재**: 강제 안전 교육(STCW 등) 미이수 승무원의 운항 허용은 국제 해상인명안전규칙(SOLAS) 및 선원 훈련·자격·당직기준협약(STCW) 위반으로, 규제 기관의 선박 검사 강화 필요</p><p>• **안전 관리 체계(SMS) 부재**: 소규모 어업 선박에서 구조화된 안전 관리 시스템 부족으로 위험 식별, 통제, 검토 절차가 비체계적이며, IMO ISM Code 원칙의 적용 확대 필요</p><p>• **산업 규제 공백**: 어업 선박(특히 소규모 준설선)에 대한 정기적 안전 감시 및 규제 기관의 사후 조치 부족이 유사 사건 재발을 초래하고 있으며, 해양청의 컴플라이언스 감시 강화 필요</p></div>`,
+      tags: ["serious injury","scallop dredger","English Channel","crew safety","risk assessment failure"],
+      link: "https://www.gov.uk/maib-reports/serious-injury-to-a-crew-member-on-board-the-scallop-dredger-jacoba-bm77",
+      coords: [-1.7,50.2],
+      location: "English Channel, 29 nautical miles south-southeast of Beachy Head"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-25
+addEvents({
+  "2026-06-25": [
+    {
+      type: "news",
+      title: "Crude Oil Shipments Through Hormuz Reach Highest Level Since Start of War",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-06-25",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockalones-171754.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2월 시작된 미국-이스라엘 간 이란 분쟁으로 폐쇄된 호르무즈 해협이 휴전 협정 이후 개통되면서 원유 해상 수송량이 전쟁 이후 최고 수준에 도달</p><p>• Kpler 분석에 따르면 목요일 4척의 유조선이 600만 배럴, 추가 2척이 400만 배럴의 이란산 원유를 수송했으며 수요일에는 6척의 유조선이 1,080만 배럴 운송</p><p>• 해협 통행량은 여전히 분쟁 이전 일평균 125척 대비 크게 낮은 수준이며, 광산 위협과 이란 혁명수비대의 불확실성으로 중앙 항로 사용 불가</p><p>• 해운업계는 60일 임시 협정이 즉각적 위험을 감소시켰으나 지정학적 불확실성은 지속된다고 평가</p><p>• 선박들이 오만 쪽 해협 측으로 항로를 변경하며 회피 항법 진행 중, AIS 신호 차단으로 정확한 물동량 추정 곤란</p><h3>Key Quotes</h3><p>• "The rebound reflects the adaptability of Mideast Gulf export systems rather than a clean return to pre-conflict trade" (회복세는 중동 만 수출 시스템의 적응력을 반영하며 분쟁 이전 거래로의 완전한 복귀는 아님)</p><p>• "Traffic levels are still below historical norms, and market participants continue to assess the durability of the current framework" (통행량은 여전히 역사적 수준 이하이며, 시장 참여자들은 현재 체계의 지속가능성을 평가 중)</p><p>• "The 60-day agreement has reduced immediate risks to navigation, but it has not removed broader geopolitical uncertainties from the region" (60일 협정은 즉각적 항해 위험을 감소시켰으나 광범위한 지정학적 불확실성은 제거하지 못함)</p><h3>Technical Insights</h3><p>• **해협 통행 제한 시스템**: 1968년 유엔 해사기구(IMO)가 채택한 Traffic Separation Scheme(TSS)의 중앙 구간이 광산 위협으로 통행 불가능하며, 선박들이 오만 측 항로로 편향되는 항해 패턴 변화</p><p>• **AIS 신호 차단과 해상 안전**: 분쟁 지역의 광범위한 AIS 신호 차단으로 선박 추적 어려움 증가, 불규칙한 항로 선택으로 충돌 위험 증가 가능성</p><p>• **지정학적 리스크 관리**: 이란 혁명수비대의 지정학적 불확실성과 광산 위협이 자동항법(autonomous navigation) 시스템 도입을 더욱 복잡하게 만드는 산업 환경 형성</p><p>• **국제 항로 규정의 실효성 문제**: 호르무즈 해협과 같은 분쟁 지역에서 국제 항로 규정(COLREG, IMO 규정)의 준수가 사실상 불가능해지는 현실적 한계 노출</p></div>`,
+      tags: ["Strait of Hormuz","Oil Tankers","Geopolitical Risk","Shipping Route"],
+      link: "https://www.marinelink.com/news/crude-oil-shipments-hormuz-reach-highest-540664",
+      coords: [56.2,26.6],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "ADNOC Drilling Takes Delivery of First AI-Powered Walking Island Rig AD-300",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-06-25",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/06/ADNOC-Drilling-Delivers-First-AI-Enabled-Walking-Island-Rig-Ahead-of-Schedule.jpg?image-crop-positioner-ts=1782387022",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• ADNOC Drilling이 AI 기술 기반의 완전 자동화 워킹 아일랜드 리그 AD-300을 인수하여 중동 해상 자동화 운영의 새로운 단계 시작<br>• 예정보다 3개월 앞당겨 인수된 AD-300은 높이 50미터, 무게 약 2,000톤이며 고급 자동화, 디지털 시스템, 하이브리드 전원 기능 탑재<br>• 자동 파이프 처리 및 AI 기반 모니터링 등 자동화 시스템으로 인원 노출 최소화 및 안전성 강화<br>• ADNOC Offshore로부터 $1.54 billion 계약으로 총 6개 리그 프로그램 중 첫 번째 투입, 2026년 하반기부터 수익 창출 가속화<br>• 자동 워킹 기능으로 해체 없이 시추 위치 간 이동 가능하며, 실시간 운영 데이터 시스템으로 예측 정비 및 성능 최적화 지원</p><h3>Key Quotes</h3><p>• "The delivery of AD-300 marks a step-change in how we execute large-scale, technology-enabled energy development. By integrating automation, artificial intelligence and robotics at scale, we are enhancing safety, improving efficiency and delivering more consistent, predictable performance."<br>(AD-300의 인수는 대규모 기술 기반 에너지 개발 방식의 획기적 전환점이며, 자동화·AI·로봇공학의 대규모 통합으로 안전성 강화 및 성능 일관성 달성)</p><p>• "At a time when the world needs reliable energy at scale, the UAE stands ready to supply global customers. AD-300 and our next-generation island rigs are accelerating our growth"<br>(전 세계가 신뢰할 수 있는 에너지 공급을 필요로 하는 시점에 UAE는 글로벌 고객 공급 준비 완료, AD-300은 성장 가속화 촉진)</p><h3>Technical Insights</h3><p>• **자동화 기술의 산업 전환**: AI 기반 워킹 아일랜드 리그의 자동 이동 및 파이프 처리 기능은 전통적 해상 시추 작업의 효율성을 혁신적으로 개선하며, 인원 안전성 극대화<br>• **실시간 데이터 기반 운영**: 통합 데이터 시스템의 예측 정비 및 성능 최적화 기능은 해상 에너지 산업의 가동률 및 신뢰성 향상에 기여<br>• **그린 에너지 전환 기여**: 하이브리드 전원 및 전력망 연계 옵션으로 배출 저감 및 에너지 효율성 달성, IMO의 탄소 규제 대응 가능<br>• **아시아-중동 해상 산업 리더십**: UAE의 첨단 자동화 리그 배치는 해상 에너지 분야에서 자율운항선박(MASS) 기술과 유사한 산업 표준화 신호, 동종 업계의 기술 채택 가속 예상</p></div>`,
+      tags: ["AI Technology","Autonomous Operations","Offshore Drilling","ADNOC Drilling","UAE Energy"],
+      link: "https://www.offshore-energy.biz/first-ai-powered-walking-island-rig-enters-adnoc-drillings-fleet-months-ahead-of-schedule/",
+      coords: [54.3773,24.4539],
+      location: "Abu Dhabi, UAE"
+    }
+  ]
+});
