@@ -10346,3 +10346,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-26
+addEvents({
+  "2026-06-26": [
+    {
+      type: "news",
+      title: "Ukraine's Massive New Underwater Drone – Sea Trident ST-1000",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-06-26",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/06/Sea-Trident-ST-1000-scaled.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 우크라이나 Global Mark가 Paris의 Eurosatory 2026 방위산업 전시회에서 초대형 무인수중차량(XLUUV) Sea Trident ST-1000 공개<br>• 강철 선체 구조의 타원형 무인수중차량으로 최대 1,000kg 탑재량 및 수심 5m까지 운영 가능한 자율주행 체계<br>• 신밀성(Low Observability)과 자율주행 능력을 갖춘 비대칭 해전(Asymmetric Maritime Operations) 임무 수행 설계<br>• 자살 공격/타격 작전, 물류/탑재물 운송, 적 무인수중차량 격퇴, FPV 드론 캐리어 등 4가지 다중 역할 임무 프로필 수행 가능<br>• ISO 표준 컨테이너 적재로 신속한 도로 수송 가능한 배치 유연성 확보<br>• 무인수중차량의 군사적 실전 운영 추세 및 자율주행 해양 로봇의 대규모 플랫폼화 사례</p><h3>Key Quotes</h3><p>• "Sea Trident is an autonomous underwater vehicle designed for long range missions in maritime environments capable of delivering payloads of up to 1,000 kg to strategic targets." (해전 환경에서 장거리 임무를 수행하고 최대 1,000kg의 탑재물을 전략적 목표물에 운송할 수 있도록 설계된 자율주행 수중차량)</p><p>• "The system is tailored for modern asymmetric maritime operations requiring low observability and full autonomy." (신밀성과 완전한 자율주행을 요구하는 현대 비대칭 해양 전술에 맞춤형으로 설계된 체계)</p><p>• "Small enough to fit inside a standard ISO shipping container for rapid road transport." (표준 ISO 컨테이너에 적재 가능한 크기로 신속한 도로 수송 지원)</p><h3>Technical Insights</h3><p>• **자율주행 군용 수중차량 기술 발전**: 현대 해양 분쟁에서 무인수중차량의 군사적 활용이 증가하고 있으며, 자율주행 기술과 AI 기반 경로 계획 능력이 전술적 우위 창출의 핵심 요소로 부상</p><p>• **저감지성(Low Detectability) 설계 원칙**: XLUUV의 수심 5m 운영 제한은 적 감지 회피와 해안 침투 작전에 최적화되어 있으며, 비재래식 해전 패러다임 반영</p><p>• **다중 임무 플랫폼화 추세**: 자살 공격, 물류 운송, 방어(Anti-UUV) 기능을 하나의 플랫폼에 통합하는 설계는 해양 로봇의 모듈화 및 다목적화 산업 방향을 시사</p><p>• **배치 유연성과 운영 부담**: ISO 컨테이너 호환성은 신속한 배치와 비정규 해전 운영을 용이하게 하나, 국제 해양법(UNCLOS) 및 COLREG 준수 기준의 법적 공백 문제 발생 가능</p></div>`,
+      tags: ["Autonomous Underwater Vehicle","Ukraine","Defense Technology","Uncrewed Systems"],
+      link: "https://www.navalnews.com/naval-news/2026/video-ukraines-massive-new-underwater-drone-sea-trident-st-1000/",
+      coords: [2.3522,48.8566],
+      location: "Paris, France (Eurosatory 2026)"
+    }
+  ]
+});
