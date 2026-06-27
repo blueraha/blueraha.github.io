@@ -10272,3 +10272,77 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-25
+addEvents({
+  "2026-06-25": [
+    {
+      type: "accident",
+      title: "Iran Drone Attack on Ever Lovely Container Ship in Strait of Hormuz",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-06-26",
+      image: "https://gcaptain.com/wp-content/uploads/2026/05/2026-05-04T134429Z_771319133_RC231LAKZI7G_RTRMADP_3_IRAN-CRISIS.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이란 이슬람혁명수비대(IRGC)가 호르무즈 해협을 통과하는 상선에 대해 4대의 드론 공격을 감행했으며, 이 중 1대가 싱가포르 국적 컨테이너선 Ever Lovely의 상층갑판에 직격탄을 기록함</p><p>• 드론 공격으로 Ever Lovely는 손상을 입었으나 승무원 피해는 없었고 항해를 계속할 수 있었으며, 나머지 3대의 드론은 미군에 의해 격추됨</p><p>• 트럼프 대통령은 이번 공격을 미국-이란 간의 휴전 협정 위반으로 규정하며 "어리석은 휴전협정 위반"이라고 성명</p><p>• 국제해사기구(IMO)는 이번 사건으로 인해 신규 출범된 페르시아만 내 수천 명의 선원 소개 프레임워크를 일시 중단하고 안보 보장 재확인 필요성을 제시</p><p>• 호르무즈 해협 역사적 항로에는 약 80개의 기뢰가 존재하는 것으로 UN 해사기구에서 추정되었으며, 주요 유류 운송로의 정상화가 매우 어려울 것으로 예상됨</p><h3>Key Quotes</h3><p>• "One of the Drones solidly hit the upper deck of a large and very expensive Cargo Carrying Ship. Damage was done, but the Ship was able to proceed on its way." (드론 1대가 대형 고가 화물운반선의 상층갑판에 직격탄을 기록했으며, 손상이 발생했지만 선박은 항해를 계속할 수 있었다)</p><p>• "The Islamic Republic of Iran shot at least four One Way Attack Drones at Ships transversing the Strait of Hormuz." (이란 이슬람공화국이 호르무즈 해협을 통과하는 선박들을 향해 최소 4대의 일회용 공격 드론을 발사했다)</p><h3>Technical Insights</h3><p>• 호르무즈 해협의 전술적 중요성과 드론 공격의 위협이 국제 상선 운영에 미치는 영향을 고려할 때, 해상 보안 시스템 강화 및 자동 방어 체계 도입이 필수적임</p><p>• IMO의 선원 소개 프레임워크 일시 중단은 국제 해사 안보 환경이 국제규범 체계에 미치는 직접적 영향을 보여주며, 동 지역 상선의 운영 환경이 예측 불가능한 상태로 악화됨을 시사</p><p>• 호르무즈 해협 내 기뢰 탐지 및 제거의 어려움과 드론 공격의 증가는 종래의 COLREG 및 IMO 안전 규정만으로는 해상 교통 안전을 보장할 수 없음을 의미하며, AI 기반 실시간 위협 감지 및 자율 회피 시스템의 필요성을 강조</p></div>`,
+      tags: ["drone attack","Strait of Hormuz","Ever Lovely","Iran","ceasefire violation"],
+      link: "https://gcaptain.com/trump-says-iran-violated-ceasefire-with-drone-attack-on-ship/",
+      coords: [56.2667,26.1667],
+      location: "Strait of Hormuz, near Bandar Abbas, Iran"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-26
+addEvents({
+  "2026-06-26": [
+    {
+      type: "accident",
+      title: "Taiwanese Ship Attacked in Strait of Hormuz; Traffic Slows Following Iran Incident",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-06-26",
+      image: "https://gcaptain.com/wp-content/uploads/2026/06/2026-06-18T123648Z_920911053_RC2BWLA245QQ_RTRMADP_3_IRAN-CRISIS-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 대만 선사 에버그린 마린의 선박이 오만 해역 근처 호르무즈 해협에서 이란의 공격으로 피격되어 해상 물동량 급감<br>• 유엔 해운청은 수백 척의 좌초 선박과 수천 명의 선원 구출 자발적 계획을 일시 중단; 금요일 기준 탱커 통항 13척으로 목요일 24척, 수요일 27척에서 급락<br>• 미국-이란 휴전 협정 이후 석유 구매처들이 재고 확보를 시도했으나 이번 공격으로 해협 통과의 신뢰성 약화<br>• 전체 선박 통항량은 전쟁 개시 이전 평균 일일 125척에서 현재 62척(전년 동일 기간 대비 53%) 수준으로 감소<br>• 원유 가격은 금요일 3% 이상 하락했으며, 사우디아라비아가 페르시아만 적재 재개로 공급 확충 신호</p><h3>Key Quotes</h3><p>• "The attack is a setback in the plans to evacuate ships and resume transits through the Strait of Hormuz, although some transits can still be expected to take place" (호르무즈 해협을 통한 선박 구출 및 통항 재개 계획에 큰 차질을 빚었으나, 일부 통항은 여전히 가능할 것으로 예상된다는 의미)</p><p>• "The situation underscores the importance of clear and unambiguous agreements between the U.S. and Iran regarding a resumption of maritime traffic through the strait" (미국과 이란 간 해협 통항 재개에 대한 명확하고 모호하지 않은 협약의 중요성을 강조한다는 의미)</p><p>• "Safe passage through the strait could not be guaranteed without coordination with Tehran" (테헤란과의 조율 없이는 해협을 통한 안전 통항을 보장할 수 없다는 의미)</p><h3>Technical Insights</h3><p>• 호르무즈 해협 통항 규제는 지정학적 갈등과 IMO 해상안전 규정 간의 충돌을 야기하며, 국제 해운 시스템의 취약성 노출<br>• 탱커 통항량 급락(일 27척 → 13척)은 해상 물류 네트워크 불안정성을 증대시키며, 글로벌 에너지 가격과 공급망에 직접적 영향 발생<br>• 자율선박 및 원격 해운 기술의 필요성 대두: 인명피해 최소화와 고위험 해역 운항 안전성 강화를 위한 기술 도입 필수</p></div>`,
+      tags: ["Attack","Strait of Hormuz","Iran","Tanker","Evergreen Marine","Maritime Security"],
+      link: "https://gcaptain.com/traffic-through-strait-of-hormuz-slows-after-attack-on-ship/",
+      coords: [56.2519,26.1367],
+      location: "Strait of Hormuz, near Bandar Abbas and Oman"
+    },
+    {
+      type: "news",
+      title: "Hormuz and the Era of Asymmetry: Sea Mines and Unmanned Systems",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-06-26",
+      image: "https://maritime-executive.com/media/images/article/Iranian-Sea-Mine-Boat-IRGC-Tasnim-News.c195e8.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **비대칭 해전의 새로운 패러다임**: 이란의 무인체계(UAV, USV, UUV), 해상지뢰, 해안방어순항미사일(CDCM) 등 저비용 무기체계들이 재래식 해군력의 기술적 우위를 무력화하고 있으며, 이는 사이버 작전 및 전략적 정보전과 결합되어 글로벌 에너지 안보와 공급망에 영향을 미침</p><p>• **호르무즈 해협의 전략적 통제**: 이란이 재래식 해전 회피 전략으로 무인체계와 지뢰 기반 대접근·영역거부(A2/AD) 전략을 통해 호르무즈 해협의 해상교통을 체계적으로 제약하고 있음</p><p>• **해양 자율화 기술의 이중성**: 무인화 로봇화된 해전환경은 작전 효율성 향상과 동시에 국제법, 윤리적 쟁점, 운영 복잡성 등 다층적 과제를 야기하며 균형잡힌 점진적 도입 필요</p><p>• **해저 인프라의 취약성**: 중요 해저기반시설(CUI) 및 해상 통신 케이블이 지뢰 및 무인 잠수정 위협에 노출되어 있으며, 해저-우주 상황인식(S3A)의 필요성 대두</p><p>• **장기적 지속성**: 우크라이나 사례처럼 서방의 자금 지원을 받는 지뢰·드론·미사일이 러시아 해군의 작전 자유도를 장기간 제약하고 있음을 보여주며, 비대칭 위협의 효과성 입증</p><p>• **저자**: 은퇴 해군 대장 Massimo Vianello와 선임 이사관 Giovanni Giorguli(CIMSEC)</p><p>---</p><h3>Key Quotes</h3><p>• "Low-cost attritable swarms can saturate adversary defenses, effectively neutralizing the overall technological gap." <br>(저비용의 소모 가능한 무인 떼 공격은 적의 방어력을 포화시켜 기술적 격차를 무력화할 수 있다)</p><p>• "Iran exercises strategic control over the Strait of Hormuz through the employment of UAVs, sea mines, coastal defense cruise missiles, and Fast Inshore Attack Craft, deliberately avoiding a conventional naval engagement."<br>(이란은 재래식 해전을 의도적으로 회피하면서 무인항공기, 해상지뢰, 해안방어순항미사일 등을 통해 호르무즈 해협의 전략적 통제를 행사하고 있다)</p><p>---</p><h3>Technical Insights</h3><p>• **자율해양체계(Autonomous Maritime Systems)의 전술적 활용**: 무인체계는 비용-효율성이 우수하여 약한 행위자도 대규모 떼 공격 전술로 강대국 방어력을 포화시킬 수 있으며, 이는 재래식 해군력의 우위 개념을 근본적으로 변화시킴</p><p>• **A2/AD 전략의 해양 적용**: 호르무즈 해협에서 관찰되는 이란의 대접근·영역거부 전략은 지뢰, 연안 미사일, 무인체계의 통합으로 구성되며, IMO 국제해상규칙(COLREG)과 해전법(LOAC) 등 국제법의 적용 범위 재정의 필요</p><p>• **사이버-물리 통합 작전**: 무인 시스템 운영이 사이버 공격, 정보전, 금융 시장 조작과 결합될 때 전략적 영향이 증폭되며, 자율화된 시스템의 신뢰성·통신 안정성 확보가 해양 안보의 핵심 요소</p><p>• **해저기반시설(CUI) 보호와 S3A 구축**: 임계 해저 인프라(전력망, 통신 케이블)의 증가로 인해 해저-우주 상황인식(Seabed-to-Space Situational Awareness) 체계 구축이 필수이며, 이는 국제 해양</p></div>`,
+      tags: ["Unmanned Systems","Maritime Security","Strait of Hormuz","Asymmetric Warfare","Naval Strategy"],
+      link: "https://maritime-executive.com/article/hormuz-and-the-era-of-assymetry-sea-mines-and-unmanned-systems",
+      coords: [56.1499,26.1207],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "Ukraine's Global Mark Unveils Sea Trident ST-1000 Extra-Large Uncrewed Underwater Vehicle",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-06-26",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/06/Sea-Trident-ST-1000-scaled.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 우크라이나의 Global Mark가 파리 Eurosatory 2026 방위산업 전시회에서 대형 무인수중차량(XLUUV) Sea Trident ST-1000을 최초로 공개했습니다.<br>• Sea Trident ST-1000은 최대 1,000kg의 탑재량을 운반 가능하며, ISO 표준 해운컨테이너에 탑재되어 신속한 도로 운송이 가능합니다.<br>• 수심 5m까지 저탐지 능력과 완전 자율운영 기능을 갖춘 다목적 플랫폼으로 설계되었습니다.<br>• 주요 임무는 자살 공격(Kamikaze), 물류 전달, 적 수중무기 무력화, FPV 드론 운반 등 4가지입니다.<br>• 비대칭 해양작전과 영해 침투를 위한 저관찰성(Low Observability) 기술이 핵심 특징입니다.</p><h3>Key Quotes</h3><br>• "autonomous underwater vehicle designed for long range missions in maritime environments capable of delivering payloads of up to 1,000 kg to strategic targets" (해상 환경에서 장거리 작전을 수행하고 전략적 목표에 최대 1,000kg의 탑재량을 전달할 수 있는 자율 수중차량)<br>• "Low detectability and subsurface movement capability at depths up to 5 meters support covert ingress to contested maritime areas" (수심 5m까지의 저탐지성과 수중 이동 능력은 분쟁 해역으로의 은밀한 침투를 지원)</p><h3>Technical Insights</h3><br>• XLUUV의 완전 자율운영 기능은 GPS 신호 제한 수역에서의 해양 작전 효율성을 크게 향상시키며, 국제 해상법 준수 메커니즘의 필요성을 제기합니다.<br>• 다목적 탑재량 시스템(1,000kg)은 기존 유인 함정의 근해 작전 역할을 재정의하는 새로운 비용-효율적 해양 전력 투사 수단입니다.<br>• 저탐지 수중운동 기술은 현대 해양 조기경보 체계와 COLREG 준수 간의 기술적 모순을 노출시키며, IMO 자율선박 기준 수립에 영향을 미칠 것으로 예상됩니다.<br>• ISO 컨테이너 기반 신속 배포 설계는 대규모 무인수중차량의 비축 및 빠른 작전 전개 패러다임을 전환합니다.</p></div>`,
+      tags: ["Autonomous Underwater Vehicle","XLUUV","Ukraine","Defense Technology","Eurosatory 2026"],
+      link: "https://www.navalnews.com/naval-news/2026/video-ukraines-massive-new-underwater-drone-sea-trident-st-1000/",
+      coords: [2.3522,48.8566],
+      location: "Paris, France"
+    },
+    {
+      type: "event",
+      title: "Hanwha Unveils Striker MUSV Family at Eurosatory 2026",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-06-26",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/06/Striker-USV-Chunmoo-1.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **Hanwha Systems, 한국의 주요 방위산업 기업이 Eurosatory 2026에서 자율항행 중형 무인수상함(MUSV) 'Striker' 패밀리 공개**</p><p>• **Striker-S는 길이 35m, 배수량 250톤의 저탐지 설계로 모듈식 페이로드(최대 10톤)와 자율 항법 시스템을 갖춘 미사일 발사 플랫폼**</p><p>• **Chunmoo 미사일 계열 통합 - CTM-ASBM(대함탄도미사일)은 160km 사거리, 적외선 추적기 탑재로 이동하는 해상 목표 타격 가능**</p><p>• **AESA 레이더 기반 통합 센서 스위트 - 공중 목표 탐지 50km, 해상 감시 30km 이내 성능, 대드론(C-UAS) 기능 포함**</p><p>• **자율 군집 항해, 분산 교전 개념, 외부 자산으로부터의 표적 정보 수신 능력으로 네트워크 중심 전투 운영 지원**</p><h3>Key Quotes</h3><p>• "The Striker-S represents a departure from the small explosive-laden surface drones. Instead, Hanwha presented a purpose-built missile vessel designed around modular payloads, autonomous navigation and network-enabled strike operations." <br>(기존의 소형 폭발물 탑재 드론에서 벗어나 모듈식 페이로드, 자율 항법, 네트워크 중심 타격 운영을 설계 기반으로 하는 목적형 미사일함으로 전환)</p><p>• "The launcher concept displayed in Paris showed a modular arrangement different to the Naval MRLS unveiled by the company last year at MADEX 2025 in Busan."<br>(파리에서 전시된 발사기 개념은 2025년 부산 MADEX에서 공개한 해상 다연장 로켓 시스템과 다른 모듈식 배치를 보여줌)</p><h3>Technical Insights</h3><p>• **자율수상함의 무기화 시대 개막 - MUSV 플랫폼에 정밀 미사일 무장을 통합함으로써 해상 무인 전투 운영의 새로운 패러다임 제시, IMO/COLREG의 자율선박 규제 프레임워크와 군사 무기체계의 충돌 가능성 증대**</p><p>• **네트워크 중심전(NCW) 구현의 핵심 수단 - 분산 교전 개념과 외부 타겟팅 정보 수신으로 지휘통제 시스템과의 완전 통합형 운영 가능, 해상 전투력 극대화**</p><p>• **저탐지 설계의 전술적 가치 - 안테나/상부 구조 최소화를 통한 레이더 대항성 강화로 조기 경보 회피 능력 향상, 이는 국방 자율 시스템의 생존성 핵심 요소**</p><p>• **산업적 파급 효과 - 한국 방위산업의 고급 무인 플랫폼 기술 수출 경쟁력 강화, 향후 NATO/동맹국 해군의 무인 전투체계 도입 수요 증가 전망**</p></div>`,
+      tags: ["Autonomous Ships","MUSV","Unmanned Vessels","Eurosatory 2026","Hanwha Systems","Naval Technology"],
+      link: "https://www.navalnews.com/naval-news/2026/06/hanwha-unveils-striker-musv-family-at-eurosatory-2026/",
+      coords: [2.2965,48.8566],
+      location: "Paris, France"
+    }
+  ]
+});
