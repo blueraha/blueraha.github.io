@@ -10386,3 +10386,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-26
+addEvents({
+  "2026-06-26": [
+    {
+      type: "news",
+      title: "Ukraine Unveils Sea Trident ST-1000 XLUUV Underwater Drone at Eurosatory 2026",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-06-26",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/06/Sea-Trident-ST-1000-scaled.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 우크라이나 Global Mark 사는 Eurosatory 2026 국방전시회에서 처음으로 초대형 무인수중차량(XLUUV) Sea Trident ST-1000을 공개했다.<br>• Sea Trident ST-1000은 최대 1,000kg의 페이로드를 운반 가능하며, ISO 표준 운송 컨테이너에 적재 가능한 강철 선체 타원형 설계로 신속한 도로 수송이 가능하다.<br>• 해당 UUV는 수심 5미터까지 운용 가능하며, 저탐지성과 완전 자율운항을 특징으로 하는 비대칭 해양작전용으로 설계되었다.<br>• 카미카제/타격작전, 물류 및 페이로드 운반, 다른 UUV 격퇴 및 중립화, FPV 드론 운반의 4가지 주요 임무 프로필을 수행 가능하다.<br>• 우크라이나의 무인수중 기술 개발이 항공 드론 분야를 넘어 수중 작전 도메인으로 확대되고 있음을 보여준다.</p><h3>Key Quotes</h3><p>• "Sea Trident is an autonomous underwater vehicle designed for long range missions in maritime environments capable of delivering payloads of up to 1,000 kg to strategic targets." (Sea Trident는 최대 1,000kg의 페이로드를 전략적 목표에 운반할 수 있는 능력을 갖춘 장거리 해양 임무용 자율수중차량으로 설계됨)</p><p>• "Low detectability and subsurface movement capability at depths up to 5 meters support covert ingress to contested maritime areas." (5미터까지의 수심에서의 저탐지성과 수중 기동 능력이 분쟁해역으로의 은폐된 침투를 지원함)</p><h3>Technical Insights</h3><p>• 자율수중차량(AUV/XLUUV)의 군사 활용이 전략적 중요성을 갖는 시대로 진입하고 있으며, 저탐지 기술과 완전 자율운항 능력이 핵심 경쟁력이 되고 있다.<br>• IMO와 국제해사법에서 규정하는 자율선박 기준과 달리, 군사용 UUV는 전술적 요구사항(은폐성, 페이로드 운반, 타격 능력)을 중심으로 설계되고 있어 민간 자율운항 기술과의 기술 격차가 발생하고 있다.<br>• COLREG 및 국제해사규칙 준수 대상이 아닌 군사용 자율수중차량의 확산은 해상 안전 및 국제해양법 적용의 회색지대를 확대시키고 있으며, 향후 국제적 규범 논의의 필요성을 제기한다.<br>• 컨테이너 운송 가능한 설계와 모듈식 페이로드 구성은 비정규전 환경에서의 신속한 배치 및 운용 유연성을 극대화하는 현대 해양 전력의 새로운 패러다임을 나타낸다.</p></div>`,
+      tags: ["Autonomous Underwater Vehicle","XLUUV","Ukraine Defense Tech","Eurosatory 2026"],
+      link: "https://www.navalnews.com/naval-news/2026/video-ukraines-massive-new-underwater-drone-sea-trident-st-1000/",
+      coords: [2.3522,48.8566],
+      location: "Paris, France"
+    }
+  ]
+});
