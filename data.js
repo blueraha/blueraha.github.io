@@ -10366,3 +10366,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-26
+addEvents({
+  "2026-06-26": [
+    {
+      type: "news",
+      title: "Ukraine's Sea Trident ST-1000: Extra-Large Uncrewed Underwater Vehicle Unveiled at Eurosatory 2026",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-06-26",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/06/Sea-Trident-ST-1000-scaled.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 우크라이나의 Global Mark가 파리 Eurosatory 2026 방위산업 전시회에서 초대형 무인수중차량(XLUUV) Sea Trident ST-1000 공개<br>• 1,000kg 탑재량 가능, 수심 5m까지 운영 가능한 강철 선체 자율수중차량으로 최대 1,000km 장거리 미션 수행 가능<br>• 신병 전술 작전, 물류 운송, 적 UUV 제압, FPV 드론 캐리어 등 다역할 플랫폼으로 설계되어 비대칭 해양전 수행 능력 보유<br>• ISO 표준 컨테이너에 내장 가능하여 육로 신속 운송 및 급속 배포 가능한 전략적 이점 보유<br>• 저탐지 설계와 완전 자율 운영 능력으로 분쟁 해역의 비밀 침투 임무에 최적화</p><h3>Key Quotes</h3><br>• "Sea Trident is an autonomous underwater vehicle designed for long range missions in maritime environments capable of delivering payloads of up to 1,000 kg to strategic targets" (최대 1,000kg의 탑재량을 전략적 목표에 전달 가능한 장거리 자율수중차량)<br>• "Low detectability and subsurface movement capability at depths up to 5 meters support covert ingress to contested maritime areas" (저탐지 특성과 수심 5m까지의 수중 기동 능력으로 분쟁 해역의 비밀 침투 지원)</p><h3>Technical Insights</h3><br>• 자율수중차량의 다역할 플랫폼화 추세: 신병 공격, 물류 지원, UUV 방어, 드론 캐리어 등 복합 임무 동시 수행 가능 구조는 해전 패러다임 변화를 반영<br>• 비대칭 해양전 개념의 실전 적용: 저탐지 설계와 완전 자율성을 통해 전통 함정 대비 비용 효율적이며 탐지 회피 능력 우수한 신 해양 위협 체계 구성<br>• ISO 컨테이너 호환성의 군사적 의미: 무기 체계의 표준화 및 신속한 배포 능력은 작전 유연성 및 전략적 기동성 대폭 강화, 해양 무인체계 전개의 새로운 기준 제시</p></div>`,
+      tags: ["Autonomous Underwater Vehicle","XLUUV","Ukrainian Defense","Uncrewed Systems","Maritime Technology"],
+      link: "https://www.navalnews.com/naval-news/2026/video-ukraines-massive-new-underwater-drone-sea-trident-st-1000/",
+      coords: [2.3522,48.8566],
+      location: "Paris, France (Eurosatory 2026)"
+    }
+  ]
+});
