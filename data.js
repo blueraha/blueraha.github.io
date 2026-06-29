@@ -10406,3 +10406,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-26
+addEvents({
+  "2026-06-26": [
+    {
+      type: "news",
+      title: "Ukraine's Sea Trident ST-1000 XLUUV Unveiled at Eurosatory 2026",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-06-26",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/06/Sea-Trident-ST-1000-scaled.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 우크라이나 Global Mark사가 파리 Eurosatory 2026 방위사업 전시회에서 초대형 무인수중기(XLUUV) Sea Trident ST-1000 공개<br>• 1,000kg의 페이로드 운반 능력과 5m 심도에서 작동 가능한 자율항해 무인기로, 표준 ISO 컨테이너에 수송 가능<br>• 자폭 공격, 물류 수송, 적 UUV 무력화, FPV 드론 모함 등 다중역할 플랫폼으로 설계됨<br>• 낮은 탐지 가능성과 수중 이동 능력으로 대립 해역으로의 비밀 침투 지원<br>• 항공드론 및 전자전 시스템으로 알려진 회사가 수중 자율시스템 분야로 확대</p><h3>Key Quotes</h3><p>• "autonomous underwater vehicle designed for long range missions in maritime environments capable of delivering payloads of up to 1,000 kg to strategic targets" (해양 환경에서 장거리 작전에 설계된 자율수중기로 1,000kg의 페이로드를 전략적 목표물에 운반 가능)</p><p>• "Low detectability and subsurface movement capability at depths up to 5 meters support covert ingress to contested maritime areas" (낮은 탐지율과 5m 심도까지의 수중 이동 능력이 대립 해역으로의 비밀 침투를 지원)</p><h3>Technical Insights</h3><p>• **자율 UUV의 군사적 활용 확대**: Sea Trident ST-1000은 완전 자율 항해 및 다중역할 설계로 인해 해전 패러다임 변화를 시사하며, COLREG 등 국제 해양 규칙의 군사용 무인기 적용 문제를 야기함</p><p>• **낮은 탐지 기술의 해상 보안 위협**: 5m 심도 잠수 및 저탐지 성능은 대함 미사일, 해저 케이블, 항만 시설 등에 대한 새로운 위협을 제시하며, 국제 해상 감시 및 방어 체계 강화 필요</p><p>• **컨테이너 수송 가능성의 전개 유연성**: ISO 컨테이너 호환 설계로 신속한 지역 배치 및 운용이 가능하여, 분쟁 지역 해양 작전의 비용 효율성과 전술적 유연성 대폭 향상</p><p>• **IMO 및 국방부 규제 공백**: 민간 자율수중시스템과 군용 XLUUV의 이원적 기술 발전으로 인해 국제 해양 안전 및 방위 규제 체계의 조화 필요성 증대</p></div>`,
+      tags: ["autonomous underwater vehicle","Ukraine","XLUUV","unmanned systems","defense technology"],
+      link: "https://www.navalnews.com/naval-news/2026/video-ukraines-massive-new-underwater-drone-sea-trident-st-1000/",
+      coords: [2.3522,48.8566],
+      location: "Paris, France (Eurosatory 2026)"
+    }
+  ]
+});
