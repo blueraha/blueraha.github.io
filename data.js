@@ -10426,3 +10426,40 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-26
+addEvents({
+  "2026-06-26": [
+    {
+      type: "news",
+      title: "Ukraine's Sea Trident ST-1000: New Extra-Large Uncrewed Underwater Vehicle Unveiled",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-06-26",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/06/Sea-Trident-ST-1000-scaled.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 우크라이나 Global Mark사가 파리 Eurosatory 2026 방위산업 전시회에서 초대형 무인수중차량(XLUUV) 'Sea Trident ST-1000' 공개<br>• 최대 1,000kg 페이로드 운반 가능하며 5m 깊이까지 수심에서 자율운항 능력 보유<br>• 타격, 물류 운송, 수중 위협 대응, FPV 드론 운반 등 다목적 작전 수행 가능 설계<br>• ISO 표준 해운 컨테이너에 탑재 가능하여 신속한 도로 운송 및 배치 용이<br>• 저탐지성과 완전 자율성을 갖춘 비대칭 해상작전 플랫폼으로 분류</p><h3>Key Quotes</h3><p>• "autonomous underwater vehicle designed for long range missions in maritime environments capable of delivering payloads of up to 1,000 kg to strategic targets" <br>(전략적 목표에 최대 1,000kg의 페이로드를 전달할 수 있는 해양 환경에서 장거리 임무 수행용 자율 수중차량)</p><p>• "Low detectability and subsurface movement capability at depths up to 5 meters support covert ingress to contested maritime areas"<br>(5m 깊이까지의 저탐지성과 수중 이동 능력으로 분쟁 해역의 은밀한 진입 지원)</p><h3>Technical Insights</h3><p>• 자율 수중차량(AUV)의 극대형화(XLUUV) 추세로, 종래 감시/탐사 용도에서 작전 페이로드 운반으로 활용 범위 확대<br>• ISO 컨테이너 규격 준수로 인한 '운송-배치-작전' 통합 시스템화는 해상 무인체계의 신개념 운영 방식 제시<br>• 다중역할 플랫폼(strike/logistics/interception/drone carrier) 설계로 함정 및 해양시스템의 전통적 기능이 무인화·소형화되는 산업 패러다임 변화 의미<br>• IMO 및 국제 해양 규범 체계에서 군용 자율수중차량의 운영 기준·식별·규제 방안 마련 시급</p></div>`,
+      tags: ["autonomous underwater vehicle","XLUUV","Ukraine","maritime technology","defense"],
+      link: "https://www.navalnews.com/naval-news/2026/video-ukraines-massive-new-underwater-drone-sea-trident-st-1000/",
+      coords: [2.3522,48.8566],
+      location: "Paris, France"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-29
+addEvents({
+  "2026-06-29": [
+    {
+      type: "news",
+      title: "Royal Navy Abandons Type 83 Destroyer for New Hybrid Warships with Autonomous Drone Networks",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-06-29",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 영국 해군이 재래식 차기 구축함(Type 83) 개발 계획을 포기하고 자율운영 무인드론 네트워크 지휘 능력을 갖춘 새로운 하이브리드 전투함 6척 이상 발주 결정<br>• 신규 함급 명칭은 'Common Combat Vessel'로, 공중·해상·수중 영역의 자율무인체계를 통합 지휘할 수 있도록 설계<br>• 기존 Type 45 구축함의 재래식 후속함 개발에서 벗어나 자율화·네트워크 중심의 전투체계로 패러다임 전환<br>• 영국 국방 저널의 보도에 따른 정책 결정으로, 향후 해군 함정 설계의 자율운영 우선화 추세 반영<br>• 다중 도메인(Multi-Domain) 자율드론 운영 능력이 차기 해군 전력의 핵심 요소로 부상</p><h3>Key Quotes</h3><p>• "Britain has abandoned plans to build a conventional successor to its Type 45 destroyers, instead ordering at least six new warships designed to command networks of autonomous drones across the air, surface, and subsurface" <br>(영국은 재래식 Type 45 구축함 후속함 건조 계획을 포기하고 공중·해상·수중 자율드론 네트워크를 지휘할 수 있는 신규 전투함 6척 이상 발주로 전환했다)</p><p>• "The new class, called the Common Combat Vessel, will be the Royal Navy's first hybrid"<br>(Common Combat Vessel이라 명명된 신규 함급은 영국 해군 최초의 하이브리드 전투함이 될 것이다)</p><h3>Technical Insights</h3><p>• **자율드론 네트워크 지휘통제**: 공중·해상·수중 다층 자율무인체계의 통합 지휘 능력은 해양 도메인 인식(Maritime Domain Awareness)과 협력적 자율운영(Collaborative Autonomy) 기술의 고도화를 의미하며, IMO 자율선박 규제 논의와는 별개로 군사 분야에서의 자율화 가속화 신호</p><p>• **함정 설계 패러다임의 근본적 변화**: 기존 재래식 구축함 중심에서 벗어나 모함(Mothership) 개념으로 무인체계를 관리하는 하이브리드 아키텍처로 전환하며, 향후 상선의 자율운영 기술 발전에 영향을 미칠 가능성</p><p>• **산업 표준화 및 국제 해양안전 영향**: 민간 해운의 자율선박 개발과 군사 자율화의 병행 진행으로, COLREG 해상충돌방지규칙 개정 및 자율선박 성능기준(MASS Code) 논의의 가속화 예상</p><p>• **영국 해양 전력 우위 전략**: 6척 이상의 Common Combat Vessel 도입으로 AI·자율화 기반 해양 네트워크 전력 확보, 차세대 해양 안보 전략의 기술 주도권 확보 시도</p></div>`,
+      tags: ["Autonomous vessels","Naval defense","Royal Navy","Common Combat Vessel","Drone networks","Hybrid warships"],
+      link: "https://defence-blog.com/royal-navy-abandons-type-83-destroyer-for-new-hybrid-warships/",
+      coords: [-2.2426,51.5074],
+      location: "United Kingdom"
+    }
+  ]
+});
