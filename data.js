@@ -10463,3 +10463,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-06-30
+addEvents({
+  "2026-06-30": [
+    {
+      type: "news",
+      title: "Anti-Drone Warfare: The Missing Tier in Maritime Defence Architecture",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-06-30",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-23-at-15.32.12.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 자율 편도 공격(OWA) 드론의 확산으로 해양 방어 체계에 새로운 공백이 발생했으며, 기존의 재래식 방공 체계와 상업용 무인기 방어(C-UAS) 체계로는 대응 불가능</p><p>• 100~850kg급의 중간 규모 자율형 무인 공격 시스템은 낮은 레이더 단면적, 저가 대량생산성, 높은 살보(salvo) 능력으로 기존 방어 아키텍처를 포화시키는 새로운 위협 클래스 형성</p><p>• 해군 방어 전문가들은 3계층 프레임워크(Tier 1: 20kg 이하 소형 드론, Tier 2: 100~850kg OWA 드론, Tier 3: 유인기·미사일·대형 군용 UAV)로 위협을 재분류해야 하며, 각 계층별 맞춤형 방어 체계 구축 필요</p><p>• 2016~2017년 이스라엘 작전과 2020년 나고르노-카라바흐 분쟁, 2022년 우크라이나 전쟁에서 저가 OWA 드론의 운용 효율성이 입증되었으나, 국방 계획자들은 여전히 이를 기존 위협 범주로 오분류하고 있음</p><p>• Anti-Drone Warfare(ADW)는 고유한 위협 물리학, 교전 경제학, 플랫폼 요구사항을 가진 독립적인 작전 영역이며, 육상 기반 시스템만으로는 해양 환경의 방어 공백을 메울 수 없음</p><p>• 통일된 ADW 아키텍처는 각 계층별 목적 기반 능력(purpose-built capability)을 요구하며, 단일 시스템으로 3계층을 모두 대응하려는 시도는 예산 낭비 또는 효율성 저하 초래</p><h3>Key Quotes</h3><p>• "Anti-Drone Warfare (ADW) is neither conventional air defence nor C-UAS. It is a distinct operational domain — with unique threat physics, unique engagement economics, and unique platform requirements." (ADW는 재래식 방공도 아니고 C-UAS도 아닌, 고유한 위협 물리학과 교전 경제학, 플랫폼 요구사항을 가진 독립적 작전 영역)</p><p>• "Defenders were applying the wrong conceptual framework to a new class of weapon, and that error persists today, particularly at sea." (방어자들이 새로운 무기 클래스에 잘못된 개념적 틀을 적용했으며, 이러한 오류는 특히 해상에서 현재까지 지속되고 있음)</p><p>• "No single system addresses all three tiers. A system built for Tier 1 is overwhelmed by Tier 2 volume; a system built for Tier 3 will bankrupt any budget applied against it." (단일 시스템이 3계층을 모두 대응할 수 없으며, Tier 1용 시스템은 Tier 2의 대량 살보에 압도당하고, Tier 3용 시스템은 모든 예산을 소진시킴)</p><h3>Technical Insights</h3><p>• 3계층 위협 분류 프레임워크는 IMO와 국제 해사 방어 표준 개발에 중요한 기준이 될 수 있으며, 각 계층별 탐지·추적·요격 체계의 기술 스펙을 명확히 하는 데 기여</p><p>• OWA 드론의 GNSS 거부(denial) 저항성 및 대량 살보 능력은 현재의 이더넷 기반 함정 통합 방어 체계(IBDS)의 데이터 처리 용량과 의사결정 속도를 초과할 수 있으며, AI 기반 자동 감시·추적·조준 시스템의 도입 시급</p><p>• 해양 환경의 구조적 한계(광활한 해역, 육상 기반 시스템의 제한된 사정거리)로 인해 함정 자체의 자율형 방어 시스템과 분산형 네트워크 중심 방위(Network-Centric Warfare) 개념이 필수적이며, 현재의 해군 전력 구성에 획기적</p></div>`,
+      tags: ["Anti-Drone Warfare","Maritime Defence","Autonomous Systems","Naval Strategy"],
+      link: "https://www.navalnews.com/naval-news/2026/06/anti-drone-warfare-the-missing-tier-in-maritime-defence-architecture/",
+      coords: [0,0],
+      location: "Global Maritime"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-26
+addEvents({
+  "2026-06-26": [
+    {
+      type: "news",
+      title: "Ukraine's Sea Trident ST-1000: Extra-Large Uncrewed Underwater Vehicle Unveiled",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-06-26",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/06/Sea-Trident-ST-1000-scaled.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 우크라이나의 Global Mark사가 파리 Eurosatory 2026 국방 전시회에서 초대형 무인수중차량(XLUUV) "Sea Trident ST-1000"을 공개했으며, 이는 드론 및 전자전 시스템 전문 기업의 수중 플랫폼 진출을 의미함</p><p>• Sea Trident ST-1000은 1,000kg의 페이로드 운반 능력, 수심 5미터 이상 운영 가능, ISO 표준 컨테이너에 적재 가능한 소형 강철 선체 구조의 다중 임무 수행 플랫폼</p><p>• 자살 공격, 물류 배송, 적대 무인수중차량 요격 및 중립화, FPV 드론 탑재 등 4가지 주요 임무 프로필 설계</p><p>• 저탐지성(Low Observability), 완전 자동화 능력, 비대칭 해상 작전 최적화로 현대적 해전 전술 요구사항 충족</p><p>• 해상 물류 및 전략 목표물 타격을 위한 장거리 자율 운영 능력으로 미래형 무인 해상 플랫폼 기술 수준 제시</p><h3>Key Quotes</h3><p>• "Sea Trident is an autonomous underwater vehicle designed for long range missions in maritime environments capable of delivering payloads of up to 1,000 kg to strategic targets" (Sea Trident는 전략적 목표물에 최대 1,000kg의 페이로드를 운반할 수 있는 해양 환경에서의 장거리 임무용 자율 수중차량)</p><p>• "Low detectability and subsurface movement capability at depths up to 5 meters support covert ingress to contested maritime areas" (저탐지성과 수심 5미터 이상의 수중 운동 능력으로 분쟁 해역으로의 은폐 침투 지원)</p><h3>Technical Insights</h3><p>• **자율 수중차량의 다중 임무 플랫폼화**: 기존 단일 목적 UUV에서 벗어나 자살 공격, 물류, 방어 임무를 통합 수행하는 다목적 플랫폼으로 설계되어 미래 수중 작전의 효율성 증대</p><p>• **저탐지성 설계의 해전 시사점**: 스텔스 기술을 수중 플랫폼에 적용하여 기존의 소나 기반 방어 체계의 대응 난제를 야기하며, IMO 규정 외 해역에서의 자율 운영으로 국제 해상법의 새로운 해석 요구</p><p>• **해상 물류와 방위 기술의 융합**: ISO 표준 컨테이너 호환성으로 민간 해운 인프라 활용 가능성을 열어 상선 자동화 기술과 군사 자율 수중차량 기술의 경계 모호화</p><p>• **플랫폼 제조 기술의 글로벌 확산**: 드론 강국 우크라이나의 수중 플랫폼 개발로 자율 해상 무기체계 기술의 확산 추세 가속화 및 해상 안보 환경의 질적 변화 초래</p></div>`,
+      tags: ["Autonomous Underwater Vehicle","XLUUV","Ukraine","Defense Technology","Eurosatory 2026"],
+      link: "https://www.navalnews.com/naval-news/2026/video-ukraines-massive-new-underwater-drone-sea-trident-st-1000/",
+      coords: [2.3522,48.8566],
+      location: "Paris, France"
+    }
+  ]
+});
+
+// Auto-collected: 2026-06-29
+addEvents({
+  "2026-06-29": [
+    {
+      type: "news",
+      title: "SBM Offshore Orders 13th Multi-Purpose Floater Hull for FPSO Fleet Expansion",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-06-29",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/03/Fast4Ward-SBM-Offshore.jpg?image-crop-positioner-ts=1773765098",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• SBM Offshore가 중국 국영조선 CSSC 산하의 Shanghai Waigaoqiao Shipbuilding과의 계약으로 7번째 Fast4Ward 다목적 부유식 플랫폼(MPF7) 건조 발주</p><p>• 해당 선박은 최대 230만 배럴의 원유 저장 용량을 갖춘 FPSO(부유식 생산·저장·적재선)로, 다양한 해상 환경에 적응 가능한 표준화된 설계 적용</p><p>• 현재까지 총 13개의 MPF 선체가 발주되었으며, 각 프로젝트를 통해 실행 리스크 저감 및 품질·생산성 개선</p><p>• SBM Offshore는 최근 Nippon Yusen Kabushiki Kaisha와의 주주 협약으로 멕시코만 운영 FSO Chalchi 특수목적사 45% 지분 양도 추진</p><p>• 업계의 강한 수요 전망과 전략적 파트너십을 통한 표준화 전략으로 경쟁력 강화</p><h3>Key Quotes</h3><p>• "This contract award reflects the robust market outlook and demonstrates how SBM leverages standardization and strategic partnerships for strong competitive positioning." <br>(본 계약 수주는 견고한 시장 전망을 반영하며, SBM이 표준화와 전략적 파트너십을 통해 경쟁력을 강화하는 방식을 보여줌)</p><p>• "As this represents our 7th FPSO hull project for SBM, our team is fully committed to leveraging our premier shipbuilding capabilities and lean management principles to deliver this vessel with the highest quality, safety, and environmental standards."<br>(SBM을 위한 7번째 FPSO 선체 프로젝트이므로, 당사 팀은 최고의 조선 능력과 린 경영 원칙을 활용하여 최상의 품질, 안전, 환경 기준으로 선박을 인도할 것에 전념)</p><h3>Technical Insights</h3><p>• FPSO 플랫폼의 표준화 설계(Fast4Ward) 도입으로 건조 기간 단축, 비용 효율화, 품질 일관성 확보 가능</p><p>• 최대 240명 수용 가능한 거주 시설과 국제 해양 산업 표준 준수로 선원 안전성 및 환경 보호 강화</p><p>• 13개 선체 발주 누적으로 인한 설계 최적화 및 생산 노하우 축적이 차세대 FPSO 건조의 리스크 감소 및 효율성 향상에 기여</p><p>• 중국 조선소(CSSC 산하)와의 전략적 파트너십 강화로 글로벌 FPSO 시장에서의 원가 경쟁력 및 공급 안정성 확보</p></div>`,
+      tags: ["FPSO","Floating Production Storage Offloading","SBM Offshore","Shipbuilding"],
+      link: "https://www.offshore-energy.biz/sbm-offshore-places-order-for-13th-multi-purpose-floater-hull-to-bolster-its-fpso-fleet/",
+      coords: [4.8952,52.3702],
+      location: "Netherlands (SBM Offshore HQ)"
+    }
+  ]
+});
