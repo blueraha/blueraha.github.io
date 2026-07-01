@@ -10519,3 +10519,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-01
+addEvents({
+  "2026-07-01": [
+    {
+      type: "news",
+      title: "EUROGUARD M-SASV Project Completes Critical Design Review, Presents 45m Semi-Autonomous Prototype Hull",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-07-01",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/06/Euroguard-M-SASV.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **EUROGUARD 프로젝트의 중대 설계 검토(CDR) 완료**: 유럽방위기금(EDF)의 €95백만 규모 EUROGUARD 프로그램이 2026년 5월 21일 에스토니아 발트틱 조선소에서 중대 설계 검토를 성공적으로 완료했으며, 이는 설계 단계에서 실제 운영 단계로의 전환을 의미함</p><p>• **45미터 반자율 모듈식 시연함 선체 공개**: 에스토니아 나스바(Nasva) 조선소에서 프로토타입 함정 선체가 처음으로 공개되었으며, 가상 시스템 시연과 함께 컨소시엄 파트너 및 참여국 대표들이 참석</p><p>• **2027년 완성 목표의 해상 시험 예정**: 프로젝트는 2027년 말 완료 예정이며, 에스토니아 해역에서 에스토니아 해군과의 협력을 통해 해상 시험이 실시될 예정</p><p>• **다양한 해군 임무 수행 능력**: 감시/정찰, 기뢰 소해, 무인기 운영, 수색 및 구조 등 다목적 모듈식 페이로드를 탑재하여 여러 해양 작전을 수행할 수 있도록 설계됨</p><p>• **유럽 해양 안보 역량 강화**: 빠르고 유연한 해양 대응 능력이 필요한 현대적 요구에 대응하여 EU 해군 함정 간 조율된 작전을 가능하게 하는 첨단 유럽 기술 통합</p><h3>Key Quotes</h3><p>• "The Critical Design Review confirms that the EUROGUARD system is moving from design to operational reality" (EUROGUARD 시스템이 설계 단계에서 실제 운영 현실로 전환되고 있음을 확인)</p><p>• "It reflects strong European cooperation in delivering next-generation maritime defence capabilities" (다음 세대 해양 방위 능력 제공을 위한 강력한 유럽 협력을 반영)</p><h3>Technical Insights</h3><p>• **반자율 운영 기술의 상용화**: EUROGUARD의 45미터 반자율 모듈식 함정은 원격 제어 시스템과 지속 가능한 추진 기술을 통합하여 미래 해군 작전의 자동화 수준을 높이고 있음</p><p>• **모듈식 페이로드 통합 설계**: 감시, 기뢰 소해, 무인기 운영 등 다양한 임무를 수행할 수 있도록 모듈식 구조를 채택함으로써 플랫폼 다목적성과 비용 효율성을 동시에 달성</p><p>• **유럽 국방 기술 기반 강화**: EDF 자금지원(€65백만)과 참여국 및 산업 자금(€30백만)이 결합되어 유럽의 방위 기술 및 산업 기반을 강화하고 해양 보안 능력을 향상시키는 전략적 효과 창출</p></div>`,
+      tags: ["autonomous vessels","EUROGUARD","European Defence Fund","semi-autonomous surface vehicle","naval innovation"],
+      link: "https://www.navalnews.com/naval-news/2026/07/euroguard-m-sasv-project-moves-from-design-to-reality-with-hull-presentation/",
+      coords: [59.3667,58.35],
+      location: "Nasva, Estonia"
+    }
+  ]
+});
