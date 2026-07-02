@@ -10583,3 +10583,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-01
+addEvents({
+  "2026-07-01": [
+    {
+      type: "news",
+      title: "Shenzhen Port and Bureau Veritas partner for green shipping corridor development",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-07-01",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/07/Shenzhen-Port-and-Bureau-Veritas-partner-up-for-green-shipping-corridor-development-1024x683.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 션천항만그룹과 뷰로베리타스 해양·해상부문이 녹색해운회랑(Green Shipping Corridor) 개발을 위한 전략적 협력협약 체결<br>• 국제 해운 탈탄소화를 위한 산업 가치사슬 전반의 협력 강화 및 국내·국제 표준 정렬 추진<br>• 뷰로베리타스의 기술서비스 및 표준설정 전문성과 션천항만의 다양한 산업적용 시나리오 결합<br>• 저탄소 해상무역 실현을 위한 실행 가능한 정책 방안 개발 및 규제 정책 대응 지원<br>• 상호이익과 강점의 상보성을 통한 가치 극대화 추구</p><h3>Key Quotes</h3><p>• "Global decarbonization of the shipping industry requires concerted efforts and in-depth collaboration across the entire industrial value chain." (해운산업의 글로벌 탈탄소화는 전체 산업 가치사슬에 걸친 협력 노력이 필수적)</p><p>• "We hope this collaboration will serve as a catalyst to align domestic and international standards and jointly develop viable pathways for low-carbon maritime trade." (이번 협력이 국내·국제 표준 정렬 및 저탄소 해상무역 경로 개발의 촉매가 되기를 기대)</p><h3>Technical Insights</h3><p>• 해운산업의 IMO 2030/2050 탈탄소 규제 강화에 대응하기 위한 항만-기술검증기관 간 협력 모델 확산 필요<br>• 녹색해운회랑(Green Shipping Corridor) 구축을 통한 저탄소 선박, 연료, 운영 기술의 통합 검증 및 표준화 체계 구축<br>• 국제 규제 기준(EEDI, CII 등)의 실행 가능성 검증 및 개발도상국 항만의 탈탄소 기술 도입 촉진 효과<br>• 자율운항선박과 연계한 스마트 그린포트 인프라 구축으로 해운 산업 전체의 탄소중립 달성 경로 제시</p></div>`,
+      tags: ["Green Shipping","Decarbonization","Port Partnership","Sustainability"],
+      link: "https://www.offshore-energy.biz/shenzhen-port-and-bureau-veritas-partner-up-for-green-shipping-corridor-development/",
+      coords: [114.0089,22.5431],
+      location: "Shenzhen, China"
+    },
+    {
+      type: "news",
+      title: "Oceaneering's Upgraded Ocean Intervention II Vessel Launches Multi-Discipline Offshore Survey Campaign",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-07-01",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/07/Recently-upgraded-Oceaneering-vessel-starts-cross-regional-offshore-survey-campaign.jpg?image-crop-positioner-ts=1782889721",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Oceaneering의 Ocean Intervention II(OI2) 77m 연구선이 2025년 업그레이드 완료 후 트리니다드와 미국 걸프만에서 6개월 규모의 다층 해양조사 캠페인 시작<br>• 자율수중차량(AUV), 지진탐사, 해저지반조사 등 통합조사 서비스를 단일 선박에서 동시 수행하는 혁신적 운영 모델 도입<br>• 트리니다드 지역에서는 2D/3D 지진탐사, 초고해상도 해저지도작성, 지반샘플링 등 약 4개월 작업 예정<br>• 미국 걸프만에서는 지반조사, AUV 블록조사, 파이프라인 검사 등 약 2개월 작업 예정<br>• 단일 선박 통합운영으로 동시다중작업 가능, 선박동원 횟수 감소, 해상노출 시간 단축으로 배출량 감소 실현</p><h3>Key Quotes</h3><p>• "We appreciate our customers' trust in our ability to deliver reliable, integrated survey operations tailored to their project needs. By consolidating multiple survey scopes onto a single vessel and crew, OI2 supports single-pass and simultaneous operations that reduce campaign duration, minimize mobilizations, and shorten offshore exposure—improving efficiency and lowering overall emissions compared to traditional multi-vessel survey programs." (여러 조사 영역을 단일 선박과 승무원에 통합함으로써 단일 통과 및 동시 작업을 지원하며, 기존 다중선박 운영 대비 캠페인 기간 단축, 동원 최소화, 해상노출 감소로 효율성 증대 및 배출량 감소 실현)</p><h3>Technical Insights</h3><p>• 2025년 완료된 OI2의 주요 업그레이드는 자율수중차량(AUV)의 전용 발진/회수 시스템, 현대화된 데이터 인프라 구축으로 AUV 운영 효율성 극대화<br>• AUV를 심해역, 견인식 지진탐사를 얕은 수심에 배치하는 차별화된 자율화 전략으로 비용효율성 및 환경성능 동시 개선<br>• 단일 선박에서 지구물리, 지반공학, 자율조사 등 다층 학제적 조사를 통합함으로써 해양조사 산업의 디지털화 및 자동화 추세 선도<br>• 선박 동원 횟수 감소와 해상노출 시간 단축은 IMO 온실가스 감축 규제(CII 등) 대응과 선사의 ESG 요구 충족의 실질적 사례</p></div>`,
+      tags: ["Autonomous Underwater Vehicle","Offshore Survey","Vessel Upgrade","AUV Operations"],
+      link: "https://www.offshore-energy.biz/recently-upgraded-oceaneering-vessel-starts-cross-regional-offshore-survey-campaign/",
+      coords: [0,0],
+      location: "Trinidad and U.S. Gulf of Mexico"
+    }
+  ]
+});
