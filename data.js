@@ -10539,3 +10539,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-01
+addEvents({
+  "2026-07-01": [
+    {
+      type: "accident",
+      title: "Foreign Container Ship Runs Aground in Strait of Hormuz via Unauthorized Route",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-07-01",
+      image: "https://gcaptain.com/wp-content/uploads/2026/06/2026-06-21T113312Z_986150390_RC25YLAX1ZOM_RTRMADP_3_IRAN-CRISIS-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이란 호르무즈 해협에서 외국 화물선이 "미승인" 항로를 통해 운항 중 좌초 사고 발생 - 선박 신원 미공개<br>• 이란 혁명수비대 해군(IRGC-N)은 해협 통과 선박들에게 반복적으로 경고를 발령했으며, 승인된 항로 외 운항 시 "되돌릴 수 없는 결과" 초래 가능성 경고<br>• 영국 해운 거래 센터(UKMTC)는 해당 시간 기준 공식 사건 보고 없음 - 이란 단독 주장 상황<br>• 이란은 2월 미-이스라엘 전쟁 이후 해협 통행료 부과 및 이란 해안에 더 가까운 항로 강제를 통해 해운 통제권 행사 중<br>• 최근 미국-이란 잠정 평화협상 체결 이후 통행량 증가했으나, 이란은 해협 통제권 유지 의도 표명</p><h3>Key Quotes</h3><p>• "The Islamic Revolutionary Guard Corps Navy has repeatedly warned ship captains, owners and officials of global shipping companies that any entry or exit via routes other than the authorized one in the Persian Gulf could lead to irreparable consequences." <br>(이란 혁명수비대 해군이 해협 통과 선박들에게 승인된 항로 이외 운항 시 돌이킬 수 없는 결과 초래 가능성을 반복 경고했음)</p><p>• "Iran has sought to control shipping traffic through the waterway since the start of the war with the US and Israel in late February, demanding fees from ships seeking to transit and ordering them to use a route that's closer to its shore."<br>(이란은 미-이스라엘 전쟁 이후 해협 통행료 부과 및 통제된 항로 강제를 통해 해운 통제권 확대)</p><h3>Technical Insights</h3><p>• **호르무즈 해협 항로 통제 강화**: 이란의 "승인된 항로" 강제 운영은 국제 해양법(UNCLOS, COLREG)상 국제 해협의 자유로운 통행권과 상충되며, 해운 안전 및 효율성 저하 야기<br>• **지정 항로의 해상 안전 위험성**: 이란이 강제하는 이란 해안 근처 항로는 충돌 위험, 좌초 가능성 증가로 인한 해운사 피해 위험 증가<br>• **자율운항선박(ASVs) 도입의 시급성**: 분쟁 해역 통과 시 인적 오류 감소, 실시간 항로 최적화 및 국제 규정 준수 자동화로 정치적 분쟁으로 인한 사고 예방 필요<br>• **IMO 규정 vs. 지역 강제**: 국제 해사기구의 선박 항로 자유 원칙과 이란의 일방적 통제 명령 간 규제 충돌로 인한 국제 해운 체계 불안정화</p></div>`,
+      tags: ["Grounding","Strait of Hormuz","Container Ship","Iran","Navigation Incident"],
+      link: "https://gcaptain.com/iran-says-ship-ran-aground-in-unauthorized-hormuz-transit/",
+      coords: [56.2667,27.1833],
+      location: "Strait of Hormuz, Iran (Bandar Abbas area)"
+    },
+    {
+      type: "news",
+      title: "U.S. Coast Guard Issues Notice on Unmanned Vessel Operations in West Coast Ports",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-01",
+      image: "https://images.marinelink.com/images/maritime/w800/copyright-marinelincom-171909.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 미 해안경비대(USCG)가 서부 주요 항구 접근 지역에서 사전 조율 없이 무인 해상 시스템(UMS) 운영을 적발함<br>• 원격 조종 및 자율 운항 선박을 포함한 무인 시스템이 해사 운송 시스템(MTS) 전역에서 급속도로 확대 중<br>• 사전 조율 부재 시 항해, 통신, 운영 위험이 증대되어 해상 교통 안전이 위협받음<br>• 해안경비대는 무인/자율 시스템의 안전하고 책임감 있는 발전과 통합을 지원하는 입장<br>• 조기 조율, 운영 투명성, 해상 도메인 인식 공유가 안전한 운영 확보의 필수 요소</p><h3>Key Quotes</h3><br>• "The lack of advance notification reduces maritime domain awareness and limits the USCG's ability to effectively assess operational risk" (사전 통보 부재로 해상 도메인 인식이 감소하고 USCG의 운영 위험 평가 능력이 제한됨)<br>• "Early coordination, operational transparency, and shared maritime domain awareness are essential to ensuring these operations are conducted safely" (조기 조율, 운영 투명성, 해상 도메인 인식 공유는 안전한 운영을 보장하기 위한 필수 요소)</p><h3>Technical Insights</h3><br>• COLREG/IMO 국제 규정 준수: 무인 선박의 자율 운항 시 국제 해양 충돌 회피 규칙(COLREG) 준수 및 IMO 국제 기준 충족 필요성이 대두됨<br>• 해상 도메인 인식(Maritime Domain Awareness, MDA) 강화: 무인 시스템 운영자와 항만청 간 실시간 정보 공유 시스템 구축으로 충돌 위험 및 해양 안전사고 예방 필요<br>• 규제 체계 정립: 무인 선박의 급속한 확대에 따라 각국 해안경비대 및 해양청이 운영 기준, 신고 절차, 보험 책임 등을 명확히 규정해야 하는 산업 과제</p></div>`,
+      tags: ["Autonomous Ships","Unmanned Vessels","Regulatory Compliance","Maritime Safety"],
+      link: "https://www.marinelink.com/news/coast-guard-issues-notice-unmanned-540848",
+      coords: [-120.5,47.5],
+      location: "U.S. West Coast (Port Approaches)"
+    },
+    {
+      type: "news",
+      title: "Greensea IQ Wins $18M Navy Contract for Autonomous Underwater Systems",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-01",
+      image: "https://images.marinelink.com/images/maritime/w800/bayonet-underwater-171904.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **그린시 아이큐(Greensea IQ)가 미 해군으로부터 무인 수중 시스템 운영을 위한 $18,154,710 규모의 7년 계약 수주**<br>  - 해군 정보전센터(Naval Information Warfare Center Pacific, San Diego)에서 발주한 독점 IDIQ 계약(Indefinite-Delivery/Indefinite-Quantity)</p><p>• **베이오넷 수중 컨트롤러(BUC)와 EOD 워크스페이스 소프트웨어를 중심으로 한 통합 제품군 제공**<br>  - 자율수중지상차량(AUGV), 원격 항법 패키지, 임무 실행 소프트웨어, 훈련 시뮬레이터 포함</p><p>• **특수전(Special Warfare), 폭발물 제거(EOD), 기타 민감한 수중 작전용 첨단 플랫폼 공급**<br>  - 표층 작전부터 심해 작전까지 광범위한 환경에서 운영 가능한 확장성 있는 기술 스택</p><p>• **그린시 아이큐의 코어 개방형 아키텍처 소프트웨어 기반으로 건설된 성숙도 높은 로봇 플랫폼**<br>  - 방위군의 자신감 있는 파트너로서 위상 강화</p><h3>Key Quotes</h3><p>• "Greensea makes some of the industry's most mature robotic platforms and software suites. The Bayonet portfolio is making defense forces more capable in addressing critical challenges across a broad spectrum of the operational environment."<br>  (그린시는 업계에서 가장 성숙한 로봇 플랫폼과 소프트웨어 제품군을 제공하며, 베이오넷 포트폴리오는 방위군이 광범위한 작전 환경의 중요 과제에 대응할 수 있게 한다.)</p><p>• "The BUC will be an essential component for warfighters conducting Special Warfare, Explosive Ordnance Disposal (EOD), and other sensitive underwater operations."<br>  (베이오넷 수중 컨트롤러는 특수전, 폭발물 제거, 기타 민감한 수중 작전을 수행하는 전투원에게 필수적인 구성 요소가 될 것이다.)</p><h3>Technical Insights</h3><p>• **자율수중차량(AUV/AUGV) 기술의 국방 응용 가속화**: 표층에서 심해까지 다양한 수심에서 작동 가능한 멀티미션 플랫폼 개발로 해양 방위 능력의 차별화 추진</p><p>• **개방형 아키텍처(Open Architecture) 소프트웨어 표준화의 국방 부문 확대**: 그린시 IQ의 Core 플랫폼 기반 BUC 및 EOD 워크스페이스 통합으로 상호운용성 및 확장성 강화</p><p>• **원격 조종 및 자율 네비게이션의 군사적 활용 고도화**: 특수전/EOD 임무에서 안전성 및 효율성 증대를 통해 인명 손실 최소화 및 미션 성공률 향상</p><p>• **7년 독점 계약의 의미**: 미 해군의 수중 로봇 솔루션 생태계에서 그린시의 기술 우월성 인정 및 향후 해양 자율 시스템 표준 선도 위치 확보</p></div>`,
+      tags: ["autonomous underwater vehicles","defense technology","subsea robotics","Navy contract","EOD systems"],
+      link: "https://www.marinelink.com/news/greensea-iq-wins-m-navy-contract-540844",
+      coords: [-117.1611,32.7157],
+      location: "San Diego, California"
+    }
+  ]
+});
