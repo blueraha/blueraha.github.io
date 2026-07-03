@@ -10659,3 +10659,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-02
+addEvents({
+  "2026-07-02": [
+    {
+      type: "news",
+      title: "SILICON Publishes Whitepaper on Maritime Welding Shortage and Automation Solutions",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-02",
+      image: "https://images.marinelink.com/images/maritime/w800/silicon-171942.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• SILICON이 해양 산업의 용접공 부족 문제를 해결하기 위한 자동화 및 디지털 용접 기술에 관한 백서 발표<br>• 미국만 2028년까지 약 33만 명의 용접사 부족이 예상되며, 전 세계 조선소가 동일한 노동력 문제 직면<br>• 기술 자동화와 디지털화를 통해 숙련 노동력 의존도를 감소시키고 생산성 및 일관성 향상 가능성 제시<br>• 경험 많은 용접사의 은퇴와 신규 인력 유입 감소로 인해 산업 생산성 유지 및 복잡한 선박 프로젝트 완성 어려움<br>• 조선소의 현대화 생산 방식 도입이 산업의 긴급 과제로 대두</p><h3>Key Quotes</h3><p>• "The global shortage of skilled welders is placing increasing pressure on shipyards worldwide." (전 세계 용접 숙련인력의 부족이 조선소들에 지속적인 압력을 가하고 있다)<br>• "the United States alone is expected to face a shortage of approximately 330,000 welders by 2028" (미국만 2028년까지 약 33만 명의 용접사 부족을 겪을 것으로 예상)</p><h3>Technical Insights</h3><p>• **자동화 용접 기술 도입**: Rapid Arc Welding 등 디지털 용접 기술을 통해 숙련도 의존도 감소 및 작업 일관성 향상 가능<br>• **산업 인력 위기 대응**: 해양 산업의 심각한 노동력 부족 문제 해결을 위해 기술 기반 솔루션이 필수적이며, 조선소의 경쟁력 강화 요인<br>• **생산성 향상 메커니즘**: 자동화 기술 도입으로 숙련도가 낮은 인력도 고품질 작업 수행 가능하게 하여 산업 전체의 생산성 제고</p></div>`,
+      tags: ["Maritime Welding","Labor Shortage","Automation Technology","Shipyard Productivity"],
+      link: "https://www.marinelink.com/news/silicon-publishes-whitepaper-maritime-540892",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "Venezuelan Port of La Guaira Shuttered Following Major Earthquake; Humanitarian Operations Underway",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-07-02",
+      image: "https://maritime-executive.com/media/images/article/La-Guaira-Venezuela-USS-Fort-Lauderdale-June-28-2026-USMC.f5a543.webp",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 베네수엘라 중앙 해안지역의 대규모 지진으로 라과이라 항구가 상업 운영 중단 상태 지속 중<br>• Maersk, CMA CGM 등 주요 컨테이너 선사들이 라과이라 항구 서비스 중단 및 노선 변경 조치 실시<br>• 항구의 물리적 접근은 가능하나 라과이라 컨테이너 터미널의 구조적 손상으로 상업 운영 재개 미승인 상태<br>• 공급선 USS Fort Lauderdale과 멕시코 해군 구호선의 인도주의 지원 물자 공급 활동 진행 중<br>• 항구 부두가 임시 재난대응 센터로 전환되어 야전병원, 구호 물자 배분, 임시 영안실 운영 중<br>• 공식 사망자 약 1,700명, 실제 사망자는 이보다 훨씬 많을 것으로 추정되며 수만 명이 실종 상태</p><h3>Key Quotes</h3><p>• "Commercial operations at the Port of La Guaira have not yet been authorized to resume. As a result, import and export shipments through this terminal remain suspended until further notice" (라과이라 항구의 상업 운영은 아직 재개 승인이 내려지지 않았으며, 따라서 이 터미널을 통한 수입 및 수출 선적이 추가 공지 때까지 중단된 상태)</p><p>• "CMA CGM reports that structural damage has rendered the La Guaira Container Terminal inoperable for the time being" (구조적 손상으로 인해 라과이라 컨테이너 터미널이 현재 운영 불가능한 상태)</p><h3>Technical Insights</h3><p>• 자연재해로 인한 항구 폐쇄 시 글로벌 컨테이너 해운 네트워크에 미치는 영향 - Maersk의 대체 노선(Puerto Cabello) 운영과 선적 재조정 전략 필요성 강조<br>• 해사 운송 중단 시 인도주의적 선박(USS Fort Lauderdale 등) 우선 입항 체계와 상업 운영의 구분 필요 - IMO의 긴급 해상 안전 프로토콜과의 연계 중요성<br>• 항구 기반시설 피해 평가 및 안전성 검증 절차 완료 후에만 상업 운영 재개 가능 - 해양 터미널의 구조적 안전성 검증 기준의 국제적 표준화 필요</p></div>`,
+      tags: ["Port Operations","La Guaira","Venezuela","Earthquake","Humanitarian Response"],
+      link: "https://maritime-executive.com/article/venezuelan-port-remains-shuttered-as-quake-continues",
+      coords: [-66.9314,10.6122],
+      location: "La Guaira, Venezuela"
+    }
+  ]
+});
