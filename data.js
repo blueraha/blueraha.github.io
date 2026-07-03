@@ -10615,3 +10615,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-02
+addEvents({
+  "2026-07-02": [
+    {
+      type: "news",
+      title: "Saronic Launches 52-Foot 'Mirage' Autonomous Vessel as Production Ramps Up",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-07-02",
+      image: "https://gcaptain.com/wp-content/uploads/2026/07/Mirage-Saronic-Launch-2.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Saronic가 52피트 무인 표면함정 'Mirage' 출시, 자율 항행 플랫폼 라인업 확대<br>• Corsair(24피트)과 Marauder(180피트) 사이의 중형 플랫폼으로, 설계부터 진수까지 1년 미만 소요<br>• 35노트 이상 최고속력, 2,500해리 이상 항속거리, 3,500파운드 탑재량 보유<br>• 해양 도메인 인식(Maritime Domain Awareness), 해양 보안, 탐지 미션에 활용 목표<br>• Saronic이 연간 수백 척의 Mirage와 수천 척의 Corsair 건조 가능한 생산 능력 보유<br>• 4월 Series D 펀딩 17.5억 달러 조달로 92.5억 달러 기업 가치 평가, 자율함정 산업의 급속 성장 입증</p><h3>Key Quotes</h3><br>• "We launched our first Marauder four weeks ago, and today we're putting another vessel in the water. This cadence is what our production model was built to deliver," (4주 전 첫 Marauder 진수에 이어 오늘 또 다른 함정을 물에 내릴 수 있는 것이 우리 생산 모델이 추구하는 속도)<br>• "Mirage is designed as a dual-use autonomous surface vessel capable of operating either fully autonomously or under remote human supervision through Saronic's Echelon command-and-control system" (Mirage는 완전 자율 운영 또는 Echelon 명령통제 시스템을 통한 원격 인간 감시 하에서 운영 가능한 이중용도 무인함정)</p><h3>Technical Insights</h3><br>• **자율항행 기술 통합**: Saronic의 통합 자율항행 소프트웨어 스택과 개방형 아키텍처 설계로 다양한 정부·상용 페이로드 및 센서 통합 가능, IMO 자율선박 규제 프레임워크 발맞춤<br>• **산업 생산성 혁신**: Austin 시설에서 하드웨어·소프트웨어 통합 개발 및 제조로 연간 수백~수천 척 대량 생산 가능성 확보, 전통 조선업 생산 구조의 패러다임 전환<br>• **다중 임무 수행 능력**: 방위(Defense) 및 상용(Commercial) 이중 용도 설계로 해양 도메인 인식, 보안, 탐지 등 광범위한 응용 분야 개척 중<br>• **무인 응급 구난의 실제 사례**: 지난달 U.S. Navy Corsair가 Oman 해역 헬기 추락 미군 조종사 2명 구출, 무인함정의 실전 운영 가능성 및 신뢰성 입증</p></div>`,
+      tags: ["autonomous vessels","unmanned surface vessels","Saronic","maritime autonomy","production scaling"],
+      link: "https://gcaptain.com/saronic-launches-52-foot-mirage-autonomous-vessel-as-production-ramps-up/",
+      coords: [-97.3964,29.3017],
+      location: "Galveston, Texas / Austin, Texas"
+    },
+    {
+      type: "news",
+      title: "CMA CGM Celebrates Naming of NOTRE DAME, World's Largest LNG-Powered Containership",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-02",
+      image: "https://images.marinelink.com/images/maritime/w800/-171953.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• CMA CGM 그룹이 세계 최대 규모의 LNG 추진 컨테이너선 'NOTRE DAME'의 명명식을 르아브르에서 개최했으며, 이는 프랑스 국기 하의 최대 규모 컨테이너선</p><p>• 24,000 TEU 적재 용량에 길이 400미터, 너비 61미터 규모로 LNG 추진 기술을 탑재하여 황화물, 미세먼지, 질소산화물, CO₂ 배출 대폭 감소</p><p>• 10척의 차세대 컨테이너선 시리즈의 첫 번째 선박이며, 모두 프랑스 국기로 등록되어 운항될 예정</p><p>• 2028년까지 CMA CGM의 프랑스 국기 선박 함대를 30척에서 40척으로 확대할 계획이며 135명의 프랑스 해기사 채용 예정</p><p>• 아시아-유럽 주요 해운로에서의 고효율 운항을 통해 해운 산업의 에너지 전환 가속화 목표</p><p>• NOTRE DAME이라는 명칭으로 프랑스의 산업, 해양, 문화 우수성을 전 세계 해양에 알릴 예정</p><h3>Key Quotes</h3><p>• "The CMA CGM NOTRE DAME is the largest containership operating under the French flag. It is also the largest LNG-powered containership in the world." (CMA CGM NOTRE DAME는 프랑스 국기 하의 최대 규모 컨테이너선이며, 동시에 세계 최대 규모의 LNG 추진 컨테이너선)</p><p>• "Thanks to its LNG propulsion system, the vessel is part of a trajectory aimed at accelerating the energy transition of maritime transport while maintaining a high level of operational performance on the Group's main Asia-Europe trade lanes." (LNG 추진 시스템을 통해 해운 에너지 전환을 가속화하면서 아시아-유럽 주요 해운로에서의 높은 운항 성능 유지)</p><h3>Technical Insights</h3><p>• **LNG 추진 기술의 환경 우수성**: LNG 추진 방식은 기존 해양 연료 대비 황화물, 미세먼지, 질소산화물, CO₂ 배출을 획기적으로 감소시켜 IMO 2030/2050 탄소중립 목표 달성에 기여</p><p>• **대형 컨테이너선의 친환경화**: 24,000 TEU 규모의 초대형 컨테이너선에 LNG 추진을 적용함으로써 해운 업계의 대형화와 친환경화의 양립 가능성 입증</p><p>• **프랑스 해운 산업의 부흥**: 프랑스 국기 선박 40척 확대 계획과 135명의 해기사 채용으로 국가 해운력 강화 및 고용 창출 효과 기대</p><p>• **아시아-유럽 노선의 운영 효율화**: 초대형 LNG 추진 선박의 아시아-유럽 간 주요 해운로 배치로 연료 효율성과 수송 용량 최적화를 통한 운영 수익성 향상</p></div>`,
+      tags: ["LNG propulsion","Containership","French flag","Sustainability","CMA CGM"],
+      link: "https://www.marinelink.com/news/cma-cgm-celebrates-naming-notre-dame-540903",
+      coords: [0.1079,49.4944],
+      location: "Le Havre, France"
+    },
+    {
+      type: "news",
+      title: "Training Ship Golden Bear Returns Home from Final Summer Sea Term",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-02",
+      image: "https://images.marinelink.com/images/maritime/w800/maritime-academy-171952.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **Golden Bear 퇴역**: 캘리포니아 폴리텍 해사학원의 주요 훈련함인 Golden Bear가 30년 운용 후 2026년 7월 6일 최종 태평양 항해를 마치고 귀항 예정</p><p>• **283명 승선 및 12,500마일 항해**: 여름 훈련 학기 동안 283명의 해사학원 생도들이 샌디에이고, 타히티, 피지, 호놀룰루를 경유하는 12,500마일의 태평양 횡단 항해 수행</p><p>• **실무 교육 플랫폼**: 선교와 기관실에서 당직 근무, 복잡한 선박 시스템 조작, 긴급 훈련 참여 등 미래 해사 장교로서의 실무 능력 개발</p><p>• **후속 함정 도입**: 2027년 National Security Multi-Mission Vessel(NSMV) 급의 Golden State가 새로운 훈련함으로 배치되어 확장된 훈련 능력과 현대식 교육 시설 제공 예정</p><p>• **해사 교육의 연속성**: 30년간 "Learn by Doing" 철학 구현으로 수천 명의 생도 양성, 해양산업 및 군 복무 분야 인력 배출의 중추적 역할</p><h3>Key Quotes</h3><p>• "For three decades, Golden Bear has served as a floating classroom where thousands of cadets transformed classroom knowledge into practical experience at sea." (30년간 Golden Bear는 수천 명의 생도들이 교실 지식을 실무 경험으로 전환하는 부유식 교실 역할을 수행)</p><p>• "During that time, the ship became an enduring symbol of Cal Poly Maritime Academy's Learn by Doing philosophy, preparing graduates for careers in the maritime industry, military service and related fields." (이 기간 동안 Golden Bear는 캘리포니아 폴리텍 해사학원의 "실무를 통한 학습" 철학의 상징으로서 해양산업, 군 복무 등의 경력을 준비하는 졸업생 배출)</p><h3>Technical Insights</h3><p>• **해사 인력 교육 표준화**: 선교 및 기관실 당직, 선박 시스템 운용, 긴급 절차 등의 실습을 통해 IMO STCW(선원의 훈련·자격·당직기준) 준수 기반의 표준화된 해사 교육 모델 운영</p><p>• **차세대 훈련함 전환의 의미**: NSMV 급 Golden State는 자동화 시스템, 첨단 항해 기술, 사이버 보안 등 현대적 해상 운영 능력을 교육하는 플랫폼으로 진화하며, 해사 산업의 디지털 전환에 대응하는 인력 양성 강화</p><p>• **지속적 실무 교육의 중요성**: 12,500마일 국제 항해를 통한 현장 경험은 자동화 및 AI 기술이 도입되는 해양산업에서도 인간 판단력과 위험 대응 능력 개발의 필수 요소로 남음</p></div>`,
+      tags: ["maritime education","training vessel","Cal Poly Maritime Academy","Golden Bear"],
+      link: "https://www.marinelink.com/news/training-ship-golden-bear-returns-home-540902",
+      coords: [-122.2708,38.1038],
+      location: "Vallejo, California"
+    }
+  ]
+});
