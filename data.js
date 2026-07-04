@@ -10691,3 +10691,22 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-03
+addEvents({
+  "2026-07-03": [
+    {
+      type: "news",
+      title: "USS Nimitz: An Aircraft Carrier's Final Journey",
+      source: "USNI News",
+      sourceMeta: "news.usni.org · 2026-07-03",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• USS Nimitz (CVN-68)는 미 해군의 가장 오래된 현역 항공모함으로, 대서양 노스캐롤라이나 해안 약 100마일 지점에서 14개국 26척의 군함이 참여한 대규모 국제 해상 훈련에 주도 역할을 수행</p><p>• 미국, 노르웨이, 브라질, 모로코, 터키, 한국 등 다국적 함정들이 억지력과 외교 강화를 목표로 동시에 해상작전 수행</p><p>• USS Nimitz 함장 Joseph Furco 대령은 "Nimitz는 현재에도 여전히 관련성 높은 전투함"이라고 강조</p><p>• 이번 훈련은 다국적 해상 안보 협력과 NATO 동맹국 간 상호운용성 강화의 전략적 의미 보유</p><p>• 노후 항공모함의 최종 운영 시기 가능성이 제기되는 상황에서 전략적 가치 재확인</p><h3>Key Quotes</h3><p>• "She is still a relevant warship today" (현재에도 여전히 관련성 높은 전투함이다)</p><h3>Technical Insights</h3><p>• CVN-68급 항공모함의 장수명 운영을 통한 해군력 유지 전략 ― 노후 함정의 현대적 가치 재평가 필요성 제시</p><p>• 다국적 해상훈련의 상호운용성 강화 ― COLREG 및 IMO 규정 준수하에서의 국제 해상 안보 협력 모델</p><p>• 해양 안보 거버넌스 강화 ― 14개국 다국적 함정의 동시 운영은 국제해양법 및 항해 안전 표준화의 중요성 강조</p></div>`,
+      tags: ["USS Nimitz","Aircraft Carrier","NATO","Multi-National Exercise","Naval Operations"],
+      link: "https://news.usni.org/2026/07/03/uss-nimitz-an-aircraft-carriers-final-journey",
+      coords: [-75.5,35],
+      location: "Atlantic Ocean, off North Carolina coast"
+    }
+  ]
+});
