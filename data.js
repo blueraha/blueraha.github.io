@@ -10710,3 +10710,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-04
+addEvents({
+  "2026-07-04": [
+    {
+      type: "news",
+      title: "Saronic Launches First Mirage 16-Meter Uncrewed Surface Vessel",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-07-04",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/07/Saronic-Launches-First-Mirage-Uncrewed-Surface-Vessel-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **새로운 무인 표면함정(ASV) 플랫폼 출시**: Saronic이 52피트(16미터) 규격의 Mirage ASV를 성공적으로 진수했으며, 이는 7미터 Corsair와 55미터 Marauder에 이은 세 번째 대표 플랫폼</p><p>• **빠른 설계-생산 일정**: Mirage는 초기 설계부터 진수까지 1년 이내에 완성되었으며, 다음 선체는 이미 오스틴 본사의 생산라인에서 제작 중</p><p>• **높은 성능과 운용 능력**: 35노트 이상의 최고 속력, 2,500해리 이상의 항속거리, 3,500파운드의 탑재량으로 Corsair 대비 항속거리와 탑재량이 2배 이상 증가</p><p>• **완전 자율주행 및 원격 제어 운영**: Saronic의 Echelon 명령통제 플랫폼을 통해 완전 자동화 또는 원격 인력 감시 하에서 해양 상황인식(Maritime Domain Awareness), 해상 보안, 항공/표면 탐지 임무 수행 가능</p><p>• **확장 가능한 생산 체계**: 오스틴 시설에서 연간 수백 개의 Mirage 및 수천 개의 Corsair 생산 가능한 규모의 제조 역량 보유</p><h3>Key Quotes</h3><p>• "We launched our first Marauder four weeks ago, and today we're putting another vessel in the water. This cadence is what our production model was built to deliver" (4주 전 첫 번째 Marauder를 진수했고 오늘 또 다른 선박을 진수했으며, 이러한 속도가 우리의 생산 모델이 제공하도록 설계된 것)</p><p>• "With Corsair, Mirage, and Marauder now in full production simultaneously, we are delivering a full family of autonomous surface vessels at the speed and scale that makes real adoption possible." (Corsair, Mirage, Marauder가 동시에 전면 생산되고 있으며, 실제 도입을 가능하게 하는 속도와 규모로 자율 표면함정의 전체 제품군을 공급하고 있음)</p><h3>Technical Insights</h3><p>• **통합 자율운항 시스템**: Saronic의 모든 함정이 동일한 핵심 자율운항 스택을 공유하며, 이는 여러 선박을 통해 검증된 신뢰성 있는 기술로 패시브 센싱과 협력 자율주행 기능(항해, 추적, 탐지) 포함</p><p>• **모듈식 개방형 아키텍처**: GOTS(정부 규격 제품) 및 COTS(상용 제품) 하드웨어/소프트웨어의 신속한 통합이 가능하며, 기본 플랫폼 재설계 없이 임무 탑재물 및 센서 패키지 개발 가능 - 산업 표준화 추진</p><p>• **해양 보안 및 감시 분야의 확대**: 무인 표면함정의 고속·장거리 운용 능력이 해양 상황인식, 해상 안보, ISR(정보·감시·정찰) 임무의 효율성을 대폭 증대시키며, 방위산업의 새로운 운영 패러다임 형성</p><p>• **생산 규모화의 산업적 의미**: 연간 수백~수천 척 규모의 대량 생산 능력은 무인 표면함정이 단순 프로토타입에서 실전 운용 장비로 전환되는 중요한 전환점을 의미</p></div>`,
+      tags: ["Autonomous Surface Vessel","ASV","Uncrewed Systems","Maritime Technology","Saronic"],
+      link: "https://www.navalnews.com/naval-news/2026/07/saronic-launches-first-mirage-16-meter-uncrewed-surface-vessel/",
+      coords: [-94.7277,29.7604],
+      location: "Galveston, Texas"
+    }
+  ]
+});
