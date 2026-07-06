@@ -10750,3 +10750,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-06
+addEvents({
+  "2026-07-06": [
+    {
+      type: "news",
+      title: "Northern Ocean's Deepsea Mira Completes Shell Namibian Offshore Drilling Campaign",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-07-06",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2025/02/Deepsea-Mira-rig-Source-Odjell-Drilling.jpg?image-crop-positioner-ts=1738848617",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Northern Ocean 소유의 Deepsea Mira 반잠수식 시추선이 Shell과의 나미비아 해상시추 계약을 완료 (2026년 4월 4일~7월 2일)<br>• 약 3,100만 달러의 계약금 수익 창출 및 2분기 운영비용 적정 범위 유지<br>• Shell은 제2정공 옵션을 행사하지 않았으며, 시추선은 Walvis Bay로 복귀하여 계획된 업그레이드 및 개조 진행 예정<br>• 현재 극한환경(harsh-environment) 시추용량에 대한 수요가 증가하고 있어 2026년 하반기 추가 계약 수주 가능성 높음<br>• Deepsea Mira는 현대중공업에서 2018년에 건조된 6세대 향상형 CS 60 E 설계 반잠수식 시추선으로 3,000미터 수심까지 작업 가능<br>• 과거 TotalEnergies 및 Rhino Resources와의 나미비아 해상작업 경력 보유</p><h3>Key Quotes</h3><br>• "The extended duration of the contract with Shell has resulted in revenue of approximately $31 million, which will be recognized in the second quarter of 2026" (Shell과의 연장된 계약으로 약 3,100만 달러의 수익이 발생했으며 이는 2분기에 인식될 예정)<br>• "The company believes Deepsea Mira is well positioned to secure further work in the second half of 2026" (Northern Ocean은 Deepsea Mira가 2026년 하반기에 추가 작업을 확보할 수 있는 좋은 위치에 있다고 판단)</p><h3>Technical Insights</h3><br>• 극한환경 해상시추 수요 증대로 인한 반잠수식 시추선의 시장가치 상승 - 나미비아 해역의 석유 탐사 활성화에 따른 긍정적 수급 신호<br>• CS 60 E 설계 6세대 반잠수식 시추선의 3,000미터 수심 작업 능력은 현대의 심해(deepwater) 시추 요구사항을 충족하는 첨단 기술 사양<br>• 계획된 업그레이드 및 개조를 통한 시추선의 성능 유지 및 개선은 장기적 경쟁력 강화 전략으로, 해상에너지 산업의 기술 표준 준수 필요성을 반영</p></div>`,
+      tags: ["Offshore Drilling","Semi-submersible Rig","Shell","Namibia","Northern Ocean"],
+      link: "https://www.offshore-energy.biz/2018-built-rig-all-done-with-shells-namibian-offshore-drilling-campaign/",
+      coords: [17.0832,-22.5597],
+      location: "Walvis Bay, Namibia"
+    }
+  ]
+});
