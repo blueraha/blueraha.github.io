@@ -10730,3 +10730,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-05
+addEvents({
+  "2026-07-05": [
+    {
+      type: "accident",
+      title: "8,000 Sailors Stranded in Persian Gulf Following Strait of Hormuz Closure",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-07-05",
+      image: "https://gcaptain.com/wp-content/uploads/2026/07/2026-07-01T164535Z_267159373_RC2KVKADMUK6_RTRMADP_3_GLOBAL-OIL-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이란-미국 간 분쟁으로 인한 호르무즈 해협 폐쇄로 인해 약 8,000명의 비지역 선원이 페르시아만에 좌초되어 120일 이상 발이 묶인 상태<br>• 인도 국적 선장 Abhijit Chopra가 지휘하는 원유 유조선을 포함한 다수 선박들이 미사일과 드론 공격 위협 속에서 해상 대기 중<br>• 국제해사기구(IMO)의 보도에 따르면 선원들은 지정학적 힘과 외교 협상의 인질 상태에 처해 있으며, 전 세계 해운 무역의 80% 이상이 이들의 노고에 의존<br>• 원유 유조선 HELGA를 포함한 선박들이 이라크 남부 유전 터미널에서 대기 중이며, 해협 재개 신호가 왔다가 또 다시 공격 뉴스로 인해 희망이 꺾이는 반복<br>• 주로 아시아(필리핀, 인도)에서 모집된 저소득국 출신 선원들이 가족과 떨어져 생존을 위해 해상에 머물러 있는 인도적 위기</p><h3>Key Quotes</h3><p>• "When they said the Strait of Hormuz was open, we were a bit optimistic that the vessel might transit. But when there was fresh news of attacks on tankers, they realized they were going to be stuck a bit longer." <br>(호르무즈 해협 개방 소식에 낙관했지만, 유조선 공격 뉴스에 다시 좌절감을 느꼈다)</p><p>• "Ultimately, we are just ordinary people. We are fathers, we are sons, we are husbands who are staying for months out at sea carrying out a duty. And we are doing this because somebody has to do this and the world's goods, economies depend on all this seafaring job."<br>(우리는 평범한 사람들이며, 전 세계 경제는 우리 해상 종사자들의 역할에 의존하고 있다)</p><h3>Technical Insights</h3><p>• **해상 인도주의 위기**: 지정학적 분쟁이 직접 관련 없는 국제 선원들의 생명과 복지를 심각하게 위협하며, 국제해사기구와 IMO 협약상 선원 보호 의무의 실효성 문제 대두</p><p>• **글로벌 공급망 취약성**: 해상 운송이 전 세계 물동량의 80% 이상을 담당하고 있으나, 특정 지점(호르무즈 해협)의 폐쇄로 인해 전 세계 경제가 마비되는 단일 실패점(single point of failure) 노출</p><p>• **저소득국 선원의 착취 구조**: 필리핀, 인도 등 저소득 국가에서 모집된 선원들이 위험한 환경에 장기 피폭되면서도 보상이나 국가 차원의 외교적 보호가 미흡한 구조적 불평등 심화</p><p>• **해상 안전 및 보험 문제**: 호르무즈 해협 통과 시 미사일 및 드론 공격 위협으로 인한 전쟁 위험 보험료 인상, 선적(cargo) 보험료 급등이 국제 물류비용 급증을 초래하는 연쇄 효과</p></div>`,
+      tags: ["crew welfare","Persian Gulf","Strait of Hormuz","geopolitical crisis"],
+      link: "https://gcaptain.com/the-race-to-rescue-8000-sailors-still-stranded-behind-hormuz/",
+      coords: [56.1,27.5],
+      location: "Persian Gulf / Strait of Hormuz"
+    }
+  ]
+});
