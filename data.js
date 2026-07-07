@@ -10770,3 +10770,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-06
+addEvents({
+  "2026-07-06": [
+    {
+      type: "news",
+      title: "Machinery Failure Remains Shipping's Dominant Risk - Allianz 2026 Safety Review",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-07-06",
+      image: "https://gcaptain.com/wp-content/uploads/2024/10/shutterstock_2392448797.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **기계 장애가 전 세계 해운 사건의 53%를 차지** - 2025년 보고된 2,818건 중 1,505건(53%)이 기계 손상/고장으로 인한 것이며, 지난 10년간 45% 비율로 지속적으로 최상위 원인으로 유지</p><p>• **해운 산업의 가장 심각한 위험 요소** - 충돌(2,822건), 화재/폭발(1,952건)과 비교해도 기계 장애가 훨씬 큰 규모이며 모든 지역에서 일관된 추세 유지</p><p>• **수리 비용 급증으로 경제적 영향 확대** - 선체 보험 청구 비용이 팬데믹 전 대비 33% 이상 상승하였으며, 향후 5년간 7~22% 추가 상승 예상</p><p>• **근본적인 구조적 문제로 인한 악순환** - 해양 엔지니어/기술자 부족, 주요 엔진 부품의 장기 납기, 수리 인건비 및 에너지 가격 상승이 복합적으로 작용</p><p>• **Allianz Commercial 2026 Safety and Shipping Review 분석 자료** - Lloyd's List Intelligence 데이터 기반, 2016-2025년 10년간 누적 통계</p><h3>Key Quotes</h3><p>• "Machinery damage or failure was the cause of more than half of all reported shipping incidents globally in 2025." (2025년 전 세계 보고된 해운 사건의 절반 이상이 기계 손상 또는 고장으로 인한 것)</p><p>• "Machinery claims inflation has not returned to pre-Covid-19 levels" (기계 관련 보험 청구액의 인플레이션이 팬데믹 이전 수준으로 돌아오지 않았음)</p><p>• "The factors driving this inflation are structural, and the Allianz review is honest about the fact that they show no sign of resolving." (인플레이션을 야기하는 요인들은 구조적이며 해결의 조짐이 보이지 않음)</p><h3>Technical Insights</h3><p>• **해양 인력 부족으로 인한 유지보수 비용 급증** - 숙련된 해양 엔지니어 및 기술자의 글로벌 부족이 전문 수리 서비스의 비용을 지속적으로 상승시키고 있으며, 이는 선박 운영자들의 경제 부담 증가로 이어짐</p><p>• **공급망 이슈로 인한 장기 가동 중단** - 크랭크축, 베어링, 연료 분사 장치 등 주요 엔진 부품의 납기 지연이 선박의 가동 중단 기간을 연장시켜 운영 손실 누적</p><p>• **보험료 인상 및 산업 경쟁력 악화** - 향후 5년간 선체 보험 청구 비용이 추가로 7~22% 상승할 것으로 예상되며, 중소 선사의 수익성 악화 및 선주들의 리스크 관리 강화 필요</p><p>• **예측 가능한 해운 시대를 위한 기술 혁신 필요** - IoT/AI 기반의 예측적 유지보수(Predictive Maintenance) 시스템 도입으로 기계 장애의 사전 예방 및 비용 절감이 업계의 중요한 과제로 부상</p></div>`,
+      tags: ["Machinery Failure","Shipping Safety","Hull Claims","Marine Engineering","Industry Analysis"],
+      link: "https://gcaptain.com/the-engine-room-problem-and-why-machinery-failure-remains-shippings-dominant-risk/",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "Thales Acquires Exail Technologies to Create Autonomous Underwater Warfare Leader",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-07-06",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/07/Thales-Exail.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **전략적 인수합병**: Thales가 Exail Technologies의 지분을 인수하여 자율형 수중 전투 시스템 분야에서 글로벌 리더십 확보<br>• **핵심 기술 통합**: Exail의 DriX USV, AUV, ROV 등 무인 해양 로봇 플랫폼과 Thales의 소나 및 지휘통제(C2) 시스템 통합<br>• **광학 자이로스코프 포트폴리오**: 링레이저 자이로(RLG)와 광섬유 자이로(FOG) 기술을 통합하여 GPS 거부 환경에서의 항법 능력 강화<br>• **해전 분야 적용**: 기뢰 탐지/제거(MCM), 대잠전(ASW), 해양 도메인 인식(MDA) 분야의 자율형 시스템 개발 가속화<br>• **주요 프로젝트**: 영불 협력 MMCM(해상 기뢰 대항 조치) 사업 등 국방 고객사 맞춤형 솔루션 제공 가능</p><h3>Key Quotes</h3><p>• "By integrating Exail, Thales is assembling a full-spectrum portfolio specifically optimized to dominate the rapidly accelerating fields of autonomous mine countermeasures, uncrewed anti-submarine warfare (ASW), and resilient inertial navigation." <br>(Thales가 Exail을 통합함으로써 자율형 기뢰대항, 무인 대잠전, 탄력적 관성항법 분야에서 지배적 포지션 확보)</p><p>• "Instead of managing complex cross-vendor interfaces, Thales can now deliver a fully sovereign, vertically integrated turn-key uncrewed MCM solution to global navies."<br>(복잡한 벤더 간 인터페이스 대신, 완전 통합형 기뢰대항 솔루션을 전 세계 해군에 제공 가능)</p><p>• "The proliferation of quiet, conventional submarines is forcing navies to look toward uncrewed, high-endurance assets to maintain maritime domain awareness."<br>(조용한 재래식 잠수함의 확산으로 해군들이 해양 도메인 인식 유지를 위해 무인 고지속성 자산 도입 필요)</p><h3>Technical Insights</h3><p>• **자율형 해양 시스템의 수직 통합**: Exail의 무인 수상함(DriX), AUV, ROV와 Thales의 고급 소나, C2 시스템의 완전 통합으로 아키텍처 복잡도 감소 및 성능 최적화 달성<br>• **GPS 거부 환경에서의 항법 혁신**: RLG(링레이저 자이로)와 FOG(광섬유 자이로) 기술 통합으로 전자전 환경에서도 독립적 항법 능력 보유, 해양 방위 현대화의 핵심<br>• **인공지능과 기계 자율성**: 결합된 R&D를 통해 AI 기반 무인 센서 네트워크 개발, 지속적 해양 감시 능력 강화로 기뢰 탐지 및 대잠전 효율성 극대화<br>• **NATO 및 유럽 해군 표준화**: 완전히 통합된 턴키 솔루션으로 영불 MMCM 사업 외 NATO 회원국 해군의 자율형 MCM/ASW 시스템 표준화 견인 가능</p></div>`,
+      tags: ["Autonomous Underwater Vehicles","Mine Countermeasures","Naval Robotics","Defense Technology","Thales","Exail"],
+      link: "https://www.navalnews.com/naval-news/2026/07/thales-and-exail-join-forces-creating-an-autonomous-underwater-warfare-powerhouse/",
+      coords: [2.2945,48.8566],
+      location: "Paris, France"
+    }
+  ]
+});
