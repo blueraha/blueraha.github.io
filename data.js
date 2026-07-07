@@ -10802,3 +10802,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-06
+addEvents({
+  "2026-07-06": [
+    {
+      type: "accident",
+      title: "Tanker Al Shaffiah Struck by Projectile Near Strait of Hormuz, Fire Reported",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-07-06",
+      image: "https://gcaptain.com/wp-content/uploads/2026/06/2026-06-26T134318Z_693026131_RC2N1MAQSWKP_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 유조선 Al Shaffiah가 호르무즈 해협 동쪽 약 8해리 지점(오만 Limah 인근)에서 정체불명의 발사체에 피격되어 선박 좌현에 충돌, 화재 발생<br>• UKMTO(영국해상무역운영센터)가 사건 보고 접수; 사상자 및 오염 피해는 보고되지 않음<br>• 미국-이란 휴전 협정 이후 상선 통행이 점진적으로 회복 중이었으나, 보안 위험도는 여전히 "상당함(SUBSTANTIAL)" 수준 유지<br>• 사건 발생 지역은 미 주도 남부 통항 회랑(확장된 대체 항로) 상에 위치하며, 기존 교통분리제도는 기뢰 위협으로 인해 운항 불안<br>• JMIC와 UKMTO가 해역 통항 선박들에 AIS 활성화, 항법등 점등, 레이더 운영, VHF 통신 유지 등 안전 조치 강화 권고</p><h3>Key Quotes</h3><p>• "The tanker was hit on its port side about 8 nautical miles east of Limah, Oman, while traveling southbound. The impact sparked a fire onboard, though no casualties or pollution were reported."<br>(유조선이 남향 항해 중 오만 Limah 동쪽 약 8해리 지점에서 좌현에 피격되었으며, 충돌로 인해 선내 화재가 발생했으나 사상자나 오염은 보고되지 않음)</p><p>• "The maritime security threat level in the Strait of Hormuz remains 'SUBSTANTIAL,' while advising that the expanded southern transit corridor remains open to all commercial traffic."<br>(호르무즈 해협의 해양 보안 위협 수준은 '상당함' 상태로 유지되고 있으며, 확장된 남부 통항 회랑은 모든 상업 선박에 개방되어 있다고 권고)</p><h3>Technical Insights</h3><p>• **해협 항법 체계 변화**: 기뢰 위협으로 인해 기존 교통분리제도(Traffic Separation Scheme)가 폐쇄되고 미 주도 남부 통항 회랑이 주요 항로로 전환된 상황에서 발사체 공격 지속, 대체 항로의 보안 취약성 노출<br>• **AIS/항법등 운영 강화 필수**: JMIC의 권고사항인 AIS 상시 활성화, 항법등 점등, 레이더 운영 등은 해협 내 투명성 확보 및 충돌 회피 능력 제고를 통한 2차 사고 방지 중요<br>• **호르무즈 통과 물량 및 글로벌 영향**: 전 세계 석유 공급량의 약 1/5이 호르무즈를 통과하는 만큼, 지속적인 보안 위협은 유가 변동성 및 글로벌 에너지 안보에 직결된 중대한 해상 사건<br>• **NCAGS 협력 활성화 필요**: 미 해군 중부사령부의 해상협력안내(NCAGS) 협력 권고는 선택적이지만, 현재의 높은 위협 수준에서는 실시간 정보공유 및 호위 지원의 중요성 증대</p></div>`,
+      tags: ["Tanker Attack","Strait of Hormuz","Maritime Security","Fire Incident"],
+      link: "https://gcaptain.com/tanker-struck-by-projectile-near-hormuz-sparking-fire/",
+      coords: [56.5,26.1],
+      location: "Strait of Hormuz, near Limah, Oman"
+    }
+  ]
+});
+
+// Auto-collected: 2026-07-07
+addEvents({
+  "2026-07-07": [
+    {
+      type: "accident",
+      title: "Commercial Ships Hit in Hormuz Missile Attacks by Iran's Revolutionary Guards",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-07",
+      image: "https://images.marinelink.com/images/maritime/w800/alones-adobe-172012.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 이란 혁명수비대가 호르무즈 해협 통과 중인 상선 2척 이상에 미사일 2발 이상을 발사하여 상당한 손상 유발<br>• 피격 선박: 카타르 나킬랫(Nakilat) 소유의 LNG 탱커 알 레카야트(Al Rekayyat) 포함 - 엔진실 상부 좌현에 피격으로 화재 발생<br>• 사상자 없음 및 환경오염 미보고, 모든 승무원 안전 확보<br>• 호르무즈 해협은 전 세계 석유 소비량의 약 20% 통과하는 중요 해상교통로로서 지정학적 긴장 고조<br>• 미국-이란 간접회담이 지난주 합의 도출 없이 종료되었으며, 트럼프 대통령이 추가 군사행동 위협 제기</p><h3>Key Quotes</h3><br>• "Engine room fire and full of smoke. Unable to assess further damage. All crew are safe and mustered on the starboard side." (엔진실 화재 및 연기 가득, 추가 손상 파악 불가, 모든 선원 우현 집결하여 안전)<br>• "Our missiles and drones are ready to fire at you" (우리의 미사일과 드론은 당신을 향해 발사할 준비가 되어 있다) - Iran's Revolutionary Guards maritime radio warning</p><h3>Technical Insights</h3><br>• **전쟁 구역 선박 안전성**: 호르무즈 해협의 지정학적 긴장으로 인한 상선 공격은 국제해상법(COLREG) 및 IMO 안전 규정으로도 보호 불가능한 상황으로, 조기 경보 시스템 및 해군 호위의 중요성 대두<br>• **LNG 탱커 위험성**: LNG 운송선의 엔진실 피격은 폭발 위험성이 극도로 높으며, 화재 진압 및 선원 대피 절차의 신속성이 생존율을 좌우하는 핵심 요소<br>• **해운 산업 경제성 위협**: 호르무즈 통과 선박의 지속적 공격 우려로 인한 운임 상승, 보험료 증가 및 대체 해로(수에즈 운하 우회) 선택에 따른 운영비용 급증<br>• **국제해운 규제 강화 필요**: 분쟁 지역 상선 보호를 위한 IMO 특별 안내(Advisory) 발령 및 선박 자동추적(AIS) 데이터 기반 실시간 경고 시스템 구축 요구</p></div>`,
+      tags: ["missile attack","Strait of Hormuz","commercial shipping","Iran","tanker damage"],
+      link: "https://www.marinelink.com/news/commercial-ships-hit-hormuz-missile-540969",
+      coords: [56.55,26.13],
+      location: "Strait of Hormuz / Gulf of Oman"
+    }
+  ]
+});
