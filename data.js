@@ -10840,3 +10840,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-07
+addEvents({
+  "2026-07-07": [
+    {
+      type: "accident",
+      title: "LNG Tanker 'Al Rekayyat' Attacked Near Strait of Hormuz with Engine Room Fire and Explosion Risk",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-07-07",
+      image: "https://gcaptain.com/wp-content/uploads/2017/06/2017-06-08T034144Z_275004737_RC1C2C08F6D0_RTRMADP_3_QATAR-ASIA-LNG.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 카타르 LNG 선박 'Al Rekayyat'이 호르무즈 해협 인근에서 무인기 공격으로 항구 좌측에 피격, 기관실 화재 발생<br>• 선박 관리사는 Nakilat(카타르 가스 운송사)이며, 세계 최대 규모 LNG 해운 함대 중 하나를 운영 중<br>• 승무원들은 안전하며 대피 중이었으나, 기관실 화재로 인한 폭발 위험이 제기됨<br>• 사우디 유조선 'Wedyan'도 동시에 손상을 입었으며, 이란의 미사일 공격으로 추정되고 있음<br>• 카타르 외무부는 이란에 대한 법적 책임을 명시했으며, 이는 2월 이란 전쟁 이후 카타르 LNG 선박이 처음 피격된 사건<br>• 호르무즈 해협의 불규칙한 폐쇄-재개로 인해 중동 유조선 시장에 변동성이 지속되고 있는 상황</p><h3>Key Quotes</h3><p>• "Mayday mayday mayday. This is vessel Al Rekayyat, LNG vessel Al Rekayyat. We are being hit by drone on port side, top of engine room. Status: engine room fire and full of smoke. Unable to assess further damage." <br>(호출: Al Rekayyat호가 무인기 공격으로 항구 좌측 상부 기관실을 피격받았으며, 기관실 화재와 연기로 추가 손상 평가 불가 상태)</p><p>• "The start stop nature of the re-opening of Hormuz is continuing to inject volatility into Middle Eastern tanker markets since it is leading to the irregular flow of tankers through Hormuz in both directions"<br>(호르무즈 해협의 반복적인 폐쇄-재개로 인해 중동 유조선 시장에 변동성이 계속 주입되고 있음)</p><h3>Technical Insights</h3><p>• **해상 안전 위협**: LNG 선박의 기관실 화재는 고인화성 액화가스 적재 상태에서 극도로 위험하며, 폭발 가능성은 해상 운송의 중대 사고 유형으로 분류됨<br>• **COLREG 및 해상보안**: 호르무즈 해협 같은 국제 분쟁 지역에서의 선박 공격은 국제해사기구(IMO) 해상보안 규정(ISPS Code) 강화의 필요성을 재조명<br>• **AIS 추적 전술**: Al Rekayyat이 6월 18일 이후 AIS 추적 신호를 중단한 것은 민간 선박의 위험 회피 전술이지만, 국제 규제상 AIS 의무 운영 위반으로 논쟁의 여지가 있음<br>• **에너지 공급망 영향**: LNG/유류 수송 중단은 글로벌 에너지 시장과 가격 변동성에 직결되며, 해운 기업들의 보험료 및 운영 비용 상승으로 이어져 산업 경제성에 심각한 영향을 미침</p></div>`,
+      tags: ["LNG Tanker","Attack","Engine Room Fire","Strait of Hormuz","Iran","Maritime Security"],
+      link: "https://gcaptain.com/lng-tanker-al-rekayyat-at-risk-of-exploding-after-attack-near-hormuz/",
+      coords: [56.5,26.1],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "accident",
+      title: "Two Vessels Struck Near Strait of Hormuz; Qatari LNG Tanker Al Rekayyat at Risk of Explosion",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-07",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockvladsv-172030.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **피격 선박**: 카타르 LNG 운반선 Al Rekayyat가 포트측 엔진룸 상부에 피격되어 화재 발생, 폭발 위험 상황 직면<br>• **동시 피해**: 사우디 기함 초대형 유조선 Wedyan도 오만 해역에서 손상되었으며, 추가 드론 공격으로 유조선 1척이 경미한 손상 입음<br>• **운영사 현황**: Al Rekayyat는 카타르 가스 운송회사(Nakilat) 소유, Wedyan는 사우디 Bahri사 소유로 각각 세계 주요 에너지 운송 기업<br>• **선원 안전**: Al Rekayyat 승조원은 안전하며 현재 대피 중, 엔진룸 화재와 연기로 추가 피해 평가 불가능 상태<br>• **해협 영향**: 호르무즈 해협의 불규칙적 선박 통행으로 중동 유조선 시장의 변동성 증가, 일일 평균 25-40척 통행 중<br>• **책임 귀속**: 카타르 외교부는 이란의 전적 법적 책임 주장, 미국 관계자는 이란의 미사일 발사 초기 표시 확인</p><h3>Key Quotes</h3><p>• "Mayday mayday mayday. This is vessel Al Rekayyat, LNG vessel Al Rekayyat. We are being hit by drone on port side, top of engine room. Status: engine room fire and full of smoke. Unable to assess further damage." <br>(호출: Al Rekayyat 선장의 무선 통신 기록으로, 포트측 상부 엔진룸의 드론 피격, 화재 발생, 추가 손상 평가 불가를 보고)</p><p>• "The start stop nature of the re-opening of Hormuz is continuing to inject volatility into Middle Eastern tanker markets since it is leading to the irregular flow of tankers through Hormuz in both directions" - BRS ship broker<br>(호르무즈 해협의 불규칙적 운영으로 중동 유조선 시장의 변동성이 지속적으로 증가하고 있음을 시사)</p><h3>Technical Insights</h3><p>• **LNG 선박의 화재 위험성**: LNG 운반선의 엔진룸 화재는 극저온 화물의 특성상 폭발 위험으로 전환될 수 있으며, 선박의 Boil-Off Gas(BOG) 시스템 및 안전 밸브의 즉각적 대응이 생사를 결정하는 요소<br>• **AIS 추적 차단**: Al Rekayyat의 AIS 트랜스폰더가 6월 18일 이후 꺼져 있었던 점은 전자 통신 탈취 위험 및 해상 보안의 사각지대를 드러냄 (IMO SOLAS 규정의 실행 문제)<br>• **호르무즈 해협의 전략적 위험**: 글로벌 LNG 공급의 약 20-25%가 호르무즈 해협 통과, 이 지역의 불안정은 국제 에너지 가격 및 공급망에 즉각적 영향을 미치는 구조적 취약점<br>• **해상 보안 프로토콜 강화 필요**: UKMTO 보고 및 해양 보안 회사의 실시간 모니터링이 강화되어야 하며, COLREG 준칙 외에 전쟁 지역 운항 선박의 자동 회피 시스템(e-Navigation) 도입 검토 시급</p></div>`,
+      tags: ["LNG tanker","Strait of Hormuz","missile attack","engine room fire","maritime security"],
+      link: "https://www.marinelink.com/news/two-vessels-struck-near-hormuz-lng-tanker-540992",
+      coords: [56.25,26.15],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "HII Expands Romulus USV Production with Second Louisiana Shipyard Partnership",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-07-07",
+      image: "https://maritime-executive.com/media/images/article/Romulus-151-HII-Breaux-Brothers-HII.0cb8be.webp",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **Huntington Ingalls Industries(HII)가 로뮬러스(Romulus) 무인 표면 선박(USV) 프로그램 확대를 위해 루이지애나 소재 두 번째 조선소 할리마 조선소(Halimar Shipyard)와 파트너십 체결**</p><p>• **로뮬러스는 미 해군의 다목적 무인 표면선(MUSV) 프로그램 요구사항을 충족하도록 설계된 중형 고속 USV로 2,500해리의 항속거리와 2개 풀 컨테이너 적재 용량 보유**</p><p>• **HII는 이전에 브로우 브라더스 엔터프라이즈(Breaux Brothers Enterprises)와 협력하여 자동화된 대량 생산 조립라인 시설 구축 계획 발표**</p><p>• **로뮬러스 프로토타입 평가 단계에는 레이도스(Leidos), 씨 머신스(Sea Machines), 사로닉(Saronic) 등 7개 경쟁사 참가 중이며 해상 시험 통과 시 1,500만 달러 지원 및 후속 생산 승인**</p><p>• **소규모 상업 조선소들의 방위산업 진출 기회를 확대하는 미 해군의 새로운 USV 전략이 해양 자율운항 산업의 민관 협력 모델 제시**</p><p>• **할리마 조선소는 석유·가스, 해양 견인, 준설 산업에 경험을 보유한 모건시티 기반의 상업용 소형 조선소로 기존 시설로 고품질 무인선 대량 생산 가능성 입증**</p><h3>Key Quotes</h3><p>• "Romulus is engineered from the outset for scale. By aligning design, autonomy, and manufacturing, we are creating a production model that delivers predictable outcomes and positions us to meet growing demand for autonomous maritime capability." (로뮬러스는 처음부터 대규모 양산을 고려하여 설계되었으며, 설계·자율운항·제조를 통합함으로써 예측 가능한 결과를 제공하고 증가하는 자율운항 해양 능력 수요를 충족할 수 있는 생산 모델을 구축하고 있다.)</p><p>• "We are proud to partner with HII on the Romulus program and contribute to the future of autonomous maritime operations. Our team has decades of experience building high-quality vessels, and we look forward to applying that expertise to help deliver..." (할리마 조선소는 로뮬러스 프로그램에서 HII와 파트너십을 맺게 되어 자율운항 해양 작전의 미래에 기여할 수 있어 자랑스러우며, 수십 년간의 고품질 선박 건조 경험을 이 프로젝트에 적용할 준비가 되어 있다.)</p><h3>Technical Insights</h3><p>• **미 해군의 MUSV 프로그램은 소규모 상업용 조선소의 알루미늄 선체 건조 기술과 자동화 제조 공정을 무인선 개발에 통합하여 기존 조선소 인프라의 활용도 극대화 및 비용 효율성 제고**</p><p>• **로뮬러스 설계의 표준화·모듈화(컨테이너 적재 방식)는 다양한 조선소에서 일관성 있는 품질의 대량 생산을 가능하게 하며, 이는 IMO의 선박 자율운항 규제 표준화와 병행하여 산업 표준화의 선행 사례 제시**</p><p>• **민간 해양산업(석유·가스, 해양 운송) 기반 조선소들의 방위산업 진출은 USV 기술의 상업적 활용 가능성을 높이며, 향후 자율운항 상선의 건조 기반 마련**</p><p>• **다중 경쟁사의 프로토타입 평가 방식은 기술 혁신 촉진과 동시에 산업 표준 형성을 통해 자율운항 해양 생태계의 조기 안정화를 추구하는 정부 정책의 표현**</p></div>`,
+      tags: ["Unmanned Surface Vehicles","USV","MUSV Program","Autonomous Maritime","Shipbuilding"],
+      link: "https://maritime-executive.com/article/hii-adds-another-workboat-shipyard-to-its-unmanned-vessel-program",
+      coords: [0,0],
+      location: "Louisiana, USA"
+    },
+    {
+      type: "news",
+      title: "U.S. Navy Expands Lionfish UUV Production with HII Contract Option",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-07-07",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/07/Lionfish_02_8068db467b.webp",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **Lionfish 프로그램 계약 확대**: 헌팅턴 인갤스 인더스트리즈(HII)가 미 해군의 차세대 소형 무인 잠수정(SUUV) 리온피시 생산 계약 옵션을 획득했으며, 이는 상용 REMUS 300 플랫폼 기반</p><p>• **생산 실적 및 규모**: 2025년 말까지 42대 생산 완료, 5년 프로그램으로 최대 200대 규모 확산 가능, 총 계약액 3억 4,700만 달러 초과</p><p>• **군사적 용도 다양성**: 지뢰 제거, 정보수집·감시·정찰(ISR), 대잠전, 전자전 등 광범위한 수중전 임무 지원</p><p>• **기술적 우수성**: 사이버 보안 준수 최초 미 해군 무인 잠수정, 개방형 아키텍처로 신속한 탑재물 통합 및 향후 기술 업그레이드 지원</p><p>• **OTA 프로토타입 성공 사례**: 다른 거래 권한(OTA) 프로토타입에서 본격 생산으로의 성공적 전환 첫 사례, 민간 이중용도 기술의 국방 적용 가속화 입증</p><h3>Key Quotes</h3><p>• "The decision to exercise this option year production of the Lionfish program reflects the U.S. Navy's confidence in the platform's operational performance, reliability and adaptability" <br>(리온피시 프로그램 옵션 행사 결정은 미 해군이 플랫폼의 운영 성능, 신뢰성, 적응성에 대한 신뢰를 반영함)</p><p>• "Lionfish is also the first and only cyber-compliant unmanned underwater vehicle currently in production for the U.S. Navy"<br>(리온피시는 현재 미 해군에서 생산 중인 유일한 사이버 준수 무인 잠수정임)</p><h3>Technical Insights</h3><p>• **자율 수중 플랫폼의 모듈화 설계**: REMUS 300의 개방형 아키텍처는 신속한 탑재물 통합과 미래 기술 업그레이드를 가능하게 하며, 플랫폼 생명주기 동안 비용 효율성 유지</p><p>• **사이버 보안의 국방 자동화 표준화**: 첫 사이버 준수 무인 잠수정으로서, 자율 수중 시스템의 신뢰성과 안전성이 국방 도입의 핵심 기준으로 부상</p><p>• **이중용도 기술의 민간-군사 전환 모델**: OTA 프로토타입에서 본격 생산으로의 성공적 전환은 상용 기술의 군사 적용 가속화 및 개발 시간 단축의 새로운 패러다임 제시</p><p>• **글로벌 자율 수중차량 시장 점유**: 25년간 30개국 이상에 700대 이상의 REMUS 시스템 공급, 90% 이상의 높은 가동률 유지로 시장 신뢰도 입증</p></div>`,
+      tags: ["autonomous underwater vehicles","UUV","U.S. Navy","defense technology"],
+      link: "https://www.navalnews.com/naval-news/2026/07/u-s-navy-boosts-lionfish-uuv-production-with-new-hii-contract-option/",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
