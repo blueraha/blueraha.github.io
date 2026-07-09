@@ -10896,3 +10896,65 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-07
+addEvents({
+  "2026-07-07": [
+    {
+      type: "accident",
+      title: "Qatari LNG Tanker Al Rekayyat Hit by Projectile Near Strait of Hormuz",
+      source: "gCaptain / Reuters",
+      sourceMeta: "gcaptain.com · 2026-07-08",
+      image: "https://gcaptain.com/wp-content/uploads/2026/07/2026-07-08T024954Z_1108293134_RC21RI8U7725_RTRMADP_3_IRAN-CRISIS-MISSILES-HORMUZ-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **사건 개요**: 카타르 소유의 LNG 탱커 Al Rekayyat이 2026년 7월 7일 밤 호르무즈 해협 인근에서 미사일 공격으로 좌현에 직격탄을 맞음</p><p>• **피해 현황**: 선박 엔진실 화재 발생, 폭발 위험성 대두; 다만 LNG 저장 탱크 본체는 무결성 유지 중</p><p>• **승무원 안전**: 전원 안전하게 탈출 완료; 현재 예인선과 서비스선 2척이 구조 작업 중</p><p>• **정치적 배경**: 카타르 외교부가 이란의 전적 책임을 언급하며 이란 부대사를 항의 소환 - 2월 28일 이란 전쟁 이후 카타르 LNG선 최초 피격</p><p>• **해상 안보 영향**: 호르무즈 해협을 통과하는 선주들의 불안감 심화, 미-이란 해상 공격 중단 협약의 실효성 의문 제기</p><h3>Key Quotes</h3><p>• "Breaching a main tank would be catastrophic" (메인 탱크가 파손되면 재앙적 결과 초래)</p><p>• "All the crew have been safely evacuated" (모든 승무원이 안전하게 탈출함)</p><p>• "The LNG stored in the tanker's tanks remains intact and there is no breach of those tanks" (탱크에 저장된 LNG는 무손상 상태이며 탱크 파손 없음)</p><h3>Technical Insights</h3><p>• **LNG 탱커 구조 취약성**: LNG 탱크 파손 시 연쇄폭발 위험이 높으며, 현재 엔진실 화재 진화가 폭발 방지의 핵심 - LNG 운송선의 특수 안전 프로토콜 재검토 필요</p><p>• **호르무즈 해협 안보 위협**: 글로벌 LNG 공급 경로의 약 40% 이상이 호르무즈 해협을 거치는 상황에서 선박 피격 증가는 에너지 안보 위협으로 확대</p><p>• **IMO 규제 한계**: 현재 국제해사기구(IMO) 규정으로는 전쟁 지역 해협 통과 시 안전 기준이 부족하며, 군사적 분쟁 지역의 상선 보호 체계 강화 필요</p><p>• **해운업계 영향**: 호르무즈 해협 통행료 인상, 보험료 급등, 우회 항로 이용 증가 등으로 글로벌 LNG 물류비 상승 전망</p></div>`,
+      tags: ["LNG tanker","projectile strike","Strait of Hormuz","fire","Iran-Qatar tension"],
+      link: "https://gcaptain.com/damaged-qatari-lng-tanker-awaits-salvage-after-strike-near-hormuz/",
+      coords: [56.15,25.85],
+      location: "Strait of Hormuz, near Oman coast"
+    },
+    {
+      type: "accident",
+      title: "LNG Carrier Al Rekayyat Hit by Projectile in Strait of Hormuz",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-07-08",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2020/09/Nakilat-transitions-Al-Rekayyat-to-in-house-management.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 카타르 국영 해운사 나킬랏(Nakilat)의 LNG운반선 알 레까이야트호가 2026년 7월 7일 호르무즈 해협에서 발사체에 의해 공격을 받음<br>• 선박 승무원 전원 안전(인명피해 없음), 환경 영향 없음 확인<br>• 호르무즈 해협 및 페르시만 지역의 지정학적 긴장 심화로 에너지 운송로 보안 위협 증가<br>• 이란-미국/이스라엘 군사 분쟁 확대로 카타르에너지의 LNG 생산 중단 및 2,000억 달러 규모의 연간 수익 손실 추정<br>• 3개월 내 여러 차례의 유조선/LNG선 공격 사건 발생으로 중동 해상 운송 안전 위기 심화</p><h3>Key Quotes</h3><p>• "None of the crew members on board were injured, and there is no impact on the environment as a result of this incident" <br>(선박 탑승 승무원 중 부상자가 없으며, 이번 사건으로 인한 환경 영향이 없음을 확인함)</p><p>• "The safety of our people, the protection of the environment, and the integrity of our assets remain Nakilat's highest priorities"<br>(인원 안전, 환경 보호, 자산 무결성이 나킬랏의 최우선 과제임을 재확인)</p><h3>Technical Insights</h3><p>• **해상 운송로 보안 악화**: 호르무즈 해협은 전 세계 LNG/석유 운송의 약 30% 이상을 담당하는 전략적 요충지이나, 지정학적 분쟁으로 인한 발사체 공격 위협이 심화되고 있음</p><p>• **IMO 해상 보안 프레임워크의 한계**: 국제해사기구(IMO) ISPS Code 및 COLREG 규정이 무장 공격에 대한 대응 능력이 제한적이며, 운송선의 군사적 호위 또는 대체 해로 선택 필요성 증대</p><p>• **에너지 공급망 안정성 위협**: LNG 생산 중단 및 Force Majeure 선언으로 글로벌 LNG 시장의 가격 변동성 심화 및 에너지 안보 문제 야기</p><p>• **자동화/원격 운항의 보안 고려**: 미래의 자율운항선박(MASS) 및 AI 네비게이션 시스템 도입 시, 사이버 공격과 물리적 위협에 대한 복합적 보안 체계 구축 필요</p></div>`,
+      tags: ["LNG Carrier","Strait of Hormuz","Projectile Attack","Maritime Security"],
+      link: "https://www.offshore-energy.biz/shipping-incident-projectile-hits-lng-carrier-in-strait-of-hormuz/",
+      coords: [56.5,26.7],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "Ukrainian Drone Raid Strikes 10 Russian Ships in Black Sea, Disrupts Crimea Supply Lines",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-07-08",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/07/Screenshot-2026-07-07-232906.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 우크라이나 414 무인타격항공여단이 2026년 7월 6-7일 아조프 해와 흑해 북부에서 대규모 드론 공격 실행, 러시아 선박 10척 피격 (유조선 8척, 화물선 1척, 페리선 1척)</p><p>• 타격 대상 선박들은 러시아 그림자 함대의 일부로 크림반도 보급 임무 수행 중이었으며, Sanar-1, Sanar-17, Klimena, Teti, Aleksey Savrasov, Penelope 등 약 7,000톤급 유조선들 포함</p><p>• 414 여단 사령관 로버트 "Magyar" Brovdi가 텔레그램을 통해 공격 영상과 목표물 정보 공개, 우크라이나 드론의 정밀 타격능력 입증</p><p>• 러시아 해군이 우크라이나 드론 공격에 의해 심각한 손상을 입었으며, 해상 보급로 운영에 지속적인 위협 직면</p><p>• 흑해에서 우크라이나 해군 부재 상황에서 무인시스템만으로 러시아 해상통제 격파 추진 중, 적극적인 방공레이더 타격으로 드론 방어능력 약화</p><p>• 우크라이나 드론의 지속적인 공격으로 크림반도 물류 및 에너지 인프라가 극도의 긴장상태 진입</p><h3>Key Quotes</h3><p>• "These ships have become increasingly critical for Russia, as they continue to ferry much needed fuel and supplies to and from the besieged Russian controlled Crimean Peninsula." <br>(크림반도로의 연료 및 보급품 운송이 러시아에게 극도로 중요한 상황을 시사)</p><p>• "Recent strikes in the Sea of Azov and in the Black Sea targeted towards Russian logistics and military vessels have been a sign that the Russian Navy has likely been beaten so severely they can no longer function without near certainty of receiving a strike"<br>(러시아 해군이 심각한 타격으로 인해 피격 위험 없이는 작전 불가능한 수준으로 약화되었음을 의미)</p><p>• "Ukraine has no standing Navy in the Black Sea, relying almost totally on unmanned systems to establish de-facto control in a domain once thought firmly in Russian hands."<br>(전통 해군 전력 부재 상황에서 무인시스템으로 해상통제권 확보 중)</p><h3>Technical Insights</h3><p>• **무인시스템 해전 패러다임 전환**: 전통 해군 없이 드론 기반 화력제어만으로 해상 우위 확보 가능성 입증, 해전 운영개념의 근본적 변화 시사</p><p>• **방공망 무력화 전략**: 적극적인 대공레이더 및 방공체계 타격으로 드론의 작전 자유도 확대, 차세대 해상 분쟁에서 방공체계 신뢰성 재검토 필요</p><p>• **해상 로지스틱 취약성**: 종전의 대함미사일 중심 해전론에서 보급선 타격 중심으로 전술 변화, 해상 물류 보호체계 강화 필요성 대두</p><p>• **IMO/해양 감시 시스템 공백**: 그림자 함대의 활동이 공식 감시망 우회로 인한 국제해사기구 규정의 한계 노출, AIS 신뢰성 및 독립적 해상감시의 중요성 증대</p></div>`,
+      tags: ["Ukraine","Drone Warfare","Black Sea","Russian Navy","Unmanned Systems","Military Logistics"],
+      link: "https://www.navalnews.com/naval-news/2026/07/ukrainian-drone-raid-russian-ships-crimea-supply-lines/",
+      coords: [35.5,45],
+      location: "Sea of Azov & Northern Black Sea"
+    }
+  ]
+});
+
+// Auto-collected: 2026-07-08
+addEvents({
+  "2026-07-08": [
+    {
+      type: "accident",
+      title: "Qatari LNG Tanker Al Rekayyat Stranded After Projectile Strike and Engine Room Fire",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-08",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockvladsv-172076.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 카타르 LNG 운반선 알 레카얏(Al Rekayyat)호가 7월 8일 호르무즈 해협 인근 오만 해역에서 포탄 피격으로 인한 기관실 화재로 좌초 상태 유지</p><p>• 카타르 가스운송회사(Nakilat) 소유 선박으로 LNG 적재 상태였으며, 전체 승무원은 안전하게 대피 완료</p><p>• 기관실 화재는 진압 진행 중이나 LNG 저장탱크는 온전하며 탱크 파손 없음으로 현재 폭발 위험도는 낮은 상태</p><p>• 이란의 공격 책임으로 카타르 외교부가 공식 항의하였으며, 미 국방부도 이란 목표에 대한 보복 공습 실시</p><p>• 호르무즈 해협 통항 위협 수준이 "상당(Substantial)"에서 "심각(Severe)"으로 상향되었으며, 최소 4척의 유류 및 가스 운반선이 통항 회피</p><p>• 유엔 해운기구장이 지난 48시간 내 공격 규탄 및 좌초 선박의 승무원 대피 허용 촉구</p><p>---</p><h3>Key Quotes</h3><p>• "Breaching a main tank would be catastrophic" (주 탱크가 파손되면 치명적 재앙이 될 것)</p><p>• "The LNG stored in the tanker's tanks remains intact and there is no breach of those tanks" (운반선 탱크에 저장된 LNG는 온전하며 탱크 파손이 없음)</p><p>• "Iran bore full legal responsibility for the attack" (이란이 공격에 대한 완전한 법적 책임 보유)</p><p>---</p><h3>Technical Insights</h3><p>• **LNG 운반선의 극도의 위험성**: 적재화물의 높은 가치와 LNG의 극저온 특성으로 인해 호르무즈 해협 지역에서 가장 고위험 선박으로 분류되며, 주 탱크 파손 시 대규모 폭발 위험 내재</p><p>• **해상 보안 규제 강화**: IMO 및 국제해사정보센터(JMIC)의 위협 수준 상향이 해협 통항 선박들의 회피 증가로 이어져 글로벌 에너지 공급망에 즉각적 영향 미침</p><p>• **자율운항 선박 도입의 필요성**: 분쟁 지역 통항 시 원격 운항 및 무인화 기술의 중요성 부각, 승무원 인명 피해 방지 및 고가 자산 보호의 필수 요소로 인식</p><p>• **국제해사법 및 분쟁 지역 통항 규정**: COLREG 및 국제해상보안규칙(ISPS Code) 강화 필요, 분쟁 지역 통항 선박에 대한 보험, 호위 및 예방 조치 기준 개정 고려</p></div>`,
+      tags: ["LNG Tanker","Projectile Strike","Engine Room Fire","Strait of Hormuz","Iran Attack","Maritime Security"],
+      link: "https://www.marinelink.com/news/qatari-lng-tanker-remains-stranded-541046",
+      coords: [56.2667,25.2667],
+      location: "Strait of Hormuz, off Oman"
+    }
+  ]
+});
