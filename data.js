@@ -10958,3 +10958,63 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-09
+addEvents({
+  "2026-07-09": [
+    {
+      type: "accident",
+      title: "Qatari LNG Tanker Al Rekayyat Hit by Projectile, Fire in Engine Room Off Oman",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-09",
+      image: "https://images.marinelink.com/images/maritime/w800/vladsv-adobe-172089.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 카타르 LNG 탱커 Al Rekayyat가 7월 8일 밤 호르무즈 해협 인근에서 포탄에 맞아 엔진룸 화재 발생<br>• 승무원 전원 안전하게 대피했으며, LNG 화물 탱크는 손상되지 않은 상태로 폭발 위험은 낮다는 평가<br>• 이란의 공격으로 미국이 이란의 석유 판매 허가를 취소하고 보복 조치 단행, 유가 5% 급등<br>• 최근 48시간 사이 적어도 4척의 유조선 및 LNG 탱커가 해협 통항을 포기하고 회항<br>• 호르무즈 해협 통항 위협 수준이 'Substantial'에서 'Severe'로 상향 조정됨<br>• 카타르의 중재국 지위에도 불구하고 카타르 국적 LNG선이 공격받은 첫 사례</p><h3>Key Quotes</h3><p>• "Breaching a main tank would be catastrophic" (주 화물 탱크가 손상되면 대규모 참사가 될 것)<br>• "The LNG stored in the tanker's tanks remains intact and there is no breach of those tanks" (탱커의 LNG 화물은 온전하며 탱크 손상은 없음)<br>• "as long as the vessel was not subject to any further attack, it was likely to remain in its current state and not explode" (추가 공격이 없다면 현 상태가 유지되어 폭발 가능성은 낮음)</p><h3>Technical Insights</h3><p>• LNG 탱커의 화물 탱크 구조와 안전성: 주 화물 탱크 손상은 폭발적 상황을 초래할 수 있으므로, 설계 단계에서의 이중 격벽(double wall) 및 격리 시스템의 중요성 강조<br>• 호르무즈 해협의 전략적 위험 관리: 국제해사기구(IMO) 및 연합국 해양정보센터의 위협 수준 평가 체계가 실시간으로 해운 산업에 영향을 미치는 메커니즘 작동<br>• 자율운항선박(MASS) 도입의 필요성: 고위험 지역 통항 시 원격 조종 또는 자율화를 통해 승무원 안전성 강화 및 위험 노출 감소 가능</p></div>`,
+      tags: ["LNG tanker","projectile attack","engine room fire","Strait of Hormuz","Iran-US conflict"],
+      link: "https://www.marinelink.com/news/projectilehit-qatari-lng-tanker-awaits-541065",
+      coords: [56.5,25.5],
+      location: "Strait of Hormuz, Oman"
+    },
+    {
+      type: "news",
+      title: "Exail and KNDS Strengthen Autonomous Mine Countermeasures Industrial Ecosystem",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-07-09",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/07/exail-k-ster-01_2500x1406-scaled.webp",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Exail과 KNDS가 새로운 프레임워크 협약을 체결하여 K-Ster 기뢰 중화 시스템용 장착형 탄두 수백 개 공급 계약 발표</p><p>• 자율형 기뢰 제거 드론의 대량 생산 전환: 기술 시연 단계에서 실전 배치 단계로 전환되는 산업의 성숙</p><p>• Exail의 자율 로봇 기술과 KNDS의 탄두 제조 기술을 결합하여 15년 이상의 협력 경험 축적</p><p>• NATO 해군을 포함한 전 세계 해군이 고강도 분쟁과 해양 인프라 위협에 대응하기 위해 대규모 기뢰 제거 시스템 보유 필요</p><p>• 프랑스의 자율 기뢰 제거 산업 생태계가 엔드-투-엔드 가치사슬 통합을 통해 군사작전 규모의 대량 생산 및 지속 공급 역량 확보</p><h3>Key Quotes</h3><p>• "In the current strategic context, the challenge is not only to have the best mine countermeasure capabilities, but to be able to produce, deliver, and sustain them at the scale required by operations."<br>(현재의 전략적 맥락에서 과제는 최고의 기뢰 제거 능력을 보유하는 것뿐만 아니라 작전에 필요한 규모로 생산, 배송, 지속 공급할 수 있어야 한다는 점)</p><p>• "For two decades, the robotization of mine warfare was a matter of technological demonstration, with naval forces ordering small fleets to test concepts. Those days are over."<br>(20년 동안 기뢰전의 로봇화는 기술 시연 문제였고, 해군이 소규모 함대를 주문하여 개념을 테스트했다. 그 시대는 끝났다)</p><h3>Technical Insights</h3><p>• **자율 수중 차량(AUV) 기술의 실전 배치 전환**: K-Ster 기뢰 중화 드론이 프로토타입 수준에서 전투 실운용 시스템으로 진화하면서 해군용 자율 로봇 기술의 성숙도 입증</p><p>• **NATO 해군 작전 요구에 따른 대량 생산 체계 구축**: 고강도 분쟁 재발과 해상 인프라 위협 증가에 따라 기뢰 제거 시스템의 전술적 필요성이 소수 보유에서 대량 보유로 급속도로 전환</p><p>• **공급망 통합의 전략적 중요성**: 자율 수중 차량 개발부터 수중 폭발물 탄두 통합까지 엔드-투-엔드 통합 가치사슬이 NATO 해군의 지속 가능한 작전 지원의 핵심 요소로 부각</p><p>• **국방 산업 생태계의 경쟁력 강화**: 프랑스 국방 산업의 자율 기뢰 제거 분야 역량 집중과 글로벌 공급망 성능 확보가 향후 해군 현대화 사업 수주의 결정적 경쟁 우위 요인으로 작용</p></div>`,
+      tags: ["Autonomous Systems","Mine Countermeasures","Naval Defense","K-Ster","French Industry"],
+      link: "https://www.navalnews.com/naval-news/2026/07/exail-and-knds-strengthen-a-french-industrial-ecosystem-dedicated-to-autonomous-mine-countermeasures/",
+      coords: [2.3522,48.8566],
+      location: "France"
+    },
+    {
+      type: "news",
+      title: "U.S. Navy Procures Autonomous Low-Profile Drone Boats from ReconCraft LLC",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-07-09",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 해군 해상 시스템 사령부(Naval Sea Systems Command)가 알래스카 앵커리지 소재 ReconCraft LLC와 자율 저프로파일 무인선박 건조 계약 체결<br>• 계약 규모 $24.96 million, 무인 수상 전술 플랫폼 개발 목표<br>• 설계 기반이 마약 밀매자들의 반잠수식 저탐지 선박에서 영감을 받음 (레이더 회피 능력)<br>• 군사용 자율 운항 선박의 은폐성 및 작전 효율성 강화<br>• 해양 방위 산업에서 무인 플랫폼의 상용 기술 접목 추세 확대</p><h3>Key Quotes</h3><p>• "The military has openly borrowed from the same low-visibility, semi-submersible design smugglers pioneered to avoid radar and visual detection" (군부가 마약 밀매자들이 개발한 저탐지 반잠수식 설계를 공개적으로 차용하여 레이더 및 시각 탐지를 회피하려는 목적으로 활용)</p><h3>Technical Insights</h3><p>• **자율 운항 저프로파일 선박의 군사적 활용**: 무인 플랫폼의 저가시성(Low-Visibility) 특성이 해상 감시, 정찰, 특수작전 수행에 최적화되며, COLREG 준수와 자율항해 시스템의 고도화 필요</p><p>• **해양 방위 산업의 기술 수렴**: 마약 밀매 방지를 위한 해안경비대 기술이 군사용으로 역으로 응용되는 산업 동향으로, 국제해사법(IMO) 무인선박 규제 프레임워크 정립이 시급</p><p>• **해상 도메인 인식(Maritime Domain Awareness) 강화**: 자율 저프로파일 무인선의 운용으로 기존 레이더 기반 감지 체계의 고도화 및 다중 센서 통합 기술 발전 추동</p></div>`,
+      tags: ["Autonomous Vessels","U.S. Navy","Uncrewed Watercraft","Naval Technology"],
+      link: "https://defence-blog.com/u-s-navy-buys-drone-boats-modeled-on-drug-smuggler-design/",
+      coords: [-164.54,61.22],
+      location: "Anchorage, Alaska"
+    }
+  ]
+});
+
+// Auto-collected: 2026-07-08
+addEvents({
+  "2026-07-08": [
+    {
+      type: "news",
+      title: "U.S. Navy Funds Robotic Submarine for Covert Mine-Laying Operations",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-07-08",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 미 해군이 어뢰발사관 탑재형 자율 로봇 잠수함 개발에 1,400만 달러(약 $13.97 million)의 추가 자금을 투입하여 운영화를 추진 중<br>• General Dynamics Mission Systems (매사추세츠 소재)가 주계약자로 선정되어 Navy Sea Systems Command와의 계약 수정을 통해 개발 지속<br>• 이 로봇 잠수함은 미 해군 공격형 잠수함으로부터 발사되어 은폐 상태에서 기뢰를 설치하는 임무 수행 목적<br>• 자율 무기 체계의 운영화 단계로 진입하는 미 해군의 전략적 능력 강화 사례<br>• IMO 및 국제법 규제 프레임워크 밖의 군사용 자율 해양 로봇 개발 동향<br>• 해양 자율 기술의 민군 이중용도 특성과 국제 안보 환경의 변화를 반영</p><h3>Key Quotes</h3><br>• "A torpedo-tube-launched robot built to secretly plant mines from American submarines just got another $14 million push toward becoming operational" (미국 잠수함으로부터 은폐된 기뢰 설치를 수행하는 어뢰발사관 탑재형 로봇이 운영화를 위해 추가 1,400만 달러 자금 지원을 받았음)</p><h3>Technical Insights</h3><br>• **자율 해양 로봇 기술**: 어뢰발사관 통합형 소형 자율 잠수함은 기존 플랫폼과의 호환성을 극대화하면서 독립적 임무 수행 능력 확보<br>• **군사 자율화의 진전**: IMO COLREG 규제 대상 외 군사 영역에서 자율 무기 체계 개발이 민간 해운과 다른 속도로 진행 중이며, 국제 해양법과의 충돌 가능성 증대<br>• **산업 영향**: General Dynamics와 같은 대형 방위사업체들이 자율 해양 로봇 기술 선점 경쟁에 진입하면서 민간 자율선박 기술과의 기술 융합 및 규제 이슈 발생 예상<br>• **전략적 함의**: 은폐 기뢰 설치 능력은 해역 거부(Area Denial) 전술의 자동화를 의미하며, 국제 해상 안보 환경과 분쟁 양상의 변화를 초래할 수 있음</p></div>`,
+      tags: ["autonomous submarine","naval robotics","mine-laying","U.S. Navy","General Dynamics"],
+      link: "https://defence-blog.com/u-s-navy-funds-a-robotic-submarine-built-to-secretly-lay-mines/",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
