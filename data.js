@@ -11018,3 +11018,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-09
+addEvents({
+  "2026-07-09": [
+    {
+      type: "news",
+      title: "UAV Navigation-Grupo Oesía Releases VECTOR Autopilot Software Version 9.2",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-09",
+      image: "https://images.marinelink.com/images/maritime/w800/navigationgrupo-172122.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• UAV Navigation-Grupo Oesía가 VECTOR 자동조종 소프트웨어 버전 9.2를 출시하며 향상된 상호운용성과 모듈화 기능 제공<br>• 스페인의 무인 항공·해양 시스템 전문 기업이 개발한 다중 도메인 운영 솔루션<br>• 항공과 해양 플랫폼 간의 상호작용을 지원하여 이질적인 무인 항공기(UAV)-무인 해상 차량(USV) 군단 운영 가능<br>• 자동 회피(detect-and-avoid) 기능과 AIS 기반 상황 인식을 통합하여 복잡한 해양 환경에서의 안전한 항해 보장<br>• 접근, 발사, 회수 등 임무의 중요 단계에서도 안전한 운영 가능</p><h3>Key Quotes</h3><br>• "Version 9.2 further strengthens coordinated multi-domain UxV operations, enabling interaction between aerial and maritime platforms" (버전 9.2는 다중 도메인 무인 차량 간의 협력 운영을 강화하여 항공기와 해양 플랫폼 간의 상호작용 가능)</p><h3>Technical Insights</h3><br>• VECTOR 9.2는 무인 항공기의 회피 기술과 AIS 기반 상황 인식을 해양 영역에 적용하여 자율 항해의 안전성 대폭 강화<br>• 다중 도메인 운영(aerial-maritime coordination)은 해양 산업의 미래 방향으로, 협력형 무인 시스템을 통한 복합 작업 효율성 극대화 가능<br>• IMO 자율선박 규정 완성에 앞서 산업계가 자동 회피 및 상황 인식 기술 선제적으로 개발하고 있으며, 이는 국제 표준화에 영향을 미칠 것으로 예상</p></div>`,
+      tags: ["autonomous ships","autopilot software","unmanned vehicles","maritime technology"],
+      link: "https://www.marinelink.com/news/uav-navigationgrupo-oesa-releases-new-541095",
+      coords: [0,0],
+      location: "Spain (company headquarters)"
+    },
+    {
+      type: "news",
+      title: "J.A. Solutions Introduces Automatic Deployment System for USVs and Surface Vessels",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-07-09",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/07/1783407781838.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 덴마크 회사 J.A. Solutions A/S가 무인 수상함정(USV) 및 해상 플랫폼용 자동 배포 시스템을 개발하여 군사 및 해상 구조 작전에 활용 가능성 제시</p><p>• 생명정 배포 구성(SAR 작전용) 및 모듈식 프레임 구조(해양 지뢰, 드론, 센서 패키지, 생명정 탑재 및 해제용)의 두 가지 구성으로 설계됨</p><p>• Orca USV 플랫폼에 장착되었으며, 대부분의 USV 플랫폼에 적응 가능한 범용 시스템으로 설계됨</p><p>• 단일 레일 섹션당 약 300kg의 무게로 2~3개의 생명정을 탑재 가능하며, 유인 해상 구조함정의 고위험 지역 진입 필요성 감소</p><p>• 지뢰 전쟁 및 해상 구조 작전에서 승무원의 노출 위험을 크게 감소시키는 군사적·민간적 가치 보유</p><h3>Key Quotes</h3><p>• "The life raft configuration allows one or more rafts to be deployed remotely inside an operational area without sending a manned SAR platform." (유인 해상 구조함정을 파견하지 않고도 작전 지역 내에서 원격으로 생명정 배포 가능)</p><p>• "A USV fitted with a deployment system could be used to place payloads, deliver emergency equipment, or reduce the need for a crewed vessel to enter a high-risk area in the first phase of an operation." (무인 수상함정에 배포 시스템을 장착하면 화물 투하, 긴급 장비 배송, 또는 고위험 지역 진입 필요성 감소)</p><h3>Technical Insights</h3><p>• **자율 해상 시스템의 확장된 역할**: 기존 감시/순찰 기능을 넘어 물품 배송, 지뢰 배치, 센서 배포 등 다양한 작전 임무 수행 가능한 다목적 플랫폼으로 진화</p><p>• **IMO 및 국제 규정 측면**: USV의 적극적 물체 배포 작전은 해상법(UNCLOS), 지뢰 금지 협약 및 국가 간 경계 규정과의 정렬 필요성 제기</p><p>• **산업적 영향**: 모듈식 설계를 통해 10ft/20ft 컨테이너 랙 호환성 확보로 해군, 해안경비대, 민간 해상 구조 기관 간 장비 표준화 및 운용 효율성 향상 가능성</p><p>• **승무원 안전성 강화**: 원격 조종 무인 플랫폼의 위험 지역 선행 투입으로 유인함정 승무원의 노출 위험 감소 및 해상 구조 작전의 신속성 및 안전성 향상</p></div>`,
+      tags: ["USV","Autonomous Maritime Systems","Unmanned Surface Vessels","SAR Operations","Defense Technology"],
+      link: "https://www.navalnews.com/naval-news/2026/07/j-a-solutions-introduces-automatic-deployment-system-for-usvs-and-surface-vessels/",
+      coords: [55.6761,12.5683],
+      location: "Copenhagen, Denmark"
+    },
+    {
+      type: "news",
+      title: "Maersk Resumes Suez Canal Route From Middle East to US",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-09",
+      image: "https://images.marinelink.com/images/maritime/w800/dbvirago-stockadobecom-172126.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Maersk는 예멘 후티 반군의 공격으로 중단된 수에즈 운하 경로를 Middle East-US East Coast 서비스에서 재개한다고 발표<br>• 이는 지난 수개월간의 아프리카 희망봉 우회 항로 운영에서의 구조적 변화를 의미<br>• 서향 통과 시간은 평균 7일, 동향 통과 시간은 최대 14일 단축될 예상<br>• Hapag-Lloyd와의 Gemini 협력망을 통한 부분적 수에즈 운하 운영도 동시 진행 중<br>• 이란 전쟁으로 인한 페르시아만 접근 제약 등 중동 지역의 추가 운영 위험 여전</p><h3>Key Quotes</h3><br>• "By making the structural change of returning to the trans-Suez route for the MECL service, we will offer significant improved transit times" (MECL 서비스의 수에즈 경로 복귀로 운송 시간을 획기적으로 단축할 것)<br>• "Most shipping companies abandoned the Asia-Europe trade corridor through the Suez Canal after attacks in the Red Sea by Yemen's Houthis" (대부분의 해운사들이 후티 반군의 홍해 공격으로 인해 수에즈 경로를 포기)</p><h3>Technical Insights</h3><br>• **항로 경제성 회복**: 희망봉 우회(Cape of Good Hope)에 비해 수에즈 통과 시 평균 7-14일 시간 단축으로 연료비 및 선박 회전율 개선 효과<br>• **지정학적 위험 관리**: 후티 공격의 감소 추세에도 불구하고 이란 전쟁으로 인한 페르시아만 접근성 제약이 지속되는 복합적 리스크 구조<br>• **업계 신뢰 회복**: Maersk, Hapag-Lloyd 등 대형 선사들의 단계적 수에즈 복귀는 Red Sea 안정화 신호로 작용하며, 타 해운사들의 후속 결정에 영향을 미칠 전망<br>• **IMO 안보 협력 필요성**: 홍해 지역의 해상 안보 개선과 국제해사기구의 지역 통항 안전 기준 강화 필요</p></div>`,
+      tags: ["Suez Canal","Container Shipping","Red Sea","Maersk","Route Recovery"],
+      link: "https://www.marinelink.com/news/maersk-resumes-suez-canal-route-middle-541100",
+      coords: [32.3792,30.2753],
+      location: "Suez Canal, Egypt"
+    }
+  ]
+});
