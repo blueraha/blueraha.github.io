@@ -11062,3 +11062,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-10
+addEvents({
+  "2026-07-10": [
+    {
+      type: "news",
+      title: "LNG Tankers Resume Hormuz Crossings Amid Middle East Tensions",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-10",
+      image: "https://images.marinelink.com/images/maritime/w800/altin-osmanaj-172131.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 호르무즈 해협을 통한 LNG 유조선 운항이 재개되었으며, 최근 며칠 동안 최소 5척의 벌라스트 LNG 유조선이 해협에 진입하였음<br>• GasLog Shanghai(그리스 GasLog 통제), Al Samriya, Al Dafna, Al Gattara, Al Rayyan(모두 카타르에너지 소속) 등이 호르무즈 해협을 통과<br>• 이란의 상선 공격과 미국의 보복 공격으로 해협 통항량이 감소했으나, 선사들이 점진적으로 운항 재개 중<br>• 일본 연계 선박 22척이 7월 7-9일 사이에 호르무즈 해협을 통과하여 걸프만을 탈출, 일본 연계 선박은 45척에서 4척으로 감소<br>• 이란이 "오만 루트" 선박을 선택적으로 공격함에 따라, 선사들은 "이란 루트" 또는 다크 트랜짓으로 전환하고 있음</p><h3>Key Quotes</h3><p>• "What's different now, compared to the start of the conflict, is that Iran is striking vessels using the 'Omani route' rather than targeting all vessels, which means vessels will increasingly turn towards the 'Iranian route' or transit dark when transiting through the strait," (분쟁 초기와 달리 이란이 모든 선박이 아닌 '오만 루트' 선박만 공격하고 있어, 선사들이 '이란 루트' 또는 다크 트랜짓으로 전환할 가능성이 높아지고 있음을 의미)<br><li>Xavier Tang, Senior Market Analyst, Vortexa</li></p><p>• "The number of Japan-linked vessels in the Gulf has dropped from 45 with about 1,100 crew members at the start of the conflict to four vessels with about 100 crew members" (분쟁 초기 약 1,100명의 승무원을 탑승한 45척에서 약 100명의 승무원을 탑승한 4척으로 감소)<br><li>Japanese Shipowners' Association Spokesperson</li></p><h3>Technical Insights</h3><p>• 호르무즈 해협 운항 재개는 선사들의 위험 관리 및 항로 선택 전략의 변화를 반영하며, 이란의 선택적 공격 정책이 대상 선박의 특정 특성(선종, 국적, 화물)에 따라 결정되고 있음을 시사<br>• 글로벌 LNG 및 원유 수송의 주요 병목지인 호르무즈 해협의 통항 재개는 에너지 시장 안정성과 국제 해운 금융에 영향을 미치며, 선사들의 위험보험료 및 우회 항로 선택이 경제성 평가의 중요 변수가 됨<br>• 일본 관련 선박의 급격한 감소(45척→4척)는 아시아 태평양 지역의 에너지 공급망 재편 가능성을 시사하며, 선사들의 호르무즈 해협 의존도 감소 추세를 보여줌<br>• 다크 트랜짓(위치추적 비활성화) 운항 증가는 해상교통 투명성 감소와 해양안보 감시 역량 저하를 초래할 수 있으며, IMO의 선박 추적 규정 강화 필요성을 재점화</p></div>`,
+      tags: ["LNG Tankers","Strait of Hormuz","Shipping Routes","Geopolitical Risk"],
+      link: "https://www.marinelink.com/news/lng-tankers-resume-hormuz-crossings-amid-541108",
+      coords: [56.35,26.12],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
+
+// Auto-collected: 2026-07-09
+addEvents({
+  "2026-07-09": [
+    {
+      type: "news",
+      title: "Oil Prices Ease Amid US-Iran Peace Negotiations and Strait of Hormuz Concerns",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-09",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockkannadhee-172125.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국-이란 분쟁 심화로 인한 유가 변동성: 브렌트유 배럴당 $77.91, WTI $73.14로 하락세를 보였으나 시장 심리는 불안정 상태</p><p>• 호르무즈 해협의 지정학적 위험 성증: 글로벌 석유 및 LNG 공급의 5분의 1이 통과하는 전략적 해상로의 보안 우려로 해운사들이 항로 중단 검토</p><p>• 전쟁 보험사들의 정책 변화: 선박 공격 재개 위험으로 보험료 조건 재검토 및 항행 일시 중단 권고</p><p>• 골드만삭스의 시나리오 분석: 협상 성공 시 7월 말까지 정상화, 실패 시 하루 660만 배럴 공급 차질 가능성</p><p>• 러시아의 디젤 수출 금지 조치: 우크라이나 드론 공격으로 인한 정유소 피해로 국내 연료시장 지원</p><h3>Key Quotes</h3><p>• "Generally (it's) a very nervous market ... any news that dampens the prospect of a peace deal is adding a bit to the market" (평화협상 전망을 약화시키는 뉴스가 시장 불안감을 증가시키는 상황)</p><p>• "In the base case, Brent probably trades in a $75–$85 range over the next month, with a mild upward bias" (기본 시나리오에서 브렌트유는 향후 1개월간 배럴당 $75-85 범위에서 소폭 상승세 유지 예상)</p><h3>Technical Insights</h3><p>• **호르무즈 해협 운영 리스크**: 이란의 해협 통제력이 분쟁의 주요 지렛대로 작용하고 있으며, 해상 운송 안전성 악화로 선사들의 항로 변경 비용 증가 및 보험료 상승 초래</p><p>• **국제 해운 보험 시장의 변화**: 전쟁 위험도 증가에 따른 보험 약관 강화 및 특정 해역 항행 보험료 프리미엄 확대로 선박 운영 비용 대폭 증가</p><p>• **에너지 공급망 교란과 해운 영향**: 유가 변동성이 심화되면서 연료유(벙커유) 가격도 동반 상승하여 장거리 국제 항해 비용 증대 및 대안 항로 개발 필요성 대두</p></div>`,
+      tags: ["Oil Prices","US-Iran Conflict","Strait of Hormuz","Shipping Insurance"],
+      link: "https://www.marinelink.com/news/oil-prices-lower-ahead-possible-usiran-541099",
+      coords: [53.5,26.1],
+      location: "Strait of Hormuz / Persian Gulf"
+    }
+  ]
+});
