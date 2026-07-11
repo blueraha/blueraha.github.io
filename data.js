@@ -11100,3 +11100,46 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-10
+addEvents({
+  "2026-07-10": [
+    {
+      type: "news",
+      title: "Trump Declares Iran Ceasefire Over as U.S. Unveils New Sanctions Following Strait of Hormuz Attacks",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-07-10",
+      image: "https://gcaptain.com/wp-content/uploads/2026/06/2026-05-28T170031Z_1033704711_RC2THLAMQXA1_RTRMADP_3_IRAN-CRISIS-MEMORANDUM-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 트럼프 대통령은 이란과의 휴전협정이 종료되었음을 선언했으며, 호르무즈 해협에서 국제 상선에 대한 이란의 공격 재개를 이유로 들었습니다.</p><p>• 미국 재무부는 이란 지도부와 연계된 두바이 기반 사업가 알리 안사리 및 수십억 달러 규모의 자금을 이동시키는 이란 환전소들에 대한 새로운 제재를 발표했습니다.</p><p>• 안사리는 모즈타바 하메네이 등 이란 최고 지도부 인사들을 위해 글로벌 자산 네트워크를 운영했으며, 독일, 룩셈부르크, 스페인, 영국, 키프로스, UAE 등 다국적 부동산 포트폴리오를 보유했습니다.</p><p>• 미국 중부사령부는 7월 7-8일 이란 군사 목표물에 대해 연속 공격을 감행했으며, 약 170개 목표물과 60여 척의 이슬람혁명수비대 고속정을 격파했습니다.</p><p>• 호르무즈 해협의 상선 공격은 해운 산업에 직접적인 보안 위협을 제기하며, 국제 해상 운송의 안정성과 보험료 상승에 영향을 미칩니다.</p><h3>Key Quotes</h3><p>• "The Islamic Republic of Iran has asked us to continue 'talks.' We have agreed to do so, but the United States has stated to them, in no uncertain terms, that the Cease Fire is OVER!" <br>(이란이 협상 지속을 요청했지만, 미국은 휴전이 종료되었음을 명확히 통보했다는 의미)</p><p>• "The so-called Supreme Leader is hiding in seclusion while his regime crumbles. Treasury will continue using every tool at its disposal to isolate him and other regime elites from the global financial system."<br>(미국 재무부는 이란 최고 지도자와 정권 엘리트들을 국제 금융 시스템으로부터 격리하기 위해 모든 수단을 동원할 것이라는 경제 제재의 의지 표현)</p><h3>Technical Insights</h3><p>• **해상 운송 보안 위협**: 호르무즈 해협은 전 세계 석유 수출의 약 21%가 통과하는 전략적 요충지로, 이란의 반복적인 상선 공격은 국제 해운 안전과 해적 방지 조치의 강화를 요구합니다.</p><p>• **자금 제재의 해운 산업 영향**: 이란 환전소와 금융 네트워크에 대한 제재는 이란 관련 해운 보험료 상승, 신용장(Letter of Credit) 발급 제한, 그리고 중동 항만 운영의 불확실성 증가를 초래합니다.</p><p>• **국제 해양법 및 IMO 규제**: 상선에 대한 무장 공격은 해양법 협약(UNCLOS)과 해적 방지 국제 규범을 위반하며, IMO는 고위험 해역 항해 시 강화된 보안 프로토콜(ISPS Code) 준수를 권고할 필요가 있습니다.</p><p>• **지정학적 해운 경로 변경**: 기업들은 호르무즈 해협 우회 항로(수에즈 운하, 아프리카 희망봉)로의 전환을 검토하게 되며, 이는 운송 시간 연장과 해운 비용 증가로 이어집니다.</p></div>`,
+      tags: ["Iran","Sanctions","Strait of Hormuz","Shipping Security","Geopolitics"],
+      link: "https://gcaptain.com/trump-declares-iran-ceasefire-over-as-u-s-unveils-new-sanctions/",
+      coords: [56.2319,26.1551],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "Kuwait procures Rheinmetall's MASS decoy launchers for Al Dorra-class vessels",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-07-10",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/07/mass.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 쿠웨이트 해군이 라인메탈의 MASS(다중탄약 소프트킬 시스템) 디코이 발사기를 처음으로 도입하며 8척의 함정에 장착할 예정</p><p>• Al Dorra급 유도미사일 고속정에 MASS 시스템을 통합하는 계약으로 저수준 수천만 유로대의 가치를 보유</p><p>• 오므니트랩-ER 디코이 탄약도 함께 주문되어 확장된 사거리와 개선된 탄도로 현대식 영상레이더 및 적외선 유도 위협으로부터 보호</p><p>• 아부다비 조선소(EDGE Group 소속)가 건조하는 프로젝트로 중동 지역의 대규모 해군 현대화 사업의 일환</p><p>• 2026년 2분기부터 2029년 2분기까지 3년간 분할 인수예정이며 통합 및 검증 활동 포함</p><h3>Key Quotes</h3><p>• "MASS protects ships and boats from a wide range of threats, such as attacks by anti-ship missiles or laser-guided weapons, whether on the high seas, in coastal waters or on rivers." (MASS는 외해, 연안수, 강 등에서 반함미사일이나 레이저유도 무기 등 광범위한 위협으로부터 함정을 보호한다)</p><p>• "Thanks to its modular design, the MASS system can be installed on vessels of all sizes, ranging from offshore patrol vessels to frigates." (모듈식 설계 덕분에 MASS 시스템은 해양순찰함부터 호위함까지 모든 규모의 함정에 설치 가능하다)</p><h3>Technical Insights</h3><p>• MASS의 멀티스펙트럼 디코이 방식은 레이더, 자외선, 전자광학, 레이저, 적외선 등 전체 파장범위를 커버하여 현대식 다중 위협으로부터 포괄적 방어 제공</p><p>• 모듈식 구조로 기존 함정의 전투체계와의 최소한의 통합 노력으로 실장 가능하며, 독립형으로도 운영 가능한 유연성 제공</p><p>• 오므니트랩-ER의 확장된 사거리와 개선된 탄도는 상황대응형 디코이 배치를 통해 고급 감시 시스템 회피 능력 향상을 의미함</p><p>• Al Dorra급 고속정의 스텔스 특성과 MASS 시스템의 결합은 연안 작전 환경에서 중동 해군의 적응형 방어 능력 강화를 의미</p></div>`,
+      tags: ["Defense Systems","Naval Equipment","Kuwait","Rheinmetall","MASS"],
+      link: "https://www.navalnews.com/naval-news/2026/07/kuwait-procures-rheinmetalls-mass-decoy-launchers-for-the-first-time/",
+      coords: [47.9774,29.3759],
+      location: "Kuwait"
+    },
+    {
+      type: "news",
+      title: "USNI News Western Pacific Pulse: July 10, 2026 - RIMPAC 2026 Exercise At-Sea Phase",
+      source: "USNI News",
+      sourceMeta: "news.usni.org · 2026-07-10",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• RIMPAC 2026 대규모 해상 훈련이 하와이 진주만 기지에서 본격적인 해상 운영 단계에 진입했으며, 미 해군이 주도하는 국제 연합 훈련으로 진행 중</p><p>• 참가 함정: 캐나다 해군 프리깃함 HMCS Ottawa(FFH341), 일본 해상자위대 구축함 JS Kongo(DDG-173), 미 해군 항공모함 등 다국적 해군 전력이 동원</p><p>• 월요일부터 목요일까지 단계적으로 진주만 기지를 출항했으며, 수상 무인함정(Unmanned Surface Vessels, USV)도 훈련에 참가</p><p>• 화요일 토어피도 발사, 수요일 함공미사일 발사 등 실사격 훈련 개시로 실제 전투 시나리오 중심의 고강도 훈련 실행</p><p>• 서태평양 지역 해군 안보와 국제 해상 협력 강화를 위한 전략적 의미의 훈련으로 평가</p><h3>Key Quotes</h3><p>• "ships and unmanned surface vessels departing from Joint Base Pearl Harbor – Hickam in stages from Monday to Thursday" <br>(미 해군 함정과 무인 수상함이 월요일부터 목요일까지 단계적으로 진주만 기지에서 출항)</p><p>• "Live-firing drills for RIMPAC began Tuesday with Royal Canadian Navy (RCN) frigate HMCS Ottawa (FFH341) carrying out a torpedo firing"<br>(RIMPAC 실사격 훈련이 화요일 캐나다 해군 함정의 토어피도 발사로 개시)</p><h3>Technical Insights</h3><p>• **무인 수상함정(USV) 통합 운용**: RIMPAC 2026에서 유인 함정과 무인 수상함정의 협동 작전 체계 도입으로 차세대 해전 개념 검증 중</p><p>• **다국적 해군 상호운용성(Interoperability)**: 미국, 캐나다, 일본 등 동맹국 해군 간 COLREG 준수 및 전술 표준화를 통한 해상 안전성과 전투 효율성 강화</p><p>• **고강도 실사격 훈련의 전술적 가치**: 토어피도, 함공미사일 등 실제 무기체계 발사로 인적 오류 최소화 및 자동화 시스템의 신뢰성 검증 시행</p><p>• **서태평양 해역 안보 전략**: 인도-태평양 전략 차원에서 해상 통제 능력 시위 및 지역 안정성 강화를 위한 정기적 다국적 훈련의 중요성 부각</p></div>`,
+      tags: ["RIMPAC 2026","Naval Exercise","U.S. Navy","Unmanned Surface Vessels","Western Pacific"],
+      link: "https://news.usni.org/2026/07/10/usni-news-western-pacific-pulse-july-10-2026",
+      coords: [-157.9225,21.3099],
+      location: "Hawaii (Joint Base Pearl Harbor-Hickam)"
+    }
+  ]
+});
