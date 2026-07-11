@@ -11143,3 +11143,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-10
+addEvents({
+  "2026-07-10": [
+    {
+      type: "accident",
+      title: "Ukraine Strikes 13 Russian Vessels in Sea of Azov",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-10",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockpeter-172157.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 우크라이나 드론 부대가 아조프해에서 러시아 선박 13척을 격침 - 유조선 10척, 건화물선 1척, 페리 1척 포함<br>• 우크라이나 드론 전투사령관 로버트 브로브디(Robert Brovdi)가 텔레그램을 통해 공격 사실 확인<br>• 작전의 목표는 러시아군에 대한 연료 위기 조성을 목표로 한 대규모 캠페인의 일환<br>• 동일 기간 우크라이나군은 크림반 점령지역 내 전력망 5개소도 격침<br>• 해상 물류 거점인 아조프해에서의 군사 작전 심화로 민간 해운 활동 위험 급증</p><h3>Key Quotes</h3><br>• "13 Russian vessels struck in the Sea of Azov on Friday, including 10 tankers" (금요일 아조프해에서 유조선 10척을 포함한 러시아 선박 13척이 격침됨)<br>• "part of Kyiv's major campaign aimed at enforcing a fuel crisis on Moscow's troops" (키이우의 러시아군에 대한 연료 위기 조성을 목표로 하는 대규모 캠페인의 일환)</p><h3>Technical Insights</h3><br>• 아조프해는 흑해 전략적 요충지로서 러시아의 주요 해상 보급로이며, 드론 기술 발전이 해상 군사 작전의 패러다임을 변화시키고 있음<br>• 선박 격침 작전은 민간 선박의 통항 안전성 악화로 이어져 해상보험료 상승 및 국제 해운업의 경제적 충격 초래<br>• 해상분쟁 지역에서의 드론 사용 확대는 기존 COLREG(해상충돌회피규칙)의 실효성 문제와 자율운항선박의 군사적 위협 인식 강화로 작용</p></div>`,
+      tags: ["Military Operations","Sea of Azov","Vessel Damage","Ukraine-Russia Conflict"],
+      link: "https://www.marinelink.com/news/russian-vessels-struck-ukraine-azov-sea-541139",
+      coords: [37.5,46.5],
+      location: "Sea of Azov"
+    },
+    {
+      type: "news",
+      title: "Saipem-Subsea 7 Merger Faces EU Antitrust Investigation",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-10",
+      image: "https://images.marinelink.com/images/maritime/w800/piter2121-stockadobecom-172155.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이탈리아 에너지 계약업체 Saipem과 노르웨이 Subsea 7의 합병이 EU 반독점 조사 대상이 될 예정이며, 유럽위원회는 7월 22일 예비심사 종료 후 본격적인 심사 개시 가능성이 높음</p><p>• 두 회사는 2025년 2월 해상 에너지 서비스 분야의 글로벌 선두업체 창출을 목표로 합병 발표했으며, 시추·엔지니어링·해저 인프라 구축 등 광범위한 선박 운영 사업 영위</p><p>• 해당 합병은 브라질에서 무조건적 승인을 받았으나 호주 반독점 규제당국은 해상 석유·가스 서비스 경쟁 감소 우려로 심층 조사 명령</p><p>• 반독점 우려 해소를 위한 시정 조치로는 용량 감소 또는 선박 매각 등이 거론되고 있으나, 현실적 가능성은 낮다고 평가됨</p><p>• Saipem의 고객층은 사우디 아람코, 카타르에너지 등 국영 에너지 기업 중심이고, Subsea 7은 BP, Equinor 등 국제 석유회사 중심으로 고객 기반이 상이함</p><h3>Key Quotes</h3><p>• "The companies could stave it off by offering remedies to address antitrust worries but this is seen as unlikely" (반독점 우려를 해결하기 위한 시정 조치로 회피할 수 있으나 가능성이 낮다고 판단됨)</p><p>• "Potential remedies could include the companies reducing their capacity or selling off some of their vessels" (시정 조치로 회사의 용량 감소 또는 일부 선박 매각이 포함될 수 있음)</p><h3>Technical Insights</h3><p>• 해상 에너지 서비스 산업의 선박 자산(vessel capacity) 통합은 경쟁 구도에 직접적 영향을 미치며, 규제당국의 시장 집중도 분석 주요 대상으로 작용</p><p>• EU, 호주 등 주요 해양산업 규제 지역에서의 이중 심사는 글로벌 M&A 거래에서 지역별 경쟁법 조화의 한계를 드러내는 사례</p><p>• 해양 기술/선박 자산의 감가상각 특성상 선박 매각을 통한 시정 조치는 산업 구조 재편과 중장기 서비스 공급 능력 저하의 위험을 내포</p></div>`,
+      tags: ["Antitrust","Merger","Saipem","Subsea 7","Offshore Energy Services","Competition Regulation"],
+      link: "https://www.marinelink.com/news/saipem-subsea-undergo-eu-antitrust-541137",
+      coords: [0,0],
+      location: "European Union"
+    },
+    {
+      type: "news",
+      title: "USCG Issues RFP for Homeland Security Cutter-Light Vessels, Proposals Due July 14",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-10",
+      image: "https://images.marinelink.com/images/maritime/w800/photo-172152.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 해안경비대(USCG)가 홈랜드 보안 커터-경량(HSC-L) 선박 7척의 설계, 생산, 시험 및 납품을 위한 제안요청서(RFP) 발표</p><p>• 제안 마감일은 2026년 7월 14일이며, 부정기한 납품/부정기한 수량(IDIQ) 계약을 통한 조달 예정</p><p>• 1961-1967년 취역한 65피트 경량 쇄빙예인선 65척의 노후화로 교체 필요성 대두</p><p>• 신규 HSC-L 선박은 이중 기능 플랫폼으로 설계되어 다양한 얼음 조건에서 효율적 운영 가능</p><p>• 항행 보조 장비 탑재로 모든 규모 선박의 안전 항행 및 네비게이션 지원</p><p>• 2단계 평가 프로세스 적용: Phase 1 제안 수령 후 다운셀렉트 공지 예정, Phase 2 일정은 추후 공지</p><h3>Key Quotes</h3><p>• "The Coast Guard plans to acquire seven HSC-Ls through an indefinite delivery/indefinite quantity contract." (해안경비대가 부정기한 납품/부정기한 수량 계약을 통해 7척의 HSC-L을 조달할 계획)</p><p>• "The HSC-Ls will be designed to operate efficiently in a variety of ice conditions and will be equipped with aids to navigation capabilities, providing safe passage and navigation for vessels of all sizes." (HSC-L은 다양한 얼음 조건에서 효율적으로 운영되도록 설계되며, 항행 보조 장비를 갖춰 모든 규모의 선박에 안전한 통항과 네비게이션 제공)</p><h3>Technical Insights</h3><p>• 경량 쇄빙선의 현대화: 1960년대 건조된 65피트 예인선을 60년 이상 사용하고 있어 첨단 환경 대응 및 운영 효율성 개선 필요</p><p>• 이중 기능 플랫폼(Dual-capability platform): 쇄빙 능력과 항행 보조 기능을 통합하여 연중 소형 항만 접근성 유지 및 해역 통제 강화</p><p>• IDIQ 계약 구조: 향후 추가 수요 대응의 유연성 확보로 예산 예측성과 공급망 안정성 동시 달성</p><p>• 산업 파급효과: 대형 방위산업 업체들의 경합으로 해양 건조 기술 경쟁 심화 및 소형 선박 자동화/스마트쉽 기술 도입 촉진 가능</p></div>`,
+      tags: ["USCG","RFP","vessel procurement","homeland security","cutter"],
+      link: "https://www.marinelink.com/news/uscg-rfp-homeland-security-vessel-closes-541131",
+      coords: [0,0],
+      location: "United States"
+    },
+    {
+      type: "news",
+      title: "Panama Arrests 26 Port Workers in Major Cocaine Trafficking Investigation",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-07-10",
+      image: "https://maritime-executive.com/media/images/article/Balboa-Panama-Hutchison-terminal.9f3613.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 파나마 발보아항 관리자 26명이 국제 코카인 밀수 조직의 일원으로 체포됨 - 2년간의 국제합동수사 결과<br>• 호주·파나마·국제경찰 당국의 정보공유로 2024년 10월 이후 호주 및 유럽 적발 마약 1톤 이상과 연계된 범죄 조직 적발<br>• 멕시코·콜롬비아 마약 카르텔이 부패한 항만 근로자를 이용하여 아시아-미주 공급망을 악용한 대규모 마약 밀수 추진<br>• 발보아항은 2025년 260만 TEU 처리, 파나마 전체 항만이 990만 TEU 처리하며 라틴아메리카 최대 환적 허브로 기능<br>• 파나마의 2,490km 해안선과 콜롬비아와의 경계, 달러화 경제 등이 범죄 조직의 마약 밀수 활동을 용이하게 함</p><h3>Key Quotes</h3><p>• "Working alongside our Panamanian partners, we have struck at the heart of a major criminal organization that sought to exploit international supply chains to traffic large quantities of cocaine to Australia" (파나마 파트너와 함께 국제 공급망을 악용하여 대량의 코카인을 호주로 밀수하려던 주요 범죄 조직의 핵심을 타격했다)</p><p>• "The operation demonstrated the strength of international law enforcement partnerships and the critical role intelligence sharing plays in combating transnational organized crime" (이 작전은 국제 법 집행 파트너십의 강점과 초국적 조직범죄 퇴치에 있어 정보공유의 중요한 역할을 입증했다)</p><h3>Technical Insights</h3><p>• **항만 보안 취약성**: 발보아항과 같은 대규모 환적 허브의 부패 근로자 침투는 국제 해운 보안의 중대한 위협이며, 항만 종사자 신원조회 및 감시 강화 필요<br>• **공급망 악용**: 마약 조직이 정상적인 해운 물류를 위장하여 컨테이너를 이용한 밀수는 해운업계의 디지털 화물 추적(e-Manifest) 및 AI 기반 감지 시스템 도입 필요성 강조<br>• **국제 정보공유의 중요성**: 호주·파나마 당국의 2년간 합동 수사는 IMO 해양보안 협약(ISPS Code) 강화와 국가 간 실시간 정보공유 체계 구축의 필수성 입증<br>• **항만 거버넌스 개선**: 파나마의 달러화 경제 남용, 부패 관행 적발로 항만청 감시기구 독립성 강화 및 국제 항만보안 감사 제도(Port State Control) 강화 필요</p></div>`,
+      tags: ["drug trafficking","port security","organized crime","Balboa Port","cocaine","law enforcement"],
+      link: "https://maritime-executive.com/article/panama-arrests-26-port-workers-aiding-international-cocaine-trafficking",
+      coords: [-79.5255,8.9824],
+      location: "Panama City (Balboa Port)"
+    }
+  ]
+});
