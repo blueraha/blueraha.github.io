@@ -11237,3 +11237,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-09
+addEvents({
+  "2026-07-09": [
+    {
+      type: "accident",
+      title: "Ukraine Reports 35 Vessels Struck in 96-Hour Drone Campaign in Sea of Azov and Black Sea",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-07-09",
+      image: "https://maritime-executive.com/media/images/article/Blue-tanker-and-Ukraine-Sea-Baby-drone.8d0a49.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 우크라이나가 96시간 동안 아조프해와 흑해에서 드론 공격으로 총 35척의 선박을 격침했다고 주장<br>• 그리스 야사 탱커스(Yasa Tankers)의 158,200톤급 야사 폴라리스호와 터키 관리 165,293톤급 블루호 등 대형 유조선 2척이 피격됨<br>• 야사 폴라리스호는 경미한 피해를 입었으나 블루호는 '심각한 손상'을 입은 것으로 보고됨<br>• 아조프해에서 추가로 유조선 12척, 건화물선 1척, 예인선 1척이 격침되었으며 전체 45개 목표 공격 수행<br>• 러시아의 '섀도우 플릿(shadow fleet)' 선박들이 주요 표적이며, 크림반도 유류 터미널과 탄약고도 공격 대상<br>• 우크라이나의 해상 물류 차단 작전이 러시아의 에너지 부문 붕괴를 목표로 진행 중</p><h3>Key Quotes</h3><p>• "The vessel was empty and that the crew was uninjured. It said the damage was minor." (선박은 공선 상태였으며 승무원은 부상을 입지 않았고, 피해는 경미했다)</p><p>• "Ukraine is saying the vessel sustained 'significant damage' from one of its Sea Baby marine drones." (우크라이나는 해상 드론 '씨 베이비'로부터 '심각한 손상'을 입었다고 주장)</p><p>• "They were working to disrupt the Russian energy sector. President Volodymyr Zelensky had said they were launching a 40" (러시아 에너지 부문 차단을 위해 활동 중이며, 젤렌스키 대통령이 40개 목표 공격 계획을 발표)</p><h3>Technical Insights</h3><p>• 우크라이나의 '씨 베이비(Sea Baby)' 해상 드론 기술이 대형 유조선(158,000~165,000톤급)을 타격할 수 있는 수준으로 발전했음을 의미하며, 해상 무인 공격 무기의 실질적 위협 증대</p><p>• 러시아의 '섀도우 플릿' 선박들이 국제 해양법 및 해상교통로 규제를 우회하고 있으며, 우크라이나의 공격은 국제 해운 보안 체계의 새로운 도전 과제 제시</p><p>• AIS 신호 위조, 국기 거짓 주장 등 섀도우 플릿의 불법 운영 패턴이 노출되었으나, 해상 식별 및 추적 기술의 한계를 드러냄</p><p>• 흑해 지역 해상 운송로의 전쟁 지역화로 인한 보험료 급등, 우회 항로 증가, 국제 해운 비용 상승 등 글로벌 해운 산업에 미치는 간접적 영향 확대</p></div>`,
+      tags: ["Ukraine-Russia conflict","Drone attacks","Tanker strikes","Shadow fleet","Black Sea","Sea of Azov"],
+      link: "https://maritime-executive.com/article/ukraine-raises-tanker-tally-to-35-struck-in-96-hours-and-two-in-black-sea",
+      coords: [35.5,45],
+      location: "Sea of Azov and Black Sea"
+    }
+  ]
+});
