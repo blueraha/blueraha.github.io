@@ -11199,3 +11199,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-03-11
+addEvents({
+  "2026-03-11": [
+    {
+      type: "accident",
+      title: "Three Survivors of Hormuz Attack File Suit Against Thai Shipping Line",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-07-10",
+      image: "https://maritime-executive.com/media/images/article/Mayuree-Naree-abandonded-on-fire.13df88.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 2026년 3월 11일 호르무즈 해협 통과 중 태국 선사 Precious Shipping 소유의 3만 톤급 일반화물선 Mayuree Naree가 이란의 무기 공격으로 기관실에 직격탄을 받아 화재 발생<br>• 생존한 20명 포함 선원 23명 중 3명 사망, 20명은 오만 해군에 의해 구조되어 3월 16일 태국으로 귀환<br>• 공격으로 인한 외상후스트레스장애(PTSD) 진단을 받은 생존 선원 3명이 태국 중앙노동법원에 손배 청구 소송 제기 (1인당 최소 100만 바트/약 3만 달러 배상청구)<br>• 소송 주장: 선사가 위험한 해역 통항을 강행했으며, 생존 선원들에게 2개월 임금과 물품 손실 보상만 제공 후 9개월 미만의 계약 기간 중 일방 해고<br>• Precious Shipping은 의료 검진, 심리 상담 제공, 선원 안전과 복지를 최우선 가치로 삼고 있다고 공식 입장 발표<br>• 사건 발생 후 4개월 경과한 7월 10일 법원 소송 접수, 3명의 피해 선원들은 1년 이상의 PTSD 치료 필요 상태</p><h3>Key Quotes</h3><p>• "The company wishes to clarify that it has consistently acted in compliance with applicable laws, contractual obligations, and internationally accepted maritime practices." <br>(선사는 적용 가능한 법규, 계약 의무, 국제적으로 인정된 해양 관행을 지켜왔다는 입장)</p><p>• "The safety, physical and mental well-being, and welfare of its crew members and their families have always been its highest priority."<br>(선원과 그 가족의 안전, 신체적·정신적 건강, 복지가 항상 최우선 가치라는 주장)</p><p>• "The three crewmembers are unable to work or carry out their daily lives normally."<br>(생존 선원 3명이 정상적인 업무 복귀와 일상생활이 불가능한 상태라는 변호사 진술)</p><h3>Technical Insights</h3><p>• **전쟁 위험 지역 해상 운송의 법적 책임**: 호르무즈 해협 같은 고위험 해역에서의 선박 운항 강행 시 선사의 주의의무 수준과 책임범위에 대한 국제 해사법 기준 필요 - IMO 지침 재검토 시점<br>• **선원 정신건강 보호의 의무화**: PTSD 및 해양사고 후유증에 대한 국제적 보상 기준 부재 - ILO Maritime Labour Convention 개정을 통한 정신건강 의료 지원 강제 조항 추진 필요<br>• **용선자와 선박소유자의 배상책임 분석**: 전쟁 위험 조항(War Clause)과 Force Majeure 해석 차이로 인한 선원 보상 공백 - 국제 해사법원 판례 축적 필요<br>• **유사 사건 재발 방지**: 고위험 해역 통항 전 선원 동의, 위험 수당, 의무 보험 강화 등 사전 예방적 조치 규정화 시급 - 국제해운협회(ICS) 및 선원 조직과의 협력 필수</p></div>`,
+      tags: ["Strait of Hormuz","Iranian Attack","Bulker Mayuree Naree","Maritime Safety","Crew Compensation"],
+      link: "https://maritime-executive.com/article/three-survivors-of-hormuz-attack-file-thai-shipping-line",
+      coords: [56.2667,26.1333],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
+
+// Auto-collected: 2026-07-09
+addEvents({
+  "2026-07-09": [
+    {
+      type: "news",
+      title: "Pakistan Begins Construction on First Containership Since 1980s",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-07-09",
+      image: "https://maritime-executive.com/media/images/article/Karachi-Shipyard.967585.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 파키스탄이 1980년대 이후 처음으로 대형 상선 건조를 시작했으며, 1,100 TEU급 컨테이너선을 카라치 조선소에서 건조 중<br>• 파키스탄 국영 해운공사(PNSC)를 위해 건조되는 선박으로, 강재절단(steel cutting)은 2026년 1월 완료되었으며 현재 조립 단계 진행 중<br>• 파키스탄 정부는 선박 건조업 활성화를 통해 외환 절감, 일자리 창출, 해양경제 확대를 목표로 하며 선박 구매 및 건조재료에 대한 22% 판매세 폐지<br>• 정부는 2024년 해양경제 확대를 위한 태스크포스 출범 후 99개 병목 중 84개 해결책 이행 완료<br>• 인도 등 인접국가가 선박건조에 30%까지 지원하는 상황에서 파키스탄이 경쟁력 강화를 위해 정책 개혁 추진 중<br>• 항만 현대화(통관시간 단축, 24시간 운영), 선박해체 산업 재활성화(홍콩협약 준수) 등 광범위한 해양산업 부흥 계획 병행</p><h3>Key Quotes</h3><p>• "Assembly of the vessel has begun at the country's only shipyard, and it is expected to contribute to the economy and save the country vital foreign exchange costs." (조선소에서 선박 조립이 시작되었으며, 경제 기여와 외환 절감이 예상됨)</p><p>• "It notes that the country's largest owners have in the past registered ships in Panama and Liberia." (파키스탄 최대 선박 소유주들이 과거에 선박을 파나마·라이베리아에 등록해왔음)</p><p>• "By reforming its financial policies, it hopes to make Pakistan more attractive to shipowners." (재정 정책 개혁을 통해 파키스탄을 선박 소유주에게 더욱 매력적으로 만들 목표)</p><h3>Technical Insights</h3><p>• 파키스탄 조선업 부흥은 인도 등 지역 경쟁국의 30% 보조금 정책에 대응하여 22% 판매세 폐지 등 정책 개혁으로 경쟁력 확보 전략 추진 중</p><p>• 1,100 TEU급 컨테이너선 건조는 26,000톤급까지 건조 가능한 카라치 조선소의 능력을 검증하는 초석이 되며, 향후 대형 벌크선·유조선 건조 확대 기반 마련</p><p>• 해양산업 전반의 현대화(항만 통관 자동화, 24시간 운영, 홍콩협약 준수 선박해체)를 통해 국제 규범 준수 및 지속가능한 해양산업 생태계 구축 추진 중</p><p>• 선박 수입 및 외국 국적 등록에서 국내 건조·등록으로의 전환은 외환 절감뿐 아니라 해운 산업 수직계열화를 통한 국내 경제 자립도 강화 효과 기대</p></div>`,
+      tags: ["Shipbuilding","Pakistan","Containership","Blue Economy","Maritime Policy"],
+      link: "https://maritime-executive.com/article/pakistan-begins-construction-on-its-first-containership-since-the-1980s",
+      coords: [67.0099,24.8607],
+      location: "Karachi, Pakistan"
+    }
+  ]
+});
