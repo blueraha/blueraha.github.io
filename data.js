@@ -11257,3 +11257,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-12
+addEvents({
+  "2026-07-12": [
+    {
+      type: "news",
+      title: "Ukraine Damages 90 Russian Ships in One Week Using Unmanned Systems",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-07-12",
+      image: "https://maritime-executive.com/media/images/article/Russian-tanker-burning-USF-Ukraine-Jul-11-2026.1fbc8b.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 우크라이나 무인시스템군(USF)이 일주일간(7월 6-12일) 러시아 연결 선박 90척을 공격하여 대서양 전투 당시 독일 공격률의 약 8배 규모의 타격 달성</p><p>• 주요 목표물은 아조프해와 케르치 해협의 유조선(총 31척), 페리선(5척), 예인선, 화물선 등으로 국제제재를 회피하는 러시아 섀도우 플릿 타겟</p><p>• 우크라이나 드론 조종사들은 선교(船橋)를 집중 공격하며, 정박 또는 계선 중인 목표물에 접근전 또는 후미에서 접근하는 전술 사용</p><p>• 러시아 해안함대가 의미 있는 공중방어력 없이 운영되고 있으며, 저속 무인기의 자유로운 감시와 최적 비행경로 설정 가능</p><p>• 미사일 공격은 해상 물류뿐 아니라 시리잔(Syzran) 정유소 등 러시아 전쟁경제를 지탱하는 육상 시설까지 확대되는 중</p><p>• 112분마다 한 척씩 공격이 이루어지는 속도로, 제재회피 체계 전체와 러시아 석유·석유제품 수출 로지스틱스 붕괴 목표</p><h3>Key Quotes</h3><p>• "Strikes against tankers and ferries that support the operation of Russia's shadow fleet complicate the use of vessels to bypass international sanctions and gradually reduce russia's ability to sustain its war economy and logistical support for its forces" <br>(러시아의 섀도우 플릿을 지원하는 유조선과 페리선 공격은 국제제재 회피를 어렵게 하고 전쟁경제 유지 능력을 단계적으로 약화시킨다는 의미)</p><p>• "The coastal fleet in the Sea of Azov is operating without meaningful air defenses, allowing slow-moving Ukrainian drones to surveil at leisure, select targets, and maneuver for an optimal flight path for their final approach"<br>(아조프해 해안함대가 의미 있는 방공능력 없이 운영되어 저속 무인기가 자유롭게 감시, 목표선정, 최적 접근경로 설정 가능하다는 의미)</p><h3>Technical Insights</h3><p>• 무인항공체계(Unmanned Aerial Vehicles)의 대함 공격 역할 확대 - 해상 로지스틱스 체계의 취약성 노출 및 방공 전역의 재정의 필요</p><p>• 선박 정박 상태에서의 고정표적 공격으로 기동성 없는 vessel의 방어한계 명확화, 해상 안보 개념의 재검토 필요</p><p>• 섀도우 플릿 대상 공격 전략이 개별 선박이 아닌 전체 제재회피 시스템 붕괴를 목표로 함으로써, IMO 제재이행 및 선박 레지스트리 시스템의 투명성 강화 압박</p><p>• 112분 간격의 지속적 공격은 해운산업의 보험료, 선박 가용성, 공급망 신뢰성에 광범위한 영향을 미치는 새로운 해상위협 패턴으로 평가됨</p></div>`,
+      tags: ["Ukraine","Russia","Unmanned Systems","Sea of Azov","Shadow Fleet","Sanctions"],
+      link: "https://maritime-executive.com/article/ukraine-damages-90-russian-ships-in-one-week",
+      coords: [36.75,45.36],
+      location: "Sea of Azov / Kerch Strait"
+    }
+  ]
+});
