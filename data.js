@@ -11277,3 +11277,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-13
+addEvents({
+  "2026-07-13": [
+    {
+      type: "news",
+      title: "Oil Prices Surge 3% Amid US-Iran Military Escalation and Strait of Hormuz Disruption Concerns",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-13",
+      image: "https://images.marinelink.com/images/maritime/w800/ideas-adobe-172163.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국-이란 군사 충돌 재개로 유가가 3% 이상 상승, 브렌트유 배럴당 78.68달러, WTI 73.89달러까지 올라</p><p>• 호르무즈 해협 통행량 급감(주일 6척)으로 전 지구적 석유·LNG 공급량의 1/5에 영향, 해운업계의 보안 우려 심화</p><p>• 이란이 해협 폐쇄 선언 및 쿠웨이트·바레인 미군기지 공격으로 지난달 체결된 임시 휴전협정의 향후 전개 불확실</p><p>• IEA 보고서: 6월 글로벌 석유공급 일증 410만 배럴이나 전쟁 전 대비 940만 배럴 부족 상태 지속</p><p>• 골드만삭스 분석: 2028년까지 호르무즈 우회 파이프라인 확대로 전전 중동산 석유 60% 이상 차단 위험 회피 가능 전망</p><p>• 이란산 비축유 수출 증가 중이나 중국 독립정유소들의 이라크·UAE·카타르산 저가 원유 선호로 판매 부진</p><h3>Key Quotes</h3><p>• "Shipping operators are adopting a cautious approach and inbound movements have slowed under heightening security concerns" (해운업체들이 보안 우려 심화에 따라 신중한 태도를 취하고 있으며 유입 해상수송이 둔화되고 있다는 의미)</p><p>• "The Strait of Hormuz remained open to commercial traffic, despite Iran's earlier declaration that it had closed the waterway" (이란의 폐쇄 선언에도 불구하고 상업 통행은 지속되고 있다는 트럼프 대통령의 입장)</p><h3>Technical Insights</h3><p>• **호르무즈 해협 통행 차질**: 해상 교통 추적 데이터상 주일 6척만 통과한 5주 최저 수준으로 COLREG 준수 범위 내에서도 보안 상황에 따른 운항 회피 현상 심화</p><p>• **대체 운송로 구축**: 골드만삭스의 파이프라인 우회 용량 확대 계획(2028년까지 누적 730만 배럴/일)은 국제 해상운송 패턴의 구조적 변화와 자율운항선 도입 시 새로운 항로 최적화 알고리즘 필요성 강조</p><p>• **해운 운영 리스크**: 지정학적 갈등에 따른 보안 비용 증가, 선박 통항 지연, 보험료 인상 등이 해운산업 경제성 악화로 이어지는 가운데 자율운항 기술의 ROI 개선 잠재력 부각</p></div>`,
+      tags: ["Oil Markets","Strait of Hormuz","US-Iran Conflict","Shipping Operations","Energy Security"],
+      link: "https://www.marinelink.com/news/oil-jumps-renewed-usiran-conflict-541148",
+      coords: [56.5,26.5],
+      location: "Strait of Hormuz / Persian Gulf"
+    },
+    {
+      type: "news",
+      title: "Hormuz Strait Traffic Falls to Five-Week Low Amid US-Iran Tensions and Maritime Attacks",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-13",
+      image: "https://images.marinelink.com/images/maritime/w800/alones-adobe-172162.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 호르무즈 해협 통항 선박 수가 5주 만에 최저 수준인 6척으로 급감했으며, 이는 미국-이란 간 무력충돌 재개 및 중동 해역 선박 공격 증가에 따른 안보 우려 심화를 반영<br>• 초대형유조선(VLCC) Humanity(200만 배럴 이란산 원유 적재), Capetan Andreas(쿠웨이트산 석유제품 50만 배럴) 등 주요 유조선들이 해협을 빠져나갔으며, 대부분의 선박이 트랜스폰더를 비활성화 상태로 운항<br>• 미군이 일요일 이란 내 수십 개 목표물에 대한 정밀 타격을 실행했고, 이란 혁명수비대는 해협 내 2척의 선박을 시스템 차단으로 정지시킨 것으로 보도됨<br>• LNG 운반선의 해협 진입이 전무했으며, 아부다비 국가석유회사 소속 유조선 1척이 인도 다헤즈 항으로 향하고 있는 상황<br>• 트럼프 대통령은 호르무즈 해협이 상업 해운에 개방되어 있다고 주장했으나, 이란은 무단 항로 이용 선박에 대한 타격 후 해협 폐쇄를 선언<br>• 선박 운영사들의 자발적 트랜스폰더 비활성화는 지정학적 위험 회피 및 선박 추적 회피의 의도를 시사하며, 해역 투명성 및 해상교통 안전성 급격히 악화</p><h3>Key Quotes</h3><p>• "Six vessels transited the strait on Sunday, ship-tracking data from Kpler showed, the lowest number in five weeks." (지난 일요일 호르무즈 해협을 통과한 선박은 6척으로, 5주 만에 최저 수준을 기록했음)</p><p>• "Most of the tankers switched off their transponders when crossing the strait." (대부분의 유조선들이 해협 통과 시 자동식별시스템(AIS) 트랜스폰더를 비활성화함)</p><p>• "Iran's Revolutionary Guards said on Monday that its navy stopped two ships in the Strait of Hormuz last night by shutting down their systems." (이란 혁명수비대는 월요일 자신의 해군이 지난 밤 호르무즈 해협에서 2척의 선박을 시스템 차단으로 정지시켰다고 발표)</p><h3>Technical Insights</h3><p>• **AIS 블랙아웃 현상 심화**: 선박들의 의도적인 트랜스폰더 비활성화로 인해 해상교통 상황인식(Maritime Domain Awareness) 시스템의 실효성 저하 및 자율운항선박(MASS) 도입 시 안전 위협 요소로 작용 가능<br>• **해상 보안 체제 붕괴**: 이란의 선박 시스템 강제 차단 행위는 국제해사기구(IMO) SOLAS 협약 및 COLREG(국제해상충돌예방규칙)의 준수 우려를 야기하며, 기존 국제해상법 체계의 한계 노출<br>• **전략적 해로 통항성 악화**: 호르무즈 해협을 경유하는 전 세계 석유 수송량의 약 21% 감소 가능성으로 인한 글로벌 에너지 공급망 교란 및 해운업계의 우회항로 선택 강제화<br>• **해상 위험관리 수준 상향**: 지정학적 위험 지역 운항 선박들의 보험료 상승, 실시간 위험평가 시스템 고도화 필요, 자율운항선박의 분쟁지역 항해 가능성 제한 논의 촉발</p></div>`,
+      tags: ["Strait of Hormuz","Geopolitical Risk","Tanker Traffic","US-Iran Tensions","Maritime Security"],
+      link: "https://www.marinelink.com/news/hormuz-traffic-falls-fiveweek-low-541147",
+      coords: [56,26.5],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
