@@ -11383,3 +11383,56 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-13
+addEvents({
+  "2026-07-13": [
+    {
+      type: "news",
+      title: "U.S. Military Confirms Saronic Corsair Drone Boats in First Combat Strike at Iran's Bandar Abbas",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-07-13",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 중앙사령부가 이란 반다르압바스 해군기지 공격에 사용된 무인선박을 공식 확인 - 사로닉 제조 코르세어급 3척<br>• 미국 해군 역사상 처음으로 무인 해상 드론이 실제 전투에 투입되어 잠수함 및 함정 정비시설 공격 수행<br>• 코르세어급 무인보트는 완전 자율 항해 및 타겟 추적 능력을 갖춘 차세대 해상 무기체계<br>• 이 사건은 자율해상 무기 플랫폼의 군사적 실용성과 국제해사법 적용 문제 제기<br>• 무인표면함정(USV) 기술의 전술적 진화 및 해양 전장 패러다임 전환 의미</p><h3>Key Quotes</h3><p>• "Three Saronic-built Corsair unmanned boats carried out the first combat strike ever conducted by American sea drones" <br>(미국 역사상 처음으로 무인 해상 드론이 실제 전투에 투입된 사건)</p><p>• "Slamming into a submarine and ship maintenance facility at Iran's Bandar Abbas Naval Base"<br>(완전 자율화된 무인선박이 정밀 타겟에 대한 직접 공격 성공)</p><h3>Technical Insights</h3><p>• **자율해상무기(ASW) 규범 공백**: IMO 및 국제해사법에서 완전자율 무인선박의 전투 운영에 대한 명확한 규제 프레임워크 부재 - COLREG 적용 문제와 함께 긴급 논의 필요</p><p>• **USV 기술 신뢰성 검증**: 사로닉 코르세어급이 GPS 거부 환경, 전자전(EW) 간섭, 해상 악조건에서도 정확한 자율 항법 및 타겟 식별 달성 - 차세대 군사 플랫폼으로서 기술 성숙도 입증</p><p>• **해양 안보 패러다임 전환**: 무인 표면함정의 전술적 가치 증대로 인해 전통적 수상함 설계, 함대 구성, 해양 작전 독트린의 근본적 재검토 시작 - 상선(상업 선박) 식별 및 회피 알고리즘 표준화 필요</p><p>• **산업 규제 영향**: 군사용 자율선박 기술이 민간 해운 자율화 논의와 수렴하면서 이중용도(dual-use) 기술 통제 및 기술 이전 규제 강화 예상</p></div>`,
+      tags: ["Autonomous Vessels","Unmanned Surface Vehicles","Military Drones","U.S. Navy"],
+      link: "https://defence-blog.com/u-s-military-names-the-drone-boat-behind-iran-strike/",
+      coords: [56.2667,27.1833],
+      location: "Bandar Abbas, Iran"
+    },
+    {
+      type: "news",
+      title: "Ukraine launches world's first robot assault from the sea using naval drone and armed ground robot",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-07-13",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 우크라이나 군이 무인 수상선박(unmanned surface vessel)과 무장 지상로봇을 결합한 세계 최초의 전투작전을 흑해에서 수행<br>• 우크라이나 123대(123rd Brigade) 소속 군대가 기관총 장착 로봇을 러시아 점령 해안으로 직접 상륙시키는 작전 진행<br>• 무인 해상 운송체가 무장 로봇을 탑재하여 목표 지역까지 이동 및 배치하는 신개념 군사 작전 전개<br>• 자율운영 해상 플랫폼의 군사적 활용 사례로, 향후 해상 무인 시스템의 운영 규범 및 국제법적 검토 필요<br>• 민간 해운 분야의 자율선박 기술과 군사용 무인 시스템 간의 기술 수렴 추세 부각</p><h3>Key Quotes</h3><br>• "world's first known combat mission combining a naval drone with an armed ground robot" (해상 무인기와 무장 지상로봇을 결합한 세계 최초의 알려진 전투작전)<br>• "unmanned surface vessel to ferry a machine-gun-equipped robotic vehicle across the Black Sea and land it directly on Russian-occupied shoreline" (기관총 장착 로봇을 흑해를 가로질러 운송하고 러시아 점령 해안에 직접 상륙시키기 위한 무인 수상선박 사용)</p><h3>Technical Insights</h3><br>• 자율운영 해상 플랫폼(autonomous surface vessel)의 군사적 활용으로, 민간 자율선박 기술과 방위산업의 결합 사례 제시<br>• 국제해사기구(IMO) 및 국제해상충돌회피규칙(COLREG)이 군사용 무인 시스템에 대한 규제 및 운영 가이드라인 정비 필요성 대두<br>• 무인 해상 운송과 무장 로봇 시스템의 통합 운영으로 새로운 형태의 해상 전투 패러다임 출현, 향후 해상 보안 및 국제법 재검토 요구</p></div>`,
+      tags: ["autonomous vessel","naval drone","ground robot","Black Sea","Ukraine military"],
+      link: "https://defence-blog.com/ukraine-launches-worlds-first-robot-assault-from-the-sea/",
+      coords: [34.4,44],
+      location: "Black Sea"
+    },
+    {
+      type: "news",
+      title: "U.S. Drone Attacks Iranian Submarine and Port Facility at Bandar Abbas",
+      source: "USNI News",
+      sourceMeta: "usni.org · 2026-07-13",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **무인 수상함정 공격**: 미국 CENTCOM이 Saronic Corsair 무인 수상함정 3대를 이용한 이란 반다르압바스 해군기지 공격 수행<br>• **표적 및 피해**: 호르무즈 해협 인근 반다르압바스 항구의 잠수함 및 선박 정비 시설 격파, 가디르급 미니 잠수함 피격<br>• **작전 의미**: 무인 공격 드론의 첫 본격적 해전 운용 사례로, 미국의 자율 해양 무기 체계 능력 시연<br>• **지정학적 영향**: 호르무즈 해협의 해상 안보 긴장 고조 및 이란의 해군력 약화<br>• **기술적 진전**: 원웨이(One-way) 공격 무인함정의 운용 성공으로 자율 무기 시스템의 실전 효과성 입증</p><h3>Key Quotes</h3><p>• "Three Corsair unmanned surface vessels hit the port at Bandar Abbas Naval Base, marking the first..." <br>(3대의 코르세어 무인 수상함정이 반다르압바스 해군기지 항구에 명중, 첫 본격 공격 작전 실행)</p><p>• "Yesterday, using multiple one-way attack surface drones, CENTCOM forces successfully struck a submarine and ship maintenance facility in Iran"<br>(어제 다중 일회용 공격 수상 드론을 활용하여 CENTCOM이 이란의 잠수함 및 선박 정비 시설을 성공적으로 격파)</p><h3>Technical Insights</h3><p>• **자율 무기 체계 운영 패러다임**: Saronic Corsair의 일회용 공격 드론 운용은 GPS 항법, 목표 추적, 자율 충돌회피 등 고도의 자동화 기술을 해전에 적용한 첫 사례<br>• **호르무즈 해협 해상 통제 전략**: 무인함정 기반 해상 거부(Anti-Access) 전략으로 적국의 전략적 거점 무력화 및 해상 통로 장악 가능성 제시<br>• **IMO 자율선박 규제와의 괴리**: 현재 IMO Level 2-3 자율선박 도입이 논의 중인 상황에서, 군사용 자율 공격 무기의 선제 운용으로 국제 해양 규제와 실제 기술 발전 간 괴리 심화<br>• **해전 양식의 변화**: 전통적 함정 기반 전투에서 분산형 무인함정 스웜(Swarm) 전술로의 전환, COLREG 적용 불가능성 및 새로운 해전 규범 수립 필요성 대두</p></div>`,
+      tags: ["Unmanned Surface Vehicles","Naval Warfare","Iran","Strait of Hormuz","Military Operations"],
+      link: "https://news.usni.org/2026/07/13/video-3-lethal-u-s-drones-attack-iranian-sub-port-facility",
+      coords: [56.2808,27.1833],
+      location: "Bandar Abbas, Iran (Strait of Hormuz)"
+    },
+    {
+      type: "event",
+      title: "Third ORESA Innovation Call for Offshore Energy Solutions Open for Applications",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-07-13",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/07/Third-ORESA-innovation-call-for-offshore-energy-solutions-open-for-applications.jpg?image-crop-positioner-ts=1783932224",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• ORESA(해양재생에너지지속가능성연합)의 3차 혁신 공모전이 개최되며, 북서유럽 지역의 중소기업들을 대상으로 하고 있음<br>• 해상풍력, 파력, 조력에너지 및 자율·로봇 시스템, 모니터링 기술 등 해양 경제 공급망 솔루션 개발 기업 모집<br>• 신청 마감일은 7월 24일이며, 프로그램은 11월 16-20일 브르타뉴 브레스트에서 개최될 예정<br>• 선정된 기업들은 기술 고도화, 산업계 네트워크 연결, 국제 무대 활용 기회 등 종합 지원 제공<br>• 기술성숙도(TRL) 4-6 수준의 혁신 솔루션 보유 중소기업 대상</p><h3>Key Quotes</h3><br>• "The Innovation Call of the ORESA Accelerator Programme targets SMEs with groundbreaking solutions (TRL 4-6) in the North-West Europe region" (북서유럽 지역의 혁신적 솔루션을 보유한 중소기업들을 대상으로 프로그램을 운영함)<br>• "Selected companies will receive a comprehensive support package tailored to their needs, including expert guidance to refine solutions and business models" (선정 기업에 솔루션 고도화 및 사업모델 정제를 위한 전문가 지도 등 맞춤형 종합 지원 제공)</p><h3>Technical Insights</h3><br>• 자율시스템 및 로봇 기술, 모니터링·검사 기술 등이 해양재생에너지 산업의 핵심 기술 솔루션으로 인식되고 있으며, 혁신 가속화를 위한 생태계 구축 진행 중<br>• 해양 블루이코노미와 연계한 통합적 솔루션 개발 추진으로, 해상풍력·파력·조력 등 다양한 재생에너지 기술 플랫폼 확보<br>• IMO 규제 대응 및 환경 친화적 솔루션에 대한 산업계의 수요 증가로, 중소기업 주도의 기술 혁신 지원 정책 강화 추세</p></div>`,
+      tags: ["ORESA","Innovation","Offshore Energy","SME Accelerator"],
+      link: "https://www.offshore-energy.biz/third-oresa-innovation-call-for-offshore-energy-solutions-open-for-applications/",
+      coords: [-4.486,48.3905],
+      location: "Brest, Brittany, France"
+    }
+  ]
+});
