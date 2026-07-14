@@ -11309,3 +11309,77 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-13
+addEvents({
+  "2026-07-13": [
+    {
+      type: "accident",
+      title: "Indian Crew Member Missing After Container Ship Attacked in Strait of Hormuz",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-07-13",
+      image: "https://gcaptain.com/wp-content/uploads/2026/05/2026-05-04T134429Z_771319133_RC231LAKZI7G_RTRMADP_3_IRAN-CRISIS.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Cyprus 국적 컨테이너선 GFS Galaxy가 2026년 7월 13일 호르무즈 해협에서 미확인 발사체에 의해 공격당함<br>• 승무원 23명은 오만 해군에 의해 구조되었으나, 3등 기관사인 인도 국적 승무원 1명이 실종 상태로 수색 작업 진행 중<br>• 이란 이슬람혁명수비대(IRGC)는 자함 체계를 차단하고 미승인 항로로 진입한 선박을 격침했다고 주장<br>• 피격 선박은 현재 UAE의 Khor Fakkan 항으로 예인 중이며, 예인팀이 실종 승무원 수색 작업 수행<br>• 미국군이 이란에 대한 보복 공격 실시, 호르무즈 해협 통항의 자유와 상선 공격 금지에 관한 IMO 결의안 채택</p><h3>Key Quotes</h3><p>• "The vessel is currently under tow toward the nearest safe anchorage at the UAE port of Khor Fakkan. The towing team is actively conducting a search operation to locate the missing crew member."<br>  (선박은 현재 UAE의 Khor Fakkan 항으로 예인 중이며, 예인팀이 실종 승무원 수색 작업을 적극 수행 중)</p><p>• "Iran's IRGC navy said it had struck and halted a vessel that had 'jeopardized maritime security by switching off its systems'"<br>  (이란 IRGC 해군은 시스템을 차단하여 해상 안보를 위협한 선박을 격침했다고 주장)</p><h3>Technical Insights</h3><p>• **호르무즈 해협 통항 안전성**: 글로벌 석유 수송량의 약 21% 이상이 통과하는 전략적 해협에서의 무장 공격 사건으로, 국제 해운 안보 체계 강화 필요<br>• **COLREG 및 국제법 적용 문제**: 미승인 항로 진입과 시스템 차단 주장에 대한 국제해사법상 적절한 대응 체계 및 선박 자동 식별 시스템(AIS) 강제 운영 규정의 중요성 대두<br>• **IMO 결의안의 실효성**: 국제해사기구의 "자유로운 통항 권리" 재확인 결의안이 실제 해상 분쟁 해결에 얼마나 효과적인지에 대한 의문 제기, 다국적 해상 안보 체계 구축 필요성 증대<br>• **해상 사건 대응 체계**: 실종 승무원 수색 작업 중 국가 간 해양 협력(오만 해군 구조)의 중요성 및 해양사고 신속 대응 프로토콜의 강화 필요</p></div>`,
+      tags: ["Container Ship Attack","Strait of Hormuz","Missing Crew","Iran IRGC","Maritime Security"],
+      link: "https://gcaptain.com/rescuers-search-for-crew-member-after-container-ship-attack-in-strait-of-hormuz/",
+      coords: [56.2389,27.1833],
+      location: "Strait of Hormuz, Near Bandar Abbas, Iran"
+    },
+    {
+      type: "accident",
+      title: "Tanker Approached by Multiple Small Boats Off Yemen",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-13",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockvladimir-172183.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 예멘 아덴 남쪽 50해리 지점에서 탱커가 6척의 소형 보트로부터 접근 위협을 받음<br>• 마셜제도 국적 탱커, 우현 측에서 접근하는 스키프(소형 보트)에 대응하여 회피 기동 실시<br>• 탱커의 무장 보안팀이 경고사격을 실시하자 스키프들이 추격을 중단하고 이탈<br>• 영국 해양무역작전부(UKMTO) 및 해양보안업체 Ambrey가 사건 보고<br>• 탱커가 항해를 계속하여 심각한 해양사고로 발전하지 않음</p><h3>Key Quotes</h3><p>• "six small boats 50 nautical miles south of Yemen's Aden" (예멘 아덴 남쪽 50해리 지점에서 6척의 소형 보트로부터 접근)<br>• "one skiff came very close to the tanker before its armed security team fired warning shots" (탱커의 무장 보안팀이 경고사격을 실시하기 전 한 척의 스키프가 탱커에 매우 근접함)</p><h3>Technical Insights</h3><p>• 걸프 오브 아덴(Gulf of Aden) 해역은 국제 해운의 주요 통로로서 해적 활동과 소말리아 연안 불안정으로 인한 보안 위협이 지속적으로 존재하는 고위험 해역임<br>• 자동식별장치(AIS) 데이터 분석을 통한 실시간 사건 추적 및 해양보안기관의 신속한 정보 공유가 탱커의 안전한 항해를 지원<br>• 무장 보안팀의 경고사격은 IMO SOLAS 규정과 고위험 해역 통항 선박의 보안 프로토콜에 따른 정당한 자기방위 조치로 해석됨</p></div>`,
+      tags: ["Piracy","Yemen","Gulf of Aden","Armed Vessels"],
+      link: "https://www.marinelink.com/news/tanker-approached-multiple-small-boats-541174",
+      coords: [43.5,11.5],
+      location: "Gulf of Aden, South of Yemen"
+    },
+    {
+      type: "news",
+      title: "U.S. Forces Deploy Unmanned Corsair Drone Boats in Combat Attack on Iranian Naval Facility",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-07-13",
+      image: "https://maritime-executive.com/media/images/article/1783978160_6a5558b0aa68c.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 중앙사령부(CENTCOM)가 세 대의 Saronic Corsair 무인 수상 드론(USV)을 사용하여 이란 반다르압바스 해군기지의 잠수함 및 함정 유지보수 시설을 공격했으며, 이는 미국 군부대가 편도 공격용 드론보트를 실전 배치한 첫 번째 공식 사례임</p><p>• Corsair 무인 드론은 조 마운트식 갠트리를 장착한 부두에 명중했으며, 해당 갠트리는 이란 해군의 소형 잠수함 20척 중 하나를 운반 중이었음</p><p>• 미국 해군 전술의 진화: 과거 후티 반군(2017년 사우디 해군함 알마디나 공격)과 우크라이나(4년간의 발전된 무인 공격 전술 개발)가 선보인 드론보트 전술을 미국 군부가 본격적으로 채택</p><p>• Saronic 회사는 루이지애나에 자체 조선소를 보유하고 있으며, 미 해군의 중형 무인 수상함(MUSUS) 프로그램에 선정된 7개 방위산업 기업 중 하나</p><p>• 동일한 Corsair 모델은 지난달 호르무즈 해협에서 두 명의 헬리콥터 조종사를 구조하는 데 성공적으로 사용된 바 있음</p><h3>Key Quotes</h3><p>• "Three Corsair unmanned surface vessels hit the port at Bandar Abbas Naval Base, marking the first time American forces have employed sea-based one-way attack drones" <br>(세 대의 Corsair 무인 수상함이 반다르압바스 해군기지 항구를 공격했으며, 이는 미국군이 해상 기반 편도 공격 드론을 처음으로 배치한 사례임을 의미)</p><p>• "Central Command possesses multiple options for action in the area, and its decision to select a drone boat for a daylight attack suggests that the Bandar Abbas naval base has become a permissive environment for surface operations"<br>(중앙사령부의 낮 시간 드론보트 공격 선택은 반다르압바스 해군기지가 수상 작전에 있어 유리한 환경이 되었음을 시사)</p><p>• "Ukraine matured the concept over the past four years with purpose-built hulls, over-the-horizon control, and swarming tactics to overwhelm enemy defenses"<br>(우크라이나는 지난 4년간 목적 건조 선체, 수평선 너머 통제, 그리고 적 방어를 압도하기 위한 집단 전술로 개념을 발전시킴)</p><h3>Technical Insights</h3><p>• **무인 수상함(USV) 전술의 군사화**: Corsair와 같은 상용 기술 기반 무인 드론보트가 방위산업으로 본격 전환되면서, 자율 항해 및 원격 제어 기술의 군사적 활용이 현실화되고 있으며, 이는 향후 해상 전장 환경의 급속한 변화를 예고함</p><p>• **자율 시스템의 신뢰성 및 규제 문제**: 미국의 MUSV(중형 무인 수상함) 프로그램 개발과 함께, IMO 및 국제 해사법상 무인 전투함의 법적 지위, COLREG 준수 방식, 그리고 자율 무기 시스템의 통제 메커니즘에 대한 국제적 논의가 시급한 상황</p><p>• **해상 드론 스웜 전술의 확산**: 우크라이나가 입증한 다수의 무인 드론을 동시에 운용하는 집단 공격 전술이 주요 국방력으로 급속 확산되면서, 전통적 함정 기반 해방 개념이 혁신적으로 전환될 가능성</p><p>• **상용 자율 기술과 군사 응용의 경계 붕괴**: Saronic과 같은 민간 조선사의 자율 기술이 실시간으로 방위 프로젝트에 통합되면서, 쌍용도(dual-use) 기술의 확산과 해상</p></div>`,
+      tags: ["unmanned surface vessels","autonomous warfare","military technology","Iran","U.S. Navy"],
+      link: "https://maritime-executive.com/article/video-u-s-forces-use-unmanned-bomb-boat-to-attack-iranian-shipyard",
+      coords: [56.2808,27.2158],
+      location: "Bandar Abbas, Iran"
+    },
+    {
+      type: "news",
+      title: "CENTCOM Deploys Saronic Corsair USV Against Iranian Submarine At Bandar Abbas",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-07-13",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/07/centcom-saronic-corsair-usv-strike-iran-submarine-bandar-abbas.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **무인해상무기 실전 배치**: 미 중앙사령부(CENTCOM)가 Saronic Corsair 무인수상함(USV) 3척을 이란 반다르압바스 해군기지 공격에 투입하여 미군이 해상 드론을 처음으로 전투 작전에 사용</p><p>• **작전 대상**: 이란의 가디르급(Ghadir-class) 초소형 잠수함을 격침하였으며, 상업선박 공격 능력 저하를 목표로 함</p><p>• **Saronic社의 기술**: Corsair USV는 1,000 해리 항속거리와 1,000파운드 탄약 탑재 능력을 보유하며, 2026년 5월 기준 300척 이상 생산됨</p><p>• **군사적 의미**: 우크라이나-러시아 전쟁에서 입증된 비대칭 해상 무기 전술을 미국이 중동 지역에서 처음 실행</p><p>• **전략적 목적**: 호르무즈 해협 통항 상선에 대한 이란의 공격 능력 제한 및 시아 방어 시스템 무력화</p><h3>Key Quotes</h3><p>• "Three Corsair unmanned surface vessels hit the port at Bandar Abbas Naval Base, marking the first time American forces have employed sea drones in combat operations." <br>(미군이 해상 드론을 전투에 처음 사용하여 반다르압바스 해군기지 항구를 공격했다는 의미)</p><p>• "We are proud that our technology supported this mission and helped to keep the brave men and women of the U.S. armed forces safe."<br>(Saronic社가 자사의 자율 해상 시스템이 미군 장병의 안전 보호에 기여했다고 표현)</p><h3>Technical Insights</h3><p>• **자율 무인함 전술의 실현**: USV는 조종사 탑승 필요가 없어 인명 손실 위험을 제거하고, 1,000 해리 원거리 운용 가능으로 전술적 유연성 확대</p><p>• **COLREG 및 IMO 규제 문제**: 군사 목적의 자율 무기 시스템 도입으로 국제 해상법(COLREG) 준수 문제와 자율 무기 규제에 대한 국제적 논의 촉발 예상</p><p>• **비대칭 해전 패러다임 전환**: 우크라이나 전쟁에서 검증된 저비용 USV 전술이 대규모 함정보다 효율적임을 입증하며, 해군 전력 구성의 근본적 변화 시사</p><p>• **해운 안보 및 분쟁 심화**: 호르무즈 해협 상업 항로 보호를 명목으로 한 무인 무기의 확대 배치는 해상 분쟁의 자동화 위험 증가</p></div>`,
+      tags: ["USV","Autonomous Maritime Systems","Military Operations","Iran-US Conflict"],
+      link: "https://www.navalnews.com/naval-news/2026/07/centcom-saronic-corsair-usv-strike-iran-submarine-bandar-abbas/",
+      coords: [56.2808,27.1865],
+      location: "Bandar Abbas Naval Base, Iran"
+    }
+  ]
+});
+
+// Auto-collected: 2025-09-26
+addEvents({
+  "2025-09-26": [
+    {
+      type: "accident",
+      title: "IMO Awards Posthumous Bravery Honor to Norwegian Rescue Diver Who Died Saving Child",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-07-13",
+      image: "https://gcaptain.com/wp-content/uploads/2026/07/IMO-bravery-at-sea-award.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 노르웨이 해양구조협회(NSRS) 소속 구조요원 Adrian Willyson Brask는 2025년 9월 26일 로포텐 군도 낍스트롬 해역에서 전복된 어선의 실종 어린이를 구하기 위해 극저온의 위험한 해역으로 진입했음</p><p>• 캡슐화된 어선에는 관광객 4명, 어린이 2명, 낚시 가이드 1명이 탑승했으며, 6명이 전복된 선체에 매달린 채 생존했으나 1명의 어린이가 실종됨</p><p>• Brask는 강력한 조류와 낮은 수중 가시성 속에서 집중적인 수색을 진행했으나, 의식을 잃은 채 인양되었고 소생 노력에도 불구하고 사망함</p><p>• 국제해사기구(IMO)는 Brask의 "탁월한 용기, 무아지경, 자기희생"을 인정하며 2026 IMO 해상용기상(Award for Exceptional Bravery at Sea)을 사후에 수여함</p><p>• IMO 이사회는 또한 필리핀 해경의 2명과 미국 탱커 Stena Immaculate 승무원을 포함한 여러 개인과 승무원들에게 표창장을 수여함</p><h3>Key Quotes</h3><p>• "By knowingly accepting extraordinary personal risk in an effort to save a young life, Mr. Brask made the ultimate sacrifice and embodied the highest traditions of maritime search and rescue service" (어린 생명을 구하기 위해 개인적 위험을 감수함으로써 Brask는 궁극의 희생을 감행했으며 해양구조 서비스의 최고 전통을 체현했다)</p><p>• "exceptional courage, selflessness and self-sacrifice" (탁월한 용기, 무아지경, 자기희생 - IMO 이사회가 Brask의 행동을 인정한 표현)</p><h3>Technical Insights</h3><p>• 극저온 해역의 강한 조류 및 낮은 수중 가시성 조건에서 인명구조 작업의 위험성과 한계를 보여주는 사례로, 해양구조 작전의 위험 평가 및 안전 프로토콜의 중요성을 강조함</p><p>• 선박의 전복 사고 대응 시 조류가 강한 지역(낍스트롬의 경우 조류 속도 최대 8노트 이상)에서는 잠수사의 생존성이 극도로 제한되며, 원격 수중 탐사 기술(ROV) 도입의 필요성 대두</p><p>• IMO의 사후 표창 제도는 해양 인명구조 문화 고취 및 해상 안전 가치의 국제적 확산에 기여하며, 해양 종사자들의 윤리적 기준과 책임감 강화에 영향을 미침</p></div>`,
+      tags: ["rescue operation","capsizing","fatality","IMO award","Norway"],
+      link: "https://gcaptain.com/imo-honors-norwegian-rescue-diver-with-posthumous-bravery-award-for-fatal-attempt-to-save-child/",
+      coords: [13.6267,68.1912],
+      location: "Lofoten archipelago, Norway"
+    }
+  ]
+});
