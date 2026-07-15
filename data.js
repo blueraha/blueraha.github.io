@@ -11503,3 +11503,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-14
+addEvents({
+  "2026-07-14": [
+    {
+      type: "news",
+      title: "Axess Group awarded asset integrity management contracts for Golar's two FLNG units bound for Argentina LNG project",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-07-14",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/07/MK-II-FLNG.jpg?image-crop-positioner-ts=1784032388",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Axess Group(노르웨이 자산관리 회사)가 Golar LNG로부터 아르헨티나 LNG 프로젝트용 FLNG 2척(MK II FLNG, Hilli FLNG)의 자산무결성관리(AIM) 계약 수주</p><p>• MK II FLNG(연간 350만톤 액화용량, 2027년 Q4 인도 예정)와 Hilli FLNG(2018년부터 상업운영 중인 개조식 FLNG)가 남미 아르헨티나 대서양 연안에 배치될 예정</p><p>• Axess의 계약범위는 자산위계 구축, 정비검사 프로그램 개발(MK II), RBI 재검증 및 구조무결성 재평가(Hilli) 포함</p><p>• SESA(아르헨티나 LNG 수출 전담사)는 Pan American Energy(30%), YPF(25%), Pampa Energia(20%), Harbour Energy(15%), Golar(10%) 컨소시엄으로 구성</p><p>• 두 유닛의 합산 액화용량은 약 600만톤/년이며, Hilli Episeyo는 2027년 9월 상업운영 개시 예정</p><p>• 이 계약은 Axess의 유럽 FLNG 분야 위상 강화 및 남미 지역 사업 기반 구축의 전략적 마일스톤</p><h3>Key Quotes</h3><p>• "These awards reflect the strong confidence in Axess' execution model and technical expertise in asset integrity for FLNG assets. They provide a solid platform for long-term value creation through high-quality AIM delivery and operational support." <br>(이 계약은 FLNG 자산의 무결성관리에 대한 Axess의 실행능력과 기술전문성에 대한 신뢰를 반영하며, 고품질 AIM 제공과 운영지원을 통한 장기적 가치창출의 견고한 기반을 제공한다)</p><p>• "The deals strengthen the firm's position in the global FLNG segment, deepening its long-term relationship with Golar across the operating fleet, and establishing a foothold for execution and operational support activities in South America."<br>(이 거래는 글로벌 FLNG 분야에서 회사의 위상을 강화하고, Golar와의 장기적 관계를 심화시키며, 남미에서의 실행 및 운영지원 활동을 위한 발판을 마련한다)</p><h3>Technical Insights</h3><p>• FLNG 자산의 장기적 무결성 유지를 위한 RBI(Risk-Based Inspection) 재검증 및 구조적 건전성 재평가의 중요성 증대 - 특히 개조식 FLNG(Hilli)의 재배치 시 기존 자산의 신뢰성 확보 필수</p><p>• 디지털 기반 자산무결성관리(AIM) 솔루션의 활용으로 FLNG 운영의 신뢰성 및 효율성 향상 - 글로벌 풋프린트를 활용한 엔드-투-엔드 관리 체계 구축</p><p>• 아르헨티나 LNG 프로젝트의 상업운영 시작(2027년 9월)을 앞두고 사전 자산관리 및 검증 작업의 선행 완료로 프로젝트 리스크 최소화 추진</p><p>• 350만톤/년 규모의 신규 FLNG(MK II)와 기존 개조식 FLNG(Hilli)의 조합 운영으로 남미 지역 LNG 공급 다원화 및 에너지 안보 강화에 기여</p></div>`,
+      tags: ["FLNG","LNG","Asset Integrity Management","Argentina LNG Project"],
+      link: "https://www.offshore-energy.biz/golar-lng-tasks-axess-with-work-on-flng-pair-bound-for-south-american-project/",
+      coords: [-63.6167,-38.4161],
+      location: "Argentina, Atlantic Coast"
+    },
+    {
+      type: "news",
+      title: "Vår Energi Secures North Sea Drilling Permit for August 2026 Operations with COSL Pioneer Rig",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-07-14",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2025/01/COSLPioneer5_2500px.jpg?image-crop-positioner-ts=1736242598",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 노르웨이 석유·가스 기업 Vår Energi가 북해(North Sea) 웰보어 25/8-24 S 시추허가를 획득했으며, 2026년 8월 시작 예정<br>• COSL Drilling Europe의 반잠수식 굴착선 COSL Pioneer 사용, 2010년 건조로 750m 수심 작업 가능<br>• Vår Energi(30% 지분 운영), Equinor(30%), DNO Norge(20%), Petoro(20%) 등 4개사 컨소시엄 구성<br>• 노르웨이 해양청(Norwegian Offshore Directorate)이 2024년 3월부터 2030년 3월까지 유효한 허가권 승인<br>• Vår Energi가 COSL Pioneer 계약을 3차 옵션 행사로 2028년까지 연장 확정</p><h3>Key Quotes</h3><p>• "The drill bit at the 25/8-24 S well in the North Sea is expected to spin in August 2026" (북해의 25/8-24 S 시추공에서 드릴이 2026년 8월에 회전할 것으로 예상)</p><p>• "The 2010-built rig is designed to operate in water depths up to 750 meters" (2010년 건조된 굴착선은 최대 750m 수심에서 작업하도록 설계됨)</p><h3>Technical Insights</h3><p>• 북해 지역 심수(750m) 작업을 위한 반잠수식 굴착선의 수심 능력이 중요 운영 역량으로 작용하며, 장기 계약 연장은 신뢰성 입증<br>• 다국적 컨소시엄 구조(Vår Energi, Equinor, DNO Norge, Petoro)는 북해 유전 개발의 산업 표준 형태로, 위험 분산 및 기술 협력 체계 반영<br>• 2024-2030년 다년도 허가권 부여는 예측 가능한 에너지 공급과 장기 운영 계획의 중요성을 시사하며, 해양 에너지 산업의 지속성 강조</p></div>`,
+      tags: ["North Sea","Drilling Operations","Oil & Gas","COSL Drilling","Vår Energi"],
+      link: "https://www.offshore-energy.biz/north-sea-drilling-ops-with-cosl-rig-on-var-energis-agenda-for-august/",
+      coords: [2.5,57],
+      location: "North Sea, Norwegian Sector"
+    }
+  ]
+});
