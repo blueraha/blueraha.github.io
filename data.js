@@ -11436,3 +11436,70 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-14
+addEvents({
+  "2026-07-14": [
+    {
+      type: "accident",
+      title: "Two Commercial Tankers Attacked in Strait of Hormuz; One Indian Seafarer Killed, 10+ Injured",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-07-14",
+      image: "https://gcaptain.com/wp-content/uploads/2026/06/2026-06-18T090209Z_101156291_RC2TVKAQ3PYI_RTRMADP_3_IRAN-CRISIS-SHIPPING-ASIA-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **사건 개요**: 호르무즈 해협에서 UAE 기국의 두 유조선(MT Al Bahiyah, MT Mombasa)이 미사일 공격을 받아 인도 선원 1명 사망, 10명 이상 부상</p><p>• **피해 규모**: 총 46명의 선원 중 30명의 인도 국적 선원이 탑승했으며, Al Bahiyah에서 1명 사망·1명 부상, Mombasa에서 9명 부상(2명 중상)</p><p>• **관련 선박 및 기관**: MT Al Bahiyah, MT Mombasa, GFS Galaxy(사이프러스 기국, 최근 화재로 선원 실종 발생)</p><p>• **외교적 대응**: 인도 외무부가 이란 대사관 외교관을 소환하여 강한 항의 제기, 호르무즈 해협의 자유로운 항해 보장 촉구</p><p>• **결과 및 영향**: 상선원들이 군사 작전의 피해자가 되고 있으며, 국제 해운 업계의 보안 우려 심화. 트럼프 미국 대통령은 계속해서 선박들의 호르무즈 해협 통과를 독려 중</p><p>• **지속적 위협**: 드론 및 미사일 공격이 반복되면서 호르무즈 해협 통과선박의 안전성 급격히 악화</p><h3>Key Quotes</h3><p>• "We strongly condemn these attacks and acts of violence targeting seafarers and disrupting free and safe navigation through international waterways like the Strait of Hormuz" <br>  (호르무즈 해협 같은 국제 수로에서 선원들을 겨냥한 폭력 행위와 항해의 자유를 방해하는 공격을 강력히 규탄한다는 입장)</p><p>• "Oil is flowing like never before, thanks to the awesome Power of the United States Military...the Strait of Hormuz is open to ALL Ship traffic except for Iran."<br>  (미국 군사력 덕분에 석유 유동이 전례 없이 증가하고 있으며, 호르무즈 해협은 이란을 제외한 모든 선박 통행에 개방되어 있다는 주장)</p><h3>Technical Insights</h3><p>• **해상 보안 악화**: 호르무즈 해협의 무장 드론 및 미사일 공격으로 인해 상선의 해상 교통 보안이 심각하게 악화되었으며, UNCLOS(국제해양법협약)에서 규정한 무해통항권(innocent passage)이 실질적으로 훼손되는 상황</p><p>• **해운 산업의 구조적 위험**: 상선원이 국제 분쟁의 직접적 피해자가 되는 문제로, ILO(국제노동기구) 및 IMO가 강조하는 선원 보호 기준이 지정학적 위기 상황에서 무력화될 수 있음을 시사</p><p>• **항로 대체 및 경제성 악화**: 호르무즈 해협 우회 항로 선택으로 인한 운항 거리 증가, 연료비 및 운영 비용 상승으로 해운사들의 경제성 악화</p><p>• **IMO 안전 관리 체계의 한계**: 지정학적 무력 분쟁 상황에서 ISM Code(국제안전관리규칙)와 ISPS Code(국제항만시설보안규칙)의 실효성이 제한되며, 군사 위협으로부터의 보호 의무가 국가 차원의 문제로 귀결됨</p></div>`,
+      tags: ["Strait of Hormuz","Missile Attack","Commercial Tankers","Seafarer Casualties","Maritime Security","Iran-US Conflict"],
+      link: "https://gcaptain.com/seafarer-death-toll-climbs-as-trump-declares-hormuz-open-to-all-ship-traffic/",
+      coords: [56.5,26],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "accident",
+      title: "Iranian Missile Attacks Hit Three Tankers Near Strait of Hormuz; Seafarer Death Toll Rises to 15",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-07-14",
+      image: "https://gcaptain.com/wp-content/uploads/2026/06/2026-06-26T134318Z_693026131_RC2N1MAQSWKP_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 이란의 미사일 공격으로 호르무즈 해협 근처 유조선 3척이 공격받았으며, 지난 24시간 내에 UKMTO가 3건의 공격 경보 발령<br>• 공격대상 선박: MT Mombasa (IMO 9739501), MT Al Bahiya (IMO 9937799), 그리고 오만 칼핫 동쪽 40해리 지점의 추가 유조선 1척<br>• 현해선원 사망자: MT Mombasa에서 인도 선원 1명 사망, 8명 부상(인도 국적 6명, 우크라이나 국적 2명 포함); 분쟁 전체 사망자는 최소 15명으로 증가<br>• 미국 중부군사령부(CENTCOM)의 5시간 규모 보복 공격 실행 - 부셰르, 차흐 바하르, 자스크, 코나락, 아부무사, 반다르 압바스 등 6개 이란 군사시설 타격<br>• 지난 1주일간 이란의 공격 대상 상선은 최소 6척으로 확대되었으며, 지난달 미국-이란 양해각서 붕괴 이후 5차 연속 미국 공격 진행 중</p><h3>Key Quotes</h3><br>• "The latest attacks bring the number of merchant vessels targeted by Iran to at least six in the past week, according to EOS Risk." (지난 1주일간 이란의 공격 대상이 된 상선이 최소 6척으로 증가했다는 EOS Risk의 보고)<br>• "The operation targeted coastal defense systems, missile and drone sites, and other maritime capabilities to further degrade Iran's ability to attack commercial shipping." (이 작전은 이란의 상선 공격 능력을 더욱 약화시키기 위해 해안 방어 체계, 미사일 및 드론 기지, 기타 해양 능력을 목표로 함)<br>• "The fatality raises the confirmed seafarer death toll in the conflict to at least 15, while another crewmember from the GFS Galaxy remains missing." (이 사망자로 분쟁에서의 확인된 현해선원 사망자 수가 최소 15명으로 증가했으며, GFS Galaxy의 또 다른 선원은 여전히 실종 상태)</p><h3>Technical Insights</h3><br>• **해상 분쟁의 급격한 확대**: 호르무즈 해협 지역의 해상 안보 악화로 SOLAS, COLREG 등 국제해상안전규칙 준수 불가능한 상황 발생; 중립국 선박까지 피해 확대로 국제해상법 적용의 한계 노출<br>• **IMO 해운 안전 대응 필요성**: 분쟁 지역 통항 선박의 보험료 급등, 연료 소비 증가(우회항로), 해운업체의 운영 비용 급증으로 글로벌 해운산업 교란 및 유가 변동성 확대<br>• **해상 방위 시스템의 한계**: 현재의 자동화 네비게이션 및 원격 모니터링 기술도 미사일, 드론 공격 대응에는 불충분하며, 실시간 위협 탐지 및 회피 기능 강화 필요</p></div>`,
+      tags: ["tanker attack","Strait of Hormuz","Iran-US conflict","maritime security","casualties"],
+      link: "https://gcaptain.com/iranian-missile-attacks-hit-three-more-tankers-as-u-s-expands-strikes-seafarer-death-toll-rises/",
+      coords: [56.5,25.5],
+      location: "Strait of Hormuz, Oman"
+    },
+    {
+      type: "news",
+      title: "U.S. Navy Sea Drones Make Combat Debut in Operations Near Hormuz",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-07-14",
+      image: "https://gcaptain.com/wp-content/uploads/2026/07/2026-07-13T191949Z_263152874_RC20DMAOGMIR_RTRMADP_3_IRAN-CRISIS-USA-CENTCOM-SEA-DRONES.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 중앙사령부(CENTCOM)가 자율 해양 무인 시스템의 실전 전투 사용을 처음 공식 확인 - 2026년 7월 12일 이란 타겟 공격에 해상 드론 투입<br>• 코르세어(Corsair) 무인수상선 3척이 반더압스 해군기지의 잠수함 정비 시설 공격에 성공<br>• 6월 오만 인근에서 미 육군 아파치 헬기 추락 시 동일 플랫폼의 코르세어 드론이 조종사 2명 구조 - 무인 수상선에 의한 첫 인명구조 사례<br>• 수주일 내 동일 자율 해양 시스템이 인명구조와 공격 작전 양 역할 수행하며 급속한 기술 진화 입증<br>• 해양 자율시스템이 감시정찰에서 공격작전까지 역할 확대, 미 해군 5함대 태스크포스 59가 운영 중</p><h3>Key Quotes</h3><p>• "The drone picked them up and transported them to another location on the water where they were hoisted up to a helicopter for further transport" (드론이 조종사들을 수거하여 다른 해상 위치로 운송한 후 헬기에 의해 추가 운송을 위해 인양되었음)</p><p>• "marking the first time American forces have employed sea drones in combat operations" (미군이 해상 드론을 실전 전투 작전에 투입한 첫 번째 사례임을 표기)</p><p>• "Within little more than a month, however, the same Corsair platform has now been used both to rescue downed aviators and to conduct offensive combat operations" (한 달이 채 못 되는 기간 내 동일한 코르세어 플랫폼이 조종사 구조와 공격 작전 모두에 운용되었음)</p><h3>Technical Insights</h3><p>• **자율 해양 시스템의 다중 역할 수행**: 코르세어 무인수상선(USV)이 감시정찰→인명구조→공격작전으로 기능이 확대되며, 플랫폼의 다목적성과 운영 유연성이 입증됨</p><p>• **IMO 규제 프레임워크와의 괴리**: 현재 국제해사기구(IMO)의 자율선박 안전 규제는 민간 상선 중심으로 설계되어 있으나, 군사용 무인시스템의 급속한 전투 배치는 국제 규범과의 충돌 가능성 증가</p><p>• **COLREG 및 국제해양법의 해석 문제**: 무장 자율 무인수상선의 해상 작전이 국제 해양법상 교전 규칙(COLREG) 적용 범위와 민간 해상교통의 안전에 미치는 영향 검토 필요</p><p>• **Task Force 59의 전략적 확대**: 미 5함대의 무인 시스템 및 AI 통합 전담 부대인 태스크포스 59의 운영이 실전 검증됨으로써, 향후 자율 해양 시스템의 광범위한 해군 배치 가속화 예상</p></div>`,
+      tags: ["Autonomous Maritime Systems","U.S. Navy","Unmanned Surface Vessels","Combat Operations","Corsair Drone","Iran","Strait of Hormuz"],
+      link: "https://gcaptain.com/u-s-navy-sea-drones-make-combat-debut-in-operations-near-hormuz/",
+      coords: [56.2808,27.2158],
+      location: "Strait of Hormuz / Bandar Abbas, Iran"
+    },
+    {
+      type: "news",
+      title: "Ukraine Conducts First Fully Unmanned Amphibious Raid at Kinburn Split",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-07-14",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/07/Ukraine-Conducts-First-Fully-Unmanned-Amphibious-Raid-at-Kinburn-Split.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 우크라이나 군이 무인 장비만을 활용하여 역사상 최초의 완전 자동화된 상륙작전을 수행했으며, 이는 전시 조건에서의 혁신적인 무인 시스템 통합 운용 사례<br>• 우크라이나 123번째 영토방위여단이 USV(무인 수상함)로 UGV(무인 지상차량)를 투입하고, UAV(무인항공기)로 감시하는 3개 도메인 협력 작전 실행<br>• 투입된 UGV는 우크라이나산 Rys 무인차량(7.62mm PKT 기관총 장착)으로, 상륙 후 해변 거리 목표에 사격 실시<br>• 작전 결과는 공식 보도되지 않았으나, 킨번 스핏 지역의 러시아군 보급선 악화로 인해 유사 작전이 계속될 가능성 존재<br>• 이 작전은 해상 운송, 지상 공격, 공중 감시가 통합된 완전 무인 협력 작전의 획기적 사례로 평가됨</p><h3>Key Quotes</h3><br>• "The operation appears to be the first completely automated amphibious raid under wartime conditions in history executed by unmanned vehicles operating in all three domains" (역사상 처음으로 해상, 지상, 공중 3개 영역에서 모두 무인 장비를 활용하여 전시 조건 하에 완전히 자동화된 상륙작전 실행)<br>• "the UGV proceeded to roll off the USV and quickly take up position in the nearby vegetation" (무인 수상함에서 무인 지상차량이 하강하여 신속하게 주변 식생지대에 전투 위치 확보)</p><h3>Technical Insights</h3><br>• 무인 시스템의 3개 도메인 통합 운용(USV 운송 → UGV 지상 작전 → UAV 감시)은 향후 해군 작전의 패러다임 변화를 시사하며, 자율 협력 체계의 실전 효과성 입증<br>• 무인 지상차량의 사격 정확도 제한(최대 거리에서의 낮은 명중율)은 자율 무기 시스템의 표적 인지 및 사격 제어 기술 개선의 필요성을 드러냄<br>• IMO 및 국제 해법 규정(COLREG)이 군사 무인 시스템에 직접 적용되지는 않지만, 민간 자율선박 규제 개발과 군사 작전 간 상호 영향 가능성 존재<br>• 완전 자동화 상륙작전의 성공은 향후 해군-육군 통합 작전에서 무인 플랫폼의 확대 도입을 가속화할 것으로 예상되며, 해양 로봇공학 기술 발전의 군사적 응용 확대 우려</p></div>`,
+      tags: ["Unmanned Systems","Autonomous Vehicles","Military Innovation","Ukraine"],
+      link: "https://www.navalnews.com/naval-news/2026/07/ukraine-unmanned-amphibious-raid-kinburn-split/",
+      coords: [32.1833,46.1667],
+      location: "Kinburn Split, Southern Ukraine"
+    },
+    {
+      type: "accident",
+      title: "Ukraine sinks Russian patrol ship Izumrud near Novorossiysk using unmanned strike boat",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-07-14",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 우크라이나 해군이 자체 개발한 무인 타격정 Sargan-3000을 이용해 러시아 연방보안국(FSB) 소속 Rubin급 순찰함 Izumrud(354)을 노보로시스크 인근에서 침몰시킴<br>• 침몰된 선박: Russian Federal Security Service 보유 Izumrud(354), Rubin-class 순찰함<br>• 무인 수상 타격 플랫폼(Unmanned Surface Strike Platform)의 실전 운용 능력 입증<br>• 우크라이나 해군의 무인 전술 운용 확대 및 러시아 흑해함대 상황 악화<br>• Black Sea 해역의 해양 안보 및 군사 충돌 심화</p><h3>Key Quotes</h3><br>• "Ukraine's navy sank a Russian border guard ship near Novorossiysk using an unmanned strike boat" (우크라이나 해군이 무인 타격정을 이용해 노보로시스크 인근에서 러시아 국경경비함을 침몰시켰다)<br>• "The Sargan-3000, a domestically built unmanned surface strike platform that has entered service with Ukraine's naval forces" (우크라이나 자체 개발 무인 수상 타격 플랫폼 Sargan-3000이 해군에 실전 배치됨)</p><h3>Technical Insights</h3><br>• 무인 수상 타격정(USV)의 대함(Anti-ship) 작전 능력 증명으로 차세대 해전 패러다임 변화 시사<br>• 자율무인시스템(Autonomous Surface Vehicle)의 실전 운용으로 해양 무인화 기술 가속화<br>• 해상 전술 변화에 따른 기존 순찰함/코르벳급 함정 취약성 노출 및 방어 전략 재검토 필요</p></div>`,
+      tags: ["Naval Combat","Unmanned Surface Vehicle","Russia-Ukraine Conflict","Patrol Ship Sinking"],
+      link: "https://defence-blog.com/ukraine-sinks-russian-patrol-ship-near-novorossiysk/",
+      coords: [37.76,44.67],
+      location: "Novorossiysk, Black Sea"
+    }
+  ]
+});
