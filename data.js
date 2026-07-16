@@ -11590,3 +11590,34 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-15
+addEvents({
+  "2026-07-15": [
+    {
+      type: "news",
+      title: "Saildrone and Blue Water Autonomy Sue U.S. Navy Over MUSV Program Contract Rejection",
+      source: "USNI News",
+      sourceMeta: "usni.org · 2026-07-15",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **소송 발생**: Saildrone과 Blue Water Autonomy 두 업체가 미국 해군의 중형 무인수상선(MUSV) 프로그램 계약 탈락으로 인해 2026년 6월 말 연방청구법원에 소송 제기</p><p>• **주요 주장**: 두 업체는 해군이 약 24개 지원사 중 7개사를 선정하는 과정에서 자신의 규정을 따르지 않았다고 주장</p><p>• **MUSV 프로그램 개요**: 차세대 대형 자율 무인선박 개발을 위한 해군의 전략적 프로젝트로 프로토타입 건조 및 시험 단계 진행 중</p><p>• **법적 근거**: 연방청구법원(United States Court of Federal Claims)에 별도의 소장(complaint) 제출로 정부 계약 절차상 위반 주장</p><p>• **산업적 영향**: 해군의 자율무인선박 도입 가속화 추세 속에서 계약 선정 투명성 및 절차 적정성 문제 대두</p><h3>Key Quotes</h3><p>• *"Two companies that were passed over for the U.S. Navy's Medium Unmanned Surface Vessel program are taking the service to court over the decision"* <br>(해군의 MUSV 프로그램에서 탈락한 두 업체가 그 결정에 대해 해군을 상대로 소송을 제기하고 있다)</p><p>• *"alleging the Navy didn't follow its own rules in how it selected contenders for the first generation of larger autonomous vessels"*<br>(해군이 대형 자율무인선박의 첫 세대 사업자 선정 과정에서 자체 규정을 준수하지 않았다고 주장)</p><h3>Technical Insights</h3><p>• **자율무인선박의 군사적 활용**: 미국 해군의 MUSV 프로그램은 차세대 해상 방위 전략의 핵심으로 원격 조종 및 자율항해 기술의 실전 적용을 목표로 하고 있음</p><p>• **계약 투명성 문제**: 정부-민간 방위사업 협력에서 기술 평가 기준과 선정 절차의 명확성이 논쟁의 중심으로, IMO 및 해양 자율화 기준 준수 여부가 평가 포인트가 될 수 있음</p><p>• **산업 경쟁 심화**: Saildrone, Blue Water Autonomy 등 다양한 기업이 자율무인선박 시장 진출을 시도하면서 기술 기준 정립과 정부 조달 공정성에 대한 요구 증가</p><p>• **규제 환경 진화**: 해군 MUSV 사업의 계약 분쟁은 국방 자율화 기술 표준화 및 감시 체계 정비의 필요성을 강조</p></div>`,
+      tags: ["autonomous vessels","MUSV program","U.S. Navy","contract dispute","unmanned surface vessels"],
+      link: "https://news.usni.org/2026/07/15/blue-water-autonomy-saildrone-sue-navy-over-musv-rejection",
+      coords: [-77.0369,38.9072],
+      location: "Washington, D.C."
+    },
+    {
+      type: "news",
+      title: "Wärtsilä Secures Five-Year Lifecycle Agreement for Turkey-Based FSRU Turquoise P",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-07-15",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2025/09/Pronav-FSRU_979x550.jpg?image-crop-positioner-ts=1758182921",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 핀란드 기술 회사 Wärtsilä가 아일랜드 기반 Pardus Energy와 터키 Aliaga 지역 LNG 터미널의 FSRU Turquoise P를 위한 5년 장기 라이프사이클 관리 계약을 체결했음</p><p>• 계약 내용: 장비 유지보수 계획, 예비부품 공급, 계약 관리 등을 통해 운영 신뢰성 강화 및 비용 예측성 개선</p><p>• FSRU Turquoise P는 2019년 취역했으며 Wärtsilä 장비로 구성되어 있고, 계약은 2026년 4월부터 발효됨</p><p>• Wärtsilä의 OEM(Original Equipment Manufacturer) 전문성과 유지보수 계획이 결합되어 예기치 않은 다운타임 위험 감소 및 주요 점검 작업 준비에 대한 확실성 제공</p><p>• 해당 FSRU는 터키 가스 공급 연속성의 핵심 역할을 하고 있으며, 구조화된 장기 서비스 모델로의 전환은 산업 신뢰성 강화의 사례</p><h3>Key Quotes</h3><p>• "This agreement is about giving Pardus Energy greater certainty over the lifecycle of a critical FSRU asset. By combining Wärtsilä's OEM expertise, maintenance planning and spare parts support, we can help Pardus Energy improve reliability, reduce operational risk and plan long-term operations with greater confidence." (이 계약은 중요한 FSRU 자산의 라이프사이클에 대해 Pardus Energy에 더 큰 확실성을 제공하는 것에 관한 것이며, Wärtsilä의 OEM 전문성, 유지보수 계획, 예비부품 지원을 결합하여 신뢰성 개선, 운영 위험 감소, 장기 운영 계획 수립에 도움)</p><p>• "Reliable operations and careful maintenance planning are essential for FSRU vessels. This agreement gives us a clear long-term framework for managing key maintenance activities, securing OEM spare parts and preparing for the planned 36K and 48K overhauls with greater confidence." (FSRU 선박의 안정적 운영과 신중한 유지보수 계획이 필수적이며, 이 계약은 주요 유지보수 활동 관리, OEM 예비부품 확보, 예정된 36K 및 48K 점검 준비를 위한 명확한 장기 프레임워크 제공)</p><h3>Technical Insights</h3><p>• 해상 LNG 인프라의 신뢰성 강화: FSRU 같은 핵심 에너지 인프라의 예기치 않은 다운타임은 국가 에너지 안보와 직결되므로, OEM 기반 장기 유지보수 계약의 중요성이 점증</p><p>• 예측 가능한 운영 모델: 36K 및 48K 주기 점검(overhaul) 일정을 사전에 계획함으로써 에너지 공급 체인의 효율성 증대 및 비용 최적화 달성</p><p>• 선박 라이프사이클 관리의 산업화: FSRU와 같은 특수선의 경우 OEM 기반 통합 관리 서비스 모델이 표준화되는 추세로, 향후 자동화 및 AI 기반 예측 유지보수와 연계될 가능성</p></div>`,
+      tags: ["FSRU","LNG Terminal","Maintenance","Wärtsilä","Turkey"],
+      link: "https://www.offshore-energy.biz/wartsila-scores-multi-year-lifecycle-assignment-for-turkiye-based-fsru/",
+      coords: [27.1667,39.0333],
+      location: "Aliaga, Turkey"
+    }
+  ]
+});
