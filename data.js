@@ -11535,3 +11535,58 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-14
+addEvents({
+  "2026-07-14": [
+    {
+      type: "accident",
+      title: "Triple-Deck Pontoon Boat Capsizes in San Francisco Bay; 1 Dead, 2 Missing",
+      source: "gCaptain/Reuters",
+      sourceMeta: "gcaptain.com · 2026-07-15",
+      image: "https://gcaptain.com/wp-content/uploads/2016/10/161008-G-AT057-001_LUCiD.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 샌프란시스코 만의 알카트래즈 섬 근처에서 19명이 탑승한 삼층 폰툰 보트가 전복되어 1명 사망, 2명 실종, 16명 구조됨<br>• U.S. Coast Guard와 샌프란시스코 소방청, 해경 등 다중 기관이 수색구조 활동 진행 중 (11척 투입)<br>• 사고 원인 미상이며 화재 발생 설은 부정됨; 강한 동향 해류와 화이트캡 현상이 목격됨<br>• 첫 번째 구조 세력인 경찰정이 심각한 부상자를 발견했으나 CPR 시행에도 불구하고 사망<br>• 쾌적한 날씨에도 불구하고 강한 해류가 안전에 영향을 미친 것으로 추정</p><h3>Key Quotes</h3><p>• "We are still conducting an active search of the area. We have 11 vessels on the water conducting that search. We are going to continue for hours to make sure that we find these two missing people, if possible." (우리는 여전히 해당 지역의 적극적인 수색을 진행 중입니다. 11척의 선박이 수색 작업 중이며, 가능한 한 실종자를 찾기 위해 수시간 계속할 것입니다.)</p><p>• "The cause of the accident remained unknown... Contrary to early reports, there was no fire on board" (사고 원인은 미상이며, 초기 보도와 달리 선박 내 화재는 없었습니다.)</p><h3>Technical Insights</h3><p>• 샌프란시스코 만의 강한 동향 해류(eastbound currents)는 이 지역 선박 운항의 주요 위험 요소로, 알카트래즈의 '탈옥 불가능' 평판도 강한 해류와 저수온에 기인함<br>• 폰툰 보트와 같은 대형 관광선의 안전성 평가 및 승객 정원 관리 기준 재검토 필요<br>• 신속한 초기 대응(경찰정의 빠른 도착)이 생명 구조에 결정적 역할을 하지만, 강한 해류 지역에서의 대형 선박 운항 규제 강화 및 안전 설비(life jackets, emergency beacon) 의무화 필요성 제시</p></div>`,
+      tags: ["capsizing","San Francisco Bay","search and rescue","casualties"],
+      link: "https://gcaptain.com/one-dead-2-missing-after-boat-with-19-aboard-capsizes-in-san-francisco-bay/",
+      coords: [-122.4194,37.8267],
+      location: "San Francisco Bay, near Alcatraz Island, California"
+    }
+  ]
+});
+
+// Auto-collected: 2025-08-14
+addEvents({
+  "2025-08-14": [
+    {
+      type: "accident",
+      title: "Allision of rigid inflatable boat Peaky Blinder with navigation beacon - 2 fatalities",
+      source: "MAIB (Marine Accident Investigation Branch)",
+      sourceMeta: "gov.uk · 2025-08-14",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2025년 8월 14일 저녁, 영국 포츠머스 항구에서 소형 경비정(RIB) Peaky Blinder가 항법 등표 81번과 충돌하여 탑승자 3명이 수중으로 투출됨<br>• 선박 소유자(조종자)는 알코올 영향 상태에서 과속 운항 중이었으며, 탑승자 2명이 사망하고 1명이 경상을 입음<br>• 탑승자 중 누구도 개인 부양 장비(PFD)를 착용하지 않았으며, 이는 사망 결과를 악화시킨 주요 요인<br>• 레크리에이션 보트 커뮤니티의 규제, 집행, 교육 체계가 알코올 관련 안전 행동에 효과적으로 작용하지 못함<br>• 영국 교통부는 2003년 철도운송안전법의 비전문 해운인 음주운항 제한 규정 발효 및 국가 차원의 안전교육 전략 수립을 권고받음</p><h3>Key Quotes</h3><p>• "The vessel was being operated at an unsafe speed immediately before the allision, putting the RIB's occupants and other water users at risk." <br>(선박이 충돌 직전 안전하지 않은 속도로 운항되었으며, 탑승자 및 다른 수상 이용자들에게 위험을 초래함)</p><p>• "The owner of the vessel was under the influence of alcohol, this substantially increased the likelihood of an accident."<br>(선박 소유자가 알코올의 영향 아래 있었으며, 이는 사고 가능성을 실질적으로 증가시킴)</p><p>• "No one on board the vessel was wearing a personal flotation device (PFD), which meant they were unavailable to reduce consequences of entering the water."<br>(탑승자 중 누구도 개인 부양 장비를 착용하지 않았으므로 수중 진입의 결과를 완화할 수 없었음)</p><h3>Technical Insights</h3><p>• **음주운항 규제 공백**: 영국의 2003년 철도운송안전법은 비전문 해운인의 음주운항 제한 규정을 포함하고 있으나 아직 발효되지 않아, 소형 경비정 운영자에 대한 알코올 기준 규제가 실질적으로 부재한 상태</p><p>• **개인안전장비(PFD) 착용 미준수**: 레크리에이션 보트 커뮤니티에서 PFD 착용이 의무화되지 않거나 효과적으로 집행되지 않아, 수상 사고 시 생존율이 크게 저하되는 구조적 문제</p><p>• **소형 보트 안전 규제의 한계**: RIB 및 유사 고속 소형 선박에 대한 속도 제한, 음주 모니터링, 안전교육 체계가 미흡하여 기존 COLREG 규칙이 충분히 준수되지 않는 현황</p><p>• **산업적 권고사항**: 해양 안전 당국은 소형 레크리에이션 보트 운영자에 대한 국가 차원의 안전교육 캠페인 개발과 음주운항 규제 조항의 조속한 입법화를 권고, IMO 표준과의 조화 필요</p></div>`,
+      tags: ["RIB accident","Portsmouth Harbour","fatality","alcohol impairment","navigation beacon collision"],
+      link: "https://www.gov.uk/maib-reports/allision-of-the-rigid-inflatable-boat-peaky-blinder-with-a-navigation-beacon-with-the-loss-of-2-lives",
+      coords: [-1.0873,50.8192],
+      location: "Portsmouth Harbour, England"
+    }
+  ]
+});
+
+// Auto-collected: 2026-07-15
+addEvents({
+  "2026-07-15": [
+    {
+      type: "news",
+      title: "U.S. Navy Develops Unmanned Fighter Aircraft with 1,000-Mile Range from Carrier",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-07-15",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 미 해군이 항공모함에서 1,900km(1,150마일) 범위 내에서 조종사 없이 운항 가능한 무인 전투기 개발을 추진 중<br>• 개발 중인 무인 전투기는 공중급유, 적 위협 회피, 목표 타격 등 전반적 전투임무 수행 가능<br>• 자동화된 의사결정 및 원격 조종 기술이 결합된 고급 자율 항공 시스템으로 운영 예정<br>• 미 해군의 미래 항모 전력의 핵심 전략으로 다층 방어 및 공중 우위 확보 목표<br>• 관련 기술: AI 네비게이션, 자동 회피 시스템, 자율 목표 추적 및 타격 능력</p><h3>Key Quotes</h3><br>• "A jet could be preparing to launch into contested airspace nearly 1,900 kilometers away, refuel itself mid-flight if needed, evade enemy threats, and strike a target, all without a single pilot strapped inside the cockpit." (항공모함에서 1,900km 떨어진 적 영공으로 조종사 없이 출격하여 공중급유, 위협 회피, 목표 타격을 수행할 수 있는 무인 전투기)</p><h3>Technical Insights</h3><br>• 자율 항공 시스템의 발전으로 전투기의 임무 범위 및 지속시간이 획기적으로 증대되어 항모 작전 효율성 대폭 향상<br>• IMO 자율선박 기준과 유사하게 항공 운영에도 높은 수준의 자동화 및 안전 검증 프로토콜 필요<br>• 무인 항공 시스템의 광범위 배치는 국방 선박(항모) 운영 패러다임을 변화시키며 해상 전력 구조 재편<br>• COLREG 해상교통규칙과 유사한 항공교통관제 자동화 시스템 개발로 민군 겸용 기술 발전 기대</p></div>`,
+      tags: ["Unmanned Aircraft","Autonomous Systems","Naval Aviation","U.S. Navy"],
+      link: "https://defence-blog.com/u-s-navy-wants-unmanned-fighters-that-can-fly-1000-miles-from-a-carrier/",
+      coords: [0,0],
+      location: "Global (U.S. Navy Program)"
+    }
+  ]
+});
