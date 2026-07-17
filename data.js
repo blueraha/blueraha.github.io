@@ -11677,3 +11677,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-16
+addEvents({
+  "2026-07-16": [
+    {
+      type: "news",
+      title: "GTT Secures Lloyd's Register Approval for New NO96 LNG Carrier Design Criteria",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-07-16",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/02/LNG-vessel-Source-GTT.jpg?image-crop-positioner-ts=1771505165",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• GTT(Gaztransport & Technigaz)는 영국 선급 로이드 레지스터(Lloyd's Register)로부터 NO96 화물 격납 시스템의 새로운 신장 기준에 대한 원칙적 승인(AiP)을 획득했으며, 이는 LNG선의 설계 유연성을 대폭 확대할 것으로 예상됨</p><p>• 승인된 기준은 NO96 멤브레인 및 단열 시스템 하의 선체 변형을 제어하는 개정 기준이 LR의 분류 요건 및 관련 국제 규정을 충족함을 확인함</p><p>• 구조 안전성과 피로 한계, 멤브레인 성능을 유지하면서 설계자에게 더 큰 선체 구조 설계 유연성을 제공하는 것을 목표로 함</p><p>• LR의 검토는 운영, 열 및 선체 유도 하중에 대한 상세한 구조 및 유체역학 분석을 포함했으며, NO96 변형 전반에 걸친 호환성을 확인함</p><p>• 업데이트된 기준은 경량화된 선체 무게를 가능하게 하면서 안전성과 규제 준수를 유지하는 효율적인 구조 최적화를 실현할 것으로 기대됨</p><h3>Key Quotes</h3><p>• "This approval is about giving confidence at an early stage. Our review confirmed that GTT's updated NO96 elongation criteria remain within established safety margins while allowing designers greater flexibility." (이 승인은 초기 단계에서 신뢰를 제공하는 것에 관한 것입니다. 저희 검토는 GTT의 업데이트된 NO96 신장 기준이 확립된 안전 한계 내에 있으면서도 설계자에게 더 큰 유연성을 제공함을 확인했습니다.)</p><p>• "Lloyd's Register's Approval in Principle confirms the technical robustness of the latest NO96 developments. These enhanced design criteria provide greater flexibility for ship designers while preserving the highest standards of safety and membrane integrity." (로이드 레지스터의 원칙적 승인은 최신 NO96 개발의 기술적 견고성을 확인합니다. 이러한 향상된 설계 기준은 최고 수준의 안전성과 멤브레인 무결성을 유지하면서 선박 설계자에게 더 큰 유연성을 제공합니다.)</p><h3>Technical Insights</h3><p>• NO96 화물 격납 시스템은 현존 LNG선의 가장 광범위하게 사용되는 시스템으로, 새로운 신장 기준의 승인은 향후 LNG선 설계의 표준화에 중대한 영향을 미칠 것으로 예상됨</p><p>• 선체 변형 기준의 완화는 경량화 설계를 통한 연료 효율성 향상 및 탑재 용량 증대를 가능하게 하여 LNG 운송 산업의 경제성을 개선할 수 있는 기술적 기반을 제공함</p><p>• 구조 안전성, 피로 한계, 멤브레인 성능을 동시에 만족하는 기준 개정은 IMO 규정 준수와 분류 사회의 안전 기준을 조화시키는 현대적 해결책으로, 향후 해상 산업 표준 개발의 모범 사례가 될 수 있음</p><p>• 이 승인은 고도화된 선박 설계 최적화 요구에 대응하는 기술 혁신의 사례로, 자율운항선 및 친환경 연료 추진 선박 등 차세대 해양 플랫폼 개발 시 적용 가능한 유연한 규제 프레임워크를 시사함</p></div>`,
+      tags: ["LNG carrier","NO96 containment system","Lloyd's Register","ship design","maritime regulation"],
+      link: "https://www.offshore-energy.biz/gtts-new-lr-approved-no96-criteria-expand-lng-carrier-design-flexibility/",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "Port of Klaipėda green methanol bunkering vessel concept design revealed",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-07-16",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/07/Concept-design-revealed-for-Port-of-Klaipedas-green-methanol-bunkering-vessel.jpg?image-crop-positioner-ts=1784193917",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 에스토니아 BLRT Grupp의 자회사 Western Baltic Engineering이 클라이페다 항구용 친환경 메탄올 벙커링 선박 개념 설계 완료<br>• 길이 69.36미터, 800톤 적재량, 연간 25만톤 연료 공급 가능한 환경친화적 벙커링 선박으로 얕은 수심 운영에 최적화<br>• 유럽투자은행(EIB)에서 2.01억 유로 규모 항구 현대화 사업에 약 1억 유로 융자 승인 (2026년 4월 23일 승인, 7월 8일 계약)<br>• 이는 Western Baltic Engineering이 개발한 첫 번째 친환경 메탄올 벙커링 전용 선박 설계<br>• Trans-European Transport Network(TEN-T) 핵심 인프라 현대화를 통해 해양운송, 재생에너지 배포, 동맹군 군함 지원 강화</p><h3>Key Quotes</h3><p>• "Western Baltic Engineering's first concept developed specifically for green methanol bunkering" <br>(Western Baltic Engineering이 친환경 메탄올 벙커링을 위해 특화 개발한 첫 개념 설계)</p><p>• "At full operational capacity, it will be capable of supplying up to 250,000 tons of fuel annually"<br>(완전 운영 상태에서 연간 25만톤의 연료 공급 능력 보유)</p><h3>Technical Insights</h3><p>• 친환경 메탄올 연료 공급 체계 구축으로 IMO 2030/2050 탈탄소화 규제 대응 및 해운산업의 대안연료 전환 가속화<br>• 얕은 수심 운영 최적화 설계는 발트해 지역 소규모 항구의 벙커링 인프라 확충으로 지역 해운 경쟁력 강화<br>• EIB 대규모 융자를 통한 항구 현대화는 대안연료 기반시설 구축의 정책적 지원 모델로 EU 그린딜 이행 가속화<br>• 기존 수소/전력 추진 선박(RASA) 운영 경험을 기반으로 다양한 친환경 추진 기술 포트폴리오 확대로 종합 해양에너지 솔루션 제공체 위상 강화</p></div>`,
+      tags: ["Green Methanol","Bunkering Vessel","Port Infrastructure","Energy Transition","Sustainable Shipping"],
+      link: "https://www.offshore-energy.biz/concept-design-revealed-for-port-of-klaipedas-green-methanol-bunkering-vessel/",
+      coords: [21.1413,55.7033],
+      location: "Port of Klaipėda, Lithuania"
+    },
+    {
+      type: "news",
+      title: "US LNG Tanker Al Fat'h Completes First Direct Sail to China Since Tariff Dispute",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-16",
+      image: "https://images.marinelink.com/images/maritime/w800/credit-adobe-172277.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 루이지애나주 Venture Global LNG의 플라켐마인 수출 터미널에서 6월 초 적재된 LNG를 탑재한 Al Fat'h 유조선이 미국에서 중국으로 직접 항해한 첫 번째 사례로 기록됨 (2025년 2월 이후 관세 분쟁으로 약 16개월 만)</p><p>• QatarEnergy가 현물 기준으로 화물을 매입하여 중국 하이난의 PipeChina 양푸 터미널에 도착했으나, 보세 저장소 규제로 인해 실제 중국 국내 시장 진입 가능성은 낮음</p><p>• 중국의 보세 LNG 저장소는 수입 관세 면제 조건에서 저장, 거래, 재수출이 가능하여 중국 수입업체에 높은 유연성을 제공</p><p>• 아시아 LNG 가격(JKM 벤치마크 $20/mmBtu)이 미국($3/mmBtu)과 유럽($18/mmBtu)보다 훨씬 높아 재수출이 경제적으로 더 유리한 상황</p><p>• 중국의 약한 국내 수요(특히 산업 부문)와 높은 아시아 이윤 마진으로 인해 제3국 재수출이 더 가능성 높음</p><p>• 2025년 이후 최소 3척의 LNG 유조선이 미국에서 제3국을 경유하여 소량의 LNG를 중국으로 운송한 상황으로 직접 거래 정상화는 여전히 제한적</p><h3>Key Quotes</h3><p>• "Yangpu port has bonded LNG storage tanks as part of Hainan's special customs operations strategy... allowing LNG to be stored, traded, and re-exported without paying Chinese import duties" <br>(양푸 항구는 하이난의 특수 세관 운영 전략의 일부로 보세 LNG 저장소를 보유하고 있으며, 이를 통해 중국 수입 관세를 지불하지 않고 LNG를 저장, 거래, 재수출할 수 있음)</p><p>• "It makes more economic sense for them to re-export to other countries given high Asian LNG prices and wider profit margins" <br>(아시아의 높은 LNG 가격과 더 큰 이윤 마진을 고려할 때 제3국으로 재수출하는 것이 더 경제적임)</p><h3>Technical Insights</h3><p>• **보세 저장소 활용의 산업적 의미**: 중국의 보세 LNG 저장소(하이난 양푸, 텐진, 저우산)는 관세 부담 없이 유연한 거래를 가능하게 하여 글로벌 LNG 시장의 중계 허브로 기능할 수 있음을 시사</p><p>• **에너지 거래 최적화 전략**: 아시아-태평양 지역의 LNG 가격 차이(JKM vs. 미국 HH 가격)가 확대되면서 제3국 중계 거래의 경제성이 증가하고 있으며, 이는 전통적인 직접 거래 모델의 변화를 의미함</p><p>• **지정학적 영향 제약**: 미국-중국 관세 분쟁이 지속되는 한 장기 계약물 LNG도 보세 저장소를 통한 간접 거래 방식으로 우회될 가능성이 높으며, 이는 국제 에너지 공급망의 불안정성을 반영</p><p>• **해운 산업의 경로 최적화**: LNG 유조선의 항로 유연성과 제3국 중계 운송의 증가로 인해 기존의 고정된 해운 노선이 동적으로 변화하고 있음</p></div>`,
+      tags: ["LNG","US-China Trade","Energy Trading","Shipping Economics"],
+      link: "https://www.marinelink.com/news/us-lng-tanker-completes-first-direct-sail-541293",
+      coords: [110.35,19.05],
+      location: "Hainan, China (Yangpu Terminal)"
+    },
+    {
+      type: "news",
+      title: "Port of Antwerp-Bruges Reports 2.4% Decline in H1 2026 Cargo Handling Amid Geopolitical and Operational Disruptions",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-16",
+      image: "https://images.marinelink.com/images/maritime/w800/antwerpbruges-172271.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Port of Antwerp-Bruges는 2026년 상반기 133.9백만 톤의 해상 화물을 처리하여 전년 동기 대비 2.4% 감소<br>• 컨테이너 처리량이 주요 감소 요인으로 1.5% 하락(TEU 기준), 특히 전체 컨테이너 수출이 5.7% 감소<br>• 3월 해양 운영 파업(4일간, 약 10만 TEU 손실), 4월 유류 유출(약 8.5만 TEU 손실), 6월 조종사 시위(약 7.5만 TEU 손실) 등 운영 중단으로 심각한 영향<br>• 중동 지정학적 긴장으로 페르시아만 공급량 57% 급감, 카타르 LNG 공급 66% 감소로 약 220만 톤의 순 화물 손실 발생<br>• 미국 무역 정책 변화로 미국산 전체 컨테이너 수입 10.4%, 수출 16.5% 감소<br>• RoRo 화물은 5.9% 증가했으나 일반 화물 부문의 감소를 상쇄하지 못함</p><h3>Key Quotes</h3><br>• "Container throughput was under pressure in the first half of 2026 and was the main cause of the decline in total cargo throughput" (2026년 상반기 컨테이너 처리량이 전체 화물 처리량 감소의 주요 원인)<br>• "A four-day strike in the nautical chain in March led to an estimated loss of 100,000 TEU, followed by the oil spill in the Deurganckdok in April with an additional loss of approximately 85,000 TEU" (3월 해양 운영 파업으로 약 10만 TEU, 4월 유류 유출로 약 8.5만 TEU 손실)<br>• "Supply from countries around the Persian Gulf was 57% lower in the first half of 2026 than last year" (페르시아만 주변국 공급량이 전년 대비 57% 감소)</p><h3>Technical Insights</h3><br>• 지정학적 갈등으로 인한 해운 경로 변경(홍해 및 동지중해 경로 우회)이 선사의 항해 일정 조정 및 운영 비용 증가를 초래하며, IMO 해상 교통 규정 준수의 복잡성 증가<br>• 항만 운영 중단(파업, 유류 유출, 조종사 시위)으로 인한 약 26만 TEU의 누적 손실은 자동화 및 원격 조종 기술 도입의 필요성을 강조<br>• 빈 컨테이너 수송 증가(13.7%)로 인한 물류 비효율성은 AI 기반 선적 최적화 및 자율운항 선박 기술을 통한 운영 효율성 개선이 시급함을 시사<br>• 에너지 비용, 번커링 비용, 운송비 상승으로 인한 공급망 혼란은 선박의 연료 효율성 개선 및 친환경 해운 솔루션의 도입 가속화가 필요함을 의미</p></div>`,
+      tags: ["Port Operations","Container Shipping","Trade Impact","Geopolitical Tensions"],
+      link: "https://www.marinelink.com/news/port-antwerpbruges-sees-decline-goods-h-541286",
+      coords: [4.2517,51.3397],
+      location: "Antwerp-Bruges, Belgium"
+    }
+  ]
+});
