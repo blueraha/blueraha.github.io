@@ -11621,3 +11621,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-16
+addEvents({
+  "2026-07-16": [
+    {
+      type: "news",
+      title: "Saronic Selects Brownsville for $3 Billion Port Alpha Autonomous Shipyard",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-07-16",
+      image: "https://gcaptain.com/wp-content/uploads/2026/07/Port_Alpha-2.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사로닉의 대규모 투자 프로젝트**: 자율운항선박 개발사 Saronic이 텍사스 브라운스빌에 $30억 규모의 '포트 알파' 자동화 조선소 건설 계획 발표</p><p>• **규모 및 일정**: 브라운스빌 항구의 835에이커 초기 부지에서 2026년 하반기 착공, 2028년 운영 개시 예정, 향후 4,400에이커까지 확장 가능</p><p>• **생산 능력**: 초기 850피트급 선박 건조 가능, 향후 1,200피트 이상 대형 선박 건조 지원, WWII 이후 유례없는 규모와 속도의 선박 생산 목표</p><p>• **경제적 파급효과**: 향후 10년간 용접, 기계가공, 로봇공학, 소프트웨어 엔지니어링 등 분야에서 최대 10,000개 일자리 창출 예상</p><p>• **산업 생태계 구축**: 텍사스 교육기관과 협력하여 인력 양성 및 견습생 프로그램 개발, 미국 조선업 부흥 전략의 핵심 일환</p><p>• **최근 성과**: Saronic의 Corsair 자율운항 수상함이 호르무즈 해협 인근 이란 해상 시설 대상 미군 작전에서 실제 배치되며 자율선박의 실용화 가속화</p><h3>Key Quotes</h3><p>• "America's maritime future depends on our ability to build again. Port Alpha is our commitment to that mission. Built from the ground up to deliver ships at a speed and scale not seen since World War II" (미국 해양산업의 미래는 다시 건조할 수 있는 능력에 달려있으며, 포트 알파는 WWII 이후 볼 수 없었던 규모와 속도로 선박을 건조하기 위한 우리의 약속입니다)</p><p>• "this investment is about more than constructing a shipyard. It is about rebuilding the industrial capacity, workforce, and manufacturing advantage required to ensure American maritime leadership for decades to come" (이 투자는 단순히 조선소 건설을 넘어 향후 수십 년간 미국 해양 리더십을 보장하기 위한 산업 역량, 인력, 제조 경쟁력을 재구축하는 것)</p><h3>Technical Insights</h3><p>• **자율운항선박 양산 기반 구축**: 포트 알파는 로봇공학, AI 소프트웨어 기반 생산 시스템을 통합한 차세대 조선소로, 전통 조선업과 자율운항 기술의 융합을 구현하는 산업 모델 제시</p><p>• **미국 조선 산업 부흥 전략**: 국방 자율화 추세(Corsair의 호르무즈 해협 배치)와 민간 해운의 자동화 수요를 동시에 충족하는 기반 마련, 중국·일본 등과의 조선 경쟁력 회복 의도</p><p>• **COLREG 및 국제 규범 대응**: 대형 자율운항선박(850~1,200피트급) 건조 능력 확보는 IMO의 자율운항선박 규범 제정과 동시에 국제 해역 운항 가능성을 높이는 중요한 산업 인프라 투자</p><p>• **공급망 및 생태계 강화**: 텍사스 지역 인력 양성, 교육 기관 협력 등 지역 경제 활성화와 동시에 로봇공학, 소프트웨어 엔지니어링, 해양 건축학 등 첨단 기술 인력 확보로 향후 자율운항선박의 장기적 경쟁력 기반 구축</p></div>`,
+      tags: ["Autonomous Vessels","Shipbuilding","U.S. Manufacturing","Saronic","Port Infrastructure"],
+      link: "https://gcaptain.com/saronic-picks-brownsville-for-3-billion-port-alpha-autonomous-shipyard/",
+      coords: [-97.4267,25.9017],
+      location: "Brownsville, Texas"
+    },
+    {
+      type: "news",
+      title: "Saronic Selects Brownsville, Texas for $3 Billion 'Port Alpha' Autonomous Shipyard",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-07-16",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/07/Saronic-Marauder-USV.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Saronic이 텍사스 브라운즈빌에 Port Alpha라는 차세대 자율운항선박 전문 조선소 건설을 발표했으며, 30억 달러 규모의 투자 계획을 추진 중</p><p>• 초기 835에이커 부지로 시작하여 최대 4,400에이커까지 확장 가능하며, 최대 1,200피트 길이의 선박 건조 능력 보유</p><p>• 2026년 착공, 2028년 완공 예정이며, 10,000개의 직접 고용과 텍사스 지역에 2,645억 달러의 경제 효과 창출 예상</p><p>• 트럼프 행정부의 해양 주도권 회복 행정령(Executive Order on Restoring America's Maritime Dominance)과 SHIPS for America Act 지원으로 추진되는 미국 조선산업 부흥 정책과 맥락을 같이함</p><p>• 소프트웨어 기반 조선 및 자율해양시스템에 최적화된 설계로, 2차 세계대전 이후 최대 규모의 미국 조선 능력 복원 목표</p><h3>Key Quotes</h3><p>• "America's maritime future depends on our ability to build again. Port Alpha is our commitment to that mission. Built from the ground up to deliver ships at a speed and scale not seen since World War II." (미국의 해양 미래는 우리의 건조 능력에 달려 있으며, Port Alpha는 2차 세계대전 이후 유례없는 속도와 규모로 선박을 공급하기 위해 설계됨)</p><p>• "Port Alpha will expand domestic production capacity and strengthen the nation's ability to meet commercial and defense requirements while closing the widening shipbuilding gap with foreign adversaries." (외국 경쟁국과의 조선 격차를 줄이면서 상업 및 국방 요구를 충족하는 능력 강화)</p><h3>Technical Insights</h3><p>• 자율운항선박(Autonomous Vessels) 전문 조선소 구축으로 AI 기반 해양 시스템 통합 설계 및 건조 역량 선제적 확보 필요</p><p>• 소프트웨어 정의 조선(Software-Defined Shipbuilding) 개념 도입으로 디지털 트윈, IoT 센서, 자동화 기술을 조선 공정에 적용하여 생산성 극대화 추진</p><p>• IMO 자율운항선박 규제 프레임워크(IMO Maritime Autonomous Surface Ships Guidelines) 발전에 따른 미국 선박 경쟁력 확보 전략으로, 제조 우위를 통한 시장 선점 의도</p><p>• COLREG 및 항해 안전 기준 준수가 자동화된 조선소에서 설계 단계부터 반영되어야 하며, 자율운항선박의 국제 표준화 논의에 미국 조선업 주도권 확보 가능</p></div>`,
+      tags: ["Autonomous Vessels","Shipbuilding","U.S. Maritime Industry","Port Alpha"],
+      link: "https://www.navalnews.com/naval-news/2026/07/saronic-port-alpha-shipyard-texas-autonomous-naval-vessels/",
+      coords: [-97.4269,25.9017],
+      location: "Brownsville, Texas, USA"
+    },
+    {
+      type: "news",
+      title: "Typhoon USV Completes First-Ever At-Sea Resupply with USS Essex During RIMPAC 2026",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-07-16",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-194907.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **Splash Industries의 Typhoon USV가 USS Essex(LHD-2) 웰덱에 최초로 자율 해상 보급 임무 수행** - RIMPAC 2026 해군 연합훈련 중 사람이 탄 대형 선박에 대한 USV 무인 보급 작전의 역사적 첫 사례 기록</p><p>• **Typhoon USV의 고성능 사양** - 600해리 이상의 항속거리, 50노트 이상의 지속 속력, 시험 결과 70노트 초과 속력 달성, 다양한 화물/센서 패키지 적재 가능</p><p>• **완전 자율 운영 능력 입증** - 수백 해리의 공해상에서 운용자의 지속적 감시 없이 자율 주행 및 기능 수행으로 무인 운영의 실용성 확인</p><p>• **미 해군의 다각화된 USV 운용 확대** - 보급 역할, 타격 임무(Saronic Corsair), 해상 감시, 수색 구조 등 다양한 작전 분야로 확산 중</p><p>• **전략적 중요성 증대** - 우크라이나의 UUV/USV 운용 사례(러 흑해함대 견제), 민간 시장 경쟁 심화로 미 해군의 미래전력 계획에서 USV 비중 급증 중</p><h3>Key Quotes</h3><p>• "the Typhoon navigated and functioned autonomously throughout the mission, presenting the ability to supply cargo to vessels underway without constant operator oversight" (Typhoon은 임무 전반에 걸쳐 자율적으로 항해하고 기능했으며, 운용자의 지속적 감시 없이 항해 중인 선박에 화물을 보급할 수 있는 능력을 입증했다)</p><p>• "the Typhoon thus demonstrated a novel capability of resupplying vessels whilst underway, but also proves the fluidity of the small to medium sized USV market as several new players continue to compete for a slew of contracts" (Typhoon은 항해 중 선박 보급의 새로운 능력을 입증했으며, 여러 신규 업체들이 수많은 계약을 놓고 경쟁함에 따라 소형-중형 USV 시장의 유동성을 증명했다)</p><h3>Technical Insights</h3><p>• **자율 해상 보급 작전의 기술적 성과** - COLREG 규정 준수 하의 완전 자율 운용으로 해상 로지스틱스의 무인화 가능성 입증, 향후 함대 운영의 효율성 대폭 향상 기대</p><p>• **IMO 규제 환경 변화 선제 대응** - 무인 선박 안전 기준 개발 추진 중인 IMO와 별개로 미 해군이 실전 운용 데이터 축적, 향후 국제 규범 수립에 주도적 역할 가능</p><p>• **전장 운영 개념의 혁신** - 전술함의 자급 능력 향상, 보급함의 소형화/다중화로 함대 구성 변경 가능성, 적의 대함 전력 분산 효과로 생존성 증대</p><p>• **산업-국방 연계 생태계 형성** - Splash Industries 등 민간 기업의 기술 발전이 군사 운용 수요 창출, 소형-중형 USV 시장의 급속 성장으로 해양 자율 로봇 산업 확대 견인</p></div>`,
+      tags: ["Autonomous Surface Vessel","USV","Naval Innovation","RIMPAC 2026","Unmanned Logistics"],
+      link: "https://www.navalnews.com/naval-news/2026/07/typhoon-usv-uss-essex-at-sea-resupply/",
+      coords: [157.8581,21.3099],
+      location: "Hawaii (RIMPAC Exercise Area)"
+    },
+    {
+      type: "news",
+      title: "South Korean cable maker Taihan takes delivery of second cable-laying vessel",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-07-16",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/07/South-Korean-cable-maker-buys-cable-laying-vessel-from-DOF-1024x728-1.jpg?image-crop-positioner-ts=1784202149",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 한국 케이블 제조업체 태한이 노르웨이 DOF 그룹으로부터 획득한 'Skandi Connector' CLV를 부산 감천항에서 7월 7일 인수 완료 (예정 시기인 8월보다 조기 인수)<br>• 2016년 건조된 10,000톤급 138.4미터 선박으로, 네덜란드 Damen 조선소 설계이며 현재까지 27개 프로젝트에 약 1,300km의 해저 케이블 설치 완료<br>• 기존 보유 중인 PALOS CLV와 함께 이중 설치 시스템 구축으로 프로젝트 특성과 설치 환경에 맞는 최적의 선박 운영 가능<br>• 한국 해상풍력 산업에서 전용 CLV 2대 보유로 국내 최초의 쌍둥이 케이블포설선 운영 체계 확립<br>• 해상풍력 발전소 건설의 핵심 인프라인 해저 케이블 설치 능력 강화로 한국의 재생에너지 프로젝트 경쟁력 증대</p><h3>Key Quotes</h3><br>• "By operating two CLVs, including PALOS, the only offshore wind CLV currently in Korea, Taihan said it had established a dual-track installation system that enables the deployment of the most suitable vessel depending on project characteristics and installation environments." (태한은 한국의 유일한 해상풍력 전용 CLV인 PALOS를 포함하여 2대의 CLV를 운영함으로써 프로젝트 특성과 설치 환경에 따라 가장 적합한 선박을 배치할 수 있는 이중 시스템을 구축했다고 밝혔음)</p><p>• "The 10,000-ton-class, 138.4-meter-long vessel was delivered at Gamcheon Port in Busan, Korea, on July 7, earlier than the announced expected delivery in August." (10,000톤급 138.4미터의 선박이 부산 감천항에서 7월 7일에 인수되어 예정된 8월 배송보다 앞당겨짐)</p><h3>Technical Insights</h3><br>• 해저 케이블 포설 선박(CLV)의 이중 운영 체계는 복잡한 해상풍력 프로젝트의 유연한 일정 관리와 효율성 제고를 가능하게 하며, 이는 IMO 규정 준수와 해상안전 기준을 동시에 충족하는 운영 전략<br>• 한국의 CLV 확보는 자율항해 및 원격운영 기술 도입의 기초 인프라로 작용할 수 있으며, 향후 AI 기반 케이블 포설 최적화 시스템 개발의 발판 제공<br>• 해상풍력 산업 확대에 따른 국내 조선·해양산업의 부가가치 창출 및 국제 경쟁력 강화, 특히 해양 신재생에너지 전환 추진의 핵심 인프라 구축 완성</p></div>`,
+      tags: ["Cable-laying vessel","Offshore wind","South Korea","Taihan Cable & Solution"],
+      link: "https://www.offshore-energy.biz/south-korean-cable-maker-takes-delivery-of-its-second-cable-laying-vessel/",
+      coords: [129.0756,35.0994],
+      location: "Busan, South Korea"
+    }
+  ]
+});
