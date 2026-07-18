@@ -11789,3 +11789,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-17
+addEvents({
+  "2026-07-17": [
+    {
+      type: "news",
+      title: "101 European lawmakers urge Danish shipyard Fayard to cut ties with Russia's Arctic LNG fleet",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-07-17",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2021/12/269.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 유럽 16개국 101명의 의원들이 덴마크 Fayard 조선소에 러시아 Arctic LNG 수송 선박 정비 중단을 촉구하는 공개 편지에 서명</p><p>• Villy Søvndal 덴마크 MEP가 주도한 이 연대는 유럽의회 3명 부의장과 다수 정당 연합으로 구성되어 있으며, 2027년 EU LNG 금수조치 앞두고 러시아의 에너지 수출 기반 약화 목표</p><p>• Arc7 쇄빙 유조선은 러시아 Arctic LNG 수출의 핵심 운송 수단으로, Fayard는 EU 내 유일하게 이들 선박을 정비하는 조선소</p><p>• 2026년 여름 정비 작업이 향후 수년간 러시아 함대 운영을 지속시킬 수 있다는 우려로, 의원들은 2027년 이전 추가 선박 수리 거부를 명시적으로 선언할 것을 요구</p><p>• 에너지 안보, 덴마크의 신뢰성, 우크라이나와의 연대 문제로 프레임화된 정치적 압력으로 작용</p><h3>Key Quotes</h3><p>• "If Europe truly wants to hurt Russia's LNG business with the embargo starting in 2027, the Arc7 fleet is the crucial link in the logistics chain. Fayard should not play into Russia's hands here and prepare the ships for a business that Europe actually intends to weaken." (유럽이 2027년 시작 예정인 금수조치로 러시아 LNG 사업에 타격을 주려면 Arc7 함대가 물류 체인의 핵심인데, Fayard는 러시아 편에 서서 유럽이 약화시키려는 사업을 위해 선박을 준비해서는 안 된다는 의미)</p><p>• "We must remain vigilant and close loopholes to ensure sanctions remain effective. By continually adapting our sanctions, we demonstrate that Russia will face lasting consequences for its war of aggression against Ukraine." (제재의 실효성을 보장하기 위해 경계를 유지하고 허점을 막아야 하며, 지속적인 제재 조정으로 러시아가 우크라이나 침략에 대한 장기적 결과를 맞이할 것을 보여줘야 한다는 의미)</p><h3>Technical Insights</h3><p>• Arctic LNG 수출 기반시설은 특수 쇄빙 선박(Arc7)의 정기적 정비를 필수로 하는데, 단일 EU 조선소 의존도가 높아 제재의 '약한 고리' 역할 - 해운업계 공급망 단절의 전략적 중요성</p><p>• 2027년 EU LNG 금수조치 시행 전 정비 작업이 선박의 내구성을 연장할 수 있어, 제재의 시간적 효과를 무력화할 수 있는 우려 - 에너지 제재와 해운 서비스의 상호작용</p><p>• 국제해사법(UNCLOS)상 항구국 관할권 내에서도 외교/제재 정책 우선순위가 상업적 중립성과 충돌하는 사례로, 민간 조선소의 정치적 선택 강요 현상 가시화</p></div>`,
+      tags: ["Russia","LNG","Sanctions","Arctic","Denmark","Fayard Shipyard"],
+      link: "https://www.offshore-energy.biz/101-european-lawmakers-urge-danish-shipyard-to-cut-its-ties-with-russias-arctic-lng-fleet/",
+      coords: [9.5018,56.2639],
+      location: "Denmark (Fayard Shipyard)"
+    }
+  ]
+});
