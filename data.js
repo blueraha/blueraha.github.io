@@ -11733,3 +11733,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-17
+addEvents({
+  "2026-07-17": [
+    {
+      type: "accident",
+      title: "Armed Assailants Seize Chemical Tanker Asana Off Yemen",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-17",
+      image: "https://images.marinelink.com/images/maritime/w800/robert-stockadobecom-172298.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 7월 17일 예멘 남부 해역의 아덴만에서 화학탱커 아사나(Asana)가 무장한 해적에 의해 탈취됨<br>• 마샬 아일랜드 선적 엑손에너지(Exon Energy) 소유, 선원 현황과 피해 상황 불명확<br>• 소말리아 해적 집단의 소행으로 추정되며, 신원금 목적의 선박 억류로 판단됨<br>• 6월 이후 예멘 해역에서 최소 3건의 무장 탑승 시도 사건 발생 중<br>• EU 아스피데스 해상 작전군과 한국 해군함이 해역 내 활동 중<br>• 적어도 4월 21일 이후 소말리아 펀틀란드 인근에서 팔라우 국적 유조선 오너(Honour 25)도 동일한 이유로 탈취됨</p><h3>Key Quotes</h3><br>• "The incident bears clear indications of an act of piracy aimed at detaining the ship and its crew for ransom" (이번 사건은 선박과 선원을 신원금 목적으로 억류하려는 명백한 해적행위의 증거를 보여줌)<br>• "Details regarding the number of assailants, the circumstances of the boarding, and the status of the vessel and crew remain unclear" (해적의 규모, 탑승 상황 및 선박과 선원의 현황은 여전히 불명확함)<br>• "A South Korean warship was in the area" (한국 해군함이 해역 내에 배치되어 있음)</p><h3>Technical Insights</h3><br>• 아덴만/홍해 해역의 해적 활동 급증으로 IMO 해역 안전 규정 준수 필요성 대두 - 무장 보안팀 탑승 의무화 검토 필요<br>• 소말리아 해적과 후티 민병대의 이중 위협으로 자율운항선박의 해당 해역 운항 시 매우 높은 위험도 - AI 기반 위험 회피 시스템 고도화 필수<br>• SOLAS/ISPS Code 강화 및 국제 해양 정보 공유 체계(RMICE 등) 활성화로 사전 위험 경고 체계 개선 필요<br>• 에너지 해상 수송 경로의 지정학적 위험 증대로 대체 해로 개발 및 자동화 기술 도입 촉진 - 무인 감시 시스템 투자 확대</p></div>`,
+      tags: ["piracy","chemical tanker","Gulf of Aden","Somali piracy","maritime security"],
+      link: "https://www.marinelink.com/news/armed-assailants-seize-chemical-tanker-541327",
+      coords: [49.5,13.5],
+      location: "Gulf of Aden, Off Yemen"
+    },
+    {
+      type: "event",
+      title: "13th Annual Maritime & Arctic Security & Safety Conference (MASS) in St. John's",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-17",
+      image: "https://images.marinelink.com/images/maritime/w800/maritime-arctic-172290.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 캐나다 애틀랜틱 지역 방위산업 협회(ACADA)가 주최한 제13회 해양·북극 보안·안전 회의(MASS)가 뉴펀들랜드래브라도주 세인트존스에서 개최되었으며, 역대 최대 규모인 600명의 참가자가 모임<br>• 회의는 환경 관리, 경제적 리더십, 인력 개발 분야에서 애틀랜틱 캐나다의 지도력을 활용하기 위한 정책, 기술 및 운영 방안을 검토<br>• 뉴펀들랜드래브라도주 토니 웨이크햄 주지사는 해당 지역이 북극과 대서양으로 통하는 전략적 지정학적 위치와 숙련된 인력, 독특한 군사·민간 능력을 보유하고 있음을 강조<br>• 발표자들은 북극 환경에서의 함정 설계의 강건성과 유지보수성의 중요성, 그리고 인공지능과 머신러닝을 활용한 위성 기반 해양 감시 시스템의 중요성을 강조<br>• 선주민(Inuit), 원주민(First Nations), 북부 지역사회와의 의미 있는 파트너십과 신뢰, 지속적인 대화의 필요성이 회의의 핵심 주제로 부각됨<br>• 고해상도 빙설 데이터 수집 및 공유, 북극 안전 항해를 위한 고급 위성 기반 해양 감시 기술의 중요성이 강조됨</p><h3>Key Quotes</h3><p>• "Newfoundland and Labrador is 'built for defense.'" (뉴펀들랜드래브라도주는 "방위에 맞춰 건설되었다"는 의미로, 해당 지역이 국방 역할을 수행할 준비가 되어 있음을 나타냄)</p><p>• "We offer a regional defense and security ecosystem that Canada and its allies can rely on for Arctic and North Atlantic security and support." (애틀랜틱 캐나다가 북극 및 북대서양 보안 지원을 위해 캐나다와 동맹국이 의존할 수 있는 지역 방위·안보 생태계를 제공한다는 의미)</p><h3>Technical Insights</h3><p>• AI 및 머신러닝을 활용한 위성 기반 해양 감시 시스템이 선박 및 빙산 탐지·추적에 활용되는 등, 첨단 해양 감시 기술이 북극 항해 안전성 향상에 핵심 역할을 수행하고 있음</p><p>• 북극 환경의 극한 조건에서 함정의 강건성과 유지보수성을 확보하기 위한 설계의 중요성이 강조되고 있으며, 이는 극지 해역 운용 능력을 갖춘 함정 개발의 기술적 과제를 반영함</p><p>• 고해상도 빙설 데이터 수집 및 국가 간 공유 체계 구축의 중요성이 부각되어 있으며, 이는 국제 해양 운송 및 북극 항로 개발 시 정보 공유와 협력의 필요성을 시사함</p><p>• 방위산업 생태계에서 선주민 및 지역사회와의 파트너십 강화가 경제 참여, 이중용도 인프라, 연결성 및 인력 개발과 함께 언급되어, 해양 기술 발전이 지역사회 참여와 상호신뢰를 기반으로 추진되어야 함을 시사함</p></div>`,
+      tags: ["Conference","Arctic Security","Maritime Technology","Defense Industry"],
+      link: "https://www.marinelink.com/news/maritime-arctic-security-safety-541323",
+      coords: [-52.7126,47.5615],
+      location: "St. John's, Newfoundland and Labrador"
+    },
+    {
+      type: "news",
+      title: "The MASS Code: IMO's First Operational Phase for Maritime Autonomous Surface Ships",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-07-17",
+      image: "https://maritime-executive.com/media/images/article/Photos/Cruise_Ships/istock-cruise-ship.8ff0ac.b6bf4e.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **MASS 코드 시행 시작**: 2026년 7월 1일 국제해사기구(IMO)가 채택한 자율운항선박 국제안전규칙(MASS Code)이 첫 운영 단계에 진입했으며, 대형 국제무역 화물선을 대상으로 자발적 프레임워크로 적용됨</p><p>• **기술 가능성에서 안전 규제로 전환**: 산업계가 자율항해의 기술적 가능성 논쟁에서 대규모 운영 시 안전한 규제 방안으로 초점을 이동하고 있음</p><p>• **원격운영센터(ROC)의 중요성**: 선박 설계, 통신, 사이버 보안, 원격 조작, 인적 요소, 유지보수, 책임 문제 등 시스템 전체적 통합 문제로서 원격운영센터가 핵심 역할을 수행해야 함</p><p>• **운영자 역량 및 훈련**: 원격 운영자는 단순 함교 장교가 아니라 항해 판단, 시스템 모니터링, 사이버 보안 인식, 자동화 한계 이해 능력을 갖춘 전문가여야 함</p><p>• **워크로드 관리 및 최악의 상황 대비**: 평상시 효율적으로 보이는 운영자 대 선박 비율도 악천후, 교통 혼잡, 기술 장애가 동시 발생 시에는 위험할 수 있으므로 최악의 상황 기준 인력 배치 필요</p><p>• **자동화 감시의 한계(Out-of-the-Loop 문제)**: 신뢰할 수 있는 자동화 시스템을 감시하던 운영자가 정작 빠른 개입이 필요한 순간 상황 인식을 상실할 수 있는 위험성 존재</p><h3>Key Quotes</h3><p>• "The industry is moving from asking whether autonomy is technically possible to asking whether it can be governed safely at scale."<br>(산업계는 자율항해의 기술적 가능성 여부에서 대규모 운영 시 안전한 규제 가능성으로 관심을 이동하고 있다는 의미)</p><p>• "Autonomous shipping has never been only a navigation problem. It is a system-of-systems problem involving ship design, connectivity, cyber resilience, remote operations, human factors, maintenance, liability and emergency response."<br>(자율운항 선박은 단순 항해 문제가 아니라 선박 설계, 통신, 사이버 복원력, 원격 운영, 인적 요소, 유지보수, 책임, 긴급 대응을 포함한 통합 시스템 문제라는 의미)</p><p>• "The real test is not whether an autonomous system performs well in routine conditions. It is whether the wider organization recognizes degradation early, transfers control safely and remains accountable when several safeguards fail together."<br>(자율화 시스템의 진정한 검증은 정상 상황에서의 성능이 아니라 성능 저하를 조기에 인식하고, 안전하게 제어권을 이전하며, 복수의 안전장치가 동시 작동 불능 시에도 책임을 질 수 있는가 하는 문제)</p><h3>Technical Insights</h3><p>• **MASS 코드의 비강제적 프레임워크**: IMO가 채택한 MASS 코드는 현재 자발적 적용 단계이며, 향후 경험 축적을 바탕으로 강제적 규제 도구로 전환될 예정으로, 업계의 점진적 적응과 기술 검증 기간을 제공</p><p>• **원격운영 환경의 안전성 파라독스**: 악천후, 통신 장애, 소프트웨어 오류, 교통 상황 모호성 등 불확실성 요소가 존재하므로 단순 성능 지표보다 최악의 상황 대응 능력과 다중 안전장치 동시 실패 시나리오에 대한 대비가 필수적</p><p>• **운영자 역량의 다층적 요구**: 기존 해양인 훈련과 달리 원격 운영자는 항해 판단, 자동화 시스템 모니터링, 사이버 위협 대응, 자동화 한계 인식 등 통합적 역량이 필요하며, 특히</p></div>`,
+      tags: ["MASS Code","Autonomous Shipping","IMO Regulation","Remote Operations","Maritime Safety"],
+      link: "https://maritime-executive.com/article/the-mass-code",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "Odfjell Drilling Extends Deepsea Nordkapp Contract with Aker BP Through 2028",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-07-17",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2025/02/Deepsea-Nordkapp-rig-Source-Odfjell-Drilling-1024x526-1.jpg?image-crop-positioner-ts=1738837754",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Odfjell Drilling이 노르웨이 석유가스 업체 Aker BP와 반잠수식 굴착 장비 Deepsea Nordkapp(구 Stena Midmax)의 계약을 1년 연장하기로 합의<br>• 계약 연장으로 인해 Deepsea Nordkapp의 확정 계약 기간이 2028년 말까지 연장되며, 이후 추가 선택권 보유<br>• 2019년 건조된 6세대 Moss 설계 반잠수식 굴착 장비로 2019년 인도 이후 Aker BP와 지속적으로 협력<br>• 운영료는 2026년 말까지 독립 굴착 장비 중개인 2명에 의해 시장 요율 기준으로 결정될 예정<br>• Odfjell Drilling CEO Kjetil Gjersdal는 이 연장이 "세계 수준의 성능"을 입증하며 반동맹(semi-alliance) 관계 강화를 의미한다고 평가<br>• 올해 Deepsea Bollsta 인수를 완료하여 Deepsea Bergen으로 개명하면서 함대 확장 진행</p><h3>Key Quotes</h3><p>• "This extension is testament to the continuous world class performance delivered by Deepsea Nordkapp and its crew and extends our commitment to the semi-alliance we have with Aker BP." (이번 연장은 Deepsea Nordkapp과 승무원이 지속적으로 제공해 온 세계 수준의 성능을 입증하며, Aker BP와의 반동맹 관계에 대한 약속을 강화함을 의미한다)</p><p>• "Deepsea Nordkapp has worked continuously with Aker-BP since delivery in 2019 and we are pleased to secure this relationship further until at least 2028." (Deepsea Nordkapp은 2019년 인도 이후 Aker BP와 지속적으로 협력해 왔으며, 최소 2028년까지 이 관계를 확보하게 되어 기쁘다)</p><h3>Technical Insights</h3><p>• 6세대 Moss 설계 반잠수식 굴착 장비(Moss-enhanced CS 60E)는 악천후 환경 및 겨울철 작업에 대한 동적 포지셔닝 기술로 노르웨이 북해 작업의 안정성과 신뢰성 입증<br>• 운영료를 독립 중개인에 의해 설정하는 시장 기반 요금 모델은 업계의 투명한 계약 관행을 반영하며, 변동하는 에너지 시장에 유연하게 대응하는 구조<br>• Odfjell Drilling의 함대 확장(Deepsea Bergen 인수) 및 다년도 계약 연장은 북해 석유가스 개발의 지속적 수요와 굴착 장비의 장기 공급 부족을 시사<br>• 장기 계약 관계와 "semi-alliance" 형태의 전략적 파트너십은 석유가스 업계에서 안정적 운영과 원가 예측 가능성을 중시하는 산업 특성 반영</p></div>`,
+      tags: ["Odfjell Drilling","Aker BP","Semi-submersible rig","Norwegian Continental Shelf","Contract extension"],
+      link: "https://www.offshore-energy.biz/odfjell-drillings-rig-remaining-with-norwegian-oil-gas-operator-for-another-year/",
+      coords: [5.3676,60.472],
+      location: "Norwegian Continental Shelf"
+    }
+  ]
+});
