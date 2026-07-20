@@ -11809,3 +11809,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-19
+addEvents({
+  "2026-07-19": [
+    {
+      type: "accident",
+      title: "Iran's Guards Report Two Ships Involved in 'Accident' After Defying Hormuz Transit Warnings",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-07-19",
+      image: "https://gcaptain.com/wp-content/uploads/2026/03/2026-03-13T132054Z_226068626_RC2B2KAV46KA_RTRMADP_3_IRAN-CRISIS-WARFARE.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이란 혁명수비대가 호르무즈 해협의 '안전하지 않은 항로'를 이용하려던 두 척의 선박이 '사고'에 연루되었다고 발표<br>• 총 4척의 선박이 이란의 경고를 무시하고 미국의 지원을 받아 항행을 시도한 것으로 보고됨<br>• 이란 혁변수가 미국의 영향을 받은 선박들이 안전하지 않은 항로 진입 시 반드시 사고를 맞이할 것이라는 경고 성명 발표<br>• 호르무즈 해협은 전 세계 해상 석유 운송의 약 20-25%가 통과하는 전략적으로 중요한 해역<br>• 사건은 미국-이스라엘과 이란 간의 지속적인 분쟁 상황과 연관된 긴장 고조</p><h3>Key Quotes</h3><p>• "Vessels that are influenced by the words of the Americans and enter unsafe routes will certainly face accidents" <br>(미국의 말에 영향을 받은 선박들이 안전하지 않은 항로에 진입하면 반드시 사고를 맞이할 것이다)</p><p>• "the four vessels had ignored Iranian warnings and acted with U.S. backing"<br>(4척의 선박들이 이란의 경고를 무시하고 미국의 지원 하에 행동했다)</p><h3>Technical Insights</h3><p>• 호르무즈 해협은 지정된 안전 항로(Traffic Separation Scheme, TSS)가 국제해사기구(IMO)에 의해 규정되어 있으며, 항로 이탈은 선박 안전 및 국제 해상법 위반 문제 발생<br>• 현재 지정학적 긴장이 높은 호르무즈 해협에서의 항행은 IMO SOLAS(해상인명안전국제협약)와 COLREG(해상충돌방지규칙) 준수 필수이나, 정치적 압력으로 인한 항로 선택의 이슈 발생<br>• 자율운항선박(MASS) 기술이 확대될 경우 분쟁 해역에서의 항행 판단과 안전성 관리에 인공지능 의사결정의 한계가 드러날 수 있는 사례로 분석됨<br>• 국제 해상 운송의 자유 원칙과 연안국의 해역 관할권 간의 충돌로 인한 해상 안전 규제 체계의 국제적 조화 필요성 증대</p></div>`,
+      tags: ["Strait of Hormuz","Iran Revolutionary Guards","Maritime Safety","Shipping Incident"],
+      link: "https://gcaptain.com/irans-guards-say-two-ships-involved-in-accident-after-defying-hormuz-warnings/",
+      coords: [56.5,26.5],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "Autonomous Technology Enables Remote Maritime Operations - Norwegian Framework Advances Uncrewed Vessel Deployment",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-07-19",
+      image: "https://maritime-executive.com/media/images/article/1784509300_6a5d7374d1b3f.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 자율운항선박 기술이 발전하면서 육상 원격 운영이 가능해졌으며, 노르웨이 연구를 바탕으로 국제 규제 프레임워크 첫 버전이 확립됨</p><p>• SINTEF Ocean의 Håvard Nordahl 선임연구원이 주도한 연구로 한 선원이 여러 선박을 감시 관리할 수 있는 기술 개발 완료</p><p>• 전기 추진 자율운항선박 'Marit'이 오슬로피요르드 횡단을 위해 현재 최종 승인 대기 중이며, 필요 시 승무원이 수동 제어 가능</p><p>• 자율운항선박 도입으로 배출량 90% 감소, 승무원 필요인력 75% 감소 등 환경 및 운영 효율성 극대화</p><p>• 2021년 BIMCO ICS 보고서에 따르면 2026년까지 약 89,000명의 선박 임원 부족이 예상되며, 육상 근무 기회 확대가 인력난 해소에 기여</p><p>• 휠체어 사용자 등 신체장애인도 육상 브릿지에서 해사업 종사 가능하게 되어 채용 풀 확대 및 업계 인력난 완화 기대</p><h3>Key Quotes</h3><p>• "This is the future of efficient maritime transport, and we are an important step closer to deploying the solution" (효율적인 해상운송의 미래이며, 솔루션 배포에 한 발 더 가까워졌다는 의미)</p><p>• "What's needed is to make ships more independent so that one crew can oversee multiple vessels" (한 선원이 여러 선박을 감시할 수 있도록 선박의 독립성을 높여야 한다는 뜻)</p><p>• "For example, it may not be possible to work onboard if you use a wheelchair—but the job can be done from a 'bridge on land'" (휠체어 사용자는 선박 승무원으로 일하기 어렵지만, 육상 브릿지에서는 업무 수행 가능하다는 점)</p><h3>Technical Insights</h3><p>• **자율운항 기술의 산업 적용**: SEAMLESS, Autoship, Ocean 등의 프로젝트를 통해 선박-육상 간 효과적인 정보 흐름 솔루션 개발 진행 중이며, 국제 규제 프레임워크 구축으로 상용화 단계 진입</p><p>• **원격 운영의 환경·경제 효과**: 소형 무인선박 도입으로 에너지 소비 및 배출 감소, 승무원 재배치로 운영 비용 절감 및 선원 부족 문제 완화, 선원의 업무 생활 양립성 개선으로 채용 매력도 증대</p><p>• **COLREG 및 IMO 규제 진화**: 무인선박의 국제 자율운항 규제 프레임워크 마련으로 항법 충돌 회피 규칙(COLREG) 적용 기준 및 선박 안전 관리 시스템 현대화 필요</p><p>• **미래 해사 인력 구조 변화**: 2026년 기준 약 89,000명의 선박 임원 부족 해소, 육상 근무 확대로 다양한 신체 조건의 인력 참여 가능, 해사 산업의 디지털화와 인력 재교육 중요성 증가</p></div>`,
+      tags: ["autonomous ships","remote operations","uncrewed vessels","maritime technology","regulatory framework","crew shortage"],
+      link: "https://maritime-executive.com/article/autonomous-technology-makes-it-possible-to-be-a-mariner-on-land",
+      coords: [10.75,59.91],
+      location: "Norway (Oslo/Oslofjord)"
+    }
+  ]
+});
