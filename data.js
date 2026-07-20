@@ -11841,3 +11841,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-17
+addEvents({
+  "2026-07-17": [
+    {
+      type: "accident",
+      title: "Oil Tanker Nordic Zenith Attacked by Drones in Black Sea",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-17",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockalex-172299.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **사건 개요**: 러시아 흑해 연안의 카스피안 파이프라인 컨소시엄(CPC) 터미널에서 유조선 Nordic Zenith가 2대의 드론 공격을 받아 피해 발생</p><p>• **피해 현황**: 선박 화재 발생 후 진화되었으며, 승선원 13명이 인근 선박으로 대피하고 9명은 선박에 남아있음</p><p>• **영향 범위**: CPC는 카자흐스탄 석유 수출의 약 80%를 담당하는 940마일 규모의 석유 파이프라인으로, 해당 터미널의 운영 중단 초래</p><p>• **운영상 차질**: 공격을 받은 Nordic Zenith는 CPC 터미널에서의 모든 하역 및 접안 작업이 불가능한 상태로 판정</p><p>• **지역 안보 악화**: 흑해와 아조프해에서 러시아-우크라이나 양측의 해상 공격이 급증하는 새로운 전쟁 단계 진입</p><h3>Key Quotes</h3><p>• "The tanker has been removed from the loading schedule and is unfit for mooring or loading operations at the CPC terminal" <br>(해당 유조선은 하역 일정에서 제외되었으며 CPC 터미널에서의 접안 및 하역 작업에 부적합한 상태)</p><p>• "The past week has seen a sharp escalation in attacks by both Russia and Ukraine on shipping in the Black and Azov seas, marking a new phase in a war"<br>(지난 일주일간 흑해와 아조프해의 해상 운송에 대한 러시아와 우크라이나의 공격이 급격히 증가하여 전쟁의 새로운 국면을 맞이)</p><h3>Technical Insights</h3><p>• **드론 위협 확대**: 무인드론의 해상 타격 능력이 증대되면서 상선의 물리적 피해 위험도 상승하고 있으며, 전통적인 해상 안보 개념의 전환 필요</p><p>• **카스피안 유통망 영향**: CPC가 카자흐스탄 석유 수출의 80%를 담당하는 핵심 인프라로, 터미널 운영 중단 시 국제 유가 및 에너지 공급망에 직접적 영향</p><p>• **해상 자율화와의 연계**: 드론 공격 증가로 인한 해역 위험도 증가 시, 자율운항선박(MASS) 운영 안전성 기준 및 국제해사기구(IMO) 규제 강화 필요성 대두</p></div>`,
+      tags: ["drone attack","oil tanker","Black Sea","Nordic Zenith","fire","CPC terminal"],
+      link: "https://www.marinelink.com/news/oil-tanker-attacked-drone-black-sea-541328",
+      coords: [37.7,44.6],
+      location: "Black Sea, Novorossiysk (Russia)"
+    }
+  ]
+});
