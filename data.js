@@ -11861,3 +11861,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-20
+addEvents({
+  "2026-07-20": [
+    {
+      type: "news",
+      title: "Shipowner Offers Six Months' Pay to Incentivize Crews Through Strait of Hormuz",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-07-20",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/shutterstock_2673491375.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Sinokor Group(세계 최대 수퍼탱커 선주)가 호르무즈 해협 운항 승무원에게 왕복 항해 시 6개월분 추가 급여를 제시 - 약 1개월 소요 항해에 대한 보상<br>• 이란 공격으로 인해 2월 이후 최소 59척의 상선이 페르시만 지역에서 피격 당했고, 17명의 해원이 사망한 상황에서의 위험한 제안<br>• 선장은 월 $15,000, 초급 해원(Rating)은 월 $1,500 정도 일반 급여를 받는 상황에서 6개월분 보너스는 상당한 유혹 제시<br>• 해원들은 위험지역 운항 거부 권리가 있으며, 일부 승무원들이 보너스에도 불구하고 거절 의사 표시<br>• 선주들은 호르무즈 운항으로 수백만 달러를 벌 수 있지만, 승무원들이 최대 인명 위험 부담 - 심각한 불형평<br>• 해사안전과 재정 인센티브 사이의 근본적 긴장을 보여주는 사례</p><h3>Key Quotes</h3><p>• "They are being offered huge bonuses by some companies. We have heard stories of a large number of crew members getting off, but they are able to find people who are willing to go." (일부 회사들이 거액의 보너스를 제시하고 있으며, 많은 승무원들이 하선하지만 위험을 감수할 인원을 찾을 수 있다는 의미)</p><p>• "At least 59 commercial ships have come under attack in and around the Persian Gulf since the war began at the end of February, with 17 seafarers losing their lives" (2월 말 이후 페르시만 지역에서 최소 59척의 상선이 공격받았고 17명의 해원이 사망)</p><h3>Technical Insights</h3><p>• **해원 권리와 산업 관행의 불일치**: SOLAS와 국제해사기구(IMO) 규정상 해원은 위험 해역 운항 거부 권리를 가지고 있으나, 경제적 압력과 보너스 구조가 이를 사실상 무력화하는 문제<br>• **해역 통행료와 위험 프리미엄의 악순환**: 선사는 호르무즈 운항으로 수백만 달러를 수익하고 보험료 인상을 감수하면서도, 실제 생명 위험을 부담하는 승무원 임금은 상대적으로 낮은 구조적 문제<br>• **IMO 해원안전 지침의 실질적 공백**: 무장 분쟁 지역(High Risk Areas) 운항에 대한 국제 기준 부재로, 개별 선사의 자의적 판단과 경제 논리가 우선되는 현실<br>• **자동화 선박(Autonomous Vessels)의 필요성 제기**: 이러한 위험 환경에서 무인 운항 기술의 도입이 해원 안전을 획기적으로 개선할 수 있는 대안으로 주목받을 가능성</p></div>`,
+      tags: ["Strait of Hormuz","Seafarer Safety","Maritime Risk","Supertanker Operations"],
+      link: "https://gcaptain.com/shipowner-offers-seafarers-six-months-pay-to-sail-through-strait-of-hormuz/",
+      coords: [56.1425,27.0832],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "accident",
+      title: "Chinese Coast Guard Strikes Philippine Navy Sailor at Second Thomas Shoal",
+      source: "gCaptain (Reuters)",
+      sourceMeta: "gcaptain.com · 2026-07-20",
+      image: "https://gcaptain.com/wp-content/uploads/2024/09/2024-09-19T180903Z_2043026934_RC2BF6AE9XZ5_RTRMADP_3_USA-CHINA-PHILIPPINES-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 필리핀 해군 인원 1명이 중국 해경 인력에 의해 목재 몽둥이로 머리를 맞는 폭력 사건 발생<br>• 사건 발생 위치: 필리핀 배타적경제수역 내 제2토머스 암초(아윤진)에서 중국 해경 경비정 8명과 필리핀 해군 보트의 충돌<br>• 필리핀 국방부는 중국의 "불법적이고 공격적인 행동의 명백한 패턴"이라 비판하며 2016년 국제중재판정부 판정 준수 촉구<br>• 필리핀 해군 고무보트 손상 및 인원 부상; 2024년 6월에도 유사 사건으로 필리핀 선원이 손가락 손상<br>• 외교 현안화: 아세안 고위급 회담 개최 중 중국 외교부장 왕이 참석한 상황에서 발생</p><h3>Key Quotes</h3><p>• "reacted violently and aggressively by striking Philippine navy personnel with a wooden baton" (필리핀 해군 인원에게 목재 몽둥이로 폭력적이고 공격적으로 반응하여 타격)</p><p>• "act of violence against its navy personnel was unacceptable and warrants diplomatic action" (해군 인원에 대한 폭력 행위는 용납 불가능하며 외교적 조치가 필요함)</p><p>• "2016 Arbitral Award that affirms the Philippines' lawful maritime rights under international law" (필리핀의 국제법상 합법적 해양권을 확인하는 2016년 국제중재판정)</p><h3>Technical Insights</h3><p>• **국제해양법 위반**: 필리핀의 배타적경제수역(EEZ) 내에서의 중국 측 무력 행사는 유엔해양법협약(UNCLOS) 제60조 및 제301조 위반에 해당하며, 국제해양분쟁 해결의 중요한 선례 제공<br>• **COLREG 준수 문제**: 근거리 해상 조우 시 안전 운항규칙(COLREG) 준수와 비례적 대응 의무 부재로 인한 군사 용선 간 위험 상황 증대<br>• **IMO 해역 안전 기준**: 동 사건은 분쟁 해역에서의 해양안전 기준 강화 필요성을 제기하며, 군경 선박의 행동 기준 마련 및 국제감시 메커니즘 확대의 정당성 강화<br>• **해양 안보와 비전투 분쟁의 심화**: 전통적 군사 충돌과 구별되는 "회색 지역 전술(Gray Zone Tactics)"의 해양 영역 확대로 국제 해양질서 규범화 및 분쟁 예방 협의체 운영의 중요성 대두</p></div>`,
+      tags: ["South China Sea","Coast Guard","Violence","Philippines","China","Second Thomas Shoal"],
+      link: "https://gcaptain.com/chinese-coast-guard-struck-navy-sailor-in-south-china-sea-encounter-says-philippine-military/",
+      coords: [114.305,9.7674],
+      location: "Second Thomas Shoal (Ayungin), South China Sea"
+    },
+    {
+      type: "news",
+      title: "JAGM-Armed Saildrone Surveyor USV Joins RIMPAC 2026 Exercise",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-07-20",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/07/Saildrone-JAGM-RIMPAC-2026-1.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Saildrone의 20미터 Surveyor 무인표면선박(USV)이 Lockheed Martin의 JAGM 미사일 발사기를 장착하고 RIMPAC 2026 훈련에 참가했으며, 이는 미 해군의 유인-무인 하이브리드 함대 구성 전략의 중요한 이정표를 나타냄</p><p>• Surveyor (SD-3001)는 4발의 AGM-179 Joint Air-to-Ground Missiles(JAGM)를 발사할 수 있는 맞춤형 발사기를 탑재하고 있으며, Lockheed Martin이 $50 million을 투자하여 통합함</p><p>• 이 무인함정은 수개월간 해상에서 작전할 수 있으며, 중동, 태평양, 카리브해 지역의 미 해군 및 해안경비대 작전에 이미 투입된 경험이 있음</p><p>• 2026년 여름 중 JAGM 장착 Surveyor의 실제 사격 훈련이 예정되어 있으며, 이는 미 해군의 표면 타격 및 대무인항공기(C-UAS) 작전 능력 확장을 목표로 함</p><p>• RIMPAC 2026에는 HavocAi, Leidos, Splash Industries의 해양 드론들도 참가하고 있으며, 핵 공격 잠수함과 협력하는 무인수중선(UUV)도 참여할 예정</p><h3>Key Quotes</h3><p>• "This combination of best-in-class commercial and defense technologies will support the US Navy in realizing its vision for a manned–unmanned hybrid fleet" (최고 수준의 상용 및 방위 기술의 결합이 미 해군의 유인-무인 하이브리드 함대 비전 실현을 지원할 것)</p><p>• "Succeeding the Cold War-era AGM-114 Hellfire, JAGM uses a modernized seeker and can strike targets at extended ranges in future variants" (냉전시대 AGM-114 헬파이어를 계승한 JAGM은 현대화된 탐색기를 사용하며 향후 변형 모델에서 확장된 사정거리로 목표 타격 가능)</p><h3>Technical Insights</h3><p>• **무인 전투함의 자율성 발전**: Saildrone Surveyor의 RIMPAC 2026 참가는 자율 해상 무인함이 실제 군사 작전 환경에서 미사일 발사 등 공격 임무를 수행할 수 있는 수준으로 발전했음을 의미하며, COLREG 준수 및 자동화 규정 정립의 새로운 도전 과제를 제시함</p><p>• **해양 로봇 시스템의 다중화**: 여러 업체(HavocAi, Leidos, Splash Industries 등)의 USV/UUV가 동일 훈련에 참가하면서 해양 무인시스템의 다중 플랫폼 통합 운용 능력 검증이 이루어지고 있으며, 이는 IMO 및 각국 해군의 자율 선박 규정 논의에 실질적 데이터를 제공함</p><p>• **산업-국방 融합의 가속화**: 상용 무인선박 기술(Saildrone)과 방위산업 미사일 기술(Lockheed Martin)의 결합이 $50 million 규모의 투자로 이루어지고 있으며, 이는 자율 해양 기술의 군사-상용 이중용도(dual-use) 활용이 급속도로 확산되고 있음을 나타냄</p></div>`,
+      tags: ["autonomous vessels","unmanned systems","military technology","RIMPAC 2026","AI/robotics"],
+      link: "https://www.navalnews.com/naval-news/2026/07/jagm-armed-saildrone-surveyor-usv-rimpac-2026/",
+      coords: [-157.8581,21.3099],
+      location: "Pearl Harbor, Hawaii"
+    }
+  ]
+});
