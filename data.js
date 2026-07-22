@@ -11905,3 +11905,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-21
+addEvents({
+  "2026-07-21": [
+    {
+      type: "news",
+      title: "Hormuz Strait: War Risk Premiums Surge as Iran-U.S. Ceasefire Collapses",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-07-21",
+      image: "https://gcaptain.com/wp-content/uploads/2026/07/2026-07-07T191614Z_1043438909_RC2R4LAN4FM4_RTRMADP_3_IRAN-CRISIS-MISSILES-HORMUZ.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 호르무즈 해협의 전쟁 위험 보험료가 월 0.25%에서 3-10%로 급등하면서 유조선 소유주들의 통행 의향이 급감함<br>• 이란-미국 간 6월 양해각서(MoU) 체결 후 불과 1개월 만에 양측의 보복 공격이 재개되면서 휴전이 붕괴됨<br>• 2026년 2월부터 시작된 유조선 공격 사건들이 지속되며, 최근 7월 초 카타르 국기 LNG 운반선을 포함한 3척이 피격됨<br>• 호르무즈 해협의 일일 통행 선박이 5주 내 최저치인 6척까지 감소하면서 수백 척의 선박이 입항지점 외부에 정박 중<br>• 유가는 공격 소식에 배럴당 $90 이상으로 급등했으나 외교 중재 신호에 다시 하락하는 변동성을 보임<br>• 해운 및 보험 업계는 향후 휴전이 지속될 것으로 믿지 않으며, 상업 해운이 직접적인 경제 손실을 입고 있음</p><h3>Key Quotes</h3><p>• "War risk hull premiums, which sat at a nominal fraction of one percent before the crisis began in February, have surged to between three and ten percent of a vessel's insured value." (2월 위기 발생 전 보험료는 연 0.25% 수준이었으나 현재 3-10%로 급증했다는 의미)</p><p>• "Nobody in the shipping or insurance world believes this ceasefire, or any that follows it, is durable." (해운 및 보험업계 전문가들이 현재의 휴전이나 향후 어떤 휴전도 지속될 것으로 신뢰하지 않는다는 의미)</p><p>• "Iran accused the vessels of transiting without its permission, an interpretation of the MoU that Tehran has used to assert control over traffic through the waterway." (이란이 양해각서를 자신의 해협 통제권을 강화하는 수단으로 해석하고 있다는 의미)</p><h3>Technical Insights</h3><p>• **해운 시장의 신용 붕괴**: 전쟁 위험 보험료의 급등은 해운업계의 신용 전망 악화를 반영하며, 40배 이상의 보험료 인상은 소형 선사의 호르무즈 통행을 실질적으로 불가능하게 만듦</p><p>• **국제해사기구(IMO) 해상교통안전 문제**: 이란의 일방적 통행 금지 주장은 공해상 항행의 자유 원칙(UNCLOS 제37조)과 국제해상교통규칙(COLREG)에 위배되며, IMO의 분쟁 해결 메커니즘의 약점을 노출함</p><p>• **선박 식별시스템(AIS) 운영 위기**: 기사의 파일 사진에서 유조선 오데사호가 AIS 신호를 차단한 사례는 전쟁 위험 회피를 위한 선박들의 위법 운영 증가를 시사하며, IMO의 원격감시 시스템 도입 필요성을 강조함</p><p>• **에너지 공급망 취약성과 대안 모색**: 호르무즈 해협 통과 선박 감소는 글로벌 석유 수급 불안정을 야기하며, 대체 해운로(아프리카 우회, 파이프라인 확대) 개발의 필요성이 증대됨</p></div>`,
+      tags: ["Strait of Hormuz","Iran-U.S. tensions","War risk insurance","Tanker attacks","Oil market volatility"],
+      link: "https://gcaptain.com/hormuz-on-a-knife-edge-shipping-pays-the-price-as-the-iran-u-s-ceasefire-unravels/",
+      coords: [56.5,26.5],
+      location: "Strait of Hormuz, Persian Gulf"
+    },
+    {
+      type: "accident",
+      title: "Philippines and China Summon Envoys Over South China Sea Incident at Second Thomas Shoal",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-07-21",
+      image: "https://gcaptain.com/wp-content/uploads/2025/02/2025-01-23T090909Z_1487821734_RC2KFCA9EVSV_RTRMADP_3_SOUTHCHINASEA-PHILIPPINES-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 필리핀과 중국이 남중국해 세컨드 토마스 쇼얼에서 양국 경비정 간 충돌 사건으로 상호 대사를 소환하는 외교적 긴장 고조</p><p>• **피해 상황**: 필리핀 해군 인원 1명이 목재 몽둥이로 머리를 맞았으며, 필리핀 고무보트 1척이 손상됨. 중국 측은 필리핀 측이 먼저 도발했다고 주장</p><p>• **관련 선박**: 필리핀 해군 고정함정 BRP Sierra Madre에서 파견된 고무보트와 중국 해안경비대(CCG) 순찰정이 충돌</p><p>• **외교적 대응**: 필리핀 대통령 마르코스 주니어가 중국 주필 대사 징 취안을 소환(2026년 7월 21일 오후 5시), 중국 외교부도 동시에 필리핀 주중 대사를 소환</p><p>• **분쟁의 원인**: 남중국해 영토분쟁 및 필리핀의 '해양구역법(Maritime Zones Act)'과 '군도해로법(Archipelagic Sea Lanes Act)' 제정에 대한 중국의 반발</p><p>• **역사적 맥락**: 마르코스 정부 출범 이후 중국이 필리핀 대사를 소환한 3번째 공식 사례(2024년 1월 대만 총통 당선자 축하, 2024년 11월 해양법 제정 관련)</p><h3>Key Quotes</h3><p>• "The Philippine side provoked the incident first, yet has turned around and made counter-accusations, distorted the facts and engaged in malicious hype" (필리핀이 먼저 도발했으며 사실을 왜곡하고 악의적 과장을 했다는 중국의 주장)</p><p>• "The CCG inquired and verified the Philippine boats... permitted the Philippine side to transfer the injured personnel through small shuttle boats from the grounded Philippine warship out of humanitarian consideration" (중국 해안경비대가 인도주의적 배려로 필리핀 측의 부상자 이송을 허용했다는 주장)</p><h3>Technical Insights</h3><p>• **해양사건의 외교적 확대**: 단순한 해상 충돌 사건이 양국 대사 소환 등 외교적 분쟁으로 확대되는 패턴은 남중국해의 미묘한 주권 분쟁과 국제해양법 해석의 차이에서 비롯됨</p><p>• **COLREG 및 IMO 규정의 실질적 무력화**: 해상충돌예방규칙(COLREG)이 비군사 차원의 해안경비정 운영에서 제대로 작동하지 않으며, 국제해사기구(IMO) 규범보다 국가 주권이 우선시되는 현실</p><p>• **자율운항선박 도입의 리스크**: 분쟁 해역에서의 무인 해상 운영 시스템 도입 시 인적 판단 부재로 인한 국제 분쟁 악화 가능성 증가</p><p>• **해양 경계의 모호성 문제**: UN해양법협약(UNCLOS) 해석 차이와 그레이존(grey zone) 활동의 증가로 인해 인공지능 기반 자동 결정 시스템의 도입이 더욱 복잡해질 전망</p></div>`,
+      tags: ["South China Sea","Philippines-China tensions","Second Thomas Shoal","diplomatic incident","Coast Guard confrontation"],
+      link: "https://gcaptain.com/philippines-china-summon-each-others-envoys-over-south-china-sea-incident/",
+      coords: [114.3667,10.1667],
+      location: "Second Thomas Shoal, South China Sea"
+    },
+    {
+      type: "news",
+      title: "Unmanned Vessels Proliferate in US Navy's Hybrid Navy Strategy",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-21",
+      image: "https://images.marinelink.com/images/maritime/w800/saildrone-introduced-172360.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 해군이 무인 수상함정(USV) 및 자율 시스템의 규모와 정교함을 지속적으로 확대 중이며, 기술 기업과 조선소들이 경쟁적으로 솔루션 개발 중<br>• 주요 기업들: Kraken Technology Group(K5/K7 무인함정), Blue Water Autonomy(Liberty Class 190피트 자율선박), Cellula Robotics USA(연료전지 기반 Guardian AUV)<br>• Blue Water Autonomy의 Liberty Class 자율선박이 Conrad Shipyard에서 건조 중이며, 미 해군의 Medium Unmanned Surface Vessels 프로그램($60억 규모)을 지원<br>• 기술 스타트업들이 기존 조선소를 인수하여 현대식 고속 대량 생산 시설로 전환하는 추세 가속화(Magnet Defense/Metal Shark, Saronic Technologies/Gulf Craft 사례)<br>• 2026년 미 예산에 2056년까지의 함대 건조 장기 계획이 포함되었으며, 중형 USV에 중점을 두고 모듈화된 페이로드 구성 강조<br>• AI 기반 자율 항해 소프트웨어(Anduril의 Lattice)와 증명된 해양 시스템 통합으로 생산 속도 및 효율성 극대화</p><h3>Key Quotes</h3><p>• "If the last few years of conflict have taught us anything, it is that we will not win the wars of the future with the platforms of the past." (지난 분쟁들이 보여주듯이, 미래 전쟁에서는 과거의 플랫폼으로는 승리할 수 없다는 의미로, 무인 시스템의 전략적 필요성 강조)</p><p>• "Traditional shipbuilding doesn't scale, and pure software approaches don't deliver hardware. We're doing both." (전통 조선은 규모 확장이 어렵고 순수 소프트웨어만으로는 실제 하드웨어를 구현할 수 없다는 의미로, 기술과 제조의 통합 필요성 표현)</p><p>• "In the US, tech startups are raising billions of dollars, not millions, billions of dollars, and they are buying traditional shipyards. They are turning them into modern factories." (미국 기술 스타트업들이 전통 조선소를 인수하여 현대식 공장으로 전환하는 산업 재편 현상 설명)</p><h3>Technical Insights</h3><p>• **AI 기반 자율 항해의 상용화 진전**: Anduril의 Lattice 자율 소프트웨어와 같이 검증된 AI 기술을 USV 플랫폼에 통합하여 다양한 임무(정찰, 타격) 수행 가능한 모듈식 설계 실현</p><p>• **생산 시스템 혁신의 산업적 파급력**: 기존 대량 생산 조선소 모델이 아닌 "분산 병렬 생산 체계"로 전환하여 개별 협력사의 역량 활용, 신속한 프로토타입→대량 생산 사이클 단축</p><p>• **IMO/해양 규제 환경의 대응 필요성**: 군사 무인함정의 자율화 가속화는 민간 해운의 자율선박 규제 표준 수립 시간을 단축시킬 것으로 예상되며, COLREG 등 해상 충돌회피 규칙의 AI 시스템 적용 방안 재논의 필요</p><p>• **장기 함대 구성 전략의 의미**: 2026-2056년 30년 계획으로 고가의 고성능 시스템과 저가의 대량 소비형 USV 혼합 전략은 무인 해양 플랫폼의 비용 효율화와 함대 운영 패러다임 대전환을 시사</p></div>`,
+      tags: ["Autonomous Ships","Unmanned Surface Vessels","US Navy","AI Navigation","Defense Technology"],
+      link: "https://www.marinelink.com/news/unmanned-vessels-proliferate-todays-541379",
+      coords: [0,0],
+      location: "Global/United States"
+    }
+  ]
+});
