@@ -11949,3 +11949,34 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-22
+addEvents({
+  "2026-07-22": [
+    {
+      type: "news",
+      title: "Elistair and Exail integrate tethered drone on DriX USV for persistent aerial surveillance",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-07-22",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/07/elistair-exail.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Elistair의 Khronos 자동화 테더드 드론박스가 Exail의 DriX 무인 수상선(USV)에 통합되어 지속적인 공중 감시 능력 제공<br>• 테더드 드론은 24시간 연속 비행(60m 고도)이 가능하며 암호화된 실시간 영상 전송으로 수표/GNSS 불가능 환경에서도 작동<br>• 해안 감시, 항만 보안, 밀수 대응, 수색구조 등 다양한 해양 작전에 활용 가능<br>• DriX는 개방형 플랫폼으로 설계되어 운영 수요에 따라 새로운 페이로드 통합 가능<br>• 육상 원격 운영으로 인원 안전성 증대 및 수표 센서 범위 제한 극복</p><h3>Key Quotes</h3><br>• "Integrating a tethered drone on an autonomous vessel marks a major step forward for maritime surveillance. Surface sensors stop at the horizon; flown from the DriX, Khronos lifts that limit with a persistent, mobile view that stays airborne for hours." (테더드 드론을 자율 선박에 통합하는 것은 해양 감시의 주요 진전이며, 표면 센서의 지평선 제약을 극복하고 장시간 공중 감시 가능)</p><p>• "The integration of Khronos adds a persistent aerial perspective to the vessel's existing surveillance capabilities, significantly extending the monitored area." (Khronos 통합으로 기존 감시 능력에 지속적 공중 관점을 추가하여 모니터링 범위를 대폭 확대)</p><h3>Technical Insights</h3><br>• **자율 해양 플랫폼의 다층 센서 통합**: 표면 레이더/카메라와 공중 드론의 결합으로 360도 풀 스펙트럼 감시 능력 확보, 종래의 수평선 제약 극복<br>• **테더 시스템의 장점**: 전력 공급과 데이터 링크 연속성 보장으로 24시간 무중단 감시 가능하며, GNSS 거부 환경에서도 안정적 운영 가능<br>• **자율선박의 페이로드 모듈화**: DriX의 개방형 플랫폼 설계는 IMO COLREG 자율선박 규정 발전과 함께 다목적 페이로드 호환성 표준화의 선례 제시<br>• **육상 통제 원칙**: 완전 원격 운영으로 해상 승무원 배제 가능하며, 해적/테러 위협 감소 및 운영 효율성 증대로 차세대 해양 감시 패러다임 제시</p></div>`,
+      tags: ["autonomous vessels","USV","tethered drone","aerial surveillance","maritime technology"],
+      link: "https://www.navalnews.com/naval-news/2026/07/elistair-and-exail-bring-persistent-aerial-surveillance-to-usvs/",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "Ukrainian MAGURA Drone Maker Partners with U.S. Shipyard for Production",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-07-22",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• UFORCE(런던 등록 우크라이나 드론 제조사)와 RECONCRAFT(알래스카 기반 특수전 전투정 제조사)가 협력 양해각서(MOU) 체결<br>• MAGURA 무인 수상함정이 흑해에서 러시아 해군을 격퇴한 실전 검증 플랫폼으로 평가<br>• 우크라이나 드론 기술의 미국 조선소 생산 실현으로 NATO 협력 심화 및 무인 해상 전투 체계 고도화<br>• 특수전 작전용 무인 보트의 상용화 및 양산 체계 구축으로 해양 방위 전력 강화 예상<br>• 흑해 분쟁에서 검증된 kamikaze형 무인정의 미국 전장 적용 가능성 및 해상 드론 산업 확대</p><h3>Key Quotes</h3><br>• "combat-tested kamikaze boats" (실전에서 검증된 카미카제형 무인 보트)<br>• "helped push the Russian Navy out of much of the Black Sea" (흑해의 대부분 지역에서 러시아 해군을 격퇴하는 데 기여)</p><h3>Technical Insights</h3><br>• 무인 수상함정(USV)의 전술적 효용성 입증으로 COLREG 자율운항 규정 적용 범위 확대 필요<br>• 특수전 무인 플랫폼의 NATO 표준화 및 상호운용성(Interoperability) 강화로 연합 해상작전 효율성 증대<br>• 드론 기술 국제 협력 사례로서 우크라이나-미국 방위산업 연계 확대 및 해양 로봇화 추세 가속화<br>• MAGURA 시스템의 미국 조선업 도입으로 해상 무인 전투 플랫폼의 대량 생산 체계 구축 가능성 확보</p></div>`,
+      tags: ["Unmanned Surface Vessel","MAGURA Drone","Ukraine Defense","U.S.-Ukraine Partnership"],
+      link: "https://defence-blog.com/ukraines-ship-killer-drone-is-coming-to-u-s-shipyards/",
+      coords: [-152.404,61.37],
+      location: "Alaska, USA"
+    }
+  ]
+});
