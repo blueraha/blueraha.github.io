@@ -12012,3 +12012,22 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-22
+addEvents({
+  "2026-07-22": [
+    {
+      type: "news",
+      title: "RTX's Raytheon Lands $1.8B U.S. Navy SPY-6 Radar Contract Extension",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-07-22",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• RTX 산하 Raytheon이 미 해군으로부터 SPY-6 레이더 계열의 하드웨어 생산 및 유지보수를 위한 18억 달러 규모의 계약 연장을 수주했습니다.</p><p>• 본 계약은 2022년 3월에 체결된 초기 계약을 기반으로 하며, 해군이 모든 선택옵션을 행사할 경우 추가 지원 규모가 증가할 예정입니다.</p><p>• SPY-6 레이더는 Arleigh Burke급 유도미사일 구축함(DDG-125 USS Jack H. Lucas 포함)을 비롯한 미 해군 주력함정에 탑재되는 첨단 레이더 시스템입니다.</p><p>• 본 계약은 미 해군의 해상 감시 및 전투 관리 능력을 지속적으로 현대화하기 위한 전략적 투자입니다.</p><p>• Raytheon은 매사추세츠주 Andover에 본사를 두고 있으며, 미국 방위산업 기업 중 핵심 계약처로 활동 중입니다.</p><h3>Key Quotes</h3><p>• "The U.S. Navy awarded it a $1.8 billion contract extension for hardware production and sustainment of the SPY-6 family of radars" (미 해군이 SPY-6 레이더 계열의 하드웨어 생산 및 지원을 위해 18억 달러 규모의 계약을 연장했습니다)</p><h3>Technical Insights</h3><p>• SPY-6 레이더는 차세대 해군 전투체계의 핵심 센서로, 원거리 탐지 및 추적 능력을 통해 해상 안보 능력을 강화합니다.</p><p>• 계약 연장은 기존 함정의 지속적인 현대화 및 신규 건조 함정으로의 확대 적용을 시사하며, 해양 방위 기술의 장기 안정성을 보장합니다.</p><p>• 방위사업 측면에서 레이더 시스템의 장기 지원계약은 공급망 안정성과 기술 우월성 유지를 위한 전략적 투자입니다.</p></div>`,
+      tags: ["U.S. Navy","SPY-6 Radar","Defense Contract","Raytheon"],
+      link: "https://defence-blog.com/rtxs-raytheon-lands-1-8b-deal-for-u-s-navys-spy-6-radar-family/",
+      coords: [-71.1449,42.5906],
+      location: "Andover, Massachusetts, USA"
+    }
+  ]
+});
