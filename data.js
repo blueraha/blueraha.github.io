@@ -11980,3 +11980,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-22
+addEvents({
+  "2026-07-22": [
+    {
+      type: "accident",
+      title: "Offshore Fatalities More Than Double Despite Improved Injury Rates, Industry Group Warns",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-07-22",
+      image: "https://gcaptain.com/wp-content/uploads/2018/07/shutterstock_1104917414.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 국제해양계약자협회(IMCA)의 2025년 연간 안전통계 보고서에 따르면 전 세계 해양 계약업 산업에서 사망사고가 2024년 3명에서 2025년 7명으로 2배 이상 증가했음<br>• 1,620만 시간 이상의 작업시간 데이터를 바탕으로 한 보고서는 167개 계약업체 회원사가 제출한 1억 200만 시간의 작업 기록을 분석<br>• LTIFR(손실 시간 재해율)는 0.30에서 0.27로 개선되고 TRIR(총 기록 재해율)은 1.10에서 0.98로 감소하는 긍정적 추세에도 불구하고 사망사고 증가<br>• 보고되지 않은 4건을 포함하여 감전, 높은 곳에서의 낙상, 모링 로프 파단 등으로 인한 사망이 발생<br>• IMCA는 전통적인 재해 빈도 지표에서 벗어나 사망 또는 생명을 위협하는 심각한 부상으로 이어질 수 있는 고위험 위험요소 식별 및 통제에 초점을 맞춘 안전 성과 평가의 전환을 권고</p><h3>Key Quotes</h3><p>• "Every fatality represents a person, a family and a workforce affected by loss. While the continued improvement in injury rates is encouraging and reflects the hard work of our Members, these figures demonstrate that serious harm risks remain present despite improving injury statistics." <br>(모든 사망사고는 한 사람, 가족, 그리고 손실로 영향을 받는 노동력을 의미한다. 재해율의 지속적 개선은 고무적이지만, 이러한 수치는 재해 통계 개선에도 불구하고 심각한 위해 위험이 여전히 존재함을 보여준다)</p><p>• "Safety performance should no longer be judged primarily by injury frequency rates, but by how effectively companies identify and control the hazards most likely to result in death or life-changing injury."<br>(안전 성과는 더 이상 재해 발생 빈도로 평가되지 않아야 하며, 기업이 사망 또는 생명을 위협하는 부상으로 이어질 가능성이 높은 위험요소를 얼마나 효과적으로 식별하고 통제하는지에 따라 평가되어야 한다)</p><h3>Technical Insights</h3><p>• **위험 식별 패러다임의 전환**: 기존의 LTIFR, TRIR 등 손실 시간 재해율 중심의 안전 지표에서 벗어나 고결과 위험(High-Consequence Hazards) 식별 및 제어 중심으로의 산업 안전 문화 개선이 시급함<br>• **"Line of Fire" 위험 요소 분류 세분화**: 운반 및 장비 리깅, 모링 작업, 하중 부양, 동작 중 장비, 낙하 물체, 저장된 에너지, 손가락 끼임 포인트 등 구체적 작업 환경별 위험 요소 분석으로 맞춤형 안전 대책 수립 필요<br>• **안전 관찰 보고율 감소의 우려**: 안전 관찰 빈도율이 20% 감소한 것은 보고 체계 변화, 참여 기업 변동, 또는 보고 관행의 변화를 나타낼 수 있으며, 실제 위험 노출 감소보다는 보고 품질 및 참여도 모니터링 강화가 필요함<br>• **원양 산업 안전 거버넌스 개선**: 개별 기업의 자발적 안전 보고 및 분석에서 산업 전체의 데이터 통합 분석으로 전환하여 사망사고 저감을 위한 체계적 위험 관리 체계 구축 필요</p></div>`,
+      tags: ["Offshore Safety","Fatalities","IMCA","Lost Time Injuries","Hazard Prevention"],
+      link: "https://gcaptain.com/offshore-fatalities-more-than-double-despite-improved-injury-rates-industry-group-warns/",
+      coords: [0,0],
+      location: "Global Offshore Industry"
+    },
+    {
+      type: "news",
+      title: "Offshore Safety: Improving Injury Rates May Be Masking Continued Fatalities",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-22",
+      image: "https://images.marinelink.com/images/maritime/w800/holmes-safety-172407.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• IMCA의 2025년 연간 안전통계 보고서에 따르면, 손상빈도율은 개선되었으나 사망사고는 3건에서 7건으로 2배 이상 증가 - 해상 계약업 산업의 심각한 위험 신호를 나타냄</p><p>• 167개 계약업체 회원사로부터 제출된 102억 근무시간 데이터 분석으로 LTIFR(0.30→0.27)과 TRIR(1.10→0.98) 개선되었으나 FAR(Fatal Accident Rate)은 0.30에서 0.69로 증가</p><p>• 사망사고 원인: 감전사고, 높은 곳에서의 추락, 밧줄 끊김으로 인한 계류 사고 등 4건은 상세 정보 미공개</p><p>• "Line of Fire" 사건이 손실시간 손상의 주요 원인으로 여전히 문제 - 2024년 약 52%에서 2025년 약 41%로 감소했으나 여전히 가장 높은 비중</p><p>• IMCA는 상해빈도율만으로는 안전성과를 판단할 수 없으며, 사망 또는 생명을 위협하는 손상을 초래할 가능성이 높은 위험요소 식별 및 통제에 집중해야 함을 강조</p><p>• 안전관찰빈도율(SOFR)이 약 20% 감소(482.1→387.1) - 안전 관찰 보고 체계의 약화 우려</p><h3>Key Quotes</h3><p>• "Every fatality represents a person, a family and a workforce affected by loss. While the continued improvement in injury rates is encouraging and reflects the hard work of our Members, these figures demonstrate that serious harm risks remain present despite improving injury statistics" (모든 사망사고는 한 개인, 가족, 그리고 상실감을 겪는 노동자 집단을 의미하며, 손상률 개선에도 불구하고 심각한 위험이 여전히 존재함을 보여줌)</p><p>• "Safety performance should no longer be judged primarily by injury frequency rates, but by how effectively companies identify and control the hazards most likely to result in death or life-changing injury" (안전성과는 더 이상 손상빈도율로만 판단해서는 안 되며, 사망 또는 생명을 위협하는 위험을 얼마나 효과적으로 식별하고 통제하는지로 평가되어야 함)</p><h3>Technical Insights</h3><p>• **대비적 지표 분석의 한계**: 전통적 손상빈도율(LTIFR, TRIR) 개선만으로는 산업 안전성을 완벽히 평가할 수 없으며, Fatal Accident Rate(FAR)과 같은 심각도 기반 지표의 중요성 대두 - 해양 산업 안전 패러다임 전환 필요</p><p>• **선박 및 해양 시설 작업의 High-Consequence Hazard**: 승강 및 리깅작업, 계류작업, 현수하중, 이동장비, 낙하물, 저장 에너지, 손가락 노출 등 특정 작업 상황에 대한 맞춤형 위험 통제 전략 필요</p><p>• **산업 관찰 문화의 약화**: 안전관찰 보고 빈도 20% 감소는 현장의 주도적 안전 참여도 저하를 의미하며, 이는 미발견 위험 증가로 이어질 수 있는 우려 요소</p><p>• **규제 및 업계 표준 개선**: IMO 및 국제 해양 안전 규정이 단순 손상통계에서 벗어나 사망사고 예방에 중점을 두는 방향으로 진화해야 함 - 위험평가 및 관리 시스템의 고도화 필수</p></div>`,
+      tags: ["Offshore Safety","Fatalities","IMCA","Safety Statistics","Marine Contracting"],
+      link: "https://www.marinelink.com/news/offshore-safety-improving-injury-rates-541432",
+      coords: [0,0],
+      location: "Global - Offshore Marine Industry"
+    }
+  ]
+});
