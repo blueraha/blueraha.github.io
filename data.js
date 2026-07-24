@@ -12093,3 +12093,65 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-24
+addEvents({
+  "2026-07-24": [
+    {
+      type: "news",
+      title: "LBA Systems Debuts Astore Levante UCAV at Farnborough Ahead of Italian Navy Delivery",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-07-24",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/07/Astore-Levante.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Leonardo와 Baykar의 합작사인 LBA Systems가 Astore Levante 무인 항공기를 Farnborough 국제 에어쇼에서 공개했으며, 이는 유럽 해군 무인항공시장 진출을 목표로 함</p><p>• Bayraktar TB3 기반 자율항공모함 운영 무인기(UCAV)로서 자동 이착륙 능력, 접이식 날개, 강화된 착륙장치를 갖춘 단거리 비행갑판 운영 설계</p><p>• 이탈리아 Leonardo 시설에서 생산 중이며 2026년 말까지 이탈리아 사용자에게 인도 예정, 이미 터키 해군의 TCG Anadolu에서 실전 운영 중</p><p>• 다양한 Leonardo 페이로드 옵션(LEOSS-T 전자광학/적외선 조준 터렛, Gabbiano 레이더, Osprey AESA 감시 레이더, SAGE ESM/ELINT 스위트 등) 포함</p><p>• 이탈리아 해군 Cavour 항공모함에서의 운영 계획으로 F-35B와 함께 장시간 감시정찰(ISR) 및 무장 능력 강화 예정</p><p>• 모듈식 다중 임무 항공기 설계로 해양 감시, 전자전, 대잠 작전지원 등 다양한 역할 수행 가능</p><h3>Key Quotes</h3><p>• "The Astore Levante is aimed squarely at the growing European naval unmanned aviation market" (Astore Levante는 성장 중인 유럽 해군 무인항공 시장을 정확히 목표로 함)</p><p>• "TB3 has folding wings, reinforced landing gear and autonomous take-off and landing capability" (TB3는 접이식 날개, 강화된 착륙장치, 자동 이착륙 능력을 보유)</p><p>• "The Italian Navy is expected to be a key operator...operate it from the aircraft carrier Cavour" (이탈리아 해군은 주요 운영자로 예상되며 항공모함 Cavour에서 운영할 계획)</p><h3>Technical Insights</h3><p>• **자율항공기술 성숙도**: TB3의 자동 이착륙(ATOL) 능력과 NATO Steadfast Dart 2026 훈련에서의 성공적인 자율 운영은 해군 무인시스템의 실전 준비 단계 도달을 의미</p><p>• **모듈식 페이로드 아키텍처**: Leonardo의 다양한 센서 스위트(레이더, ELINT, 적외선, 음향 탐지기) 통합으로 단일 플랫폼에서 다중 임무 수행 가능성 증대, 함대 운영 효율성 향상</p><p>• **NATO 해역 무인전력 강화**: 유럽 주요국(이탈리아, 터키 등)의 항공모함 기반 UCAV 보유로 NATO 해역 감시정찰(ISR) 및 대함/대잠 능력 확보, 지역 해양 안보 체계 개편</p><p>• **국방산업 국제협력 확대**: 터키 Baykar와 이탈리아 Leonardo의 합작을 통한 유럽-터키 방위산업 협력 심화 및 제3국(인도네시아) 수출 계약 달성, 글로벌 무인항공 시장 주도권 경쟁 심화</p></div>`,
+      tags: ["Autonomous Systems","Naval Drones","Leonardo-Baykar Joint Venture","Italian Navy"],
+      link: "https://www.navalnews.com/naval-news/2026/07/lba-systems-debuts-astore-levante-at-farnborough-ahead-of-italian-delivery/",
+      coords: [51.9023,51.4545],
+      location: "Farnborough, UK"
+    },
+    {
+      type: "news",
+      title: "GTT Marine deploys integrated digital toolkit for Petronas-chartered LNG fleet",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-07-24",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/02/LNG-vessel-Source-GTT.jpg?image-crop-positioner-ts=1771505165",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• GTT Marine(프랑스 Gaztransport & Technigaz 자회사)가 말레이시아 국영석유회사 Petronas의 용선 LNG운반선 선대에 통합 디지털 솔루션 배치 계약 체결</p><p>• 배치 솔루션은 Vesper Insights, 화물관리 모니터링, 항해 최적화, 실시간 Fleet Centre 지원 등으로 구성된 통합 플랫폼</p><p>• 센서 데이터 수집·분석을 통해 운영 효율성 향상, 연료비 절감, 배출가스 감소를 동시에 달성</p><p>• Petronas의 향후 용선 LNG선대 확대 시에도 확장 가능한 계약 구조로 장기 파트너십 강화</p><p>• GTT Marine CEO Casper Jensen은 Danelec, Ascenz Marorka, Vessel Performance Solutions 통합의 성공 사례로 강조</p><p>• 계약은 GTT가 최근 여러 LNG운반선 탱크설계 및 부유식 LNG(FLNG) 설비 주문을 수주한 직후 체결</p><h3>Key Quotes</h3><p>• "Today, we deliver data acquisition, performance analytics, and voyage optimisation as one integrated suite, backed by our Fleet Centre around the clock. That is the real value of combining these three companies' expertise: moving from fragmented digital tools to integrated, data-driven decision-making." <br>(오늘날 우리는 데이터 수집, 성능 분석, 항해 최적화를 24시간 Fleet Centre 지원과 함께 통합 플랫폼으로 제공합니다. 이것이 세 회사 전문성 통합의 진정한 가치이며, 분산된 디지털 도구에서 통합 데이터 기반 의사결정으로의 전환을 의미합니다.)</p><p>• "supporting the Malaysian giant in implementing an integrated approach to overall vessel performance to improve operational efficiency, control costs, and reduce emissions"<br>(말레이시아 에너지 대기업이 운영 효율성 개선, 비용 관리, 배출가스 감소를 위한 통합 선박 성능 접근 방식 구현을 지원합니다.)</p><h3>Technical Insights</h3><p>• **디지털 트윈 및 AI 기반 의사결정**: 선박 성능 모델과 디지털 트윈을 활용하여 항해 계획, 연료 소비 관리, 배출가스 감소를 최적화하는 Data-Driven 접근법으로 IMO 2030/2050 탈탄소 목표 달성 지원</p><p>• **통합 데이터 플랫폼의 가치**: 기존의 분산된 시스템(Danelec, Ascenz Marorka, VPS)을 통합함으로써 noon-report와 고빈도 센서 데이터를 조합하여 실시간 선박 상태 파악 및 예방정비 가능</p><p>• **해운 업계의 디지털화 가속화**: 대형 선사(Petronas)의 채택은 LNG운반선의 스마트쉽 전환이 가속화되고 있음을 의미하며, 향후 자율운항 기술 도입 기반 마련</p><p>• **운영 비용 최적화의 경제성**: Fleet Centre의 24/7 의사결정 지원과 cargo management monitoring을 통해 연료비, 유지보수비, 배출권 비용을 동시에 절감할 수 있는 프레임워크 제공</p></div>`,
+      tags: ["LNG carriers","Digital solutions","Fleet management","Operational efficiency","GTT Marine"],
+      link: "https://www.offshore-energy.biz/gtts-integrated-digital-toolkit-enhances-petronas-chartered-lng-vessel-fleet/",
+      coords: [101.6869,4.2105],
+      location: "Malaysia"
+    }
+  ]
+});
+
+// Auto-collected: 2026-07-23
+addEvents({
+  "2026-07-23": [
+    {
+      type: "news",
+      title: "FSO PTSC Lac Da Vang Departs Shipyard for Vietnam Offshore Oil Project",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-07-23",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/07/FSO-PTSC-Lac-Da-Vang-FSO-PTSC-LDV-Source-OceanStar-Elite.jpg?image-crop-positioner-ts=1784816132",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **FSO PTSC Lac Da Vang 선박이 중국 난통 조선소에서 출발하여 베트남 해양유전 Block 15-1/05로 향함** – 싱가포르 OceanSTAR Elite Group이 건조한 부유식 저장 및 하역(FSO) 설비가 약 16개월 건조 기간을 거쳐 항해 시작</p><p>• **Yinson Production과 PTSC의 합작사인 PTSC Asia Pacific이 계약 수주** – 2024년 12월 계약 체결, 2026년 6월 명명식 개최 후 7월 출항</p><p>• **안전 기록 우수: 160만 시간 무재해 작업** – 16개월 시공 기간 동안 Lost-Time Incident 미발생, 높은 건설 품질과 안전 관리 달성</p><p>• **460,000배럴 저장 용량의 FSO** – 베트남 Cuu Long Basin 석유 채굴 효율성 향상 및 지속 가능한 해양 운영 지원</p><p>• **murphy Oil (40%), PetroVietnam Exploration Production (35%), SK Earthon (25%) 참여** – Block 15-1/05 채굴권 보유사들의 협력 프로젝트</p><p>---</p><h3>Key Quotes</h3><p>• "Seeing the FSO PTSC LDV depart is a rewarding reminder that successful offshore projects are built on months of engineering, meticulous planning, quality fabrication, and outstanding teamwork." <br>(성공적인 해양 프로젝트는 수개월간의 엔지니어링, 정밀한 계획, 우수한 제작 및 탁월한 팀워크로 이루어진다는 점을 보여줌)</p><p>• "The 16-month delivery period demonstrated the project team's strong execution capabilities across engineering, procurement, construction, commissioning and overall project management."<br>(16개월의 인도 기간은 엔지니어링부터 조달, 건설, 운영 준비 및 전반적 프로젝트 관리에 이르기까지 강력한 실행 능력을 입증)</p><p>---</p><h3>Technical Insights</h3><p>• **FSO 건조 기술 및 해양 플랫폼 운영 효율성** – 대용량 저장 능력(46만 배럴)과 자동화된 시스템 설계로 원유 채굴·수송 프로세스 최적화, 인력 안전성 및 환경 친화성 강화</p><p>• **국제 조선 및 해양 프로젝트의 협업 모델** – 싱가포르 건조사, 미국 선급(ABS), 베트남 석유사, 미국·한국 에너지 기업의 국제적 협력으로 복합 대형 해양 구조물의 성공적 사례 제시</p><p>• **해양 안전 관리 표준 준수** – American Bureau of Shipping (ABS) 검증, 160만 시간 무재해 작업 기록은 IMO 및 국제해사기구의 안전 규정 준수 모범 사례로, 향후 해양 프로젝트의 벤치마크 역할</p></div>`,
+      tags: ["FSO","Floating Storage Offloading","Vietnam","Offshore Oil","Yinson Production"],
+      link: "https://www.offshore-energy.biz/yinson-production-and-ptscs-fso-heads-off-to-southeast-asian-oil-project/",
+      coords: [107,10.5],
+      location: "Block 15-1/05, Cuu Long Basin, Offshore Vietnam"
+    },
+    {
+      type: "news",
+      title: "Saipem completes offshore installation milestone at Neptun Deep Black Sea gas project",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-07-23",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/07/Saipem-7000-Neptun-Deep-1.jpg?image-crop-positioner-ts=1784806157",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 이탈리아 엔지니어링 대형사 Saipem이 유럽 최대 규모의 해상 천연가스 프로젝트인 Neptun Deep의 생산 플랫폼 설치를 완료했으며, 이는 €40억 규모 프로젝트의 주요 이정표임<br>• Saipem 7000 반잠수식 크레인 선박(Saipem 7000 semi-submersible crane vessel)이 루마니아 흑해 해역에서 약 1,000m 수심의 Domino 및 125m 수심의 Pelican 필드의 작업을 수행<br>• 설치된 자켓 구조물은 높이 135m, 무게 7,500톤 이상이며, 약 9,000톤의 플랫폼 탑사이드와 함께 설치되어 완전 자동화된 원격제어 운영 체계 구축<br>• 160km 길이의 30인치 해상 가스 파이프라인과 광섬유 케이블을 포함한 종합 설치 공사로, 2027년 생산 개시 예정<br>• Castorone 및 Castoro 10 등 자체 함대 선박들이 심해 및 근해 파이프라인 설치 작업 수행</p><h3>Key Quotes</h3><br>• "The Saipem 7000 semi-submersible crane vessel has completed the offshore installation campaign for the production platform" (Saipem 7000 반잠수식 크레인 선박이 생산 플랫폼의 해상 설치 작업을 완료했음을 의미)<br>• "The platform, which is fully automated and controlled remotely, will feed the processed gas into the 160-kilometer offshore pipeline" (완전 자동화되고 원격으로 제어되는 플랫폼이 160km 해상 파이프라인으로 가공된 가스를 공급함)</p><h3>Technical Insights</h3><br>• 해상 구조물 설치 기술: 7,500톤 이상의 대형 자켓을 심해(1,000m) 환경에서 8개의 강철 파일로 고정하는 고난도 설치 기술로, 복잡한 해양 인프라 구축 능력을 입증<br>• 자동화 및 원격 운영: 완전 자동화되고 원격제어되는 플랫폼의 도입으로 운영 안전성 및 효율성 극대화, 인력 운영 비용 절감 및 오류 감소 효과<br>• 다목적 선박 활용: Castorone(심해), Castoro 10(근해) 등 전문 설치선 보유로 다양한 수심 조건에서의 복합 해양 프로젝트 수행 가능, 유럽 해상 에너지 개발의 경쟁력 강화</p></div>`,
+      tags: ["Saipem","Neptun Deep","Black Sea","Offshore Installation","Natural Gas"],
+      link: "https://www.offshore-energy.biz/saipem-highlights-key-offshore-installation-milestone-at-europes-mega-gas-development/",
+      coords: [29.5,43.5],
+      location: "Black Sea, Romania"
+    }
+  ]
+});
