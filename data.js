@@ -12031,3 +12031,65 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2025-02-21
+addEvents({
+  "2025-02-21": [
+    {
+      type: "accident",
+      title: "Toxic Gas Emergency Aboard F/V Antarctic Discovery During Maintenance in Dry Dock",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-07-23",
+      image: "https://gcaptain.com/wp-content/uploads/2026/07/IMG_MO-2025-201-Antartic-Discovery.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사고 개요**: 뉴질랜드 피싱선 Antarctic Discovery가 Lyttelton 드라이독에서 정기 유지보수 중 어류 폐기물이 담긴 호퍼 탱크가 기계실로 배출되어 독성 가스(황화수소) 방출 사고 발생</p><p>• **피해 규모**: 4명의 선원(견습생 2명, 기관장, 2기관장)이 황화수소 중독으로 입원 치료받았으나 모두 회복됨</p><p>• **근본 원인**: 2명의 견습생이 기계실 내 표시되지 않은 펌프 시작 버튼을 실수로 활성화하여 분해되는 어류 폐기물과 해수 혼합물을 배출</p><p>• **구조적 결함**: 밀폐공간(Confined Space) 미분류, 위험 설비 격리 불이행, 조직 간 안전 조율 부족, 안전 중요 개조 시 검증 및 승인 절차 미흡</p><p>• **규제 기관 조치**: TAIC가 선사(Australian Longline Pty. Ltd.)와 항만회사(Lyttelton Port Company)에 안전 권고사항 발급 및 드라이독 안전 절차 강화 요구</p><p>• **황화수소 위험성**: 해양작업 중 가장 위험한 대기 오염물질로, 분해되는 유기물에서 발생하며 소량 노출도 치명적 가능</p><h3>Key Quotes</h3><p>• "It was about as likely as not that one of the workers unintentionally activated an unmarked start button for the offal pump." (작업자가 실수로 표시되지 않은 펌프 시작 버튼을 누를 가능성이 상당함)</p><p>• "The bow thruster machinery space should have been treated as a confined space because of its enclosed nature and potential for hazardous atmospheres, even though it was not formally classified as one." (선미 스러스터 기계실은 공식 분류와 무관하게 밀폐공간 특성과 위험 대기 가능성으로 인해 제한공간으로 취급되어야 함)</p><p>• "Overlapping responsibilities require active communication and shared safety management." (여러 조직의 중복된 책임은 능동적 소통과 공동 안전관리가 필수임)</p><h3>Technical Insights</h3><p>• **밀폐공간 관리 미흡**: 공식 분류 여부와 무관하게 산소 결핍, 독성 가스 축적 가능성이 있는 모든 공간을 밀폐공간으로 취급해야 하며, 드라이독 유지보수 전 대기 모니터링 의무화 필요</p><p>• **황화수소 위험관리**: 어류 폐기물, 슬러지 호퍼 등 유기물 분해 시설 인근 작업은 산소 결핍/황화수소 측정, 호흡보호장비 착용, 감시자(Watch) 배치 필수</p><p>• **COLREG/IMO 안전 표준 확대 필요**: 현재 IMO SOLAS/MARPOL 규정이 드라이독 유지보수 안전 절차를 충분히 다루지 못하므로, 조선소-선사 간 협력 계약(Class society 감시 포함) 강화 필요</p><p>• **자율화 시대의 안전 시사점**: 향후 자율선박 도입 시 밀폐공간 내 원격 센서 배치, AI 기반 대기 위험도 자동 모니터링, 응급 상황 자동 알림 시스템 도입이 인적 오류 감소에 효과적</p></div>`,
+      tags: ["Hydrogen Sulphide","Confined Space","Toxic Gas","Dry Dock Accident","Fishing Vessel","TAIC Investigation"],
+      link: "https://gcaptain.com/routine-maintenance-turns-into-toxic-gas-emergency-aboard-fishing-vessel/",
+      coords: [172.717,-43.615],
+      location: "Lyttelton, New Zealand"
+    }
+  ]
+});
+
+// Auto-collected: 2026-07-23
+addEvents({
+  "2026-07-23": [
+    {
+      type: "news",
+      title: "US and Partner Nations Conduct Live-Fire Sinking Exercise During RIMPAC 2026",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-23",
+      image: "https://images.marinelink.com/images/maritime/w800/mh60s-helicopter-172439.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **훈련 목적의 계획된 침몰 훈련**: 미 해군과 7개 파트너 국가(호주, 캐나다, 이탈리아, 일본, 뉴질랜드, 스페인)가 RIMPAC 2026 훈련 중 함정 침몰 훈련(SINKEX)을 실시하여 실시간 대함 전술 및 정밀 타격 능력을 배양</p><p>• **침몰된 함정**: 1987년 취역 티콘데로가급 유도미사일 순양함 USS Mobile Bay(CG 53)와 1980년 취역 타라와급 강습상륙함 USS Peleliu(LHA 5)가 각각 7월 12일, 17일 침몰</p><p>• **해양 환경 보호 준수**: 침몰 전 해역 조사를 통해 인명, 선박, 항공기, 해양생물 현황을 확인하고 해양포유류보호법, 멸종위기종보호법 등 관련 규정 준수</p><p>• **광범위한 국제 군사 훈련**: 30개 국가, 3만 명 이상의 인원, 30척의 함정, 190대 이상의 항공기가 참여하는 대규모 훈련 (6월 24일~7월 31일)</p><p>• **역사적 함정들의 퇴역 활용**: Mobile Bay는 36년간 (1987~2023), Peleliu는 35년간 (1980~2015) 운용된 후 훈련용으로 최종 활용</p><h3>Key Quotes</h3><p>• "Live-fire exercises deliver hands-on, realistic training that sharpens partner nations' capabilities to coordinate, plan and execute sophisticated maritime operations, including precision targeting and strike capabilities." (실시간 사격 훈련은 파트너 국가들이 정밀 타격 능력을 포함한 복잡한 해상 작전을 조율하고 계획·실행할 수 있는 능력을 강화하는 실질적이고 현실적인 훈련을 제공)</p><p>• "A SINKEX is conducted only after the area has been surveyed for the presence of people, marine vessels, aircraft, and marine species." (함정 침몰 훈련은 해역이 인명, 선박, 항공기 및 해양생물의 존재 여부에 대해 조사된 후에만 실시)</p><h3>Technical Insights</h3><p>• **국제 해양 안전 규정 준수**: 침몰 훈련 실시 시 국가환경정책법(NEPA) 및 해양포유류보호법 등 국제 해양환경 규제를 준수하여 해양 생태계 보호와 군사 훈련의 조화 추구</p><p>• **다국적 해상 전술 협력**: RIMPAC과 같은 대규모 다국적 훈련을 통해 참여국 간 함정 운용, 타격 능력, 조율 체계 등 상호운용성(Interoperability) 강화 및 표준화된 해상 작전 프로토콜 개발</p><p>• **노후 함정의 전략적 재활용**: 퇴역 함정을 실사격 훈련 목표함으로 활용하여 처리 비용을 절감하면서도 실질적인 군사 훈련 효율성 극대화</p></div>`,
+      tags: ["RIMPAC 2026","Live-Fire Exercise","Naval Training","USS Mobile Bay","USS Peleliu"],
+      link: "https://www.marinelink.com/news/us-partner-nations-conduct-livefire-541477",
+      coords: [-156.5,22],
+      location: "Off Kauai, Hawaiian Islands"
+    },
+    {
+      type: "news",
+      title: "Saronic and Samsung Heavy Industries Partner to Advance Autonomous Shipbuilding in the U.S.",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-07-23",
+      image: "https://gcaptain.com/wp-content/uploads/2026/07/Port_Alpha-2.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Saronic과 Samsung Heavy Industries가 미국 자율운항 선박 개발 및 조선산업 재건을 위한 전략적 파트너십 체결</p><p>• Saronic의 자율운항 기술과 Samsung Heavy Industries의 상선 건조 및 첨단 제조 전문성을 결합하는 협력</p><p>• Port Alpha 조선소(텍사스 브라운스빌) 건설 계획: $30억 투자, 2028년 개장, 연장 1,200피트 이상 선박 건조 가능</p><p>• 로봇 기반 생산 자동화, AI 기반 디지털 기술, 차세대 조선소 제조 프로세스 개발 추진</p><p>• 향후 10년간 최대 10,000개의 직접 일자리 창출 및 미국 조선산업 경쟁력 강화 목표</p><h3>Key Quotes</h3><p>• "Rebuilding America's maritime strength requires both world-class technology and the industrial muscle to produce it at scale here at home" (미국의 해양 강국 재건은 세계적 수준의 기술과 국내 대규모 생산 능력이 필요함)</p><p>• "Together, we will focus on accelerating the reindustrialization of American shipbuilding, training the workforce of the future, and delivering differentiated, autonomy-capable vessels" (미국 조선산업의 재산업화 가속화, 미래 인력 양성, 자율운항 가능한 차별화된 선박 공급에 집중)</p><h3>Technical Insights</h3><p>• 자율운항 기술과 조선 제조 능력의 통합: 미국의 선진 자율운항 알고리즘과 한국의 대형 선박 건조 노하우 결합으로 차세대 자율선박 상용화 가속</p><p>• 로봇 기반 조선소 자동화: Port Alpha와 Louisiana 조선소에 로봇 기반 생산 자동화 적용으로 건조 효율성 대폭 상향 및 노동력 부족 문제 해결</p><p>• IMO 자율운항 규제 선제 대응: AI 기반 디지털 기술 개발을 통해 향후 IMO의 자율운항 국제 표준 및 규제에 미리 부응할 수 있는 경쟁력 확보</p><p>• 미국 공급망 강화 전략: 동맹국 기술 협력으로 중국 중심의 조선산업 구도 개선 및 인도-태평양 지역 해양 안보 강화에 기여</p></div>`,
+      tags: ["Autonomous Ships","Shipbuilding","Samsung Heavy Industries","U.S. Manufacturing"],
+      link: "https://gcaptain.com/saronic-samsung-heavy-industries-partner-to-advance-autonomous-shipbuilding-in-the-u-s/",
+      coords: [-97.4269,25.9017],
+      location: "Brownsville, Texas"
+    },
+    {
+      type: "news",
+      title: "Saronic and Samsung Heavy Industries Partner on Autonomous Marine Systems",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-23",
+      image: "https://images.marinelink.com/images/maritime/w800/saronicsamsung-heavy-172446.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Saronic와 Samsung Heavy Industries가 자율운항 해양 시스템 개발을 위한 전략적 파트너십 체결<br>• 한-미 조선 파트너십 센터(KUSPC) 출범식에서 공식 발표, 미국 상무부와 한국 산업부 주최<br>• 양사는 정부 및 상용 고객을 위한 자율 선박 개발과 AI 기반 디지털 솔루션 협력 추진<br>• Saronic의 텍사스 Brownsville Port Alpha 조선소(다단계 투자) 및 루이지애나 Franklin 조선소 확장으로 일자리 창출<br>• 로봇 기반 프로세스 자동화를 포함한 생산 인프라 협력으로 미국 조선 산업 기반 강화</p><h3>Key Quotes</h3><br>• "Through this partnership, the companies will harness technology and expertise to build the maritime industrial capacity and workforce needed to deliver on American and allied shipbuilding needs, both today and into the future." (양사의 기술과 전문성을 결합하여 현재와 미래의 미국 및 동맹국 조선 수요를 충족할 해양 산업 역량과 인력을 구축)<br>• "The partnership will explore the development of autonomy and AI-powered digital solutions and will encompass collaboration on production infrastructure, including robotics-based process automation" (자율성 및 AI 기반 디지털 솔루션 개발과 로봇 기반 프로세스 자동화를 포함한 생산 인프라 협력 추진)</p><h3>Technical Insights</h3><br>• 자율운항 선박 기술과 AI 디지털 솔루션의 통합 개발로 COLREG 준수 및 IMO 자율선박 규정(MSC.1/Circ.1604) 대응 가능성 제고<br>• 로봇 기반 조선소 자동화는 조선 산업의 생산성 향상과 노동력 효율성을 동시에 추진하는 산업 4.0 전략으로, 글로벌 조선 경쟁력 강화<br>• 한-미 조선 파트너십 센터를 통한 기술 협력은 인도-태평양 전략 및 동맹국 해양 방위력 강화에 기여하는 정지정학적 의미 보유<br>• Samsung Heavy Industries의 기술 지원으로 Saronic의 미국 조선소가 상용급 자율선박 건조 능력을 조기에 확보할 수 있는 기반 마련</p></div>`,
+      tags: ["Autonomous Ships","Samsung Heavy Industries","Saronic","US Shipbuilding","AI Navigation"],
+      link: "https://www.marinelink.com/news/saronic-samsung-heavy-industries-541490",
+      coords: [-77.0369,38.9072],
+      location: "Washington, D.C."
+    }
+  ]
+});
