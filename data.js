@@ -12155,3 +12155,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-24
+addEvents({
+  "2026-07-24": [
+    {
+      type: "accident",
+      title: "USCG Icebreaker 'Healy' Towed to Seattle After Significant Engineering Casualty",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-07-24",
+      image: "https://gcaptain.com/wp-content/uploads/2026/07/Vigor-Healy-Leaving-Vigor-July-6.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• USCG 쇄빙선 '힐리(Healy)'호가 워싱턴 해역에서 해상 시운전 중 심각한 기관실 사고 발생<br>• 사고 원인: 선박의 디젤 발전기 중 하나에서 크랭크케이스 폭발 발생, 승무원 피해 없음<br>• 사고 발생 시간: 2026년 7월 13일, 포트앤젤레스(Port Angeles) 북서쪽 해역에서 발생<br>• 조치: Foss Maritime의 예인선 'Marshall Foss'가 안전하게 선박을 시애틀 모항으로 복구<br>• 영향: 선박은 시애틀에서 조사 및 대규모 수리 예정, 미국의 극지역 쇄빙선 함대 확충 필요성 강조</p><h3>Key Quotes</h3><br>• "The crew of Coast Guard Cutter Healy acted with speed and skill in responding to this casualty" (힐리호 승무원들이 신속하고 능숙하게 사고에 대응했다)<br>• "The Nation needs a highly capable icebreaking fleet operated by the Coast Guard to ensure year-round access to the region" (미국은 극지역에 대한 연중무휴 접근을 보장하기 위해 해안경비대가 운영하는 고성능 쇄빙선 함대가 필요하다)</p><h3>Technical Insights</h3><br>• 크랭크케이스 폭발은 현대식 해양 디젤 엔진에 내장된 압력 안전 밸브에 의해 감지되며, 폭발 강도에 따라 경미한 점검에서부터 치명적 엔진 손상까지 다양한 결과 초래 가능<br>• 힐리호는 핀란드식 쇄빙선 설계를 기반으로 4기의 Sulzer 12ZAV40S 중속 디젤 발전기를 2개의 독립적인 기관실에 배치하여 중복성(redundancy) 확보<br>• 엔진실 화재 차단벽으로 분리된 독립적 운영 구조로 한쪽 기관실 사고 발생 시에도 다른 기관실 정상 운영 가능, 해양 안전 설계의 우수성 입증</p></div>`,
+      tags: ["icebreaker","engineering casualty","crankcase explosion","USCG","sea trials"],
+      link: "https://gcaptain.com/exclusive-uscg-icebreaker-healy-towed-back-to-seattle-following-significant-engineering-casualty/",
+      coords: [-124.7,48.1],
+      location: "Port Angeles, Washington"
+    },
+    {
+      type: "accident",
+      title: "USCG Cutter Healy Returns to Homeport After Engineering Casualty",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-24",
+      image: "https://images.marinelink.com/images/maritime/w800/coast-guard-172474.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **미국 해안경비대(USCG) Cutter Healy(WAGB-20)가 워싱턴주 Port Angeles 북서쪽에서 엔진 손상 사고 경험**<br>  <br>• **2026년 7월 13일 예인선이 안전하게 모함으로 회수, 인명피해 없음**</p><p>• **사고 원인 조사 및 대규모 수리를 위해 반환, 구체적인 엔진 손상 내용 미공개**</p><p>• **Arctic Security Cutter 프로그램의 일환으로 북극 해역에서 미국 주권 보호 임무 수행 중**</p><p>• **CGC Storis와 CGC Munro 등 다른 쇄빙선들이 북극 순찰을 계속하며 중국 연구선박 활동 모니터링**</p><h3>Key Quotes</h3><p>• "U.S. Coast Guard Cutter (CGC) Healy experienced an engineering casualty while operating northwest of Port Angeles, Washington. There were no reported injuries." <br>(미국 해안경비대 Healy는 워싱턴주 Port Angeles 북서쪽에서 엔진 손상 사고를 경험했으며, 인명피해는 보고되지 않았음)</p><p>• "On July 13, tugs safely towed CGC Healy back to homeport for an investigation into the incident and to undergo major repairs."<br>(7월 13일 예인선이 Healy를 안전하게 모함으로 회수하여 사고 조사 및 대규모 수리 예정)</p><h3>Technical Insights</h3><p>• **북극 쇄빙선의 운영 안정성 문제**: 극저온 환경에서의 엔진 손상 사고는 쇄빙선의 구조적 강화와 엔진 내구성에 대한 재평가 필요성을 제시하며, 특히 Arctic Security Cutter 프로그램의 신규 함선 설계에 반영되어야 함</p><p>• **전략적 공백 발생**: 미국의 Arctic 해역 주권 수호 임무 중 주력 쇄빙선의 손상은 일시적인 운영 능력 저하를 초래하며, 다른 함선들의 순찰 강화로 공백을 보충하고 있음</p><p>• **예방적 유지보수의 중요성**: 극한 환경에서의 정기적인 정비 및 예방적 점검 강화가 군함의 가용성 확보와 작전 지속성 유지의 핵심 요소임을 보여줌</p></div>`,
+      tags: ["Engineering Casualty","USCG Cutter Healy","Towing Operation","Arctic Operations"],
+      link: "https://www.marinelink.com/news/uscg-cutter-healy-returns-homeport-541518",
+      coords: [-124.72,48.24],
+      location: "Northwest of Port Angeles, Washington"
+    },
+    {
+      type: "news",
+      title: "Ultra Maritime and Anduril Demonstrate UUV Detection at US Navy Lanternfish Exercise",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-07-24",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/07/ultra-maritime-sea-spear.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Ultra Maritime와 Anduril이 미 해군 Lanternfish 훈련에서 Sea Spear 소나 시스템을 이용해 고급 무인 수중 차량(UUV) 탐지 및 분류 능력을 성공적으로 시연<br>• Sea Spear는 배포 가능한 음향 감지 솔루션으로, Anduril의 Seabed Sentry와 통합되어 자율 수중 네트워크 구성<br>• 중형 및 대형 UUV를 지속적으로 탐지, 추적, 분류하며 전 세계 수중 지휘소로 추적 데이터 전송 가능<br>• 유인 및 무인 플랫폼에서 비밀리에 배포 가능하며, 영구 설치 또는 소모성 자산으로 유연하게 운영 가능<br>• 해양 전략 지역 및 분쟁 지역의 수중 감시 네트워크 구축으로 미 해군과 동맹국의 수중 위협 대응 능력 강화</p><h3>Key Quotes</h3><br>• "Sea Spear creates a distributed autonomous undersea network designed for scalable production and rapid deployment" (Sea Spear는 확장 가능한 생산과 신속한 배포를 위해 설계된 분산형 자율 수중 네트워크 구성)<br>• "As undersea threats evolve and proliferate, Sea Spear provides U.S. and allied naval with a path to resilient networks of autonomous sensors across contested maritime environments" (수중 위협이 진화하고 확산함에 따라, Sea Spear는 미국과 동맹국의 해군에게 분쟁 해역 전역에 걸친 자율 센서 네트워크 구축의 길을 제공)</p><h3>Technical Insights</h3><br>• **수중 자율화의 발전**: Sea Spear와 Seabed Sentry의 통합은 분산형 수중 감시 네트워크의 현실화를 의미하며, 향후 자율 수중 시스템의 작전 운영 표준으로 확대될 가능성 높음<br>• **ASW 작전 패러다임 변화**: 기존 능동 소나 기반 대잠 작전에서 분산형 수동 음향 센서 네트워크로의 전환은 수중 전투의 비용 효율성 및 생존성 향상을 의미<br>• **해양 안보 인프라 강화**: 항만 보호 및 전략적 해협 감시 능력의 자동화로, 첨단 UUV 위협에 대한 조기 탐지 및 대응 시간 단축 실현<br>• **국제 협력의 심화**: 호주, 영국, 미국의 다국적 훈련 참여로 인도-태평양 지역의 해양 안보 협력 네트워크 확대 및 운영 표준화 추진</p></div>`,
+      tags: ["autonomous underwater vehicles","UUV detection","sonar technology","maritime defense","US Navy"],
+      link: "https://www.navalnews.com/naval-news/2026/07/ultra-maritime-anduril-track-uuv-threats-at-us-navy-lanternfish-exercise/",
+      coords: [0,0],
+      location: "US Navy (multinational exercise)"
+    }
+  ]
+});
