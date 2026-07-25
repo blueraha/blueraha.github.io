@@ -12199,3 +12199,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-24
+addEvents({
+  "2026-07-24": [
+    {
+      type: "news",
+      title: "Saipem-Subsea7 merger faces EU competition investigation over SURF market dominance",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-07-24",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2025/05/saipem-illustration.jpg?image-crop-positioner-ts=1747237449",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이탈리아의 Saipem과 룩셈부르크 기반 Subsea7 간 합병이 EU 경쟁당국의 심층 조사 대상이 됨. 합병 후 회사명은 Saipem7이 될 예정</p><p>• 해양 엔지니어링·건설 서비스 시장, 특히 SURF(Subsea Umbilicals, Risers, Flowlines) 서비스와 탄소포집저장(CCS) 프로젝트 부문에서 시장 집중도 심화에 대한 우려</p><p>• SURF는 해저 유정을 해상 생산시설과 연결하는 초수심 파이프 및 케이블 인프라로, 석유·가스 및 탄소저장 사업에 필수적인 서비스</p><p>• 글로벌 SURF 서비스 시장은 이미 고도로 집중되어 있으며, Saipem과 Subsea7이 세계 3대 선두업체 중 2곳을 차지하고 있는 상황</p><p>• 해양 업계의 높은 진입장벽(첨단 선박 건조에 필요한 막대한 자본투자), 여유 생산 능력 부족으로 인해 경쟁 심화가 제한적</p><p>• 합병 시 경합 기업은 1개 회사만 남게 되어 시장 지배력 심화 우려</p><h3>Key Quotes</h3><p>• "The merged entity would have high market and capacity shares in these markets" <br>  (합병 후 회사는 해당 시장에서 높은 시장점유율과 생산능력 점유율을 보유하게 됨)</p><p>• "Saipem and Subsea7 are two of the three leading suppliers in the world, and the merged entity would significantly reduce competition on the already highly concentrated SURF services market"<br>  (두 회사는 세계 3대 선두업체 중 2곳이며, 합병 시 이미 집중된 SURF 시장의 경쟁을 대폭 약화시킬 것)</p><p>• "High barriers to entry and expansion are very high in this capital-intensive industry, where spare capacity is limited"<br>  (첨단 선박 건조에 필요한 막대한 투자 진입장벽으로 인해 신규 경쟁자 진입이 어려운 구조)</p><h3>Technical Insights</h3><p>• **시장 구조의 한계**: SURF 서비스 시장은 고도의 기술력과 특화된 선박(deepwater construction vessels, installation vessels)을 요구하는 자본집약적 산업으로, 높은 기술적·경제적 진입장벽으로 인해 경쟁 제한적</p><p>• **규제 리스크**: EU 경쟁당국의 심층 조사는 해양 에너지 인프라 구축의 핵심 서비스 제공자의 과도한 집중화를 우려하며, IMO 규제 외 경쟁정책을 통한 산업 구조 조정 신호</p><p>• **CCS 산업의 성장과 충돌**: 탄소중립 달성을 위한 CCS 프로젝트 증가로 SURF 서비스 수요 증가 예상되나, 공급자 독과점화로 인한 비용 상승 및 기술 혁신 둔화 우려</p><p>• **고객 교섭력 약화**: 대형 석유·가스 회사 등 고객층도 선택지 제한으로 인해 계약 조건 및 가격 결정에서 불리한 위치에 처할 수 있음</p></div>`,
+      tags: ["M&A","Competition","SURF services","Subsea infrastructure","Offshore engineering"],
+      link: "https://www.offshore-energy.biz/saipem-subsea7-merger-under-the-microscope-as-eu-flags-competition-concerns/",
+      coords: [0,0],
+      location: "European Union"
+    },
+    {
+      type: "news",
+      title: "HD Hyundai Shipbuilding Partners with Siemens for AI-Powered Digital Shipyard Platform",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-07-24",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/07/Shipbuilding-takes-digital-leap-with-virtual-platform-to-connect-entire-process-1024x683.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• HD Hyundai의 HD Korea Shipbuilding & Offshore Engineering이 Siemens Digital Industries Software와 차세대 해양 디지털 플랫폼 도입을 위한 최종 협약을 체결</p><p>• AI, 디지털 트윈, 자동화 기술을 활용하여 선박 설계부터 건조, 운영까지 전 과정을 3D 모델 기반 데이터 환경으로 통합하는 플랫폼 구축</p><p>• 가상 조선소(Virtual Shipyard) 개발을 통해 생산 프로세스와 설비 운영을 디지털 환경에서 시뮬레이션하고 자율 제조 시스템 구축 추진</p><p>• 실시간 생산 상태 업데이트와 설계 변경사항을 생산 현장과 공급망에 직접 전달하여 일정 지연 및 품질 문제 예방 가능</p><p>• 이번 협력을 통해 전 세계 조선소의 디지털 혁신 가속화 및 미국 조선 산업의 현대화와 경쟁력 강화 기여 예상</p><h3>Key Quotes</h3><p>• "AI is not merely a tool for improving productivity, but a transformative technology that is reshaping how ships are designed, built and operated" (AI는 단순한 생산성 향상 도구를 넘어 선박 설계, 건조, 운영 방식을 근본적으로 변화시키는 혁신 기술)</p><p>• "This strategic collaboration is about more than technology deployment, it's about establishing a repeatable blueprint for modern shipbuilding" (이 전략적 협력은 단순한 기술 도입을 넘어 현대 조선의 반복 가능한 모델을 구축하는 것)</p><h3>Technical Insights</h3><p>• **디지털 트윈 기반 통합 플랫폼**: 설계, 생산, 공급망, 품질관리, 유지보수, 시운전을 단일 3D 모델 환경으로 통합함으로써 전 과정의 데이터 일관성 확보 및 의사결정 효율성 극대화</p><p>• **자율 제조 시스템 구축**: 가상 조선소에서 생산 프로세스를 사전 시뮬레이션하여 일정 지연 및 품질 이슈를 사전에 예방하고 인력 생산성 향상 기여</p><p>• **산업 경쟁력 강화**: AI 기반 자동화를 통해 조선소의 처리량(throughput), 품질, 생산성을 동시에 개선하여 글로벌 조선 산업에서의 경쟁력 강화 및 미국 조선 산업 현대화에 기여 가능</p></div>`,
+      tags: ["Digital Transformation","Shipbuilding","AI Technology","Digital Twin","HD Hyundai","Siemens"],
+      link: "https://www.offshore-energy.biz/shipbuilding-takes-digital-leap-with-virtual-platform-to-connect-entire-process/",
+      coords: [126.9784,37.5665],
+      location: "Seoul, South Korea"
+    },
+    {
+      type: "news",
+      title: "Harbour Energy's LLOG US arm advances repair plan after Who Dat Gulf of Mexico riser leak",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-07-24",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2024/01/Who-Dat-Source-Delmar.jpg?image-crop-positioner-ts=1704357187",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: LLOG Exploration(Harbour Energy 자회사)이 운영하는 Who Dat 유전에서 2월 2026년 라이저 누수가 발생하여 약 15,000 boe/day의 생산량 영향<br>• **영향 범위**: 7개 우물의 총 생산량 중 40%를 차지하는 LLOG(운영사), Karoon(40%), Westlawn(20%)의 JV 컨소시엄 운영<br>• **복구 계획**: 라이저 제거 및 분석을 2026년 3분기에 시작하며, E 매니폴드 생산 재개는 2027년 4분기 예정<br>• **대응 조치**: A1 사이드트랙 우물이 7월 13일부터 가동되어 1,700 boe/day NRI 생산 중이며, G1 ST 사이드트랙도 2026년 하반기 추진 예정<br>• **경제적 영향**: 유연 가격 $101.93/bbl(분기 대비 55% 상승), 가스 가격 $4.08/mcf(47% 하락)</p><h3>Key Quotes</h3><p>• "At Who Dat, the A1 sidetrack came online on 13 July, providing a positive near-term contribution while the JV continues to advance the E riser restoration workstream."<br>(Who Dat 유전의 A1 사이드트랙 우물이 7월 13일 가동되어 E 라이저 복구 작업 진행 중 단기 생산 기여)</p><p>• "Our current base case assumes one or both E risers will need replacement, with E manifold production expected to resume in the fourth quarter of 2027."<br>(현 기준 시나리오는 E 라이저 1개 또는 2개 모두 교체 필요이며, 2027년 4분기 생산 재개 예상)</p><h3>Technical Insights</h3><p>• **해양 인프라 위험 관리**: 심해 라이저 누수는 장시간 생산 중단을 초래하므로 정기적 검사 및 예방적 유지보수 강화 필요<br>• **대체 생산 시스템 운영**: 사이드트랙 우물을 통한 단기 생산 보전 전략은 해양 석유 개발에서 표준적인 위험 완화 방법으로 채택<br>• **규제 승인 프로세스**: JV 및 규제기관 승인이 필수적으로 요구되는 점은 심해 운영의 복잡한 거버넌스 구조를 반영<br>• **장기 복구 타임라인**: 2027년 4분기까지의 약 18개월 복구 기간은 심해 기술 및 환경 조건의 제약을 보여주며, 해양 에너지 산업의 운영 리스크 특성을 입증</p></div>`,
+      tags: ["Oil & Gas","Gulf of Mexico","Infrastructure Repair","Production Shutdown","Riser Leak"],
+      link: "https://www.offshore-energy.biz/harbour-energys-us-arm-advances-repair-plan-after-riser-leak-at-gulf-of-america-oil-gas-asset/",
+      coords: [-88.5,27.5],
+      location: "Gulf of Mexico (Gulf of America)"
+    },
+    {
+      type: "news",
+      title: "Allseas' Solitaire Pipelayer Returns to Sea After Major 10-Month Upgrade",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-07-24",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/07/allseas.jpg?image-crop-positioner-ts=1784889065",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Allseas의 대형 파이프레이 선박 Solitaire(397m)가 10개월간의 대규모 현대화 작업을 완료하고 운영 재개 단계에 진입</p><p>• 1998년 취항 이래 28년간 운영된 노후 선박의 동력, 전력 생성, 자동화 및 하이브리드 전력 시스템 전면 개선</p><p>• 이중 조인트 공장(DJF)을 포함한 거의 모든 주요 시스템 현대화로 자동화 수준 향상 및 데이터 기반 운영 환경 구축</p><p>• Solitaire는 지난 25년 이상 13,000km 이상의 파이프라인을 생산했으며, 50만 개 이상의 이중 조인트 시공 실적 보유</p><p>• 향후 멕시코만에서의 초심해 파이프라인 프로젝트 착공 후 서아프리카, 대만, 호주에서 2년간 글로벌 캠페인 전개 예정</p><h3>Key Quotes</h3><p>• "This was more than a refit. The programme represents a strategic reinvestment in a vessel that has helped define offshore pipelay for nearly three decades." (이것은 단순한 정비 이상의 의미를 가지며, 30년 근처로 해양 파이프레이 산업을 선도해온 선박에 대한 전략적 재투자를 대표함)</p><p>• "The upgraded DJF lays the foundation for a more automated, data-driven and future-ready pipelay process" (업그레이드된 DJF는 보다 자동화되고 데이터 기반의 미래지향적 파이프레이 프로세스의 기반을 제공)</p><h3>Technical Insights</h3><p>• 파이프라인 취급, 추적, 처리, 용접, 검사 시스템 및 구조 요소의 전면 현대화로 노후 선박의 기술적 경쟁력 회복 및 운영 수명 연장</p><p>• 하이브리드 전력 시스템 도입으로 해상 에너지 효율성 증대 및 탄소 배출 감소 등 친환경 운영 체계 구축</p><p>• 자동화 및 데이터 기반 운영 시스템 도입으로 파이프라인 시공의 정확도, 안전성, 생산성 향상 및 스마트 오프쇼어 기술의 실제 구현 사례</p><p>• 기존 대형 선박의 현대화 전략이 신조선 건조 대비 경제적 효율성을 제공하면서도 기술적 혁신을 달성할 수 있는 산업 모델로 제시</p></div>`,
+      tags: ["Pipelay Vessel","Ship Modernization","Offshore Technology","Automation"],
+      link: "https://www.offshore-energy.biz/allseas-large-28-year-old-pipelayer-returns-to-sea-after-major-10-month-upgrade/",
+      coords: [4.2917,51.9225],
+      location: "Rotterdam, Netherlands"
+    }
+  ]
+});
