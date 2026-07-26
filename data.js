@@ -12255,3 +12255,65 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-25
+addEvents({
+  "2026-07-25": [
+    {
+      type: "accident",
+      title: "Houthis Fire Missiles and Drones on Saudi Red Sea Oil Sites",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-07-25",
+      image: "https://gcaptain.com/wp-content/uploads/2026/07/2026-07-23T181804Z_1693800061_RC2TJMAPQRRY_RTRMADP_3_YEMEN-SHIPPING-ADEN-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 이란 연계 후티 반군이 2026년 7월 23-25일 사우디아라비아의 홍해 유전지역인 지잔과 얀부 항구의 석유시설을 미사일과 드론으로 공격<br>• 사우디 국영석유회사 아람코(Saudi Aramco) 소유의 정유소와 저장 시설이 피격되었으며, 지잔 정유소는 일일 40만 배럴 처리 능력 보유<br>• 얀부는 사우디의 주요 홍해 석유수출항으로 호르무즈 해협 우회 경로이며, 하루 수백만 배럴 처리 중<br>• 사우디 주도 연합군이 후티 반군 미사일/드론 기지와 무기고에 대한 공습으로 보복<br>• 2022년 휴전 이후 처음 재개된 예멘 내전이 홍해 해운 및 글로벌 석유 공급에 심각한 위협 초래</p><h3>Key Quotes</h3><p>• "the group had targeted and successfully struck sites belonging to Saudi state oil giant Aramco in Jizan and Yanbu" (후티군이 지잔과 얀부의 사우디 아람코 시설에 대한 공격을 성공적으로 수행했음을 주장)</p><p>• "Yanbu is Saudi Arabia's main Red Sea oil port, where millions of barrels a day are loaded, and has become the main route out for Saudi oil skirting the Strait of Hormuz" (얀부는 사우디의 주요 홍해 석유항으로 호르무즈 해협을 우회하는 사우디유의 주요 수출로)</p><p>• "all Saudi oil facilities would be targets if Riyadh escalated its involvement in the conflict" (후티 지도자가 사우디가 분쟁 개입을 확대할 경우 모든 사우디 석유시설이 표적이 될 것이라고 선언)</p><h3>Technical Insights</h3><p>• **해상 인프라 보호의 한계**: 미국산 패트리엇 방공 시스템 배치에도 불구하고 미사일 위협 차단이 완전하지 않으며, 해상 에너지 인프라의 취약성 노출<br>• **해운 안보 위협 심화**: 홍해 해상 교통로(maritime chokepoint)의 불안정성이 글로벌 석유 공급망을 위협하며, IMO 해상 안전 규정의 실행 한계 드러냄<br>• **자율선박 운영 환경 악화**: 분쟁 지역 확대로 인해 향후 자율선박 운영 가능성이 제한될 수 있으며, 원격 조종 및 인공지능 네비게이션의 신뢰성 문제 발생 가능<br>• **규제 및 보험 구조 재편 필요**: 고위험 해역 운항으로 인한 선박 보험료 인상 및 해상 보안 프로토콜 강화 필요성 제기</p></div>`,
+      tags: ["Houthi Attack","Red Sea","Oil Infrastructure","Saudi Arabia","Maritime Conflict"],
+      link: "https://gcaptain.com/houthis-fire-on-saudi-red-sea-oil-sites/",
+      coords: [42.5,16.5],
+      location: "Red Sea, Yemen-Saudi Arabia Border (Jizan, Yanbu)"
+    }
+  ]
+});
+
+// Auto-collected: 2026-07-24
+addEvents({
+  "2026-07-24": [
+    {
+      type: "news",
+      title: "Cooperative Ventures Invests in OpenTug for AI-Driven Agricultural Shipping Logistics",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-24",
+      image: "https://images.marinelink.com/images/maritime/w800/opentug-172469.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Cooperative Ventures(CHS Inc.와 GROWMARK의 합작회사)가 AI 기반 내항해운 물류 기술 회사 OpenTug에 투자 결정<br>• OpenTug BargeOS는 선박 상업 계획, 항해 관리, 인보이스 조정 및 보고를 통합 플랫폼으로 최적화<br>• GPS 모니터링과 자동화된 교통 보고서 수집을 통해 실시간 바지선 이동 및 항해 활동 파악 가능<br>• CHS는 자사 공급망 효율성 증대를 위해 바지선 관리 시스템 도입 계획<br>• 디지털 도구 활용으로 같은 수의 바지선으로 더 많은 화물 수송 가능하며, 운영 효율성 및 농산물 수송 연속성 향상</p><h3>Key Quotes</h3><p>• "This technology enables shippers and carriers to reduce idle barge days, improve ETA prediction accuracy and minimize demurrage charges." <br>(이 기술은 선주와 운송사가 미활용 바지선 일수를 감소시키고, 예상 도착 시간 예측 정확도를 개선하며, 체선료를 최소화할 수 있도록 함)</p><p>• "By combining integrated barge GPS monitoring with BargeOS Autopilot's automated ingestion of traffic reports and operational emails, users gain a real-time view of barge movements and voyage activity."<br>(통합 바지선 GPS 모니터링과 BargeOS 자동조종시스템의 교통 보고서 및 운영 이메일 자동 수집을 결합하여 사용자는 실시간 바지선 이동 및 항해 활동을 파악할 수 있음)</p><h3>Technical Insights</h3><p>• AI 네이티브 물류 플랫폼의 도입으로 내항해운 분야의 데이터 기반 의사결정 역량 강화 및 자율화 수준 향상<br>• 실시간 GPS 모니터링과 자동화된 보고서 수집 기능은 IMO의 디지털 선박(Digital Ship) 및 데이터 공유 규정과 부합하는 기술 트렌드<br>• 바지선 공동 활용 모델을 통한 운송 효율성 증대는 해운 업계의 탄소 감축 목표 달성에 기여<br>• 농산물 수송 특화 물류 최적화 솔루션은 내항해운의 산업별 맞춤형 자동화 기술 발전을 의미하며, 동종 업계의 디지털 전환 촉진 효과 기대</p></div>`,
+      tags: ["AI logistics","inland shipping","barge management","agricultural transport","autonomous systems"],
+      link: "https://www.marinelink.com/news/cooperative-ventures-invests-opentug-541514",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "ABS Deepens South Korea-US Shipbuilding Collaboration on Software-Defined Vessels",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-24",
+      image: "https://images.marinelink.com/images/maritime/w800/credit-172465.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• ABS(미국선급협회)가 한국 조선사 HD KSOE, KRISO, KOSHIPA와 협력 협약 2개 체결 - 소프트웨어 정의 선박(SDV) 기술 개발 및 인력 양성</p><p>• ABS Consulting과 ABS Wavesight가 HD KSOE의 SDV 플랫폼 개발을 위해 소프트웨어 품질보증, 검증 및 검사(V&V) 지원</p><p>• 차세대 선박 기능이 전용 하드웨어에서 소프트웨어로 전환됨에 따라 품질 관리 및 독립적 검증 체계 구축 필요성 강조</p><p>• 미국-한국 해양 분야 간 인력개발, 기술 인증, 규제 협력 프레임워크 수립으로 국방 정비·수리(MRO) 시장 역량 강화</p><p>• KRISO는 선박공학, KOSHIPA는 산업 네트워크, KUSPC는 정부-산업-연구기관 조율 담당으로 역할 분담</p><h3>Key Quotes</h3><p>• "Software is becoming increasingly central to how next-generation vessels are designed, integrated and operated. As the maritime industry advances toward more connected and software-enabled platforms, strong quality governance and independent validation are essential to building confidence in performance, reliability and long-term readiness," said David Wechsler, President and CEO, ABS Consulting.<br>(소프트웨어가 차세대 선박의 설계, 통합, 운영 방식의 핵심이 되고 있으며, 산업이 더욱 연결되고 소프트웨어 활성화된 플랫폼으로 나아감에 따라 품질 관리와 독립적 검증이 필수적임)</p><p>• "The core competitiveness of future vessels will increasingly be determined by advanced software capabilities rather than hardware alone. By leveraging ABS Consulting's proven expertise in software quality and security assurance, we look forward to accelerating HD KSOE's AI and Digital Transformation (AX/DX) and bringing the true era of Software-Defined Vessels (SDV) closer to reality," added Kim Hyung-Kwan, President & CEO of HD KSOE.<br>(미래 선박의 핵심 경쟁력은 하드웨어보다는 고급 소프트웨어 역량에 의해 결정될 것이며, ABS의 소프트웨어 품질·보안 전문성을 활용하여 SDV 시대 실현 가속화)</p><h3>Technical Insights</h3><p>• **소프트웨어 정의 선박(SDV) 기술 진화**: 전통적 하드웨어 기반 선박 설계에서 소프트웨어 중심 플랫폼으로의 패러다임 전환으로, AI/DX 기반 자동화 및 지능형 선박 운영 체계 구축</p><p>• **품질보증 및 검증 체계의 중요성**: 선박용 소프트웨어의 안정성, 신뢰성, 사이버보안을 확보하기 위해 독립적 V&V와 분류사의 감시 역할 강조 - IMO 자동화 선박 규제 강화와 연계</p><p>• **한미 협력을 통한 국방·상선 기술 표준화**: 국방부 관함 MRO 시장과 상선 조선업 간 기술 기준 통일로 양국의 조선소 경쟁력 제고 및 국제 규제 선제적 대응</p><p>• **인력 개발의 전략적 가치**: 소프트웨어 엔지니어, 디지털 시스템 운영자, 사이버보안 전문가 등 신규 직종 양성으로 한국 조선 산업의 고부가가치 전환 가속화</p></div>`,
+      tags: ["Software-Defined Vessels","Shipbuilding Technology","US-Korea Partnership","Workforce Development"],
+      link: "https://www.marinelink.com/news/abs-deepens-south-koreaus-shipbuilding-541510",
+      coords: [0,0],
+      location: "Global (US-South Korea)"
+    },
+    {
+      type: "news",
+      title: "GTT Marine to Digitize Petronas' LNG Fleet with Integrated Digital Solutions",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-24",
+      image: "https://images.marinelink.com/images/maritime/w800/casper-jensen-172464.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• GTT Marine가 Petronas의 용선 LNG 운반선 함대에 대한 통합 디지털 선박 성능 솔루션 배포 계약 체결<br>• 선박 성능 모니터링, 항해 최적화, 화물 관리를 포함한 포괄적 디지털 플랫폼 제공<br>• 실시간 센서 데이터 수집, 성능 분석, AI 기반 항로 계획으로 운영 효율성 및 연료 소비 감축 목표<br>• GTT Marine의 24/7 Fleet Centre 지원으로 선상 및 육상 팀의 의사결정 지원<br>• Danelec, Ascenz Marorka, Vessel Performance Solutions 통합으로 단편적 디지털 도구에서 통합 데이터 기반 의사결정으로 전환<br>• 향후 Petronas의 용선 LNG 운반선 함대 확장에 따른 계약 확대 가능성</p><h3>Key Quotes</h3><br>• "This agreement with Petronas is a strong validation of what we've built by bringing Danelec, Ascenz Marorka and Vessel Performance Solutions together under GTT Marine. Today, we deliver data acquisition, performance analytics, and voyage optimization as one integrated suite, backed by our Fleet Centre around the clock." <br>(Petronas와의 계약은 세 개 회사의 전문성을 통합하여 데이터 수집, 성능 분석, 항해 최적화를 24/7 Fleet Centre 지원과 함께 제공하는 통합 솔루션의 가치를 입증)</p><h3>Technical Insights</h3><br>• LNG 운반선의 IMO 2030/2050 탄소중립 목표 달성을 위해 데이터 기반 항해 최적화 및 연료 소비 감축 솔루션의 중요성 증대<br>• 디지털 트윈 기술과 실시간 센서 데이터 분석을 통한 예측적 유지보수(Predictive Maintenance)로 선박 가동률 및 안전성 향상<br>• 통합 디지털 플랫폼의 산업 표준화 추세로, 기존 단편적 솔루션의 대체 및 해운사의 운영 복잡성 감소<br>• 에너지 전환 시대에 LNG 선박의 경쟁력 강화를 위한 기술 혁신과 해운사-솔루션 제공자 간 전략적 파트너십 심화</p></div>`,
+      tags: ["LNG","Digital Transformation","Vessel Performance","Petronas","Shipping Technology"],
+      link: "https://www.marinelink.com/news/gtt-marine-digitize-petronas-lng-fleet-541509",
+      coords: [101.6964,3.139],
+      location: "Malaysia (Petronas headquarters)"
+    }
+  ]
+});
