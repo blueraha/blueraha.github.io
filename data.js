@@ -12373,3 +12373,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-25
+addEvents({
+  "2026-07-25": [
+    {
+      type: "news",
+      title: "U.S. Navy Deploys Kamikaze Sea Drones During Pacific SINKEX Exercise",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-07-25",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/07/Screenshot-2026-07-25-032625-1024x536.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 미 해군이 RIMPAC 훈련 중 우크라이나식 자살 공격 무인 수상함(카미카제 드론)을 배치하여 구 USS Peleliu(LHD 5)를 격침시킴<br>• Global Autonomous Reconnaissance Craft(GARC) 무인함정들이 Unmanned Surface Vessel Division 32에서 배치되어 자동 공격 능력을 시연<br>• 미 해군은 공중, 수상, 수중에서의 자율 공격 무인체 함대 운영을 목표로 하고 있으며 이번 실전 시연이 중요한 이정표를 의미함<br>• 우크라이나의 흑해 러시아 해군 공격 경험을 바탕으로 미 해군의 무인 전술 개발이 가속화되고 있음<br>• RIMPAC은 이제 전술평가(Operational Test) 행사로 지정되어 태평양 지역 동맹국들과 잠재 적국들에게 미 해군의 첨단 능력을 시연하는 기회 제공</p><h3>Key Quotes</h3><br>• "pushing forward the service's intentions of fielding a fleet of autonomous attack drones in the air, on the surface, and underwater" (미 해군은 공중, 수상, 수중에서의 자율 공격 무인체 함대 배치 의도를 앞당기고 있음)<br>• "The one-way attack drone's deployment is perhaps most significant during the multinational exercise, giving international partners and adversaries a close look at U.S. Navy capabilities" (자살 공격 무인함의 배치는 다국적 훈련에서 가장 중요한 의미를 가지며, 국제 파트너와 적국들에게 미 해군 능력을 직접 시연하는 기회 제공)</p><h3>Technical Insights</h3><br>• **자율 무인 수상함의 전술 진화**: GARC 무인함정이 전통적 정찰 역할에서 벗어나 직접 공격 능력을 보유한 자살 무인체로 운용되고 있으며, 이는 해상전 개념의 근본적 변화를 시사함<br>• **우크라이나 경험의 군사 기술 전이**: 흑해의 저가 드론 기반 해상 전술이 미 해군의 고가 전투함 체계와 결합되어 비대칭 전력 증강의 새로운 모델을 구성함<br>• **해상 무인화의 다층 전개**: 카운터-UAS 무인함, 장내구 정찰 무인체(Saildrone), 육군·해병대 공중전력 통합 등 다양한 무인 플랫폼의 동시 개발로 해상 무인화 생태계 확대 중<br>• **IMO/국제법 규제와의 충돌 가능성**: 일방적 자살 공격 무인체의 배치는 국제해상법과 COLREG 적용 범위에 대한 명확한 기준 부재로 향후 국제 분쟁의 소지가 있음</p></div>`,
+      tags: ["autonomous vessels","unmanned surface vehicles","naval warfare","RIMPAC exercise"],
+      link: "https://www.navalnews.com/naval-news/2026/07/u-s-navy-deploys-ukraine-style-kamikaze-sea-drones-during-pacific-sinkex/",
+      coords: [-157.5,20.8],
+      location: "Hawaii, Pacific Ocean"
+    }
+  ]
+});
+
+// Auto-collected: 2026-07-26
+addEvents({
+  "2026-07-26": [
+    {
+      type: "news",
+      title: "Royal Navy Tests Autonomous Robotic Boat with Self-Launching Drone System",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-07-26",
+      image: "https://defence-blog.com/wp-content/uploads/2026/07/DB_image_1842.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 영국 해군이 완전 자율화된 무인선박(USV)과 자체 발사/회수 드론 시스템을 통합한 해상 로봇 시스템 시연 완료<br>• ACUA Ocean(영국 해양로봇 회사)과 Teledyne FLIR Defense(미국 센서/드론 제조사)가 UK 국방부 자금 지원으로 개발·시험<br>• USV Pioneer는 Lloyd's Register 인증을 받은 영국 최초의 원격 조종 무인선박으로, SkyCarrier 자동 발사/착륙 플랫폼과 SkyRanger R70 드론을 탑재<br>• 테더(전력/데이터 케이블) 방식으로 지속적인 무중단 항공 감시 실현 가능 - 배터리 충전 대기 시간 제거<br>• NVIDIA 프로세서 기반 실시간 AI 객체 탐지/분류 기능으로 해양 감시 능력 극대화<br>• 영국 국방혁신(UKDI) 프로그램을 통한 초기 단계 기술 개발로 향후 대규모 조달 가능성 제시</p><h3>Key Quotes</h3><p>• "An unmanned boat has launched a drone into the air over open ocean, all without a single person on board either vehicle" (무인선박이 어떤 인원도 탑승하지 않은 상태에서 해상에서 드론을 발사했으며, 양쪽 모두 완전 자동화된 운영 달성)</p><p>• "The result is persistent, continuous aerial surveillance that does not need to pause for the drone to land and recharge, a limitation that has constrained tethered and untethered drones alike for years" (테더 방식으로 지속적 전력 공급받아 무중단 항공 감시 가능하며, 기존 드론의 배터리 충전 대기 문제 해결)</p><h3>Technical Insights</h3><p>• **테더드 UAS(T-UAS) 기술의 해양 적용**: 전력 및 데이터 케이블을 통한 드론 전원 공급으로 배터리 제약 극복 - 해양 장거리 감시 임무에 혁신적 개선<br>• **엣지 AI(Edge AI) 통합**: 드론에 탑재된 NVIDIA 프로세서를 통한 실시간 물체 탐지/분류 - 해양 교통관리(VTS) 및 자율항행 COLREG 준수 기술에 직결<br>• **무인화 해양 운영**: USV Pioneer의 Lloyd's Register 인증은 자율선박의 국제 기준 수립 선례로, IMO 자율선박 규정 개발에 참조 가능한 사례 제시<br>• **국방-민간 이중용도 기술**: UKDI 지원으로 초기 단계에서 소규모 업체 육성 - 향후 상선의 자율 감시, 해상 보안, 해양 환경 모니터링 등 광범위한 산업 적용 가능성</p></div>`,
+      tags: ["autonomous vessels","unmanned systems","drone technology","UK Ministry of Defence","maritime robotics"],
+      link: "https://defence-blog.com/royal-navy-tests-a-robotic-boat-that-flies-its-own-drone/",
+      coords: [0,0],
+      location: "United Kingdom (open ocean)"
+    }
+  ]
+});
+
+// Auto-collected: 2026-07-27
+addEvents({
+  "2026-07-27": [
+    {
+      type: "accident",
+      title: "Iran Vows Response to Ukrainian Attack on Commercial Vessel in Caspian Sea",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-27",
+      image: "https://images.marinelink.com/images/maritime/w800/peter-hermes-172486.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 우크라이나의 카스피해 공격으로 이란 상선 피격, 선원 1명 사망·1명 부상<br>• 이란 외무장관 아라그치가 EU·러시아와 통화하며 "답변 없이 넘어갈 수 없다" 성명 발표<br>• 러시아 라브로프 외무장관이 사망자에 대해 애도의 뜻 표현 및 러시아 아스트라한 지역 당국의 승무원 지원에 감사<br>• 사건은 아스트라한에서 출발한 이란 상선에서 발생하였으며 폭발로 인한 피해 기록<br>• 이란, 중동 긴장 완화를 위한 외교적 노력 계속 추진 의지 표명</p><h3>Key Quotes</h3><p>• "cannot go unanswered" (답변 없이 넘어갈 수 없다는 이란의 강한 대응 의사 표현)<br>• "put an end to such adventures by the Kyiv regime" (키이우 정권의 이러한 무모한 행동을 중단시킬 필요가 있다는 러시아의 비판)</p><h3>Technical Insights</h3><p>• **해상 분쟁 심화**: 카스피해에서의 군사적 공격은 상선의 보안 위험을 증대시키고 COLREG(국제해상충돌방지규칙) 준수의 필요성 재강조<br>• **지역 불안정성**: 전쟁 지역 인접 해역에서의 민간 상선 피격은 국제해운의 자유로운 항행권 침해로, IMO의 보안 기준 강화 필요<br>• **외교적 영향**: 이란의 보복 의사는 중동 해역의 운송 위험도를 높이고 글로벌 해운 보험료 상승 가능성 야기<br>• **해상 안전 규제**: 분쟁 해역 통과 선박의 보험, 경로 설정, 안전 프로토콜 강화 등 국제해운 규제 개정 필요성 증대</p></div>`,
+      tags: ["Caspian Sea","Iranian vessel","attack","casualty","geopolitical"],
+      link: "https://www.marinelink.com/news/iran-vows-response-ukrainian-attack-541534",
+      coords: [51.5,44.3],
+      location: "Caspian Sea"
+    }
+  ]
+});
