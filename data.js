@@ -12317,3 +12317,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-26
+addEvents({
+  "2026-07-26": [
+    {
+      type: "accident",
+      title: "Vietnamese Cargo Vessel Khoi Nguyen 18 Sinks in South China Sea; 17 Missing",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-07-26",
+      image: "https://gcaptain.com/wp-content/uploads/2020/08/150521-N-NO101-150.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **사건 개요**: 베트남 등록 화물선 Khoi Nguyen 18호가 남중국해 파이어리 크로스 리프 인근에서 침몰, 탑승 62명 중 17명 실종</p><p>• **구조 현황**: 중국 구조선 Nanhai Jiu 115호가 토요일 저녁 조난 신호를 발견했으며, 중국과 베트남이 협력하여 현재까지 45명 구조 완료</p><p>• **선박 정보**: 전장 약 70m, 총톤수 999톤의 베트남 등록 화물선</p><p>• **구조 활동**: 중국 구조선 2척과 구조 헬기 1대가 실종자 17명의 수색 중</p><p>• **지역 분쟁**: 사건 발생 지역이 중국(남사군도)과 베트남, 필리핀, 대만, 말레이시아, 브루나이 간 영토 분쟁 지역인 스프래틀리 군도 내</p><p>• **국제 협력**: 베트남 외교부가 중국의 신속한 구조 지원에 감사 표시</p><h3>Key Quotes</h3><p>• "Vietnam deployed search and rescue operations, with the support of Chinese search and rescue forces and ships near the area" (베트남이 근처 중국 구조대와 선박의 지원을 받아 수색 및 구조 활동을 전개했음)</p><p>• "Chinese authorities said the cargo vessel Khoi Nguyen 18, with 62 Vietnamese nationals aboard, ran into distress in waters near Fiery Cross Reef" (중국 당국은 베트남인 62명을 탑승한 화물선이 파이어리 크로스 리프 인근에서 조난했다고 발표)</p><h3>Technical Insights</h3><p>• **해역 관리 및 안전성**: 스프래틀리 군도 분쟁 지역의 안전 인프라 부족 및 해상 교통 통제 체계의 미흡으로 인한 해난 사고 위험 증가</p><p>• **국제 협력 필요성**: 남중국해의 영토 분쟁 지역에서도 인도주의적 해상 구조 활동에 대한 국제 협력의 중요성 입증</p><p>• **선박 안전 기준**: 70m 규모의 소형 화물선에 대한 기상 악화 대응 능력 및 구명 장비 충분성 검증 필요</p></div>`,
+      tags: ["Sinking","South China Sea","Search and Rescue","Vessel Distress"],
+      link: "https://gcaptain.com/17-missing-after-vietnamese-vessel-sinks-in-south-china-sea/",
+      coords: [111.5,9.5],
+      location: "Fiery Cross Reef, South China Sea (Spratly Islands)"
+    },
+    {
+      type: "accident",
+      title: "Cargo Vessel Golden Leo Sinks Off Odesa After Russian Attack",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-07-26",
+      image: "https://gcaptain.com/wp-content/uploads/2026/07/2026-07-23T141438Z_1013907566_RC22HMAZOHZY_RTRMADP_3_UKRAINE-CRISIS-PORTS-AGRICULTURE.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 기니비사우 국기의 화물선 Golden Leo호가 흑해 오데사 항 인근에서 침몰. 러시아의 공격으로부터 일주일 후 발생.</p><p>• **공격 및 피해**: 선박이 7월 19일 러시아군의 포격으로 큰 피해를 입었으며, 침몰 당시 승무원 9명 사망, 8명 구조됨.</p><p>• **적재 화물 및 운항 상황**: 우크라이나 초르노모르스크 항에서 출발한 옥수수 화물 운반선이 루마니아 방향 우크라이나 관할 회랑을 통해 항해 중 피격.</p><p>• **국제 법 위반**: 우크라이나 항만청은 러시아의 공격이 국제 해양법 규범 위반이며 승무원의 생명을 위협했다고 성명.</p><p>• **전쟁 상황**: 러시아의 우크라이나 남부 심수항에 대한 공격이 최근 증가 추세이며, 전쟁 5년차에 곡물 및 주요 화물 운송이 지속되고 있음.</p><h3>Key Quotes</h3><p>• "The Golden Leo, sailing under a Guinea-Bissau flag, had sunk near the port" (기니비사우 국기 선박 Golden Leo호가 항만 인근에서 침몰했음)</p><p>• "Russian action against the ship 'violated the norms of international maritime law' and endangered the lives of crew" (러시아의 공격이 국제 해양법 규범을 위반하고 승무원의 생명을 위협했음을 의미)</p><p>• "Russia has stepped up attacks in recent weeks on deepwater ports in southern Ukraine that handle much of the country's grain and other critical cargo" (러시아가 최근 몇 주간 우크라이나 남부 심수항에 대한 공격을 강화했으며, 이들 항구는 국가 곡물 및 주요 화물의 대부분을 취급함)</p><h3>Technical Insights</h3><p>• **해상법 위반 사례**: 무장 분쟁 지역에서도 상선 및 민간 해상 교통에 대한 국제 해양법 규범 준수 의무가 있으며, 이번 사건은 UNCLOS 및 IMO 규약 위반에 해당할 가능성이 높음.</p><p>• **해상 운송로 안전성**: 우크라이나의 흑해 회랑(Black Sea Corridor)은 글로벌 식량 안보에 필수적인 운송로이며, 무장 분쟁으로 인한 상선 피격은 국제 해상 통상에 심각한 위협을 야기.</p><p>• **승무원 안전 및 인도주의**: 선박 공격 시 승무원 보호 의무는 국제 해양법의 핵심 원칙이며, 다국적 승무원 사망 사건은 IMO의 해양 안전 및 인도주의 위반으로 평가됨.</p><p>• **전쟁 시 민간 선박 보호**: 해상 분쟁 지역에서 민간 화물선의 안전 통항 보장이 필수적이며, 국제사회의 해상 통로 보호 메커니즘 강화가 요구되는 상황.</p></div>`,
+      tags: ["vessel sinking","armed conflict","Ukraine","Black Sea","casualties"],
+      link: "https://gcaptain.com/vessel-sinks-a-week-after-being-struck-by-russian-fire/",
+      coords: [30.2,46.48],
+      location: "Odesa, Black Sea, Ukraine"
+    },
+    {
+      type: "accident",
+      title: "Vietnamese Cargo Vessel Sinks in South China Sea; 17 Missing, 45 Rescued",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-27",
+      image: "https://images.marinelink.com/images/maritime/w800/source-social-172484.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 베트남 등록 화물선 '코이 응우옌 18호'가 남중국해 파이어리 크로스 리프(중국명: 난샤 제도) 인근 해역에서 침몰<br>• **인원 현황**: 탑승 인원 62명 중 45명 구조, 17명 실종 상태로 수색 중<br>• **구조 경위**: 중국 해양 구조선 '난하이 지우 115호'가 토요일 저녁 조난 신호를 감지하고 구조 작전 전개<br>• **선박 사양**: 총톤수 999톤, 길이 약 70m의 중소형 화물선<br>• **국제협력**: 베트남과 중국이 공동으로 수색 및 구조 작업 진행 중<br>• **분쟁 해역**: 남중국해 스프래틀리 제도(난샤 제도) 내 영토 분쟁 지역에서의 사고</p><h3>Key Quotes</h3><p>• "Two rescue vessels and one rescue helicopter are searching for the 17 people still missing." (2척의 구조선과 1대의 구조 헬리콥터가 실종된 17명을 수색 중)<br>• "Vietnam deployed search and rescue operations, with the support of Chinese search and rescue forces and ships near the area," (베트남은 인근 해역의 중국 해양 구조 자산의 지원을 받아 수색 및 구조 작업을 전개)<br>• "The area around the reef is part of the disputed Spratly Islands, which China calls the Nansha Islands" (이 해역은 영토 분쟁이 있는 스프래틀리 제도(중국명: 난샤 제도)의 일부)</p><h3>Technical Insights</h3><p>• **항해 안전성**: 남중국해 분쟁 해역의 복잡한 해상 환경과 거대한 산호초 구조로 인한 항해 위험도 증가 및 조난 상황에서의 신속한 대응 필요성 부각<br>• **국제 협력 체계**: 해사 안전 문제에 있어 정치적 분쟁 지역에서도 베트남-중국 간 실질적 해양 구조 협력이 진행되는 점은 IMO 국제 해사안전 규약의 인도주의적 가치 실현 사례<br>• **조난 신호 및 수색 능력**: 중국의 효율적인 조난 신호 감지 및 광범위한 수색 자산 배치(헬리콥터, 다중 구조선)는 해역 내 해사 안전 인프라의 중요성을 강조<br>• **선박 크기와 위험성**: 999톤급 소형 화물선의 침몰 사고는 남중국해 분쟁 해역에서 운영되는 중소형 상선들의 기상 및 환경적 취약성 노출</p></div>`,
+      tags: ["vessel sinking","maritime rescue","South China Sea","cargo ship"],
+      link: "https://www.marinelink.com/news/rescuers-search-survivors-vessel-sinks-541531",
+      coords: [111.6,9.55],
+      location: "Fiery Cross Reef, South China Sea"
+    },
+    {
+      type: "accident",
+      title: "General Cargo Vessel Golden Leo Sinks Off Odesa After Russian Attack",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-27",
+      image: "https://images.marinelink.com/images/maritime/w800/oleksandra-adobe-172483.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 기니비사우 국기 일반화물선 Golden Leo가 우크라이나 흑해 오데사 앞 해상에서 침몰 - 러시아의 포격 공격 1주일 후 발생</p><p>• 해당 선박은 7월 19일 러시아군의 포격으로 심각한 손상을 입었으며, 우크라이나가 관리하는 해상 회랑을 통해 로마니아로 향하던 중 공격받음</p><p>• 선박에 탑승한 17명의 승무원 중 9명이 사망, 8명이 안전하게 대피함</p><p>• 선박은 초르노모르스크 항에서 옥수수 화물을 싣고 출항했으며, 우크라이나 항만청은 러시아의 공격이 국제해사법 위반이라고 성명</p><p>• 러시아는 우크라이나의 곡물 및 주요 화물을 처리하는 남부 지역 심수항에 대한 공격을 최근 몇 주간 강화한 상태 - 전쟁 5년차</p><h3>Key Quotes</h3><p>• "The Golden Leo, sailing under a Guinea-Bissau flag, had sunk near the port" (기니비사우 국기로 항해 중이던 Golden Leo 선박이 항만 인근에서 침몰)</p><p>• "Russian action against the ship violated the norms of international maritime law and endangered the lives of crew" (러시아의 해당 선박에 대한 공격은 국제해사법의 규범을 위반하고 승무원의 생명을 위협함)</p><p>• "Russia has stepped up attacks in recent weeks on deepwater ports in southern Ukraine that handle much of the country's grain and other critical cargo" (러시아가 우크라이나 남부의 곡물 및 주요 화물을 처리하는 심수항에 대한 공격을 최근 몇 주간 강화)</p><h3>Technical Insights</h3><p>• **국제해사법 위반**: 러시아의 민간 화물선 공격은 국제해사법 및 IMO 해상안전 규정을 심각하게 위반하며, 전쟁 중에도 민간 해운 안전을 보호해야 한다는 국제해사법의 기본 원칙을 침해함</p><p>• **해상 회랑 안전 문제**: 우크라이나가 관리하는 해상 회랑(grain corridor)은 국제적으로 보호받는 항로로서, 이를 통과하는 선박에 대한 공격은 국제적 항의를 야기할 수 있으며, 향후 해상 운송 안전에 심각한 영향을 미칠 수 있음</p><p>• **해운업계 연쇄 영향**: 흑해 지역의 지속적인 공격은 화물선의 재항해 회피, 보험료 인상, 운송 비용 증가 등으로 이어져 국제 곡물 시장과 글로벌 해운 산업에 악영향을 미치고 있음</p><p>• **선박 손상 및 구조 한계**: 포격으로 인한 심각한 손상은 선박의 즉각적인 수리 능력 부족 및 응급 대응 체계의 한계를 드러내며, 전쟁 지역 해운에서의 구조 및 안전 조치의 강화 필요성을 제시함</p></div>`,
+      tags: ["sinking","maritime casualty","armed conflict","Black Sea","Ukraine"],
+      link: "https://www.marinelink.com/news/vessel-sinks-week-struck-russian-fire-541530",
+      coords: [30.2266,46.4242],
+      location: "Black Sea, off Odesa, Ukraine"
+    }
+  ]
+});
