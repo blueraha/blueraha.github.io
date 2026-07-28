@@ -12429,3 +12429,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-27
+addEvents({
+  "2026-07-27": [
+    {
+      type: "news",
+      title: "Alaska-based Sitkana to test prototype tidal turbine at Massachusetts test site",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-07-27",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/07/Screenshot_1-3.jpg?image-crop-positioner-ts=1785156606",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Alaska 기반 Sitkana사가 Massachusetts의 Bourne Tidal Test Site(BTTS)에서 신규 프로토타입 조류발전 터빈 배치 예정<br>• Cape Cod Canal의 강한 조류 환경에서 성능, 안정성, 내구성 평가를 통해 상용화 단계로의 진전 추구<br>• 모듈형 소규모 유닛을 결합하여 대규모 인프라나 특수 설치장비 없이 확장 가능한 기술 적용<br>• Marine Renewable Energy Collaborative(MRECo)가 Massachusetts Clean Energy Center 지원으로 BTTS 인프라 강화 완료<br>• 원격지역에서의 용이한 구축, 배치, 유지보수를 목표로 야생동물과의 상호작용 등 실해양 환경 데이터 수집</p><h3>Key Quotes</h3><p>• "Our goal is to make marine energy easier to build, deploy, and maintain in remote areas. BTTS is one of the few places where we can evaluate our entire system in one location." (원격지역에서 해양에너지의 구축, 배치, 유지보수를 용이하게 하는 것이 목표이며, BTTS는 전체 시스템을 한 장소에서 평가할 수 있는 몇 안 되는 장소)</p><p>• "Beyond measuring power performance, we'll be able to observe operation in a real marine environment and better understand interactions with wildlife." (발전 성능 측정을 넘어 실제 해양환경에서의 운영을 관찰하고 야생동물과의 상호작용을 더 잘 이해할 수 있음)</p><h3>Technical Insights</h3><p>• 모듈식 소규모 터빈 구조를 통해 대형 기반시설 투자 없이 점진적 확장 가능한 해양신재생에너지 시스템의 새로운 패러다임 제시<br>• Cape Cod Canal과 같은 고에너지 조류지역에서의 실해양 데이터 수집은 향후 조류발전 터빈의 설계 최적화 및 신뢰성 향상에 필수적<br>• 원격 해양지역에서의 유지보수 용이성 강화는 북극 또는 외해 재생에너지 개발 확대에 중요한 산업적 기여 가능성</p></div>`,
+      tags: ["Tidal Energy","Renewable Energy","Marine Technology","Prototype Testing"],
+      link: "https://www.offshore-energy.biz/alaska-made-prototype-tidal-turbine-to-be-tested-in-massachusetts/",
+      coords: [-71.8153,41.7658],
+      location: "Cape Cod Canal, Massachusetts, USA"
+    },
+    {
+      type: "news",
+      title: "Houthis Aim to Replicate Iran's Hormuz Strategy in Red Sea, Disrupting Bab el-Mandeb Shipping",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-27",
+      image: "https://images.marinelink.com/images/maritime/w800/sergey-fedoskin-172513.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 예멘 훌시 운동이 이란의 호르무즈 해협 통제 전략을 홍해의 바브엘만데브 해협에서 복제하려고 시도 중이며, 국제사회의 부족한 대응으로 강화되고 있음</p><p>• 예멘 외교부 장관 대리 아프라 알주바는 이 전략이 걸프만과 홍해의 진입로인 두 개의 주요 해협을 폐쇄할 것이라고 경고</p><p>• 훌시는 미사일과 드론으로 사우디아라비아를 공격하고 사우디 해운에 대한 봉쇄를 선언하며 고조된 전술 추구 중</p><p>• 사우디아라비아는 훌시 군사시설에 대한 공습으로 대응하고 상업 해운 보호를 약속했으며, 훌시가 외부 세력의 이익을 대변한다고 비난</p><p>• 2022년 휴전 이후 상황이 악화되고 있으며, 국제 외교관과 예멘 관료들은 전면전으로의 복귀 가능성이 과거 어느 때보다 높다고 평가</p><p>• 해운 관련 지정학적 위험이 크게 증가할 것으로 예상되며, 국제 해역 통과 비용과 보험료 상승 우려</p><p>---</p><h3>Key Quotes</h3><p>• "The Houthis want to copy the Iranian model and this will shut down two main straits, the gateways into the Gulf and Red Sea," (훌시가 이란 모델을 모방하려고 하며, 이는 걸프만과 홍해의 진입로인 두 개의 주요 해협을 폐쇄할 것이다)</p><p>• "We think that this conflict now needs to come to an end, either via peaceful means, or the other way," (우리는 이 분쟁이 평화적 수단 또는 다른 방식으로든 끝나야 한다고 생각한다)</p><p>---</p><h3>Technical Insights</h3><p>• **해운 통로 차단 위험**: 바브엘만데브 해협은 홍해-인도양 연결의 중요한 해상교통로이며, 훌시의 봉쇄 시도는 국제 해운 비용과 위험도를 급증시킬 수 있음</p><p>• **지정학적 영향**: 이란의 호르무즈 해협 통제 전략 모방은 중동 해역에서의 통제 능력 경쟁 심화를 의미하며, IMO 해운안전 규정 준수 어려움 증가</p><p>• **상업 해운 보호의 필요성**: 사우디 주도의 다국적 해상 보호 연합 강화 필요하며, AIS 추적 및 해상 보안 프로토콜 재검토 필수</p><p>• **산업 리스크 관리**: 선사들의 항로 변경 (아프리카 남단 우회), 보험료 상승, 선박 운항 속도 증가에 따른 연료비 상승으로 글로벌 해운 비용 구조 변화 예상</p></div>`,
+      tags: ["Houthis","Red Sea","Bab el-Mandeb","Shipping Disruption","Geopolitical Risk","Iran Strategy"],
+      link: "https://www.marinelink.com/news/houthis-model-irans-hormuz-control-red-sea-541564",
+      coords: [43.5,12.5],
+      location: "Bab el-Mandeb / Red Sea"
+    }
+  ]
+});
