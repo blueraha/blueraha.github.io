@@ -12461,3 +12461,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2025-07-28
+addEvents({
+  "2025-07-28": [
+    {
+      type: "accident",
+      title: "Tugboat Captain Pleads Guilty in Fatal Biscayne Bay Collision That Killed Three Children",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2025-07-28",
+      image: "https://gcaptain.com/wp-content/uploads/2025/07/250728-G-HW752-1001.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 2025년 7월 28일 비스케인 만에서 예인선(tuguboat)이 항해 캠프 학생들이 탄 범선과 충돌하여 어린이 3명이 익사한 사건 발생</p><p>• **피고인 및 혐의**: 유시엘 로페즈 인수아(Yusiel Lopez Insua, 46세) 예인선 선장이 연방 해양 과실치사죄(federal seaman's manslaughter)에 유죄 인정</p><p>• **사고 원인**: 시야 차단된 상태에서 전담 감시원(lookout) 미배치, 항해 중 휴대폰 사용, 기본 해양안전규칙 미준수</p><p>• **피해 현황**: 108피트 건설 부잔과 범선 충돌로 인해 어린이 3명이 선체 아래 갇혀 익사, 1명의 상담사와 2명의 어린이는 탈출</p><p>• **조사 결과**: 법의학적 분석으로 사고 발생 시점 또는 그 근처에서 휴대폰 인터넷 활동 확인</p><h3>Key Quotes</h3><p>• "Three children lost their lives in a tragedy that never should have happened. Yusiel Lopez Insua operated a tugboat pushing a massive barge with an obstructed view, failed to assign a lookout, and engaged in cellphone activity while underway." (세 명의 어린이가 발생하지 말았어야 할 비극으로 목숨을 잃었다. 유시엘 로페즈 인수아는 시야가 차단된 상태에서 대형 부잔을 밀어 예인선을 운항하고, 감시원 배치를 태만히 하며, 항해 중 휴대폰을 사용했다.)</p><p>• "The tragic loss of life in this case is a solemn reminder of why the U.S. Coast Guard stands the watch every day. From inspections and investigations to search and rescue, education and outreach, and partnerships across all levels of government, our mission is clear: to ensure every vessel operating in our waters is safe, legal, and prepared." (이 사건의 비극적인 인명 손실은 미국 해안경비대가 매일 경계를 유지하는 이유를 엄숙히 상기시킨다.)</p><h3>Technical Insights</h3><p>• **기본 해양안전규칙 위반의 심각성**: 시야 차단 상황에서 COLREG 및 해양 관습법상 필수적인 전담 감시원(lookout) 배치 의무를 이행하지 않은 것은 예방 가능한 사고를 초래한 중대 과실에 해당</p><p>• **선교 자동화와 인적 감시의 필수성**: 크레인 및 갑판 구조물로 인한 시야 제약이 있는 선박에서는 고급 감시 기술(ARPA, AIS)과 함께 경험 있는 감시원의 물리적 배치가 생명 안전을 위해 필수적임을 재확인</p><p>• **휴대폰 사용과 항해 안전**: 항해 중 휴대폰 인터넷 활동이 선장의 주의 분산(distracted navigation)을 초래하며, IMO 권고안 및 미국 해안경비대 지침에서 금지하는 행위로 해양 안전 표준의 핵심 위반 사항</p><p>• **해양 산업 규제 강화 필요성**: 본 사건은 부잔 운항, 소형 예인선의 안전 검사 및 승무원 배치 기준에 대한 규제 강화 필요성을 드러내며, 특히 혼잡한 연안 해역에서의 안전 관리 체계 개선이 시급함을 시사</p></div>`,
+      tags: ["maritime accident","collision","fatality","seaman's manslaughter","Biscayne Bay","safety violation"],
+      link: "https://gcaptain.com/tugboat-captain-pleads-guilty-in-fatal-biscayne-bay-collision-that-killed-three-children/",
+      coords: [-80.1918,25.7617],
+      location: "Biscayne Bay, Miami, Florida"
+    }
+  ]
+});
