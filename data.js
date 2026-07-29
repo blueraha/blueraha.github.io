@@ -12481,3 +12481,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2025-10-14
+addEvents({
+  "2025-10-14": [
+    {
+      type: "accident",
+      title: "Man overboard from bulk carrier World Prize - fatality near Rönnskär, Sweden",
+      source: "MAIB (Marine Accident Investigation Branch)",
+      sourceMeta: "gov.uk · 2026-07-28",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사고 개요**: 2025년 10월 14일 스웨덴 Rönnskär 부근에서 몰타 등록 벌크선 World Prize의 보즌이 파일럿 래더 준비 중 주갑판에서 추락하여 사망</p><p>• **사고 원인**: 파일럿 래더 설치 시 안전하지 않은 절차가 상규화되었고, 갑판 가장자리 근처에서 작업하는 승무원이 적절한 개인보호장비를 착용하지 않음</p><p>• **감독 및 관리 부실**: 허용 작업 절차(Permit to Work)의 위험 완화 조치가 엄격히 준수되지 않았으며, 현장 감독이 비효과적으로 이루어짐</p><p>• **안전문화 결함**: World Prize의 안전 문화가 실질적 위험관리보다는 규정 준수의 문서화에 중점을 두고 있었음</p><p>• **구조 시도 및 결과**: 스웨덴 해사청의 파일럿 보트 Pilot 753 SE가 구조를 시도했으나 실패했으며, 보즌의 시신은 다음날 해저에서 회수됨</p><p>• **구조 능력 부족**: 파일럿 보트 승무원들의 장비 숙련도 부족과 수중 의식불명자 회수 절차 훈련 미흡으로 구조 능력 제한</p><h3>Key Quotes</h3><p>• "The unsafe procedure used when rigging the pilot ladder on board World Prize had become normalised practice." <br>(World Prize에서 파일럿 래더 설치 시 사용된 안전하지 않은 절차가 상규화된 관행이 되어 있었음)</p><p>• "The safety climate on board World Prize resulted in an emphasis on the documentation of compliance rather than the effective management of risk."<br>(World Prize의 안전 문화는 효과적인 위험관리보다는 규정 준수의 문서화에 중점을 두고 있었음)</p><p>• "The local supervision of the rigging of the pilot ladder on World Prize was ineffective in ensuring it was conducted in a safe manner, and no-one present intervened to stop the unsafe work as it progressed."<br>(파일럿 래더 설치의 현장 감독이 안전한 수행을 보장하기에 부족했고, 현장 누구도 진행 중인 안전하지 않은 작업을 중단시키려 개입하지 않음)</p><h3>Technical Insights</h3><p>• **개인보호장비(PPE) 관리**: 갑판 가장자리 작업 시 추락방지 장비 미착용으로 인한 구조적 위험 - 국제해사기구(IMO)의 해양안전 가이드라인 강화 필요</p><p>• **파일럿 래더 안전 절차**: 항만 진출입 시 파일럿 래더 설치는 높은 위험도 작업이나, 반복적 관행화로 인한 안전 감수성 저하 - 각 항차마다 위험평가(JSA) 재실시 권장</p><p>• **선상 안전문화 개선**: 규정 준수의 형식적 문서화가 아닌 실질적 위험관리 중심의 안전 철학 필요 - 경영진의 적극적 안전 리더십과 현장 감독의 강화</p><p>• **구조 역량 강화**: 파일럿 보트의 수상 구조 장비 및 응급 대응 훈련 표준화 - IMO SOLAS 규정에 따른 정기적 구조 훈련 및 장비 점검 의무화</p></div>`,
+      tags: ["Man Overboard","Fatality","Bulk Carrier","Pilot Ladder","Sweden","Safety Procedures"],
+      link: "https://www.gov.uk/maib-reports/man-overboard-from-the-bulk-carrier-world-prize-with-the-loss-of-1-life",
+      coords: [20.6667,65.5],
+      location: "Rönnskär, Sweden (3.5 nm ESE)"
+    }
+  ]
+});
+
+// Auto-collected: 2026-07-28
+addEvents({
+  "2026-07-28": [
+    {
+      type: "news",
+      title: "Bureau Veritas Approves Seatrium's 30MW Floating Data Center Concept",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-28",
+      image: "https://images.marinelink.com/images/maritime/w800/credit-seatrium-172527.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **Seatrium, Bureau Veritas로부터 30MW 부유식 데이터센터 원칙적 승인(AiP) 획득** - 해상 디지털 인프라 개발의 획기적 이정표 달성</p><p>• **6개의 독립형 5MW Data-In-A-Box 모듈 통합 설계** - IT장비, 냉각시스템, 전력배분, 지원인프라를 모듈화하여 구성</p><p>• **해수 자연냉각 및 자체 전력생성 활용** - 에너지 효율성과 지속가능성을 결합한 혁신적 오프쇼어 솔루션</p><p>• **100MW 이상 규모 개발 진행 중** - 해안 시장의 토지, 전력, 냉각 제약 해결을 위한 하이퍼스케일 배포 목표</p><p>• **Singapore Maritime Week 시 MOU 체결** - Bureau Veritas와 오프쇼어 전력 및 디지털 기술 발전을 위한 전략적 협력 추진</p><h3>Key Quotes</h3><p>• "Floating data centers demonstrate how maritime expertise can support the growing demand for resilient and sustainable computing capacity." <br>(해양 전문성이 탄력적이고 지속가능한 컴퓨팅 용량 수요를 어떻게 지원할 수 있는지 보여줌)</p><p>• "Floating data centers are a natural extension of Seatrium's decades of expertise in delivering complex offshore and marine assets."<br>(부유식 데이터센터는 Seatrium의 복잡한 오프쇼어 및 해양 자산 공급 경험을 자연스럽게 확장한 것)</p><h3>Technical Insights</h3><p>• **AiP(Approval in Principle) 의의** - 국제해사기구(IMO) 및 분류사 규정에 부합하는 오프쇼어 디지털 인프라의 기술적 타당성 검증으로 규제 신뢰도 확보</p><p>• **모듈식 설계와 확장성** - 5MW 단위 독립모듈 구성으로 30MW에서 100MW 이상까지 유연한 확장이 가능하며, 하이퍼스케일 클라우드/AI 인프라 요구에 대응</p><p>• **해양 자산과 디지털 산업의 융합** - 선박건조/해양엔지니어링 기술을 데이터센터 운영에 적용하여 기존 조선/해양산업의 새로운 비즈니스 기회 창출</p><p>• **탄소중립 및 지속가능성** - 자연냉각 활용으로 에너지소비 감소 및 육상 데이터센터 부지 압박 완화로 ESG 목표 달성 지원</p></div>`,
+      tags: ["Floating Data Center","Bureau Veritas","Offshore Infrastructure","AI Computing","Maritime Technology"],
+      link: "https://www.marinelink.com/news/bureau-veritas-gives-blessing-seatriums-541582",
+      coords: [0,0],
+      location: "Global/Offshore"
+    }
+  ]
+});
