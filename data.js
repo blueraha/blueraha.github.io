@@ -12519,3 +12519,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-28
+addEvents({
+  "2026-07-28": [
+    {
+      type: "accident",
+      title: "Explosion and Fire Aboard Norwegian Chemical Tanker Bergstraum Off Fredrikstad",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-07-28",
+      image: "https://gcaptain.com/wp-content/uploads/2026/07/758117964_4461559317505891_6889239291924156936_n.png.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 노르웨이 화학탱커 베르그스트롬(Bergstraum)호가 프레데릭스타드 인근 정박지에서 폭발 및 화재 발생 (2026년 7월 28일)<br>• **선박 정보**: 9,500톤급 이중 선체 화학탱커, 1996년 건조, DNV 선급, 우틸렌(Utkilen AS) 회사 관리<br>• **피해 상황**: 선원 15명 전원 안전 확보, 인명 피해 없음, 환경 오염 미발생, 화물 누출 없음<br>• **대응 체계**: 노르웨이 해양구조단체(Redningsselskapet), 경찰, 해안경비, 스웨덴 구조팀, 구조헬기 등 다국가 연합 대응<br>• **후속 조치**: 선사의 선상 및 육상 긴급 팀이 상황 안정화 진행 중, 원인 규명을 위한 내부 조사 실시 예정</p><h3>Key Quotes</h3><p>• "On 28 July 2026, M/T Bergstraum experienced a small fire onboard which is now extinguished. There have been no reported personal injuries." (2026년 7월 28일 베르그스트롬호에서 소규모 화재가 발생했으나 현재 진화되었으며, 인명 피해는 없음)</p><p>• "Good preparedness and close cooperation across emergency services and land borders is important when something serious happens at sea." (해상에서 심각한 사건이 발생할 때 긴급 서비스 간의 충분한 대비와 국경을 넘은 긴밀한 협력이 중요함)</p><h3>Technical Insights</h3><p>• **화학탱커 안전성**: 이중 선체 구조를 갖춘 현대식 화학탱커임에도 불구하고 폭발 및 화재 발생 - 적하품 또는 기관실 관련 원인 추정, 화학물질 적재 화물의 위험성 재조명 필요</p><p>• **해상 긴급 대응 체계**: 노르웨이-스웨덴 국경 지역에서의 신속한 다국가 연합 대응으로 인명 피해 및 환경오염 최소화 - 국제 해양 협력 체계의 효율성 입증</p><p>• **선박 관리 책임**: 우틸렌 회사가 선상 및 육상 긴급 팀을 운영하며 당국과 협력하는 모습으로 선박 관리자의 적극적 역할 강조 - IMO 안전관리규칙(ISM Code) 준수의 중요성 재확인</p><p>• **원인 규명의 중요성**: 폭발의 정확한 원인이 아직 미결정 상태이므로, 내부 조사 완료 후 산업 전반의 예방 조치 및 안전 교육 강화 필요</p></div>`,
+      tags: ["Chemical Tanker","Fire","Explosion","Norway","Emergency Response","No Casualties"],
+      link: "https://gcaptain.com/explosion-fire-reported-aboard-norwegian-chemical-tanker-off-fredrikstad/",
+      coords: [10.9167,59.2167],
+      location: "Fredrikstad, Norway"
+    },
+    {
+      type: "news",
+      title: "Oman Proposes Voluntary Hormuz Transit Fee Plan to Resolve Trade Disruption",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-28",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stock-172524.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 오만이 이란과 협력하여 호르무즈 해협 통행료 자발적 납부 체계 제안 - 걸프만 국가들의 지지를 받음<br>• 미국-이스라엘의 이란 공습으로 인한 해협 폐쇄로 글로벌 석유·LNG 교역의 약 20% 차질 발생<br>• 제안 내용: 이란의 단독 통제권 배제, 해운업체의 자발적 기여금 형태로 운영 (말라카 해협 모델 참고)<br>• 미국은 전쟁 이전의 자유로운 통행 상태 복구를 요구하며 의무적 통행료 징수 반대<br>• 트럼프 대통령이 주말 공습 중단 후 이란과의 협상 진행 중이나 재개 위협 병행</p><h3>Key Quotes</h3><p>• "The system would be analogous to one in place on Asia's Strait of Malacca, where Indonesia, Malaysia and Singapore ask ships to pay voluntary contributions to fund navigation, environmental protection and search-and-rescue operations." (아시아 말라카 해협의 자발적 기여금 제도와 유사한 구조로 항해 안전, 환경보호, 구조활동 자금 조달)</p><p>• "Washington wants to return to the status quo prior to the war, when ships were able to pass freely with no payments, and says charging mandatory fees would be illegal." (미국은 전쟁 이전 무료 통행 상태로의 복귀를 원하며 의무적 통행료는 국제법 위반이라 주장)</p><h3>Technical Insights</h3><p>• **해상안전과 규제 체계의 국제화**: 호르무즈 해협의 자발적 통행료 모델은 말라카 해협 사례처럼 IMO 규제 틀 내에서 국가간 해상안전 협력의 새로운 패러다임 제시<br>• **교역로 관리의 복합성**: 글로벌 해상물동량의 20%를 통과시키는 전략적 해협의 통행료 체계 도입 시 해운업 경영 비용 및 선박 운항 경로 최적화에 미치는 영향 심대<br>• **국제해사법의 과제**: UNCLOS(해양법협약)상의 해협 통항권 원칙과 연안국의 주권 사이의 균형점 필요 - 의무적 vs 자발적 기여금의 법적 해석 중요</p></div>`,
+      tags: ["Strait of Hormuz","Iran","Oman","Shipping Regulations","Trade Routes"],
+      link: "https://www.marinelink.com/news/oman-proposes-voluntary-hormuz-transit-541577",
+      coords: [56.5,26.5],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
