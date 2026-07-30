@@ -12551,3 +12551,46 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-29
+addEvents({
+  "2026-07-29": [
+    {
+      type: "news",
+      title: "Shipping Industry Urges Protection for Civilian Seafarers Amid Escalating Maritime Threats",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-07-29",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/2026-04-24T110612Z_1811230212_RC2LVKAR61IU_RTRMADP_3_IRAN-CRISIS-IRAQ-CRUDE-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **해운업계의 긴급 성명**: 국제해운회의소(ICS)와 건화물선협회(INTERCARGO)가 중동과 흑해에서의 상선 공격 급증으로 인한 민간 해원의 안전 우려를 공식 성명을 통해 표명</p><p>• **다중 위기 상황**: 호르무즈 해협, 흑해, 홍해 등 전략적 해상로에서 5개월간 지속된 분쟁으로 인한 상선 공격이 동시다발적으로 발생</p><p>• **주요 기관 입장**: IMO 사무총장 아르세니오 도밍게즈는 민간 상선원이 자신들과 무관한 분쟁의 피해자가 되어서는 안 된다고 강조</p><p>• **국제법 준수 촉구**: 국제운송노동자연맹(ITF)을 포함한 해운관련 국제기구들이 중립적 민간 선박의 보호와 해원의 신체 안전에 대한 국제법 준수를 각국 정부와 분쟁 당사자에 요구</p><p>• **경제적·인도적 영향**: 무고한 상인선의 피해로 인한 글로벌 해상 교역 혼란과 함께, 일상적 직업 수행 중인 민간 해원들의 인명 손실이 계속되고 있는 심각한 상황</p><h3>Key Quotes</h3><p>• "Seafarers keep global trade moving. They are civilians doing their jobs. They should never be treated as military targets." (해원들은 글로벌 무역을 움직이게 하는 민간인으로서 군사 목표물로 취급되어서는 안 된다는 INTERCARGO의 주장)</p><p>• "Freedom of navigation is not negotiable. Neither is the safety of the seafarers who make global trade possible." (해상 자유항행과 글로벌 무역을 가능하게 하는 해원의 안전은 협상의 대상이 될 수 없다는 ICS 사무총장의 강경한 입장)</p><p>• "Seafarers should never become casualties of conflicts to which they are not a party." (해원은 자신이 관여하지 않은 분쟁의 피해자가 되어서는 안 된다는 IMO 사무총장의 인도주의적 호소)</p><h3>Technical Insights</h3><p>• **국제해사법의 위기**: 콜레그(COLREG)와 SOLAS 협약 등 국제해사법이 전쟁 지역에서 효과적으로 작동하지 못하고 있으며, IMO의 중재 기능 강화 필요성이 대두됨</p><p>• **해상운송 경로 재편의 필요성**: 호르무즈 해협 우회 항로 개발(예: 이라크 유전 개발을 통한 대체 수출 경로)과 같은 산업 차원의 적응이 시급하며, 이는 선박 운항 거리 증가로 인한 운영비 상승으로 이어질 수 있음</p><p>• **해원 보호와 자동화의 패러독스**: 위험한 해역에서의 민간 해원 보호 필요성 증대는 역설적으로 무인선박 및 자동화 기술 도입의 당위성을 강화할 가능성이 있으며, 이는 장기적 해원 고용 감소로 이어질 수 있는 이중적 과제를 제시</p><p>• **정보공유 및 해상안전 체계 개선**: 해역별 분쟁 상황 실시간 정보 공유, 해상교통관리(VTS) 강화, 그리고 국가 간 협력을 통한 안전 회랑(Safe Corridor) 설정 등의 기술적·제도적 개선이 필요함</p></div>`,
+      tags: ["Maritime Safety","Geopolitical Conflict","Merchant Vessels","Middle East","Black Sea","International Law"],
+      link: "https://gcaptain.com/shipping-industry-urges-protection-for-civilian-seafarers-as-global-maritime-threats-escalate/",
+      coords: [0,0],
+      location: "Middle East, Black Sea, Strait of Hormuz, Red Sea"
+    },
+    {
+      type: "event",
+      title: "35+ Experiments Test Unmanned Systems and Emerging Technologies During RIMPAC 2026",
+      source: "USNI News",
+      sourceMeta: "news.usni.org · 2026-07-29",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• RIMPAC 2026 기간 중 미국과 연합국 해군이 35개 이상의 무인시스템 및 신기술 실험을 수행하여 국가간 상호운용성을 새로운 수준으로 확대<br>• 태풍급 무인수상함(USV)을 포함한 자율 드론 배송, 3D 프린팅 선박 통합, 무인 보급선 운영 등 시연<br>• 태평양함대 부사령관 제프 자블론 중장은 실제 작전 환경에서 새로운 역량에 대한 운영자 피드백 수집의 중요성 강조<br>• 무인시스템의 실제 전술 운용 검증 및 국제 군사 협력 강화 기회 제공<br>• 자율항행 선박의 후기 보급 작전 능력 입증으로 해양 무인화 기술 발전 가속화</p><h3>Key Quotes</h3><br>• "These efforts help us understand how new capabilities fit into the fight and give operators real-world feedback early in the process" (이러한 노력들은 새로운 역량이 전투 상황에 어떻게 적용되는지 이해하고 운영자들에게 실제 환경의 피드백을 조기에 제공한다)</p><h3>Technical Insights</h3><br>• 태풍급 무인수상함(USV)을 활용한 무인 보급선 작전은 COLREG 국제해사규칙 준수 및 다국적 함대 간 자동식별장치(AIS) 통신 표준화의 중요성을 입증<br>• IMO 해양자율선박 규정 개발에 직접적인 운영 데이터 제공으로 국제 해양 자동화 표준 수립에 기여<br>• 선박 3D 프린팅과 자율 드론 배송 통합은 원격 해역 작전 지속성 강화 및 후방 보급선 운영 인원 감축 가능성을 제시하여 미래 해군 운영 개념 혁신</p></div>`,
+      tags: ["RIMPAC","Unmanned Systems","Autonomous Vessels","Naval Exercise","Interoperability"],
+      link: "https://news.usni.org/2026/07/29/more-than-35-experiments-test-unmanned-systems-emerging-technologies-during-rimpac",
+      coords: [157.8581,21.3099],
+      location: "Pacific Ocean (RIMPAC Exercise Area)"
+    },
+    {
+      type: "news",
+      title: "Allseas to Install Subsea Pipeline for Prince Rupert Gas Transmission Project in Canada",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-07-29",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/07/allseas.jpg?image-crop-positioner-ts=1784889065",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Allseas가 Western LNG와 캐나다 Prince Rupert Gas Transmission (PRGT) 파이프라인의 해저 구간 설치 계약을 체결했으며, 이는 Ksi Lisims LNG 수출 시설로 천연가스를 공급하는 최종 연결 구간<br>• 브리티시 컬럼비아 북서부의 원격 해역에 위치한 약 50km 길이의 36-48인치 콘크리트 코팅 파이프라인 설치 계획<br>• 2029년 Solitaire와 Sandpiper 파이프라인 부설선박을 사용하여 수심 0-450미터 구간에서 설치 작업 예정<br>• 해안 교차, shore pull-in, 트렌칭 등 기술적으로 복잡한 작업 포함<br>• 캐나다 정부로부터 국가 이익 프로젝트로 지정되었으며, 최종 투자 결정 후 2027년 초 건설 시작 가능</p><h3>Key Quotes</h3><br>• "Allseas' scope comprises approximately 50 kilometers of 36- and 48-inch concrete-weight-coated pipeline, connecting the onshore transmission system to the planned floating LNG facility on Pearse Island" (해상 송유관 시스템을 계획된 부유식 LNG 시설과 연결하는 약 50km의 파이프라인 설치 범위)<br>• "the complex nearshore works make for a technically demanding installation campaign" (복잡한 근해 작업으로 인해 기술적으로 도전적인 설치 공사 진행)</p><h3>Technical Insights</h3><br>• 원격 지역의 얕은 수심에서의 파이프라인 부설은 고도의 정확성과 특수화된 해양 장비(Solitaire, Sandpiper)의 사용을 요구하는 기술적 난제<br>• 해양 에너지 인프라의 대규모 프로젝트에서 환경 승인 및 정부 지정이 프로젝트 추진의 중요한 촉매제 역할<br>• 부유식 LNG 시설의 확대로 인해 해상 파이프라인 설치 기술의 고도화와 전문화된 해양 시공 장비에 대한 산업 수요 증가</p></div>`,
+      tags: ["subsea pipeline installation","natural gas infrastructure","LNG export","Allseas","pipelay vessels"],
+      link: "https://www.offshore-energy.biz/canada-allseas-to-install-critical-subsea-section-of-remote-natural-gas-pipeline/",
+      coords: [-130.3,54.3],
+      location: "Prince Rupert, British Columbia, Canada"
+    }
+  ]
+});
