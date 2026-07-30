@@ -12594,3 +12594,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-29
+addEvents({
+  "2026-07-29": [
+    {
+      type: "accident",
+      title: "Russian Forces Strike Multiple Vessels Transporting Military Supplies to Ukrainian Ports",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-29",
+      image: "https://images.marinelink.com/images/maritime/w800/denis-rozhnovsky-172550.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 러시아 국방부는 우크라이나 오데사 항구로 무기와 군사장비를 운송하는 2척의 선박에 대한 공격을 발표했으며, 추가로 피브데니 항구의 선박 2척과 즈미이니 섬 북서쪽의 선박 1척도 공격했다고 주장<br>• 러시아군은 또한 오데사의 연료저장소 시설을 타격했으며, 모든 공격 대상이 우크라이나로의 군용물자 운송에 사용되고 있다고 주장 (증거 미제시)<br>• 우크라이나와 러시아는 최근 몇 주간 흑해와 아조프해 해역에서 해운에 대한 공격을 강화했으며, 이로 인해 밀 가격이 상승<br>• 로이터통신은 러시아 국방부의 보도를 독립적으로 검증할 수 없음<br>• 흑해 지역 해상 운송 안보 악화로 인한 글로벌 곡물 공급망 교란 우려</p><h3>Key Quotes</h3><br>• "Russian forces have struck two vessels carrying weapons and military equipment to Ukrainian ports near Odesa" (러시아군이 오데사 인근 우크라이나 항구로 무기와 군사장비를 운송하는 2척의 선박을 공격했다)<br>• "Russia and Ukraine have both stepped up attacks in recent weeks on shipping in the Black Sea and Sea of Azov, driving wheat prices higher" (러시아와 우크라이나가 최근 흑해와 아조프해 해역의 해운에 대한 공격을 강화하여 밀 가격을 상승시키고 있다)</p><h3>Technical Insights</h3><br>• 흑해 해역의 지정학적 긴장으로 인한 해상 운송 경로의 다변화 필요성 증대 및 선박 보험료 상승<br>• 군사 분쟁 지역 해운 안보 강화를 위한 해상 감시 체계 및 경로 회피 기술 개발의 중요성 부각<br>• 국제 해운 규범(COLREG 등)의 분쟁 지역 적용 한계 및 중립국 선박의 안전 보장 메커니즘 개선 필요</p></div>`,
+      tags: ["Black Sea","Military Conflict","Vessel Strike","Ukraine","Odesa"],
+      link: "https://www.marinelink.com/news/russia-strikes-additional-vessels-541618",
+      coords: [30.7326,46.4857],
+      location: "Odesa, Black Sea"
+    },
+    {
+      type: "news",
+      title: "US Issues New Round of Iran-Related Shipping Sanctions Targeting 10 Entities and 8 Tankers",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-29",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockrarrarorro-172551.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 미국 재무부가 이란 관련 새로운 제재를 단행하여 10개 기업과 8척의 유조선을 지정 대상으로 삼음<br>• 호르무즈 해협 통행 선박에서 보험료 등을 통해 디지털 자산을 착취하는 이란의 계획을 저지하기 위한 조치<br>• 6개 중국 소재 기업이 제재 대상에 포함되었으며, 이란의 그림자 함대(shadow fleet) 운영을 차단하려는 광범위한 전략의 일환<br>• 2026년 초 이래 OFAC이 이란 관련 선박 100척 이상을 제재해온 상황 지속<br>• 미 군부의 미사일 격격 작전과 경제 제재를 동시에 추진하는 투 트랙 전략으로 대이란 압박 강화</p><h3>Key Quotes</h3><p>• "With its economy in freefall and inflation in the triple digits, the regime is desperate for cash" (경제가 붕괴되고 인플레이션이 3자리 수를 기록하는 상황에서 이란 정권은 현금이 절실한 상태)</p><p>• "The United States will not allow Iran to hold global commerce hostage or use international shipping to finance the IRGC's terrorism, aggression, and repression" (미국은 이란이 글로벌 상거래를 인질 삼거나 국제 해운을 이란혁명수비대의 테러, 침략, 억압 자금 조달에 이용하도록 허용하지 않을 것)</p><p>• "Treasury is moving at an operational tempo, and combining military strikes with targeted sanctions could be a template for future conflicts" (재무부가 작전 속도로 움직이고 있으며, 군사 공격과 표적 제재를 결합하는 것이 향후 분쟁의 템플릿이 될 수 있음)</p><h3>Technical Insights</h3><p>• **국제 해운 제재의 진화**: OFAC의 빠른 제재 지정 속도는 국제 해운 감시 및 컴플라이언스 체계의 고도화를 시사하며, 실시간 선박 추적 및 금융 거래 모니터링 기술의 중요성 증대</p><p>• **그림자 함대와 규제**: 이란의 그림자 함대 운영 차단은 선박 식별, AIS(자동식별장치) 조작 탐지, 해운 금융 투명성 강화 등 산업 전반의 규제 강화로 이어질 가능성</p><p>• **IMO와 국제 규범**: 호르무즈 해협 같은 전략적 수역에서의 제재는 IMO 협약과 국제 해법(UNCLOS) 준수 감시를 더욱 강화할 필요성을 제기하며, 중립국 기함주의(flag state control) 강화 논의로 확대될 전망</p><p>• **자동화 및 AI 기술의 역할**: 제재 대상 선박 추적, 서류 위조 탐지, 의심 거래 패턴 인식 등에서 AI 및 머신러닝 기술의 활용 확대가 해운 업계의 디지털 전환 요구로 작용할 것으로 예상</p></div>`,
+      tags: ["Iran sanctions","Strait of Hormuz","Shadow fleet","OFAC","Shipping regulation"],
+      link: "https://www.marinelink.com/news/us-issues-new-round-iranrelated-shipping-541617",
+      coords: [56.1,26.1],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
