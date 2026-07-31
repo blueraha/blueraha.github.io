@@ -12626,3 +12626,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-30
+addEvents({
+  "2026-07-30": [
+    {
+      type: "news",
+      title: "Taiwan partners with US firm Shield AI to develop autonomous attack boats with AI navigation",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-07-30",
+      image: "https://defence-blog.com/wp-content/uploads/2026/07/DB_image_1888.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 대만의 드론 제조업체 Thunder Tiger가 미국 방위 기술 회사 Shield AI와 협력하여 AI 기반 무인 고속정 'Sea Shark' 시리즈를 개발·공개했으며, 이는 자율 네비게이션 소프트웨어 'Hivemind'를 탑재함</p><p>• Shield AI는 2015년 설립된 샌디에이고 기반 기업으로 전직 해군 특수전 장교 Brandon Tseng이 창립했으며, 미국 특수작전사령부와 공군·해병대·해군에 자율주행 기술을 공급해온 경력 보유</p><p>• Sea Shark 600과 Sea Shark 800 두 가지 크기의 무인정이 시연되었으며, GPS 신호가 약할 때도 독립적으로 항행 및 조율이 가능한 기술 적용</p><p>• Thunder Tiger와 Shield AI는 2026년 5월 양해각서(MOU)를 체결했으며, 3개월간의 협력을 통해 해상 방어 플랫폼 개발 진행</p><p>• Chen Kuan-ju 회장은 국방 예산 조성과 정부 정책 지원의 중요성을 강조하며, 대만의 해상 방어력 강화를 위한 신속한 예산 배정을 요청</p><h3>Key Quotes</h3><p>• "National budget and policy support are extremely important to industry development, and I hope for clarity as soon as possible" (국방 예산과 정부 정책 지원이 산업 발전에 매우 중요하며, 가능한 한 빨리 명확한 방향 설정을 희망함)</p><p>• "Unmanned speedboats and Taiwan's national defense security, given that the island is surrounded by sea on all sides, are especially important" (전방위로 해상으로 둘러싸인 대만의 지리적 특성상 무인 고속정과 국방 보안이 특히 중요함)</p><h3>Technical Insights</h3><p>• **Hivemind 자율주행 소프트웨어의 혁신성**: Shield AI의 Hivemind는 GPS 신호 약화 및 통신 두절 상황에서도 드론과 무인 차량이 독립적으로 기동하고 조율할 수 있는 자율주행 스택으로, IMO 자율선박 기준과 해군 작전 환경의 요구를 동시에 충족시키는 기술</p><p>• **해상 무인 체계의 군사적 의미**: 드론 기술이 현대전에 미친 영향을 목도한 대만이 무인 고속정 확보에 적극 나서고 있으며, 이는 대만해협의 해상 방위력 강화 및 자율 해상 전투 체계 구축의 신호</p><p>• **국방 산업 정책과 자율선박 발전의 연결고리**: 정부의 명확한 예산 지원과 정책 지원이 무인선박 산업 확대 속도를 결정하는 핵심 요소이며, 이는 민간 자율선박 발전 정책과도 직결되는 중요한 시사점 제공</p></div>`,
+      tags: ["autonomous vessels","AI navigation","defense technology","Taiwan","unmanned speedboats"],
+      link: "https://defence-blog.com/taiwan-teams-up-with-a-us-firm-to-build-ai-guided-attack-boats/",
+      coords: [120.7554,22.6195],
+      location: "Dapeng Bay, Pingtung County, Taiwan"
+    },
+    {
+      type: "news",
+      title: "Saudi Arabia Launches Multinational Maritime Defense Coalition for Red Sea Security",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-30",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockanton-172594.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 사우디아라비아가 예멘 후티군의 홍해 공격으로부터 국제 해상 운송로를 보호하기 위한 다국적 해양 방위 연합을 출범함<br>• 43개국과 유럽연합이 참석한 국제 회의를 개최하였으며, 사우디아라비아가 창립국 및 주도국으로서 연합의 본부를 호스팅할 예정<br>• 터키, 파키스탄, 이집트, 수단, 지부티 등 14개국이 제안된 연합 지지를 위한 공동성명 발표<br>• 바브엘만데브 해협과 아덴만의 항행의 자유 보장, 국제 무역로 및 에너지 공급선 보호를 주요 목표로 설정<br>• 후티군이 7월 20일 홍해 사우디아라비아에 대한 해상 봉쇄를 선언하고 이후 연쇄적 선박 공격 감행<br>• 홍해 긴장 고조가 광범위한 이란-사우디 갈등의 확대로 이어지며 유가 상승 압박</p><h3>Key Quotes</h3><p>• "The coalition would strengthen maritime security, safeguard freedom of navigation, secure international trade routes and energy supply lines, and protect shared maritime interests in the Bab el-Mandeb Strait and the Gulf of Aden." (연합은 해양 안보를 강화하고 항행의 자유를 보호하며 국제 무역로와 에너지 공급선을 확보하고 바브엘만데브 해협과 아덴만의 공동 해양 이익을 보호할 것)</p><p>• "The Red Sea tensions mark the latest front in the wider Iran war, with attacks on shipping spreading beyond the Gulf and pushing oil prices higher." (홍해 긴장은 광범위한 이란 전쟁의 최신 전선을 표시하며, 해운 공격이 페르시아만을 넘어 확산되고 유가 상승을 초래)</p><h3>Technical Insights</h3><p>• **해상 안보 체계의 다층화**: 홍해의 바브엘만데브 해협은 전 세계 무역량의 약 12-15%가 통과하는 전략적 해상 병목 지점으로, 단일 국가 차원의 해양 방위로는 불충분하며 국제적 조율과 군사적 협력 체계가 필수적<br>• **COLREG 및 해상교통 규제 강화**: 다국적 해양 방위 연합의 출범은 국제해사기구(IMO) 해상교통 안전 기준과 해상충돌방지규칙(COLREG) 준수 강제의 필요성을 부각시키며, 자율운항선박 도입 시 비상 상황 대응 프로토콜 개발이 시급<br>• **자율화 기술과 해역 안보의 이중성**: 무인 및 자율운항 화물선 도입이 증대될수록 신호 방해, 사이버 공격, 물리적 공격에 취약해질 가능성이 높아져, 홍해 같은 고위험 해역에서의 자율운항 시스템 도입에 제약 요소로 작용할 전망<br>• **국제 해상 보안 기준 재정의**: 후티군의 비정규 해양 공격이 확대됨에 따라 민간 선박의 보안 표준(ISPS Code) 강화와 실시간 위치 추적, 통신 보안 업그레이드 필요성이 증대되고 있으며, 이는 해운 업계의 운영 비용 증가를 초래</p></div>`,
+      tags: ["Maritime Security","Red Sea","Houthi Attacks","International Coalition","Shipping Routes"],
+      link: "https://www.marinelink.com/news/saudi-arabia-launches-multinational-541671",
+      coords: [55.1769,24.2155],
+      location: "Red Sea / Bab el-Mandeb Strait"
+    },
+    {
+      type: "news",
+      title: "Security Concerns About Suez Oil Rise After Tanker Drone Strike in Egypt",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-30",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockyellow-172593.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이집트 다미에타 항구에서 무인기 공격으로 가스 유조선 2척이 피격되어 수에즈운하의 에너지 안보 우려 심화<br>• 이란-후티 연합의 호르무즈 해협 및 바브엘만데브 해협 공격으로 사우디 석유 수출경로 변경, 수에즈 및 수메드 파이프라인 이용량 급증<br>• 7월 원유 적재량이 4월 1,952만 배럴에서 2,879만 배럴로 48% 증가<br>• 일일 500만 배럴 규모의 석유 공급이 위협받을 수 있으며, 아시아 수입국들의 아프리카 우회 항로 선택 강제<br>• 포트사이드 정박지 선박 집중도 증가(20척→30척), 무인기 추적기 상태 이상 선박 증가 등 시장 불확실성 고조</p><h3>Key Quotes</h3><p>• "The passage through the Red Sea, even via the longer Mediterranean route, could be put at risk, which threatens up to five million barrels per day of oil supply that can currently bypass the Strait of Hormuz" (홍해 통과, 더 긴 지중해 항로 포함해서도 위험에 노출될 수 있으며, 현재 호르무즈 해협을 우회하는 일일 500만 배럴 규모 석유 공급이 위협받을 수 있다는 의미)</p><p>• "We've seen a clear increase in crude/condensate tankers heading north after loading in the Red Sea," (홍해에서 적재 후 북쪽으로 향하는 원유/응축액 유조선의 명백한 증가를 확인했다)</p><h3>Technical Insights</h3><p>• 호르무즈 해협 우회 수출 체계의 한계 노출: 후티 위협으로 양부 터미널 남향 적재가 81%(6월)에서 43%(7월)로 급락하며 대체 경로 의존성 심화</p><p>• 해상교통 추적 기술의 보안 이슈: 무인기 추적기 꺼진 상태 선박 증가로 선박 자동식별장치(AIS) 신뢰성 저하 및 국제해사기구(IMO) 투명성 기준과 충돌</p><p>• 지정학적 위험의 해운 경제학적 파급: 수에즈운하 통행료 인상 압력, 보험료 상승, 연료비 증가로 인한 글로벌 해운 비용 구조 재편 가능성</p><p>• 국제해사법(COLREG) 적용의 공백: 무인기 공격 대비 선박 방어 체계 및 호위함선 배치 등 법적 근거 미비로 IMO의 새로운 보안 지침 필요</p></div>`,
+      tags: ["Suez Canal","Energy Security","Drone Attack","Oil Tankers","Red Sea","Geopolitical Risk"],
+      link: "https://www.marinelink.com/news/security-concerns-suez-oil-rise-tanker-541670",
+      coords: [31.405,31.3521],
+      location: "Damietta, Egypt / Suez Canal"
+    }
+  ]
+});
