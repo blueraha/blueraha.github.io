@@ -12670,3 +12670,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-30
+addEvents({
+  "2026-07-30": [
+    {
+      type: "news",
+      title: "Gulf Markets Decline Amid US-Iran Hostilities and Shipping Route Disruptions",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-30",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockjimmy-172591.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국-이란 간 군사 긴장 고조로 걸프만 주요 증시가 약세를 기록하며, 투자자 심리 악화로 이어짐<br>• 미국의 이란 혁명수비대 타격 작전 및 사우디아라비아의 이라크 친이란 무장조직 공격으로 지역 안보 불안정 심화<br>• 카타르에너지가 유럽 주요 고객 에디슨에 9월말까지 LNG 3개 선적분 공급 불가 통보 (포스 마주르 사유)<br>• 해운로 차단 우려와 지속적 지정학적 긴장이 걸프만 시장 전반에 부정적 영향 미치는 중<br>• 사우디아라비아 2분기 실질GDP가 전년동기 대비 4.8% 감소하며 중동 전쟁의 경제적 타격 노출<br>• 이집트 다미에타 항 가스선박 화재는 드론 공격으로 인한 것으로 확인되어 해상 안보 위협 심화</p><h3>Key Quotes</h3><p>• "Investors remained focused on persistent geopolitical tensions and shipping-route disruptions. Caution may continue to weigh on local markets as uncertainty over regional security conditions persists"<br>(투자자들은 계속되는 지정학적 긴장과 해운로 차단에 집중하고 있으며, 지역 안보 불확실성이 지속되는 한 신중한 시장 심리가 계속될 것으로 전망)</p><p>• "QatarEnergy has notified Edison...that it will not be able to deliver three liquefied natural gas (LNG) cargoes, extending 'force majeure' until the end of September"<br>(카타르에너지가 에디슨에 9월말까지 LNG 3개 선적분을 공급할 수 없다고 통보하며 포스 마주르 조항을 발동)</p><h3>Technical Insights</h3><p>• **해운로 차단 위협과 LNG 공급 차질**: 중동 지정학적 긴장으로 인한 해운로 disruption이 LNG와 같은 해상 화물 운송에 직접적 영향을 미치고 있으며, 카타르 에너지의 포스 마주르 발동은 해상운송 불확실성 심화를 반영</p><p>• **IMO 해상안보 규정의 실효성 한계**: 드론 공격과 같은 비전통적 해상 위협에 대응하기 위해 COLREG 및 기존 해상안보 체계의 개선 필요성 대두</p><p>• **자율운항선 도입의 긴급성**: 지정학적 위험 지역에서 인명 손실 방지 및 운영 안정성 확보를 위해 원격 조종 및 자율운항 기술의 도입 필요성 증대</p><p>• **에너지 안보와 해상 물류**: 중동 에너지 공급의 세계적 의존도 심화 속에서 안정적 해운 확보 및 대체 해상 루트 개발의 전략적 중요성 강조</p></div>`,
+      tags: ["Geopolitical Tensions","Middle East","LNG Supply","Shipping Routes","Force Majeure"],
+      link: "https://www.marinelink.com/news/gulf-markets-ease-us-iran-hostilities-541668",
+      coords: [50.5577,25.2048],
+      location: "Persian Gulf / Middle East"
+    },
+    {
+      type: "accident",
+      title: "Turkish Vessel ATA 2 Severely Damaged by Drone Strikes in Black Sea",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-07-30",
+      image: "https://maritime-executive.com/media/images/article/Photos/Vessels_Small/Ata-2---Vessel-Finder.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 터키 소유 곡물운송선 ATA 2호가 흑해에서 러시아의 드론 3발에 맞아 선교와 기숙사 블록이 심각하게 손상됨<br>• 13명의 승무원(아제르바이잔 국적 12명 포함)은 부상 없이 생존했으며, 수동 조작 백업 제어 시스템으로 루마니아로 향함<br>• 아제르바이잔 해운노조 지도자 일함 나시로프는 "아제르바이잔 선원들의 생명이 이윤의 대가가 될 수 없다"며 선원 안전 보장 촉구<br>• 7월만 터키 관련 선박 최소 3척이 공격받았으며, 전쟁 시작 이후 터키 선박 11척 이상이 피해를 입음<br>• 7월 14일 아틀라스 베이호 선장 사망, 7월 초 레이한 사리호 선원 사망, 골든 레오호 침몰(9명 사망)로 인명 피해 증가<br>• 러시아의 상선 공격은 우크라이나를 해상에서 고립시키려는 푸틴의 협박 이행 시도로 해석됨</p><h3>Key Quotes</h3><p>• "The ship has a backup control system operating in manual mode, and the crew continues to sail using that system" (선박의 백업 제어 시스템이 수동 모드로 작동 중이며 승무원들이 해당 시스템으로 항해를 계속하고 있음)</p><p>• "The lives of Azerbaijani sailors cannot be the price of any profit" (아제르바이잔 선원들의 생명이 어떤 이윤의 대가가 될 수 없다는 해운노조 지도자의 안전 보장 촉구)</p><p>• "Promises of high wages cannot replace the right to safety of seafarers" (높은 임금 약속이 선원들의 안전권을 대체할 수 없다는 선원 보호 주장)</p><h3>Technical Insights</h3><p>• **전투 지역 해상 안전 위협**: 흑해 상선 대상 무인드론 공격의 증가로 국제해운의 안전성 심각하게 악화 - IMO 긴급 안전 지침 강화 필요<br>• **선원 정보 접근권**: 해운노조의 '항로 위험 정보 공개' 요구는 SOLAS 협약상 선원 안전 의무 조항과 관련하여 국제해운 규정 개선 필요성 제기<br>• **전쟁 지역 선박 운영의 한계**: 수동 백업 시스템 의존 항해는 자동화 선박 시대에도 극한 상황에서의 기술 한계 노출, 선박 탄력성(resilience) 설계 중요성 강조<br>• **국제 해운 규정 공백**: 현재 COLREG와 IMO 규정은 전시(戰時) 해역 운영 기준이 불명확하여, 중립국 선박의 통행권과 안전 보장에 대한 국제법 재정의 필요</p></div>`,
+      tags: ["Black Sea","Drone Attack","Commercial Shipping","Turkey","Azerbaijan","Russia-Ukraine Conflict"],
+      link: "https://maritime-executive.com/article/video-turkey-and-azerbaijan-protest-as-another-vessel-is-severely-damaged",
+      coords: [30.7,45],
+      location: "Black Sea, Odesa-Chornomorsk area"
+    },
+    {
+      type: "news",
+      title: "Global Pilot Transfer Safety Competition Launched Amid 13% Non-Compliance Rate",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-07-30",
+      image: "https://maritime-executive.com/media/images/article/1785444646_6a6bb9265f34e.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• The Nautical Institute가 IMPA(국제해사조종사협회) 지원 하에 해양 학생 및 실습생을 대상으로 글로벌 조종사 이승(Pilot Transfer) 안전 경쟁 개최<br>• IMPA의 2026년 안전 캠페인에서 34개국 4,051건 참가 중 13%의 부적합률 기록 - 조종사 사다리(Pilot Ladder) 배치 관련 문제가 주요 원인<br>• 참가자들은 IMPA의 Required Pilot Transfer Arrangements 포스터에서 3가지 요건을 선택하여 안전상 이유를 설명하는 형식으로 진행 (기사, 포스터, 또는 영상 제출)<br>• 우승자에게 £500 아마존 상품권, 준우승자 각 £250 상품권 수여<br>• 마감일: 2026년 8월 31일 17:00 (영국시간), 우승자 발표: 2026년 10월 1일<br>• 향후 해양 담당자들이 조종사 이승 절차 관련 규정의 이해도 심화 및 부적합 상황에 대한 인식 제고 필요</p><h3>Key Quotes</h3><p>• "Pilot ladder requirements are there for a reason. Future officers need to know more than what the poster says. They need to understand what can go wrong when an arrangement is incorrectly rigged and be prepared to challenge it." <br>(조종사 사다리 요구사항은 정당한 이유가 있으며, 미래의 해기사들은 포스터의 내용 이상을 알아야 하고, 잘못된 배치로 인한 문제를 이해하며 이에 대해 문제 제기할 수 있어야 한다는 의미)</p><h3>Technical Insights</h3><p>• **조종사 이승 안전의 중요성**: 조종사 사다리 부적합이 전체 부적합 사항의 주요 원인으로 식별되었으며, 이는 선박 운영 절차의 기초적 안전 요소임을 시사<br>• **교육 기반 규정 준수 강화**: 단순 규정 암기를 넘어 '왜'에 대한 이해를 통해 미래 해기사들의 안전 문화 정착 및 자발적 준수 유도 필요<br>• **국제 표준화와 지역 편차**: 34개국에서 13%의 균일한 부적합률 기록은 국제해사기구(IMO) 규정의 일관된 적용과 함께 지역별 관행 차이 관리 필요를 반영<br>• **해양 산업 안전 개선 트렌드**: IMPA와 The Nautical Institute의 협력을 통한 체계적 캠페인은 해양 산업의 선제적 안전관리 및 다음 세대 해기사 양성에 대한 산업계의 투자 확대를 의미</p></div>`,
+      tags: ["Pilot Transfer","Safety Campaign","Maritime Education","IMPA","Compliance"],
+      link: "https://maritime-executive.com/article/global-competition-launched-as-pilot-transfer-non-compliance-remains-at-13",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "accident",
+      title: "Oil Loading Suspended from Caspian Pipeline After Tankers Struck in Attacks",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-07-30",
+      image: "https://maritime-executive.com/media/images/article/Photos/Vessels_Large/two-tankers-Caspian-Pipeline-Consortium-CPC.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Caspian Pipeline Consortium(CPC)이 2026년 7월 30일 밤 두 척의 탱커에 대한 공격으로 인해 운영을 재차 중단했으며, 이는 7월 27일 재개 후 불과 3일만의 조치<br>• 그리스 소유 157,447톤급 탱커 Nissos Sifnos가 화물 갑판 오일 인테이크 매니폴드 근처에서 피격되어 화재 발생, 선원들이 지원선박 3척의 도움으로 진화<br>• 또 다른 그리스 소유 탱커 Marathi도 터미널 접근 중 약 6해리 지점에서 공격받았으나 피해 미확인<br>• 러시아는 우크라이나의 공격으로 지목하며 미국과 UN의 개입을 요구<br>• 최소 5척의 탱커가 즉시 노선을 변경하여 스페인, 터키 방향 또는 흑해에서 대기 중<br>• CPC는 파이프라인 자체는 정상 운영 중이며 환경오염 없음을 보고</p><h3>Key Quotes</h3><br>• "The Greek-owned tanker Nissos Sifnos was loading at one of the single-point moorings in the marine terminal off Novoressiysk, Russia, in the Black Sea... it was struck near the cargo deck's oil intake manifolds. A fire started, but the crew was able to put it out with the assistance of three support vessels." (흑해 노보로시스크의 해상 터미널 싱글포인트 무어링에서 적재 중이던 탱커가 화물갑판 오일 인테이크 매니폴드 근처에서 피격되어 화재가 발생했으나 지원선박들의 도움으로 진화됨)</p><p>• "Russia's Foreign Ministry accused Ukraine of staging the repeated attacks, saying it was harming the economic interests of Kazakhstan and others, including the United States." (러시아 외무부는 우크라이나가 반복적인 공격을 조직했다고 주장하며 이것이 카자흐스탄과 미국 등의 경제적 이익을 해치고 있다고 성명)</p><h3>Technical Insights</h3><br>• CPC의 파이프라인 운영 일시 중단은 카자흐스탄 석유 수출량의 약 80%에 영향을 미치며, 국제 에너지 시장 안정성 및 에너지 공급망 보안의 심각한 위협<br>• 선박 추적 데이터(AIS)가 재루팅 패턴을 즉각 드러냈으며, 이는 해운 운영자들이 실시간 위협 정보에 민감하게 대응함을 시사<br>• 흑해 해상 터미널에 대한 반복적인 공격은 IMO 및 국제 해사 안전 규정의 적용 범위를 벗어나 있으며, 국제적 협력과 해역 보안 강화의 필요성 대두<br>• 상업 해운 인프라 보호와 국제 분쟁 간의 충돌로, 중립 깃발 선박의 안전 보장 및 국제법 집행의 현실적 한계를 노출</p></div>`,
+      tags: ["Caspian Pipeline Consortium","Tanker Attacks","Black Sea","Oil Infrastructure"],
+      link: "https://maritime-executive.com/article/oil-loading-again-suspended-from-caspian-pipeline-after-tankers-are-struck",
+      coords: [37.77,44.72],
+      location: "Novorossiysk, Black Sea"
+    }
+  ]
+});
