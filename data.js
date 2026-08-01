@@ -12782,3 +12782,77 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-01
+addEvents({
+  "2026-08-01": [
+    {
+      type: "news",
+      title: "U.S. Navy Orders 188 Hammerhead Anti-Submarine Mines in Major Contract",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-08-01",
+      image: "https://defence-blog.com/wp-content/uploads/2026/08/DB_image_1921.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미 해군이 General Dynamics Mission Systems와 약 2억 3천만 달러 규모의 계약으로 Hammerhead 모듈식 대잠 기뢰 188개 추가 발주<br>• Hammerhead는 해저에 정박되어 음향 센서로 적 잠수함 신호를 감지한 후 MK 54 경량 어뢰를 발사하는 지능형 대잠 무기 시스템<br>• 1970년대 냉전 시대 CAPTOR 지뢰를 현대화한 신형 무기로, 중대형 잠수함 협정 구역과 전략적 해상 요충지 봉쇄 목적<br>• 향후 무인 수중차량(UUV)과 보잉의 Orca 자율 잠수함 플랫폼으로부터 배치 계획<br>• MEDUSA(채광 무인 잠수함 자산 배송 시스템) 등 관련 무인화 지뢰 배치 프로그램과 연계 운영</p><h3>Key Quotes</h3><p>• "Hammerhead is a moored anti-submarine mine, a weapon that anchors itself to the seafloor at intermediate to deep-water depths and waits, using acoustic sensors to listen for the distinctive sound signature of an approaching submarine" (해머헤드는 해저에 정박되어 중심부 및 심해 수심에서 음향 센서를 이용해 접근하는 잠수함의 특이 음파를 감지하는 대잠 기뢰)</p><p>• "Once Hammerhead's sensors confirm a genuine hostile target, the system releases an encapsulated MK 54 lightweight torpedo, modified for underwater launch, which then independently homes in on and strikes the submarine" (해머헤드 센서가 실제 적 목표를 확인하면 수중 발사용으로 개조된 MK 54 경량 어뢰를 발사하여 독립적으로 잠수함을 추적하고 타격)</p><p>• "the Navy has made clear it wants the weapon to eventually launch from unmanned underwater vehicles as well, letting the system be planted covertly without exposing a crewed vessel to the area being mined" (해군은 향후 무인 수중 차량으로부터 발사되도록 계획하여 유인 함정 노출 없이 비밀리에 지뢰 배치 가능하게 할 의향 표시)</p><h3>Technical Insights</h3><p>• **자율 표적 식별 기술**: 전통적 접촉식 기뢰와 달리 음향 센서 기반의 능동식 표적 식별 시스템으로 오인 사격 가능성 최소화 및 민간 선박과 해양 생물 구분 가능<br>• **무인화 추세**: MEDUSA 및 Orca 플랫폼과의 통합으로 잠수함 기반의 비밀 지뢰 배치 및 광범위한 해역 네트워크 기뢰화 가능, 차세대 해전 양상 변화<br>• **IMO/SOLAS 준수 문제**: 국제해사기구의 기뢰 협약(Mines Protocol) 대상이 아닌 군사용 무기로 국제 법규 적용 외 영역이지만, 상용 해상 안전에 미치는 간접적 영향 검토 필요<br>• **산업 영향**: 무인화, 자율 표적 식별, 장시간 해상 작전 능력이 상용 해양 자율 기술 발전에 간접적 기술 파급효과 및 향후 자율 잠수함/UUV 기술 표준화 논의 예상</p></div>`,
+      tags: ["Anti-submarine warfare","Naval mines","Autonomous weapons","U.S. Navy","General Dynamics"],
+      link: "https://defence-blog.com/u-s-navy-orders-188-more-torpedo-armed-mines-to-hunt-submarines/",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "U.S. Navy Awards $40M Contract to Six Companies for Autonomous Ocean Floor Mapping in Pacific and Indian Oceans",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-08-01",
+      image: "https://defence-blog.com/wp-content/uploads/2026/08/DB_image_1920.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 해군이 태평양과 인도양의 해저 지도 제작을 위해 6개 기업에 4,000만 달러 규모의 계약 체결 - 장거리 무인 수상 차량(USV) 기술 활용<br>• 선정 기업: AOR International LLC, Blue Water Autonomy Inc., Chance Technologies LLC, Link Technologies Inc., Ocean Power Technologies Inc., Saildrone Inc.<br>• NAVOCEANO(해군 해양학 사무소)가 주관하는 사업으로 2026년 8월부터 2028년 7월까지 2년간 진행<br>• 무인 자율 선박을 이용한 고해상도 해저 지도 제작으로 종래의 유인 조사선 의존도 대폭 감소<br>• 정확한 수심 데이터(bathymetric data)를 통해 잠수함 작전, 항해 안전성 향상 및 대잠전 능력 강화에 기여<br>• 국제 공해에서 수행되는 장기적 자율화 해양 조사 프로젝트로 해양 로봇 기술의 실전 확대 의미</p><h3>Key Quotes</h3><p>• "Six companies...were awarded a combined $40,000,000 multiple-award contract to provide high-resolution ocean floor mapping services using long-endurance unmanned surface vehicles"<br>(6개 기업이 장거리 무인 수상 차량을 활용하여 고해상도 해저 지도 제작 서비스를 제공하기 위해 합계 4,000만 달러 계약 수주)</p><p>• "accurate bathymetric data...directly supports anti-submarine warfare by helping crews understand where a hostile submarine might hide along seafloor ridges or canyons"<br>(정확한 수심 데이터는 적 잠수함이 해저 능선이나 협곡을 따라 숨을 수 있는 장소를 파악함으로써 대잠전을 직접 지원)</p><h3>Technical Insights</h3><p>• **자율 수상 차량(USV) 기술의 실무 확대**: 종래 유인 조사선을 대체하는 장거리 무인 자율선박 도입으로 해양 조사의 효율성 및 비용 절감 가능 - 해양 로봇 산업의 성장 신호<br>• **해양 안보와 자율화 기술의 결합**: 정밀한 bathymetric 데이터는 해양 작전(특히 잠수함 운영)의 안전성과 전술적 우위를 직접 강화하며, 자율선박의 군사적 가치 입증<br>• **경쟁 기반 계약 구조의 의의**: Indefinite-delivery, indefinite-quantity 계약 방식으로 6개 기업이 개별 작업 수주별로 경쟁하도록 구조화되어 기술 혁신 유인 및 비용 효율성 극대화<br>• **국제 해양법과 자율화의 교점**: 국제 공해에서 수행되는 무인 자율 선박 운영으로 향후 COLREG 규정 적용, 국제 협력 및 해양 데이터 공유 등 규제 이슈 대두 가능성</p></div>`,
+      tags: ["autonomous vessels","unmanned surface vehicles","ocean mapping","bathymetric data","naval technology"],
+      link: "https://defence-blog.com/u-s-navy-hires-six-firms-to-map-pacific-and-indian-ocean-seabeds/",
+      coords: [0,0],
+      location: "Pacific and Indian Oceans"
+    }
+  ]
+});
+
+// Auto-collected: 2026-07-31
+addEvents({
+  "2026-07-31": [
+    {
+      type: "news",
+      title: "Low Water Levels in European Rivers Warn of Economic Impact",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-31",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockleonid-172613.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 유럽의 주요 강들의 역사적 저수위 현상으로 인해 상품 수송 및 전력 생산이 심각하게 제약되고 있으며, 경제적 영향이 우려되는 상황<br>• 다뉴브 강을 통과하는 헝가리 팍스 원자력발전소와 세르비아 제르다프 1 수력발전소의 운영 중단 및 출력 감소<br>• 극심한 열파와 불규칙한 강수량으로 인한 유럽 전역의 가뭄이 단일 지역이 아닌 전 유럽 경관에 영향을 미치고 있음<br>• 다뉴브 강의 저수위로 인해 운하와 항구의 운영 중단으로 곡물 등 농산물 수송 차질 발생<br>• 전력 수입으로 인한 높은 비용 부담과 트럭 수송으로의 전환에 따른 추가 비용 발생</p><h3>Key Quotes</h3><p>• "It's affecting not one region like we've seen in the past, but the whole European landscape" (과거와 달리 하나의 지역이 아닌 전체 유럽 경관에 영향을 미치고 있다는 의미)<br>• "Given the current dynamics, it means either we're going to see blackouts or we need to invest way more." (현재 상황에서는 정전이 발생하거나 훨씬 더 많은 투자가 필요할 것을 의미)<br>• "Only the ports which are closer to the Black Sea are still operational. Barges can't go through the others" (흑해에 가까운 항구만 운영 중이고 수송선박이 다른 항구를 통과할 수 없다는 의미)</p><h3>Technical Insights</h3><p>• 내륙수로 운송의 신뢰성 저하로 인해 해운 산업이 대체 운송 수단(트럭 운송)으로의 전환 압박을 받고 있으며, 이는 운송 비용 증가 및 탄소배출 증가를 초래<br>• 수력발전과 원자력발전의 냉각수 공급 부족 문제는 에너지 안보와 직결되어 있으며, 기후변화에 대한 에너지 인프라의 취약성을 노출<br>• 다뉴브 강의 저수위로 인한 항구 운영 중단은 국제 곡물 무역과 농산물 수출에 영향을 미쳐 글로벌 식품 공급망 차질 야기 가능<br>• 극단적 기후 현상에 대응하기 위해 수운 인프라의 다층화, 에너지 저장 시설 확대, 홍수 관리 시스템 고도화 등의 종합적 대응이 필요한 상황</p></div>`,
+      tags: ["River Transport","Drought","European Waterways","Economic Impact","Climate Change","Inland Shipping"],
+      link: "https://www.marinelink.com/news/low-water-levels-european-rivers-warn-541703",
+      coords: [0,0],
+      location: "Europe (Danube River, Rotterdam)"
+    },
+    {
+      type: "news",
+      title: "Russian Grain Lobby Warns Black Sea Attacks Threaten Global Grain Security",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-31",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockelena-172612.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 러시아 곡물 수출업자·생산자 연합회, 우크라이나의 무인기 공격으로 인한 흑해 곡물 수출 차단 경고<br>• 7월부터 시작된 체계적 공격으로 흑해 수출 회랑 완전 차단 가능성 언급<br>• 러시아 밀 수출 감소로 글로벌 밀 거래량의 약 15% 해당하는 3천만-3천5백만 톤 부족 예상<br>• 우크라이나의 건화물선 및 항만 기반시설 공격으로 해상 운송 중단<br>• 아프리카 및 중동 지역의 식량 안보 위협 및 글로벌 곡물 가격 상승 우려<br>• 대체 국가들의 수출 증대로도 공급 부족분 충당 불가능할 것으로 예측</p><h3>Key Quotes</h3><p>• "Systematic attacks that began in July could soon lead to a complete blockage of export corridors in the Black Sea basin" (7월부터 시작된 체계적 공격이 흑해 수출 회랑의 완전한 차단으로 이어질 수 있다)</p><p>• "Disruptions to shipping in the Black Sea caused by Ukrainian attacks on dry cargo vessels and port infrastructure pose a direct threat to global food security" (우크라이나의 건화물선 및 항만 기반시설 공격으로 인한 흑해 해운 중단은 글로벌 식량 안보에 직접적 위협이 된다)</p><h3>Technical Insights</h3><p>• **해상 물류 차단의 파급효과**: 흑해 수출 회랑 폐쇄 시 전 지구적 곡물 공급망 붕괴 위험 - 특히 아프리카·중동 지역 식량난 심화 우려<br>• **선박 및 항만 보안 강화 필요성**: 무인기 공격에 대비한 해상 화물선 호위 및 항만 방어시설 고도화 필수<br>• **IMO 해상 안전 규정의 한계**: 지정학적 분쟁 상황에서의 해상 통행 자유 보장 및 중립 회랑 설정 논의 필요<br>• **자율운항선박의 위험성**: 분쟁 지역에서의 원격 운영 선박 운용 시 통제 불가능성 및 손실 확대 가능성 상존</p></div>`,
+      tags: ["Black Sea","Grain Trade","Ukraine-Russia Conflict","Food Security","Shipping Disruption"],
+      link: "https://www.marinelink.com/news/russian-grain-lobby-warns-black-sea-541702",
+      coords: [35.5,43.5],
+      location: "Black Sea"
+    },
+    {
+      type: "news",
+      title: "China Refuses Philippine 'Baselines' Around Disputed Scarborough Shoal",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-31",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockpeter-172611.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 중국 외교부는 필리핀의 스카보로우 암초(황옌다오) 주변 기선 설정을 "불법이고 무효"라고 강경 거부하며 중국의 영토 주권 침해라고 주장</p><p>• 필리핀은 UN에 스카보로우 암초의 해상 차트를 제출하여 영해(12해리) 및 인접구역(24해리)의 법적 확실성을 강화하려는 움직임</p><p>• 중국은 2016년 중재판정부 결정(남중국해 광범위한 영유권 주장 무효화)을 거부하며 필리핀의 도발적 행동에 "단호히 대응"하겠다고 위협</p><p>• 스카보로우 암초는 양국이 모두 영유권을 주장하는 분쟁 지역으로 해안경비대와 어선 간 충돌이 반복되고 있음</p><p>• UNCLOS(해양법협약) 체계 내 해상 기선 설정을 둘러싼 국제해양법적 갈등이 심화되고 있는 상황</p><h3>Key Quotes</h3><p>• "Huangyan Dao is China's inherent territory" (황옌다오는 중국의 고유 영토이다) - 중국 외교부의 영토 주권 강조</p><p>• "China demands that the Philippine side earnestly respect China's territorial sovereignty and maritime rights and interests, and refrain from taking any infringing and provocative actions on Huangyan Dao. Otherwise, China will respond resolutely" (필리핀은 중국의 영토주권과 해양권익을 존중하고 황옌다오에서 침해적·도발적 행동을 중단해야 하며, 그렇지 않으면 중국이 단호히 대응할 것)</p><h3>Technical Insights</h3><p>• UNCLOS 기반 해상경계 획정 절차의 법적 분쟁: 필리핀의 기선 설정은 국제해양법에 따른 정당한 권리이지만, 중국의 거부로 국제해양법 체계의 실효성이 훼손될 우려</p><p>• 해양안보와 자율항행 기술의 규제 환경 악화: 분쟁 해역에서의 선박 운항 안전성 저하 및 자동화 네비게이션 시스템의 신뢰도 문제 심화 가능</p><p>• 남중국해 항행의 자유 문제와 상업 해운의 리스크: 지속된 영토 분쟁은 해상 무역로 안정성을 위협하며, 해운 산업의 보험료 인상 및 우회 항로 선택 증가로 이어질 전망</p></div>`,
+      tags: ["South China Sea","Maritime Dispute","Philippines","China","Scarborough Shoal","UNCLOS","Territorial Claims"],
+      link: "https://www.marinelink.com/news/china-refuses-philippine-baselines-around-541701",
+      coords: [117.7345,15.1249],
+      location: "Scarborough Shoal, South China Sea"
+    }
+  ]
+});
