@@ -12726,3 +12726,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-31
+addEvents({
+  "2026-07-31": [
+    {
+      type: "accident",
+      title: "Oil Spill from Sanctioned Tanker Caroline Bezengi Spreading Off Oman Coast",
+      source: "gCaptain / Reuters",
+      sourceMeta: "gcaptain.com · 2026-07-31",
+      image: "https://gcaptain.com/wp-content/uploads/2026/07/2026-07-31T141129Z_1761801036_RC2EIMA2NH5I_RTRMADP_3_MIDEAST-GULF-SHIPPING-SPILL.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **선박명 및 사건**: 러시아 제재 대상 유조선 Caroline Bezengi가 오만 연안에서 유류 유출 중이며, 위성 이미지로 확인된 유류 슬릭이 확산 중</p><p>• **사건 발생 경위**: 선박이 6월 8일 예멘 무깔라 항 인근에서 처음 문제 보고, 선상 폭발 발생한 것으로 추정되며, 7월 말 현재 선체 파손 및 유류 누출 확인</p><p>• **환경적 영향**: 보호해양구역인 알-키블리야 섬 인근에서 유류 확산 중이며, 7-8월 몬순 시즌의 악천후로 인한 광범위한 유류 확산 우려</p><p>• **선박 상태**: 원격 감지 전문가 분석 결과 선박의 선체 중 최소 하나 이상이 파손되었으며, 선박이 경사(listing)하고 있을 가능성 높음. IMO는 선박 붕괴 가능성도 모니터링 중</p><p>• **관련 기관 및 소유사**: 선박 소유사는 상하이 기반 Rentoor Shipmanagement이며, IMO가 안전·환경 리스크 대응 논의 진행 중. 오만 정부는 공식 입장 미발표</p><p>• **정치군사적 배경**: 러시아 "그림자 함대(shadow fleet)"의 노후 유조선으로, 우크라이나의 러시아 관련 유조선 공격 또는 중동 분쟁에서의 피해 가능성 미확인</p><p>---</p><h3>Key Quotes</h3><p>• **"The darker oil slicks indicate that at least one of the hulls of the crude oil storage ship seems now to be breached, and the ship is leaking crude oil,"** (선박의 선체 중 최소 하나 이상이 파손되어 원유가 누출되고 있음을 의미)<br>  — Wim Zwijnenburg, Remote-sensing specialist, Pax organization</p><p>• **"At present the vessel is not broken up. Discussions by authorities are ongoing on addressing safety and environmental risks,"** (현재 선박이 붕괴하지는 않았으나, 안전 및 환경 리스크 대응을 위한 당국 간 논의가 진행 중)<br>  — IMO Spokesperson</p><p>• **"Russia uses aging, often poorly maintained tankers in its so-called shadow fleet to circumvent Western sanctions on its oil exports."** (러시아는 서방 제재 우회를 위해 노후 및 불량 유지 상태의 유조선들로 구성된 그림자 함대를 운영)<br>  — Reuters Analysis</p><p>---</p><h3>Technical Insights</h3><p>• **선체 손상 및 유출 메커니즘**: 위성 영상 분석을 통해 확인된 선체 파손과 원유 누출은 6월 초 선상 폭발 사건과 연계된 것으로 보이며, 약 2개월 후 악화된 선체 침식과 구조적 약화를 시사</p><p>• **해양 환경 리스크 및 계절 요인**: 인도양 몬순 시즌의 고파도와 해류 가속화로 유류 확산 속도 및 범위가 급증할 가능성 높으며, 보호해양구역 지정으로 생태계 피해 규모 예측 곤란</p><p>• **국제해사법 및 제재 준수 문제**: 러시아 그림자 함대의 노후 선박 운영이 국제 해양안전 기준(IMO 규정) 준수 미흡 및 정기적 안전검사 회피로 인한 구조적 문제 심화</p><p>• **해양사고 응대 및 국제조율**: IMO 모니터링과 인접국(오만) 당국의 협력 필요, 국제해양오염방지규칙(MARPOL) 및 국제유류오염보상기금(IOPC) 적용 가능성 검토 필요</p></div>`,
+      tags: ["Oil Spill","Tanker Accident","Shadow Fleet","Environmental Damage","Oman","Maritime Incident"],
+      link: "https://gcaptain.com/oil-spill-from-shadow-fleet-tanker-spreading-off-oman-satellite-images-show/",
+      coords: [58.5,17],
+      location: "Oman Coast (Dhofar Governorate, al-Qibliyyah Island area)"
+    },
+    {
+      type: "accident",
+      title: "Crude Oil Spill From Sanctions-Hit Tanker Caroline Bezengi Off Oman Coast",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-31",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockaninka-172610.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 러시아 제재 대상 유조선 Caroline Bezengi가 오만 해역에서 원유 유출, 위성 이미지로 광범위한 유출 확인됨</p><p>• **선박 정보 및 배경**: 흑해 노보로시스크항에서 러시아 원유를 적재한 그림자 선단(shadow fleet) 유조선으로, EU·영국 제재 대상</p><p>• **사고 경위**: 6월 8일 예멘 무칼라항 해역에서 선박 내 폭발 발생 보고, 현재 선체 손상으로 인한 유출 진행 중</p><p>• **환경 위험성**: 몬순 시즌(7월~8월)으로 악천후 조건에서 원유 확산 가능성 높음, 보호 해양 생물 지역 위협</p><p>• **선박 상태**: 위성 이미지에서 선박의 경사(listing) 현상 관찰, 추가 파손 위험 존재</p><p>• **관련 기관**: IMO가 상황 모니터링 중, 오만 교통통신부 등 현지 당국 대응 진행</p><h3>Key Quotes</h3><p>• "The darker oil slicks indicate that at least one of the hulls of the crude oil storage ship seems now to be breached, and the ship is leaking crude oil" (유조선의 선체가 손상되어 원유가 유출되고 있음을 위성 이미지 분석으로 확인)</p><p>• "At present the vessel is not broken up. Discussions by authorities are ongoing on addressing safety and environmental risks" (현재 선박이 완전히 파손되지는 않았으나, 당국이 안전 및 환경 리스크 대응 논의 중)</p><p>• "Russia uses aging, often poorly maintained tankers in its so-called shadow fleet to circumvent Western sanctions on its oil exports" (러시아가 서방 제재를 우회하기 위해 노후되고 유지보수가 부실한 선박들을 그림자 선단으로 운영)</p><h3>Technical Insights</h3><p>• **해양 환경 규제 차원**: MARPOL 부속서 I (기름 오염 방지) 위반 사례로, 국제 해양 오염 방지 기준 미준수 사실 노출</p><p>• **선박 상태 모니터링**: 원격 감시 기술(위성 이미지)을 통한 손상 선박 추적 및 조기 경보 체계 필요성 강조</p><p>• **그림자 선단 규제의 한계**: 페이퍼 컴퍼니(Shanghai-based Rentoor Shipmanagement) 등록 으로 실제 소유권 추적 곤란, IMO 투명성 강화 필요</p><p>• **해상 안전 및 환경 리스크**: 노후 선박의 구조적 결함(선체 파손, 경사)이 대규모 환경 재해로 확대 가능, 정기 검사 및 유지보수 기준 강화 필요</p></div>`,
+      tags: ["oil spill","shadow fleet","sanctions evasion","environmental damage","Arabian Sea"],
+      link: "https://www.marinelink.com/news/crude-oil-spills-shadow-fleet-tanker-off-541700",
+      coords: [58.5,21.5],
+      location: "Off Oman coast, near al-Qibliyyah island"
+    },
+    {
+      type: "news",
+      title: "Shield AI and Thunder Tiger Complete Maritime Autonomous Teaming Demo in Taiwan",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-07-31",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/07/2026_Jul_27_Thunder_Tiger_Hero-scaled-1-scaled.webp",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Shield AI와 Thunder Tiger가 타이완 핑동에서 Hivemind AI를 탑재한 SeaShark 무인표면선(USV) 다중 자산 협력 자율운항 시연 성공<br>• SeaShark 600, SeaShark 800 USV가 해양 레이더, 영상, AIS 데이터를 활용하여 자동으로 정보수집·감시·정찰(ISR) 임무 수행<br>• Hivemind가 경로 자동계획, 목표 선박 식별, 지정 해역 이탈 호위 등 완전 자율 미션 운영 입증<br>• Shield AI와 Thunder Tiger의 전략적 파트너십으로 이중 용도 해양 자율운항 시스템 개발 추진<br>• 타이완의 해양 보안 강화 및 분산형 지능 네트워크 구축을 통한 해역 인식 능력 향상 기대</p><h3>Key Quotes</h3><br>• "Hivemind continues to prove that true mission autonomy can scale across domains, platforms, and functional assets, unlocking new capabilities for distributed intelligence and maritime security missions" (Hivemind이 다양한 영역, 플랫폼, 기능 자산에 걸쳐 진정한 미션 자율성이 확장될 수 있음을 입증하며, 분산형 정보 수집 및 해양 보안 임무의 새로운 역량 해제)</p><p>• "By integrating AI pilots into our portfolio, we can enable distributed, networked teams that coordinate dynamically to build a more complete understanding of the maritime environment" (AI 파일럿을 포트폴리오에 통합함으로써, 해양 환경에 대한 보다 완전한 이해를 구축하기 위해 동적으로 조율되는 분산형 네트워크 팀 구성 가능)</p><h3>Technical Insights</h3><br>• **자율 협력 운영 기술**: 다중 USV의 실시간 협력을 통한 완전 자동화된 ISR 임무 수행으로 해양 자율운항의 실용성 입증 - 경로 자동계획, 표적 식별, 조율된 호위 운영 등 고도의 자율 행동 구현<br>• **센서 통합 및 데이터 활용**: 해양 레이더, 광학 영상, AIS 데이터를 통합 활용하여 해역 인식 능력 강화 - IMO SOLAS 관련 자동식별시스템 활용의 자율운항 적용 사례<br>• **산업 파급 효과**: 분산형 해양 감시 시스템의 현실화로 해군·해안경비 및 해양 안보 분야의 운영 개념 변화 가능성 - 특히 도서 국가의 해역 방어 체계 혁신 기대<br>• **향후 발전 방향**: 더 큰 규모의 팀 운영, 개방 해양 적용, 추가 센서 통합 등 기술 고도화 계획으로 자율 해양 시스템의 상용화 및 규제 프레임워크 발전 촉진 전망</p></div>`,
+      tags: ["autonomous USV","AI autonomy","maritime security","Taiwan"],
+      link: "https://www.navalnews.com/naval-news/2026/07/shield-ai-and-thunder-tiger-complete-maritime-teaming-demo-in-taiwan/",
+      coords: [120.5,22.5],
+      location: "Pingtung, Taiwan"
+    },
+    {
+      type: "news",
+      title: "Hapag-Lloyd Temporarily Suspends Feeder Calls to Ukrainian Black Sea Ports",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-07-31",
+      image: "https://maritime-executive.com/media/images/article/Photos/Ports/Ukraine-portas---Ukrainian-Interior-Ministry.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Hapag-Lloyd가 우크라이나 흑해 항구의 페더 서비스를 일시적으로 중단하기로 발표했으며, 이는 러시아의 지속적인 공격으로 인한 보안 상황 악화에 대응한 것</p><p>• 영향을 받는 항구는 Chornomorsk, Odesa, Pivdennyi이며, Maersk를 포함한 다른 주요 해운사들도 유사한 조치를 취하고 있음</p><p>• 우크라이나행 화물은 대안으로 루마니아의 Constanța 또는 다뉴브강의 Reni로 운송될 예정</p><p>• 2024년 5월에 복구된 페더 서비스는 1,100-TEU급 소형 선박을 이용하여 해바라기유 및 곡물 등 농산물 운송에 중점을 두고 있었음</p><p>• 러시아의 야간 공격과 항구 인프라 타격으로 인한 옥수수, 곡물 등 식량 수출 중단 우려 증가</p><h3>Key Quotes</h3><p>• "feeder operators have temporarily suspended calls to the Ukrainian Black Sea ports" (페더 운영사들이 우크라이나 흑해 항구로의 기항을 일시적으로 중단했음)</p><p>• "cargo originally planned for Ukrainian Black Sea port destinations may need to be discharged at an alternative location" (우크라이나 흑해 항구로 계획된 화물은 대체 위치에서 하역해야 할 수 있음)</p><p>• "There are growing fears that the attacks will interrupt the export of corn, grain, and other foodstuffs" (공격이 옥수수, 곡물 및 기타 식량 수출을 중단시킬 수 있다는 우려가 커지고 있음)</p><h3>Technical Insights</h3><p>• 해운사들의 운송 경로 변경은 공급망 복원력(supply chain resilience)과 지정학적 위험 관리의 중요성을 강조하며, IMO 해상안전 기준과 위험 평가 프로토콜의 실시간 적용 필요성을 시사</p><p>• 다뉴브강을 통한 내수로 운송(inland waterway transport)과 대체 항구 이용이 증가함에 따라, 기존 해상 운송 네트워크의 유연성과 대체 로지스틱 옵션의 중요성이 부각됨</p><p>• 농산물 운송 특성상 신선도 유지와 운송 시간 연장으로 인한 상품 손상 위험이 증가하며, 이는 COLREG 및 해상 안전 규정 준수의 필요성과 함께 인도주의적 식량 운송의 해상법적 보호 메커니즘 강화의 필요성을 제기</p></div>`,
+      tags: ["Ukraine","Shipping Disruption","Security","Black Sea Ports","Hapag-Lloyd"],
+      link: "https://maritime-executive.com/article/hapag-lloyd-reports-temporary-suspension-of-feeder-calls-to-ukraine",
+      coords: [31.76,45],
+      location: "Black Sea Ports - Ukraine (Chornomorsk, Odesa, Pivdennyi)"
+    }
+  ]
+});
