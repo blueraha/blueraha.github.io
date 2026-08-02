@@ -12856,3 +12856,82 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-31
+addEvents({
+  "2026-07-31": [
+    {
+      type: "accident",
+      title: "GasLog LNG Carrier GasLog Shanghai Damaged Exiting Strait of Hormuz; UKMTO Reports Two Separate Attacks",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-08-01",
+      image: "https://gcaptain.com/wp-content/uploads/2017/11/shutterstock_580199482.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• GasLog가 운영하는 LNG 운반선 GasLog Shanghai가 호르무즈 해협 출항 중 손상을 입음; 선원 전원 안전하고 선박은 안정적 상태로 보고됨<br>• 영국해양무역작전(UKMTO)은 동일 시간대에 2건의 별도 공격 사건 보고 - 탱커 1척이 미사일 직격으로 기관실 손상, 다른 탱커는 근처 폭발 목격<br>• 피해 범위: 미사일 피격 탱커는 조종불능 상태이나 오염이나 인명피해 미보고, 두 번째 사건은 손상 없음<br>• GasLog Shanghai는 2013년 건조된 155,000 cbm급 LNG 운반선으로 부정기선 차터 중<br>• 세 건의 사건 간 직접적 연관성 즉시 확인 불가, 지역 해안경비대가 조사 개시<br>• 호르무즈 해협 인근 계속된 상업선박 위협으로 중동 지역 해상 보안 위험 심화</p><h3>Key Quotes</h3><p>• "Everyone onboard is safe and accounted for and the vessel is stable" (선박 승무원 전원 안전하며 선박은 안정적 상태)<br>• "The vessel had been struck by an unknown projectile, causing damage to its engine room. The vessel was reported to be not under command following the strike" (선박이 미확인 미사일에 직격당해 기관실 손상, 미사일 피격 후 조종불능 상태 보고됨)</p><h3>Technical Insights</h3><p>• **호르무즈 해협 상선 위협 심화**: 미사일/드론 공격으로 인한 LNG/유조선 피해 증가는 해협 통과 선박의 회피로(detour) 인한 운항거리 증가, 연료비 상승, 배송 지연 초래<br>• **UKMTO 보안 경보 체계 중요성**: 실시간 공격 경보로 선박의 회피 기동 및 보안 절차 강화 가능하나, 탱커·LNG선의 회피능력 제한으로 인한 노출 위험 지속<br>• **IMO/국제해사보안 규제 재검토 필요**: 호르무즈 해협 등 고위험 지역 통과선박에 대한 강화된 보호 조치(군함 호위, 금지 해역 설정 등)와 선박 설계 규기 강화 논의 시급<br>• **산업적 파급효과**: 지속적 공격으로 인한 호르무즈 해협 통과 상선 감소, LNG·원유 운송료 상승, 재보험료 인상으로 중동 에너지 가격 상승 우려</p></div>`,
+      tags: ["LNG carrier","Strait of Hormuz","Maritime security","Projectile attack","Regional instability"],
+      link: "https://gcaptain.com/gaslog-lng-carrier-damaged-exiting-hormuz-as-ukmto-reports-two-new-attacks/",
+      coords: [56.5,26.5],
+      location: "Strait of Hormuz, Oman/UAE"
+    },
+    {
+      type: "news",
+      title: "Two Oil Supertankers Exit Hormuz as Traffic Remains Sparse",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-07-31",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 호르무즈 해협을 통과하는 초대형유조선(VLCC) 2척이 금요일 인도양으로 빠져나감<br>• Kpler 해상 추적 데이터에 따르면 해협 통항량이 현저히 감소한 상태 지속<br>• Spain B 선박을 포함한 VLCC들이 만에서 적재한 원유를 운반 중<br>• 호르무즈 해협은 세계 해상 석유 무역의 핵심 병목 지점으로 지정학적 중요성 높음<br>• 통항량 감소는 글로벌 석유 수급 상황과 지역 정세 변화를 반영하는 지표</p><h3>Key Quotes</h3><br>• "two very large crude carriers (VLCC) carrying oil loaded from the Gulf exited the Strait of Hormuz on Friday" (호르만 해협을 통해 걸프만에서 적재한 원유를 운반하는 2척의 초대형유조선이 금요일에 해협을 통과했음)<br>• "traffic through the waterway remaining thin, according to Kpler ship-tracking data" (Kpler 해상 추적 데이터에 따르면 해협 통항량이 희박한 상태가 계속되고 있음)</p><h3>Technical Insights</h3><br>• VLCC(초대형유조선) 운영 현황 추적 기술로 글로벌 유류 수급 동향 파악 가능 - 해상 물류 투명성 증진<br>• 호르무즈 해협의 통항 감소 추세는 신재생에너지 전환, 경제 둔화, 지정학적 긴장 등 다층적 요인의 영향을 시사<br>• 실시간 선박 추적 데이터(AIS/위성 기반)의 활용이 해운업계의 의사결정 및 리스크 관리에 필수 인프라로 자리잡음</p></div>`,
+      tags: ["VLCC","Strait of Hormuz","Oil Trade","Ship Tracking"],
+      link: "https://www.marinelink.com/news/two-oil-supertankers-exit-hormuz-traffic-541679",
+      coords: [56.25,26.58],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "CENTCOM Denies Iran's Gulf Breakout Claims Amid Strait of Hormuz Blockade",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-07-31",
+      image: "https://maritime-executive.com/media/images/article/Photos/Navy_Govt_CoastGuard/CENTCOM-US-warship-and-tanker-in-sunset.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 중앙군(CENTCOM)은 이란의 주장을 반박하며 호르무즈 해협 봉쇄가 견고하다고 주장하고, 이란 선박의 탈출 시도는 실패했다고 발표</p><p>• 유조선 노라(Nora, 298,414dwt)와 컨테이너선 노우라(Noura) 등 이란 관련 선박들이 봉쇄를 뚫었다는 이란의 주장을 독립적 분석기관(Windward AI)도 부인</p><p>• 이란 혁명수비대(IRGC)는 비협력적 유조선 2척 공격 및 4척 회항을 주장했으나 독립적 검증 부족, 선박명 미공개로 신뢰성 낮음</p><p>• CENTCOM 발표에 따르면 7월 중순 이후 봉쇄 재개 이후 상선 20척이 방향 전환, 2척이 피해, 2척이 승선검사 대상</p><p>• 이란 페르시만 해협청(Persian Gulf Strait Affairs Authority)은 미군 작전으로 인해 선박 통과 불가능하다고 발표하며 신청서 검토 보류 중</p><h3>Key Quotes</h3><p>• "America's steel wall" (미국의 견고한 봉쇄 태세를 의미하며 CENTCOM의 해협 통제 능력을 강조하는 표현)</p><p>• "reversed course on July 30 right at the edge of the active U.S. naval blockade zone in the Gulf of Oman" (이란 컨테이너선이 오만만 봉쇄 구역 경계에서 침로를 반대로 전환한 사실을 지적하며 탈출 실패를 입증)</p><h3>Technical Insights</h3><p>• 호르무즈 해협 봉쇄 시 AIS 신호 추적(Windward AI 분석)을 통한 독립적 검증이 중요하며, 선박의 실시간 동향 모니터링이 주요 분쟁 지역에서 상황 판단의 신뢰성을 좌우함</p><p>• 섀도우 플릿(Shadow Fleet) 제재 대상 선박들의 통신 차단(dark running, 70일 이상)은 불법 물동량 추적을 어렵게 하며 국제 해상보안체제의 공백을 야기</p><p>• 지정학적 긴장 고조 시 IMO와 UK Maritime Trade Operations 같은 국제 해사기구의 중립적 정보 공개 역할이 증대되며, 민간 기관의 독립적 분석 능력이 신뢰 형성에 필수적</p></div>`,
+      tags: ["Iran","Strait of Hormuz","U.S. Blockade","Geopolitical Tension"],
+      link: "https://maritime-executive.com/article/centcom-denies-iran-s-gulf-breakout-claims-saying-danger-is-verbal-threats",
+      coords: [56.1499,26.1551],
+      location: "Strait of Hormuz, Persian Gulf"
+    }
+  ]
+});
+
+// Auto-collected: 2026-08-01
+addEvents({
+  "2026-08-01": [
+    {
+      type: "accident",
+      title: "Ukraine Sinks Russian-Flagged Containership Yanina in Black Sea",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-08-01",
+      image: "https://maritime-executive.com/media/images/article/Photos/Vessels_Large/Yanina-FESCO.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 우크라이나군이 검은바다에서 로사톰 산하 페스코가 운영하는 러시아 국적 컨테이너선 야니나(Yanina, 13,000톤)를 드론으로 격침시킨 사건 발생<br>• 노보로시스크에서 약 200km 떨어진 국제해역에서 2발의 드론 공격으로 인한 침몰 - 승무원 17명 중 16명은 터키 선사의 지원선에 의해, 1명은 러시아 해군 헬리콥터에 의해 구조됨<br>• 로사톰 CEO 알렉세이 리하초프는 이 공격을 "해적 행위"와 "해상 강도"로 규탄하며 강하게 항의<br>• 우크라이나 젤렌스키 대통령은 해당 선박을 "10만톤 이상 용량의 제재 대상 러시아 컨테이너선"으로 표현하며 정확한 타격 성공 발표<br>• 러시아는 전쟁 시작 이후 2,343척의 선박을 격침시켰으며, 우크라이나도 보복 공격으로 약 30척을 격침시킨 것으로 보도됨<br>• 양측 모두 민간 선박 공격 대상화로 확대되고 있으며, 해상 운송 안보 위협이 심화 추세</p><h3>Key Quotes</h3><p>• "It was a perfectly ordinary, peaceful containership, sailing in international waters and carrying civilian goods—from frozen foods to construction and finishing materials. Such an attack cannot be interpreted as anything other than piracy and robbery at sea" (평시 상선인 야니나가 국제해역에서 민간 화물을 운송 중이었으며, 이러한 공격은 해적 행위와 해상 강도 행위로만 해석될 수 있다는 로사톰 CEO의 주장)</p><p>• "Thanks to the precision of our Defense Forces, it was sent to the bottom" (우크라이나 방위군의 정밀 공격으로 선박이 침몰되었다는 젤렌스키 대통령의 발표)</p><h3>Technical Insights</h3><p>• **해상 분쟁 확대와 선박 보호 문제**: 러시아-우크라이나 전쟁이 민간 선박 공격으로 확대되면서 국제해역의 해상 안전 및 해운업 안보 위협이 심각한 수준으로 악화 중 - IMO와 국제사회의 대응 강화 필요</p><p>• **국제해법(COLREG) 및 해전법의 모호성**: 양측 모두 공격 대상 선박의 "군사 목적" 주장으로 민간-군용 선박 구분이 불명확해지고 있으며, 이는 국제 해전법의 회색지대 확대를 의미</p><p>• **드론 기반 해상 공격 기술의 등장**: 기존 함정 기반 공격에서 드론으로 확대된 해상 전술은 향후 자율운항선박(MASS) 및 해상 방어 시스템 개발에 영향을 미칠 것으로 예상</p><p>• **해상 물류 보안 강화의 시급성**: 검은바다 해역의 선박 격침으로 인한 보험료 상승, 노선 우회, 운송 지연 등 글로벌 해운 산업에 미치는 경제적 파급효과가 지속 심화될 전망</p></div>`,
+      tags: ["Black Sea","Containership","Drone Attack","Russia-Ukraine War","Maritime Conflict"],
+      link: "https://maritime-executive.com/article/ukraine-sinks-russian-flagged-containership-in-black-sea-2",
+      coords: [37.76,44.72],
+      location: "Black Sea, near Novoressiysk"
+    }
+  ]
+});
+
+// Auto-collected: 2026-07-28
+addEvents({
+  "2026-07-28": [
+    {
+      type: "accident",
+      title: "Swedish Cargo Ship Captain Arrested After Collision Kills Mother and Daughter",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-07-31",
+      image: "https://maritime-executive.com/media/images/article/Photos/Vessels_Small/Misje-Verde.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 2026년 7월 28일 스웨덴 서부 카테가트 해역에서 노르웨이 화물선 Misje Verde가 소형 레저보트와 충돌하여 모녀 2명이 사망하고 부자 2명이 부상<br>• 사건 선박: 5,300톤급 노르웨이 국적 화물선 Misje Verde (2023년 건조), 우데발라에서 크래겐로로 항해 중, 러시아인 선원 7명 승선<br>• 스웨덴 검찰이 해상교통 과실 및 사망 야기 혐의로 선장을 구속 신청, EU 외 거주자이면서 증거 인멸 위험 등을 구속 사유로 제시<br>• 해안경비대와 경찰이 수요일 아침 선박에 탑승하여 선원 조사 및 VDR(블랙박스) 데이터 수집 완료<br>• 광범위한 수색 작업 결과 목요일 아동 시신 발견, 선박은 현재 하켄피요르든에 정박 중</p><h3>Key Quotes</h3><p>• "The Norwegian-flagged vessel Misje Verde (5,300 dwt) is believed to have run down a pleasure boat off the west coast of Sweden." <br>(노르웨이 국적의 화물선 Misje Verde가 스웨덴 서부 해안에서 소형 레저보트를 충돌시킨 것으로 추정됨)</p><p>• "Prosecutors believed there was a flight risk because the captain is a resident outside the Nordic countries and the EU."<br>(검찰은 선장이 북유럽 국가 및 EU 외에 거주하고 있어 도주 위험이 있다고 판단함)</p><p>• "They also said there was a danger of undue influence on the criminal investigation, for example, with witnesses."<br>(증인에 대한 부당한 영향 등 형사 수사에 대한 방해 위험이 있다고 지적)</p><h3>Technical Insights</h3><p>• **선박 충돌 수사 절차**: 카테가트 해역 같은 협소한 수역에서의 해상교통 관제 및 선박 회피 의무와 관련된 COLREG 위반 여부가 주요 조사 대상. VDR 데이터 분석을 통해 충돌 당시 속도, 침로, 조선 상황 등을 규명할 필수적</p><p>• **국제 해사 안전 규정 적용**: 크루즈 관광이 많은 스칸디나비아 해역에서 화물선과 소형 레저보트 간의 충돌 사고는 IMO의 해상교통안전 기준 준수 및 인명안전협약(SOLAS) 검토 계기 제공</p><p>• **선원국 간 해상사건 수사 협력**: 노르웨이 국적 선박이 스웨덴 영해에서 사고를 일으켜 양국 간 사법 협력이 진행 중이며, 러시아인 선원의 증거 확보 및 증인 보호가 복잡한 법적 쟁점으로 대두</p><p>• **해상교통 관리 강화 필요성**: 소형 레저보트와 대형 화물선 간의 항해 영역 분리, AIS 의무 탑재 및 모니터링 강화, 협소 수역 통항 속도 규제 등 추가 안전 조치 검토 시급</p></div>`,
+      tags: ["collision","casualty","cargo ship","pleasure boat","Sweden","investigation"],
+      link: "https://maritime-executive.com/article/sweden-arrests-cargo-ship-captain-after-deaths-in-pleasure-boat-collision",
+      coords: [11.97,58.85],
+      location: "Kattegat, near Tjörn/Gothenburg, Sweden"
+    }
+  ]
+});
