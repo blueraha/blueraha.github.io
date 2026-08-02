@@ -12935,3 +12935,83 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-02
+addEvents({
+  "2026-08-02": [
+    {
+      type: "news",
+      title: "Caribbean Nations Deploy Boats and Barriers to Combat Record Sargassum Seaweed Blooms",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-08-02",
+      image: "https://gcaptain.com/wp-content/uploads/2026/08/2026-07-28T133710Z_559180982_RC26NLAWU55B_RTRMADP_3_MEXICO-ENVIRONMENT-SEAWEED-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사르가숨 대량 발생**: 2010년 이후 역사적 규모의 갈색 해초 사르가숨이 카리브해 전역에 매년 대량으로 쌓이고 있으며, 2026년은 2번째로 큰 규모로 예상되고 있음</p><p>• **멕시코의 대응 현황**: 멕시코가 올해 96,151미터톤을 수거했으며, 리비에라 마야(칸쿤, 툴룸, 플라야 델 카르멘) 등 주요 관광지 보호를 위해 전용 수거선과 해상 차단막 확대 배치 중</p><p>• **원인 및 기원**: 아마존, 오리노코, 콩고 강에서 유입되는 영양분, 사하라 먼지, 해수 온난화 등이 결합되어 2010년 북대서양 사르가숨이 서아프리카 열대해역으로 흘러들어가 자가증식 벨트 형성</p><p>• **규모의 급속 증가**: 2011년 100만 메트릭톤에서 작년 4,000만 톤으로 확대되어 5년마다 질량이 두배 증가하는 추세 보임</p><p>• **관광산업 영향**: 카리브해 호텔들이 요금 인하 및 수백만 달러 규모의 청소비 투자, 멕시코 해군과 전문 인력 동원하여 매일 새벽부터 해변 청소 작업 실시</p><p>• **향후 대응 전략**: 일본으로부터 신규 외해 수거선 도입 예정(약 1개월 이내 도착), 추가 선박 확보 및 생물연료 활용 방안 모색 중</p><h3>Key Quotes</h3><p>• "Before 2010 there's nothing, and since then we've gone to up to 1 million metric tons over the entire area in 2011 to 40 million last year" (2010년 이전에는 없었던 현상이 2011년 100만 톤에서 작년 4,000만 톤으로 증가했다는 의미)</p><p>• "Experience has taught us the best way to face sargassum is to intercept it in the sea before it hits our coasts" (해초를 대처하는 최선의 방법은 해안에 도달하기 전에 해상에서 차단하는 것이라는 의미)</p><h3>Technical Insights</h3><p>• **해상 차단 기술 도입**: 전통적 해변 수거에서 해상 선제 차단으로 전환하는 해양환경 관리 기술의 진화 - 향후 자동화 선박의 해양 오염물질 수거 분야 적용 가능성 제시</p><p>• **해양 모니터링 시스템 필요성**: 남플로리다 대학의 광학해양학 연구실이 위성 기반 실시간 모니터링으로 사르가숨 확산 예측 시도 중 - AI/자동화 네비게이션 시스템과 결합하면 해양 환경관리 효율성 극대화 가능</p><p>• **지속가능 해양 산업 창출**: 수거한 사르가숨의 생물연료 전환 계획은 해양 환경 관리와 신재생에너지를 연계하는 모범 사례 - 해양 자원 활용의 새로운 비즈니스 모델 창출 기회</p><p>• **국제 해양 협력 강화**: 멕시코의 일본 선박 도입 사례는 해양 환경 문제의 국제적 해결 필요성을 보여주며, IMO 차원의 해양 환경 보호 규제 강화 추진 가능성 높음</p></div>`,
+      tags: ["Sargassum Seaweed","Caribbean Tourism","Environmental Management","Marine Solutions"],
+      link: "https://gcaptain.com/as-seaweed-piles-up-caribbean-bets-on-boats-barriers-and-biofuel/",
+      coords: [-87.3,20.5],
+      location: "Caribbean / Riviera Maya, Mexico"
+    }
+  ]
+});
+
+// Auto-collected: 2026-07-31
+addEvents({
+  "2026-07-31": [
+    {
+      type: "news",
+      title: "Enhanced Indian Scrutiny Raises Barriers for Sanctioned Vessels Seeking Recycling",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-07-31",
+      image: "https://maritime-executive.com/media/images/article/1785484807_6a6c56079340a.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **홍콩국제협약(HKC) 기반 선박해체 산업 규제 강화** - 선원 훈련, 유해물질 관리, 보건안전, 환경보호 등 국제적 기준이 강제되고 있음</p><p>• **인도 지역 100개 이상 해체시설의 HKC 규정 준수** - 협약 발효 이전에도 자발적으로 높은 기준을 채택한 시설들이 대다수</p><p>• **국제-지역 규제 불일치로 인한 선주의 혼란** - 홍콩협약, EU선박해체규정, 바젤협약 등 다층적 규제로 인한 복잡성 증가</p><p>• **Wirana Shipping의 시장 분석** - 현재 선박해체 시장의 주요 도전은 규제 준수 비용이 아닌 제한된 선박 공급에 대한 과도한 경쟁</p><p>• **규제의 일관된 이행과 투명한 경기장 조성의 중요성** - 높은 기준 유지를 위해서는 국제-지역 규제 간 조화와 효과적 집행 필요</p><h3>Key Quotes</h3><p>• "The Hong Kong Convention has provided the industry with a much stronger framework for safe and environmentally sound ship recycling" <br>(홍콩국제협약은 선박 해체 산업에 더욱 강화된 안전 및 환경친화적 틀을 제공하였다)</p><p>• "The commercial challenges the market is experiencing today are largely the result of aggressive bidding for a limited number of vessels rather than the standards themselves"<br>(시장이 현재 직면한 상업적 도전은 기준 자체가 아닌 제한된 선박 수에 대한 과도한 입찰 경쟁의 결과이다)</p><h3>Technical Insights</h3><p>• **IMO 및 국제 협약의 해체산업 표준화** - HKC 협약이 선박해체의 안전성, 환경보호, 노동자 보호 등을 국제적으로 통일된 기준으로 정립하는 중요한 역할 수행</p><p>• **다층적 규제 체계의 복잡성** - 홍콩협약, EU규정, 바젤협약 등이 혼재되어 있어 선주와 해체 사업자의 규제 준수 부담이 증가하고, 업계 표준화의 어려움 초래</p><p>• **경제적 압력과 규제 간의 긴장관계** - 강화된 규제로 인한 비용 증가보다는 제한된 공급에 대한 과도한 경쟁이 시장의 주요 압력이며, 이는 이윤 압박으로 이어짐</p><p>• **지속가능한 해운산업을 위한 제도적 개선 필요** - 국제-지역 규제의 일관된 실행과 투명한 경기장 조성을 통해 높은 환경·안전 기준의 지속적 유지 필요</p></div>`,
+      tags: ["Ship Recycling","Hong Kong Convention","Regulatory Compliance","Sustainable Shipping"],
+      link: "https://maritime-executive.com/article/enhanced-indian-scrutiny-raises-barriers-for-sanctioned-vessels-seeking-recycling",
+      coords: [72.8479,19.076],
+      location: "Indian Subcontinent"
+    }
+  ]
+});
+
+// Auto-collected: 2026-07-29
+addEvents({
+  "2026-07-29": [
+    {
+      type: "news",
+      title: "U.S. Highlights Cooperation With Taiwan's Coast Guard, Risking China's Ire",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-07-29",
+      image: "https://maritime-executive.com/media/images/article/1785370842_6a6a98da8cf21.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 미국 해안경비대(USCG)와 대만 해안경비대의 공동 순찰 협력이 공개되어 대중국 외교적 긴장 고조<br>• 미국 대만 공식 외교기관인 AIT(American Institute in Taiwan)가 상징적 협력 사진 공개 및 재해대응, 마약밀매 방지 등 공동 해양목표 강조<br>• 대만 해양사무부 장관 관비링(Kuan Bi-ling)이 미국의 대만 해안경비대 주권 승인으로 평가하며 태평양 평화 유지 의지 표현<br>• 중국이 대만 동쪽 배타적경제수역(EEZ)에서 "어업조사" 명목의 활동 진행 중이며, 인접국 EEZ 주권 도전 시도로 분석<br>• 일본-필리핀의 해양경계획정 협의에 대한 중국의 견제 차원에서 진행되는 특수해양법집행작전으로 해석</p><h3>Key Quotes</h3><p>• "The United States Coast Guard and the Taiwan Coast Guard are busy coordinating on shared maritime objectives" (미국 해안경비대와 대만 해안경비대가 해양재해 대응 및 마약밀매 방지 등 공동 해양 목표 추진 중)</p><p>• "The US truly understands that the Taiwan Coast Guard is the only law enforcement agency in Taiwan's territorial waters" (미국이 대만 해안경비대가 대만 영해의 유일한 법집행 기관임을 인정한다는 대만 정부의 입장)</p><h3>Technical Insights</h3><p>• 대만 주권 승인과 관련된 상징적 협력 공개는 외교적 매개변수로 기능하며, 국제해양법상 EEZ 주권 인정 문제와 밀접한 연관성 보유</p><p>• 중국의 "특수해양법집행작전"은 UNCLOS 해석의 정치화로, 인접국 EEZ 분쟁 해역에서의 일방적 해양주권 주장 시도로 볼 수 있음</p><p>• 미국의 대만 해안경비대 협력 공개는 태평양 지역 안정성 강화 메시지이나, 해양 경계획정 및 해양자원 개발 이권 경쟁이 선진화된 해양 분쟁으로 발전할 위험성 내재</p></div>`,
+      tags: ["U.S.-Taiwan Relations","Coast Guard Cooperation","Maritime Security","EEZ Disputes","Geopolitics"],
+      link: "https://maritime-executive.com/article/u-s-highlights-cooperation-with-taiwan-s-coast-guard-risking-china-s-ire",
+      coords: [120.9605,23.6978],
+      location: "Taiwan"
+    },
+    {
+      type: "news",
+      title: "Russia Claims Strikes on Two More Ships Near Odesa",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-07-29",
+      image: "https://maritime-executive.com/media/images/article/1785366307_6a6a87233e7b6.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 러시아 국방부는 오데사 항만 인근에서 2척의 선박과 해안 인프라에 대한 공격을 주장했으며, 해당 선박들이 우크라이나 군사 물자를 운반 중이라고 주장함</p><p>• 우크라이나의 해상 회랑(shipping corridor)은 군사 물자뿐만 아니라 흑해 곡물 수출을 통한 경제 생명선으로 기능하며, 최근 미사일과 무인기 공격이 지속적으로 통과하여 외국 선박에 피해를 입히는 중</p><p>• Golden Leo 화물선 격침으로 인한 유류 유출 위험과 선원 사상자 발생 등 해양 오염과 인명 피해가 발생하고 있음</p><p>• 이란이 카스피해 선박 피격에 대한 보복으로 우크라이나 항만 공격에 참여하려 했으나, 외교적 노력으로 추가 분쟁 확대가 억제된 상태</p><p>• 우크라이나는 이란 제공 Shahed-136 무인기(4만기 이상 러시아 투입)에 대한 방어 기술과 경험으로 GCC 국가들을 지원 중</p><h3>Key Quotes</h3><p>• "Ukraine's shipping corridor almost certainly serves the transport of arms, but its civilian usage is just as important to the country's economy." (우크라이나의 해상 회랑은 무기 수송뿐만 아니라 경제적 사용이 국가에 중요함)</p><p>• "The toll includes seafarer casualties and marine pollution - like the looming risk of a fuel spill from the lost freighter Golden Leo, which was hit by Russian missiles off Odesa." (선원 피해와 해양 오염이 발생 중이며, 러시아 미사일로 격침된 Golden Leo의 유류 유출 위험이 임박함)</p><h3>Technical Insights</h3><p>• 흑해 민간 선박에 대한 체계적인 군사 공격은 해상 운송 안전과 국제 해사법(UNCLOS)에 대한 심각한 위반으로, IMO 차원의 해상 안보 강화 논의 필요</p><p>• 무인기 및 미사일에 의한 해상 위협 증가는 선박의 자동화 항해 시스템(MASS) 개발 및 원격 운영 기술의 필요성을 강조하며, 통상 해역에서의 자율운항 선박 도입 시 군사적 위협 대응 메커니즘 필수화</p><p>• 블랙리스트/그레이리스트 제도 및 동적 항로 계획 기술을 통한 고위험 해역 회피 능력이 현대 상선의 생존 요건으로 대두되고 있음</p><p>• 국제 해운 산업의 흑해 지역 운영 중단으로 인한 글로벌 곡물/에너지 공급망 차질이 가속화되고 있으며, 우회 항로(Suez Canal, Cape of Good Hope)의 연료비 및 운송 시간 증가로 운영 비용 급증</p></div>`,
+      tags: ["Russia-Ukraine conflict","Black Sea shipping","Armed strikes","Civilian merchant ships"],
+      link: "https://maritime-executive.com/article/russia-claims-strikes-on-two-more-ships-near-odesa",
+      coords: [30.7353,46.4856],
+      location: "Odesa, Black Sea"
+    },
+    {
+      type: "accident",
+      title: "Nigerian Navy Detains Chinese-Owned Tanker Filia for Illegal Oil Theft",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-07-29",
+      image: "https://maritime-executive.com/media/images/article/Photos/Vessels_Small/Filia-crew-arrest-Nigerian-Navy.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 중국 소유의 탱커 필리아(Filia, 3,158톤)가 나이지리아 해군에 의해 불법 원유 도용 혐의로 체포됨<br>• 나이지리아 해군의 해상 감시 중 7일 이상 해상 터미널 근처에서 대기하던 선박이 7월 23일 야간에 약 650톤의 원유를 불법 적재<br>• 해군의 저지 과정에서 선박 승무원들이 도난 원유를 바다에 방출하여 해양 오염 야기<br>• 선박과 승무원 12명이 구금되었으며 추가 수사 및 기소 예정<br>• 나이지리아 해군의 '델타 센티널 작전'을 통해 4월-6월간 470만 리터의 석유 제품 회수 및 58개 불법 정제소 적발<br>• 해군의 불법 채취 억제 노력으로 나이지리아 원유 생산량이 2026년 7월 일일 189만 배럴 달성</p><h3>Key Quotes</h3><p>• "the crew began discharging the stolen crude oil into the sea, thereby causing maritime pollution" (승무원들이 도난 원유를 바다에 방출하여 해양 오염을 야기했음)<br>• "waiting for an opportunity to illegally access crude oil facilities" (선박이 불법적으로 원유 시설에 접근할 기회를 기다리고 있었다고 판단됨)</p><h3>Technical Insights</h3><p>• **불법 채취 방지 기술**: 나이지리아 해군의 지속적인 해상 감시 및 드론/선박 기반 감시 체계가 불법 원유 도용 적발에 효과적임을 입증<br>• **국제해사규칙 위반**: 홍콕 선사 소유의 선박이 무국적 또는 편의선박(Sao Tome and Principe 등록)으로 변경되어 원산지 추적 및 규제 회피 시도<br>• **해양 오염 피해**: 불법 원유 방출로 인한 직접적 환경 오염 및 국제 해양오염방지법(MARPOL) 위반으로 인한 법적 책임 강화 필요<br>• **산업 안보**: 원유 도용 방지는 국가 에너지 안보 및 경제 손실 방지뿐만 아니라 해양 생태계 보호라는 다층적 의미 보유</p></div>`,
+      tags: ["Oil Theft","Nigerian Navy","Tanker Filia","Illegal Loading","Environmental Pollution"],
+      link: "https://maritime-executive.com/article/nigerian-navy-detains-chinese-owned-tanker-accused-of-stealing-oil",
+      coords: [3.5,4],
+      location: "Nigeria (Gulf of Guinea offshore terminal)"
+    }
+  ]
+});
