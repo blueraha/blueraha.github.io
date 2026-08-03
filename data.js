@@ -13101,3 +13101,71 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-07-31
+addEvents({
+  "2026-07-31": [
+    {
+      type: "accident",
+      title: "GasLog LNG Tanker Safe Following Strait of Hormuz Incident",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-03",
+      image: "https://images.marinelink.com/images/maritime/w800/vladsv-adobe-172617.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 발생**: 그리스 선사 GasLog가 운영하는 LNG 운반선 Gaslog Shanghai가 호르무즈 해협 통과 중 7월 31일 사건 발생, 선원 전원 안전 확인<br>• **선박 및 운영사**: Gaslog Shanghai (LNG 운반선), GasLog LNG Services가 긴급계획 즉시 발동 및 관련 당국에 통보<br>• **화물 정보**: 카타르 라스 라판 터미널에서 7월 27-28일 LNG 화물 적재, 현재 오만 무산담 반도 외측에 정박<br>• **지역 안보 상황**: 2월 미-이란 전쟁 이후 호르무즈 해협 폐쇄 상태, 전 세계 LNG의 약 20% 통과 지역<br>• **최근 유사 사건**: 7월 31일-8월 2일 오만 해역에서 미식별 발사체 공격 2건, 8월 1일 카사브 동북쪽 약 20해리 지점에서 폭발 발생<br>• **선행 사건**: 7월 7일 카타르 LNG 운반선 Al Rekayyat가 발사체 공격으로 기관실 화재 발생, 승무원 전원 이탈</p><h3>Key Quotes</h3><p>• "GasLog LNG Services immediately activated their emergency plan, notified all relevant authorities, and is currently assessing the condition of the vessel and assure the safety of our people" (긴급 계획을 즉시 발동하고 모든 관련 당국에 통보했으며, 선박 상태를 평가 중이고 승무원 안전을 보장하고 있음)</p><p>• "Nearly a fifth of global LNG passes through the waterway, including most shipments from Qatar and the United Arab Emirates" (전 세계 LNG의 약 5분의 1이 이 수로를 통과하며, 카타르와 아랍에미리트의 대부분 출하량이 포함됨)</p><p>• "Iran has largely closed the Strait of Hormuz since the start of the war with the United States which started in February, causing energy prices to rise and stoking broader global inflation" (이란은 2월 시작된 미국과의 전쟁 이후 호르무즈 해협을 거의 폐쇄했으며, 이는 에너지 가격 상승과 광범위한 글로벌 인플레이션을 유발)</p><h3>Technical Insights</h3><p>• **호르무즈 해협 안보 위협**: 호르무즈 해협은 전 세계 LNG의 약 20%가 통과하는 핵심 해운 항로이나, 현재 미-이란 분쟁으로 인한 발사체 공격 위협이 심화되고 있으며 해상 운송 안전성 및 에너지 가격 안정성에 심각한 영향 초래</p><p>• **LNG 운반선 취약성**: 대형 LNG 운반선은 귀중한 고가 화물을 운반하면서도 발사체 공격에 취약한 상황이며, 최근 다수의 공격 사건(Al Rekayyat 7월 7일, Gaslog Shanghai 7월 31일, 기타 탱커들)으로 인해 LNG 운송업계의 위험 관리 및 선박 설계 강화 필요성 대두</p><p>• **IMO/국제 해운 규제 대응**: 호르무즈 해협과 같은 고위험 해역 통과 선박에 대한 IMO의 보안 지침 강화, UKMTO(영국 해상 무역 작전)를 통한 실시간 위협 정보 공유 체계 운영 중이며, 자율운항선박(MASS) 도입 시 이러한 안보 상황 대응 능력이 중요 고려사항</p><p>• **글로벌 에너지 공급 사슬 리스크**: 호르무즈 해협 사태로 인한 해상 운송 차질이 국제 에너지 가격 상승과 글로벌 인플레이션을 야기하고 있으며, 해운업계의 리스크 관리 강화 및 대체 해상 통로 다원화 필요</p></div>`,
+      tags: ["LNG Tanker","Strait of Hormuz","Maritime Incident","GasLog Shanghai"],
+      link: "https://www.marinelink.com/news/gaslog-lng-tanker-safe-following-strait-541711",
+      coords: [56.5538,26.1205],
+      location: "Strait of Hormuz, Oman"
+    }
+  ]
+});
+
+// Auto-collected: 2026-04-01
+addEvents({
+  "2026-04-01": [
+    {
+      type: "accident",
+      title: "Odfjell Drilling's Deepsea Atlantic Returns to Work After BOP Drop Incident",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-08-03",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/08/Deepsea-Atlantic-Source-Odfjell-Drilling.jpg?image-crop-positioner-ts=1785744418",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 오드피엘 드릴링(Odfjell Drilling)의 17년식 반잠수식 시추선 "Deepsea Atlantic"에서 2026년 4월 시추공 방지기(BOP)가 1,100미터 깊이의 해저로 낙하하는 장비 취급 사고 발생</p><p>• **영향 및 손실**: 해당 선박이 106일간 운항 중단(off-hire)되었으며, BOP 회수 및 교체, 시추선 수리 비용 발생</p><p>• **복구 조치**: 낙하된 BOP를 성공적으로 인양하고 비축 중이던 예비 BOP를 설치한 후 선박을 야드에서 수리 완료</p><p>• **보험 처리**: 오드피엘 드릴링이 보유한 보험이 BOP 손실 및 회수/교체 비용, 선박 수리 비용을 커버함</p><p>• **운영사**: 노르웨이 대륙붕(NCS) 석유 시추 작업을 수행 중인 에퀴노르(Equinor) 계약 업체</p><p>• **선박 사양**: GVA 7500 설계의 6세대 쌍 더릭(dual-derrick) 동적 위치 유지 선박</p><h3>Key Quotes</h3><p>• "Since the incident and, in addition to the relentless dedication and effort of Odfjell Drilling employees, the company has received widespread support and worked closely with its clients, suppliers, peers and other stakeholders to resolve the issue" (사건 이후 오드피엘 드릴링 직원들의 지속적인 노력 외에도, 회사는 고객, 공급업체, 동료사 및 이해관계자들의 광범위한 지원을 받아 문제 해결을 위해 긴밀히 협력했음)</p><p>• "Odfjell Drilling highlights that it has insurance that covers recovery and/or replacement of the dropped BOP as well as costs associated with repair work on the rig itself" (오드피엘 드릴링은 낙하된 BOP의 회수 및/또는 교체와 선박 수리 비용을 보장하는 보험을 보유하고 있음을 강조)</p><h3>Technical Insights</h3><p>• **BOP 안전 관리**: 시추공 방지기(Blowout Preventer)는 해양 시추 작업에서 가장 중요한 안전 장비로, 낙하 사고는 운영 중단 및 막대한 경제적 손실을 초래하는 중대 사고에 해당</p><p>• **해양 시추 규제**: 국제 해양 안전 규정(IMO) 및 유럽 해양 안전청(EMSA) 기준에 따라 북해 시추 작업 시 BOP 낙하 같은 장비 사고는 상세한 조사 및 보고 의무화</p><p>• **산업 운영 영향**: 심해 시추 장비 손상 사고로 인한 106일간의 운항 중단은 에너지 산업의 공급 안정성 저하 및 비용 증가 초래, 보험 제도의 중요성 재확인</p><p>• **사전 예방 강화**: 장비 취급 절차의 개선, 작업자 교육 강화, 예비 부품 확보 등 사고 예방 및 신속한 복구 능력이 해양 시추 산업의 운영 안정성 확보에 필수적</p></div>`,
+      tags: ["BOP incident","semi-submersible rig","equipment handling","North Sea","Odfjell Drilling"],
+      link: "https://www.offshore-energy.biz/odfjell-drillings-2009-built-rig-goes-back-to-work-after-bop-incident-related-hiatus/",
+      coords: [2.5,58.5],
+      location: "Norwegian Continental Shelf, North Sea"
+    }
+  ]
+});
+
+// Auto-collected: 2026-08-03
+addEvents({
+  "2026-08-03": [
+    {
+      type: "news",
+      title: "Saudi Oil Tankers Cross Red Sea as Hormuz Traffic Slows Amid Houthi Attacks",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-03",
+      image: "https://images.marinelink.com/images/maritime/w800/parilov-adobe-172618.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 홍해와 호르무즈 해협을 통과하는 유조선 교통량이 후티 반군의 공격 보고에 따라 급격히 감소하고 있음. 일요일 홍해 통과 선박은 27척(토요일)에서 18척으로 하락, 호르무즈 해협은 19척(금요일)에서 10척(토요일)으로 급락</p><p>• 사우디 원유 적재 수에즈맥스 유조선 레스보스(약 100만 배럴)와 초대형유조선 데시 바이바브(200만 배럴)가 AIS 트랜스폰더를 꺼진 상태로 홍해를 빠져나감. 해운사들의 보안 우려로 인한 AIS 비활성화 증가 추세 확인</p><p>• 이란 친화적 후티 반군이 7월 20일 사우디아라비아에 대한 해상 금수조치 선언 후 공격 확대, 영국 해양무역청이 토요일 이후 추가 3건의 유조선 공격 보고</p><p>• 파나마 국적 러시아 납사 운반 유조선이 홍해 우회로 변경, 아프리카 주변항로로 운항 계획. 지정학적 위험으로 인한 해운 경로 재설정 심화</p><p>• 호르무즈 해협의 세계 원유 및 LNG 거래량 약 1/5 통과 경로로서의 중요성 재확인, 에너지 공급망 차질 확대 가능성 대두</p><p>• 다이나콤(레스보스 관리사), 인도 해운공사, ADNOC 로지스틱스 등 주요 해운사들의 공식 입장 거부로 보안 운항 강화 추정</p><h3>Key Quotes</h3><p>• "The Iran-aligned Houthis declared a maritime embargo against Saudi Arabia on July 20, opening a new front against the U.S. and its allies in the Iran war and expanding attacks on tankers carrying global energy and other supplies"<br>(이란 친화적 후티 반군이 7월 20일 사우디아라비아에 대한 해상 금수조치를 선언하며 이란 전쟁에서 미국과 동맹국을 상대로 새로운 전선을 열었으며, 글로벌 에너지와 기타 물자를 운반하는 유조선 공격을 확대하고 있음)</p><p>• "Some vessels may have switched off their AIS and cannot immediately be accounted for"<br>(일부 선박들이 AIS를 꺼서 즉시 파악할 수 없는 상황이 발생하고 있음 - 해운사들의 보안 강화 조치)</p><p>• "a Panama-flagged tanker carrying Russian naphtha has changed course to sail around Africa instead of going through the Red Sea"<br>(파나마 국적 러시아 납사 운반 유조선이 홍해를 통과하는 대신 아프리카 주변항로로 항로 변경 - 우회 항로 비용 증가 의미)</p><h3>Technical Insights</h3><p>• **AIS 비활성화 추세**: 홍해 및 호르무즈 해협에서 선박들의 AIS 트랜스폰더 비활성화가 증가하고 있으며, 이는 IMO 안전규정 준수와 운항 보안 간의 긴장 관계를 야기. SOLAS 규정상 AIS 의무 운영 규정과 실제 보안 위협 상황의 불일치 해결 필요</p><p>• **해운 경로 재편성**: 기존 홍해-수에즈 운하 경로에서 아프리카 우회 항로로의 전환 증가로 운송 시간 및 연료비 증가. 이는 글로벌 해운 비용 상승과 에너지 가격 인상으로 이어질 가능성</p><p>• **지역 분쟁의 해운업 영향**: 후티 반군의 선박 공격으로 인한 상선의 해협 통과 기피 현상이 심화되고 있으며, 호르무즈 해협 일일 통과량 약 50% 감소. UNCLOS와 국제 해상 안전 체계의 실효</p></div>`,
+      tags: ["Red Sea","Strait of Hormuz","Tanker Traffic","Houthi Attacks","Oil Shipping","Maritime Security"],
+      link: "https://www.marinelink.com/news/saudi-oil-tankers-cross-red-sea-hormuz-541712",
+      coords: [43.5,12.5],
+      location: "Red Sea / Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "Study: Jones Act Waiver Could Cost U.S. Shipbuilding $2.6B Annually",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-08-03",
+      image: "https://maritime-executive.com/media/images/article/Photos/Vessels_Large/lone-star-state-nassco-jones-act-tanker.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• PwC가 Transportation Institute 의뢰로 수행한 연구에 따르면, Jones Act 면제 조치의 장기 연장 시 미국 조선업 부문에서 최대 $2.6억의 수요 감소 예상<br>• 이란과의 분쟁으로 인한 에너지 가격 상승에 대응하여 2026년 3월 17일부터 시행된 Jones Act 면제는 150일 연장되었으며 곧 재검토 예정<br>• 최악의 시나리오에서 $1.8억의 세수 감소, $12억의 노동 소득 손실, 22,000~130,000명의 고용 영향 가능성<br>• PwC 분석은 면제 정책의 지속 여부, 조선소의 대응, 외국선 vs Jones Act 일당료 차이 등 다양한 가정에 따라 10배까지 결과 편차 발생<br>• 연간 선박 갱신 및 조선소 현대화 관련 자본투자 $1.1~2.6억 규모 위험에 처할 수 있음</p><h3>Key Quotes</h3><p>• "up to $2.6 billion in lost domestic shipbuilding demand, $1.8 billion in lost tax revenue, and $12 billion in lost labor income in a worst-case scenario" <br>(최악의 경우 국내 조선 수요 $2.6억, 세수 $1.8억, 노동 소득 $12억의 손실 가능)</p><p>• "the Jones Act allocation out of total U.S. shipyard sector activity is (conservatively) about 20 percent, the remainder being performed primarily for the industry's U.S. Navy customer"<br>(미국 조선소 총 활동의 약 20%가 Jones Act 관련이며 나머지는 주로 해군 수주로 구성)</p><h3>Technical Insights</h3><p>• Jones Act는 미국 국내 해운 보호를 위한 규제이며, 이의 면제는 외국 선박의 미국 국내 화물 운송 허용으로 국내 선사 및 조선업체의 경쟁력 약화 초래<br>• 에너지 가격 완화 목표의 면제 정책이 실제 연료비 인하에 미치는 영향이 미미하면서 정책의 실효성 논쟁 심화<br>• PwC 분석의 광범위한 불확실성(10배의 편차)은 조선소 용량, 선사의 투자 의사결정, 외국선과의 일당료 격차 등 시장 요인의 변동성 반영<br>• 장기 면제 연장 시 미국 조선소의 투자 부진으로 함정/상선 건조 능력 약화 및 국방-해사 산업 통합 역학에 부정적 영향 가능</p></div>`,
+      tags: ["Jones Act","U.S. Shipbuilding","Maritime Policy","Economic Impact"],
+      link: "https://maritime-executive.com/article/study-long-jones-act-waiver-could-cut-u-s-shipbuilding-activity-by-2-6b",
+      coords: [-77.0369,38.8951],
+      location: "United States"
+    }
+  ]
+});
