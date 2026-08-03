@@ -13015,3 +13015,89 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-02
+addEvents({
+  "2026-08-02": [
+    {
+      type: "news",
+      title: "Saronic's Marauder autonomous warship completes intensive sea trials",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-08-02",
+      image: "https://defence-blog.com/wp-content/uploads/2026/08/DB_image_1936.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Saronic Technologies의 자율주행 함정 'Marauder'가 설계에서 12개월 만에 수상 시험 단계에 진입하여 주 7일 12시간 이상 지속적인 해상 시험 진행 중</p><p>• 180피트(54.9m) 규모의 무인 수상함으로 최대 속도 25노트, 항속거리 5,400해리, 150톤의 탑재량을 보유한 다목적 자율주행 플랫폼</p><p>• 미 해군의 MUSV(Medium Unmanned Surface Vessel) Marketplace 프로그램에서 7개 기업 중 하나로 선정되어 해상 시험 단계 진행</p><p>• 자율주행 함정은 개별 드론과 달리 장시간 원해에서 안정적으로 운영되어야 하므로 극도로 엄격한 검증 기준 적용</p><p>• 선단 회피, 침로 유지, 장비 신뢰성 등 해상 운영의 모든 조건에서 완전 자율 운영 능력 입증 필요</p><h3>Key Quotes</h3><p>• "The team took Marauder from initial design to on-water trials in under 12 months. Now we're running it on the water 12+ hours a day, seven days a week, proving out the autonomy at range and in conditions that don't cooperate." (설계 단계에서 수상 시험까지 12개월 만에 달성했으며, 현재 주 7일 12시간 이상 운영하며 불리한 해양 조건에서도 자율주행 능력을 입증 중)</p><p>• "A drone that malfunctions can often be recovered or simply crashes with limited consequence, but a 180-foot autonomous ship operating far from shore, potentially for weeks at a time, has to reliably navigate shipping lanes, avoid collisions, hold course through rough seas, and keep its onboard systems functioning without a crew aboard." (무인 함정은 드론과 달리 수주 동안 원해에서 독립적으로 운영되며 충돌 회피, 항로 유지 등 모든 기능이 신뢰성 있게 작동해야 함)</p><h3>Technical Insights</h3><p>• **해양 자율주행의 검증 난제**: 육상 및 항공 무인시스템과 달리 해상 무인함정은 원해에서 장시간 독립 운영되어야 하므로 안전성 입증 기준이 극도로 높음. 선박 충돌방지규칙(COLREG) 준수와 비상 상황 대응 능력이 필수</p><p>• **다목적 모듈식 설계의 가치**: 40피트/20피트 표준 해운 컨테이너로 탑재량 구성이 가능하여 정찰, 통신중계, 물류, 기만작전, 해저 모니터링 등 다양한 임무 재구성 가능. 해군과 상업 운영자 모두에 유연성 제공</p><p>• **신속한 기술 검증 전략**: Saronic의 12개월 단기 개발 및 극강의 해상 시험 일정은 해군의 신속한 무인화 정책 추진과 일치. MUSV Marketplace 프로그램을 통해 산업 경쟁을 가속화하는 전략적 접근</p><p>• **IMO/국제 해사 규제 대응**: 완전 자율주행 함정의 광해 운영은 해양 교통 관제 시스템과의 통합, AIS 신호 관리, 타 함정과의 안전한 거리 유지 등 국제 해사 규제 프레임워크와의 조화가 핵심 과제</p></div>`,
+      tags: ["autonomous warship","unmanned surface vessel","USV","sea trials","Saronic Technologies"],
+      link: "https://defence-blog.com/saronic-runs-marauder-robot-warship-through-nonstop-sea-trials/",
+      coords: [-97.7431,30.2672],
+      location: "Austin, Texas (Saronic HQ)"
+    }
+  ]
+});
+
+// Auto-collected: 2026-08-01
+addEvents({
+  "2026-08-01": [
+    {
+      type: "accident",
+      title: "LNG Carrier Gaslog Shanghai Hit by Projectile in Strait of Hormuz",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-08-02",
+      image: "https://maritime-executive.com/media/images/article/1785693220_6a6f84248d560.jfif",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 버뮤다 선적 LNG 운반선 Gaslog Shanghai (IMO 9600528)가 2026년 8월 1일 호르무즈 해협 리마 북동쪽 11해리 위치에서 미식별 발사체에 피격되어 전력 상실 및 기동 불능 상태 진입<br>• 카타르 라스 라판에서 선적된 LNG를 운반 중이던 선박의 엔진룸 영역에 직격, 승무원 피해 없음<br>• 동일 시간대 라이베리아 선적 유조선도 미사일 또는 드론 공격으로 피격되었으나 손상 및 사상자 없이 항행 계속<br>• 호르무즈 해협 통과 해상 교통량 대폭 감소, 걸프만 내 선적 활동 중단으로 해운 백로그 발생<br>• 오만-이란 양자 협상 진행 중, 호르무즈 해협 통과 선박 항로 분리에 관한 잠정 합의 임박 상황</p><h3>Key Quotes</h3><p>• "The vessel lost all power and was disabled, but with no casualties reported amongst the crew." (선박은 전력을 상실하고 기동 불능 상태가 되었지만 승무원 중 인명 피해는 없음)</p><p>• "The agreement being finalized by Oman and Iran calls for inward traffic to use a northern channel in Iranian waters, and for exiting traffic to use a route wholly within Omani territorial waters." (오만-이란이 최종화하는 협정은 유입 해상 교통은 이란 영해 내 북부 항로를 사용하고, 유출 교통은 오만 영해 전역의 항로를 사용하도록 규정)</p><h3>Technical Insights</h3><p>• 호르무즈 해협의 지정학적 위험성 증대로 인한 LNG 운반선 피해 발생 - 국제 해상 안전 규정 및 COLREG 준수 불가능 상황 발생, IMO 해역 통제 및 피항 가이드라인 강화 필요<br>• 교전 지역 통과 선박의 자율화 도입 시 원격 조종 및 육상 기반 결정 체계의 필수성 강조 - 위험 지역에서 인간 선원의 탈출 및 피난 경로 확보 기술 개발 시급<br>• 해상 교통 백로그 발생에 따른 LNG 공급망 차질 위험 및 글로벌 에너지 안보 영향 - 대체 해로 개발(Red Sea 경유) 및 육상 루트 다각화 전략 필요</p></div>`,
+      tags: ["LNG Carrier","Iranian Attack","Strait of Hormuz","Missile Strike"],
+      link: "https://maritime-executive.com/article/lng-carrier-hit-by-iranian-attack-in-strait-of-hormuz",
+      coords: [56.2,26.1],
+      location: "Strait of Hormuz, Omani coastal waters"
+    }
+  ]
+});
+
+// Auto-collected: 2026-07-19
+addEvents({
+  "2026-07-19": [
+    {
+      type: "accident",
+      title: "Port of Tyne Closes for Recovery Operations After Containership Allision and Crane Collapse",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-07-29",
+      image: "https://maritime-executive.com/media/images/article/Photos/Wreckage_Salvage/Port-of-Tyne-crane-and-BG-Orange.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 2026년 7월 19일 Port of Tyne에서 WTIV Wind Orca 선박이 정박 중인 BG Orange(1,400TEU 컨테이너선)과 충돌하는 사건 발생</p><p>• **피해 규모**: 170미터 포르투갈 등록 컨테이너선이 손상되었고, 750톤급 갠트리 크레인이 붕괴하여 선박 위에 낙하, 약 10억 개의 플라스틱 너들(nurdles) 방출</p><p>• **복구 작업**: 7월 30일 9시간 동안 Port of Tyne 및 River Tyne 폐쇄, 손상된 컨테이너 정리 및 갠트리 크레인 제거 작업 진행 중</p><p>• **환경 영향**: 손상된 컨테이너에서 방출된 플라스틱 너들이 강 전역에 확산되어 환경단체의 우려 및 자원봉사자들의 정화 작업 진행</p><p>• **조사 진행**: Wind Orca 선박은 여전히 항만에 정박 중이며 조사 진행 중, 사건으로 인해 항만 운영 정상화 지연</p><h3>Key Quotes</h3><p>• "This remains a complex and critical operation, and we thank all river users for their patience while the work is carried out." (현재 복잡하고 중요한 복구 작업이 진행 중이며, 모든 강 사용자의 인내심에 감사한다)</p><p>• "Environmentalists have estimated that about one billion of the small beads were released." (환경단체에서는 약 10억 개의 작은 플라스틱 너들이 방출된 것으로 추정)</p><h3>Technical Insights</h3><p>• **항만 안전 관리**: 항만 내 정박 선박의 안전 거리 및 갠트리 크레인 운영 중 충돌 방지 프로토콜 강화 필요</p><p>• **해양 환경 오염**: 컨테이너 적재 및 고정 기준의 개선, 플라스틱 너들과 같은 소형 화물 누출 방지 메커니즘 도입 필수</p><p>• **항만 운영 복원력**: 사건으로 인한 9일간의 항만 폐쇄는 자동차 운송, 벌크 화물, 해상풍력 산업 지원 등 다양한 항만 기능에 영향, 항만 재난 대응 체계 고도화 필요</p><p>• **국제해사규칙(COLREG) 적용**: 항만 내 제한된 수역에서의 선박 조종 규정 및 갠트리 크레인 운영자와의 통신 프로토콜 검토 필요</p></div>`,
+      tags: ["allision","containership","gantry crane collapse","environmental damage","nurdles spill"],
+      link: "https://maritime-executive.com/article/port-and-river-tyne-to-close-to-clear-damaged-containership-and-crane",
+      coords: [-1.4438,54.967],
+      location: "Port of Tyne, England"
+    }
+  ]
+});
+
+// Auto-collected: 2026-07-29
+addEvents({
+  "2026-07-29": [
+    {
+      type: "news",
+      title: "HD Hyundai Launches First Ship From Revitalized Philippine Shipyard",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-07-29",
+      image: "https://maritime-executive.com/media/images/article/Photos/Shipbuilding/Orion-Jade-HD-Hyundai-Philippines.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• HD현대(HD Hyundai)가 필리핀 수빅베이의 구 한진조선소를 인수하여 운영을 재개한 지 1년 만에 첫 신조선박 "오리온 제이드(Orion Jade)" 진수에 성공</p><p>• 11만 5,000톤급 석유화학 탱커로서 길이 250미터, 2024년 12월 아시아 소유사로부터 4척 발주 중 첫 번째 선박</p><p>• 수빅베이 조선소는 2019년 폐업 이후 약 7년 만에 재가동되어 현지에 4,000개 이상의 고용 창출, 향후 2배 규모 확대 예정</p><p>• HD현대는 향후 3~5년 내 연간 10척 규모 생산 목표 설정, 벌크선과 제품유조선 중심 건조 계획</p><p>• 필리핀 정부가 1970년대 연 200만톤의 선박 건조능력 회복을 목표로 전략적 외자 유치에 주력 중</p><h3>Key Quotes</h3><p>• "Today's launching marks a historic milestone for HHIP. It's the third time we have transformed our vision into reality, and today, we proudly celebrate another important step in our journey." <br>(오늘의 진수식은 HD현대 필리핀의 역사적 이정표이며, 우리의 비전을 현실화한 세 번째 시간으로 우리 여정의 또 다른 중요한 진전을 축하합니다)</p><p>• "The Philippines marked a key milestone in its long efforts to revitalize the former shipbuilding operations at Subic Bay"<br>(필리핀이 수빅베이의 과거 조선 운영을 활성화하려는 오랜 노력에서 주요 이정표를 달성했습니다)</p><h3>Technical Insights</h3><p>• 저가 조선소 확보를 통한 조선 산업의 원가 경쟁력 강화 - HD현대의 한국·베트남·필리핀 다층 조선소 네트워크 완성으로 글로벌 시장 점유율 확대 전략</p><p>• 필리핀 조선산업 부활의 경제적 파급효과 - 수빅베이 조선소 재가동으로 동남아 해운 산업 생태계 활성화 및 중소조선소 클러스터 형성 가능성</p><p>• 탱커선 건조 중심 전략의 시장 적합성 - 석유화학 탱커 및 제품유조선 수요 증가에 대응하는 전략적 선택으로, 중국·한국 조선소와의 차별화 필요</p></div>`,
+      tags: ["Shipbuilding","HD Hyundai","Philippines","Subic Bay","Petrochemical Tanker"],
+      link: "https://maritime-executive.com/article/hd-hyundai-launches-first-ship-from-revitalized-philippine-shipyard",
+      coords: [120.8274,14.8357],
+      location: "Subic Bay, Philippines"
+    },
+    {
+      type: "news",
+      title: "South Korea's Panstar Line Opens Bookings for First Commercial Arctic Container Voyage via Northern Sea Route",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-07-29",
+      image: "https://maritime-executive.com/media/images/article/Photos/Vessels_Large/Rosatom-containership-Arctic.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 남한 팬스타라인이 북극해 북동항로(NSR)를 통한 첫 상업용 컨테이너선 운항 예약을 개시했으며, 8월 22일 부산에서 출발 예정<br>• 2,800 TEU 규모의 극지 인증 선박을 투입하며, 로테르담, 함부르크, 그단스크 등 유럽 주요 항구로 운항<br>• 한국 정부가 팬스타그룹을 공식 선정했으며, 한국해양수산개발원과 한국무역협회 등과 협력하여 추진 중<br>• 자동차 부품, 합성수지, 중고차, 식품, K뷰티 제품, 철강 등 다양한 화물의 예약 문의가 급증<br>• 수에즈 운하의 지정학적 위험과 홍해 위기에 따른 공급망 다층화 필요성이 증가하면서 북극해 항로에 대한 관심 급상승</p><h3>Key Quotes</h3><p>• "The cargo currently secured or under negotiation is diverse, including automotive parts and synthetic resins, which are key exports to Northern Europe, as well as used cars, food products, liquid cargo, K-beauty products, and steel products" <br>(현재 확보되거나 협상 중인 화물은 자동차 부품, 합성수지 등 북유럽 주요 수출품을 포함하여 매우 다양함)</p><p>• "Particularly amidst heightened uncertainty regarding the existing Suez Canal route due to the Red Sea crisis and geopolitical risks, the Arctic Route is attracting interest as an alternative capable of"<br>(홍해 위기와 지정학적 위험으로 인한 기존 수에즈 운하 항로의 불확실성 속에서 북극해 항로가 대체 수송로로서의 관심을 받고 있음)</p><h3>Technical Insights</h3><p>• 기후변화로 인한 북극해 항해 가능 기간 확대와 극지 인증(Polar Certificate) 요건 충족으로 상용 운항이 가능해진 상황을 반영한 사례<br>• 북동항로 활용으로 아시아-유럽 간 운송 시간 단축 및 해운 비용 절감이 가능하며, 이는 글로벌 공급망 재편의 핵심 전략<br>• 오사카, 도쿄, 나고야, 요코하마, 고베 등 일본 항구를 통한 환적 옵션 제공으로 한·중·일 3국 물류네트워크 확장 가능성 제시<br>• 중국 해운사들의 북극해 진출에 대응하는 한국의 선제적 대응으로, 향후 정기 운항 서비스 전환 시 산업 경쟁력 강화 예상</p></div>`,
+      tags: ["Arctic Shipping","Northern Sea Route","Container Shipping","South Korea","Panstar Line","Supply Chain Diversification"],
+      link: "https://maritime-executive.com/article/bookings-begin-for-south-korea-s-first-commercial-arctic-container-voyage",
+      coords: [129.0756,35.0995],
+      location: "Busan, South Korea"
+    }
+  ]
+});
