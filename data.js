@@ -13201,3 +13201,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-04
+addEvents({
+  "2026-08-04": [
+    {
+      type: "news",
+      title: "Singapore Navy Deploys RTsys COMET-MCM AUVs for Mine Countermeasures",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-08-04",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/07/RTSYS-Comet300-20-©RTSYS-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 싱가포르 해군이 프랑스 RTsys Underwater Technologies와 국방과학기술청(DSTA)이 공동 개발한 COMET-MCM 자율수중차량(AUV)을 공식 배치하여 기뢰 탐지 및 식별 작전을 수행함</p><p>• COMET-MCM은 고해상도 측면주사소나(side scan sonar)를 장착하고 12시간 이상 자율 운영이 가능하며, 해저 광대 지역을 정밀하게 매핑할 수 있는 첨단 무기체계임</p><p>• 싱가포르 해협은 연간 15만 척 이상의 선박이 통과하는 전 세계 최고의 전략적 해상로로, 기뢰 위협으로 인한 중단은 아시아-태평양 지역 해상 안전 및 국제 무역에 심각한 영향을 미칠 수 있음</p><p>• COMET-MCM은 탐지, 분류, 식별, 제거 등 기뢰 대응 작전의 전 단계에서 운용되며, 소나 함정의 소나와 수중 음향 탐지기(SONADIVE) 등 다른 시스템과 통합 운영됨</p><p>• 프랑스 브르타뉴 Lanester의 RTsys 신규 공장에서 제조되며, 실전 운영 조건에서 강건성과 실시간 추적 데이터 전송 능력이 입증됨</p><h3>Key Quotes</h3><p>• "The COMET-MCM is the result of more than a decade of cooperation" (COMET-MCM은 10년 이상의 협력 결과물이다)</p><p>• "These autonomous underwater vehicles are deployed during the initial stages of mine countermeasures operations to detect, locate, and identify suspicious objects on the seafloor with a very high degree of precision" (이들 자율수중차량은 기뢰 대응 작전의 초기 단계에서 배치되어 해저의 의심 물체를 매우 높은 정밀도로 탐지, 위치파악, 식별한다)</p><h3>Technical Insights</h3><p>• **자율 수중로봇 기술의 군사적 활용**: COMET-MCM의 12시간 이상의 자율 운영 능력과 고해상도 측면주사소나 기술은 해역 보안 및 기뢰 대응 작전의 효율성을 획기적으로 향상시킴</p><p>• **인명 피해 최소화와 작전 효율성 증대**: AUV의 도입으로 승선원의 위험 지역 노출을 제한하고 동시에 광대한 해역의 신속한 정찰이 가능해져 기뢰 대응 작전 시간 단축</p><p>• **해역 통행 안전 보장의 중요성**: 연 15만 척 이상이 통과하는 싱가포르 해협의 기뢰 위협 제거는 글로벌 해상 무역로 보호와 국제 경제 안보의 핵심 요소로서 자율 기술의 전략적 가치를 입증</p><p>• **국제 기술 협력의 모범 사례**: 프랑스의 수중 로봇 기술과 싱가포르의 운영 요구사항 이해가 결합되어 글로벌 해양 방위 기술의 고도화를 촉진</p></div>`,
+      tags: ["Autonomous Underwater Vehicles","Mine Countermeasures","Singapore Navy","Maritime Security"],
+      link: "https://www.navalnews.com/naval-news/2026/08/singapore-navy-deploys-rtsys-comet-mcm-auvs-for-mine-countermeasures/",
+      coords: [103.8198,1.3521],
+      location: "Singapore Strait"
+    }
+  ]
+});
+
+// Auto-collected: 2026-08-03
+addEvents({
+  "2026-08-03": [
+    {
+      type: "news",
+      title: "August Freight Rates for Russian Urals Rise 50% Amid Black Sea Security Risks",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-03",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockgrispb-172643.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **운임 급등**: 러시아 우랄유 해상운송료가 7월 중순 대비 약 50% 상승했으며, 아프라맥스는 800~900만 달러에서 1,300만 달러로, 수에즈맥스는 1,000만 달러에서 1,500만 달러로 인상됨</p><p>• **흑해 보안 위협**: 우크라이나의 7월 흑해 탱커 공격으로 노보로시스크와 카스피안 파이프라인 컨소시엄 터미널 선적이 중단되었으며, 선사들의 러시아 항구 기피 현상 심화</p><p>• **공급 부족**: 높아진 위험도로 인해 용선 확보가 어려워지고 선적이 지연되고 있으며, 톤수 부족으로 러시아의 8월 수출 증대 계획에 제약 발생</p><p>• **수익 감소**: 운임 인상으로 인해 러시아 석유 수출 수익이 배럴당 5달러 이상 감소할 것으로 예상되며, 7월 서부 항구 수출량이 6월 대비 하락</p><p>• **시장 파급효과**: 아시아 수요는 견고하나 공급 제약으로 글로벌 해운비 상승 가속화 우려</p><h3>Key Quotes</h3><p>• "It appears that many shipowners are pulling out of Russian ports because the risks have become too high" (많은 선사들이 위험도 상승으로 러시아 항구에서 철수 중)</p><p>• "Ukraine stepped up attacks on tankers in the Black Sea in July, damaging several vessels and forcing the suspension of loadings at Novorossiysk" (우크라이나가 7월 흑해 탱커 공격을 강화하여 여러 선박에 피해를 입히고 노보로시스크 선적 중단 초래)</p><h3>Technical Insights</h3><p>• **해운 시장 변동성**: 지정학적 위험으로 인한 특정 항로 회피 시 운임 급등 현상은 글로벌 선박 배치 및 용선 시장에 즉각적인 영향을 미치는 사례</p><p>• **항만 운영 중단의 경제적 파급**: 주요 원유 수출항인 노보로시스크의 선적 중단은 공급 체인 전체에 병목 현상을 발생시켜 대체 항로 수송료 급등을 유발</p><p>• **위험 프리미엄**: 흑해 해상 보안 위협이 운임에 반영되면서 선박주들의 위험 회피 심화로 공급 부족 악순환 가능성</p><p>• **IMO/SOLAS 준수 관련**: 전쟁 위험 지역 운항 시 선원 보호 및 보험 담보 이슈로 인한 추가 비용 및 규제 복합화</p></div>`,
+      tags: ["Freight Rates","Black Sea","Tanker Operations","Security Risk","Russia Oil Exports","Shipping Costs"],
+      link: "https://www.marinelink.com/news/august-freight-rates-russian-urals-rise-541735",
+      coords: [37.7597,44.6209],
+      location: "Black Sea / Novorossiysk"
+    }
+  ]
+});
