@@ -13169,3 +13169,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-03
+addEvents({
+  "2026-08-03": [
+    {
+      type: "news",
+      title: "Managing Risks in Battery-Related Marine Fires: Investigation and Subrogation Perspectives",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-03",
+      image: "https://images.marinelink.com/images/maritime/w800/copyright-mino21adobestock-172629.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 해양 산업에서 리튬이온 배터리 관련 화재 사고가 증가하고 있으며, 이러한 사건들은 전통적인 해양 화재보다 더 심각한 결과를 초래하는 경향이 있음</p><p>• 열폭주(thermal runaway) 현상이 핵심 위험 요소로, 일단 시작되면 자기 지속적 반응으로 진행되어 통제가 어려우며 선박 전손 사태까지 발생 가능</p><p>• 배터리 관련 화재 위험은 하이브리드/전기 추진 선박, 전기차 운송선, 에너지 저장 시스템 등 다양한 해양 분야에서 나타나고 있음</p><p>• 조사 관점에서 화재 현장의 증거 소실이 주요 도전 과제이며, 다중 정보 분석을 통한 원인 규명이 필수적</p><p>• Allianz Global Corporate & Specialty 및 U.S. Coast Guard RDC 등 업계 주요 기관들이 배터리 관련 해양 화재의 심각성을 경고하고 있음</p><h3>Key Quotes</h3><p>• "These events are not necessarily more frequent, but when they occur, they tend to be severe. In many cases, they result in prolonged fires or even total loss of a vessel or cargo." (이러한 사건들이 반드시 더 자주 발생하는 것은 아니지만, 발생 시 심각한 결과를 초래하며 선박이나 화물의 전손으로 이어질 수 있음)</p><p>• "Once initiated, it becomes a self-sustaining reaction that is difficult to control. The fire can escalate quickly, producing extreme heat and flammable gases, especially in confined spaces typical of marine environments." (열폭주는 자기 지속적 반응으로 통제가 어려우며, 해양 환경의 밀폐된 공간에서 극도의 열과 가연성 가스를 빠르게 발생시킬 수 있음)</p><h3>Technical Insights</h3><p>• 리튬이온 배터리의 높은 에너지 밀도로 인해 물리적 손상, 부적절한 충전, 내부 결함 등에서 발생한 화재는 기존의 연료 기반 화재와 다른 억제 및 대응 전략이 필요함</p><p>• 배터리 화재 조사에서는 시스템 설계, 설치, 충전 관행, 유지보수 기록 등 다층적 증거 수집이 필수적이며, 선박 내 전자 데이터 활용이 원인 규명에 중요한 역할을 함</p><p>• IMO 및 해양 보험 업계의 배터리 관련 규제 강화와 리스크 평가 기준 개선이 해양 운송 안전성 향상에 필수적이며, 선사들의 사전 예방 조치 강화 필요</p><p>• 전기차 운송선과 하이브리드 추진 선박의 증가로 인해 해양 화재 예방, 감지, 억제 기술의 혁신이 시급하며, 업계 전반의 안전 기준 재정립이 요구됨</p></div>`,
+      tags: ["lithium-ion batteries","marine fires","thermal runaway","risk management","investigation"],
+      link: "https://www.marinelink.com/news/managing-risks-batteryrelated-marine-541723",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "NYK invests in MidOcean Energy through Diamond Gas MidOcean to expand LNG operations",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-08-03",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/03/courtesy-of-MidOcean-Energy.jpg?image-crop-positioner-ts=1773934928",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• NYK(日本郵船)가 미국 EIG의 LNG사업체 MidOcean Energy에 투자하여 LNG 가치사슬 확장 추진<br>• Diamond Gas MidOcean(DGMO)을 통한 투자로 미쓰비시 코퍼레이션과의 공동 운영 구조 구성<br>• 규제 승인 조건 하에 2026년 8월~9월 중 투자 완료 예상<br>• NYK는 Wheatstone, Cameron LNG 프로젝트 및 LNG 연료 선박, 벙커링 사업 등에도 선투자<br>• MidOcean Energy는 아부다비 셰이크 부자금 $1.13억, 아랍에너지펀드 $1.2억 등 다층적 자금 조달 진행 중</p><h3>Key Quotes</h3><br>• "By leveraging the expertise and experience in LNG shipping that the NYK Group has developed over many years, the NYK Group aims to contribute to the further development of MidOcean Energy's LNG value chain" (NYK 그룹이 보유한 LNG 해운 전문성과 경험을 활용하여 MidOcean Energy의 LNG 가치사슬 발전과 글로벌 에너지 안보에 기여하려는 의지 표현)</p><p>• "The collaboration's focus is on LNG marine transportation" (양사 협력의 핵심은 LNG 해상 운송 영역)</p><h3>Technical Insights</h3><br>• LNG 해운 선사의 가치사슬 통합 전략: 상류(생산) → 중류(해운·로지스틱스) → 하류(벙커링, 판매)로 확장하는 수직 계열화 추세<br>• 일본 에너지 기업들의 글로벌 LNG 인프라 포트폴리오 다각화: NYK, 이데미쓰, 시즈오카 가스 등 여러 계층의 투자자 참여로 리스크 분산<br>• IMO 2050 탈탄소화 규제 강화에 대비한 LNG 연료 선박 및 벙커링 인프라 선제 투자로 시장 선점 전략</p></div>`,
+      tags: ["LNG shipping","Investment","NYK","MidOcean Energy","Energy security"],
+      link: "https://www.offshore-energy.biz/eigs-midocean-energy-lines-up-new-investment-as-nyk-spreads-its-lng-wings/",
+      coords: [139.6917,35.6895],
+      location: "Tokyo, Japan"
+    }
+  ]
+});
