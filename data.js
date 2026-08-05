@@ -13239,3 +13239,58 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-04
+addEvents({
+  "2026-08-04": [
+    {
+      type: "news",
+      title: "Accurate Industrial Controls Workboat Receives IRS Certification for Autonomous Collision Avoidance",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-04",
+      image: "https://images.marinelink.com/images/maritime/w800/credit-accurate-172669.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 인도 해운청(IRS)이 Accurate Industrial Controls의 지능형 충돌회피 기술(ISACA) 탑재 13m 순시정에 대해 AUTN 4-R(N) 인증을 부여했으며, 이는 인도의 해양자율운항 시장 진출을 의미함</p><p>• ISACA 시스템은 레이더, GNSS, 에코사운더, CCTV 등 다중 센서 기반 상황인식과 IMO COLREGS 준수 자동충돌회피 기능을 보유</p><p>• 아라비아해 카르와르 해상에서의 시험을 성공적으로 완료했으며, 현재 상용 및 해군 시장에서 신조함 및 개조함에 대한 주문과 관심이 증가 중</p><p>• ISACA 플랫폼은 Mercury, Cox 및 CAN/MODBUS 기반 추진시스템과 호환되며, 광범위한 선박의 자동 조향 및 추진 제어 가능</p><p>• 항만보안, 인프라 보호, 해양에너지, 해안감시, 환경모니터링, 수로측량 등 다양한 해양작업 분야 적용 가능</p><h3>Key Quotes</h3><p>• "The sea trials took place in the Arabian Sea off Karwar, India" (아라비아해 카르와르 인근에서 해상시험이 실시됨)</p><p>• "ISACA system includes Multiple Situational Awareness Sensors including radar, GNSS, echo sounder, CCTV and a full collision avoidance stack" (ISACA 시스템은 레이더, GNSS, 에코사운더, CCTV를 포함한 다중 상황인식 센서와 완전한 충돌회피 스택으로 구성)</p><p>• "Persistent autonomous operations – 24/7 surveillance and mission execution without onboard crew" (승무원 없이 24시간 지속적인 자율운항 감시 및 임무 수행 가능)</p><h3>Technical Insights</h3><p>• **COLREGS 준수 자동화**: ISACA의 충돌회피 소프트웨어(Drishtipath™)가 IMO COLREGS의 특정 규칙을 준수하면서 실시간 충돌위험 분석 및 안전한 기동을 실행하므로, 자율선박의 규제 준수 기준을 제시</p><p>• **멀티센서 융합 기술**: 레이더, 광학카메라, AIS, 관성항법 등을 단일 실시간 운영화면으로 통합하는 센서융합 기술은 복잡한 해양환경에서의 360도 상황인식 구현으로 운항 안전성 대폭 향상</p><p>• **개방형 플랫폼 호환성**: CAN/MODBUS 기반 추진시스템 호환 및 비디지털 추진시스템까지 지원하는 개방형 설계로 기존 선박의 자율화 개조 진입장벽 감소</p><p>• **산업 다변화**: 항만보안부터 해양방위까지 광범위한 응용분야는 자율선박 기술의 해운산업 전반에 걸친 확산 가능성을 시사하며, 특히 24/7 지속운항은 유인 순시정 대비 경제성 개선</p></div>`,
+      tags: ["autonomous shipping","collision avoidance","AI navigation","IRS certification","COLREGS","Indian maritime"],
+      link: "https://www.marinelink.com/news/accurate-industrial-controls-workboat-541769",
+      coords: [74.7421,14.4426],
+      location: "Karwar, Arabian Sea, India"
+    },
+    {
+      type: "news",
+      title: "Blue Water Autonomy Selected for Naval Autonomous Survey Work",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-04",
+      image: "https://images.marinelink.com/images/maritime/w800/water-autonomy-172676.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 보스턴 기반 Blue Water Autonomy가 미 해군 해양수로국(NAVOCEANO)과 장기 무인표면선박(USV)을 이용한 해양 지형 매핑 계약 체결<br>• 4천만 달러 규모의 다년도 부정기 계약(IDIQ)으로 심해 해저 측량 및 해양환경 특성화 임무 수행<br>• 무인 시스템 활용으로 유인 측량선 운영 비용(일일 수만 달러) 절감 및 인력 위험 감소<br>• 해군이 광범위한 해역을 더 적은 자산으로 커버하기 위해 무인 시스템 도입 확대 추세<br>• 수백~수천 해리 외해에서 연장된 고도 자율 미션 수행 능력 입증</p><h3>Key Quotes</h3><p>• "Deep open-ocean survey is among the most demanding work at sea, and its value reaches well beyond a map of the seafloor." (심해 외양 측량은 해상에서 가장 까다로운 작업 중 하나이며, 그 가치는 해저 지도 제작을 넘어선다)</p><p>• "NAVOCEANO and the wider Navy have steadily expanded their use of uncrewed systems for these missions to lower cost, reduce risk to personnel, and cover more ocean with fewer assets." (해양수로국과 해군은 비용 절감, 인력 위험 감소, 제한된 자산으로 광범위한 해역 커버를 위해 무인 시스템 도입을 지속 확대)</p><h3>Technical Insights</h3><p>• **자율 표면선박(USV) 기술의 군사적 응용**: 고해상도 해양 지형 매핑과 해양환경 특성화 데이터 수집으로 해군의 전술 의사결정 지원 강화<br>• **원격 해역 작전 효율성**: 장기 자율 항해 능력으로 유인선박 파견 없이 광대한 미지의 해역 탐사 가능, 해군 운영 비용 구조 혁신<br>• **IMO 무인선박 규제 프레임워크 선행 사례**: 미 해군의 USV 도입 확대가 국제 해사 자율성 표준 수립에 선도적 역할 수행<br>• **산업 파급효과**: 방위 부문 무인선박 수요 확대가 민간 해운, 해양조사, 환경모니터링 분야로의 기술 이전 및 산업화 촉진</p></div>`,
+      tags: ["Autonomous Vessels","USV","Naval Technology","Ocean Mapping"],
+      link: "https://www.marinelink.com/news/blue-water-autonomy-selected-naval-541779",
+      coords: [0,0],
+      location: "Global (US Navy Operations)"
+    },
+    {
+      type: "news",
+      title: "MARTAC Delivers Strongest H1 Results in Company History with Record Autonomous USV Orders",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-04",
+      image: "https://images.marinelink.com/images/maritime/w800/martac-172673.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사상 최대 실적**: MARTAC이 창립 15년 역사에서 가장 강력한 상반기 실적 달성 - 주문, 자금 지원 백로그, 매출, 수익성, 현금흐름 모두 기록 경신<br>• **극적인 성장 전망**: 2026년 주문 700%, 매출 500% 성장 예상 및 R&D 투자 1000% 증대 계획<br>• **생산 역량 급확대**: 25배 규모의 생산 능력 증대를 위한 투자와 Mystic Powerboats, Intrepid Powerboats와의 전략적 파트너십 체결<br>• **혁신적 기술 성과**: Devil Ray T38 무인함정이 변화하는 해상 조건에서 192시간 완전 자율 운영 미션 완수<br>• **경영진 개편**: CEO Tony Smeraglinolo, CTO Jim Harvey, CGO Seamus Flatley IV, CFO Kimberly Brickler 등 방위산업 및 정부 경험이 풍부한 리더십 강화<br>• **글로벌 확장**: 미국 및 동맹국 방위 고객으로부터의 주문 증대, 국제 함대 주문 수주, 캘리포니아 샌디에이고에 웨스트 코스트 혁신센터 개설</p><h3>Key Quotes</h3><p>• "MARTAC concluded record results for the six months ending June 30, 2026 across orders, funded backlog, revenue, profitability and cash flow." (MARTAC이 2026년 6월 30일 종료 반기에 주문, 자금 지원 백로그, 매출, 수익성, 현금흐름 전반에 걸쳐 기록적인 실적을 달성했다)</p><p>• "With orders already placed and growing demand from U.S. and allied defense customers, the company is projecting full year order growth of 700% and revenue growth of 500% in 2026 versus 2025 results." (이미 배치된 주문과 미국 및 동맹국 방위 고객으로부터의 증가하는 수요에 힘입어, MARTAC은 2026년 풀 이어 주문 700%, 매출 500% 성장을 예상하고 있다)</p><p>• "In May, a MARTAC Devil Ray T38 vessel completed an unprecedented 192-hour fully autonomous mission in varying sea states for the Naval Air Warfare Center Weapons Division's Future Capabilities Office." (5월에 MARTAC의 Devil Ray T38 함정이 변화하는 해상 조건 속에서 192시간의 전례 없는 완전 자율 운영 미션을 해군 항공전 센터 무기 부서의 미래 역량 사무소를 위해 완수했다)</p><h3>Technical Insights</h3><p>• **무인수상함 자율화 기술의 성숙화**: Devil Ray T38의 192시간 완전 자율 운영은 변화하는 해상 조건에서의 AI 네비게이션 기술과 자동 의사결정 시스템의 신뢰성을 입증하며, COLREG 준수 및 해상 교통 관리에서의 산업 기준 설립에 기여<br>• **국방 자동화의 가속화**: 미국 및 동맹국 방위 고객의 대규모 주문 증대는 무인 시스템을 국방 교리의 핵심으로 통합하려는 국방부의 전략적 의지를 반영하며, IMO 및 해군 규정의 자율 운영 표준화 필요성 증대<br>• **산업 생태계 확장**: Mystic Powerboats, Intrepid Powerboats 등 선박 건조 기업과의 파트너십을 통한 25배 생산 능력 확대는 자율 무인함정의 대량 운영 시대 도래를 의미하며, 해운 및 방위산업의 공급망 디지털화 모델 제시<br>• **혁신 인프라 구축**: 멜버른(동부) 및 샌디에이고(서부) 혁신센터의 양거점 운영은 자율 기술의 실시간 테스트, 고객 교육, 지속적 성능 개선을 위한 글로벌 R&D 네트워크 확립을 의미하며, 자율 운영 기술의 신뢰성 및 상호</p></div>`,
+      tags: ["autonomous vessels","USV","MARTAC","defense technology","unmanned surface vessels"],
+      link: "https://www.marinelink.com/news/martac-delivers-strongest-h-results-541778",
+      coords: [-80.2789,28.2949],
+      location: "Melbourne, Florida, USA"
+    },
+    {
+      type: "news",
+      title: "Navy Extends Saildrone USVs Contract for SOUTHCOM Maritime Operations",
+      source: "USNI News",
+      sourceMeta: "news.usni.org · 2026-08-04",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **Saildrone 계약 연장**: 미 해군이 Saildrone 무인표면선박(USV) 운영을 계속하기 위해 1,630만 달러 규모의 계약 연장 승인 (2026년 6월 30일 수여)</p><p>• **작전 지역 및 역할**: 카리브해와 동태평양 지역에서 2023년부터 4함대의 마약 밀수 적발 작전 지원 및 남부작전(Operation Southern Spear) 수행</p><p>• **Voyager 무인선박**: Saildrone의 Voyager 시리즈 USV가 자동화 감시 및 정보수집 임무 수행, 작전 규모 증대로 투입 척수 증가</p><p>• **양당 초당정책**: Biden 행정부에서 시작된 사업이 Trump 행정부에서도 계속 추진되어 무인해양 감시 기술에 대한 지속적 투자 입증</p><p>• **지역 안보 강화**: 미 해군 4함대 및 합동정부간특무반(JIATF-South)과의 협력으로 중남미 해역 해양안보 및 마약 차단 능력 증강</p><h3>Key Quotes</h3><p>• "Saildrone's Voyager unmanned surface vessels have been operating in the Caribbean and Eastern Pacific since 2023" (Saildrone의 Voyager 무인표면선박들이 2023년부터 카리브해와 동태평양에서 운영되고 있음)</p><p>• "In support of Operation Southern Spear, Saildrone doubled the number" (남부작전 지원을 위해 Saildrone이 투입 척수를 증가)</p><h3>Technical Insights</h3><p>• **자율운영 감시 플랫폼**: Saildrone의 Voyager USV는 풍력 추진 기반 완전 자동화 감시 플랫폼으로, 해양 약물 밀수 적발 및 정보수집에 최적화된 자율항법 기술 적용</p><p>• **IMO 및 COLREG 준수**: 상업 해역에서 운영되는 무인선박으로서 국제해사기구(IMO) 해상교통 규칙 및 충돌회피 국제규정(COLREG) 준수 필요성 강조</p><p>• **군사-상업 기술 융합**: 민간 무인선박 기술을 군사 임무(마약 차단)에 활용하는 사례로, 자율해양 산업의 실전 검증 및 기술 고도화의 기회 제공</p><p>• **장기 운영 신뢰도**: 3년 이상 지속적 운영으로 무인표면선박의 신뢰성과 실용성 입증, 향후 해양 감시 자동화의 표준 플랫폼 역할 기대</p></div>`,
+      tags: ["Autonomous Surface Vehicles","USV","Maritime Security","Drug Interdiction"],
+      link: "https://news.usni.org/2026/08/04/navy-extends-saildrone-usvs-in-southcom",
+      coords: [0,0],
+      location: "Caribbean and Eastern Pacific"
+    }
+  ]
+});
