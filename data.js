@@ -13294,3 +13294,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-04
+addEvents({
+  "2026-08-04": [
+    {
+      type: "news",
+      title: "Asso.subsea Acquires IMR Vessel Viking Reach from Reach Subsea and Eidesvik",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-08-04",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/08/Asso.subsea-revealed-as-buyer-of-Reach-Subsea-and-Eidesviks-IMR-vessel.jpg?image-crop-positioner-ts=1785840649",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 그리스 Asso.subsea가 Reach Subsea와 Eidesvik Offshore의 합작 회사인 Eidesvik Reach로부터 검사·유지보수·수리(IMR) 선박 Viking Reach를 인수하기로 결정함</p><p>• 2009년 건조된 85m 길이의 선박으로 인수 후 Arete로 개명되며, 그리스 국기를 게양하고 트렌칭 지원 선박(TSV)으로 운영될 예정</p><p>• 70톤 AHC 크레인, 작업급 ROV, 광범위한 갑판 공간 등 고용량 해양 장비를 장착하고 있으며 다목적 해양 케이블 보호 및 해상풍력 시장에 활용 가능</p><p>• 거래 완료는 2026년 4분기 초 예정이며, 최근 신조 건조 선박 Avra와 Andromeda에 이어 함대 확장의 일환</p><p>• Asso.subsea의 상업 이사 Eva Pavlou는 "최첨단 해양 장비를 배포하여 복잡한 해양 프로젝트를 안전하고 효율적으로 수행할 수 있는 능력을 강화한다"고 언급</p><h3>Key Quotes</h3><p>• "The acquisition of TSV Arete reinforces our long-term commitment to providing top-tier trenching solutions to the offshore energy market" (해양 에너지 시장에서 최고 수준의 트렌칭 솔루션을 제공하려는 장기적 약속을 강화한다는 의미)</p><p>• "By increasing our vessel capacity and deploying our state-of-the-art subsea equipment, we continue to enhance our capability to execute complex subsea projects safely, efficiently, and to the highest industry standards" (선박 용량 증대와 최첨단 해양 장비 배포를 통해 복잡한 해양 프로젝트를 안전하고 효율적으로 최고 산업 기준에 맞춰 수행할 수 있는 능력을 계속 강화한다는 의미)</p><h3>Technical Insights</h3><p>• **해상풍력 산업 연계성**: 트렌칭 지원 선박의 다목적 활용 능력(케이블 보호, 경로 준비, 매장 후 처리)이 재생에너지 기반시설 구축에 중요한 역할을 하며, 해상풍력 시장 확대와 맞물려 있음</p><p>• **ROV 및 해양장비 통합**: 작업급 원격조종차량(WROV)과 70톤 크레인의 통합으로 복잡한 해양 프로젝트의 자동화 및 효율성 증대 가능성을 제시</p><p>• **함대 현대화 전략**: 신조 선박 발주(Avra, Andromeda)와 중고 선박 인수의 병행을 통해 해양 서비스 제공업체의 운영 유연성과 시장 대응 능력을 강화하는 산업 추세를 반영</p></div>`,
+      tags: ["Fleet Acquisition","IMR Vessel","Subsea Services","Offshore Wind"],
+      link: "https://www.offshore-energy.biz/asso-subsea-revealed-as-buyer-of-reach-subsea-and-eidesviks-imr-vessel/",
+      coords: [23.7275,37.9838],
+      location: "Greece"
+    },
+    {
+      type: "news",
+      title: "Bourbon Evolution 810 IMR vessel enters service with first contract in India",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-08-04",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/08/New-Bourbon-vessel-enters-into-service-first-contract-in-India.jpg?image-crop-positioner-ts=1785834538",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 부르봉(Bourbon)의 신규 검사·유지보수·수리(IMR) 전문선박 Bourbon Evolution 810이 서비스를 개시하고 인도 해역에서 장기 계약을 시작했음<br>• 디젤-전기 추진 시스템을 탑재하고 있으며, 40톤과 150톤 용량의 2개 액티브 히브 컴펜세이션 크레인과 2개의 200마력 ROV를 장비함<br>• 2,500~3,000미터 심해 작업용으로 설계된 Bourbon Evolution 800 시리즈의 최신 모델이며, 2026년 2월 싱가포르에서 인도됨<br>• DP3 시스템, 추진력 제어 및 전력 생성 관리 시스템이 업그레이드되었으며, 105명 수용 가능(69개 선실)<br>• 부르봉은 이를 통해 심해 운영의 기술적 도전과제를 해결하면서 승무원에게 안전한 작업 환경을 제공한다고 강조</p><h3>Key Quotes</h3><p>• "With the entry into service of Bourbon Evolution 810, we are providing our customers with an IMR vessel, capable of meeting the technical challenges of deepwater operations, while offering our teams a safe and suitable working environment." (부르봉은 Bourbon Evolution 810 취항을 통해 고객에게 심해 작업의 기술적 도전과제를 해결할 수 있는 IMR선박을 제공하면서 동시에 승무원에게 안전하고 적합한 작업 환경을 제공하고 있다)</p><p>• "This new vessel also illustrates our commitment to sustainably enhancing our fleet to meet market needs" (이 신규선박은 시장 수요에 대응하기 위해 함대를 지속 가능하게 확충하려는 부르봉의 약속을 보여준다)</p><h3>Technical Insights</h3><p>• IMR 전문선박의 고도화: 액티브 히브 컴펜세이션 기술과 DP3 동적 위치 유지 시스템의 결합으로 2,500~3,000미터 초심해 작업에서 작업선박의 정확한 위치 제어와 안정성이 대폭 향상되었음<br>• 원격 운영 능력 강화: 2개의 고성능 ROV 장비로 승무원의 위험 노출을 최소화하면서 복잡한 유지보수 작업을 수행할 수 있으며, 향후 완전 자동화/자율 운영으로의 전환 가능성을 시사함<br>• 해양 에너지 산업의 지속성: 디젤-전기 하이브리드 추진 시스템 채택으로 탄소 배출을 저감하고 친환경 운영을 추구하는 업계의 경향을 반영하고 있음<br>• 인도 해역 심해유전 개발 활성화: 인도 해역의 심해 석유·가스 프로젝트 확대에 대응하기 위한 전문 장비 수요 증가를 의미하며, 글로벌 IMR 서비스 시장의 지역별 다각화를 나타냄</p></div>`,
+      tags: ["IMR vessel","Bourbon Evolution 810","deepwater operations","offshore India"],
+      link: "https://www.offshore-energy.biz/new-bourbon-vessel-enters-into-service-first-contract-in-india/",
+      coords: [72.8479,19.076],
+      location: "Offshore India"
+    }
+  ]
+});
