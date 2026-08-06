@@ -13358,3 +13358,34 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-06
+addEvents({
+  "2026-08-06": [
+    {
+      type: "news",
+      title: "Anduril Founder Disputes WSJ Report on Maryland Drone Boat Factory Plans",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-08-06",
+      image: "https://defence-blog.com/wp-content/uploads/2026/08/DB_image_1992.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 팔머 루키(Palmer Luckey) 앤두릴 인더스트리즈 창립자가 월스트리트저널의 메릴랜드주 드론보트 공장 건설 보도를 거짓이라고 주장하며 X(구 트위터)에서 공개 논쟁 시작</p><p>• 해당 기사는 앤두릴이 볼티모어 카운티 스패로우즈 포인트(구 베들레헴 스틸 조선소)와 수백만 달러대 무인수상함정(USV) 제조 및 테스트 시설 건설을 논의 중이라고 보도</p><p>• 앤두릴은 기사 발행 전 기자에게 정보가 거짓임을 알렸으나 기자가 익명의 정보원을 신뢰하기로 결정했다고 루키가 지적</p><p>• 앤두릴은 2017년 창립 이후 약 610억 달러 규모로 평가되는 자율 드론, 잠수함, 소프트웨어 등 다양한 방위사업 수주로 급성장</p><p>• 무인수상함정은 최근 군사작전에서 헬기 승무원 구출 및 적 해상 인프라 공격 등 실전 능력 입증으로 주목받으며 국방 기술 경쟁 심화</p><h3>Key Quotes</h3><p>• "FYI, this 'Exclusive' story is false. We told the reporter it was false, but they decided to trust their sources instead" (이 '단독' 기사는 거짓입니다. 우리는 기자에게 거짓임을 알렸지만, 그들은 자신의 정보원을 믿기로 결정했습니다)</p><p>• "Anduril had signed a memorandum of understanding...to convert part of the property into a manufacturing and testing hub for the company's unmanned surface vessels" (앤두릴이 부지의 일부를 무인수상함정 제조 및 테스트 허브로 전환하기 위한 양해각서에 서명했다)</p><h3>Technical Insights</h3><p>• 무인수상함정(USV) 기술의 실전 입증 - 최근 군사작전에서 정찰 및 타격 임무에 활용되며 국방부의 전력 현대화 우선순위 상승</p><p>• 자율 군사 플랫폼의 산업 경쟁 확대 - 드론, 잠수함, 소프트웨어 통합 솔루션을 추구하는 방위사업체 간 경쟁 심화로 기술 혁신 가속화</p><p>• 해군 작전 패러다임 변화 - 유인 함정 중심에서 무인 시스템 중심으로 전환되며 향후 해상 작전 운영 개념 재정의 필요</p><p>• 국방 산업의 민간 기술 기업 성장 - 전통 방위산업체 대비 자율화 기술 우위를 보유한 신규 기업(앤두릴 등)의 국방 계약 획득 증가 추세</p></div>`,
+      tags: ["Autonomous Vessels","Unmanned Surface Vessels","Defense Technology","Anduril Industries"],
+      link: "https://defence-blog.com/anduril-founder-calls-wsj-drone-boat-factory-story-false/",
+      coords: [-76.5,39.3],
+      location: "Baltimore County, Maryland, USA"
+    },
+    {
+      type: "news",
+      title: "Navy Removes Head of Drone Programs After 8 Months; PAE Maritime Head Miller Now Leading PAE RAS",
+      source: "USNI News",
+      sourceMeta: "usni.org · 2026-08-06",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미 해군이 로봇 및 자율시스템(RAS) 포트폴리오 획득 담당자(PAE RAS)를 8개월 만에 교체하는 조직 개편 단행<br>• Rebecca Gassler는 2025년 12월 신설 직책 PAE RAS 책임자로 임명되었으나 2026년 8월 제거됨<br>• Chris Miller (PAE Maritime 책임자)가 PAE RAS 직책을 임시 대행으로 인수하게 됨<br>• 해군의 광범위한 획득 개혁 일환으로 자율시스템 획득 관리 체계 재정비 중<br>• 드론/자율시스템 프로그램의 조직적 리더십 재구성으로 해군의 신기술 통합 전략 변화 시사</p><h3>Key Quotes</h3><p>• "Rebecca Gassler assumed the helm of the Portfolio Acquisition Executive for Robotic and Autonomous Systems (PAE RAS) upon its creation in December" (Rebecca Gassler는 12월 신설 시점부터 로봇 및 자율시스템 포트폴리오 획득 담당자로 임명되었음)</p><p>• "Chris Miller, the head of PAE Maritime, will step into the PAE RAS job on an acting basis" (PAE Maritime의 책임자인 Chris Miller가 임시 대행으로 PAE RAS 직책을 수행할 것)</p><h3>Technical Insights</h3><p>• 해군의 자율시스템 획득 체계가 독립적 조직(PAE RAS)으로 분리되었으나, 리더십 변동으로 인해 전략적 재정렬 필요성 대두<br>• 해양 자율시스템(Maritime Autonomous Systems)의 획득 책임자가 전체 로봇/자율시스템 프로그램으로 확대되는 추세는 해양 분야의 중요성 증대를 반영<br>• 신설 조직의 8개월 만의 리더십 변경은 복잡한 자율시스템 획득 관리의 난제와 조직적 과제를 시사하며, 미 국방부의 자율시스템 통합 전략 재수립 필요성 부각</p></div>`,
+      tags: ["Autonomous Systems","Navy Acquisition","Robotics","Defense Policy","Leadership Change"],
+      link: "https://news.usni.org/2026/08/05/navy-removes-head-of-drone-programs-after-8-months-pae-maritime-head-miller-now-leading-pae-ras",
+      coords: [0,0],
+      location: "United States Navy"
+    }
+  ]
+});
