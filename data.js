@@ -13326,3 +13326,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-05
+addEvents({
+  "2026-08-05": [
+    {
+      type: "accident",
+      title: "Houthis Escalate Red Sea Campaign with Multiple Tanker Attacks; Indian Cargo Vessel Sinks",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-08-05",
+      image: "https://gcaptain.com/wp-content/uploads/2024/03/2024-03-15T124442Z_718575871_RC2CM6A5N0NF_RTRMADP_3_ISRAEL-PALESTINIANS-PROTESTS-YEMEN-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 후티 무장세력이 홍해에서 사우디 유조선 8척 공격 주장 - 7월 말부터 자체 선언한 해상 봉쇄 작전 진행 중<br>• 피해 선박: 사우디 유조선 Wafa (북부 홍해 야노부 해역), 인도 기계화 범선 Faize Noore Oliya (침몰, 무인 수상체 드론 공격으로 확인)<br>• 군사 대변인 야흐야 사레가 '탄도 미사일 다수 사용' 공격 주장 및 향후 작전 지속 및 확대 예고<br>• UKMTO 별도 보고: 아덴 남동쪽 95해리 유조선 인근에서 폭발 발생, 승무원 전원 안전<br>• 인도 정부 강력 규탄 - 14명 승무원(인도 국적 13명) 예멘 해안경비대 구조, 국제 해상 자유항해 복구 촉구</p><h3>Key Quotes</h3><p>• "Their operations will continue and escalate in targeting Saudi oil tankers in the northern Red Sea" <br>(홍해 북부 지역 사우디 유조선 목표 작전이 계속되고 확대될 것임을 의미)</p><p>• "the vessel was struck by an explosives-laden surface drone"<br>(선박이 폭발물 탑재 무인 수상 드론에 피격되었음을 공식 확인)</p><p>• "call for an immediate end to attacks on commercial shipping and the restoration of free navigation through international waterways"<br>(상선 공격 즉시 중단과 국제 해로 자유항행 복구를 촉구)</p><h3>Technical Insights</h3><p>• **무인 해상 시스템의 위협 증가**: 후티 무장세력의 폭발물 탑재 무인 수상체(USV) 사용으로 기존 대함 미사일과 결합된 복합적 해상 위협 체계 형성 - IMO 및 해사 산업의 새로운 방어 대책 필요</p><p>• **COLREG 및 국제 해상법 공백**: 비국가 행위자의 광범위한 해상 공격으로 인한 국제 해운로 폐쇄 상황 - 기존 해상교통 규칙 및 해역 관리 체계의 근본적 재검토 필요</p><p>• **자율운항선박(MASS) 도입의 보안 고려**: 유인선 감소 추세 속에서 원격 제어 및 자동화 기술 확대 시 사이버 공격 및 드론 공격에 대한 취약성 증가 우려 - 보안 강화 및 대응 프로토콜 개발 시급</p><p>• **해상 공급망 혼란**: 중동 해역 항로 회피로 인한 운항 시간 연장, 보험료 상승, 글로벌 에너지 가격 변동성 증가 등 광범위한 산업 영향 - 자동화 선박의 재보험 및 위험 관리 체계 강화 필요</p></div>`,
+      tags: ["Houthi Attack","Red Sea Security","Oil Tanker","Maritime Security","Drone Strike"],
+      link: "https://gcaptain.com/houthis-escalate-red-sea-campaign-claim-eighth-saudi-tanker-attack/",
+      coords: [43.5,15.5],
+      location: "Red Sea / Gulf of Aden / Yanbu"
+    },
+    {
+      type: "news",
+      title: "U.S. Marine Corps evaluates Perennial Autonomy AI-enabled drone family in live-fire demonstration",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-08-05",
+      image: "https://defence-blog.com/wp-content/uploads/2026/08/DB_image_1985.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 미 해병대 2사단이 페레니얼 오토노미(Perennial Autonomy)의 AI 무인기 시스템 평가를 완료했으며, 향후 수주 내 보병 부대에 배치될 예정<br>• AS-3 메롭스 요격 무인기가 같은 계열의 호넷 무인기를 공중에서 파괴하는 실사격 시연을 성공적으로 수행<br>• 메롭스 시스템은 우크라이나에서 4,000대 이상의 무인기를 요격한 실전 기록 보유; 폴란드, 리투아니아 등 NATO 동부 전선국들도 도입 중<br>• 범사 무인기 플랫폼(범블비 V1 쿼드콥터, 호넷 중거리 타격 무인기)은 정찰, 공격, 페이로드 투하 기능을 통합<br>• 프로젝트 이글 주도로 개발된 메롭스는 우크라이나 엔지니어들이 설계하였으며, 단가 약 $15,000으로 저비용 대량 배치 가능</p><h3>Key Quotes</h3><br>• "The 2nd Marine Division's Unmanned Systems Center of Excellence completed several days of integrated training with Perennial Autonomy" (해병대 2사단 무인 시스템 우수 센터가 페레니얼 오토노미와의 통합 훈련 완료)</p><p>• "Ukrainian forces have credited the system with more than 4,000 intercepted drones in combat" (우크라이나군이 메롭스 시스템의 4,000대 이상 요격 기록 확인)</p><p>• "NATO has incorporated the system into broader alliance air defense planning as cheap drone threats continue to outpace what traditional air defense systems were built to handle" (NATO가 저비용 무인기 위협에 대응하기 위해 메롭스를 연합 공중방위 계획에 통합)</p><h3>Technical Insights</h3><br>• AI 기반 자율 타격 무인기의 발전 - 호넷 무인기의 최종 비행 단계에서 AI 보조 타겟팅을 통한 차량 자율 식별·공격 능력 구현으로 통신 두절 환경에서의 작전 가능성 증대</p><p>• 저비용 방어 시스템의 해결 – 단위 비용 $15,000의 요격 무인기로 고가 전통 방공 시스템이 대응 불가능한 다수의 저가 위협(Shahed 136 등) 상쇄 가능</p><p>• 국제 해양·방공 전술의 변화 – NATO 전역에서의 메롭스 도입으로 해상 및 공중 자율 무인기 상황 인식(autonomous maritime/air awareness) 체계의 국제 표준화 가속화</p></div>`,
+      tags: ["autonomous drones","AI navigation","military technology","unmanned systems"],
+      link: "https://defence-blog.com/u-s-marine-corps-evaluates-family-of-perennial-autonomy-drones/",
+      coords: [-116.057,34.296],
+      location: "Twentynine Palms, California, USA"
+    }
+  ]
+});
