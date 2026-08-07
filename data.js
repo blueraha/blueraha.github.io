@@ -13389,3 +13389,83 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2024-07-19
+addEvents({
+  "2024-07-19": [
+    {
+      type: "accident",
+      title: "NTSB: Pilot's Personal Phone Call Contributed to Fatal Houston Ship Channel Collision",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2024-07-19",
+      image: "https://gcaptain.com/wp-content/uploads/2026/08/Miss-Peggy-Collision.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 2024년 7월 19일 휴스턴 선박 채널에서 대형 벌크선 Yangze 7과 예인선 Miss Peggy가 충돌하여 Miss Peggy가 뒤집혀 침몰, 5명 중 1명 사망</p><p>• **주요 원인**: 파일럿이 충돌 직전까지 39분간 다른 파일럿과 개인 휴대폰 통화(Bluetooth 이어피스)를 진행하며 항해 감시 의무 위반</p><p>• **연쇄 실패**: 선박의 항해사들이 파일럿의 부적절한 행동을 인지했으나 개입하지 않았으며, Miss Peggy 선장도 뒤에서 접근하는 벌크선을 감지하지 못함</p><p>• **제도적 결함**: 충돌 당시 휴스턴 파일럿협회에 개인 전자기기의 비업무용 사용을 금지하는 정책이 없었음</p><p>• **경제적 피해**: 약 $3.7 million의 손상 및 정화 비용 발생, 유류 유출</p><p>• **NTSB 권고안**: 미국 해안경비대에 항해 중 개인 전자기기 비업무용 사용 금지 정책 수립 촉구</p><h3>Key Quotes</h3><p>• "The Houston pilot directing the 656-foot bulk carrier had been engaged in a non-operational phone call with another pilot for 39 minutes leading up to the accident." <br>(파일럿이 충돌 발생 직전 39분간 업무와 무관한 개인 휴대폰 통화에 몰입했음을 의미)</p><p>• "At least one officer told investigators he was 'very afraid' because the pilot was chatting through a Bluetooth earpiece while issuing helm orders and that the conversation had nothing to do with navigation or vessel operations."<br>(선박 항해사가 파일럿의 부주의한 행동에 심각한 안전 우려를 표현)</p><p>• "The absence of a policy likely normalized the practice, increasing safety risks for vessels and crews."<br>(규정 부재가 위험한 관행을 일상화했다는 중요한 제도적 지적)</p><h3>Technical Insights</h3><p>• **항해 안전 원칙 위반**: COLREG Rule 5 (Lookout 의무)와 Rule 7 (충돌 위험 판단)의 전면적 위반으로, 레이더/육안 감시 실패가 주요 원인</p><p>• **교량 자원 관리(Bridge Resource Management) 실패**: 계층적 위계 문제로 일반 선원들이 파일럿의 부실한 항해 지휘에 이의를 제기하지 못한 구조적 취약점 노출</p><p>• **산업 정책의 공백**: 파일럿 규제 기관의 명확한 금지 정책 부재가 안전 문화 악화를 초래했으며, 향후 IMO 및 해양청 차원의 일관된 전자기기 사용 규제 필요</p><p>• **자율운항선박(MASS) 시사점**: 현 단계에서도 인적 요소가 해양사고의 핵심 원인이며, 파일럿/선원의 집중력 유지가 중요함을 재확인하는 사례로, 완전 자동화 전환의 타당성을 보여줌</p></div>`,
+      tags: ["collision","Houston Ship Channel","pilot error","distracted navigation","fatality"],
+      link: "https://gcaptain.com/ntsb-pilots-personal-phone-call-contributed-to-fatal-houston-ship-channel-collision/",
+      coords: [-95.2672,29.7589],
+      location: "Houston Ship Channel, Lynchburg, Texas"
+    },
+    {
+      type: "accident",
+      title: "YANGZE 7 and Miss Peggy Collision in Houston Ship Channel - NTSB Final Report",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-06",
+      image: "https://images.marinelink.com/images/maritime/w800/american-pilots-172743.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2024년 7월 19일 휴스턴 쉽 채널에서 화물선 YANGZE 7과 예인선 MISS PEGGY가 충돌하여 사망자 1명을 포함한 인명 피해 발생</p><p>• 미국 교통안전위원회(NTSB)의 최종 조사 결과, 충돌 당시 파일럿이 개인 휴대폰을 사용 중이었던 것으로 규명됨</p><p>• 미국 파일럿 협회(APA)는 해당 파일럿의 행동이 협회의 전문성과 안전 기준에 미달한다고 성명하고, 산업 전반의 규범 강화 필요성을 강조</p><p>• 산업 차원에서 항해 중 주의산만(distracted navigation) 제거와 상황 인식(situational awareness) 강화가 시급한 과제로 대두됨</p><p>• APA는 연방 및 주 정규기관과의 협력을 통해 안전 정책 강화 및 전문성 기준 상향을 지속하겠다는 입장 표명</p><h3>Key Quotes</h3><p>• "The pilot was using a personal cell phone at the time of the collision" <br>(충돌 당시 파일럿이 개인 휴대폰을 사용 중이었음)</p><p>• "The pilot's performance fell short of the rigorous standards expected of the dedicated members of the APA"<br>(파일럿의 행동이 APA 회원들에게 기대되는 엄격한 기준에 미달함)</p><p>• "APA maintains an unequivocal stance on assuring the highest levels of safety, attentiveness, and situational awareness during navigation and pilotage operations"<br>(APA는 항해 및 조종 작업 중 최고 수준의 안전, 주의력, 상황 인식 보장을 절대적 입장으로 유지)</p><h3>Technical Insights</h3><p>• 항해 중 주의산만(distracted driving/navigation) 문제가 육상 운송과 마찬가지로 해양 운송에서도 심각한 안전 위협 요소로 확인되어, 항해사/파일럿 교육 및 감시 체계 강화 필요</p><p>• 좁은 항로(narrow channel) 통과 시 파일럿의 집중력과 상황 인식이 충돌 방지의 절대적 조건이며, 휴스턴 쉽 채널 같은 고밀도 항구 구간에서 인적 오류 제거 전략 필수</p><p>• 본 사건은 자동화/자율 항해 기술의 도입 필요성을 시사하며, AI 기반 충돌 회피 시스템과 선박 모니터링 기술의 규제 도입 논의 촉발 가능성</p><p>• 해양 안전 문화 개선을 위해 파일럿 협회, 해양청, 선주 등 모든 이해관계자의 규범 강화 및 주기적 감시·감독 체계 정립이 필수적</p></div>`,
+      tags: ["collision","Houston Ship Channel","pilot error","distracted navigation","NTSB investigation"],
+      link: "https://www.marinelink.com/news/apa-releases-statement-regarding-yangze-541877",
+      coords: [-95.3767,29.7589],
+      location: "Houston Ship Channel, Texas, USA"
+    }
+  ]
+});
+
+// Auto-collected: 2026-07-28
+addEvents({
+  "2026-07-28": [
+    {
+      type: "accident",
+      title: "Swedish Pilot Named Suspect in Fatal Cargo Ship Collision That Killed Two",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-08-06",
+      image: "https://gcaptain.com/wp-content/uploads/2026/08/Swedish-Sea-Rescue-Society.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **충돌 사고 개요**: 노르웨이 화물선 Misje Verde가 2026년 7월 28일 스웨덴 하케피요르드에서 소형 유람선과 충돌하여 2명 사망, 2명 구조됨</p><p>• **수사 진전**: 스웨덴 검찰이 선장에 이어 의무 도선사도 과실항해 및 타인 사상죄 혐의로 피의자 지정(합리적 혐의 기준)</p><p>• **도선사의 역할**: 도선사가 브릿지에서 선장과 함께 활동적인 역할을 수행했으며, 책임 분담 문제가 수사의 핵심 쟁점으로 부상</p><p>• **법적 조치**: 선장은 도주 및 증거 인멸 우려로 구속 결정(8월 14일 기소 예정), 도선사는 구속 사유 부재로 미구속 상태</p><p>• **해역 안전 규정 검토**: 국제해상충돌예방규칙(COLREG) 준수 여부가 수사의 중심 대상</p><h3>Key Quotes</h3><p>• "The master and the pilot have provided largely consistent accounts regarding the division of responsibilities on the bridge" (선장과 도선사가 브릿지에서의 책임 분담에 대해 대체로 일관된 증언을 제공했음)<br><li>Senior Prosecutor James von Reis</li></p><p>• "The pilot played such an active role on the bridge that there are reasonable grounds to suspect the pilot also bears criminal responsibility" (도선사가 브릿지에서 그토록 활동적인 역할을 수행했기에 도선사도 형사 책임을 질 합리적 근거가 있음)<br><li>Swedish Prosecution Authority statement</li></p><h3>Technical Insights</h3><p>• **도선사 제도의 법적 책임 경계 모호**: 의무 도선 해역에서 도선사의 '조언' 역할과 '적극적 항해 지휘' 사이의 책임선 구분이 명확하지 않아, 이번 사건은 스웨덴 및 국제 해사법 해석에 선례가 될 가능성</p><p>• **COLREG 준수와 도선사 역할의 이원화 문제**: 선장이 최종 책임을 지지만 의무 도선사가 실질적 항해 결정에 참여할 경우, 추월(Overtaking) 상황에서 충돌회피 책임이 누구에게 있는지가 해석의 관건</p><p>• **스웨덴 의무 도선 시스템의 재검토 필요**: 이번 사건은 소형 유람선 대 대형 화물선의 충돌 가능성 평가, 레이더/AIS 모니터링 기준, 그리고 도선사 교육 강화 필요성을 제기</p><p>• **국제해사기구(IMO) 가이던스와 국내법의 괴리**: 선박안전관리규칙(ISM Code)상 선장의 궁극적 책임과 국내 도선 규정의 상충으로 인한 법적 불명확성 해소 필요</p></div>`,
+      tags: ["collision","fatality","pilotage","criminal investigation","COLREG violation"],
+      link: "https://gcaptain.com/swedish-pilot-named-suspect-in-fatal-cargo-ship-collision-that-killed-two/",
+      coords: [11.92,58.18],
+      location: "Hakefjord, Tjörn, Sweden"
+    }
+  ]
+});
+
+// Auto-collected: 2026-08-06
+addEvents({
+  "2026-08-06": [
+    {
+      type: "accident",
+      title: "Middle East Strait of Hormuz Remains Volatile: Tanker Aborts Transit After Explosions Near Bandar-e-Jask",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-08-06",
+      image: "https://gcaptain.com/wp-content/uploads/2026/06/2026-06-21T113312Z_986150390_RC25YLAX1ZOM_RTRMADP_3_IRAN-CRISIS-800x533.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 호르무즈 해협 내 37해리 남서쪽 반다르-자스크 인근에서 두 건의 폭발이 발생하여 탱커가 통과를 중단했으며, 이는 미국-이스라엘-이란 전쟁이 6개월 지속되는 와중에 발생</p><p>• 이란이 오만과 해협 통행료(toll) 협정을 체결했다고 발표했으나, 국제해사기구(IMO) 회원국의 투표와 UN 해양법협약(UNCLOS) 규정을 위반하는 것으로 평가됨</p><p>• 이란은 이미 호르무즈 해협 북쪽 통로에 불법 통행료 시스템을 운영 중이며, 일부 선사들이 미국 제재를 무시하고 비용을 지불하고 있는 상황</p><p>• 로이드 리스트 인텔리전스의 브리짓 디아쿤 해양 정보 담당관은 이란과 협상한 선사들을 통과 경로를 통해 추적할 수 있다고 설명 (중국, 파나마, 인도, 마셜 제도 등의 국기 선박 확인)</p><p>• 최근 수일간 이란 혁명수비대(IRGC)와 그 대리세력들이 호르무즈 해협과 홍해에서 다수의 선박을 공격</p><p>• 홍해 내 비제재 일반 탱커 트래픽이 주간 기준 24% 감소 (7월 20일 이전주 91척 → 다음주 53척)</p><p>---</p><h3>Key Quotes</h3><p>• "Anyone wanting to know who's chatting with Iran in order to go through and who's not, is to look at the route (their vessels) that they take" <br>(이란과 협상하는 선사와 그렇지 않은 선사를 구분하려면 선박들이 항해하는 경로를 추적하면 된다는 의미)</p><p>• "The IMO has no comment" on the latest rumor of a deal between Iran and Oman<br>(이란-오만 협정 제안에 대해 국제해사기구는 공식 입장을 피함)</p><p>---</p><h3>Technical Insights</h3><p>• **국제해양법 위반**: 유엔 해양법협약(UNCLOS)은 국제 해로를 자유로이 통행할 권리를 규정하고 있으며, 일방적 통행료 부과는 국제법 위반으로 IMO 전체 회원국의 투표가 필요함</p><p>• **선박 추적 및 선사 식별**: 윈드워드 데이터 분석을 통해 이란 처방 항로를 이용하는 선박의 국기(중국, 파나마, 인도 등)를 추적함으로써 제재 회피 현황과 국제 정치적 입장을 간접 파악 가능</p><p>• **해상 교통량 감소의 경제적 영향**: 호르무즈 해협과 홍해의 전투 상황으로 인한 24% 트래픽 감소는 글로벌 석유 공급망 교란과 선적 비용 급증을 초래하며, 해운업계의 리스크 관리 전략 재편 필요</p><p>• **중복 위협 구조**: 호르무즈 해협의 이란 공격과 홍해의 후티 반군 공격이 동시 다발적으로 진행되어 중동 지역 유조선의 이중 회피 경로 선택 강요 및 운영 비용 증가</p></div>`,
+      tags: ["Strait of Hormuz","Iran","Tanker Attack","Maritime Security","IRGC"],
+      link: "https://gcaptain.com/middle-east-situation-remains-predictably-unpredictable-lloyds-list-intelligence/",
+      coords: [56.4,27.1],
+      location: "Strait of Hormuz, Iran"
+    },
+    {
+      type: "news",
+      title: "U.S. Navy Reorganizes Unmanned Systems Office to Accelerate Procurement",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-08-06",
+      image: "https://maritime-executive.com/media/images/article/Photos/Technology/Cropped/ACTUV_screengrab_16x9.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 해군이 로봇 및 자율시스템 프로그램 가속화를 위해 조직 개편을 단행하였으며, Rebecca J. Gassler 포트폴리오 인수 담당자 직책이 8개월 만에 폐지됨</p><p>• Christopher Miller 함정 프로그램 인수 담당자가 신설된 직접보고 포트폴리오 매니저(DRPM) 직책과 기존 직책을 동시에 수행하게 됨</p><p>• 해군의 중형 무인 해상함정(MUSV) 프로그램이 반복적인 방향 변경으로 인해 계약업체들의 소송 및 입찰 항의를 야기함</p><p>• Under Secretary Capt. William Toti는 기존의 복잡한 조달 구조를 통합 직접보고 체제로 개혁하는 정책을 추진 중</p><p>• DRPM 직책이 워싱턴에서 함대 근처로 이동될 가능성이 있으며, 이는 신속한 피드백과 산업 협력 가속화를 목표로 함</p><h3>Key Quotes</h3><p>• "We are at an inflection point in naval warfare, and the Department has been approaching robotic and autonomous systems through arcane processes that do not deliver capabilities at the speed our Sailors and Marines need." (해군 전투의 변곡점에서 기존 조달 절차로는 필요한 속도로 능력을 제공할 수 없다는 의미)</p><p>• "Success depends on ensuring operational requirements drive rapid development so we're delivering the right solutions to the warfighter." (작전 요구사항이 신속한 개발을 주도하여 전투 요원에게 올바른 솔루션을 제공하는 것이 성공의 핵심)</p><h3>Technical Insights</h3><p>• 미국 해군의 자율무인시스템 조달 구조가 2025-26년 잠수함 프로그램에서 성공한 직접보고 포트폴리오 매니저(DRPM) 체제를 자율시스템에 확대 적용하는 단계로, 통합 의사결정 체계의 산업 적용 사례</p><p>• MUSV 프로그램의 지속적인 변경과 입찰 과정의 불투명성(마켓플레이스 방식의 7개사만 선정)으로 인해 국방 자율시스템 개발의 경합성 침해 및 법적 분쟁 발생</p><p>• 직접보고 구조로 인한 의사결정 가속화와 함대 근접 배치는 자율선박의 운영 요구사항이 기술 개발을 실시간으로 반영하는 순환 구조 구축을 지향</p><p>• 미국 해양 방위 자율화 경쟁에서 프로세스 개혁을 통한 개발 속도 확보가 전략적 우위 확보의 핵심이며, 이는 국제해사기구(IMO) 자율선박 규정 개발에도 간접적 영향을 미칠 수 있음</p></div>`,
+      tags: ["Unmanned Systems","U.S. Navy","Autonomous Vessels","MUSV Program","Defense Procurement"],
+      link: "https://maritime-executive.com/article/u-s-navy-shakes-up-its-unmanned-systems-office-once-again",
+      coords: [38.8951,-77.0369],
+      location: "Washington, D.C."
+    }
+  ]
+});
