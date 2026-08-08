@@ -13469,3 +13469,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-07
+addEvents({
+  "2026-08-07": [
+    {
+      type: "news",
+      title: "$30 billion Rovuma LNG Phase 1 project advances toward FID with Saipem LOI confirmation",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-08-07",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2025/05/saipem-illustration.jpg?image-crop-positioner-ts=1747237449",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **로부마 LNG 1단계 프로젝트 진전**: 모잠비크 해역의 $300억 규모 대형 LNG 프로젝트가 FID(최종투자결정) 단계로 진입하며 산업 관심 집중</p><p>• **사이펨(Saipem) 예비 수주 확정**: 이탈리아 엔지니어링 업체 사이펨이 SMDC 컨소시엄(McDermott, Daewoo, CPECC 포함)의 일원으로 LOI 서명 완료, $3,200만 규모의 초기 기술용역 수행</p><p>• **주요 파트너십**: 엑손모빌 운영, 에니·CNPC 참여, 현지 KOGAS·ENH·ADNOC 등 다국적 에너지 컨소시엄 구성</p><p>• **프로젝트 규모**: 아펑기 반도 육상에 LNG 2개 열차, 12개 모듈식 액화 모듈 설치로 연 1,860만 톤 생산 역량</p><p>• **일정 및 진전**: FEED 계약(2024년 8월 이후) 완료, 정부·규제 승인 예상 2026년 내 완료, EPC 최종 수주 조건부</p><h3>Key Quotes</h3><p>• "This letter of intent further strengthens Saipem's position in the liquefied natural gas sector and highlights the group's expertise in executing large-scale, complex energy projects" (사이펨의 LNG 부문 지위를 강화하고 대규모 복합 에너지 프로젝트 실행 역량 입증)</p><p>• "The final award...is subject to FID and government and regulatory approvals expected within 2026" (최종 수주는 2026년 내 FID 승인 및 정부 규제 인가에 조건부)</p><h3>Technical Insights</h3><p>• **대규모 해양 엔지니어링**: 로부마 LNG는 심수 블록 개발 및 육상 액화 시설 통합으로 첨단 해양 건설 기술 요구, SMDC 컨소시엄의 국제적 역량 협업 필요</p><p>• **LNG 산업 공급망 다변화**: 아프리카 신규 LNG 생산 기지 확보로 글로벌 가스 공급 지정학 재편, 인도-태평양 에너지 안보 영향</p><p>• **규제 및 환경 이행**: 모잠비크 정부 승인 프로세스와 환경 평가 통과가 FID 조건, 해양생태계 보호 기준 충족 필수</p></div>`,
+      tags: ["LNG","Mozambique","Saipem","ExxonMobil","FID","Engineering"],
+      link: "https://www.offshore-energy.biz/30-billion-lng-project-nears-fid-saipem-confirms-preliminary-award-shortly-after-mcdermott/",
+      coords: [40.5,-18.5],
+      location: "Mozambique, Afungi Peninsula"
+    },
+    {
+      type: "news",
+      title: "ZTT Launches Lan Hai Ling Hang Cable-Laying Vessel for Offshore Wind Operations",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-08-07",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/08/CLV-Lan-Hai-Ling-Hang_-video-screenshot-ZTT.jpg?image-crop-positioner-ts=1786100593",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 중국 ZTT Submarine Cable & System이 새로운 자항식 케이블 포설선(CLV) 'Lan Hai Ling Hang'을 취역 시작했으며, 이는 심해 해상풍력발전 및 해저 전력 상호연결 케이블 작업에 투입될 예정</p><p>• 해당 선박은 16,000톤 케이블 캐러셀, DP2 동적위치결정 시스템, 이중 케이블 포설 시스템을 갖춘 첨단 사양으로 설계됨</p><p>• 길이 139.8미터, 빔 38미터 규모로 디젤-전기 추진 방식이며 헬리콥터 플랫폼과 이중 발사 채널 보유</p><p>• 연간 1,000km 이상의 케이블 설치 능력을 보유하며 아시아-태평양 지역 해상풍력, 도서 상호연결, 지역 송전망 확충 프로젝트에 활용 예정</p><p>• 2025년 8월 신조 CLV 건조 착공을 공식 발표했으며, 중국 연해 지역 심해 해상풍력발전단지에서 배열 간선 및 내보내기 케이블 설치에 배치될 계획</p><h3>Key Quotes</h3><p>• "The vessel is equipped with a 16,000-ton cable carousel, a DP2 dynamic positioning system and a dual-cable laying system, allowing it to operate in far-offshore and deepwater environments." (본 선박은 16,000톤 케이블 캐러셀, DP2 동적위치결정 시스템 및 이중 케이블 포설 시스템을 갖추어 원해 및 심해 환경에서 운영 가능)</p><p>• "With a 16,000-ton cable-carrying capacity, Lan Hai Ling Hang has an annual installation capability of more than 1,000 kilometers." (16,000톤의 케이블 운반 능력을 갖춘 Lan Hai Ling Hang은 연간 1,000km 이상의 설치 능력을 보유)</p><h3>Technical Insights</h3><p>• **DP2 동적위치결정 시스템의 적용**: 심해 및 원해 환경에서의 정밀한 위치 유지 능력으로 케이블 포설 작업의 안전성과 정확도를 대폭 향상시켜 해상풍력 확대에 필수적인 인프라 제공</p><p>• **이중 케이블 포설 시스템의 효율성**: 동시에 2개 케이블을 포설할 수 있는 능력으로 작업 효율을 극대화하고 프로젝트 완공 기간 단축 가능, 아시아-태평양 지역 해상풍력 급속 확산 지원</p><p>• **선박 디지털화 및 자동화**: 대용량 케이블 캐러셀, 헬리콥터 플랫폼, 이중 발사 채널 등의 통합 설계는 해상풍력 인프라 구축의 전문화 및 고도화를 의미하며, 향후 자율운항 기술 적용 가능성 제시</p><p>• **글로벌 에너지 전환 지원**: 중국의 적극적인 해상풍력 투자 및 관련 해사 장비 자주화 추진으로 동아시아 지역 신에너지 인프라 경쟁력 강화 및 글로벌 공급망 다원화 추세 반영</p></div>`,
+      tags: ["Cable-laying vessel","Offshore wind","Subsea infrastructure","China maritime"],
+      link: "https://www.offshore-energy.biz/ztt-launches-new-cable-laying-vessel/",
+      coords: [114.1694,22.3193],
+      location: "China coastal waters"
+    },
+    {
+      type: "news",
+      title: "Beier Integrated Systems Announces Executive Leadership Transition",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-07",
+      image: "https://images.marinelink.com/images/maritime/w800/beier-president-172764.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Beier Integrated Systems의 경영진 변화 발표 - Karl Beier 회장 전환, Kory Beier 신임 CEO 임명<br>• Kory Beier는 20년간 건설 회사를 경영한 경험과 8년간의 이사회 참여로 회사 이해도 보유<br>• James Jenniskens가 부회장 겸 최고운영책임자(COO)로 임명되어 일일 운영 및 전략적 이니셔티브 담당<br>• Bollinger Shipyards 출신의 James는 해양 산업 경험과 미 해병대 전역 경력 보유<br>• 경영진 3인이 협력하여 고객 및 직원 서비스 수준 유지 및 원활한 경영진 교체 추진</p><h3>Key Quotes</h3><br>• "Kory will lead the company's strategic direction, drive operational excellence, and oversee the continued growth and success of Beier Integrated Systems." (Kory는 회사의 전략적 방향을 주도하고 운영 우수성을 추진하며 회사의 지속적 성장과 성공을 감독할 것)<br>• "James will oversee the company's day-to-day operations, lead strategic initiatives, and continue driving operational excellence, efficiency, growth, and profitability" (James는 회사의 일일 운영을 감독하고 전략적 이니셔티브를 주도하며 운영 우수성, 효율성, 성장 및 수익성 추진 지속)</p><h3>Technical Insights</h3><br>• 해양 산업 경험 강화 - COO James는 Bollinger Shipyards 경력으로 해양 조선 부문의 심화된 산업 지식과 네트워크 보유<br>• 경영 연속성 및 안정성 - Karl의 회장직 유임으로 전략적 방향성 유지 및 신임 경영진과의 원활한 협력 체계 구축<br>• 운영 효율성 강화 - COO 신설을 통해 전략적 의사결정과 일일 운영의 역할 분담으로 조직 효율성 극대화 추진</p></div>`,
+      tags: ["Executive Management","Leadership Change","Marine Systems","Corporate News"],
+      link: "https://www.marinelink.com/news/beier-integrated-systems-shares-changes-541909",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "Seven Chinese Vessels Permitted to Sail to Europe via Russian Arctic Route",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-07",
+      image: "https://images.marinelink.com/images/maritime/w800/timon-stockadobecom-172760.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 러시아 국영 원자력 거대기업 Rosatom이 중국 선박 7척에 대해 북극항로(NSR)를 통한 유럽 항해 허가 발급<br>• 중국 컨테이너 해운사 Sea Legend Shipping이 NSR을 통한 정기 컨테이너 서비스 첫 개시 예정 - 항해 시즌 내 매주 선박 운항<br>• 기존 NSR 컨테이너 해운은 실험적/일회성이었으나, 2026년 프로그램은 정규 정기 서비스로 전환되는 의미<br>• 러시아는 NSR을 새로운 수에즈 운하로 전환하려는 오랜 정책 추구<br>• 페르시아만 상황 악화(호르무즈 해협)와 물류·정치적 불확실성 증대로 NSR의 글로벌 중요성 부각</p><h3>Key Quotes</h3><p>• "Unlike previous container shipments via the Northern Sea Route, which were largely experimental or one-off in nature, the 2026 programme provides for a fully-fledged regular service with vessels sailing every week throughout the navigation season." <br>  (북극항로를 통한 기존 컨테이너 해운과 달리 2026년 프로그램은 항해 시즌 내 매주 선박이 운항하는 완전한 정기 서비스 제공)</p><p>• "the route was becoming a transport artery of global significance as the situation in the Persian Gulf deteriorated"<br>  (페르시아만 상황이 악화됨에 따라 NSR이 전 지구적 중요성을 가진 수송 대동맥으로 부상)</p><h3>Technical Insights</h3><p>• 북극항로의 계절적 결빙 제약 극복을 위한 정기 서비스 체계 구축 - 쇄빙선 지원 및 운항 스케줄 최적화 필요<br>• 호르무즈 해협 우회 노선으로서의 NSR 전략적 가치 증대 - 대체 해상 운송로 다변화의 해운 산업 구조 변화<br>• 중국-유럽 무역 루트 다원화에 따른 글로벌 해상 물류 지도 재편 - 기존 수에즈 운하 중심에서 극지 항로로의 패러다임 전환<br>• IMO 극지역 운항 규정(Polar Code) 준수 및 환경 영향 평가 강화 필요 - 북극 해양 생태계 보호와 운송 효율성 간 균형</p></div>`,
+      tags: ["Northern Sea Route","Arctic shipping","China-Europe trade","Rosatom","Container shipping"],
+      link: "https://www.marinelink.com/news/seven-chinese-vessels-permitted-sail-541901",
+      coords: [0,0],
+      location: "Northern Sea Route (Arctic)"
+    }
+  ]
+});
