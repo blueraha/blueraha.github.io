@@ -13525,3 +13525,58 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-07
+addEvents({
+  "2026-08-07": [
+    {
+      type: "accident",
+      title: "ADNOC Operations Disrupted by Missile and Drone Attacks in Strait of Hormuz",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-07",
+      image: "https://images.marinelink.com/images/maritime/w800/marcocuraba-stockadobecom-172758.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• ADNOC의 15척 유조선이 2026년 분쟁 개시 이후 호르무즈 해협에서 미사일 및 드론 공격을 받음 - 이번 주만 3척 피격<br>• 공격으로 인해 선원 1명 사망, 20명 부상 - 국제 해운로에서의 심각한 인명 피해 발생<br>• 호르무즈 해협은 세계 원유 소비량의 약 20% 수송하는 전략적 요충지로서 해운 중단이 국제 유가 및 운임료에 미치는 영향 극대화<br>• ADNOC은 관련 당국과 협력하여 인원, 자산 및 운영 보호 조치 실시 중이며 고객 요구사항 충족 노력 지속<br>• 지속적인 공격으로 인한 해운 중단 및 운임료 인상으로 국제 해운 시장의 보안 위험 심화</p><h3>Key Quotes</h3><p>• "15 of its vessels had been attacked by missiles and drones while transiting the Strait of Hormuz since the start of the conflict" (분쟁 개시 이후 호르무즈 해협 통과 중 ADNOC 소유 15척의 선박이 미사일과 드론 공격을 받음)</p><p>• "Freedom of navigation and the safe, uninterrupted passage of commercial shipping through international waterways must be respected and protected without threat, harassment or attack" (국제 수로를 통한 해상 자유도와 상선의 안전한 통행이 위협, 괴롭힘 또는 공격 없이 존중받고 보호되어야 함)</p><h3>Technical Insights</h3><p>• 호르무즈 해협의 반복적인 공격으로 인한 해운 중단은 전 지구적 해상 물류 네트워크 및 에너지 공급망에 심각한 영향을 미치고 있으며, IMO 해상안전 규정의 실효성 강화 필요<br>• 드론 및 미사일을 활용한 신형 해상 위협에 대응하기 위해 선박의 자동화 및 원격 운영 기술의 도입이 선원 보호와 운영 효율성 측면에서 중요성 증대<br>• COLREG 및 국제 해상법 기반의 항행 안전 보장을 위해 군사 분쟁 지역 내 상선 보호를 위한 국제적 협력체계 강화 및 호위함 운영 확대 필요<br>• 해상 보안 위협이 증가함에 따라 선박 추적 시스템, AI 기반 위험 감지 기술, 자율항해시스템 등 차세대 해양 기술의 상용화 가속화 요구</p></div>`,
+      tags: ["Strait of Hormuz","ADNOC","Vessel Attack","Drone Strike","Maritime Security"],
+      link: "https://www.marinelink.com/news/adnoc-operations-impacted-vessel-staff-541900",
+      coords: [56.2,26.5],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "SLB and Equinor Sign Multi-Year Well Stimulation Deal with MV Island Captain Upgrade",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-07",
+      image: "https://images.marinelink.com/images/maritime/w800/island-captain-172755.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• SLB와 Equinor이 노르웨이 대륙붕의 고급 저류층 자극 서비스를 위한 다년간 계약을 체결했습니다.</p><p>• MV Island Captain 시추 자극선의 대규모 업그레이드가 포함되며, 프로펀트 저장 용량 확대, 펌핑 능력 증가, 갑판 레이아웃 최적화가 이루어질 예정입니다.</p><p>• 업그레이드 후 선박은 최대 200만 파운드의 프로펀트를 운반할 수 있어 노르웨이 대륙붕의 고강도 해양 자극 처리를 수행할 수 있습니다.</p><p>• 이 전용 자극 능력은 타이트 해양 저류층 개발을 지원하고 미래 자원 개발에서 회수율을 최대화하도록 설계되었습니다.</p><p>• SLB의 Scandinavia 매니징 디렉터는 이 계약이 해양 자극 능력에 대한 중요한 투자 기회라고 평가했습니다.</p><h3>Key Quotes</h3><p>• "The upgrade of the Island Captain represents an important investment in offshore stimulation capability for the Norwegian Continental Shelf" (Island Captain의 업그레이드는 노르웨이 대륙붕의 해양 자극 능력에 대한 중요한 투자를 나타냅니다)</p><p>• "Together, this dedicated capacity and specialized equipment will help support future reservoir developments across the region" (이 전용 용량과 특수 장비가 함께 지역 전반의 향후 저류층 개발을 지원할 것입니다)</p><h3>Technical Insights</h3><p>• 프로펀트 저장 및 블렌딩 시스템의 고도화는 타이트 가스/오일 저류층의 복잡한 자극 작업에서 운영 효율성을 크게 향상시킵니다.</p><p>• 펌핑 능력 증대와 갑판 최적화는 해양 환경에서의 고강도 시추 자극 작업의 안전성과 신뢰성을 강화하는 핵심 기술 개선입니다.</p><p>• 노르웨이 대륙붕의 타이트 저류층 개발이 향후 자원 개발의 중요한 역할을 할 것으로 예상되므로, 이러한 전용 해양 자극 선박의 투자는 북해 에너지 산업의 지속적인 성장을 반영합니다.</p></div>`,
+      tags: ["Well Stimulation","Vessel Upgrade","Norwegian Continental Shelf","Offshore Operations"],
+      link: "https://www.marinelink.com/news/slb-equinor-upgrade-vessel-multiyear-541898",
+      coords: [8.4689,60.472],
+      location: "Norwegian Continental Shelf"
+    },
+    {
+      type: "news",
+      title: "Oil Prices Rise as Iran and Oman Propose Strait of Hormuz Transit Restrictions",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-07",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 이란과 오만이 호르무즈 해협 통행 규제안을 제안하면서 유가 상승 심화<br>• 호르무즈 해협을 통해 적대국 선박으로 판단되는 선박 통행 금지 및 규칙 위반 선박에 대한 고액 벌금 부과 정책 추진<br>• 유가 불확실성 증대로 브렌트유 선물이 배럴당 85센트 상승<br>• 해협 통행 제한이 글로벌 에너지 시장과 해운 업계에 미치는 파급 효과 증가<br>• 중동 지역 정세 불안정이 국제 해상 운송 안보 위협 요소로 작용</p><h3>Key Quotes</h3><br>• "Iran, working with Oman, suggested banning vessels deemed hostile from the strait and heavily fining those which violated the proposed rules." (이란과 오만이 협력하여 적대 국가의 선박을 호르무즈 해협에서 금지하고 규칙 위반 선박에 대해 고액의 벌금을 부과할 것을 제안했다.)<br>• "Oil extended gains on Friday amid further concerns around the opening of the Strait of Hormuz." (호르무즈 해협 개방을 둘러싼 추가적 우려 속에서 금요일 유가가 계속 상승했다.)</p><h3>Technical Insights</h3><br>• 호르무즈 해협은 전 세계 석유 교역량의 약 30% 이상이 통과하는 전략적 해상 교통로로서, 통행 규제안이 해운 산업 전반에 미치는 영향이 매우 큼<br>• IMO 국제 해운 규정과 국가 간 해협 통행권 관련 국제법 간의 충돌 가능성 제기, 규제 합의 체결 필요성 대두<br>• 선박 추적 기술(AIS) 및 자동 식별 장치를 통한 '적대국 선박' 판별 메커니즘 구축의 기술적·법적 난제 존재<br>• 에너지 운송 안보 불확실성이 해운사의 항로 선택, 해사 보험료 인상, 자율운항선 등 첨단 해운 기술 도입 가속화에 영향을 미칠 전망</p></div>`,
+      tags: ["Strait of Hormuz","Iran","Oman","Oil Markets","Maritime Regulations"],
+      link: "https://www.marinelink.com/news/oil-climbs-hormuz-transit-plan-raises-541883",
+      coords: [56.5,26.5],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "US Container Imports Peak Early, Expected to Decline Monthly Through 2026",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-08-07",
+      image: "https://maritime-executive.com/media/images/article/Photos/Ports/port-of-long-beach-at-night.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 미국 컨테이너 수입량이 역사적으로 5월에 조기 피크를 기록했으며, 이후 월별로 안정적으로 감소할 것으로 예상됨<br>• 미국 소매업협회(NRF)는 2026년 전체 컨테이너 수입량을 2,550만 TEU로 예측하며, 이는 2025년(2,540만 TEU)과 유사한 수준<br>• 소매업체들이 7월 말 관세 변화를 앞두고 수입 물량 시기를 조정했으며, 이란 분쟁으로 인한 공급망 불확실성도 영향을 미침<br>• 6월 223만 TEU, 7월 221만 TEU, 8월 222만 TEU에서 12월 206만 TEU로 점진적 감소 예상<br>• 트럼프 행정부의 새로운 관세 정책(99% 미국 수입품 영향)이 계속 시행될 것으로 보여 추가 불확실성 존재</p><h3>Key Quotes</h3><br>• "We had an early peak season this year as retailers brought in merchandise ahead of tariff changes in late July and responded to other uncertainties in the supply chain like the ongoing disruption brought by the conflict in Iran" (올해 소매업체들이 7월 말 관세 변화를 앞두고 물량을 먼저 들여왔으며, 이란 분쟁으로 인한 공급망 불확실성에 대응했음을 나타냄)<br>• "While ports have remained busy this summer and spread out the peak season, this year's busiest month appears to have arrived in May" (항구들이 피크시즌을 분산시켰지만, 올해 가장 바쁜 달은 5월이었으며 이는 역사적 추세와 다름을 의미)</p><h3>Technical Insights</h3><br>• 관세 불확실성으로 인한 수입 물량 시간대 변화는 항만 운영 계획 및 선박 배정 전략에 중대한 영향을 미치며, 전통적인 피크시즌 개념의 재검토 필요<br>• 월별 2-3% 정도의 안정적인 수입량 감소 추세는 해운사들의 용선 계획과 용량 배분 전략 수립에 핵심 변수로 작용할 것으로 예상됨<br>• 지정학적 위험(이란 분쟁) 및 정책 불확실성(관세)이 글로벌 컨테이너 해운 수요의 변동성을 높이고 있으며, 항만 인프라 투자 의사결정에 영향을 미치는 추세</p></div>`,
+      tags: ["Container Shipping","US Imports","Tariffs","Supply Chain","Trade Policy"],
+      link: "https://maritime-executive.com/article/us-container-imports-are-expected-to-decline-monthly-after-an-early-peak",
+      coords: [-74.006,40.7128],
+      location: "United States"
+    }
+  ]
+});
