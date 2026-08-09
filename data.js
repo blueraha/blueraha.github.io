@@ -13580,3 +13580,71 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-08
+addEvents({
+  "2026-08-08": [
+    {
+      type: "news",
+      title: "New Zealand's EDGE Defence Achieves Major Milestone with Electric Jet Drone Boat Whai",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-08-08",
+      image: "https://defence-blog.com/wp-content/uploads/2026/08/DB_image_2044.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• EDGE Defence(뉴질랜드 오클랜드 기반 국방 기술 회사)가 전기 제트 추진 무인 수상함선 Whai의 자동 발사 및 회수 시스템 테스트에 성공<br>• Whai는 길이 3.4m, 폭 1m 미만의 소형 무인선박으로 최대 30노트 속도, 350kg 페이로드 탑재 가능<br>• 무인 보트 런처(Unmanned Boat Launcher)를 사용하여 유인 모함선 없이 독립적인 배포 및 회수 시스템 구현 - 해상 작전 안전성 향상<br>• 전기 제트 추진을 통해 저소음, 저열 특성으로 감시 감지를 최소화하여 비밀 작전에 최적화<br>• 저속 순항(4노트 이하) 시 태양광 패널을 통해 자체 에너지 생성으로 체류 시간 연장 가능</p><h3>Key Quotes</h3><p>• "Electric Jet USV being launched and recovered by an Unmanned Boat Launcher, both being 100% kiwi designed pieces of technology!" (전기 제트 추진 무인선박과 무인 보트 런처 모두 뉴질랜드 자체 설계 기술로, 100% 자국 기술)</p><p>• "a boat that runs quiet and cool is significantly harder for an adversary's sensors to detect during operations close to contested shorelines or sensitive maritime infrastructure" (저소음, 저열 특성의 선박은 분쟁 해역이나 민감한 해상 인프라 근처에서 적의 센서 탐지를 피하기에 훨씬 유리)</p><h3>Technical Insights</h3><p>• 무인 보트 런처(Unmanned Boat Launcher) 시스템은 기존 유인 모함선 기반 배포 방식의 안전 문제를 해결하며, 해상 자율 플랫폼 운영의 새로운 표준 제시<br>• 전기 제트 추진 기술은 기존 프로펠러 방식 대비 저소음·저열 특성으로 ISR(정보·감시·정찰) 임무의 생존성 향상 - 해양 방위 작전의 비밀성 강화<br>• 태양광 충전 기능으로 저속 순항 시 자가발전 가능하여 배터리 제약 완화 - 장시간 주둔(loiter) 임무 수행 능력 증대<br>• 소형 USV의 모듈식 페이로드 설계(350kg)로 ISR 센서, 통신 중계 장비 등 다목적 임무 수행 가능 - 해군 운영의 유연성과 비용 효율성 증대</p></div>`,
+      tags: ["Autonomous Surface Vessel","USV","Electric Propulsion","Defence Technology","New Zealand"],
+      link: "https://defence-blog.com/new-zealands-electric-jet-drone-boat-passes-key-test/",
+      coords: [174.886,-41.2865],
+      location: "Auckland, New Zealand"
+    },
+    {
+      type: "news",
+      title: "Undersea Technology Innovation Consortium Celebrates 10 Years of Innovation",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-08-08",
+      image: "https://maritime-executive.com/media/images/article/Undersea-Technology-logo.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• UTIC(해양 수중기술 혁신 컨소시엄)이 창립 10주년을 기념하며 새로운 브랜드 아이덴티티로 변신 - 지역 주도 이니셔티브에서 국제적으로 인정받는 컨소시엄으로 성장<br>• 정부, 산업계, 학계, 비영리조직 간 협력으로 15억 달러 이상의 수중기술 혁신 임팩트 창출<br>• 미 해군의 Other Transaction Authority(OTA) 컨소시엄 관리 역할로 전통 조달 프로세스보다 빠른 혁신 기술 시장 진출 지원<br>• AUKUS 국가(미국, 영국, 호주) 및 캐나다 기업을 위한 수중기술 협력 데이터베이스 구축으로 산업 파트너십 강화<br>• 수중기술 분야 인력 양성 프로그램(장학금, 워크숍) 운영으로 미래 전문가 파이프라인 구축</p><h3>Key Quotes</h3><p>• "Ten years ago, we set out to create an environment where collaboration could accelerate innovation. What we've built together over the past decade has exceeded those early aspirations." (10년 전 협력을 통한 혁신 가속화를 목표로 시작했으며, 예상을 초과하는 성과를 이루었다는 의미)</p><p>• "Our members have demonstrated that when government, industry, academia, and nonprofit organizations work together, we can develop and deliver technologies that strengthen our national security and advance the future of the maritime economy." (정부, 산업계, 학계, 비영리조직의 협력이 국가안보 강화와 해양경제 발전에 기여한다는 의미)</p><h3>Technical Insights</h3><p>• 미국 해군 OTA 컨소시엄 운영을 통해 정부-산업 협력의 혁신적 조달 모델 확립 - 기존 프로세스 대비 신기술 시장 진출 시간 단축<br>• AUKUS 프레임워크 내 다자간 수중기술 협력 데이터베이스 구축으로 동맹국 간 기술 표준화 및 상호운용성(interoperability) 강화<br>• 수중 자율시스템, 해양 보안, 국방 기술 분야에서 공개-민간 파트너십(public-private partnership) 모델의 효율성 입증 - 향후 해양산업 디지털 전환의 가속화 기대</p></div>`,
+      tags: ["Undersea Technology","Innovation","Maritime Security","Industry Partnership","Government Collaboration"],
+      link: "https://maritime-executive.com/article/undersea-technology-innovation-consortium-celebrates-10-years-of-innovation",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
+
+// Auto-collected: 2026-08-07
+addEvents({
+  "2026-08-07": [
+    {
+      type: "news",
+      title: "Ukraine Continues Attacks on Russia's Black Sea Patrol Boats",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-08-07",
+      image: "https://maritime-executive.com/media/images/article/Photos/Navy_Govt_CoastGuard/Izumrud-Russian-patrol-boat-sunk-Ukrainian-Navy.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 우크라이나 국방부 보안국(SBU)이 흑해에서 러시아의 초계함정 2척(Balaklava, Kerch)을 무인드론으로 공격하여 피해를 입혔음을 보고<br>• 공격 대상은 Project 10410급(Svetlyak급) 초계함정으로 1980년대 후기 건조, 약 50미터 규모의 연안 경비선이며 러시아는 약 33척 운용 중<br>• 이들 함정은 크림반도 교량(Crimean Bridge) 보호 임무 수행 중이며, 우크라이나는 지속적으로 군수 공급로 차단을 목표로 공격 추진<br>• 우크라이나는 7월 한 달간 기록적인 236척의 함선을 공격했으며, 50km 이상 거리의 공격은 74% 증가<br>• 최근 공격에서 2014년 건조된 러시아의 신형 초계함 Izumrud(62미터)도 피해를 입었으며, 위성사진으로 선박이 대부분 침몰한 상태 확인</p><h3>Key Quotes</h3><p>• "Ukraine's Ministry of Defense reported in July that its forces had struck a record 236 ships" (우크라이나 국방부는 7월에 기록적인 236척의 함선을 공격했다고 보고)<br>• "The Project 10410 vessels, known as the Svetlyak class, date to the late 1980s and are approximately 50 meters in length" (Svetlyak급으로 알려진 Project 10410함정은 1980년대 후기 건조되었으며 약 50미터 규모)<br>• "Ukrainian middle-strike drones now control not only land supply routes but sea routes as well, including in the Sea of Azov and around the Kerch Strait" (우크라이나의 중거리 무인드론은 아조프해와 케르치해협 일대를 포함하여 육상 수송로뿐 아니라 해상 수송로도 통제)</p><h3>Technical Insights</h3><p>• 해상 드론(Surface Drone) 기술의 전술적 활용: 우크라이나의 Sargan-3000 등 신형 수상드론이 초계함정과 같은 해상 목표 공격에 사용되며, 전통적 해전 개념의 변화를 시사<br>• IMO 및 국제해법상 해상 분쟁지역의 해운 안전성 문제: 흑해에서의 드론 공격 확대로 민간 해운 통행의 위험성 증대 및 국제해사기구(IMO) 규정의 재검토 필요<br>• 구형 초계함정의 취약성: 1980년대 건조된 Project 10410급 함정의 방어 능력 부족으로 현대 무인드론 전술에 대한 노후 함정의 대응 한계 노출<br>• 해상 전력 소모전의 전략적 의미: 지속적인 함선 공격을 통한 해상 교통로 차단이 전략적 보급 저해 및 전쟁 수행 능력 약화의 핵심 수단으로 활용되는 현대 해전의 특징 반영</p></div>`,
+      tags: ["Black Sea","Ukraine-Russia Conflict","Naval Warfare","Patrol Boats","Drone Attacks"],
+      link: "https://maritime-executive.com/article/ukraine-continues-attacks-on-russia-s-black-sea-patrol-boats",
+      coords: [36.27,45.35],
+      location: "Black Sea / Kerch"
+    }
+  ]
+});
+
+// Auto-collected: 2026-08-06
+addEvents({
+  "2026-08-06": [
+    {
+      type: "news",
+      title: "Klaipeda Container Terminal Implements Portchain Quay for Advanced Berth Planning",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-08-06",
+      image: "https://maritime-executive.com/media/images/article/1786069222_6a7540e69a385.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 클라이페다 컨테이너 터미널(Klaipeda Container Terminal)이 포트체인(Portchain)의 새로운 선석 계획 솔루션인 포트체인 키(Portchain Quay)를 도입하여 운영 효율성을 강화함</p><p>• 포트체인 커넥트(Portchain Connect) 구현에 이어 추가적인 디지털화 단계로, 실시간 공유 계획 환경을 통해 선석, 크레인, 인력 계획 프로세스를 통합</p><p>• 기존의 단편화된 수동 계획 프로세스를 중앙집중식 솔루션으로 대체하여 더 빠른 의사결정과 상세한 계획 수립이 가능해짐</p><p>• 실시간 선박 추적 및 계획 시나리오를 통해 선적회사와 고객에게 실시간 선석 배치 정보를 제공하여 이메일 확인 및 반복 전화 필요성 감소</p><p>• 터미널 내 엔지니어링, 운영팀과 외부 고객 간의 협업 강화로 투명성 높은 서비스 제공 가능</p><h3>Key Quotes</h3><p>• "Portchain Quay provides our teams with a shared, real-time planning environment that enables faster, more informed decision-making, optimizes berth utilization, and enhances collaboration across the terminal." <br>(포트체인 키는 팀에게 공유 실시간 계획 환경을 제공하여 더 빠르고 정보에 기반한 의사결정과 선석 활용 최적화, 터미널 전체 협업 강화를 가능하게 한다)</p><p>• "Having already strengthened collaboration with shipping lines through Portchain Connect, they are now improving how their planning teams manage day-to-day berth operations."<br>(포트체인 커넥트를 통해 선적회사와의 협업을 강화한 데 이어, 이제 일일 선석 운영 관리 방식을 개선하고 있다)</p><h3>Technical Insights</h3><p>• 포트체인 키는 실시간 선박 추적 및 계획 시나리오 기능을 통해 터미널의 선석 활용률 최적화 및 운영 신뢰성 향상을 지원하는 차세대 스마트 포트 솔루션</p><p>• 선석, 크레인, 인력 계획의 통합 관리로 인한 운영 효율 증대는 항만 디지털화 추세에서 IMO 2030 환경 규제 대응과 함께 경쟁력 강화의 핵심 전략</p><p>• 실시간 공유 계획 환경은 선적회사, 터미널 운영팀, 엔지니어링팀 간 정보 비대칭성을 감소시켜 포트-선박 간 협력 효율성 및 시간 정확도 개선</p><p>• 자동화된 중앙집중식 선석 계획 시스템은 향후 자율운항선박(autonomous vessels)의 항만 입항 최적화 및 안전성 강화를 위한 기반 인프라로 활용 가능</p></div>`,
+      tags: ["Port Technology","Digitalization","Berth Planning","Container Terminal"],
+      link: "https://maritime-executive.com/article/klaipeda-container-terminal-strengthens-berth-planning-with-portchain-quay",
+      coords: [21.1413,55.7206],
+      location: "Klaipeda, Lithuania"
+    }
+  ]
+});
