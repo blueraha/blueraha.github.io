@@ -13648,3 +13648,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-08
+addEvents({
+  "2026-08-08": [
+    {
+      type: "news",
+      title: "Ex-Formula 1 Engineers Develop Britain's New Low-Cost Autonomous Strike Drone TigerShark",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-08-08",
+      image: "https://defence-blog.com/wp-content/uploads/2026/08/DB_image_2043.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• MGI Engineering이 개발한 TigerShark 자율 무인 타격 드론은 시속 750km(466mph)로 비행 가능하며 900km 항정거리를 갖춘 일회용 효과기(one-way effector) 무기체계임<br>• 기존 Storm Shadow나 Tomahawk 순항 미사일 대비 획기적으로 낮은 비용으로 운영 가능하며 300kg 모듈식 페이로드를 탑재<br>• GPS 거부 환경에서도 완전 자율 비행 가능 - 관성항법(inertial navigation)과 지형 매핑 기술 결합으로 적의 GPS 재밍/스푸핑 대응<br>• Auterion 소프트웨어와 협력하여 자율비행 및 항법 시스템 개발, 2025년 9월 런던 DSEI 방위산업 전시회에서 공개<br>• 전자전 임무(적 센서/통신 교란) 또는 고폭탄 타격 모두 수행 가능한 다목적 설계</p><h3>Key Quotes</h3><p>• "TigerShark enables defence forces to engage defended or distant targets with speed, precision, and autonomy, without relying on satellite navigation or real-time control." <br>(TigerShark는 위성 항법이나 실시간 제어에 의존하지 않으면서도 방어된 또는 원거리 목표물을 신속성, 정밀성, 자율성으로 타격 가능하게 함)</p><p>• "Its guidance suite combines inertial navigation with GPS-free terrain mapping for reliable operation in GPS-denied and spoofed environments."<br>(관성항법과 GPS 미사용 지형 매핑을 결합하여 GPS 거부 및 스푸핑 환경에서 신뢰할 수 있는 작동 실현)</p><h3>Technical Insights</h3><p>• **자율 항법의 GPS 독립성**: TigerShark의 관성항법+지형매핑 이중 항법 체계는 우크라이나 전쟁에서 증명된 전자전 위협 환경에서 대응 능력 제시 - 차세대 자율 무기의 중요 기술 트렌드<br>• **해양 자율 시스템과의 기술 융합**: 항공 무인시스템의 GPS 거부 환경 자율 항법 기술이 해양 자율선박(MASS)의 보안 항법 시스템 개발에도 직접 적용 가능성 높음<br>• **비용 효율성의 산업 패러다임 변화**: 기존 고가 순항 미사일 체계를 저비용 자율 드론으로 대체하는 추세는 해운·국방 분야 전반의 자율화 경제성 논증 강화<br>• **주권 기술과 소프트웨어 통합**: 영국의 자체 자율 무인 시스템 개발이 Auterion 등 민간 자율비행 소프트웨어와의 협력으로 이루어진 점은 해양 자율선박의 국제 표준화 협력 모델과 유사</p></div>`,
+      tags: ["autonomous weapons","defense technology","cruise missile","autonomous navigation","GPS-denied operations"],
+      link: "https://defence-blog.com/ex-formula-1-engineers-built-britains-new-cheap-cruise-missile/",
+      coords: [-1.8174,51.8062],
+      location: "Witney, Oxfordshire, United Kingdom"
+    }
+  ]
+});
+
+// Auto-collected: 2026-08-06
+addEvents({
+  "2026-08-06": [
+    {
+      type: "accident",
+      title: "Portuguese Authorities Seize 5 Tonnes of Cocaine from Maersk Boxship; Crewmember Found Dead in Custody",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-08-06",
+      image: "https://maritime-executive.com/media/images/article/Photos/Drugs/Portugese-police-offloading-cocaine.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 포르투갈 사법경찰이 홍콩 선박 선사 마에스크 노콴다호에서 5톤의 코카인을 적발·압수하여 포르투갈 역사상 최대 규모의 약물 적발 사건 기록<br>• 태평양 상에서 승선 중이던 선박이 대서양 포르투갈 해안으로부터 약 640해리 떨어진 지점에서 포르투갈 해군·공군의 헬리콥터 작전으로 나포됨<br>• 불법 체류자 2명(이탈리아·콜롬비아 국적)과 인도 국적 승무원 1명 체포; 특히 체포된 승무원이 수감 중 옥중에서 의문사하여 수사 진행 중<br>• 에콰도르·콜롬비아 등 마약 밀수의 대표적 지역 포트에서 적재된 것으로 판단되며, 유럽 진출 차단 작전의 일환으로 평가됨<br>• 2026년 포르투갈의 연간 마약 적발량이 이미 28톤을 기록하여 2025년 연간 총 적발량을 초과한 상태</p><h3>Key Quotes</h3><p>• "The Portuguese Judicial Police are reporting one of the country's largest ever drug seizures completed aboard a Hong Kong-flagged containership while underway." (포르투갈 사법경찰이 항해 중인 홍콩 선박에서 국가 역사상 최대 규모의 마약 적발을 보고했다)</p><p>• "The crewmember had been discovered hanging in his cell early on Wednesday morning. He was being detained alone in a cell." (그 승무원은 수요일 이른 아침 독방에서 목을 맨 채 발견되었다)</p><p>• "Searching the vessel, the police uncovered five tons of cocaine in void spaces." (수색 결과 경찰은 선박의 빈 공간에서 5톤의 코카인을 적발했다)</p><h3>Technical Insights</h3><p>• 국제 마약 적발 협력 체계: 포르투갈 사법경찰·해군·공군, MAOC-N(Maritime Analysis and Operations Centre-Drugs), 영국 NCA, 스페인 경찰이 연계하여 고도화된 다국적 해상 감시·적발 작전 수행<br>• 해상 운송 해킹: 에콰도르·콜롬비아 항만에서 대량의 마약을 선박 공실(void spaces)에 적재하여 유럽으로 운반하는 조직적 밀수망 적발로 국제 해운 보안의 취약성 노출<br>• 해양 안보와 선원 신원 관리: 불법 체류 승무원 및 밀수 연루 승무원의 해상 고용 실태가 심각하며, IMO 등 국제 기구의 선원 신원 확인·배경 조사 강화 필요성 대두</p></div>`,
+      tags: ["drug smuggling","cocaine seizure","containership","law enforcement","criminal investigation"],
+      link: "https://maritime-executive.com/article/portuguese-arrest-two-stowaways-and-one-crewmember-in-large-cocaine-seizure",
+      coords: [-8.1667,37.2667],
+      location: "Atlantic Ocean off Portugal / Port of Sines"
+    }
+  ]
+});
+
+// Auto-collected: 2026-08-05
+addEvents({
+  "2026-08-05": [
+    {
+      type: "news",
+      title: "Washington State Ferries Celebrates Steel-Cutting for Hybrid-Electric Ferry Fleet",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-08-05",
+      image: "https://maritime-executive.com/media/images/article/1786007160_6a744e78e1b2b.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 워싱턴 주 페리(WSF)가 플로리다의 Eastern Shipbuilding Group에서 하이브리드-전기 페리 3척(4척 옵션 포함)의 착공식을 개최했으며, 2030년부터 인도될 예정</p><p>• 160대 차량 수용 가능 규모의 신규 페리로 현재 노후화된 21척 중 절반 이상이 40년 이상 된 기존 선대를 교체하는 프로젝트</p><p>• Eastern Shipbuilding의 입찰가가 지역 조선소(Vigor Industrial) 입찰가 대비 약 2억 달러 저렴하여 비용 절감 효과 달성 및 추가 1척 건조 가능</p><p>• WSF는 2040년까지 최대 16척의 신규 선박 확보 계획을 수립하여 장기적 함대 현대화 추진 중</p><p>• 2019년 시작된 5척 규모의 초기 프로젝트는 2022년 단가 상승으로 취소되었으나, 재설계된 사업으로 10년 만에 국내 페리 건조 재개</p><h3>Key Quotes</h3><p>• "This is the first time in a decade that Washington State is building ferries. We restored our ferry system to full, domestic service. Now, we are taking a significant step toward rebuilding our fleet." (워싱턴 주가 10년 만에 페리를 건조하게 되었으며, 기존 서비스 복구에 이어 함대 재건을 추진 중)</p><p>• "The comparable all-in figure for Eastern's bid came in at about $360 million less." (Eastern의 입찰가가 지역 입찰가보다 약 3억 6천만 달러 저렴함)</p><h3>Technical Insights</h3><p>• **하이브리드-전기 추진 기술의 확대**: 노후 페리 함대의 친환경 전환을 통해 탄소배출 감축 및 운영비 절감을 동시에 달성하는 해운 산업의 에너지 전환 사례</p><p>• **선박 건조 산업의 경제성 중심 의사결정**: 국내 조선소와의 비용 격차(약 2억 달러)가 건조지 결정의 주요 요인이 되어, 글로벌 경쟁력 강화 필요성 시사</p><p>• **중장기 함대 현대화 전략**: 2040년까지 최대 16척 확보 계획으로 페리 서비스의 안정성 향상 및 장기적 운영 효율성 확보 추진</p><p>• **공공 해운 서비스의 지속성**: 노후 선박 대체 주기와 예산 확보의 균형을 맞추는 공공 부문 해운 운영의 현실적 과제 반영</p></div>`,
+      tags: ["Hybrid-Electric Ferries","Fleet Renewal","Washington State Ferries","Shipbuilding"],
+      link: "https://maritime-executive.com/article/wsf-celebrates-long-awaited-steelcutting-for-hybrid-electric-ferries",
+      coords: [-87.1,30.4],
+      location: "Eastern Shipbuilding Group, Panama City, Florida"
+    }
+  ]
+});
