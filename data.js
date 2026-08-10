@@ -13704,3 +13704,64 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-09
+addEvents({
+  "2026-08-09": [
+    {
+      type: "accident",
+      title: "Crew Rescued After Vehicle Carrier Fire Off Costa Rica",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-09",
+      image: "https://images.marinelink.com/images/maritime/w800/source-coast-172773.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **Min Jiang Hou 선박의 엔진룸 화재 발생**: 2026년 8월 9일 코스타리카 남쪽 약 1,014km 해상에서 Marshall Islands 선적 자동차운반선이 엔진룸 화재 발생</p><p>• **22명 전원 안전 구출**: CO₂ 소화 시스템으로 초기 진화 후, 연기 재발생으로 전원 구명보트 탈출. 인근 선박 Jin Hai Ping과 Degu가 AMVER 시스템을 통해 신속히 응답하여 모든 승무원 구출</p><p>• **국제 해상 상호 구조 협력의 모범 사례**: 미국 해안경비대(USCG)의 조정으로 선박 매니저, 인근 선박, Resolve Marine과 협력하여 효율적 구조 진행</p><p>• **환경 피해 미보고**: 현재까지 환경오염 피해 없음, 선박은 Resolve Marine과 수리 협력 중</p><p>• **해상 안전 인프라의 중요성**: AMVER(자동 상호 지원 선박 구조 시스템)와 Inmarsat 위성통신 시스템의 신속한 작동으로 즉각적 구조 가능</p><h3>Key Quotes</h3><p>• "The willingness of fellow mariners to answer a distress call reminds us of the extraordinary commitment the maritime community shares to protecting life at sea." (해상에서 조난신호에 응하는 해사인들의 의지는 해상 생명 보호에 대한 해양 공동체의 뛰어난 헌신을 보여준다)</p><p>• "This rescue highlights the strength of international partnerships, and the vital role coordination plays in ensuring mariners in distress receive timely assistance." (이 구조 활동은 국제 협력의 강점과 조난 해사인들이 적시에 지원을 받도록 보장하는 조정의 중요한 역할을 강조한다)</p><h3>Technical Insights</h3><p>• **선박 화재 대응 프로토콜**: CO₂ 기반의 고정식 소화 시스템이 초기 진화에 효과적이었으나, 연기 재발생으로 인한 구명보트 탈출 조치가 필요했으며, 현대 자동차운반선의 화재 감지 및 자동 소화 시스템의 신뢰성 강화 필요</p><p>• **AMVER 시스템의 실효성**: USCG의 AMVER를 통한 인근 선박 즉시 요청으로 Jin Hai Ping, Degu의 신속한 응답 및 구조 달성. 자율선박 시대에 강제적 AMVER 참가와 AIS 통합을 통한 구조 체계 고도화 필요</p><p>• **국제 해상 안전 협력 체계**: Marshall Islands 선적, 일본 항로, 미국 해안경비대, 중국 선박의 국제 협력 사례. IMO의 SAR(Search and Rescue) 협약 기반의 다국간 해상 안전 네트워크 강화</p><p>• **자율선박 도입 시 고려사항**: 화재 감지, 자동 소화, 승무원 안전 대피 등 비상 상황에서 인간의 판단과 원격 조정 능력의 필요성 재확인. 완전 자율화 전 하이브리드 운영 체계에서 원격 모니터링 및 개입 능력 구축 필수</p></div>`,
+      tags: ["Engine Room Fire","Vehicle Carrier","Crew Rescue","Marshall Islands Flag"],
+      link: "https://www.marinelink.com/news/crew-rescued-vehicle-carrier-fire-off-541920",
+      coords: [-88.5,8],
+      location: "Pacific Ocean, 630 miles south of Costa Rica"
+    },
+    {
+      type: "news",
+      title: "Saronic Establishes Marauder MUSV Testing Facility at Port of Gulfport",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-09",
+      image: "https://images.marinelink.com/images/maritime/w800/source-saronic-172767.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Saronic이 미시시피 주 Gulfport 항에 180피트 규모의 자율주행 선박 Marauder의 시험·운영 시설 개소<br>• 30,000평방피트 규모의 전용 시설로 포트 접근성, 사무실, 창고 등 완비되어 있으며, 미션 운영 및 정비 전문가 팀 배치<br>• 첫 번째 Marauder는 7월 중순 도착 이후 현재 주 7일 12시간 이상 연속 운영 중으로 수백 시간의 실해역 시험 진행<br>• Louisiana의 Franklin 조선소에서 추가 Marauder 건조 중이며, 생산 확대에 따라 Gulfport로 순차 인도 예정<br>• Gulfport는 조선, 해양 부품 제조, 해상 운영 분야의 오랜 역사와 대학 연구 인프라를 보유한 최적 테스트 지역</p><h3>Key Quotes</h3><br>• "Gulfport has developed an incredible ecosystem of partners across industry, academia, and government to advance the future of maritime systems" (Gulfport는 해양 시스템의 미래 발전을 위해 산업, 학계, 정부 파트너들의 뛰어난 생태계를 구축했다)<br>• "Gulfport is an ideal location to support the testing and commissioning of Marauder as we scale production and deliver autonomous ships to our defense and commercial partners" (Gulfport는 생산 규모 확대 및 방위·상용 파트너들에게 자율주행 선박 납품 시 Marauder 시험과 정비를 지원하기에 이상적인 위치다)</p><h3>Technical Insights</h3><br>• 180피트 규모 중형 무인 수상함(MUSUL) Marauder는 1년 이내 설계·건조 완료로 빠른 개발 속도 입증, 산업 전략적 가치 고도화<br>• Gulfport의 대학 연구 센터 및 항만 인프라 연계로 자율주행 선박의 실해역 시험 환경 최적화, IMO 해상 자율주행 규제 선제 대응 가능<br>• 주 7일 12시간 이상 연속 운영으로 자율주행 기술의 안정성·신뢰성 입증 데이터 축적, 향후 해군·상선 도입 시 규제 승인 근거 강화</p></div>`,
+      tags: ["Autonomous Ships","MUSV","Unmanned Surface Vessel","Testing & Commissioning"],
+      link: "https://www.marinelink.com/news/saronic-selects-port-gulfport-marauder-541914",
+      coords: [-89.5928,30.3678],
+      location: "Gulfport, Mississippi"
+    },
+    {
+      type: "accident",
+      title: "Odesa Port Damaged in Lethal Attacks on Ukrainian Infrastructure",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-10",
+      image: "https://images.marinelink.com/images/maritime/w800/oleksandra-adobe-172772.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 우크라이나 오데사 항구가 러시아 공격으로 피해를 입었으며, 드론과 미사일 수십 발이 투입되어 지역 주민 12명이 부상함<br>• 러시아와 우크라이나 양측이 상호 공격을 주장하며 카르키우 지역 3명 사망, 벨고로드 지역 5명 사망 보고<br>• 젤렌스키 대통령은 러시아의 공격이 우크라이나 농산물 수출의 중요 경로인 오데사 항구를 겨냥해 '전 지구적 식량안보'를 위협한다고 성명<br>• 우크라이나는 흑해에서 러시아 유조선 3척 추가 격침을 주장하며 적극적 대응 계속<br>• 러시아 국방부는 오데사·초르노모르스크 항구의 연료저장시설을 공격 목표로 설정했다고 발표<br>• 전쟁으로 인한 양측 물류 기반시설 광범위 손상, 우크라이나 전력공급 심각한 영향</p><h3>Key Quotes</h3><br>• "In this way, the Russians are at war with the world's food security" (러시아가 세계 식량 안보와 전쟁 중이라는 의미로, 우크라이나의 농산물 수출 체인이 단절될 위험성 강조)<br>• "Everyone who lives in Odesa knows that the most common target is around the port area" (오데사 주민들이 인식하는 항구 지역의 반복적 공격 현실)<br>• "Tragic incidents are multiplying, causing an ever-growing number of civilian victims, including children" (바티칸 교황의 민간인 피해 증가에 대한 우려 표명)</p><h3>Technical Insights</h3><br>• 해상 군사 충돌로 인한 항구 기반시설 직접 피해는 국제 물류망과 식량 공급체인에 대한 장기적 위협으로 작용하며, 해양 무역 경로의 안전성 문제 대두<br>• 흑해 해역에서의 해상 화물선 격침으로 인한 해상 보험료 인상 및 해운사 운영 비용 증가로 국제 해운 산업에 미치는 부정적 영향 심화<br>• COLREG 및 국제해사기구(IMO) 규범의 실질적 작동 불가능성이 드러나며, 분쟁 지역 해상 교통 안전관리 체계의 국제법적 개선 필요성 강조<br>• 항만 인프라 손상과 에너지 공급 단절이 자동화 항구 운영 시스템에 미치는 영향을 고려한 해운업계의 리스크 관리 강화 요구</p></div>`,
+      tags: ["Port Damage","Military Conflict","Black Sea","Ukraine","Food Security"],
+      link: "https://www.marinelink.com/news/odesa-port-damaged-lethal-attacks-541919",
+      coords: [30.7355,46.4825],
+      location: "Odesa, Ukraine"
+    }
+  ]
+});
+
+// Auto-collected: 2026-08-10
+addEvents({
+  "2026-08-10": [
+    {
+      type: "news",
+      title: "Maersk to Sell Training Subsidiary to Open Gate Capital",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-10",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• A.P. Moller - Maersk가 40년 이상 운영해온 Maersk Training과 자회사 Maersk H2S Safety Services를 Open Gate Capital에 매각하기로 합의<br>• Open Gate Capital은 산업 및 기업 분할 전문 투자사로, 해운업 교육 부문 인수 확대 추진 중<br>• Maersk Training은 해양 산업 종사자들을 위한 전문화된 교육 프로그램 제공 역사 보유<br>• 거래는 Maersk의 핵심 사업(컨테이너 운송, 에너지 솔루션)에 집중하기 위한 포트폴리오 정리 전략의 일환<br>• 교육 자회사 매각으로 Maersk의 구조 재편 및 자본 효율성 개선 기대</p><h3>Key Quotes</h3><br>• "For more than four decades, Maersk Training has provided specialized training..." (40년 이상 Maersk Training이 해양산업 전문 교육을 제공해왔음을 강조)</p><h3>Technical Insights</h3><br>• **해운업 인력 양성 산업의 재편**: 전통 대형 해운사들이 교육 자회사를 매각하며 전문 투자사들에게 산업 재구조화 진행 중<br>• **IMO 교육 기준 유지**: 새로운 소유사도 국제해사기구(IMO) 규제 기준을 충족하며 해양안전 교육 수준 유지 필요<br>• **자율운항선과 연계 교육 영역 확대**: 향후 해양 산업 교육은 AI, 자율운항, 디지털 시스템 등 신기술 교육 비중 증대 예상</p></div>`,
+      tags: ["Maersk","Training","M&A","Open Gate Capital"],
+      link: "https://www.marinelink.com/news/maersk-sell-training-subsidiary-541921",
+      coords: [9.9916,55.6761],
+      location: "Copenhagen, Denmark"
+    }
+  ]
+});
