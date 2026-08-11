@@ -13839,3 +13839,71 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-10
+addEvents({
+  "2026-08-10": [
+    {
+      type: "news",
+      title: "Raytheon and CET Successfully Test Low-Cost Hadalus UUV for U.S. Navy",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-08-10",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/08/HALADUS-XL.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **Hadalus UUV 성공적 시연**: Raytheon과 Composite Energy Technologies(CET)가 개발한 새로운 저가형 장거리 무인잠수정(UUV) Hadalus가 미 해군 시험에서 수중 발사 및 자율항해 능력을 성공적으로 입증</p><p>• **혁신적 기술 특성**: 길이 34피트, 6피트 단면의 전탄소섬유 구조로 설계되어 2,000해리 이상의 항속거리 제공 및 기존 동급 무인잠수정 대비 3분의 1~5분의 1 수준의 저가격 구현</p><p>• **빠른 개발 사이클**: 개념 설계부터 수상 시험까지 18개월 이내에 완성하여 전통적 방위사업 개발 사이클 대비 획기적으로 단축</p><p>• **미 해군의 중요한 성과**: 미 해군이 처음으로 단일 무인잠수정에서 탐지, 재확보, 교전 기능을 통합 수행하는 능력을 실제 해상에서 확인</p><p>• **산업 의의**: 저렴한 가격대의 자율 무인잠수정 대량 배치 가능성 제시로 미 해군의 작전 능력 대폭 확대 가능</p><h3>Key Quotes</h3><p>• "This demonstration is an important step in a broader roadmap to deliver autonomous, end‑to‑end undersea capabilities that are far less detectable than surface platforms" (이번 시연은 표면함정 대비 훨씬 탐지하기 어려운 완전자율 수중 능력 구현을 위한 광범위한 로드맵의 중요한 단계)</p><p>• "Hadalus demonstrates that the undersea industrial base can move with greater speed and dynamism than traditional development cycles allow" (Hadalus는 수중 산업 기반이 전통적 개발 사이클보다 훨씬 빠르고 역동적으로 움직일 수 있음을 입증)</p><h3>Technical Insights</h3><p>• **자율 잠수정의 군사적 활용 확대**: 장거리 항속거리와 자율항해 능력을 갖춘 UUV는 반잠수형 플랫폼에 비해 탐지 회피력이 우수하여 미 해군의 수중작전 패러다임 변화를 주도</p><p>• **첨단복합재료 기술의 해양산업 적용**: 탄소섬유 외골격 구조의 활용으로 강도와 적재 능력을 확보하면서 비용을 대폭 절감하는 설계 혁신으로 미래 해양 로봇 산업의 새로운 기준 제시</p><p>• **방위산업 개발 속도 개선**: 민간 기업(CET)과의 협력 및 민첩한 설계-통합-실험 접근법으로 18개월 내 완성형 프로토타입 구현으로 국방 획득 프로세스 개혁의 모범 사례 제공</p></div>`,
+      tags: ["Autonomous UUV","U.S. Navy","Underwater Technology","Defense Innovation"],
+      link: "https://www.navalnews.com/naval-news/2026/08/raytheon-and-cet-successfully-test-new-low-cost-hadalus-uuv-for-u-s-navy/",
+      coords: [0,0],
+      location: "U.S. Navy Test Range"
+    },
+    {
+      type: "news",
+      title: "Royal Navy Surveillance Drones Found Transmitting Data to China",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-08-10",
+      image: "https://defence-blog.com/wp-content/uploads/2026/08/DB_image_2077.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 영국 해군의 크라켄 K3 Scout 무인 표면함 탑재 카메라가 중국 IP주소로 신호를 비밀리에 전송하는 것으로 발견됨<br>• 캐나다 기업 Current Scientific Corporation의 Night Navigator 3000 카메라 시스템에서 외부 소재 부품이 주기적인 하트비트 통신(heartbeat communications)을 중국으로 송신<br>• 특수보트서비스(SBS) 본부인 도싯 풀에서 3월 영국 해군 배치 이후 정기 사이버 취약성 평가 중 적발<br>• 호르무즈 해협 배치 예정된 총 약 1,620만 달러(1,200만 파운드) 규모의 K3 Scout 함대에 영향<br>• 국방부는 민감한 정보 유출 없음을 확인했으나 예방 차원에서 카메라 인터넷 연결 차단 조치 시행<br>• 프로젝트 '비하이브'의 하이브리드 해군 구성 전략에 영향을 미칠 수 있는 사안</p><h3>Key Quotes</h3><p>• "heartbeat communications, routine signals confirming a device is powered on and connected, to a device located in China" (중국 내 위치한 기기로 전송되는 정기적인 하트비트 통신 - 장치의 전원 상태와 연결 확인 신호)</p><p>• "the affected drones had been earmarked for a planned British deployment to the Strait of Hormuz...as part of a mission aimed at protecting freedom of navigation for commercial shipping in the region" (영향을 받은 무인함선은 호르무즈 해협 배치를 위해 예정되었으며, 이는 지역 상업 해운의 항행 자유 보호 임무의 일부)</p><p>• "no evidence that sensitive information or military systems had actually been accessed or compromised, though the department stripped all internet connectivity from the affected cameras as a precaution" (민감 정보나 군사 시스템 접근/침해 증거 없으나, 예방 차원에서 인터넷 연결 차단)</p><h3>Technical Insights</h3><p>• **자율운항선박(USV) 공급망 보안**: 무인 표면함의 카메라·센서 등 핵심 부품에 대한 엄격한 소재지 및 신뢰성 검증 필요성 대두 - 제3국 완성도(COTS) 부품 통합 시 국방 사이버 위협 리스크 증가</p><p>• **IMO/해군 규정 영향**: 자율운항선박의 데이터 보안 기준이 기존 COLREG(충돌회피 규칙) 외에 **사이버 보안 요구사항**으로 강화될 가능성 - 국제 해사 표준 개정 논의 촉발 가능</p><p>• **Project Beehive와 하이브리드 해군 전략**: 대형함과 소형 자율무인함 혼합 배치 전략의 실현성 재검토 - 빠른 생산·배치의 이점이 공급망 보안 및 정보보호 리스크와 상충하는 과제 노출</p><p>• **국방 조달의 독립성**: 영국 국방 기술의 캐나다·제3국 부품 의존도 감소 및 자체 제조 역량 강화 추진 가능성 증대 - NATO 동맹국 간 방위산업 공급망 신뢰성 논의 심화</p></div>`,
+      tags: ["cybersecurity","autonomous vessels","Royal Navy","data breach"],
+      link: "https://defence-blog.com/royal-navy-naval-drone-cameras-secretly-sent-to-china/",
+      coords: [50.7349,-1.8789],
+      location: "Poole, Dorset, United Kingdom"
+    }
+  ]
+});
+
+// Auto-collected: 2026-08-07
+addEvents({
+  "2026-08-07": [
+    {
+      type: "news",
+      title: "ROK Navy Tests AI Uncrewed Mine Warfare in Sea GHOST Trial",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-08-07",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/08/ROK-Navy-Tests-AI-Uncrewed-Mine-Warfare-in-Sea-GHOST-Trial-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 한국 해군이 한화시스템과 협력하여 부산 해군기지에서 AI 기반 무인 기뢰전 시스템 실해역 시험을 성공적으로 수행함<br>• "해군 Sea GHOST" 교리는 유인 전투함과 무인수상정(USV), 무인수중정(UUV), 무인항공기(UAV), 자율수중정(AUV)의 유기적 협력을 통한 네트워크 함대 구조를 지향<br>• ROKS 옹진함을 중심으로 무인정 2척, 무인항공기, 무인 기뢰탐지정으로 구성된 혼합 전력이 기뢰전 임무의 자동화 및 의사결정 가속화를 입증<br>• 한화시스템과 LIG넥스1 등 국내 방산업체가 대잠전 UUV, 해금 USV, 광대역 통신 체계 등 핵심 기술 개발을 가속화 중<br>• 부산을 AI 혁신 허브로 활용하여 민-정-군 협력을 확대하고 지속적인 전투 실험을 통해 무인 기뢰전 능력의 작전화를 추진할 계획</p><h3>Key Quotes</h3><p>• "AI technologies and uncrewed systems will serve as core capabilities in future maritime battlefields. We must lead the future battlefield through the rapid military application of advanced technology." (AI 기술과 무인 시스템은 향후 해상 전장의 핵심 능력이 될 것이며, 첨단 기술의 신속한 군사 적용을 통해 미래 전장을 주도해야 한다)</p><p>• "Navy Sea GHOST envisions a networked fleet architecture where conventional crewed platforms operate in tactical synergy with unmanned systems." (해군 Sea GHOST는 유인 전투함과 무인 시스템이 전술적 시너지로 작동하는 네트워크 함대 구조를 지향한다)</p><h3>Technical Insights</h3><p>• 유인-무인 협력(MUM-T) 기반의 다층적 센서 네트워크를 통해 기뢰전 작전의 자동화 수준을 획기적으로 향상시켰으며, 이는 IMO 및 국제 해양 규범에서 강조하는 해상 자율성 기술 발전 방향과 일치<br>• AI 기반의 실시간 의사결정 가속화 기능은 해상 전투에서의 대응 시간 단축 및 인명 피해 감소를 실현하며, 향후 민간 해운 분야의 자율운항 기술 발전에도 중요한 군사-민간 기술 이전 경로 제시<br>• 부산을 중심으로 한 AI 혁신 허브 구축은 동북아 해역의 해상 자율성 기술 경쟁에서의 한국의 선도적 위치 강화를 의미하며, 이는 향후 국제 해양 자율운항 표준 수립에 한국의 영향력 확대로 이어질 가능성</p></div>`,
+      tags: ["AI Navigation","Autonomous Systems","Mine Warfare","Manned-Unmanned Teaming"],
+      link: "https://www.navalnews.com/naval-news/2026/08/rok-navy-sea-ghost-ai-uncrewed-mine-warfare-experiment/",
+      coords: [129.0411,35.1796],
+      location: "Busan Naval Base, South Korea"
+    }
+  ]
+});
+
+// Auto-collected: 2026-08-05
+addEvents({
+  "2026-08-05": [
+    {
+      type: "news",
+      title: "Indonesian Navy Debuts Kamikaze USV During Major Exercise",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-08-05",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/08/Indonesias-domestically-made-one-way-attack-USV.-Indonesian-MoD-picture.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 인도네시아 해군(TNI AL)이 자살형 무인수상선(USV) 시스템을 공식 훈련 중 최초 배치하여 해양 무기 체계의 자동화 수준을 한 단계 진전시킴</p><p>• PT PAL Indonesia(인도네시아 국영 조선소)가 개발한 플랫폼으로, 시속 55노트 이상의 속도와 150kg 탄두 장착 능력을 갖추고 있으며 추가 개발 단계 중</p><p>• 리모콘 조종, 휴대용 콘솔 제어, 완전 자율 항해 모드를 포함한 다양한 운영 방식을 지원하며, 향후 AI 기반 아군/적군 자동 식별 시스템 탑재 예정</p><p>• 같은 통제 시스템을 자율 잠수함(KSOT) 개발에도 적용하고 있어 인도네시아 해군의 자율형 무기체계 플랫폼 통합화 추진</p><p>• 훈련 중 C-705 대함 미사일 2발 발사 및 KI-50 순항 미사일 발사도 함께 수행하여 복합 무기체계 통합 작전 능력 입증</p><h3>Key Quotes</h3><p>• "The platform is still in the development phase, with the initial configuration targeted to reach a speed of more than 55 knots and carry a 150 kg warhead." (현재 개발 단계이며, 초기 구성에서 시속 55노트 이상의 속도와 150kg의 탄두 장착을 목표로 함)</p><p>• "PT PAL also plans to install an artificial intelligence system that would enable the USV to independently identify friendly and hostile targets." (PT PAL은 USV가 자동으로 아군과 적군 목표를 식별할 수 있도록 인공지능 시스템 탑재를 계획 중)</p><h3>Technical Insights</h3><p>• **자율 무기체계 표준화**: 인도네시아 해군이 USV와 자율 잠수함에 동일한 통제 시스템 적용으로 해군 플랫폼 간 호환성 및 운영 효율성 극대화 추구</p><p>• **AI 기반 타겟 인식**: 향후 도입될 AI 시스템은 COLREG 준수 및 해상 자동충돌회피 시스템(ACAS) 개념과 유사하게 자동 의사결정 능력을 갖춘 자율형 해상 무기체계의 발전 방향을 시사</p><p>• **소형국 방위력 강화**: PT PAL 같은 지역 조선소의 무인 플랫폼 국산화 개발은 IMO 규제 프레임워크 변화와 함께 인도-태평양 지역 해군력 균형 변화에 영향을 미칠 가능성</p><p>• **운영 유연성 설계**: 원격 조종, 휴대용 콘솔, 완전 자율 모드 등 다중 운영 옵션은 전술적 상황 대응 능력을 제고하되, 향후 국제 해상법(LOAC) 준수 기준 개발 필요성 강조</p></div>`,
+      tags: ["USV","Unmanned Surface Vessel","Indonesian Navy","Autonomous Systems","Naval Technology"],
+      link: "https://www.navalnews.com/naval-news/2026/08/indonesian-navy-debuts-kamikaze-usv-during-major-exercise/",
+      coords: [104.2832,0.65],
+      location: "Dabo Singkep, Riau Islands, Indonesia"
+    }
+  ]
+});
