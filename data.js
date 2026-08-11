@@ -13765,3 +13765,77 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-10
+addEvents({
+  "2026-08-10": [
+    {
+      type: "accident",
+      title: "Car Carrier Min Jiang Kou Abandoned After Engine Room Fire 630 Miles Off Costa Rica",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-08-10",
+      image: "https://gcaptain.com/wp-content/uploads/2026/08/shutterstock_2149250187.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **선박명 및 사건**: 마셜 제도 선적 자동차운반선 민강콩(Min Jiang Kou)이 엔진룸 화재로 인해 코스타리카 남쪽 약 630마일 해상에서 abandoned 되었음</p><p>• **인명 구조**: U.S. Coast Guard의 AMVER 시스템을 통해 근처 상선 2척(Jin Hai Ping, Degu)이 현장 이동하여 22명 전원이 안전하게 구조됨</p><p>• **사건 진행 경과**: 목요일 13:09 화재 발생 → CO₂ 소화 시스템으로 초기 진화 → 23:33 연기 증가로 승선 명령 → 금요일 12:21 전원 Jin Hai Ping에 탑승</p><p>• **국제 해상 협력의 우수성**: 원거리 긴급 상황에서 AMVER 시스템의 효율성과 국제 해상 공동체의 상호부조 정신 입증</p><p>• **환경 피해 및 조치**: 현재까지 환경오염 피해 미보고, Resolve Marine과 협력하여 추가 수리 계획 중</p><h3>Key Quotes</h3><p>• "The willingness of fellow mariners to answer a distress call reminds us of the extraordinary commitment the maritime community shares to protecting life at sea" (해난 신호에 응하려는 선원들의 의지는 해상에서 생명을 보호하기 위한 해양 공동체의 비상한 헌신을 상기시킨다)</p><p>• "This rescue highlights the strength of international partnerships, and the vital role coordination plays in ensuring mariners in distress receive timely assistance" (이번 구조 작업은 국제 협력의 강점과 해난 선원들에게 적시 지원을 보장하는 조율의 중요한 역할을 강조한다)</p><h3>Technical Insights</h3><p>• **AMVER 시스템의 실제 효능**: 원거리 해상 긴급 상황에서 자동화된 선박 상호 지원 시스템이 기존 SAR 자산보다 신속하게 대응 가능함을 증명하였으며, 이는 자율항행 선박의 원격 좌표 공유 및 응급 대응 체계와 유사한 운영 개념</p><p>• **화재 진화 시스템의 한계**: CO₂ 소화 시스템으로 초기 진화되었으나 시간 경과에 따라 재발화 위험으로 진화하여 abandoned 결정, 향후 엔진룸 화재 감지 및 자동 진화 기술 고도화 필요</p><p>• **국제 규정 준수의 중요성**: SOLAS 및 COLREG 준수를 통한 신속한 distress alert 송신과 lifeboats 탑승 절차가 22명 전원 구조의 핵심 요인으로 작용</p><p>• **산업적 교훈**: 자동차운반선 같은 특수 선박의 엔진룸 화재 위험 인식 제고 및 CII(탄소집약도지수) 규제에 따른 엔진 과부하 운영 관행의 개선 필요성 시사</p></div>`,
+      tags: ["Fire","Engine Room","Abandoned Vessel","Rescue Operation"],
+      link: "https://gcaptain.com/car-carrier-abandoned-after-catching-fire-630-miles-off-costa-rica/",
+      coords: [-89.5,8],
+      location: "South of Costa Rica (Pacific Ocean)"
+    },
+    {
+      type: "accident",
+      title: "Massive Oil Spill from Grounded Shadow Fleet Tanker Caroline Bezengi off Oman",
+      source: "gCaptain/Reuters",
+      sourceMeta: "gcaptain.com · 2026-08-10",
+      image: "https://gcaptain.com/wp-content/uploads/2026/07/2026-07-31T141129Z_1761801036_RC2EIMA2NH5I_RTRMADP_3_MIDEAST-GULF-SHIPPING-SPILL.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **선박 및 사건 개요**: 러시아산 원유 약 100만 배럴을 운송 중인 제재 대상 유조선 Caroline Bezengi(274m)가 오만 할라니야트 섬 인근에서 좌초되어 대규모 유출 사고 발생</p><p>• **오염 규모**: 오만 환경청 발표 기준 약 390㎢(그린피스 추정 600㎢)의 유출유 슬릭이 확산되었으며, 해안으로부터 약 7km 이내 해역에 분포</p><p>• **자연보호지역 위협**: 2025년 지정된 자연보호구역 내 아라비아해 혹등고래, 소코트라 가마우지 등 해양생물 서식지 오염으로 환경 피해 우려</p><p>• **사고 원인**: 6월 8일 예멘 인근에서 초기 어려움 보고, 선박 폭발 가능성 지적하나 책임 주체 미상</p><p>• **대응 및 영향**: 유분산제 살포, 스키머 및 붐(booms) 등을 활용한 해상 수거 작업 진행 중; 해수담수화 시설·관광시설 영향은 현재 없는 것으로 평가</p><p>• **역사적 사례 비교**: 1989년 엑슨발데즈호 유출 사고 유사사례로 10년 이상 잔존 우려</p><p>---</p><h3>Key Quotes</h3><p>• **"If this oil is kept offshore, the impact will be much less than if the oil reaches shallower waters and the actual coastline"** (유조선에서 유출된 기름이 해상에서만 머물러 있다면 얕은 바다나 해안에 도달할 때보다 환경 피해가 훨씬 적을 것이라는 의미)</p><p>• **"You could find oil still there years later. And that's what happened with Exxon Valdez. Ten years down the line, there still were remnants of oil"** (수십 년 후에도 유성 잔류물이 발견될 수 있으며, 1989년 엑슨발데즈호 사고 당시 10년 후에도 기름이 남아 있었다는 환경학적 시사)</p><p>---</p><h3>Technical Insights</h3><p>• **해상 환경오염 대응 기술**: 대규모 유출사고(390-600㎢)에 대응하기 위해 항공기 살포 분산제, 회수용 스키머, 오일붐(booms) 등 다층적 해상환경 방제 기술 필요성 재확인</p><p>• **섀도우 플릿(Shadow Fleet) 규제 강화 필요**: 제재 대상 선박의 노후화(2001년 건조), 이중 국기(double-flagging) 등 규제 회피 구조가 환경재해 증대 위험으로 작용하며, IMO 차원의 감시 강화 및 국제 해운 규제 체계 개선 요구</p><p>• **MARPOL 및 오염 책임 제도 적용**: 유출 책임 주체 특정 곤란(전쟁 행위 추정)하더라도 선박 소유자/운영자의 오염책임 원칙(MARPOL Annex I)에 따른 국제 배상 메커니즘 작동 필요</p><p>• **해양 생태계 보호 협약 연계**: UNESCO 생물권보전지역 지정 대상 자연보호구역 훼손으로 국제 환경협약(생물다양성협약 등) 이행 문제 발생, 중동 지역 해양 거버넌스 강화 시급</p></div>`,
+      tags: ["Oil Spill","Tanker Grounding","Shadow Fleet","Russia Sanctions","Environmental Disaster","Oman"],
+      link: "https://gcaptain.com/oil-spill-off-oman-from-tanker-under-sanctions-against-russia-spreads-over-huge-area/",
+      coords: [54.3,17],
+      location: "Hallaniyat Islands, Oman (Dhofar Governorate)"
+    },
+    {
+      type: "accident",
+      title: "Oil Spill from Sanctioned Tanker Caroline Bezengi Spreads Rapidly Off Oman",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-10",
+      image: "https://images.marinelink.com/images/maritime/w800/copyright-imagebank4uadobestock-172790.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 제재 대상 러시아 유조선 Caroline Bezengi가 6월 8일 예멘 무칼라 항구 근처에서 폭발로 추정되는 손상을 입고 유출 사건 발생<br>• 오만 정부가 공식 확인한 기름띠는 약 390제곱킬로미터(150제곱마일) 규모로 할라니야트 섬 북동쪽으로 확산 중<br>• 274미터(900피트) 길이의 선박은 러시아 원유를 적재했으며 6월 11일 이후 공식 AIS 신호 중단<br>• 서방 제재를 우회하는 '그림자 함대(shadow fleet)' 운영의 환경 위협 사례로, EU·영국이 제재 대상으로 지정<br>• 오만 환경청이 위성 영상 분석 기반으로 확산 추적 중이며, 해안에서 최단 7킬로미터 거리까지 접근한 상태</p><h3>Key Quotes</h3><p>• "An oil slick is covering an area of around 390 square kilometres (150 square miles) off the coast of Oman" (오만 해안 인근 약 390제곱킬로미터 규모의 기름띠가 확산 중)<br>• "Initial assessments indicated that a blast occurred onboard" (초기 평가에 따르면 선박 내 폭발이 발생한 것으로 추정)<br>• "Russia uses ageing, often poorly maintained tankers in what is referred to as its shadow fleet to circumvent Western sanctions on Russian oil exports" (러시아는 서방 제재 회피를 위해 노후되고 관리 미흡한 유조선들의 '그림자 함대'를 운영 중)</p><h3>Technical Insights</h3><p>• 제재 대상 선박의 폭발 원인이 명확하지 않으나, 노후 유조선의 열악한 유지보수 상태가 해양 사고의 주요 위험 요소로 지적되는 상황<br>• 그림자 함대 운영으로 인한 환경 오염 확산은 IMO 국제해양오염방지규정(MARPOL) 및 국제 환경보호 협약 강제 이행의 필요성 대두<br>• 해상 교통 안전과 환경보호를 위한 AIS 추적 시스템의 중요성 부각(본선이 신호 중단으로 추적 불가)</p></div>`,
+      tags: ["Oil Spill","Environmental Damage","Tanker Accident","Sanctions","Russia"],
+      link: "https://www.marinelink.com/news/oil-spill-sanctioned-tanker-spreads-541938",
+      coords: [54.5,17.5],
+      location: "Off Oman coast, Hallaniyat Islands, Arabian Sea"
+    },
+    {
+      type: "news",
+      title: "Autonomous Technology Advancing Surveys and Offshore Energy Inspections",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-10",
+      image: "https://images.marinelink.com/images/maritime/w800/bubble-robotics-172784.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 노르웨이 해양청(Norwegian Offshore Directorate)이 6월에 HUGIN 자율 수중 차량(AUV)을 배치하여 심해 해역 조사의 자동화가 가속화되고 있음</p><p>• 자율 수상선(USV) 및 ROV 통합 시스템이 점진적으로 고도화되어 단일 차량으로 수심측정, 지구물리학 조사 등 다중 임무 수행 가능</p><p>• 프루그로(Fugro)의 Blue Essence USV, 오션알파(OceanAlpha)의 V180 USV-ROV 시스템(3,000m 심도 지원) 등 업계 선두 기술 개발 사례</p><p>• 데이터-서비스(Data-as-a-Service) 모델로 전환되면서 장기 로봇 소유에서 프로젝트 기반 운영으로 변화</p><p>• 자율 시스템 도입으로 인원 감축, 비용 절감, 탄소배출 감소 등 운영 효율성 극대화</p><h3>Key Quotes</h3><p>• "You can do more with one vehicle, and you can use it to extend the range of manned vessels while reducing costs and emissions." (단일 차량으로 더 많은 작업을 수행할 수 있으며, 유인선의 운영 범위를 확장하면서 비용과 배출량을 동시에 감소시킬 수 있음)</p><p>• "The USV features a dual-moonpool configuration and an open deck layout suitable for flexible deployment of a wide range of mission modules." (이중 문풀 구성과 개방형 갑판 설계로 다양한 임무 모듈의 유연한 배치 가능)</p><h3>Technical Insights</h3><p>• **자율수중/수상 시스템의 다기능화**: 종전의 단순 수심측정에서 벗어나 지구물리학 조사, 지반공학 분석, 환경 데이터 수집 등을 통합한 멀티태스킹 플랫폼으로 진화 중</p><p>• **심해 작업 능력 확대**: 3,000m 심도까지 지원하는 AUV/USV-ROV 통합 시스템 개발로 기존 유인 잠수함 기반 작업의 자동화 추진</p><p>• **원격 운영 체계 구축**: 육상 제어센터에서 USV와 ROV를 동시 제어 가능한 원격 조작 기술로 해양 작업의 안전성 및 효율성 향상</p><p>• **산업 비즈니스 모델 변화**: 장기 로봇 보유에서 특정 프로젝트 기반 데이터 서비스로의 전환으로 소규모 해양에너지 기업도 첨단 자율 기술 접근성 확대</p></div>`,
+      tags: ["Autonomous Underwater Vehicles","Offshore Energy","USV Technology","Subsea Operations"],
+      link: "https://www.marinelink.com/news/surveys-offshore-energy-inspections-541934",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
+
+// Auto-collected: 2025-05-26
+addEvents({
+  "2025-05-26": [
+    {
+      type: "accident",
+      title: "NTSB Blames Unapproved Hot Work for Deadly NYC Sludge Tanker Explosion",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-08-10",
+      image: "https://gcaptain.com/wp-content/uploads/2026/08/Hunts-Point.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **사건 개요**: 2025년 5월 26일 뉴욕시 슬러지 운반선 Hunts Point에서 승인되지 않은 프로판 토치 사용으로 폭발 발생<br>• **인명피해**: 선박 기관장 Raymond Feige(59세, 34년 근무)가 폭발로 사망, 부기관장 포함 2명 부상<br>• **사고 원인**: 해치 커버의 녹슨 볼트 제거 중 토치 사용으로 홀드 내 가연성 메탄 가스 점화<br>• **절차상 문제**: 승인되지 않은 열작업(hot work)과 5년 만에 시행된 '이너리지 감소(innage reduction)' 절차의 위험성<br>• **NTSB 결론**: 장비 유지보수 부족과 안전 프로토콜 미준수가 치명적 사고로 이어짐<br>• **운영 배경**: NYC 시설에서 슬러지 수송을 위해 2014년 도입된 289피트 탱커 3척 중 1척</p><h3>Key Quotes</h3><p>• "The blast killed the vessel's chief engineer and injured two other crew members while causing significant damage to the vessel." (폭발로 선박의 기관장이 사망하고 2명의 선원이 부상을 입었으며 선박에 심각한 손상을 야기했다)</p><p>• "The NTSB concluded that the torch had likely ignited flammable methane gas in the hold, triggering the explosion." (NTSB는 토치가 홀드 내 가연성 메탄 가스에 점화하여 폭발을 유발했을 가능성이 높다고 결론지었다)</p><p>• "The tanker's hatches were being opened that day so that water from a dockside hydrant could be added to the tanks in order to loosen sludge that had become too viscous to pump out after sitting overnight." (선박의 해치가 도크사이드 소화전의 물을 탱크에 추가하여 밤새 고착된 슬러지를 유동화하기 위해 열려 있었다)</p><h3>Technical Insights</h3><p>• **폐쇄공간(Enclosed Space) 안전 관리**: 슬러지 운반선의 탱크 홀드에서 혐기성 분해로 메탄 가스 발생 가능성이 높으며, 해치 개방 작업 시 적절한 환기 및 가스 농도 측정이 필수적임</p><p>• **승인된 열작업(Approved Hot Work) 프로토콜의 중요성**: IMO 안전 규정(SOLAS) 및 해양 산업 안전 기준에서 금속 절단/용접 등의 열작업은 반드시 사전 승인과 안전감시자 배치가 요구됨</p><p>• **유지보수 체계 개선**: 5년 주기의 장시간 작업 중단으로 인한 장비 부식(녹슨 볼트)이 승인되지 않은 대체 절차(토치 사용)를 초래하므로, 예방적 유지보수 및 정기적 장비 점검 강화 필요</p><p>• **운영 안전문화**: 자치단체 선박 운영에서도 상업선박과 동일한 수준의 안전 표준 준수, 작업 허가증(Permit to Work) 시스템, 선원 교육 등이 중요함을 시사</p></div>`,
+      tags: ["tanker explosion","hot work","methane ignition","occupational safety","NTSB investigation"],
+      link: "https://gcaptain.com/ntsb-blames-unapproved-hot-work-for-deadly-nyc-sludge-tanker-explosion/",
+      coords: [-73.9776,40.8185],
+      location: "North River Wastewater Treatment Plant, Manhattan, New York City"
+    }
+  ]
+});
