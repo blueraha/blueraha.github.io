@@ -13907,3 +13907,65 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-11
+addEvents({
+  "2026-08-11": [
+    {
+      type: "accident",
+      title: "U.S. Navy Helicopter Fires Hellfire Missiles at Panama-Flagged Containership Vela Nova in Gulf of Oman",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-08-11",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/2026-04-19T235055Z_816513121_RC2GSKA8INN4_RTRMADP_3_IRAN-CRISIS-TRUMP-SHIP-800x534.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 미 해군 MH-60 헬기가 파나마 국적 컨테이너선 벨라노바(M/V Vela Nova)에 헬파이어 미사일 2발을 발사하여 조향장치 및 엔진실을 손상시킨 사건 발생</p><p>• **선박 정보**: 1997년 건조된 벨라노바(IMO 9007831)는 골든밸리마린 소유이며, 한국선급 등록, 런던P&I 보험 가입 상태</p><p>• **사건 원인**: CENTCOM의 경고에도 불구하고 이란 항구로 향하는 항해를 계속한 것으로 판단되며, 미국의 이란 해상 봉쇄 정책 위반으로 인한 군사 개입</p><p>• **피해 현황**: 스턴 및 조향실에 직격탄을 맞았으나 선원 전원 안전, 화재는 진화됨, 선박은 현재 비통항 상태</p><p>• **정책 의미**: 선박별로 호르무즈 해협 외부 오만만까지 봉쇄 집행 범위 확대, 컨테이너선에 대한 첫 미사일 공격 사례로 기록</p><p>• **누적 현황**: 8월 11일 기준 미군은 상선 55척 지시 변침, 불응 선박 3척 무력화, 2척 승선 검색 수행</p><h3>Key Quotes</h3><p>• "The ship is no longer transiting to Iran in violation of the U.S. blockade, which remains in full effect." (미국의 이란 해상 봉쇄 정책이 완전한 효력 중이며, 해당 선박이 더 이상 이란으로 항해하지 않음을 의미)</p><p>• "The vessel's master confirmed the ship had been hit in the stern and steering compartment, leaving it not under command." (선박 스턴과 조향실 직격으로 선박의 조종 불능 상태 발생)</p><p>• "The Vela Nova incident is particularly notable because it involved a containership rather than a tanker and occurred well outside the Strait of Hormuz itself." (호르무즈 해협 외부까지 봉쇄 집행 범위 확대 및 컨테이너선에 대한 첫 직접 군사 개입 사례)</p><h3>Technical Insights</h3><p>• **해상 봉쇄 집행 확대**: 기존 유조선 중심의 해상 봉쇄 정책에서 일반 화물선(컨테이너선)까지 적용 범위 확대, 국제해사법상 비례성 및 정당성 논의 필요</p><p>• **UNCLOS 및 국제해상법 침해 우려**: 국제해역에서의 일방적 봉쇄 및 미사일 공격은 해양법협약(UNCLOS) 항행의 자유 원칙과의 충돌 가능성 제기</p><p>• **상선 안전 및 IMO 규정 적용**: 민간 선박에 대한 군사 무력 행사로 선원 안전 및 SOLAS/COLREG 등 해양안전규칙의 실효성 문제 야기</p><p>• **선주 및 보험 책임 구조**: 파나마 국적, 그리스-중국계 소유, 한국선급 등 국제 레지스트리 구조에서의 배상 책임 및 보험 처리 복잡성 증대</p></div>`,
+      tags: ["U.S. Navy","Containership","Missile Strike","Gulf of Oman","Blockade Enforcement","Iran Sanctions"],
+      link: "https://gcaptain.com/u-s-navy-helicopter-fires-on-panama-flagged-containership-in-gulf-of-oman-in-blockade-enforcement/",
+      coords: [58.5,23.5],
+      location: "Gulf of Oman"
+    },
+    {
+      type: "accident",
+      title: "Container Ship Vela Nova Hit by Missile in Gulf of Oman",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-08-11",
+      image: "https://gcaptain.com/wp-content/uploads/2026/08/Screenshot-2026-08-11-at-1.14.10-PM.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 파나마 국적 컨테이너선 Vela Nova가 2026년 8월 11일 오만만에서 미사일 공격으로 피격된 사건 발생<br>• UKMTO(영국 해양 무역 운영 센터)가 보고했으며, 해상 보안 소식통들은 파키스탄 해안으로부터 약 71 해리 떨어진 지점에서의 사건이라고 확인<br>• 초기 평가에 따르면 군사 세력이 관여한 미사일 공격으로 인한 사건으로 판단됨<br>• 영국 해양 위험 관리 그룹 Vanguard와 해상 보안 소식통들이 정보 제공<br>• 걸프 오만 지역의 지속적인 해상 보안 위협과 선박 안전 우려 심화</p><h3>Key Quotes</h3><p>• "The United Kingdom Maritime Trade Operations said on Tuesday it received a report of an incident involving a container ship and military forces in the Gulf of Oman" <br>(영국 해양 무역 운영 센터가 오만만에서 컨테이너선과 군사 세력이 관련된 사건 보고를 접수했음을 화요일에 발표)</p><p>• "Maritime security sources said the container ship is believed to have been hit by a missile off the coast of Pakistan"<br>(해상 보안 소식통들은 파키스탄 해안 인근에서 컨테이너선이 미사일에 피격되었을 가능성이 있다고 주장)</p><h3>Technical Insights</h3><p>• **해상 안전 위협 확대**: 걸프 오만 지역의 미사일 공격은 상선(민간 화물선)에 대한 직접적인 군사 위협으로 작용하고 있으며, 이는 국제 해상 운송의 안전성과 예측 불가능성을 크게 증가시킴</p><p>• **해양 교통 보안 체계의 한계**: UKMTO 같은 국제 해양 보안 조직의 신속한 보고에도 불구하고 미사일 공격으로부터의 선박 방어 수단이 제한적이어서 예방 차원의 항로 변경 등이 필수적</p><p>• **자율항해 시스템의 필요성**: 위험 지역 운항 시 원격 조종 또는 완전 자율 항해 시스템 도입으로 승무원 안전을 보호하고, AI 기반의 위협 감지 및 회피 시스템의 개발 필요성 증대</p><p>• **국제 규제 체계 강화 필요**: IMO와 국제 해사 기구들이 무장 분쟁 지역의 상선 운항 규정 및 보험 체계 개선을 통해 해운 산업의 안정성 확보 필요</p></div>`,
+      tags: ["missile attack","container ship","Gulf of Oman","maritime security","Pakistan coast"],
+      link: "https://gcaptain.com/ukmto-reports-incident-involving-container-ship-and-military-forces-in-gulf-of-oman/",
+      coords: [58.5,24],
+      location: "Gulf of Oman (71 nautical miles off Pakistan coast)"
+    },
+    {
+      type: "accident",
+      title: "U.S. Military Disables Panama-Flag Cargo Ship Vela Nova for Iran Blockade Violation",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-11",
+      image: "https://images.marinelink.com/images/maritime/w800/helicopter-lands-172850.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 미 해군이 이란 봉쇄령 위반 혐의로 파나마 국기선인 벨라노바(Vela Nova) 화물선에 헬파이어 미사일 2발을 발사하여 선박의 조타 기능을 무력화함</p><p>• **피해 현황**: 오만만 파키스탄 인근 약 71해리 지점에서 발생한 미사일 공격으로 인한 화재가 진화되었으며, 승무원 17명 전원 생존 확인</p><p>• **미군의 해역 통제**: CENTCOM은 8월 11일 기준 봉쇄 위반 시도 상선 55척을 재배치하고 비협조 선박 3척을 무력화, 2척을 나포함</p><p>• **선박 특성**: 파나마 국기 선박으로 반복되는 정선 경고를 무시하고 봉쇄 해역 통과 시도</p><p>• **후속 조치**: 승무원들이 다른 민간선박으로의 이전 준비 중인 상태로 보고됨</p><h3>Key Quotes</h3><p>• "U.S. Navy MH-60 helicopter fired two Hellfire missiles at the engine room of Vela Nova, disabling the vessel's steering capability" (미 해군 MH-60 헬리콥터가 벨라노바의 기관실에 헬파이어 미사일 2발을 발사하여 선박의 조타 기능을 무력화함)</p><p>• "As of Aug. 11, CENTCOM has redirected 55 commercial vessels attempting to run the blockade, disabled 3 non-compliant vessels, and boarded 2" (8월 11일 현재 CENTCOM은 봉쇄 위반 시도 상선 55척을 재배치하고 비협조 선박 3척을 무력화, 2척을 나포함)</p><p>• "A resulting fire was extinguished and all 17 crew members were accounted for" (발생한 화재는 진화되었으며 승무원 17명 전원이 확인됨)</p><h3>Technical Insights</h3><p>• **해역 통제 및 국제법**: 미군의 봉쇄 집행은 국제해양법상 '교전 행위'로 분류되며, 상선 무력화는 이란 관련 경제제재 강제 수단으로 기능 중</p><p>• **해상 안전 위협**: 정치군사적 갈등으로 인한 해상 통제 강화는 상업해운의 안전성을 저해하며, 보험료 상승 및 우회항로 증가로 이어질 가능성 높음</p><p>• **조타 기능 무력화 전술**: 미사일을 엔진실에 집중함으로써 선박 침몰이 아닌 선택적 무력화를 추구하여 승무원 피해 최소화를 의도한 정밀 작전 시연</p><p>• **운영상 영향**: 이 사건은 중동 해역 통과 상선들의 항로 재검토와 해상 위험 보험료 상승을 촉발하며, 글로벌 해운 비용 증가 요인으로 작용</p></div>`,
+      tags: ["Military Action","Cargo Ship","Iran Blockade","Gulf of Oman","Missile Strike"],
+      link: "https://www.marinelink.com/news/us-fires-disable-panamaflag-ship-accused-542002",
+      coords: [59.5,24],
+      location: "Gulf of Oman, off Pakistan"
+    }
+  ]
+});
+
+// Auto-collected: 2024-06-05
+addEvents({
+  "2024-06-05": [
+    {
+      type: "accident",
+      title: "MSC Shipmanagement Fined $6M Over 2024 'Runaway Ship' Charleston Bridge Incident",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-08-11",
+      image: "https://gcaptain.com/wp-content/uploads/2022/05/shutterstock_1909134958-2.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• MSC Shipmanagement Limited가 2024년 6월 5일 Charleston Harbor에서 발생한 MSC Michigan VII 제어 불가 사건으로 600만 달러의 벌금 및 4년 보호관찰 명령을 받음<br>• Liberian 등기 컨테이너선의 주기관 governor linkage rod 분리로 인해 16-17노트로 가속되어 Arthur Ravenel Jr. Bridge와의 충돌 우려로 도로 및 해변 대피 조치<br>• 선사와 chief engineer Fernando San Diego San Juan이 위험 상태 미보고 및 연방 조사 방해 혐의로 인정 및 처벌(engineer 2,000달러 벌금)<br>• 사건의 근본 원인은 단순 기계 고장이 아닌 비정규 인원에 의한 부적절한 governor linkage rod 수동 조정 관행<br>• Baltimore Dali 사건(2024년 3월)으로부터 2개월 후 발생한 사건으로 bridge strike 위험성 재부각<br>• 선박이 입항 중이었다면 재앙적 결과 초래 가능성으로 운영 안전 관리의 심각성 입증</p><h3>Key Quotes</h3><br>• "The hazardous condition onboard this vessel, and MSC's failure to report it, could have ended in a fatal bridge strike as occurred months earlier in Baltimore." (선박의 위험 상태와 MSC의 미보고가 Baltimore 사건처럼 치명적 bridge strike로 끝날 수 있었음)<br>• "Had the MSC Michigan VII been heading into port instead of out to sea, the result would likely have been catastrophic." (만약 MSC Michigan VII가 외항이 아닌 입항 중이었다면 결과는 재앙적이었을 것) </p><h3>Technical Insights</h3><br>• Governor linkage rod의 수동 조정 관행은 COLREG 준수 불능 상태를 야기하며, IMO의 주기관 제어 안전 기준(SOLAS Chapter II-1) 미준수로 분류됨<br>• 비정규 기술자(unqualified personnel)에 의한 주기관 부품 조정은 ISM Code 운영 관리 프로세스 실패의 전형적 사례로, 선사의 Safety Management System 감시 미흡 입증<br>• 견과류(nuts) 이완을 통한 조정 용이화는 임시방편적 운영 관행으로, 정기 정비 및 predictive maintenance 부재의 결과이며, 향후 원격 모니터링 및 자동화 기술 도입의 필요성 강조<br>• Baltimore bridge 사건 이후 港湾 관리 당국의 강화된 감시 체계(evacuation protocol 발동)가 사건 확대 방지에 기여하였으나, 근본적으로는 선박 운영사의 기술 관리 책임성 강화가 필수적</p></div>`,
+      tags: ["Engine Failure","Containership","Bridge Risk","Charleston Harbor","Regulatory Fine"],
+      link: "https://gcaptain.com/msc-shipmanagement-fined-6-million-over-runaway-ship-charleston-bridge-scare/",
+      coords: [-79.9289,32.7765],
+      location: "Charleston Harbor, South Carolina"
+    }
+  ]
+});
