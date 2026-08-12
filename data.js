@@ -13969,3 +13969,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-12
+addEvents({
+  "2026-08-12": [
+    {
+      type: "news",
+      title: "Romulus USV Passes Critical Military Test - HII Autonomous Vessel Achieves DIU Recognition",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-12",
+      image: "https://images.marinelink.com/images/maritime/w800/source-172861.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• HII의 Romulus-25 무인 수상 함정(USV)이 미 국방혁신부(DIU)로부터 생산 준비 완료 인정을 획득했으며, 이는 소형 형태의 자율 수상 함정(sUSV) 프로그램의 중요한 이정표를 의미함</p><p>• Watcher sUSV는 MetalCraft Marine과의 협력으로 개발되었으며, HII의 Odyssey 자율 제어 시스템을 탑재하여 지능형 항법, 임무 계획 및 협력 행동을 지원함</p><p>• 2025년 12월 두 대의 Romulus-25 자율 함정을 배치하여 광범위한 해상 테스트를 완료했으며, 다양한 운영 시나리오에서 고급 자율 임무 행동을 성공적으로 입증함</p><p>• Romulus-25는 1,000파운드의 페이로드를 탑재할 수 있으며, 최대 1,000해리의 범위에서 고속 요격 능력을 보유한 것으로 평가됨</p><p>• DIU는 해당 함정이 경합 수역(contested waterspace)을 통해 수백 마일을 자율 주행하고 해양 표면 위협을 감시하는 동시에 비협조적이고 기동하는 함정을 요격할 수 있는 능력을 성공적으로 입증했다고 명시함</p><p>• PRIME 이니셔티브에 116개 업체가 참여한 경쟁 끝에 HII가 선정되었으며, 생산 단계로의 전환 가능성이 높음</p><h3>Key Quotes</h3><p>• "The HII Watcher sUSV has successfully demonstrated its appropriateness to address the Department of the Navy's operational need for sUSV interceptors, capable of autonomously transiting hundreds of miles through contested waterspace, loitering in an assigned operating area while monitoring for maritime surface threats, and then sprinting to interdict a noncooperative, maneuvering vessel." <br>(HII의 Watcher sUSV는 경합 수역을 통해 수백 마일을 자율 주행하고, 지정된 작전 지역에서 해양 표면 위협을 감시하며, 비협조적인 기동 함정을 요격할 수 있는 해군의 작전 요구사항을 충족할 능력을 성공적으로 입증했다)</p><p>• "Its service-based design enables seamless integration with other mission-enabling technologies, enhancing mission effectiveness through AI-enabled contact recognition, identification, and edge-based decision-making."<br>(서비스 기반 설계로 인해 다른 임무 지원 기술과의 원활한 통합이 가능하며, AI 기반 접촉 인식, 식별 및 엣지 기반 의사결정을 통해 임무 효율성을 향상시킨다)</p><h3>Technical Insights</h3><p>• **자율 제어 시스템의 모듈식 개방형 아키텍처**: HII의 Odyssey 시스템이 모듈식 개방형 시스템 아키텍처(MOSA)를 채택하여 다양한 함정 유형과 복잡한 임무에 빠르게 자율성을 통합할 수 있도록 설계되었으며, 이는 향후 자율 해양 플랫폼의 상호운용성 표준을 제시함</p><p>• **경합 환경에서의 자율 작전 능력**: 성공적인 해상 테스트에서 열악한 환경(degraded-environment) 테스트를 포함하여 경합 수역에서의 고도화된 자율 임무 행동을 입증했으며, 이는 COLREG 및 국제 해양법 준수 능력의 필수성을 강조함</p><p>• **AI 기반 의사결정의 실전화**: 엣지 기반 AI 기술을 활용한 접촉 인식, 식별 및 실시간 의사결정 능력은 해상 자율 함정의 상황 인식 및 위협 대응 능력의 향상을 의미하며, IMO 자율선박 프레임워크와의 조화 필요성을 제기함</p><p>• **군사 자율화의 상용화 모멘텀**: PRIME 프로그램을 통해 생산 준비 완료 단계까</p></div>`,
+      tags: ["Autonomous Surface Vessel","USV","Military Technology","HII","Romulus-25","Defense Innovation Unit"],
+      link: "https://www.marinelink.com/news/romulus-usv-passes-critical-military-test-542012",
+      coords: [0,0],
+      location: "Global/U.S. Defense"
+    }
+  ]
+});
+
+// Auto-collected: 2026-08-11
+addEvents({
+  "2026-08-11": [
+    {
+      type: "news",
+      title: "HII Watcher Autonomous USV Passes Critical DIU Performance Tests",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-08-11",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/08/HII_USMC_USV_01_d967b5511a_cd1ca34172-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• HII(헌팅턴 잉글스 인더스트리즈)와 MetalCraft Marine이 개발한 Watcher 소형 무인표면선박(sUSV)이 미국 방위혁신부(DIU)의 성능 테스트를 성공적으로 완료했음</p><p>• HII의 Odyssey 자율항해제어 시스템(ACS)을 탑재한 ROMULUS-25 기반 무인선박이 미 해병대의 소형 자율무인선 운용 필요성을 충족하는 것으로 판정됨</p><p>• 2025년 12월 두 척의 Watcher 선박 해상 시험을 완료했으며, 현재 양산 전환 단계로의 진입을 준비 중</p><p>• Odyssey ACS는 모듈식 개방형 시스템 아키텍처(MOSA)로 지능형 항해, 임무 계획, 협력 행동, AI 기반 접촉 인식 및 식별 기능을 지원</p><p>• DIU 공식 인정을 통해 경쟁 수역에서 자율 운항, 지정 해역 대기, 비협력 선박 격퇴 등의 임무 수행 능력이 검증됨</p><p>• 자율시스템에 대한 수요 증가 추세 속에서 HII는 실용적 해군 자율화 솔루션 공급을 통해 해군 운영 능력 강화에 기여할 것으로 예상됨</p><h3>Key Quotes</h3><p>• "The HII Watcher sUSV has successfully demonstrated its appropriateness to address the Department of the Navy's operational need for sUSV interceptors, capable of autonomously transiting hundreds of miles through contested waterspace" <br>(HII Watcher 소형 무인선박이 경쟁 수역에서 수백 마일을 자율 운항할 수 있는 자체 인터셉터로서 해군의 작전 요구사항을 충족함을 입증했음)</p><p>• "This milestone is another example of HII's strategy to rapidly transition innovative technologies from concept to operational capability" <br>(이 성과는 혁신 기술을 개념에서 실전 운영 능력으로 신속히 전환하는 HII의 전략을 보여주는 사례임)</p><h3>Technical Insights</h3><p>• **자율항해 기술의 실용화 진전**: Odyssey ACS의 모듈식 개방형 아키텍처(MOSA)는 다양한 선박 유형과 복잡한 임무에 대한 자율화 통합을 신속하게 가능하게 하며, 이는 IMO 자율선박 규제 프레임워크 개발에 중요한 기술 기준을 제시함</p><p>• **AI 기반 접촉 인식 및 의사결정**: 엣지 컴퓨팅 기반의 AI 기능을 통해 실시간 해상 위협 탐지 및 자동 격퇴 결정이 가능해짐으로써, COLREG 자율준수 기술의 산업 도입이 가속화될 것으로 예상됨</p><p>• **군사용 자율선박의 전술적 우위**: 경쟁 수역에서의 자율 운항, 지정 해역 대기, 비협력 선박 격퇴 등 다중 임무 능력은 해양 감시 및 국방 작전 효율성을 획기적으로 향상시킬 수 있는 산업 혁신을 의미함</p><p>• **OTA(기타 거래 권한) 기반 양산 전환**: DIU 승인으로 수의계약 절차 단축을 통한 신속한 양산 진입이 가능해지며, 이는 자율 해양 시스템의 대량 도입 시대가 임박했음을 시사함</p></div>`,
+      tags: ["autonomous USV","DIU","Odyssey control system","U.S. Marine Corps","unmanned surface vessel"],
+      link: "https://www.navalnews.com/naval-news/2026/08/hii-watcher-autonomous-usv-passes-critical-diu-performance-tests/",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
