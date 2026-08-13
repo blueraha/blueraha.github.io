@@ -14007,3 +14007,71 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-12
+addEvents({
+  "2026-08-12": [
+    {
+      type: "accident",
+      title: "Oil Spill From Grounded Shadow Fleet Tanker Could Rival Exxon Valdez",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-08-12",
+      image: "https://gcaptain.com/wp-content/uploads/2026/08/2026-08-12T142704Z_1136225301_RC22XMANC0WI_RTRMADP_3_MIDEAST-GULF-SHIPPING-SPILL.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **선박 좌초 및 대규모 유출**: 러시아산 원유 8만 배럴을 운송 중인 캐롤린 베젠기호가 2026년 6월 30일 오만 해양보호구역 인근 섬에 좌초되어 2,000km² 이상의 거대한 유류 오염층 발생</p><p>• **전쟁과 제재로 인한 대응 지연**: 우크라이나의 섀도우 플릿 공격, 후티 반군의 위협, 국제 제재 등이 복합적으로 작용하여 약 6주간 대응 조치가 거의 불가능했던 상황</p><p>• **보험 및 배상 메커니즘 부재**: 서방 보험사의 보험 미가입 및 IOPC 펀드의 "전쟁 행위" 판정으로 인한 배상 거부로 정리 비용 책임 주체 불명확</p><p>• **역사적 규모의 환경 재앙 우려**: 전문가 추정 4,000~5,000만 갤런의 추가 유출 가능성으로 1989년 엑손 발데즈호 유류 오염 사태와 규모 비슷 수준 예상</p><p>• **관련 기관**: UN 국제해사기구(IMO), IOPC Funds, SkyTruth, 오만 정부, 유럽연합 코페르니쿠스 위성 모니터링</p><p>• **지역적 영향**: 오만 본토 도달로 해양 생물 서식지, 어업, 담수화 시설 등 광범위한 환경 및 경제 피해 우려</p><h3>Key Quotes</h3><p>• "A nightmare scenario is there's no adequate response to keep the worst from happening. The vessel would continue to break up under the steady onslaught of wind and waves and to lose the entire cargo and that could be a spill upwards of 40 to 50 million gallons." <br>(최악의 시나리오는 적절한 대응이 없는 상황으로, 지속적인 바람과 파도로 선박이 분해되면서 전체 화물을 방출하여 4,000~5,000만 갤런 규모의 유류 유출 가능)</p><p>• "A web of complex war- and sanctions-related rules governing shipping and oil spills is already hampering efforts to respond and could yet get in the way of halting an impending disaster"<br>(전쟁 및 제재 관련 복잡한 해운 규칙들이 대응 노력을 방해하고 있으며 임박한 재앙을 막는 데 걸림돌이 될 수 있음)</p><h3>Technical Insights</h3><p>• **섀도우 플릿(Shadow Fleet) 규제 이슈**: 러시아 원유 운송 제재를 우회하는 노후 선박들의 운영으로 보험 및 안전 기준 미충족 상황이 심화되고 있으며, 국제해사기구(IMO)의 감시 강화 필요</p><p>• **전쟁 구역 해운 안전**: 우크라이나-러시아 전쟁, 중동 분쟁 등으로 인한 "이중 위험 지역" 통과 선박들의 위험 가중으로, COLREG 및 국제 해운법 적용 한계 노출</p><p>• **환경 배상 메커니즘 붕괴**: IOPC Funds의 "전쟁 행위" 면책으로 국제적 환경 피해 배상 체계의 구조적 허점 드러났으며, 다국적 해양 오염 대응 협력 체계 개선 필수</p><p>• **위성 모니터링 역할 강화**: EU 코페르니쿠스 위성 데이터와 SkyTruth 같은 민간 환경감시 조직의 조기 탐지 중요성 증대로, 향후 자동선박(autonomous vessels) 감시 체계 발전 추동</p></div>`,
+      tags: ["Oil Spill","Shadow Fleet","Caroline Bezengi","Oman","Environmental Disaster"],
+      link: "https://gcaptain.com/oil-spill-from-grounded-shadow-fleet-tanker-could-rival-exxon-valdez/",
+      coords: [58.5,23.6],
+      location: "Gulf of Oman / Omani Island"
+    },
+    {
+      type: "news",
+      title: "Danish frigates to receive MASS decoy launchers from Rheinmetall",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-08-12",
+      image: "https://www.navalnews.com/wp-content/uploads/2023/05/MASS-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 덴마크 국방구매물류청(DALO)이 라인메탈(Rheinmetall)과 함께 아브살롱급 및 이버 후이트펠트급 호위함 5척에 MASS 소프트킬 시스템 장착 계약 체결</p><p>• 라인메탈의 MASS(Multi-Ammunition Softkill System) 다목적 디코이 발사체 시스템으로 레이더, 자외선, 전자광학, 레이저, 적외선 등 다중 파장대 대응</p><p>• 자율형 대함미사일 및 비대칭 위협 무기에 대한 소프트킬 방식의 방어 능력으로, 20년간 유지보수 및 탄약 공급 계약 포함</p><p>• 선박 항법 데이터와 위협 정보를 반영한 자동 발사 시스템으로 바람 영향도 고려한 지능형 디코이 배치</p><p>• 모듈식 설계로 연안경비정부터 호위함까지 다양한 함정에 통합 가능하며 기존 전술정보체계와 호환성 우수</p><h3>Key Quotes</h3><p>• "MASS is an off-board decoy system for naval vessels designed to counter incoming missiles and asymmetric threats, featuring what the manufacturer describes as a tailored soft-kill and screening effect." <br>(MASS는 대함미사일 및 비대칭 위협에 대응하기 위해 설계된 함정용 원거리 디코이 시스템으로, 제조사가 설명하는 바와 같이 맞춤형 소프트킬 및 스크리닝 효과를 제공)</p><p>• "The countermeasures deployed by the system create a decoy target that the incoming missile interprets as a higher-value target, ultimately causing it to change its course."<br>(시스템이 배치하는 대응책은 유도탄이 더 높은 가치의 표적으로 해석하게 되는 기만 표적을 생성하여 궁극적으로 미사일의 방향 전환 유도)</p><h3>Technical Insights</h3><p>• **자율형 위협 대응 기술**: MASS 시스템의 자동 발사 메커니즘은 선박 항법 데이터와 위협 분류 정보를 실시간으로 융합하여 풍향, 해상 환경을 고려한 최적의 디코이 배치로 현대해전의 급속한 위협 대응 필수 기술</p><p>• **다중 파장대 방어 능력**: 레이더부터 적외선까지 전 파장대 커버로 대레이더 미사일, 열추적 미사일, 레이저 유도 무기 등 다양한 현대 해상 위협에 대응하는 통합 방어 시스템으로 진화</p><p>• **함정 구조 호환성**: 모듈식 설계와 기존 전술정보체계 통합 용이성으로 노후 호위함의 효율적 현대화 가능, 유럽 나토 해군의 전력 현대화 추세 반영</p><p>• **20년 지원 체계**: 장기 탄약 공급 및 유지보수 프레임워크는 함정 운영 생애주기 전반에 걸친 신뢰성과 전투력 지속 보장으로 나토 해군 운영 개념 변화</p></div>`,
+      tags: ["MASS system","Danish Navy","Rheinmetall","frigate retrofit","self-protection"],
+      link: "https://www.navalnews.com/naval-news/2026/08/danish-frigates-to-receive-mass-decoy-launchers-from-rheinmetall/",
+      coords: [10.1993,56.2639],
+      location: "Denmark"
+    }
+  ]
+});
+
+// Auto-collected: 1986-08-11
+addEvents({
+  "1986-08-11": [
+    {
+      type: "news",
+      title: "Canadian Coast Guard Commemorates 40th Anniversary of Tamil Refugee Rescue off Newfoundland",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-13",
+      image: "https://images.marinelink.com/images/maritime/w800/source-canadian-172907.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 1986년 8월 11일 캐나다 뉴펀들랜드 해역에서 스리랑카 내전을 피해 도망친 타밀 난민 155명의 인명구조 40주년 기념<br>• CCGS Leonard J. Cowley 함정과 Captain Gus Dalton을 포함한 현지 어선들이 주도적으로 구조 활동 수행<br>• 인도주의적 해상 활동의 모범 사례로 평가되며 해양 구조의 국제적 협력 중요성 강조<br>• 캐나다 해양경찰청이 공식 기념식을 통해 해상 인명구조의 가치와 의무 재확인</p><h3>Key Quotes</h3><p>• "Forty years later, this rescue remains a powerful example of compassion, cooperation, and humanitarian action at sea" (40년이 지난 지금, 이 구조 활동은 해상에서의 동정심, 협력, 인도주의적 행동의 강력한 모범이 된다)</p><h3>Technical Insights</h3><p>• 해상 인명구조 작전에서 해양경찰청, 상선, 민간 어선 간 신속한 조율과 협력의 중요성 입증<br>• 국제해상인명안전규칙(International Convention for the Safety of Life at Sea, SOLAS)과 해양법상 난민 구조의 법적 의무 강화<br>• 해상사고 및 인도주의적 위기 상황에서 실시간 정보 공유와 다기관 협력체계의 모범사례로 현재 IMO 해상안전 정책에 영향</p></div>`,
+      tags: ["Rescue Operation","Humanitarian","Canadian Coast Guard","Historical Anniversary"],
+      link: "https://www.marinelink.com/news/canadian-coast-guard-remembers-refugee-542065",
+      coords: [-52.75,47.55],
+      location: "St. Shotts, Newfoundland, Canada"
+    }
+  ]
+});
+
+// Auto-collected: 2026-08-11
+addEvents({
+  "2026-08-11": [
+    {
+      type: "news",
+      title: "Saronic Expands Operations to Port of Gulfport for Marauder MUSV Testing",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-08-11",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/08/1786379943903.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Saronic이 미시시피주 걸프포트항에 30,000 평방피트 규모의 운영 시설을 확장하여 자율주행 해상 무인선박(MUSV) 마라우더의 최종 시험 및 납품 지원 기지 구축</p><p>• 180피트 규모의 마라우더 자율주행선박이 7월 중순 걸프포트에 도착하여 일 12시간 이상, 주 7일 가동하며 수백 시간의 해상 시험 중</p><p>• 미시시피주가 연구 기반시설 및 학계·정부·산업계 협력 생태계 구축으로 무인 해상 시스템 개발을 위한 이상적인 환경 조성</p><p>• 루이지애나주 프랭클린의 Saronic 조선소에서 추가 마라우더 건조 중이며, 프로덕션 확대에 따라 순차적으로 걸프포트로 이동할 예정</p><p>• 미국 국방부 및 상업용 파트너사들을 위한 자율주행 해상 무인선박 납품 가속화</p><h3>Key Quotes</h3><p>• "Gulfport has developed an incredible ecosystem of partners across industry, academia, and government to advance the future of maritime systems" (걸프포트는 해양 시스템의 미래 발전을 위해 산업·학계·정부 파트너들 간의 뛰어난 협력 생태계를 구축했음)</p><p>• "Thanks to innovators like Saronic, unmanned technology is advancing faster, ships are built more efficiently, and our warfighters are better equipped for the challenges ahead" (Saronic과 같은 혁신 기업들 덕분에 무인 기술이 더 빠르게 발전하고 있으며, 함정이 더 효율적으로 건조되고 있으며, 우리의 전투원들이 향후 도전에 더 잘 대비하고 있음)</p><h3>Technical Insights</h3><p>• 180피트 규모의 MUSV(중형 무인해상선박)는 1년 이내 설계 및 건조되어 개발 속도 측면에서 산업 혁신 달성, 자율주행 선박의 상용화 기간 단축 가능성 제시</p><p>• 미시시피주의 연구센터 및 테스트 인프라 투자는 해상 자율주행 시스템의 규제 검증 및 성능 입증을 위한 IMO·국방부 승인 프로세스 가속화에 기여</p><p>• 마라우더의 지속적인 해상 시험(일 12시간+ 운영)은 AI 네비게이션 알고리즘, COLREG 준수 검증, 센서 통합 시스템의 실제 해역 신뢰성 평가 데이터 축적</p><p>• 방위 산업 및 상용 선사 납품 준비로 자율주행 선박의 대량 프로덕션 및 운영 체계 전환 시작, 향후 글로벌 해운 산업 구조 변화 견인</p></div>`,
+      tags: ["Autonomous Ships","MUSV","Unmanned Surface Vessels","Maritime Technology"],
+      link: "https://www.navalnews.com/naval-news/2026/08/saronic-expands-to-mississippi-selects-port-of-gulfport-for-marauder-on-water-testing/",
+      coords: [-89.2432,30.3674],
+      location: "Port of Gulfport, Mississippi, USA"
+    }
+  ]
+});
