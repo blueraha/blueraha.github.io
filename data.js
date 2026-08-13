@@ -14075,3 +14075,22 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-10
+addEvents({
+  "2026-08-10": [
+    {
+      type: "news",
+      title: "Marines Learn to 3D Print Raiding Craft and Attack Drones in Western Pacific",
+      source: "USNI News",
+      sourceMeta: "usni.org · 2026-08-10",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **3D 프린팅 기술 적용**: 미 해병대가 Exercise Valiant Shield 훈련 중 MASS(Manufacturing Attritable Systems at Scale) 프로그램으로 소형 레이딩 크래프트와 공격 드론을 3D 프린팅으로 현장 제조 시연</p><p>• **참가 기관**: 3rd Maintenance Battalion의 Intermediate Repair Company와 Naval Surface Warfare Center Carderock이 협력하여 배포 가능한 제조 장비와 상용 자재를 활용한 저비용 해상 플랫폼 개발</p><p>• **훈련 범위**: 2026년 6월 22일~7월 1일 괌, 북마리아나, 일본 해역에서 진행된 광역 해양 훈련</p><p>• **전략적 의의**: 저비용 소모 가능 해상 플랫폼의 신속한 대량 생산 능력 확보로 태평양 지역 전력 투사 능력 강화</p><p>• **산업 혁신**: 첨단 제조 기술과 해양 운용 체계의 결합으로 차세대 무인 해상 시스템 운영 개념 정립</p><h3>Key Quotes</h3><p>• "Manufacturing Attritable Systems at Scale, or MASS, an initiative focused on rapidly producing low-cost maritime platforms using deployable manufacturing equipment and commercially available materials" <br>(저비용 해상 플랫폼을 배포 가능한 제조 장비와 상용 자재로 신속하게 대량 생산하는 MASS 프로그램)</p><h3>Technical Insights</h3><p>• **무인 해양 플랫폼의 운용 혁신**: 3D 프린팅 기술을 통한 현장 제조로 전투 손실 시 신속한 재보급 체계 구축 가능, 기존 공급 망의 의존도 감소</p><p>• **저비용 소모 플랫폼 전략**: 고가의 유인 함정 대체로 무인 드론과 소형 크래프트 활용, 비용-효율성 극대화로 해상 전력 배치 유연성 증대</p><p>• **COLREG 및 자율운항 통합**: 3D 프린팅 무인 해상 플랫폼의 상용화 시 IMO 자율운항선박 규격 적용, 국제 해상 규칙 준수 체계 필요</p><p>• **태평양 지역 전략적 함의**: 다층 방어 태세 구축으로 해상 분쟁 억제력 강화 및 첨단 해양 기술 패권 경쟁 심화</p></div>`,
+      tags: ["3D Printing","Autonomous Systems","Naval Innovation","Marine Technology"],
+      link: "https://news.usni.org/2026/08/10/marines-learn-to-3d-print-raiding-craft-attack-drones-in-the-western-pacific",
+      coords: [144.7969,13.1939],
+      location: "Guam, Northern Marianas, Japan"
+    }
+  ]
+});
