@@ -14094,3 +14094,77 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2025-10-14
+addEvents({
+  "2025-10-14": [
+    {
+      type: "accident",
+      title: "Grounding and subsequent loss of fishing vessel Silver Cloud II (WK 80)",
+      source: "MAIB Reports",
+      sourceMeta: "gov.uk · 2026-08-13",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **사건 개요**: 2025년 10월 14일 새벽 2시 38분경 영국 스코틀랜드 로친버 근처 암초에 충돌한 어선 Silver Cloud II 침몰 사건</p><p>• **사고 원인**: 선장이 당직 중 졸음으로 인해 선박 운항 제어 불가능 상태에서 암초 충돌 발생</p><p>• **선원 안전**: 3명의 승무원 전원 무사히 선박을 탈출하고 구조됨 (인명 피해 없음)</p><p>• **사건 결과**: 선박 전체 손실 (Total Loss)</p><p>• **조사 결론**: 이전 MAIB 조사 결과와의 반복되는 발견사항으로 인해 새로운 권고사항 미발표</p><p>• **규제 및 안전**: 당직 중 피로로 인한 인적 오류가 여전히 해양 사고의 주요 원인으로 지적됨</p><p>---</p><h3>Key Quotes</h3><p>• *"the fishing vessel Silver Cloud II grounded on rocks near Lochinver, Scotland, after the skipper fell asleep while on watch"* (선장이 당직 중 졸음으로 인해 선박이 스코틀랜드 로친버 근처 암초에 좌초됨)</p><p>• *"The three crew members safely abandoned the vessel and were rescued without injury"* (3명의 선원이 안전하게 선박을 탈출하고 무상해로 구조됨)</p><p>• *"In view of the repetition of findings from previous Marine Accident Investigation Branch (MAIB) investigations, no recommendations have been made"* (이전 MAIB 조사의 반복되는 결과를 고려하여 새로운 권고사항이 제시되지 않음)</p><p>---</p><h3>Technical Insights</h3><p>• **당직 피로 관리 실패**: 선장의 피로로 인한 졸음 발생이 근본 원인으로, IMO STCW 협약의 당직 시간 제한 규정 준수 필요성 재확인</p><p>• **반복적 사고 패턴**: MAIB의 선행 조사에서 지적된 동일한 인적 오류 패턴이 반복되고 있어, 업계 차원의 강화된 피로 관리 및 안전 문화 개선 필수</p><p>• **소형 어선의 안전 취약점**: 대형 상선과 달리 소규모 어선의 자동화 장비 부족 및 선원 교육 기준 강화 필요, 특히 1인 당직 운영 방식의 위험성 지적</p><p>• **해양 안전 규제 강화 필요**: 반복되는 사고 현황을 감안하면 자율운항선박(autonomous vessels) 도입이나 충돌 회피 장비의 의무화 검토가 필요한 상황</p></div>`,
+      tags: ["grounding","fishing vessel","crew fatigue","Scotland","total loss"],
+      link: "https://www.gov.uk/maib-reports/grounding-and-subsequent-loss-of-the-fishing-vessel-silver-cloud-ii-wk-80",
+      coords: [-5.2333,58.1667],
+      location: "Lochinver, Scotland (Rubha Rodha)"
+    }
+  ]
+});
+
+// Auto-collected: 2026-08-13
+addEvents({
+  "2026-08-13": [
+    {
+      type: "accident",
+      title: "One Killed in Chinese Shipyard Explosion at Huahai Shipyard",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-13",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockanirut-172939.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 중국 푸젠성 화하이조선소에서 화재 및 폭발 사고 발생 (오후 1시 09분 현지시간)<br>• 소방 및 구조대원 1명 사망, 10명 부상, 일반인 2명 부상<br>• 화재 발생 약 1시간 후 폭발 발생하여 다중 피해 초래<br>• 현장 진화 완료되었으나 사고 원인은 조사 중<br>• 푸젠성은 대만 해협 건너편 위치한 주요 조선 및 선박수리 허브</p><h3>Key Quotes</h3><br>• "An explosion at a shipyard in the southeastern Chinese province of Fujian on Thursday killed one fire and rescue worker" (중국 푸젠성 남동부 지역 조선소에서 목요일 발생한 폭발로 소방 구조대원 1명 사망)<br>• "About an hour later, an explosion occurred, injuring 10 fire and rescue personnel and two members of the public" (약 1시간 후 폭발이 발생하여 소방 구조대원 10명과 일반인 2명이 부상)</p><h3>Technical Insights</h3><br>• 조선소 작업 환경에서 가연성 물질 관리 및 안전 통제 체계 강화 필요<br>• 화재 진압 작업 중 발생한 폭발로 인한 2차 피해 방지를 위한 위험물질 사전 파악 및 안전 프로토콜 개선 필요<br>• 조선소 운영 안전 기준 및 정기적 안전 점검 강화로 산업 안전사고 예방 체계 구축 필요</p></div>`,
+      tags: ["Shipyard Explosion","Industrial Accident","Casualty","Fire","China"],
+      link: "https://www.marinelink.com/news/one-killed-chinese-shipyard-explosion-542097",
+      coords: [119.6432,27.0864],
+      location: "Fuan, Fujian Province, China"
+    },
+    {
+      type: "news",
+      title: "Munin Platform Topside Ready for Sail-Away in North Sea Gas Project",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-08-13",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/08/Munin-topside-Source-Mammoet.jpg?image-crop-positioner-ts=1786613815",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Mammoet가 노르웨이 북해 Yggdrasil 가스전 프로젝트의 Munin 플랫폼 톱사이드 건설을 위한 중장비 해상 작업을 성공적으로 완료했으며, 해상 운송 및 탑재 작업이 최종 단계에 접어들었음</p><p>• Aibel이 EPC 계약사로 노르웨이 Haugesund 조선소에서 톱사이드 건설을 주도했으며, 태국 조선소에서 모듈과 섹션 부품을 공급받아 복합 물류 작업을 수행함</p><p>• 2026년 7월 톱사이드 최종 무게 측정 및 무게중심 확인 완료 후, 전문 바지선(Class 1)으로 조수 시간 내 정밀한 계획과 조정으로 탑재됨</p><p>• 태국과 Haugesund 지역의 복잡한 환경(얕은 수심, 겨울 악천후, 정밀한 위치 결정)에서 고도의 기술과 전문 장비 투입으로 안전성 확보</p><p>• Aker BP 주도의 Yggdrasil 개발 프로젝트는 무인 처리 플랫폼 배치로 북해 가스 생산 운영 시작을 앞두고 있음</p><h3>Key Quotes</h3><p>• "Challenging winter weather and demanding positioning tolerances for final installation and mating of the Utility module with the Munin process module in Aibel's assembly hall presented significant operational challenges that were successfully managed by both Aibel and Mammoet." <br>(Aibel 조선소의 조립 홀에서 유틸리티 모듈과 Munin 처리 모듈의 최종 설치 및 결합을 위한 까다로운 겨울 날씨와 높은 위치 정밀도 요구사항이 양사에 의해 성공적으로 관리되었다는 의미)</p><p>• "Close collaboration between Aibel and Mammoet has been a key contributor to the successful execution of these activities."<br>(Aibel과 Mammoet 간의 긴밀한 협력이 이러한 작업들의 성공적 실행에 핵심 요소가 되었다는 의미)</p><h3>Technical Insights</h3><p>• 해상 플랫폼 톱사이드의 국제 다지점 물류 운영(태국→노르웨이)에서 조수 시간 내 정밀 탑재 작업은 고도의 해상 프로젝트 관리 역량과 기상/조류 예측 기술을 필수로 요구함</p><p>• 얕은 수심 지역에서의 바지선 환적(transshipment) 작업은 중장비 해상 운송 산업의 기술 고도화와 위험 관리 능력을 보여주는 사례로, 북해 가스전 개발의 물류 복잡성 증대 추세를 반영함</p><p>• 무인 처리 플랫폼 톱사이드의 모듈식 건설 및 해상 운송은 해양 에너지 산업의 효율성 극대화 전략이며, 이는 향후 자율 해상 운송 기술과 결합되어 원격 운영 플랫폼 배치의 표준화로 발전할 가능성이 있음</p></div>`,
+      tags: ["North Sea","Gas Platform","Heavy Lift Operations","Aker BP Yggdrasil"],
+      link: "https://www.offshore-energy.biz/with-platform-topside-ready-for-sail-away-north-sea-gas-project-edges-closer-to-start-up-gallery/",
+      coords: [2.5,57.5],
+      location: "Norwegian North Sea (Yggdrasil Development)"
+    },
+    {
+      type: "news",
+      title: "Golar LNG Orders Fourth FLNG Unit with $2.45 Billion EPC Contract",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-08-13",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/07/MK-II-FLNG.jpg?image-crop-positioner-ts=1784032388",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Golar LNG가 중국 CIMC Raffles Offshore와 함께 4번째 부유식 LNG(FLNG) 설비 건조 계약을 체결하며 $2.45억 규모의 EPC 계약 발주<br>• 해당 FLNG는 연간 350만 톤의 액화 능력을 갖춘 MKII 설계로, 2029년 말 인수 예정되어 전 세계 최장 가용 FLNG 설비로 위치<br>• Golar의 통제 액화 능력이 약 40% 증가하여 1,200만 톤을 초과하는 규모로 확대되며, 반복 설계를 통한 시너지 창출 예상<br>• Black & Veatch가 PRICO 액화 기술 및 기본 설계, 장비 조달, 커미셔닝 지원을 담당<br>• Golar가 $6억 규모의 신규 선임담보 회전신용한도(RCF)를 확보하여 재정 기반 강화</p><h3>Key Quotes</h3><p>• "We believe this FLNG order, combining the world's earliest available FLNG delivery and Golar's market leading operational track record, is well positioned to provide prospective clients with an attractive gas monetization solution, whilst driving value for Golar." (전 세계 최조 인수 가능한 FLNG와 Golar의 시장 주도적 운영 실적을 결합한 이번 발주가 고객에게 매력적인 가스 수익화 솔루션을 제공하면서 Golar의 가치를 창출할 수 있는 위치에 있다는 CEO 입장)</p><p>• "Golar's decision to place a repeat order with CIMC Raffles while the first MKII FLNG is still under construction demonstrates the strong confidence in our engineering, construction and project execution capabilities, as well as the strength of our partnership." (첫 번째 MKII FLNG가 여전히 건조 중인 상황에서 반복 발주를 결정한 것은 CIMC Raffles의 기술력과 협력 관계의 강점을 보여주는 신뢰의 표현)</p><h3>Technical Insights</h3><p>• 반복 설계(MKII) 기반의 FLNG 건조로 인한 엔지니어링 시너지와 동일 조선소에서의 중복 건조 일정을 통해 건조 효율성 및 원가 절감 가능<br>• PRICO 액화 기술을 적용한 350만 톤/년 규모의 액화 설비는 부유식 LNG 시장에서의 기술 표준화 추세를 반영하며, 대형 정유 및 가스 개발사의 중장기 가스 수익화 수요 충족에 부합<br>• 2029년 말 인수 예정 시점에 장기 용선 계약 체결 협상이 진행 중인 것으로 미루어, FLNG 운영 시장의 공급 부족과 높은 수요를 시사<br>• 해상 에너지 인프라의 모듈화·표준화 추세가 FLNG 산업에 확산되고 있으며, 조선 및 해양 설비 산업의 고부가가치화 방향을 제시</p></div>`,
+      tags: ["FLNG","LNG Infrastructure","Shipbuilding","Energy Industry","CIMC Raffles"],
+      link: "https://www.offshore-energy.biz/golar-lng-accelerates-flng-expansion-with-new-2-45-billion-order/",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "Taihan's CLV Skandi Connector Ready for First Offshore Wind Cable-Laying Assignment",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-08-13",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/08/Photo-Attendees-pose-for-a-commemorative-photo-in-front-of-the-Skandi-Connector.jpg?image-crop-positioner-ts=1786611265",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **Taihan Cable & Solution이 DOF Group에서 구입한 Skandi Connector 케이블 부설선이 한국 내 두 번째 해상풍력 전용 CLV로 배치 준비 완료**</p><p>• **2016년 건조된 10,000톤급 138.4m 길이의 네덜란드 Damen 설계 선박으로 7월 초 인수 및 8월 12일 부산 Gamcheon Port의 Orient Shipyard에서 안전운영식 개최**</p><p>• **Yeonggwang Nakwol 해상풍력 프로젝트에 8월 중 배치되어 해저케이블 매설(burial) 작업 수행 예정**</p><p>• **Taihan의 해저케이블 시장 설치 경쟁력 강화 및 턴키 실행 능력 고도화를 통한 차별화된 솔루션 제공 전략**</p><p>• **한국 해상풍력 산업의 국내 전문 케이블 부설 역량 강화 및 글로벌 시장 진출 가속화**</p><h3>Key Quotes</h3><p>• "The operation of the Skandi Connector will mark an important milestone in further strengthening Taihan's installation competitiveness in the submarine cable market" <br>(Skandi Connector의 운영은 Taihan의 해저케이블 시장 설치 경쟁력을 강화하는 중요한 이정표가 될 것)</p><p>• "Building on our enhanced turnkey execution capabilities, we will provide customers with differentiated, end-to-end submarine cable solutions and further accelerate our expansion in the global market"<br>(강화된 턴키 실행 능력을 기반으로 고객에게 차별화된 완전 통합 해저케이블 솔루션을 제공하고 글로벌 시장 진출을 가속화)</p><h3>Technical Insights</h3><p>• **해상풍력 산업의 해저케이블 부설 전문 선박 확보는 설치 일정 단축 및 기술적 신뢰도 향상의 핵심 요소로, 한국이 보유 선박 증가를 통해 풍력 프로젝트의 턴어라운드 타임 개선 추진**</p><p>• **Damen 설계의 10,000톤급 CLV는 해상 환경 적응성, 케이블 매설 장비 성능, 동적 위치 유지(DP) 시스템 등에서 국제 표준 충족으로 글로벌 프로젝트 수주 경쟁력 강화**</p><p>• **Taihan의 턴키 솔루션 제공 전략은 설계, 제조, 설치, 검사를 통합 관리하는 산업 고도화 모델로, 재정적 위험 감소 및 고객 만족도 제고를 통한 해양 에너지 산업의 공급망 안정화 기여**</p></div>`,
+      tags: ["Cable-Laying Vessel","Offshore Wind","Submarine Cable","South Korea","Taihan Cable"],
+      link: "https://www.offshore-energy.biz/taihans-recently-purchased-clv-ready-for-first-offshore-wind-assignment/",
+      coords: [129.0756,35.1796],
+      location: "Busan, South Korea"
+    }
+  ]
+});
