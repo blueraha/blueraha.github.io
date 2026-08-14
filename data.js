@@ -14168,3 +14168,65 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-14
+addEvents({
+  "2026-08-14": [
+    {
+      type: "accident",
+      title: "Drone Attack Sparks Fire at Ust-Luga Port in Russia",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-14",
+      image: "https://images.marinelink.com/images/maritime/w800/max5128-adobe-172957.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **러시아 발트해 주요 에너지 수출항 우스트-루가에서 무인기 공격으로 인한 화재 발생** - 지역 주지사 알렉산더 드로즈덴코가 텔레그램을 통해 확인</p><p>• **50여 대 이상의 무인기 격추** - 레닌그라드 지역에서 무인기 공격을 격퇴하기 위한 방어 활동 진행 중</p><p>• **우크라이나의 러시아 에너지 시설 전략적 공격 계속** - 석유·가스 처리 및 수출 시설과 곡물 해운로 파괴를 통해 러시아 수입원 차단 및 전쟁 종료 강제 목표</p><p>• **광범위한 피해 규모 예상** - 우크라이나가 러시아의 주요 정유소 12곳 이상을 반복 공격하여 국내 연료 부족 위기 초래</p><p>• **발트해 인접 국가들의 방어 조치** - 라트비아 전투기가 무인기 격추, 핀란드는 발트해 일부 구역 임시 제한</p><p>• **모스크바도 무인기 공격 격퇴** - 서게이 소비아닌 모스크바 시장이 밤사이 십여 대 이상의 무인기 격추 보도</p><h3>Key Quotes</h3><p>• "Firefighters were battling flames on Friday at Russia's Baltic Sea port Ust-Luga, a major energy exports hub, after a fire sparked by a drone attack" (러시아 발트해의 주요 에너지 수출항인 우스트-루가에서 무인기 공격으로 인한 화재가 발생하여 소방대가 화염 진화 중)</p><p>• "Ukraine has struck, sometimes repeatedly, more than a dozen major refineries in Russia, one of the world's largest oil producers, causing a widespread domestic fuel crisis" (우크라이나가 세계 최대 석유 생산국 중 하나인 러시아의 주요 정유소 12곳 이상을 반복 공격하여 광범위한 국내 연료 위기 유발)</p><h3>Technical Insights</h3><p>• **해상 수송로 안보 위협 증가** - 발트해 분쟁 확대로 인해 무인기 공격이 해운 안전에 미치는 영향 증대 및 해상 보안 체계 강화 필요성 대두</p><p>• **항만 운영 안정성 저하** - 에너지 수출 허브인 우스트-루가 항의 화재로 인한 운영 중단 시 국제 에너지 시장에 미치는 영향과 장기적 공급망 차질 우려</p><p>• **IMO/해운산업 규제 동향** - 전쟁 지역 해상 운송의 위험성 증가로 인한 보험료 상승, 항로 회피, 중립국 선박에 대한 안전 기준 강화 필요성 확대</p><p>• **자율운항선박(MASS) 도입의 전술적 의의** - 분쟁 지역에서 원격 운영 및 자동화된 항만 시설의 중요성 증가, 무인 운영 기술 개발 가속화 가능성</p></div>`,
+      tags: ["drone attack","port fire","Ust-Luga","energy exports","Baltic Sea"],
+      link: "https://www.marinelink.com/news/drone-attack-sparks-fire-ustluga-port-542113",
+      coords: [38.3,59.6],
+      location: "Ust-Luga Port, Leningrad Region, Russia"
+    },
+    {
+      type: "news",
+      title: "Revised Jones Act Waiver Takes Effect August 17, 2026",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-14",
+      image: "https://images.marinelink.com/images/maritime/w800/parilov-adobe-172955.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **Jones Act 90일 연장 승인**: 미국 국토안보부(DHS)가 2026년 3월 17일 발령된 Jones Act 면제를 2차 90일 연장 승인하였으며, 2026년 8월 17일부터 11월 15일까지 효력 발생</p><p>• **외국 선박의 미국 항만 간 운송 허용**: 특정 화물에 한해 지정된 조건 하에서 외국 국적 선박이 미국 항만 간 해상 운송을 수행할 수 있도록 허용하는 정책</p><p>• **선박 가용성 확인 절차 강화**: 운송 개시 전 미국 국방부(DOW), 해사청(MARAD), 세관(CBP)에 "선박 가용성 요청"을 제출하고 MARAD의 조사를 거쳐 DOW가 최종 승인 결정</p><p>• **국방 필수성 입증 요구**: 신청 시 그 운송이 국방 이익에 부합함을 설명하는 상세한 입증 자료 필요</p><p>• **사후 보고 의무화**: 외국 선박 운영사는 항해 완료 후 10일 이내에 화물 세부 내용과 면제 사유를 MARAD에 보고해야 함</p><h3>Key Quotes</h3><p>• "allowing certain covered cargoes to continue moving on foreign-flagged vessels between U.S. ports under specified conditions" (지정된 조건 하에서 특정 화물이 미국 항만 간 외국 선박을 통한 운송을 계속할 수 있도록 허용)</p><p>• "This guidance also serves as notice of substantial changes being made to the waiver request process" (이 지침은 면제 신청 절차에 실질적인 변화가 이루어지고 있음을 알리는 공지로도 작용)</p><h3>Technical Insights</h3><p>• **Jones Act 정책의 전략적 조정**: 국방 필수성을 입증하는 엄격한 심사 절차를 통해 미국 해운산업 보호와 국가 방위 이익의 균형을 맞추려는 규제 정책의 고도화</p><p>• **선박 가용성 조사의 중요성**: MARAD의 사전 조사 체계를 통해 미국 국적 선박(coastwise-qualified vessel)의 운송 가능성을 먼저 검토함으로써 국내 해운산업 우선 원칙 유지</p><p>• **공급망 투명성 강화**: 상세한 항해 정보 제출 및 사후 보고 의무화로 외국 선박 운영의 투명성을 높이고 정책 효과를 모니터링하는 감시 체계 구축</p><p>• **해운산업의 규제 리스크**: 면제 신청-심사-승인 프로세스의 복잡화로 국제 해운사의 미국 항만 간 운송 계획 수립 시 예측 가능성 저하</p></div>`,
+      tags: ["Jones Act","U.S. Maritime Policy","Foreign-flagged Vessels","DHS Regulation"],
+      link: "https://www.marinelink.com/news/revised-jones-act-waiver-takes-effect-542111",
+      coords: [0,0],
+      location: "United States"
+    },
+    {
+      type: "news",
+      title: "Port of Los Angeles Increases Clean Ship Incentives and Zero-Emission Infrastructure Investment",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-14",
+      image: "https://images.marinelink.com/images/maritime/w800/photo-courtesy-172954.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 로스앤젤레스 항과 롱비치 항이 남해안 대기질관리청(South Coast AQMD)과의 협력 협약을 강화하여 청정 선박 인센티브를 확대하고 영점 배출 인프라 투자를 증가시킴</p><p>• Port of Los Angeles 및 Port of Long Beach가 청정 해운 선박에 대한 인센티브 강화, 영점 배출 트럭 사용 증가를 위한 새로운 인센티브 수립, 드레이지 트럭용 충전 및 연료 공급 인프라에 2천만 달러 투자 추진</p><p>• 2025년 11월 서명된 초기 협약 이후, 항만들은 화물 취급 장비, 항만선박, 트럭, 열차, 외항 선박 등 모든 주요 항만 배출원에 대한 종합 영점 배출 인프라 계획 개발에 동의</p><p>• 2006년 승인된 청정 대기 행동 계획(CAAP)의 성공으로 로스앤젤레스 항이 디젤 미립자물질(DPM) 90%, 황산화물(SOx) 98%, 질소산화물(NOx) 73% 감축 달성</p><p>• 협약에는 투명성 및 책임성 확보를 위한 이행 이정표, 연간 보고 및 공중 참여 요구사항 포함</p><p>• 1만 개 컨테이너당 DPM, SOx, NOx 배출량 각각 93%, 99%, 81% 감소로 항만 환경 성과 입증</p><h3>Key Quotes</h3><p>• "The Port of Los Angeles – along with the Port of Long Beach – will enhance incentives for the cleanest ocean-going vessels, establish new incentives to increase the use of zero-emission trucks, and invest $20 million toward regional charging and fueling infrastructure for zero-emission drayage trucks" <br>(로스앤젤레스 항과 롱비치 항이 청정 외항 선박에 대한 인센티브를 강화하고, 영점 배출 트럭 사용 증대를 위한 새로운 인센티브를 수립하며, 영점 배출 드레이지 트럭을 위한 지역 충전 및 연료 공급 인프라에 2천만 달러를 투자할 것)</p><p>• "Since that time, the Port of Los Angeles has cut overall emissions of diesel particulate matter (DPM) by 90%, sulfur oxides (SOx) by 98% and nitrogen oxides (NOx) by 73%"<br>(로스앤젤레스 항이 디젤 미립자물질 90%, 황산화물 98%, 질소산화물 73%의 배출량 감축을 달성함)</p><h3>Technical Insights</h3><p>• **선박 배출 규제 강화**: IMO 2020 황 함유량 규제, 2030년 탄소 감축 목표와 연계하여 항만 차원의 청정 선박 인센티브 프로그램이 국제 해운 환경 규제의 지역적 확대 사례로 작용</p><p>• **항만 전자화 및 영점 배출 인프라**: 드레이지 트럭, 항만 내부 선박, 화물 취급 장비의 전기화는 자율운항선박(MASS)과 함께 해운 산업의 디지털화 및 탈탄소화 추진의 핵심 요소</p><p>• **규제 투명성 및 데이터 기반 운영**: 연간 보고 및 공중 참여 요구사항은 항만 운영의 투명성 강화와 함께 선박 자동화 및 AI 기반 운항 최적화 시스템 도입의 기초 자료로 활용 가능</p><p>• **산업 경쟁력 강화**: 청정 선박 인센티브 제도는 더 많은 선박 소유사들이 영점 배출 또는 저배출 선박으로 전환하도록 유인하며, 이는 항만의 경쟁력 제고 및 글로벌 해운 업계의 기술 표준화를 촉진</p></div>`,
+      tags: ["Clean Shipping","Port Operations","Environmental Regulations","Zero-Emission Technology"],
+      link: "https://www.marinelink.com/news/port-los-angeles-increases-clean-ship-542110",
+      coords: [-118.2437,33.7426],
+      location: "Los Angeles, California"
+    }
+  ]
+});
+
+// Auto-collected: 2026-08-13
+addEvents({
+  "2026-08-13": [
+    {
+      type: "news",
+      title: "Ukraine Offers Russia Truce in Black Sea Over Civilian Shipping Attacks",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-14",
+      image: "https://images.marinelink.com/images/maritime/w800/edval-adobe-172956.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 우크라이나가 러시아에 흑해의 민간 목표물 공격 중단을 제안했으며, 제3국을 통해 비공식적으로 전달됨<br>• 양국의 선박 및 항구 공격으로 인해 전 세계 식량 공급에 대한 우려가 증가 중<br>• 우크라이나는 곡물 수출의 주요 허브인 오데사 항구 운영 중단으로 경제적 타격 심각 (8월 전년 동기 대비 76% 감소)<br>• 러시아는 노보로시스크 흑해 항구의 세 터미널 모두 우크라이나 공격으로 일시 중단, 곡물 수출 감소 예상<br>• 2022년 러시아 침략 이후 UN과 터키가 중재한 협정이 2023년 러시아의 거부로 무효화되었으며, 대체 해운로는 제한적</p><h3>Key Quotes</h3><p>• "Recently, we have been hearing many calls for various kinds of moratoriums and truces. These ideas are being put forward through various channels, but we have not received any formal proposals." (최근 다양한 휴전 제안을 받고 있으나 공식적인 제안은 아직 없다는 러시아 외교부 입장)</p><p>• "The current de facto blockade of Black Sea ports has sent Ukrainian grain exports tumbling 76% year-on-year so far in August" (흑해 항구의 사실상 봉쇄로 우크라이나 곡물 수출이 극감)</p><h3>Technical Insights</h3><p>• 해운 보안 악화: 흑해 민간 선박에 대한 지속적인 공격으로 해운사들이 항구 기항을 회피하면서 해상 통로 폐쇄 현상 심화<br>• 국제 식량 안보 위협: 우크라이나와 러시아가 세계 농산물 시장의 주요 공급자인 만큼 흑해 해운 차단이 글로벌 식량 가격 및 공급망에 직접적 영향<br>• 해운로 대체 제한성: 철도와 다뉴브 강 수로가 대체 방안으로 제시되나 용량이 극히 제한적으로 장기 해결책 부재 상황</p></div>`,
+      tags: ["Black Sea","Ukraine-Russia Conflict","Grain Exports","Maritime Security","Civilian Shipping"],
+      link: "https://www.marinelink.com/news/ukraine-offers-russia-truce-black-sea-542112",
+      coords: [36.4,43.7],
+      location: "Black Sea / Odesa, Ukraine"
+    }
+  ]
+});
