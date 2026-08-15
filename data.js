@@ -14274,3 +14274,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-14
+addEvents({
+  "2026-08-14": [
+    {
+      type: "news",
+      title: "Shipping Industry Faces Stranded Asset Risks During Energy Transition",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-14",
+      image: "https://images.marinelink.com/images/maritime/w800/source-172952.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• UCL 연구팀이 발표한 보고서에 따르면 해운업계가 유럽의 전력 유틸리티 회사들이 재생에너지 전환 과정에서 겪었던 좌초자산(stranded assets) 위험에 노출되어 있음</p><p>• 현재 및 발주된 글로벌 선박 가치의 약 3분의 1이 1.5°C 기후 시나리오에 따른 탈탄소화 과정에서 좌초될 위험에 처해 있음</p><p>• 과거 에너지 전환 사례 분석: 독일 KG 선박 펀드 붕괴, 한진해운 파산 등을 사례로 검토하여 해운업 금융 시스템의 광범위한 손실 위험 경고</p><p>• 금융 기관들은 위험 신호를 늦게 인식하는 경향이 있으며, 이는 대출 기관, 투자자, 화주 및 공급망 전체에 파급 효과를 미칠 수 있음</p><p>• 조기 다각화 전략을 추진한 영국 유틸리티는 화석연료 기술에 의존한 독일 유틸리티보다 재무적 손실을 더 잘 견딜 수 있었음</p><h3>Key Quotes</h3><p>• "Our analysis of past energy transitions indicates that asset impairments often begin well before new technologies dominate the market. For shipping, this suggests transition pressures could affect fossil-fuel vessels while alternative fuels still hold a modest market share." (과거 에너지 전환 분석에 따르면 자산 손상은 신기술이 시장을 주도하기 훨씬 전부터 시작되며, 해운업에서도 대체연료가 아직 소수 시장점유율을 유지하고 있을 때 화석연료선박에 전환 압박이 가해질 수 있다는 의미)</p><p>• "Equity markets and credit rating agencies in Germany were largely inert until stranded assets had already begun to materialize; Moody's did not flag German-specific stranded asset risk until 2014, almost a decade later from the point at which renewables were gaining traction." (독일의 주식시장과 신용평가기관들은 좌초자산이 이미 현실화될 때까지 거의 대응하지 않았으며, 재생에너지가 성장하기 시작한 지 거의 10년 후인 2014년이 되어서야 무디스가 독일의 좌초자산 위험을 경고했다)</p><h3>Technical Insights</h3><p>• **탈탄소화 전환 타이밍**: 해운업계는 대체연료 기술의 시장 점유율이 낮은 초기 단계에서도 화석연료 선박의 자산가치 하락 압박을 받을 수 있으며, 이는 IMO 2030/2050 감축 목표와 맞물려 조기에 나타날 가능성이 높음</p><p>• **금융 시스템의 연쇄 위험**: 과거 전력산업과 해운업 사례처럼 개별 선주의 손실이 금융기관, 소매 투자자, 화물주 및 공급망 전체로 확산되는 구조적 취약성이 존재하며, 이는 체계적 금융 위험 증대</p><p>• **조기 선제적 조치의 중요성**: UK 유틸리티의 사례처럼 재생에너지/대체연료 기술 투자를 조기에 시작한 선사가 중장기 재무 안정성을 확보할 수 있으므로, 선박 발주 및 기술 선택에서 장기 전략적 다각화가 필수적</p><p>• **규제 당국의 선제적 대응 필요**: 신용평가기관과 금융감독당국이 해운 탈탄소화 리스크를 적시에 인식하고 자본 기준 강화 등의 예방적 조치를 취할 필요가 있음</p></div>`,
+      tags: ["stranded assets","decarbonization","shipping finance","energy transition"],
+      link: "https://www.marinelink.com/news/shipping-risks-repeating-stranded-asset-542108",
+      coords: [51.5074,-0.1278],
+      location: "Global (UCL Study)"
+    },
+    {
+      type: "news",
+      title: "L3Harris Opens Rhode Island Maritime Production Facility for Naval Undersea Systems",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-14",
+      image: "https://images.marinelink.com/images/maritime/w800/source-l3harris-172951.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• L3Harris Technologies가 프로비던스의 ProvPort에 5만 제곱피트 규모의 해양 생산 시설을 개장하여 미해군 수중전 기술력 강화<br>• 600만 달러 투자로 미해군 및 동맹군을 위한 첨단 수중 훈련 시스템 설계, 생산, 납품 수행<br>• 1991년부터 로드아일랜드에서 운영 중인 L3Harris Ashaway 시설은 수중 센서 시스템과 군용 소나 공급<br>• Waterson Terminal Services와의 파트너십을 통해 해상풍력 케이블 관리 및 항만 운영 지원<br>• 로드아일랜드 지역 소규모 기업 및 대학과의 신규 파트너십을 통해 지역 경제 활성화 및 고용 창출</p><h3>Key Quotes</h3><p>• "As L3Harris expands its presence here in the Ocean State, this new ProvPort facility will help strengthen Rhode Island's leadership in undersea warfare technology and grow our state's contributions to the defense industrial base" (L3Harris가 로드아일랜드에서의 사업을 확장할 때, 이 새로운 ProvPort 시설은 수중전 기술 분야에서 로드아일랜드의 지도력을 강화하고 국방산업 기반에 대한 주의 기여도를 증가시킬 것)</p><p>• "L3Harris' investment in their maritime production facility in Providence is a significant contribution to Rhode Island's Blue Economy" (L3Harris의 프로비던스 해양 생산 시설 투자는 로드아일랜드의 블루 이코노미에 대한 중요한 기여)</p><h3>Technical Insights</h3><p>• 미해군 수중전 역량 강화: 첨단 수중 센서 시스템과 군용 소나 개발로 잠수함 전투 능력 및 해양 안보 강화<br>• 해양 산업 기반 확충: 로드아일랜드를 중심으로 수중 무기 체계, 항만 시설, 해상풍력 인프라가 통합되는 해양 방위산업 클러스터 형성<br>• 민군 협력 모델: Waterson Terminal Services와의 협력을 통해 해상풍력 케이블 관리 기술이 방위산업과 신재생에너지 산업을 연계하는 새로운 비즈니스 모델 창출</p></div>`,
+      tags: ["Naval Technology","Undersea Systems","Maritime Infrastructure","Defense Industry"],
+      link: "https://www.marinelink.com/news/lharris-opens-rhode-island-facility-542107",
+      coords: [-71.4128,41.824],
+      location: "Providence, Rhode Island"
+    }
+  ]
+});
