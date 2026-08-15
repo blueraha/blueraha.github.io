@@ -14230,3 +14230,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-14
+addEvents({
+  "2026-08-14": [
+    {
+      type: "accident",
+      title: "Multiple Oil Spills in Persian Gulf and Gulf of Oman Amid Iran-US Tensions",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-08-14",
+      image: "https://gcaptain.com/wp-content/uploads/2026/08/2026-08-14T135155Z_1989398916_RC2DYMADUUVR_RTRMADP_3_IRAN-CRISIS-SHIPPING-SPILLS.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 오만 인근과 페르시아만에서 대규모 유류 유출 사고 발생: 캐롤린 베젱지호는 2,000㎢ 규모의 유류 유출로 환경재앙 위협, 쉼섬 인근에서 추가 유류 유출 확인</p><p>• 주요 선박 관련: 캐롤린 베젱지호(그라운딩), 미노안 파이오니어호(라이베리아 기국 건화물선, 8월 3일 의심 이란 공격으로 손상, 선원 1명 실종)</p><p>• 환경적 영향: 위성 사진으로 확인된 160km 규모의 중유 유출, 해변 지역으로 유입되는 물질 관찰, 환경 전문가들이 '수개월 중 최대 규모'로 평가</p><p>• 지정학적 배경: 이란-미국 간 유조선 공격 관련 분쟁으로 인한 해상 안전 악화, 호르무즈 해협 통행 선박에 대한 공격 지속</p><p>• 대응 현황: 이란 외교부 성명으로 오염 사실 인정, 외국 건화물선이 원인이라는 입장 표명, 미노안 파이오니어호 구조 작업 진행 중</p><h3>Key Quotes</h3><p>• "This is the biggest one that I've seen in recent months, really since the conflict between Iran and the U.S. began" (이란-미국 분쟁 시작 이후 최근 수개월간 목격한 것 중 가장 큰 사건)</p><p>• "preliminary evidence indicates a foreign bulk carrier as the source" (초기 증거에 따르면 외국 건화물선이 유출 원인)</p><p>• A slick "stretched around 160 km" with "dark colour in parts of the slick indicated it was heavy fuel oil" (160km에 걸쳐 확산된 유류, 짙은 색상은 중유임을 시사)</p><h3>Technical Insights</h3><p>• **해상 분쟁과 환경재앙의 연쇄효과**: 호르무즈 해협 내 지정학적 긴장이 선박 피격으로 이어져 유류 유출 사고로 확대되는 악순환 구조 - IMO 해상 안전 규정 강화 필요</p><p>• **위성 감시의 역할 강화**: Copernicus Sentinel-2, SkyTruth, TankerTrackers.com 등 위성 기반 모니터링 기술이 실시간 유류 유출 감지에 핵심 역할 수행, 해양 환경 보호 기술 중요성 증대</p><p>• **보호해역(Marine Protected Area) 위험**: 오만 인근 보호해역에서의 대규모 유류 유출은 SOLAS/MARPOL 국제 규정 준수 강화 필요, 해협 통행 선박의 보험 및 안전 기준 개선 시급</p><p>• **분쟁 지역 해운 위험도 상승**: 호르무즈 해협 통행 선박 피격 사례 증가로 보험료 급등 및 해운업 운영 비용 증가, 국제 해상 보안 체계 재구축 필요성 대두</p></div>`,
+      tags: ["Oil Spill","Environmental Disaster","Persian Gulf","Tanker Incident","Iran-US Conflict"],
+      link: "https://gcaptain.com/two-slicks-appear-in-gulf-as-huge-oil-spill-off-oman-threatens-disaster/",
+      coords: [56.5,26.5],
+      location: "Persian Gulf / Strait of Hormuz / Gulf of Oman"
+    },
+    {
+      type: "accident",
+      title: "Two Oil Slicks Appear in Gulf Following Oman Spill and Minoan Pioneer Attack",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-14",
+      image: "https://images.marinelink.com/images/maritime/w800/copyright-imagebank4uadobestock-172964.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **다중 유출 사고 발생**: 오만 해역의 좌초 선박 Caroline Bezengi에서 약 2,000㎢ 규모의 원유 유출이 진행 중이며, 이란 해역에서는 추가로 2개의 유류 유출이 확인됨</p><p>• **공격 관련 사건**: 리베리아 선적 건화물선 Minoan Pioneer가 8월 3일 호르무즈 해협에서 미상의 발사체 공격으로 손상되어 유출 발생; 선원 1명 실종</p><p>• **환경 재앙 수준**: 위성 이미지 분석 결과 Qeshm Island 근처 유출은 160km에 달하는 규모이며, 중유(Heavy Fuel Oil) 성분 포함으로 환경오염 심각</p><p>• **이란-미국 분쟁 배경**: 유조선과 기타 선박에 대한 양측의 보복 공격이 계속되면서 페르시아만 생태계 훼손 우려 증가</p><p>• **확인 어려움**: 각 유출의 정확한 원인 및 물질 구성에 대한 독립적 확인 불가; 구조 작업 진행 중단 상태</p><h3>Key Quotes</h3><p>• "This is the biggest one that I've seen in recent months, really since the conflict between Iran and the U.S. began"<br>  (이것은 이란과 미국 간 갈등이 시작된 이후 최근 몇 개월 동안 본 것 중 가장 큰 규모입니다 - SkyTruth CEO John Amos)</p><p>• "oil pollution from the Gulf had reached Qeshm Island and that preliminary evidence indicates a foreign bulk carrier as the source"<br>  (페르시아만의 유류 오염이 Qeshm Island에 도달했으며, 예비 증거는 외국 벌크선이 원인임을 시사합니다 - 이란 외교부 대변인)</p><h3>Technical Insights</h3><p>• **해양생태계 보호지역 위협**: 호르무즈 해협 주변 보호 해역에서 대규모 유류 유출로 인한 해양생물 및 산호초 생태계 파괴 임박</p><p>• **국제 해상안전 규제 관련성**: 분쟁 지역 선박 공격으로 인한 유류 유출은 IMO MARPOL 협약상 환경오염 의무 보고 및 국제 대응 체계 가동 필요</p><p>• **해협 통행 안전성 악화**: 호르무즈 해협 통행 선박의 공격 위협 증가로 인한 보험료 인상, 항로 변경, 해상 운송 비용 상승 등 글로벌 해운산업 영향</p><p>• **위성 감시 기술의 중요성**: Copernicus Sentinel-2 위성과 SkyTruth 같은 오픈소스 기반 환경 모니터링 기술의 실시간 유출 탐지 및 추적 가치 입증</p></div>`,
+      tags: ["Oil Spill","Environmental Disaster","Iran-US Conflict","Tanker Attack","Strait of Hormuz"],
+      link: "https://www.marinelink.com/news/two-oil-slicks-appear-gulf-following-oman-spill-542120",
+      coords: [56.3,26.8],
+      location: "Strait of Hormuz / Gulf / Qeshm Island, Iran"
+    },
+    {
+      type: "news",
+      title: "Hormuz Strait Traffic Collapses Amid US Naval Blockade and Iranian Ship Attacks",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-14",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stocknoor-172966.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 호르무즈 해협을 통한 해상 수송량이 급감했으며, 8월 14일(금) 단 2척의 선박만 통과한 것으로 집계됨 (전쟁 이전 일일 평균 130척 대비 극적 감소)</p><p>• 아랍에미리트의 아부다비 국영석유회사(ADNOC) 소속 2척의 선박이 목요일 저녁 해협 통과 중 공격받음, UAE는 이란을 비난했으나 이란은 즉각적인 반응 없음</p><p>• 미국 국방부 장관 Pete Hegseth는 미 해군이 무기한으로 이란에 대한 해상 봉쇄를 유지할 수 있는 능력을 보유하고 있다고 선언</p><p>• 6월 휴전 합의 이후 협상 진전이 없었으며, 이란은 허가 없이 해협을 통과하려는 선박에 대한 공격을 재개함</p><p>• 미국 재무부 장관 Scott Bessent는 내주 중 "역사상 유례없는 경제 제재 조치"를 공표할 예정이라고 발표</p><p>• 벤치마크유 브렌트유는 배럴당 약 87달러, 미국 WTI유는 약 81달러 선호로 소폭 상승</p><h3>Key Quotes</h3><p>• "Indefinitely the United States Navy can maintain a blockade like that because we'll rotate ships in and out, as we have, and we'll continue to" (미국 해군은 선박 교대 배치를 통해 무기한으로 해상 봉쇄를 유지할 수 있다는 의미)</p><p>• "Watch this space for more announcements coming next week because we are going to apply measures like have never been seen in the history of economic isolation on a country" (다음주 역사상 유례없는 경제 제재 조치가 발표될 예정이라는 의미)</p><p>• "Alongside the threat to energy infrastructure in the region, Iran's ability to restrict shipping through the strait is its main source of leverage in negotiations" (해협 통과 선박 제한은 협상에서 이란의 주요 협상 수단이라는 의미)</p><h3>Technical Insights</h3><p>• **해상 운송 보안 및 자율항해 기술의 중요성**: 호르무즈 해협 같은 고위험 지역에서 자율항해 기술과 원격 조종 시스템의 도입은 선박과 승무원 보호를 위해 더욱 절실해지고 있음</p><p>• **COLREG 및 IMO 규정의 한계**: 현재의 국제 해상 규정들이 지정학적 분쟁 상황에서 민간 상선의 안전을 보장하기에 충분하지 않으며, 이는 국제해사기구의 새로운 안전 지침 수립의 필요성을 제기</p><p>• **운송 경로 재편성**: 호르무즈 해협의 통과량 급감(일일 9척 → 2척)은 대체 해상 경로 개발과 자동화된 선박 추적 시스템의 고도화 필요성을 시사하며, 원격 운영 선박의 경제성이 증대될 것으로 예상</p><p>• **에너지 안보와 해운 산업**: 미국의 해상 봉쇄로 인한 전 지구적 에너지 공급망 재편은 해운사들의 연료 비용 변동성 증가와 항로 우회로 인한 운송 시간 연장을 초래하여 자동화 기반 해운 운영의 효율성 요구가 증가</p></div>`,
+      tags: ["Strait of Hormuz","Iran","US Military","Shipping Disruption","Geopolitical Risk"],
+      link: "https://www.marinelink.com/news/hormuz-traffic-dwindles-us-threatens-542122",
+      coords: [56.24,26.57],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
