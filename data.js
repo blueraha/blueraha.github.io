@@ -14306,3 +14306,53 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-15
+addEvents({
+  "2026-08-15": [
+    {
+      type: "news",
+      title: "U.S. Navy Orca XLUUV Completes 1,000-Mile Pacific Transit",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-08-15",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/08/Boeing-ORCA-XLUUV.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 미 해군이 보잉(Boeing)과 헌팅턴 잉걸스(Huntington Ingalls)가 제작한 오르카(Orca) 초대형 무인잠수정(XLUUV)으로 1,000해리 장거리 태평양 횡단에 성공했으며, 이는 프로그램 역사상 최초의 기록이다.<br>• 2026년 7월 완료된 본 작전은 태평양 잠수전력(Pacific Submarine Force) 사령관 크리스 카바노(Chris Cavanaugh) 준장이 승인한 공식 성명으로 발표되었다.<br>• 오르카 XLUUV는 ISR(정보·감시·정찰), 기뢰전, 해저전, 원정 지원 등 다중 작전 임무 수행이 가능한 대형 무인잠수정이다.<br>• 미 해군은 오르카에 헌터(Hunter) 페이로드와 새로운 스탠드오프 중량급 어뢰 배치 시스템을 통합하여 분쟁 및 거부 환경에서의 고급 작전 능력을 확보하고 있다.<br>• 태평양 지역의 전략적 변화에 대응하기 위해 무인 수중 작전 능력을 가속화하고 있으며, 이는 유인 잠수함의 작전 효율성을 증강하는 핵심 전력증강 수단으로 평가되고 있다.</p><h3>Key Quotes</h3><br>• "The operational environment in the Pacific continues to evolve with the rapid development of technological advancements in the undersea domain. The Pacific Submarine Force is heavily investing in unmanned capabilities to augment our manned submarines and preserve our undersea advantage across the full spectrum of submarine operations." (태평양의 작전 환경이 해중 영역의 기술적 발전으로 빠르게 변화하고 있으며, 태평양 잠수전력은 유인 잠수함을 보강하고 전반적인 잠수함 작전 분야에서 해중 우위를 유지하기 위해 무인 능력에 대규모 투자하고 있다.)</p><p>• "Orca will deploy with Hunter, a payload for the XLUUV which provides advanced, expeditionary mining capabilities in contested and denied environments." (오르카는 분쟁 및 거부 환경에서 고급의 원정 기뢰 능력을 제공하는 XLUUV용 페이로드인 헌터와 함께 배치될 것이다.)</p><h3>Technical Insights</h3><br>• 무인 해중 시스템의 장거리 자율 항해 성공 사례로서, 해양 자율화 기술의 실전 검증 단계 진입을 의미하며, 향후 COLREG 해상충돌방지규칙 적용 시 국제해양법상 복잡한 문제를 야기할 수 있다.<br>• 미 해군의 오르카 XLUUV 운영은 IMO 자율선박 규정 개발에 중요한 기준점이 될 수 있으며, 특히 무인 군사 플랫폼의 안전 표준 수립 문제와 국제해사법상의 법적 지위 정의가 시급하다.<br>• 페이로드 통합 전략(헌터, 어뢰 배치 시스템)은 모듈형 자율 시스템 설계의 산업 표준화 방향을 제시하며, 민간 자율선박 산업에서도 적용 가능한 확장성 높은 아키텍처 패러다임을 구축하고 있다.</p></div>`,
+      tags: ["Autonomous Underwater Vehicle","U.S. Navy","XLUUV","Unmanned Systems","Pacific Operations"],
+      link: "https://www.navalnews.com/naval-news/2026/08/u-s-navy-orca-xluuv-completes-1000-mile-pacific-transit/",
+      coords: [-155.5,19.7],
+      location: "East Pacific"
+    }
+  ]
+});
+
+// Auto-collected: 2026-08-14
+addEvents({
+  "2026-08-14": [
+    {
+      type: "news",
+      title: "Hawaii's Ports Prepare for Tropical Storm Lala as Coast Guard Implements Port Condition Zulu",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-08-14",
+      image: "https://maritime-executive.com/media/images/article/1786779631_6a8017ef3c162.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 하와이에 접근 중인 열대폭풍 라일라(Tropical Storm Lala)가 카테고리 1 허리케인으로 변할 것으로 예상되며, 미 해안경비대가 항구 폐쇄 조치를 시행 중</p><p>• 2026년 8월 16일 토요일 오전 8시 현지시간 기준으로 하와이 모든 카운티에 항구 상태 줄루(Port Condition Zulu) 발령, 200톤 이상 선박의 항구 내 강제 퇴항 지시</p><p>• 빅 아일랜드의 남쪽 앞바다를 통과하며 허리케인 풍속으로 통과할 예정이며, 열대폭풍 풍속은 폭풍 중심에서 약 200해리까지 확대될 것으로 예상</p><p>• 하와이에 허리케인 도달은 드문 현상으로, 라일라는 초기 예상과 달리 빠른 강화 추이를 보이며 컴팩트한 형태로 발전 중</p><p>• 화요일과 수요일 재강화되어 다시 허리케인 강도로 복귀할 가능성 있음</p><h3>Key Quotes</h3><p>• "Port condition Zulu will be set for all of Hawaii's counties by 0800 local time Saturday morning. The declaration requires vessels of 200 GT or over to depart port in advance of the storm, unless they have special permission from the captain of the port to stay." (토요일 오전 8시 현지시간까지 항구 상태 줄루 발령, 200톤 이상 선박은 항구청장의 특별 허가 없이 항구 퇴항 의무)</p><p>• "It is rare for a hurricane to reach the Hawaiian Islands, and Lala was not initially expected to reach full hurricane strength." (하와이에 허리케인이 도달하는 것은 드문 현상이며, 라일라는 초기에는 완전한 허리케인 강도에 도달할 것으로 예상되지 않았음)</p><h3>Technical Insights</h3><p>• 항구 상태 줄루(Port Condition Zulu) 발령은 해양 안전의 최고 경보 수준으로, 200톤 이상의 대형 선박이 항구를 완전히 폐쇄하기 전에 모두 퇴항해야 하는 강제적 조치 시행</p><p>• 해안경비대의 사전 예방적 항구 폐쇄는 선박의 안전성 확보와 항만 시설 보호를 위한 해양 안전 관리의 표본으로, 극단적 기후 변화에 대한 해운 산업의 대응 능력 강화 필요</p><p>• 열대폭풍의 빠른 강화 추이는 기후변화로 인한 해양 기상의 급변성 증가를 보여주며, 선박 운영자들은 기존의 항로 예측 모델에만 의존할 수 없게 되어 실시간 기상 정보 수집 및 의사결정 시스템의 고도화 필요</p></div>`,
+      tags: ["Tropical Storm","Hawaii Ports","Coast Guard","Port Operations","Emergency Preparedness"],
+      link: "https://maritime-executive.com/article/hawaii-s-ports-prepare-for-tropical-storm-lala",
+      coords: [21.3099,-157.8581],
+      location: "Hawaii"
+    },
+    {
+      type: "news",
+      title: "Russia Deploys PLOT-40 Floating Defense Platform Against Ukrainian Drone Attacks",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-08-14",
+      image: "https://maritime-executive.com/media/images/article/1786774970_6a8005baa9afd.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 러시아가 우크라이나의 드론 공격에 대응하기 위해 PLOT-40(또는 PLOT-47)이라는 부유식 방어 플랫폼을 배치했으며, 이는 항만 및 정박지 접근로 보호용으로 설계된 4.5m × 2.5m 크기의 폰툰 구조물임</p><p>• 러시아 항만, 특히 노보로시스크가 8월 11-12일 수백 대의 우크라이나 드론의 집중 공격을 받으면서 항만 방어 필요성이 급증함</p><p>• PLOT-40의 상부에는 12.7mm 또는 20mm 자동포와 유도 시스템이 장착되어 있으며, 4개의 원통형 부유체 위에 탑재되어 있음</p><p>• 해당 구조물은 엔진이 없는 것으로 보이며, 내부에는 전원 시스템과 센서 등이 장착되어 있을 것으로 추정됨</p><p>• 함포와 센서를 운용하기 위한 승무원 탑승 공간(벤치 등)이 있지만, 무장이 없어 적 공격에 매우 취약한 상태로 보임</p><p>• 우크라이나의 성공적인 해상 공격으로 인해 러시아가 다양한 응급 방어 수단을 시험 중이며, 이는 현대 해전의 급변하는 양상을 보여줌</p><h3>Key Quotes</h3><p>• "Ukraine, kept short of the technology transfers it needs to defend itself from Russian aggression, has had no choice but to develop and innovate its own systems" (우크라이나는 러시아의 침략으로부터 방어하기 위해 필요한 기술 이전이 부족하여 자체 시스템을 개발하고 혁신할 수밖에 없었음)</p><p>• "Any nation wishing to prepare for the next war needs therefore to keep a careful eye on both the Ukrainians and Russians for what naval technical developments may impact future warfare at sea" (다음 전쟁에 대비하려는 모든 국가는 해상 전쟁에 영향을 미칠 수 있는 해군 기술 발전에 대해 우크라이나와 러시아를 주의 깊게 관찰해야 함)</p><p>• "given the success of recent Ukrainian attacks, a wide range of desperate countermeasures are being trialed by the Russians" (최근 우크라이나의 성공적인 공격으로 인해 러시아는 광범위한 응급 방어 조치들을 시험 중임)</p><h3>Technical Insights</h3><p>• **드론 대응 체계의 진화**: PLOT-40은 전통적인 해군 방어 시스템의 한계를 드러내며, 저가의 드론 위협에 대응하기 위한 새로운 포병 기반 방어 개념의 등장을 의미함. IMO 규정과 무관하게 전술적 군사 혁신이 민간 해상 안전에 영향을 미칠 수 있음</p><p>• **항만 보안의 새로운 패러다임**: 기존의 고정식 항만 방어에서 유동식 플랫폼으로의 전환은 항만 운영 및 선박 안전 기준에 영향을 미칠 수 있으며, 특히 흑해 지역의 상업 해운에 직접적 영향 초래</p><p>• **자율화된 무기 시스템의 위험성**: PLOT-40의 자동포 유도 시스템은 민간 선박의 식별 및 COLREG 준수와의 충돌 가능성을 제기하며, 전쟁 지역 내 민간 해운의 안전성 악화를 의미함</p><p>• **산업 기술 전이의 가속화**: 우크라이나-러시아 전쟁에서 드론 및 자율 방어 시스템의 급속한 발전은 향후 상업용 자율운항선(MASS)과 해양 드론 기술 발전에 선례가 될 가능성 높음</p></div>`,
+      tags: ["Naval Defense","Ukraine-Russia Conflict","Drone Warfare","Port Security","Military Innovation"],
+      link: "https://maritime-executive.com/article/russia-fields-a-floating-pillbox-to-defend-against-ukraine-s-drones",
+      coords: [39.1615,44.7257],
+      location: "Novorossiysk, Russia"
+    }
+  ]
+});
