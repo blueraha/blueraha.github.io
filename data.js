@@ -14356,3 +14356,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-14
+addEvents({
+  "2026-08-14": [
+    {
+      type: "accident",
+      title: "Two Oil Slicks Appear in Gulf Following Oman Spill; Caroline Bezengi Tanker Leak Creates Environmental Crisis",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-14",
+      image: "https://images.marinelink.com/images/maritime/w800/copyright-imagebank4uadobestock-172964.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **대형 유류 유출 사건**: 오만 해역에서 좌초한 러시아 원유 운송선 캐롤린 베젠기(Caroline Bezengi)로부터 약 2,000㎢ 규모의 거대한 기름 띠가 발생하여 보호해역 오염</p><p>• **추가 유출 확인**: 호르무즈 해협 내 카슘 섬과 시리 섬 해역에서 위성 이미지로 2개의 추가 유류 띠 확인, 이란-미국 갈등으로 인한 해상 공격의 연쇄 효과</p><p>• **선박 피해**: 리베리아 국적 건화물선 미노안 파이오니어(Minoan Pioneer)가 8월 3일 호르무즈 해협 통과 중 정체불명의 발사체 공격을 받아 손상, 선원 1명 실종</p><p>• **환경 오염 규모**: 카슘 섬 인근 유류 띠는 160km 규모로 확대되었으며, 짙은 색상 부분은 중유(Heavy Fuel Oil) 오염을 시사</p><p>• **국제적 우려**: 네덜란드 PAX 환경 전문가와 SkyTruth CEO 등이 "최근 수개월간 가장 큰 규모의 유류 유출" 사건으로 평가, 대규모 환경재앙 우려</p><p>• **인과관계 규명 어려움**: 정확한 유출원과 유류 성분에 대한 독립적 확인 불가, 구조 작업 진행 중 허가 문제로 인한 지연</p><h3>Key Quotes</h3><p>• "This is the biggest one that I've seen in recent months, really since the conflict between Iran and the U.S. began" (이란과 미국 간 갈등이 시작된 이후 최근 수개월 중 가장 큰 규모)<br>  - SkyTruth CEO John Amos의 발언으로, 현재 유류 유출이 지정학적 갈등과 직결되어 있음을 강조</p><p>• "oil pollution from the Gulf had reached Qeshm Island and that preliminary evidence indicates a foreign bulk carrier as the source" (페르시아만의 석유 오염이 카슘 섬에 도달했으며 예비 증거는 외국 화물선이 출처임을 시사)<br>  - 이란 외교부 대변인 에스마일 바카에이(Esmaeil Baqaei)의 성명으로, 이란 측 책임 귀속 시도</p><h3>Technical Insights</h3><p>• **해상 분쟁과 환경피해의 악순환**: 호르무즈 해협의 지정학적 긴장으로 인한 선박 공격이 직접적인 해양 오염 사고로 이어지는 구조로, 국제해사기구(IMO) 차원의 해협 안전 및 환경 보호 협약 강화 필요</p><p>• **위성 모니터링 기술의 중요성**: Copernicus Sentinel-2 위성과 TankerTrackers.com 같은 실시간 모니터링 서비스가 유류 유출 탐지 및 규모 파악에 핵심 역할 수행, 향후 자율선박 환경 감시 시스템과 연동 가능성</p><p>• **선박 추적 및 해양보안**: 선박의 피해 원인 규명 및 인과관계 입증의 어려움은 국제해사기구(IMO) COLREG 개정과 함께 해양보안 거버넌스 강화, 선박 자동식별장치(AIS) 위·변조 방지 기술 고도화 필요</p><p>• **구조 작업의 외교적 장애**: 좌초 선박 구조 시 허가 문제로 인한 지연은 국제 해양법 및 구조 협약(SOLAS) 이행의 실효성 문제 드러내며, 자율선박의 해양 위기 대응 능력 및 국제 협력 체계 구축의 시급성 강조</p></div>`,
+      tags: ["Oil Spill","Environmental Disaster","Tanker Incident","Strait of Hormuz","Iran-US Conflict","Maritime Security"],
+      link: "https://www.marinelink.com/news/two-oil-slicks-appear-gulf-following-oman-spill-542120",
+      coords: [56.5,26.5],
+      location: "Strait of Hormuz, Gulf of Oman, Qeshm Island"
+    },
+    {
+      type: "accident",
+      title: "Two Tankers Attacked by Drones in Strait of Hormuz",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-08-14",
+      image: "https://maritime-executive.com/media/images/article/Photos/Places/nasa-worldview-persian-gulf-strait-of-hormuz-iran.jfif",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 호르무즈 해협에서 이란 혁명수비대(IRGC)에 의해 운영되는 드론 공격으로 2척의 유조선(Navig8 Messi, Tarif)이 피격됨<br>• 아부다비 국영석유공사(Adnoc)의 유조선들이 최우선 공격 대상으로, 분쟁 개시 이후 17~18회 공격을 받음<br>• 이란이 호르무즈 해협의 "해협관리청(Persian Gulf Strait Authority)" 통제권 강화를 목표로 하는 경제적 강압 수단으로 해석됨<br>• 피격 선박들은 경미한 손상만 입었으며 승무원 무상해, 자력 항행 재개<br>• UAE 외교부는 국제법 위반이자 해양 운송의 자유를 침해하는 "해적 행위"라고 규탄</p><h3>Key Quotes</h3><br>• "flagrant violation of a UNSC resolution affirming freedom of navigation" (유엔안보리 결의에 위배되는 명백한 국제법 위반)<br>• "a tool of economic coercion or blackmail" and an "act of piracy" (경제적 강압 및 협박의 도구이자 해적 행위)</p><h3>Technical Insights</h3><br>• 호르무즈 해협의 해상통제 분쟁으로 인한 드론 기반 해상 공격이 증가 추세이며, 자동항행선박의 운영 안전성 및 경로 선택 알고리즘에 전략적 위험 요소 추가<br>• Adnoc의 퓨자이라(Fujairah) 외측 정박지 경유 해상 수송 시스템은 위험지역 회피 기술의 실제 사례로, 자율운항 선박의 동적 경로계획(Dynamic Route Planning) 알고리즘 개발에 시사점 제공<br>• 국제해사기구(IMO) COLREG 및 해상보안 규정 강화의 필요성을 부각시키며, 특히 분쟁 수역 통과 시 국제 선박의 안전 보장 체계 개선 요구</p></div>`,
+      tags: ["Strait of Hormuz","Tanker Attack","Drone Strike","IRGC","Iran","Adnoc","Maritime Security"],
+      link: "https://maritime-executive.com/article/two-more-tankers-attacked-in-the-strait-of-hormuz",
+      coords: [56.5,26.5],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "Philippines Files Official Charts for Scarborough Shoal with UN, Advancing Legal Strategy in South China Sea",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-08-14",
+      image: "https://maritime-executive.com/media/images/article/1786743349_6a7f8a3528b38.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 필리핀이 2026년 7월 스카버러 쇼얼(Bajo de Masinloc)의 기선(baseline), 영해, 인접해역을 명시한 해도(Chart No. 1567)를 UN에 공식 기탁하여 법적 지위를 확보</p><p>• UNCLOS 제16조에 따른 기술적 절차이나, 필리핀은 이를 2016년 남중국해 중재판정부 판정과 해양구역법(Maritime Zones Act)과 명시적으로 연결하여 전략적 의도 표현</p><p>• 동일 주간에 팔라완 서부 대륙붕 연장 신청을 UN 대륙붕한계위원회(CLCS)에 제출하여 이중의 UNCLOS 기반 법적 조치를 동시 추진</p><p>• 군사적 충돌보다는 법적 기록의 축적(lawfare by accretion)을 통한 장기 전략으로, UN 공식 기록에 등재되어 영구적이고 인용 가능한 법적 지위 구축</p><p>• 해도 기탁은 새로운 권리 창출이 아니나, 기존 법적 입장을 국제 공식 기록으로 확정시켜 향후 분쟁 해결 과정에서 강력한 선례 역할 가능</p><h3>Key Quotes</h3><p>• "Once deposited with the UN, the chart enters the international record in a way a press release cannot. It remains there, available to states, lawyers, historians and tribunals long after today's headlines have faded." <br>(UN에 기탁되면 해도는 보도자료와 달리 국제 공식 기록으로 편입되어 현재의 뉴스가 사라진 이후에도 국가, 법률가, 역사가, 중재판부에서 참고 가능한 영구 자료가 됨)</p><p>• "This is the logic behind what might be called lawfare by accretion: not one dramatic legal strike, but the steady accumulation of documentation, legislation, and institutional acts that, over time, builds a formidable legal record."<br>(단 한 번의 극적인 법적 공격이 아니라, 시간에 걸쳐 문서, 입법, 제도적 행위를 꾸준히 축적하는 방식으로 강력한 법적 기록을 구축하는 전략)</p><h3>Technical Insights</h3><p>• **UNCLOS 기반 해양법 전략**: 제16조 기선 공시 의무를 단순한 행정 절차가 아닌 법적 입장 확정의 도구로 활용하여, 국제해양법 체계 내에서의 법적 지위 강화</p><p>• **중재판정부 판정의 적극적 활용**: 2016년 남중국해 중재판정부가 스카버러 쇼얼의 "암석" 지위를 인정한 것을 바탕으로, 이후 해양구역법 및 공식 해도 기탁을 통해 판정의 실질적 구현 진행</p><p>• **장기 누적 전략의 국제법적 의미**: 외교 공문, 입법, UN 기탁 등 일련의 법적 행위들이 국제 공식 기록으로 축적되면, 향후 영토 분쟁 중재나 국제사법재판소 소송 시 선례와 증거로서의 가치 극대화</p><p>• **남중국해 분쟁 패러다임 전환**: 군함 배치, 해경 대치 등 물리적 실력 행사에서 법적 기록 축적으로 전환함으로써, 국제법 체계에 기반한 분쟁 해결 경로 구축 시도</p></div>`,
+      tags: ["South China Sea","UNCLOS","Philippines","Maritime Law","Scarborough Shoal"],
+      link: "https://maritime-executive.com/article/scarborough-shoal-and-the-philippines-paper-trail-in-the-south-china-sea",
+      coords: [117.7845,15.1332],
+      location: "Scarborough Shoal, South China Sea"
+    }
+  ]
+});
