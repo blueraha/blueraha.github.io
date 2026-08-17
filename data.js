@@ -14400,3 +14400,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-16
+addEvents({
+  "2026-08-16": [
+    {
+      type: "news",
+      title: "Yemen's Mocha Port Suspends Operations Following Houthi Missile Attacks",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-16",
+      image: "https://images.marinelink.com/images/maritime/w800/robert-adobe-172977.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 예멘 모카항이 최근 후티 미사일 공격으로 인해 상업 및 해운 운영을 전면 중단했으며, 25발 이상의 미사일이 투발되어 7명 사망 및 1,600만 달러의 손실 발생</p><p>• 모카항은 홍해와 아덴만을 연결하는 전략적 해협인 바브엘만데브 해협 인근에 위치한 중요 거점으로, 국제 해운의 주요 경로상에 위치</p><p>• 후티 반군은 사우디 연합군의 군사 무기 집결지 타격이라고 주장했으나, 예멘 정부는 민간시설 및 경제시설 피해를 강조</p><p>• 지난 2022년 UN 중재 휴전 이후 예멘의 대규모 전투가 감소했으나, 최근 미-이란 분쟁으로 인한 지역 긴장이 재고조 추세</p><p>• 모카항은 아덴항과 호데이다항 대비 화물 처리 규모가 작으나 전략적 지정학적 중요성이 높음</p><p>• 전 지역 해운 안정성 및 해상 통로 보안에 대한 우려 심화로 국제 해운업계의 지역 회피 운항 검토 가능성 증대</p><h3>Key Quotes</h3><p>• "Yemen's Mocha port has suspended commercial and maritime operations after being hit by more than 25 missiles in Houthi attacks over recent days" <br>(예멘의 모카항이 최근 며칠간 후티 미사일 25발 이상의 공격을 받아 상업 및 해운 운영을 중단했다)</p><p>• "Mocha is a Red Sea port near the Bab el-Mandab strait, a strategic chokepoint connecting the Red Sea with the Gulf of Aden and a key route for international shipping"<br>(모카항은 홍해와 아덴만을 연결하는 전략적 해협인 바브엘만데브 인근의 홍해 항구로, 국제 해운의 주요 경로이다)</p><h3>Technical Insights</h3><p>• **해상 보안 악화에 따른 운항 경로 변경**: 바브엘만데브 해협 인근 항구 운영 중단은 수에즈 운하를 경유하는 아시아-유럽 간 주요 해운로 차질을 초래하며, 선사들의 희망봉 우회 운항 증가 가능성 높음</p><p>• **IMO 해역 보안 기준 강화 필요성**: 현 상황은 IMO ISPS Code 및 국제해사기구의 고위험 해역 지침 개정을 촉발할 수 있으며, 해적 및 무장 세력 대응 프로토콜 강화 요구</p><p>• **자율운항 선박의 전략적 활용 검토**: 고위험 해역 운항 시 자율운항선박(MASS) 도입으로 승선원 안전성 제고 및 실시간 감시·회피 능력 향상 가능성 모색</p><p>• **지역 해운 인프라 취약성**: 전략적 요충지 항구의 운영 중단이 글로벌 공급망 및 에너지 수송에 미치는 파급 영향을 고려할 때, 항만 보안 및 복원력 강화 투자 필요</p></div>`,
+      tags: ["Houthi Attacks","Red Sea","Port Operations","Regional Tension"],
+      link: "https://www.marinelink.com/news/yemens-mocha-port-halts-operations-houthi-542137",
+      coords: [43.3,13.3],
+      location: "Mocha Port, Yemen (Red Sea/Bab el-Mandab Strait)"
+    }
+  ]
+});
