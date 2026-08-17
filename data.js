@@ -14420,3 +14420,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-17
+addEvents({
+  "2026-08-17": [
+    {
+      type: "news",
+      title: "Shipping Slows Through Strait of Hormuz After Tanker Attacks Amid U.S.-Iran Conflict",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-17",
+      image: "https://images.marinelink.com/images/maritime/w800/aerialdrone-adobe-172984.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 호르무즈 해협 통행량 급락 - 지난 주말 5척만 통과, 전주 31척 대비 84% 감소로 심각한 해운 차질 발생<br>• 아랍에미리트 아부다비국영석유공사(ADNOC) 운영 유조선 3척이 해협 통과 중 피격 당하며 해상 안보 위기 악화<br>• 미-이란 전쟁(2월 개시)으로 일일 130척 이상의 정상 통행량에서 급감, 원유 및 LNG 세계 거래량의 1/5이 영향을 받는 중<br>• 이란 외교부장관 아바스 아라치, 해협 통행 재개를 위해 미국이 이란의 조건 수용 필요하다고 발표<br>• 예멘 후티 반군이 7월 20일 선포한 바브엘만데브 해협 해상봉쇄로 사우디 석유 수출 차단, 주말 통행량 49척으로 전주 55척 대비 감소<br>• 일부 선박이 AIS 자동식별장치를 꺼고 적발 회피 통과하고 있으나 해운 차질의 근본적 해결책이 되지 못함</p><h3>Key Quotes</h3><p>• "The waterway handled a fifth of the world's shipments of crude oil and liquefied natural gas before the war." <br>(호르무즈 해협은 전쟁 이전 세계 원유 및 LNG 해상 운송량의 5분의 1을 담당하는 전략적 요충지)</p><p>• "Washington must meet Iran's conditions regarding the strait in order for shipping to resume."<br>(해운 재개를 위해서는 미국이 호르무즈 해협과 관련된 이란의 조건을 수용해야 한다)</p><p>• "Some ships may pass through undetected with transponders off, but the figures are far from the more than 130 ships a day that traversed the Strait of Hormuz before the war."<br>(AIS 중단으로 적발을 회피한 선박이 있을 수 있으나, 전쟁 이전 일일 130척 이상의 정상 통행량과는 큰 격차 존재)</p><h3>Technical Insights</h3><p>• **자동식별장치(AIS) 운영 위험성**: 일부 선박의 AIS 차단 운항으로 선박 추적 불가 상황 발생, COLREG 및 IMO 안전규칙 미준수 위험도 증가<br>• **지정학적 해로 차단의 해운산업 영향**: 호르무즈 해협과 바브엘만데브 해협 동시 봉쇄로 글로벌 에너지 공급망 붕괴, 배선 회항(Rerouting) 비용 및 운송 시간 급증<br>• **자율항해 기술의 고위험 해역 운영 한계**: 현재 분쟁 지역의 극도로 위험한 해상 환경에서는 자율항해 시스템의 의사결정 신뢰성 및 안전성 검증 어려움<br>• **해상 안보와 규제 체계의 공백**: 지정학적 분쟁으로 인한 선박 피격 상황에서 국제해사기구(IMO)의 해상교통 관리 권한 및 분쟁 해결 메커니즘의 실효성 문제 부각</p></div>`,
+      tags: ["Strait of Hormuz","Tanker Attacks","Geopolitical Risk","Shipping Disruption","Iran-U.S. Conflict"],
+      link: "https://www.marinelink.com/news/shipping-slows-strait-hormuz-tanker-542144",
+      coords: [56.1409,26.5548],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
+
+// Auto-collected: 2026-08-14
+addEvents({
+  "2026-08-14": [
+    {
+      type: "news",
+      title: "UK Seizes $300M Worth of Cocaine at London Gateway Port",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-08-14",
+      image: "https://maritime-executive.com/media/images/article/1786735303_6a7f6ac7c589c.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 영국 국가범죄청(NCA)이 런던 게이트웨이 항구에서 바나나 적재 컨테이너에 숨겨진 2.9톤의 코카인을 적발하여 3억 1,300만 달러 규모의 마약을 압수</p><p>• 남미 마약 카르텔이 고부가가치 영국 시장을 목표로 런던 게이트웨이를 주요 진입 거점으로 활용 중</p><p>• 체포된 용의자는 총 9명이며, NCA 정보활동이 성공적인 적발의 핵심 요소로 작용</p><p>• 런던 게이트웨이는 지난해 컨테이너 처리량이 52% 급증(190만 TEU → 300만 TEU)하면서 운영 증가에 따른 보안 취약점 노출</p><p>• 영국의 코카인 시장 규모는 연 132억 달러로 추정되며, 마약 밀수 적발 사례가 지속적으로 증가 추세</p><h3>Key Quotes</h3><p>• "This is a very significant seizure which has deprived the organized crime group behind it of huge profits. That is money that cannot be ploughed back into further crime." <br>(이번 적발은 조직범죄 집단의 거대한 이익을 차단했으며, 이는 추가 범죄에 재투자될 수 없는 자금을 의미)</p><p>• "Class A drugs wreck lives, they are toxic and can devastate our communities"<br>(A급 마약은 삶을 파괴하고 독성이 있으며 지역사회를 황폐화할 수 있음)</p><h3>Technical Insights</h3><p>• 항만 보안 강화 필요: 런던 게이트웨이의 급속한 성장(TEU 52% 증가)이 마약 밀수 활동의 표적이 되고 있어, 항만 운영 확대와 함께 지능형 검사 기술 도입이 시급한 상황</p><p>• 국제 협력의 중요성: NCA가 국내 Border Force뿐 아니라 남미 출발국 및 경유국과의 국제 협력을 강조하고 있으며, 이는 해상 물류의 투명성과 추적 시스템 개선의 필요성을 시사</p><p>• 컨테이너 추적 및 검사 기술: 바나나 등 농산물 적재 컨테이너의 위조 및 변조 탐지를 위한 고급 스캔 기술과 블록체인 기반 선하증권(B/L) 검증 시스템의 도입이 해운업계의 투명성 강화에 기여 가능</p></div>`,
+      tags: ["drug smuggling","port security","London Gateway","law enforcement","organized crime"],
+      link: "https://maritime-executive.com/article/uk-seizes-300m-worth-of-cocaine-at-london-gateway",
+      coords: [-0.3056,51.5074],
+      location: "London Gateway, UK"
+    }
+  ]
+});
+
+// Auto-collected: 2026-07-28
+addEvents({
+  "2026-07-28": [
+    {
+      type: "accident",
+      title: "Swedish Prosecutors Extend Detention of Misje Verde Captain in Fatal Boating Collision",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-08-13",
+      image: "https://maritime-executive.com/media/images/article/Photos/Vessels_Small/Misje-Verde.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **충돌 사건 개요**: 화물선 Misje Verde가 스웨덴 서부 해역(Tjörn 섬 인근)에서 소형 쾌속정과 충돌하여 2명(어머니, 딸) 사망, 2명(아버지, 아들) 생존<br>• **수사 진행 상황**: 스웨덴 검찰이 선장과 도선사에 대한 구금 연장을 신청(~8월 28일)하며 충돌 시간을 오후 9시 27분으로 재정정(기존 추정: 오후 10시경)<br>• **주요 증거 확보**: 선박의 VDR(음성 데이터 레코더), GPS/AIS 추적 데이터, 레이더 영상, 레이더 전자 해도, 침몰된 쾌속정에 대한 기술 검사 완료<br>• **선박의 과실 혐의**: Misje Verde가 충돌 후에도 정선하지 않았으며, 경찰이 정선을 명령할 때까지 충돌을 인식하지 못했던 것으로 보고됨<br>• **법적 판단 임박**: Senior Prosecutor James von Reis는 해사규칙(Rules of the Sea) 및 해운 표준에 따라 책임 소재와 기소 여부를 판단할 충분한 정보 확보 선언</p><h3>Key Quotes</h3><p>• "I believe that all relevant factual circumstances surrounding the accident have now been clarified" (모든 관련 사실 관계가 명확하게 규명되었다고 판단)<br>• "the cargo ship likely struck the small pleasure boat from behind at approximately 9:27 p.m. on July 28" (화물선이 7월 28일 오후 9시 27분경 뒤쪽에서 쾌속정과 충돌한 것으로 추정)</p><h3>Technical Insights</h3><p>• **VDR 증거의 중요성**: 선박 항해실의 모든 음성 통신, 레이더 영상, 전자 해도 기록이 COLREG 위반 여부를 객관적으로 입증할 수 있는 결정적 증거로 작용<br>• **항해 과실 입증**: GPS/AIS 추적 데이터와 레이더 정보를 통해 충돌 당시 선박의 항로, 속도, 상황인식 능력을 정량적으로 분석 가능하며, 선박이 충돌 후에도 정선하지 않은 점은 해양법 위반의 명백한 증거<br>• **도선사의 책임 문제**: 도선사가 오후 9시 55분에 선박을 떠났으나, 충돌이 오후 9시 27분에 발생한 것으로 재정정되어 도선사의 책임 범위에 대한 법적 판단이 필요한 상황<br>• **업계 교훈**: 협소한 해역에서의 상충 회피 의무, 야간 운항 중 적절한 항해 감시 체계(watch-keeping), 충돌 후 즉각적인 정선 및 구조 의무 등 기본 해사규칙 준수의 중요성 재확인</p></div>`,
+      tags: ["collision","cargo ship","pleasure boat","fatalities","Sweden","VDR analysis"],
+      link: "https://maritime-executive.com/article/swedish-prosecutors-extend-detention-of-captain-in-fatal-boating-collision",
+      coords: [11.9,58.3],
+      location: "Tjörn, Sweden (West Coast near Gothenburg)"
+    }
+  ]
+});
