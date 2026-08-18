@@ -14476,3 +14476,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-17
+addEvents({
+  "2026-08-17": [
+    {
+      type: "accident",
+      title: "Seven Dead, 50 Rescued From Migrant Boat Offshore Libya",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-17",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockpeter-173007.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 리비아 인근 국제해역에서 목재보트 침몰 사고 발생, 7명 사망 및 50명 구조<br>• 구조선 EMERGENCY가 구조 작업 수행, 2명이 질식으로 중증 상태<br>• 생존자는 소말리아 및 이집트 국적으로 8월 16일 주와라(Zuwara)에서 출발<br>• 구조된 인원 중 45명 남성, 5명 여성, 미성년자 29명 포함<br>• 인도주의적 해양 구조 작업의 중요성 재확인</p><h3>Key Quotes</h3><br>• "The charity rescue ship, EMERGENCY, rescued 50 migrants from an wooden boat in international waters off Libya on Monday, while seven others were found dead" (자선 구조선 EMERGENCY가 월요일 리비아 인근 국제해역에서 목재보트로부터 50명의 이민자를 구조했으며, 7명이 사망한 상태로 발견됨)<br>• "Two people are in critical condition and suffering from suffocation and needed urgent medical evacuation" (2명이 질식으로 인해 중증 상태이며 긴급 의료 후송이 필요한 상황)</p><h3>Technical Insights</h3><br>• 목재보트의 안전성 결함 및 과적 운영으로 인한 해상사고 발생 패턴 분석 필요<br>• 국제해역에서의 해양 구조(SAR) 활동 및 인도주의 법칙에 따른 구조 의무 확인<br>• 지중해 이민자 위기 관련 해양 안전 규정 강화 및 국제협력의 중요성 대두</p></div>`,
+      tags: ["maritime accident","migrant rescue","humanitarian crisis","Mediterranean"],
+      link: "https://www.marinelink.com/news/seven-dead-rescued-migrant-boat-offshore-542162",
+      coords: [17.5,32.5],
+      location: "International waters off Libya"
+    },
+    {
+      type: "accident",
+      title: "Weather and Technical Challenges Impede Oil Spill Cleanup from Grounded Russian Tanker off Oman",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-17",
+      image: "https://images.marinelink.com/images/maritime/w800/copyright-imagebank4uadobestock-173003.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **사건 개요**: 러시아산 원유를 적재한 Caroline Bezengi 유조선이 오만 해역의 해양보호구역 근처에서 좌초되어 대규모 유류 유출 발생 (추정량 400~2,000 sq km)</p><p>• **좌초 원인**: 6월 불명의 공격으로 인한 손상 이후 6월 30일 오만 북부 해역에서 좌초, 약 80만 배럴의 원유 탑재</p><p>• **환경 영향**: 혹등고래와 소코트라 가마우지 등 해양생물이 서식하는 오만 해양자연보호구역 인근에서 유출되어 해안선까지 확산</p><p>• **구조 작업 저해 요인**: 계절 몬순의 영향, 얕고 바위가 많은 좌초 해역, 선박의 편측 침수 등으로 인한 구조선박 및 장비의 항해 위험성 증가</p><p>• **제재 대상 선박**: EU, 우크라이나, 영국, 캐나다, 스위스가 부과한 국제 제재 대상이며 러시아 '섀도우 플릿'의 일부로 정상적인 보험 미가입</p><h3>Key Quotes</h3><p>• "Weather conditions and operational challenges were hampering salvage efforts for a grounded tanker that was leaking Russian crude oil in a protected marine area off Oman's coast" <br>(오만 연안의 해양보호구역에서 유출되는 러시아 원유 유조선의 구조 작업이 악천후와 작업상 어려움으로 인해 방해받고 있음)</p><p>• "The conditions put salvage vessels and equipment under 'operational and navigational risks'"<br>(해당 해역의 악조건으로 인해 구조선박과 장비가 작업상 및 항해상 위험에 노출되어 있음)</p><h3>Technical Insights</h3><p>• **해양오염 대응의 환경적 제약**: 몬순 시즌의 악천후와 얕은 수심, 암초가 많은 해역 등 자연적 요인이 유류 회수 및 방제 작업을 심각하게 제약하고 있으며, 선박의 구조적 손상(편측 침수)이 추가적 복잡성 증가</p><p>• **국제 제재와 선박 안전성의 연관성**: 러시아 섀도우 플릿에 속한 고령 유조선(2001년 건조)의 경우 서방 보험 미가입, 부실 유지보수 가능성이 높아 안전사고 위험 증대 및 오염사고 규모 확대로 이어질 가능성</p><p>• **IMO/해양환경 규제의 실효성 문제**: 국제 제재 대상 선박의 불법 운영으로 인한 대규모 환경오염 사건이 발생하면서 MARPOL 등 국제 환경규제 준수 강제 메커니즘 강화의 필요성 대두</p><p>• **신뢰할 수 있는 해양안전 정보 구축의 중요성**: 선박 추적 데이터를 통한 항로 파악(수에즈 운하 통과 기록 등) 및 섀도우 플릿 모니터링이 불법 운영 선박 적발 및 환경오염 예방의 핵심 수단</p></div>`,
+      tags: ["Oil Spill","Grounding","Environmental Damage","Salvage Operations"],
+      link: "https://www.marinelink.com/news/weather-technical-challenges-hinder-oil-542158",
+      coords: [58.5,23.6],
+      location: "Oman Coast (Arabian Sea)"
+    },
+    {
+      type: "news",
+      title: "C&C Marine Delivers 160-Foot Idler Barge to Orion Marine Construction",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-17",
+      image: "https://images.marinelink.com/images/maritime/w800/marine-repair-173015.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• C&C Marine and Repair가 Orion Marine Construction을 위해 160피트 무인 강철 바지선 인도 완료<br>• The Shearer Group, Inc.가 설계한 바지선은 적분형 워킹 스팟 시스템으로 약 30피트 단위로 진행 가능<br>• 전기 구동식 호이스팅 윈치와 푸시-풀 윈치로 연결된 준설선의 효율적인 재배치 지원<br>• 약 8개월 건설 기간을 거쳐 Orion Marine의 운영 요구사항에 맞게 커스터마이징 완료<br>• C&C Marine은 추가로 3,000마력 Multi Cat 3013 멀티퍼포스 작업보트 2척 및 30인치 커터 흡입식 준설선 건설 중</p><h3>Key Quotes</h3><p>• "The barge features an integrated walking-spud system designed to advance the combined dredge and idler-barge unit in increments of approximately 30 feet." (바지선은 준설선과 유휴 바지선을 약 30피트 단위로 전진시킬 수 있도록 설계된 적분형 워킹 스팟 시스템을 특징으로 함)</p><p>• "During construction, Orion Marine worked closely with C&C Marine's project management and production teams to incorporate adjustments and modifications tailored to the company's operational requirements." (건설 과정 중 Orion Marine은 C&C Marine의 프로젝트 관리 및 생산팀과 긴밀히 협력하여 회사의 운영 요구사항에 맞는 조정 및 수정 사항을 반영)</p><h3>Technical Insights</h3><p>• 워킹 스팟 시스템의 자동화는 준설 작업의 효율성을 극대화하며, 외부 보조 없이 자체 재배치 가능한 설계로 운영 비용 절감<br>• 멀티퍼포스 작업보트의 3개 프로펠러 구성과 약 30톤의 볼라드 풀은 해상건설, 앵커 핸들링, 부이 회수 등 다양한 해양 작업 지원<br>• 30인치 커터 흡입식 준설선은 수심 10~82피트 범위의 대규모 준설 프로젝트에 적합하며, 자체 재배치 능력으로 인프라 의존성 감소<br>• 해양 건설 및 준설 산업에서 이러한 특화 장비의 다양화는 프로젝트 복잡성 증가에 대응하는 산업 발전을 반영</p></div>`,
+      tags: ["Barge Delivery","Dredging Operations","Marine Construction","Vessel Design"],
+      link: "https://www.marinelink.com/news/cc-marine-repair-delivers-barge-orion-542172",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "ADES Receives Approval to Restart All Suspended Offshore Rig Operations in Saudi Arabia",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-08-17",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2025/05/ades-international-rigs-1.jpg?image-crop-positioner-ts=1747720364",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• ADES Holding Company가 중동 지역 긴장으로 인해 3월 2026년에 일시 중단되었던 사우디아라비아의 모든 해양 석유 굴착 장비(오프쇼어 릭)의 운영 재개 승인을 획득했음</p><p>• 카타르의 ADES 릭들은 이미 운영을 재개했으며, GCC 지역 전반에 걸쳐 안정적인 운영 복귀 추세를 보이고 있음</p><p>• 잭-업(Jack-up) 장비 시장의 계약 가동률이 약 90%에 이르고 있으며, 하루 임차료(Day rates)는 공급 부족 시장에서 안정적으로 유지되고 있음</p><p>• ADES CEO Mohamed Farouk는 일시 중단이 수요 감소가 아닌 지역 정세에 의한 일시적 사건으로 해석되었음을 강조함</p><p>• 회사는 2026 회계연도 EBITDA 예측을 SAR 43억 5천만~48억 7천만으로 재확인하였음</p><p>• 최근 Saipem과의 Saudi Arabian Saipem(SAS) 인수 거래로 잭-업 함대 규모 확대 진행 중</p><h3>Key Quotes</h3><p>• "We are pleased with the swift resumption all of our temporarily suspended offshore rigs in Saudi Arabia, which comes in addition to our rigs in Qatar that have already resumed and are back in full operation." (사우디아라비아의 일시 중단된 모든 해양 굴착 장비의 신속한 재개와 이미 재개되어 정상 운영 중인 카타르 릭들의 운영에 만족한다)</p><p>• "The safety of our personnel and assets remains, and will always remain, our highest priority, and it is precisely this discipline that has enabled us to preserve the integrity of our operations throughout this period and to be in a position to resume activity so quickly once conditions allowed." (인원과 자산의 안전이 최우선 과제이며, 이러한 규율이 상황 개선 시 신속한 운영 재개를 가능하게 했다)</p><h3>Technical Insights</h3><p>• 오프쇼어 석유 굴착 산업의 공급 부족 현상이 심화되고 있으며, 잭-업 장비의 90% 가까운 계약 가동률은 글로벌 에너지 수요 강세를 반영함</p><p>• GCC 지역의 지정학적 위험 요소가 해소되면서 중동 해양 에너지 프로젝트의 안정성이 회복되고 있으며, 이는 인도-태평양 지역의 해양 운송 및 에너지 인프라에도 긍정적 영향을 미칠 것으로 예상됨</p><p>• 대형 해양 에너지 기업의 인수합병(Saipem과의 SAS 인수)을 통한 선단 확대 전략은 산업 집중화 추세를 보여주며, 운영 효율성 및 안전 표준 강화를 의미함</p><p>• 정치적 불안정성에도 불구하고 에너지 기반시설의 운영 연속성 유지는 국제 에너지 공급망 보호의 중요성을 강조하고 있음</p></div>`,
+      tags: ["offshore drilling","Saudi Arabia","jack-up rigs","GCC region","operational resumption"],
+      link: "https://www.offshore-energy.biz/go-ahead-for-ades-to-restart-all-suspended-offshore-rig-ops-as-jack-up-market-remains-tight/",
+      coords: [46.6753,24.7136],
+      location: "Saudi Arabia"
+    }
+  ]
+});
