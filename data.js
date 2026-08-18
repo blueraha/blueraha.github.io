@@ -14532,3 +14532,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-18
+addEvents({
+  "2026-08-18": [
+    {
+      type: "accident",
+      title: "Vessel Struck by Unknown Projectile in Strait of Hormuz, Crew Injured",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-18",
+      image: "https://images.marinelink.com/images/maritime/w800/fajar-adobe-173031.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 호르무즈 해협을 통과 중인 선박이 정체 불명의 발사체에 피격되어 기관실 손상 및 승무원 인명피해 발생<br>• 영국 해양무역작전청(UKMTO)에서 사건 보고 접수, 오만 해안경비대가 선박 구조 지원<br>• 환경오염 피해는 보고되지 않았으나 관계 당국이 조사 진행 중<br>• 호르무즈 해협의 일일 통항 선박 수가 전시 130척 이상에서 1자리 수로 급락<br>• 중동 지역 해상 보안 악화로 국제 해운 활동 심각하게 저하</p><h3>Key Quotes</h3><p>• "a vessel was struck by an unknown projectile while transiting outbound in the Strait of Hormuz, causing engine room damage and a crew casualty" (호르무즈 해협 통과 중인 선박이 정체 불명의 발사체에 피격되어 기관실 손상 및 승무원 인명피해 발생)</p><p>• "vessel crossings still in the single digits, down from more than 130 a day before the war" (전쟁 이전 일일 130척 이상에서 현재 1자리 수로 급감한 호르무즈 해협 통항 선박)</p><h3>Technical Insights</h3><p>• 호르무즈 해협 해상 보안 악화로 인한 국제 해운망 붕괴: 분쟁 지역 통항 회피 및 우회항로 증가에 따른 물류비용 상승<br>• 항만 외 공해상 공격 사건 증가에 따른 선박 보안 체계 강화 필요: 탐지 기술, 회피 기동, 선박 강화 등 다층적 대응 방안 구축<br>• IMO 해상보안 규정(ISPS Code) 강화 및 지역 해상 보안 협력체계 재정비 필요: 국제해사기구와 인접국 간 정보 공유 및 합동 순찰 확대<br>• 자율운항선박(MASS) 도입 시 분쟁 지역 운항의 원격 제어 및 무인화 가능성 증대로 승무원 안전 개선 기대</p></div>`,
+      tags: ["Strait of Hormuz","Attack","Crew Casualty","Engine Room Damage"],
+      link: "https://www.marinelink.com/news/vessel-struck-strait-hormuz-crew-injured-542188",
+      coords: [56.5,26.6],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "Hormuz Strait Crossings Rise Slightly Amid US-Iran Talks Stalemate",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-18",
+      image: "https://images.marinelink.com/images/maritime/w800/parilov-adobe-173030.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 호르무즈 해협 통행량이 여전히 저조한 상태로 월요일 6척의 화물선만 통과 (10일 평균 11척 대비)<br>• 미국-이란 평화협상 교착 상태 속에서 극초대형유조선(VLCC)과 LNG 운반 탱커 통행 없음<br>• 바브엘만데브 해협 통행량은 월요일 19척으로 10일 평균 26척보다 하향 추세<br>• 노르스(Norns) VLCC가 200만 배럴의 석유를 적재하여 통행<br>• 일부 선박은 트랜스폰더 미작동으로 통행 집계에서 제외될 가능성<br>• 지정학적 긴장이 중동 에너지 무역에 미치는 영향 지속</p><h3>Key Quotes</h3><br>• "Ship crossings via the Strait of Hormuz were still in single digits on Monday, despite rising slightly from the weekend" (호르무즈 해협 통행량이 주말 대비 소폭 증가했지만 여전히 한 자리 수 수준)<br>• "There were no very large crude carriers or tankers carrying liquefied natural gas passing through" (극초대형유조선과 LNG 운반 탱커의 통행이 없음)</p><h3>Technical Insights</h3><br>• 선박 트랜스폰더 미작동으로 인한 통행량 집계의 불완전성 - 실제 통행량이 추적 데이터보다 많을 가능성<br>• 지정학적 위험(US-Iran 협상 교착)에 따른 선사의 경로 우회 및 화물 운송 연기 전략<br>• 호르무즈 해협과 바브엘만데브 해협의 연계적 영향 - 글로벌 에너지 공급망의 병목 현상 심화</p></div>`,
+      tags: ["Strait of Hormuz","Shipping Traffic","Geopolitics","Oil Trade"],
+      link: "https://www.marinelink.com/news/hormuz-crossings-rise-slightly-weekend-542187",
+      coords: [56.55,26.57],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
