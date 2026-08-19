@@ -14620,3 +14620,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-19
+addEvents({
+  "2026-08-19": [
+    {
+      type: "accident",
+      title: "UAE Reports Two Ballistic Missiles Launched from Iran Targeting Maritime Traffic",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-19",
+      image: "https://images.marinelink.com/images/maritime/w800/peter-hermes-173065.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 아랍에미리트 방위부가 이란에서 발사된 2발의 탄도미사일 발견 보고 - 5월 4일 푸자이라 항구 공격 이후 첫 사건<br>• 미사일이 해상 교통(Maritime Traffic)을 목표로 하였으며, 두 미사일 모두 바다에 낙하<br>• UAE는 이란과의 모든 무역·상업·금융 거래 중단 선언 및 지역 안보 위협 성명 발표<br>• 이란 외무부 대변인은 UAE의 주장을 "근거 없다"고 거부하며 책임 부인<br>• 미국-이란 평화협상 60일 기한 만료(8월 18일)로 분쟁 재확대 우려 - 2월부터 호르무즈 해협 해운 차질</p><h3>Key Quotes</h3><p>• "The missiles targeted 'maritime traffic' based on its assessments. Both missiles fell into the sea." (미사일이 해상 교통을 목표로 했으며 두 발 모두 바다에 낙하했다는 평가)</p><p>• "The defense ministry affirms its full readiness to deal with any threats and firmly confront anything that aims to destabilize the state's security." (방위부는 모든 위협에 대처할 전적인 준비 태세와 국가 안보 불안정화를 목표로 하는 모든 것에 단호히 대항할 의지를 재확인)</p><h3>Technical Insights</h3><p>• **호르무즈 해협 해운 안보 악화** - 2월부터 지속된 이란-UAE 분쟁으로 전 지구적 해상 교통로의 약 20-30% 통과 경로 위험 증대, 해운비용 상승 및 보험료 인상 유발</p><p>• **해상 목표 미사일 공격의 신규 위협 패턴** - 기존 유조선/화물선 나포/공격에서 탄도미사일 직접 타격으로 확대, 자율운항선박(Autonomous Vessels)의 호르무즈 해협 운항 금지 권고 필요성 증대</p><p>• **국제해사기구(IMO) 해상보안 규정 강화 필요** - SOLAS/COLREG 규정 범위를 초과하는 군사적 위협 상황에서 선박의 회피·보험·통항 권리 재정의 필요</p><p>• **지정학적 해운 리스크** - 글로벌 에너지 수급 경로 차단으로 인한 유가 상승 및 공급망 혼란 심화, 인도-태평양 지역 대체 해로 수요 급증</p></div>`,
+      tags: ["Missile Attack","Iran-UAE Conflict","Maritime Security","Strait of Hormuz"],
+      link: "https://www.marinelink.com/news/uae-says-two-missiles-detected-earlier-542221",
+      coords: [53.5,25.2],
+      location: "Strait of Hormuz / UAE"
+    }
+  ]
+});
+
+// Auto-collected: 2026-08-18
+addEvents({
+  "2026-08-18": [
+    {
+      type: "news",
+      title: "Latvian firm NEWT21 completes EU-funded USV production project for FOG and RAY platforms",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-08-18",
+      image: "https://defence-blog.com/wp-content/uploads/2026/08/DB_image_2220.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 라트비아의 무인시스템 제조업체 NEWT21이 EU 자금으로 무인수상차량(USV) FOG 및 RAY 플랫폼을 프로토타입에서 생산 준비 단계로 전환하는 프로젝트 완료<br>• FOG는 고속 전술용 USV로 스텔스 정찰 및 요격용이며, 우크라이나 해군이 흑해에서 정찰 임무에 사용 중<br>• RAY는 대형 다중 모듈식 USV로 물류, 감시, 수심 측량 임무에 활용되며, 최대 32개 USV를 동시 제어 가능한 지휘통제소 탑재<br>• 두 플랫폼 모두 기술성숙도(TRL) 8단계 달성으로 표준화된 생산 및 상용화 준비 완료<br>• 유럽지역개발기금(ERDF)을 통한 공동 자금 지원으로 유럽의 해양 자율 무기 체계 개발 가속화</p><h3>Key Quotes</h3><p>• "Both platforms are now qualified at Technology Readiness Level 8, a designation indicating a system has been proven to work in its final form and under expected conditions" (두 플랫폼 모두 최종 형태에서 예상 조건 하에서 작동이 입증되었음을 나타내는 기술성숙도 8단계 획득)</p><p>• "RAY's ground control station can command up to 32 USVs at once and supports autonomous mission planning and swarming" (RAY의 지휘통제소는 최대 32개 USV를 동시에 제어하며 자율 임무 계획과 군집 운영 지원)</p><h3>Technical Insights</h3><p>• **자율성 및 집단화 기술**: 32개 USV 동시 제어 능력은 군집 무인 시스템의 고도화된 지휘통제 능력을 시사하며, 자동화된 임무 계획 기능은 인간의 개입 최소화를 의미<br>• **기술성숙도 기준**: TRL 8단계 달성은 실제 운용 환경에서의 검증 완료를 의미하므로, 조만간 NATO 해역에서의 해양 드론 전개 가능성 증가<br>• **해양 자율화의 군사적 함의**: 우크라이나의 FOG 운용 사례는 비전통적 해역 제어 수단으로서의 소형 USV의 전략적 가치를 입증하며, 향후 해안 방어 및 저강도 분쟁에서의 운용 확대 예상<br>• **EU 전략적 투자**: 유럽연합의 국방 기술 자립화 정책의 일환으로 동유럽 기업에 대한 해양 자율 시스템 투자 확대는 나토의 해양 전력 다양화를 의미</p></div>`,
+      tags: ["unmanned surface vehicle","USV","autonomous systems","EU funding","maritime technology"],
+      link: "https://defence-blog.com/latvian-firm-completes-eu-funded-usv-production-project/",
+      coords: [24.1093,56.9496],
+      location: "Latvia"
+    }
+  ]
+});
