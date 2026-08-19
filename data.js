@@ -14564,3 +14564,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-18
+addEvents({
+  "2026-08-18": [
+    {
+      type: "news",
+      title: "Ferry-to-Floatel Conversion: Heat Pumps Enable Zero-Emission Hotel Loads",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-08-18",
+      image: "https://gcaptain.com/wp-content/uploads/2026/08/IMG-20260817-WA0005.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• SRC Group이 유럽의 기존 여객 페리를 첨단 부유식 숙박시설(floatel)로 개조하여 캐나다 해역에 700명의 건설 근로자를 수용 중</p><p>• 혁신 기술: 6개의 전기식 해수 열펌프가 바다에서 직접 에너지를 추출하여 난방(60°C)과 냉방을 제공하며, 유류 보일러와 화석연료 냉각기 완전 제거</p><p>• 열펌프 시스템은 3,000 kW의 열전력을 제공하며, 겨울에는 7°C 해수에서 난방 에너지를 추출, 여름에는 역방향으로 실내 열을 해양에 배출</p><p>• SRC Group과 Energy Transfer의 공식 파트너십 체결 후, 신규건조선과 개조선용 모듈식 전기 열펌프 솔루션을 상용화 단계로 진행</p><p>• 티타늄 열교환기와 Bitzer 나선형 압축기, DUC 자동화 시스템으로 구성된 기술로 연중 유연한 온도 제어 가능</p><p>• 해운산업의 탈탄소화 추세 속에서 호텔 부하 관련 배출을 제거하는 현실적이고 확장 가능한 솔루션 제시</p><h3>Key Quotes</h3><p>• "The pumps extract energy from 7°C seawater and use it to provide onboard heating at up to 60°C in winter conditions" (펌프는 7°C의 해수에서 에너지를 추출하여 겨울철 선내 난방을 최대 60°C까지 제공함)</p><p>• "Locating the air-source systems in that vessel section would have eaten into valuable passenger space and altered the ship's profile" (공기원 시스템을 그 선박 구간에 배치하면 귀중한 승객 공간을 차지하고 선박의 프로필을 변경할 것임)</p><h3>Technical Insights</h3><p>• **열펌프 기술의 확장성**: 해수열원 히트펌프는 공기원 시스템 대비 공간 효율성이 우수하며, 신규건조 및 기존 선박 개조 모두에 적용 가능한 모듈식 솔루션으로 확대 가능</p><p>• **IMO 탈탄소화 규제 대응**: 호텔 부하(난방, 냉방)에서의 배출 제거는 2030-2050 온실가스 감축 목표 달성에 직결되며, 유류 보일러 대체 기술로 국제해사기구(IMO) 규정 준수 강화</p><p>• **에너지 효율성 및 운영비 절감**: 자연 해수 에너지 활용으로 전력 소비 최소화 및 연간 운영비 대폭 감소, 육상 충전소 의존도 제거로 운항 자율성 증대</p><p>• **타이타늄 소재 및 자동화 시스템**: 부식 저항성 우수한 열교환기와 DUC 자동화 제어로 다양한 해역 및 기후 조건에서 안정적 온도 관리, 장기 내구성 및 신뢰성 보장</p></div>`,
+      tags: ["heat pump technology","decarbonization","ferry retrofit","zero-emission","floatel conversion"],
+      link: "https://gcaptain.com/ferry-to-floatel-heat-pumps-provide-a-green-pathway/",
+      coords: [-106.3468,56.1304],
+      location: "Canada (offshore construction site)"
+    },
+    {
+      type: "news",
+      title: "Portuguese Navy Tests UAS Aboard Frigate NRP Álvares Cabral",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-08-18",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/08/1786784253072.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 포르투갈 해군이 Vasco da Gama급 호위함 NRP Álvares Cabral(F331)에서 무인항공기 체계 운영 시험을 실시했으며, 전문 무인 시스템 운영 부대인 X31이 주도함</p><p>• Iniciativa Mar Aberto 2026 해상 배치 중 실시된 시험은 운영 절차, 안전 장치 및 다양한 해상 환경에서의 상호운용성 검증을 목표로 함</p><p>• 함정 기반 무인항공기 운영은 발함·회수, 비행갑판 안전, 공역 관리, 통신 및 함정 지휘부와의 정보 연계 등 복합적인 조율이 필요함</p><p>• 시험 결과는 향후 장기 순찰 및 다국적 작전에서의 무인 시스템 운영 제약 조건 파악에 활용될 예정</p><p>• 포르투갈 해군의 신규 다기능 해양 플랫폼 NRP D. João II(Damen 건조)는 유인·무인 항공기 및 무인 수상·수중 장비 운영을 위해 설계되어 향후 무인 시스템 운영 개념 개발의 전용 플랫폼 역할을 할 것으로 예상됨</p><h3>Key Quotes</h3><p>• "Operating an uncrewed aircraft from a warship involves substantially more than flying the vehicle. The crew and operators must coordinate launch and recovery, deck safety, airspace management, communications, command-and-control links and the flow of information to the ship's command team." (함정에서 무인항공기를 운영하는 것은 단순히 항공기를 비행하는 것 이상으로, 승무원과 운영자가 발함·회수, 비행갑판 안전, 공역 관리, 통신, C2 링크 및 함정 지휘부로의 정보 흐름을 조율해야 함)</p><p>• "D. João II has been designed to operate manned and unmanned aircraft as well as uncrewed surface and underwater vehicles." (D. João II는 유인 및 무인 항공기뿐만 아니라 무인 수상·수중 장비를 운영하도록 설계됨)</p><h3>Technical Insights</h3><p>• 함정 기반 무인항공기 운영은 발함·회수, 공역 관리, C2 링크 등 다양한 해상 운영 요소를 통합적으로 관리해야 하는 복합 시스템으로, IMO 및 COLREG 준수와 함께 함정-무인기 간 협력 프로토콜 개발이 필수적임</p><p>• 무인 시스템의 다영역 통합(aerial, surface, underwater) 운영은 해양 인식(maritime awareness) 및 감시 능력 향상에 기여하며, 이는 자율 운영 함정으로의 전환 과정에서 중요한 기술적 기초가 됨</p><p>• 기존 호위함에서의 시험을 통해 실운영 제약 조건을 파악하고, 향후 D. João II와 같은 전용 무인 플랫폼에서 운영 개념을 정립하는 단계적 접근 방식은 해군 자율화 기술의 실용화 전략을 보여주는 모범 사례임</p></div>`,
+      tags: ["UAS","Portuguese Navy","Unmanned Systems","Naval Technology"],
+      link: "https://www.navalnews.com/naval-news/2026/08/portuguese-navy-tests-uas-aboard-frigate-nrp-alvares-cabral/",
+      coords: [38.7223,-9.1393],
+      location: "Portugal / Atlantic"
+    },
+    {
+      type: "news",
+      title: "Blue Ops and Havoc Partner to Develop Open-Architecture Autonomous Maritime Defense Systems",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-08-18",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/08/blueops-havoc.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• **전략적 파트너십**: Red Cat Holdings의 해양 부문 Blue Ops와 협력 자율화 기술 선도사 Havoc이 전술 자율 해상 시스템 개발을 위한 파트너십 체결<br>• **기술 통합**: Havoc의 협력 자율화 소프트웨어 및 C2 능력을 Blue Ops의 Variant 7 및 추가 무인수상선(USV) 플랫폼에 통합<br>• **개방형 아키텍처**: Blue Ops의 모듈형 개방형 시스템 아키텍처(MOSA) 기반으로 빠른 자율성, 센서, 통신 기술 통합 가능<br>• **운영 거점 구축**: 플로리다와 로드아일랜드에 통합 시스템의 실전 평가, 테스트, 훈련용 운영 함대 배치 계획<br>• **다중 함선 작전**: 단일 함선 자율화뿐 아니라 다수 함선 간 조율된 작전 능력 확보로 미국 및 동맹군 고객에 유연성 제공</p><h3>Key Quotes</h3><br>• "This partnership is exactly what our open-architecture strategy was built for. Our goal is to build the best small USVs in the world while making it easy to integrate leading technologies from across the U.S. and our allies." (Blue Ops의 개방형 아키텍처 전략 목표를 실현하는 파트너십으로, 세계 최고의 소형 무인수상선 개발과 미국 및 동맹국 기술의 쉬운 통합을 추구)</p><p>• "Havoc's primary strategy is to pair our leading-edge collaborative autonomy software with platform manufacturers who have already proven innovation, excellence, and scale." (Havoc의 협력 자율화 소프트웨어를 혁신성과 우수성을 입증한 플랫폼 제조사와 결합하는 전략)</p><h3>Technical Insights</h3><br>• **협력 자율화(Collaborative Autonomy)**: 단일 함선 자율 항법을 넘어 다중 무인수상선 간의 조율된 작전 능력을 실현하며, 이는 COLREG 및 IMO 자율선박 규정 논의에서 요구하는 고도의 의사결정 체계 구현을 의미<br>• **개방형 시스템 아키텍처**: MOSA 기반 플랫폼은 기술 표준화 부재 속에서 다양한 센서/무기 체계 신속 통합을 가능하게 하며, 향후 방위산업 자율 플랫폼 표준화 논의의 선례 제시<br>• **국방 자율화의 실용화**: 미국 국방부 실제 운영 경험을 바탕으로 협력 자율화 기술을 검증했으며, 이는 민간 해운의 자율선박 도입 시 신뢰성 강화에 기여할 수 있는 기술 성숙도 달성<br>• **산업 생태계 확장**: 플랫폼 제조사와 소프트웨어 개발사의 협력 모델은 향후 자율해상 시스템 시장의 산업 구조 정착 및 국제 경쟁력 확보의 핵심 경로 제시</p></div>`,
+      tags: ["autonomous vessels","USV","collaborative autonomy","defense technology","open architecture"],
+      link: "https://www.navalnews.com/naval-news/2026/08/blue-ops-and-havoc-partner-to-develop-open-architecture-autonomous-maritime-defense-systems/",
+      coords: [-80.1918,25.7617],
+      location: "Florida/Rhode Island, USA"
+    },
+    {
+      type: "news",
+      title: "Seaglider drone Squire tested in Michigan military exercise",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-08-18",
+      image: "https://defence-blog.com/wp-content/uploads/2026/08/DB_image_2228-1.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• REGENT Craft의 자율운항 Seaglider 드론 'Squire'가 미시간에서 실시된 Silent Swarm 군사 훈련(7월 13-24일)에 참여하여 전자전 및 무인 시스템 운용 능력을 시연했음<br>• 미 해군, 공군, 육군, 해병대 및 해안경비대 등 다양한 군종 및 NOAA 등 민간 기관이 참여한 대규모 다영역 무인시스템 훈련<br>• Squire는 시간 유지 고도 비행 특성으로 레이더 탐지를 회피하며 최고 속도 70노트, 운용 범위 100해리 이상, 50파운드 탑재 능력을 보유<br>• 전자공격, 전자방호, 전자전 지원 역할 등 다양한 임무 타입에서 가변형 탑재체를 운용하며 수색구조, 대잠전 등의 활용이 가능<br>• Admiral William Moran(미 해군 전 부작전사령관)은 Squire가 "전장의 속도로 전개되는 프로그램"이라고 평가하며 방위체계의 즉각적 필요성을 강조<br>• 4월 첫 비행 이후 해병대 전투실험실과의 실제 구조·물류 임무 완료로 운용 준비 단계를 입증</p><h3>Key Quotes</h3><br>• "Silent Swarm gave us the chance to show key defense stakeholders exactly what our autonomous Seaglider drone, Squire, can do in an operationally relevant setting" (Silent Swarm 훈련을 통해 방위 부문 주요 의사결정자들에게 자율운항 Seaglider 드론의 실전 운용 능력을 직접 증명할 수 있었음)<br>• "Squire's performance at Silent Swarm demonstrates a program moving at the speed our warfighters need. This is exactly the kind of capability and urgency the defense community should be paying attention to." (Silent Swarm에서의 Squire 성능은 전투 인력이 필요로 하는 속도로 전개되는 프로그램을 입증하며, 이는 방위 커뮤니티가 주목해야 할 능력과 긴급성을 보여줌)</p><h3>Technical Insights</h3><br>• **Wing-in-Ground-Effect(WIG) 기술의 군사적 적용**: Squire는 수면 상방 1 익폭 높이에서 비행하여 지표면 레이더 탐지를 회피할 수 있으며, 이는 기존 무인기의 탐지 회피 능력과 상이한 운용 개념을 제시하는 신기술<br>• **다영역 무인시스템(Multi-Domain Uncrewed Systems) 통합 운용**: 전자전 스펙트럼 작전에서 레이더, 통신, 항법, 적외선 및 지향성 에너지 등 다양한 감지·공격 수단과의 협력 운용으로 군사 효율성 극대화<br>• **빠른 전력화 속도와 실전 검증**: 1차 시험비행(4월)에서 13일간의 대규모 군사 훈련 참여까지 불과 3개월 만에 이루어져 방위체계의 신속한 요구 대응 패러다임 전환을 의미<br>• **IMO 자율선박 기준과의 거리**: 본 시스템은 군사용 무인기로서 국제 해사 규정 적용 범위 외이나, 민간 해운의 자율운항 기술 발전에 참고할 수 있는 실시간 의사결정 및 전자전 환경 대응 능력 시사점 제공</p></div>`,
+      tags: ["autonomous drone","military exercise","electronic warfare","uncrewed systems","wing-in-ground-effect"],
+      link: "https://defence-blog.com/seaglider-drone-tested-in-michigan-warfare-exercise/",
+      coords: [-87.7164,45.4231],
+      location: "Michigan, USA (Alpena Combat Readiness Training Center)"
+    }
+  ]
+});
