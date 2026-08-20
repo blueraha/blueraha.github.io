@@ -14658,3 +14658,53 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-20
+addEvents({
+  "2026-08-20": [
+    {
+      type: "accident",
+      title: "Somali Piracy Activity Hits 10-Year High with 13 Incidents in 2026",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-20",
+      image: "https://images.marinelink.com/images/maritime/w800/source-danish-173101.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 소말리아 인근 해역의 해적 사건이 10년 만에 최고조에 도달했으며, 2026년 1월~7월 동안 이미 13건의 사건이 발생함<br>• ICC 국제해사국(IMB)과 덴마크 해운협회(Danish Shipping)의 분석에 따르면, 2024년 8건, 2025년 5건에서 급격한 증가 추세를 보임<br>• 2009~2011년 연 200건 이상의 극성기와 비교하면 낮지만, 지역 내 조직화된 해적 활동의 재활성화를 시사함<br>• 소말리아의 가뭄, 불법 어로, 경제적 어려움, 약한 정부 구조와 지역 해양 보안 상황 변화가 주요 원인으로 분석됨<br>• 해적 집단들은 어업 선박을 모선으로 활용하여 원거리 공격을 수행하는 전술을 지속적으로 개선 중<br>• EU 해군 작전 '오페레이션 아탈란타(Operation Atalanta)'는 다수의 해적 집단이 조직화된 작전 능력을 시연하고 있다고 평가</p><h3>Key Quotes</h3><p>• "Of course, I am concerned when I see that the number of piracy-related incidents off Somalia is rising. It brings back unpleasant memories. However, it is worth highlighting that vessels which follow the international Best Management Practices recommendations are generally far less vulnerable to pirate attacks."<br>(소말리아 인근 해적 사건의 증가에 대해 우려를 표하며, 국제 모범 관행을 따르는 선박이 해적 공격에 훨씬 덜 취약하다는 점을 강조)</p><p>• "There is no doubt that the development is being driven by a complex interplay of a wide range of internal and external factors. Within Somalia, challenges such as drought, illegal fishing, economic hardship and weak government structures may be contributing to making piracy a more attractive 'career path'."<br>(소말리아 내부의 가뭄, 불법 어로, 경제적 어려움, 약한 정부 구조 등이 해적 활동을 더 매력적인 '직업'으로 만들고 있음을 시사)</p><h3>Technical Insights</h3><p>• **해양 보안 정책의 재강화 필요**: 국제 모범 관행(BMP) 준수, 철조망, 접근 통제, 물대포, CCTV 감시 및 무장 경호원 배치 등 다층적 보안 체계 구축이 시급함<br>• **지역 협력과 정보 공유의 중요성**: EU 오페레이션 아탈란타 같은 국제 해군 작전의 지속적 확대와 ICC-IMB 같은 기구의 정보 공유가 해적 활동 감시 및 대응에 필수적<br>• **해적 집단의 고도화된 전술**: 어업 선박을 모선으로 활용한 원거리 공격, 날씨/몬순 조건 대응, 조직화된 다중 집단 작전 등 위협 수준이 상향되고 있으며 운영 범위 확대 추세<br>• **사회경제적 근본 원인 해결**: 소말리아의 빈곤, 약한 정부, 불법 어로 등 근본 원인에 대한 국제 사회의 포괄적 대응이 해적 재활성화 억제에 필수적</p></div>`,
+      tags: ["Piracy","Somalia","Gulf of Aden","Maritime Security","ICC-IMB"],
+      link: "https://www.marinelink.com/news/somali-piracy-activity-hits-year-high-542263",
+      coords: [50.5,8.5],
+      location: "Somalia/Gulf of Aden"
+    }
+  ]
+});
+
+// Auto-collected: 2026-08-19
+addEvents({
+  "2026-08-19": [
+    {
+      type: "news",
+      title: "U.S. Navy invests $50M in Shield AI's runway-free strike drone for naval operations",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-08-19",
+      image: "https://defence-blog.com/wp-content/uploads/2026/08/DB_image_2243.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미 해군 신속 역량실과 국방혁신부(DIU)가 Shield AI의 X-BAT 드론 확장을 위해 5천만 달러 투자 결정 - 활주로 독립형 해상 제압 능력 개발 목표</p><p>• RIMES(Runway Independent Maritime Expeditionary Strike) 프로그램의 일환으로, 항공모함급 비행갑판 없이도 고정익 타격 항공기 운용 가능한 아를레이 버크급 구축함 지원 목표</p><p>• X-BAT는 수직이착륙 제트 항공기로 2,000해리 항정거리, 50,000피트 상승한도, 39피트 날개폭 보유 - 통신단절 환경에서 자율 운영 가능</p><p>• Shield AI의 Hivemind 자율 소프트웨어 기술로 타격, 대공, 전자전, 정보감시정찰(ISR) 임무 수행 가능</p><p>• 2026년 초도 비행 목표, 아를레이 버크급 구축함 배치 타임라인 미공개 - 조달 규모 및 배치 일정 추가 결정 필요</p><h3>Key Quotes</h3><p>• "Airpower without runways is the holy grail of deterrence. It gives our forces persistence, reach and survivability, and it buys diplomacy another day." (활주로 없는 공중력은 억제력의 핵심이다. 우리 군에 지속성, 사거리, 생존성을 제공하고 외교에 추가 시간을 준다)</p><p>• The Navy's Arleigh Burke-class destroyers "can land a helicopter but cannot deploy a fixed-wing strike aircraft, a gap the program is intended to close." (아를레이 버크급 구축함은 헬기는 착륙 가능하지만 고정익 타격 항공기 배치가 불가능한 격차를 메우는 것이 프로그램 목표)</p><h3>Technical Insights</h3><p>• 자율 무인 항공기의 통신두절 환경 운영 능력은 분쟁 상황에서 의존성 감소 및 작전 자율성 향상의 핵심 - IMO 해상 자율성 기준과 국방 자율화의 경계 영역 형성</p><p>• 소형 구축함에서 운영 가능한 타격 드론 시스템은 해군 전력 투사 방식의 패러다임 변화 의미 - 기존 항공모함 중심 구조에서 분산 운영 개념으로 전환</p><p>• X-BAT의 2,000해리 항정거리는 광역 해상 감시 및 대함 타격 능력 혁신 - 자율 운영 기술과 장사거리 운영으로 해상 통제 능력 대폭 강화</p><p>• Shield AI의 V-BAT 소형 무인기가 우크라이나에서 170회 이상 출동한 실적은 자율 시스템의 전장 검증 가능성을 입증하며, 해군 도입 신뢰도 제고</p></div>`,
+      tags: ["autonomous systems","unmanned aircraft","naval technology","RIMES program","Shield AI X-BAT"],
+      link: "https://defence-blog.com/u-s-navy-invests-50m-in-shield-ais-runway-free-strike-drone/",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "UK Autonomous Vessel 'The Lady of the Lake' Joins NATO Exercise REPMUS",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-08-19",
+      image: "https://defence-blog.com/wp-content/uploads/2026/08/DB_image_2233.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• ZeroUSV의 첫 번째 Oceanus17급 무인수상선박 'The Lady of the Lake'가 포르투갈의 NATO REPMUS 훈련에 참여하기 위해 배치 예정</p><p>• 선박은 Manor Marine의 Portland 조선소에서 건조되었으며, 4,000kg의 탑재량, 50일 이상의 임무 지속력, 최대 15노트의 속도를 보유</p><p>• MarineAI의 GuardianAI 자율항법 소프트웨어를 탑재하여 4단계 자율 네비게이션 기능 구현</p><p>• 이중 중복 엔지니어링 시스템으로 단일 장애점 제거 및 다중 통신 채널(Starlink, 4G/5G, Iridium) 통합</p><p>• 더 작은 Oceanus12 선박은 이미 영국 해군 시험에 참여했으며 최초로 Teledyne Slocum 글라이더 자동 발사/회수 시연</p><h3>Key Quotes</h3><p>• "Just over one year ago we launched the first of our Oceanus12 USV's, and today, with the first Oceanus17 USV officially named, we've demonstrated our ability to design, build, and deliver successive generations of world-class autonomous vessels in just over six months" (1년 전 Oceanus12 무인선박 출시 후 현재 6개월 내 차세대 Oceanus17을 설계·건조·인도할 수 있음을 입증)</p><p>• "The Oceanus 17, the Lady of the Lake, is a remarkable achievement by British innovators. Her ability to operate independently, endure extended missions, and perform multiple roles across the maritime domains embody the qualities we need in our defence, and commercial maritime capabilities." (독립적 운영, 장기 임무 지속력, 다중 해양 역할 수행 능력이 방위 및 상용 해양 능력에 필수적)</p><h3>Technical Insights</h3><p>• MarineAI의 GuardianAI 자율항법 소프트웨어로 IMO 자율선박 국제규정의 4단계(fully autonomous) 수준을 달성하여 인간의 개입 없이 독립적 운영 가능</p><p>• X-band 레이더, HD 카메라, AIS, 다중 위성 통신(Starlink Marine, Iridium) 통합으로 COLREG 준수 및 공해상 안전 항해 능력 강화</p><p>• 무인선박의 탑재량 4,000kg 및 50일 이상 임무 지속력은 ISR, 해양 조사, 방어 작전 등 광범위한 군사·상용 응용 분야 확대를 의미</p><p>• 영국의 자율 무인선박 개발이 NATO 훈련 참여를 통해 국제 해양 방위 표준 강화 및 무인 플랫폼 상호운용성 기술 발전에 기여</p></div>`,
+      tags: ["autonomous vessels","unmanned surface vehicles","NATO exercises","UK defense","maritime AI"],
+      link: "https://defence-blog.com/new-uk-autonomous-vessel-to-join-nato-exercise/",
+      coords: [-4.1481,50.3755],
+      location: "Plymouth, UK"
+    }
+  ]
+});
