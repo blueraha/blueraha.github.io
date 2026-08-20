@@ -14708,3 +14708,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-19
+addEvents({
+  "2026-08-19": [
+    {
+      type: "news",
+      title: "Arabian Drilling's offshore rigs cleared to resume operations, targeting 100% utilization by Q3 2026",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-08-19",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2024/04/AD140-jack-up-rig-Source-Arabian-Drilling.jpg?image-crop-positioner-ts=1712303765",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 아라비아 드릴링(Arabian Drilling)이 중단되었던 모든 해양 시추 장비의 운영 재개 승인을 받았으며, 2026년 3분기 말까지 해양 함대의 가동률을 100%까지 달성할 계획<br>• 사우디아라비아 최대 규모의 해상 및 해양 시추 계약업체가 중동 지역 상황에 대한 예방 조치로 올해 초에 시추 장비를 일시 중단했던 상황에서 회복<br>• 지난 한 달 전 3개 시추 장비의 운영 재개가 먼저 승인되었으며, 이번 추가 승인으로 전체 함대 복귀 가능<br>• CEO 파하드 알바니(Fahad Albani)는 이를 "아라비아 드릴링의 중요한 이정표"라고 평가하고 해양 부문 전망에 대한 확신 표현<br>• 해양 시추 시장의 지속적인 회복 추세를 반영하며, ADES 등 다른 사우디 기업들도 유사한 운영 재개 승인을 받은 상황</p><h3>Key Quotes</h3><p>• "The return of these rigs is a significant milestone for Arabian Drilling and reinforces our confidence in the outlook for the offshore segment." (이러한 시추 장비들의 복귀는 아라비아 드릴링에 있어 중요한 성과이며, 해양 부문 전망에 대한 우리의 신뢰를 강화시킨다)</p><p>• "As our activity continues to improve, we remain committed to maintaining the highest standards of safety, operational performance and service quality, while delivering sustainable growth and long-term value for all our stakeholders." (사업 활동이 계속 개선되고 있는 가운데, 우리는 안전, 운영 성능, 서비스 품질의 최고 기준을 유지하면서 모든 이해관계자를 위한 지속 가능한 성장과 장기적 가치를 제공하겠다)</p><h3>Technical Insights</h3><p>• 해양 시추 산업의 경기 회복 추세가 명확해지고 있으며, 이는 유가 회복과 중동 지역의 에너지 수요 증가를 반영하는 지표로 해석됨<br>• 예방적 운영 중단(precautionary suspension)이 해양 산업의 안정화 신호로 전환되었으며, 이는 시장 변동성에 대한 효율적 대응 전략의 사례<br>• 사우디아라비아의 주요 해양 시추 업체들의 동시다발적 운영 재개는 국가 차원의 에너지 산업 회복 계획과 연계된 정책적 결정으로 분석됨</p></div>`,
+      tags: ["Arabian Drilling","offshore drilling","rig operations","Saudi Arabia"],
+      link: "https://www.offshore-energy.biz/all-arabian-drillings-offshore-rigs-set-to-return-to-work-by-quarter-end/",
+      coords: [46.6753,24.7136],
+      location: "Saudi Arabia"
+    },
+    {
+      type: "news",
+      title: "Finland's Aino Icebreaker Contract Awarded to Helsinki Shipyard",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-19",
+      image: "https://images.marinelink.com/images/maritime/w800/credit-railotech-173099.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 핀란드 교통인프라청이 헬싱키 조선소에 신형 쇄빙선 아이노(Aino) 건조를 발주하며 핀란드의 새로운 세대 쇄빙선 함대 구축 시작<br>• 2027년 건조 개시, 2029년 완공 예정으로 발틱해의 연중 해상 교통로 유지 담당<br>• B+ 등급 쇄빙선으로 25m 쇄빙 채널 개설 능력, 96m 길이, 24m 폭, 10.5MW 추진력 보유<br>• 헬싱키 조선소는 전체 건조 및 조립 담당, 포리의 사타 조선소(산하사)가 강재 생산 및 블록 건조 담당<br>• 헬싱키 조선소는 지난 25년간 핀란드에서 건조된 모든 쇄빙선과 현재 운영 중인 전 세계 쇄빙선의 약 50% 건조 기록 보유<br>• 아이노는 1954년부터 운영 중인 보이마(Voima) 쇄빙선의 후속선으로 최신 선체 설계 및 직선축 추진 구성 적용</p><h3>Key Quotes</h3><p>• "Helsinki Shipyard has an exceptionally long history of designing and building icebreakers. Every icebreaker built in Finland in the past 25 years, as well as around half of the icebreakers currently in operation worldwide, were built in Helsinki." (헬싱키 조선소는 쇄빙선 설계 및 건조에 탁월한 역사를 보유하고 있으며, 지난 25년간 핀란드에서 건조된 모든 쇄빙선과 현재 운영 중인 전 세계 쇄빙선의 약 50%를 건조했다.)</p><p>• "Aino combines powerful icebreaking capability, excellent open-water performance and controlled life-cycle costs." (아이노는 강력한 쇄빙 능력, 우수한 외해 성능, 그리고 통제된 생명주기 비용을 결합했다.)</p><h3>Technical Insights</h3><p>• B+ 등급 쇄빙선의 10.5MW 추진력과 직선축 추진 시스템 및 선수 장착형 방향 전환 추진기(azimuthing thruster) 조합은 현대식 쇄빙선 설계의 최신 기술 표준을 반영<br>• 2029년 완공 예정으로 핀란드의 발틱해 연중 운영 체계 유지 강화, 북극 해상 교통로 개발 트렌드와 부합하는 전략적 투자<br>• 헬싱키와 포리 조선소의 통합 조선 플랫폼 구축(설계-강재 생산-블록 건조-조립 전 가치사슬 커버)으로 쇄빙선 건조 경쟁력 강화 및 국제 수주 시장 선도 가능성 증대</p></div>`,
+      tags: ["icebreaker","shipbuilding","Finland","Helsinki Shipyard"],
+      link: "https://www.marinelink.com/news/finlands-aino-icebreaker-built-helsinki-542259",
+      coords: [25.7482,60.1695],
+      location: "Helsinki, Finland"
+    },
+    {
+      type: "news",
+      title: "South Korean Container Ship Tests Arctic Route via Northern Sea Route",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-19",
+      image: "https://images.marinelink.com/images/maritime/w800/andrei-stepanov-173096.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 남한의 컨테이너선 PanStar Acro가 러시아 협력을 통해 북극해 항로(Northern Sea Route, NSR)를 통한 유럽 항해를 시도하며, 이는 남한 최초의 상업 항로 개척 사례임</p><p>• 부산에서 출발하여 펠릭스토우(영국), 로테르담(네덜란드), 그단스크(폴란드)를 거쳐 40~45일 일정의 항해 계획이며, 전통적 수에즈 운하 항로 대비 최대 35% 항해 시간 단축 가능</p><p>• 이레 대통령 정부가 북극해 운송을 2030년까지 정규 무역로로 확립하려는 전략적 우선순위로 추진 중이며, 부산항의 글로벌 해양 허브화를 목표</p><p>• 서방 외교관들이 우크라이나 전쟁으로 인한 러시아 제재 정책과 상충된다며 강한 반발을 표시하고 있으며, 제재 위반 위험성 지적</p><p>• 지구 온난화로 인한 북극 해빙 가속화로 NSR 운항이 가능해졌으며, 작년 88개 선박의 103회 통항 기록(2022년 43회 대비 급증)</p><h3>Key Quotes</h3><p>• "Around September, when this voyage will mainly take place, Arctic sea ice is at its lowest level of the year, making safer navigation possible" (이 항해가 진행되는 9월경 북극 해빙이 연중 최저 수준이 되어 더 안전한 항해가 가능하다)</p><p>• "We want to isolate Russia, we don't want engagement with Russia" (러시아를 고립시키고 싶으며, 러시아와의 관여를 원하지 않는다 - 우크라이나 전쟁 맥락)</p><p>• "We cannot use the NSR year-round" (북극해 항로는 연중 운영할 수 없으며 여름 3개월만 컨테이너선 통항 가능)</p><h3>Technical Insights</h3><p>• **북극해 항로의 상업적 실현성**: NSR은 수에즈 운하 항로 대비 연료 소비 감소와 항해 시간 단축(최대 35%)이라는 경제적 이점이 있으나, 선박 크기 제한, 높은 보험료, 계절 제약(3개월 제한) 등으로 인한 단위 운송 비용 증가 문제가 존재</p><p>• **국제 관계와 해운 정책의 충돌**: 러시아 제재 정책과 북극해 운송 협력의 지정학적 긴장 관계가 발생하고 있으며, 제재 위반 위험성으로 인해 남한의 신중한 정책 추진 필요</p><p>• **해빙 가속화에 따른 운항 확대**: 지구 온난화로 NSR의 접근성이 향상되고 있으며, 러시아·중국 중심에서 벗어나 남한, 일본 등 신규 해운 국가들의 진출 가능성 증대</p><p>• **IMO 및 극지 항해 규정 적용**: 북극해의 증가하는 상업 운항에 따라 극지 항해 안전 기준(Polar Code), 국제 해상충돌방지규칙(COLREG) 적용 및 환경보호 기준의 강화 필요</p></div>`,
+      tags: ["Arctic shipping","Northern Sea Route","Container shipping","South Korea","Geopolitics","Climate change"],
+      link: "https://www.marinelink.com/news/south-korean-container-ship-test-arctic-542255",
+      coords: [129.0756,35.0996],
+      location: "Busan, South Korea"
+    }
+  ]
+});
