@@ -14814,3 +14814,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-21
+addEvents({
+  "2026-08-21": [
+    {
+      type: "news",
+      title: "Ships Trickle Through Strait of Hormuz Amid U.S.-Iran Peace Talk Stalemate",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-21",
+      image: "https://images.marinelink.com/images/maritime/w800/stemmer-adobe-173152.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 호르무즈 해협을 통과한 상선이 지난날 14척에서 목요일 7척으로 급감했으며, 이는 중동 해역의 지정학적 위험이 고조되고 있음을 시사<br>• 미-이란 평화협상이 교착 상태에 빠진 가운데 해협을 통과하는 선박 중 초대형유조선(VLCC)과 LNG 탱커가 완전히 부재<br>• 전쟁 개시 이전 전 지구적 원유·LNG 해상운송량의 약 1/5이 호르무즈 해협을 통과했으나 현재 운송량이 대폭 감소<br>• 바브엘만데브 해협 역시 목요일 23척의 상선이 통과하여 지난 이틀간의 34척과 비교했을 때 현저한 감소 추세<br>• 트랜스폰더 미작동 선박은 추적 데이터에 미포함되어 실제 통과 선박이 더 많을 가능성 존재</p><h3>Key Quotes</h3><p>• "Seven commodity ships sailed along the Strait of Hormuz on Thursday, just half the previous day's tally, showed data from shiptracker Kpler" (선박추적업체 클플러의 데이터에 따르면 목요일 호르무즈 해협을 항해한 상선이 7척으로 지난날 14척의 절반 수준)</p><p>• "the waterway, which was used by nearly a fifth of global shipments of crude oil and liquefied natural gas before war began in February" (호르무즈 해협은 2월 전쟁 개시 이전 전 지구적 원유 및 LNG 해상운송량의 약 1/5을 담당하던 주요 해로)</p><h3>Technical Insights</h3><p>• 호르무즈 해협과 바브엘만데브 해협의 통행량 급감은 해상 교통 보안 및 선박 경로 재설정의 중요성을 강조하며, 해운업계의 공급망 리스크 관리 체계 고도화 필요<br>• 지정학적 위기 상황에서 VLCC와 LNG 탱커 같은 대형 위험물 운송선의 운항 회피는 국제 해상법(UNCLOS)과 해상교통안전법에 따른 선박 운영자의 위험회피 의무를 반영<br>• 트랜스폰더 비활성화 선박의 증가는 AIS(자동식별장치) 기반 해상감시 체계의 한계를 드러내며, 자율항해 및 AI 기반 선박감시 기술의 도입 필요성 심화</p></div>`,
+      tags: ["Strait of Hormuz","Geopolitical Risk","Shipping Traffic","Middle East"],
+      link: "https://www.marinelink.com/news/ships-trickle-strait-hormuz-542325",
+      coords: [56.55,26.55],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
+
+// Auto-collected: 2026-08-20
+addEvents({
+  "2026-08-20": [
+    {
+      type: "news",
+      title: "Houston Ship Channel Trade Tonnage Climbs 16% YTD",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-20",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stock-173141.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 휴스턴 항구 지역의 올해 상반기(6월 기준) 교역량이 전년도 대비 16% 증가했으며, 수출이 22% 증가한 반면 수입은 4% 감소<br>• 포트 휴스턴(Port Houston)이 7월까지 약 260만 TEU를 처리했으며 전년도 대비 1% 증가, 적재 컨테이너 수입은 5% 증가<br>• 동아시아 지역이 적재 컨테이너 수입 성장을 주도하여 전년도 대비 10% 증가하고 총 수입량의 57% 차지<br>• 일반 화물(General Cargo) 톤수가 35% 증가한 반면 철강 물량은 18% 감소하여 교역 흐름의 변화를 반영<br>• CEO Charlie Jenkins는 "국가 최대 수로의 선박 활동 증가와 꾸준한 화물 이동이 에너지, 제조, 소매 등 국가 경제의 중추 산업을 견인하고 있다"고 평가</p><h3>Key Quotes</h3><p>• "Our region remains resilient through evolving global trade conditions. Vessel activity in the nation's busiest waterway is up, and we continue to see steady cargo movement that helps power industries like energy, manufacturing and retail, crucial to our national economy" (우리 지역은 진화하는 글로벌 교역 환경 속에서도 복원력을 유지하고 있으며, 미국 최고 수로의 선박 활동이 증가하고 있으며 국가 경제의 핵심인 에너지, 제조, 소매 산업을 견인하는 꾸준한 화물 이동이 계속되고 있다)</p><h3>Technical Insights</h3><p>• 미국 최대 규모의 휴스턴 항구의 컨테이너 처리량 증가는 북미 교역 회복력과 동아시아(특히 중국) 공급망 재편을 시사<br>• 초기 선적(frontloading)에 따른 수입량 급증 후 성장이 둔화되는 추세는 선사들의 운영 전략 변화와 해운 수요 변동성을 반영<br>• 동아시아로부터의 수입품(의류, 수지·플라스틱, 기계·전자제품)의 10% 증가는 온쇼링(onshoring) 경향 속에서도 지역 공급망 의존도가 높음을 시사</p></div>`,
+      tags: ["Port Operations","Trade Statistics","Container Shipping","Houston Ship Channel"],
+      link: "https://www.marinelink.com/news/houston-ship-channel-trade-tonnage-climbs-542314",
+      coords: [-95.3677,29.7604],
+      location: "Houston, Texas"
+    }
+  ]
+});
