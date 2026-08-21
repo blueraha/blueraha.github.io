@@ -14752,3 +14752,65 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2025-12-20
+addEvents({
+  "2025-12-20": [
+    {
+      type: "accident",
+      title: "Man overboard from lone-operated creel fishing vessel Sea Eagle (AH18) - presumed fatality",
+      source: "MAIB (Marine Accident Investigation Branch)",
+      sourceMeta: "gov.uk · 2026-08-20",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 2025년 12월 20일 영국 등록 소형 갈고리 어선 Sea Eagle(AH18)이 스코틀랜드 인버베르비 해변에서 좌초되었으며, 단독 조종 선장이 실종되어 익사한 것으로 추정됨</p><p>• **선박 및 인물**: 영국 등록 갈고리 어선 Sea Eagle, 선장은 1인 단독 조종 상태로 2개의 갈고리 줄을 관리 중이었음</p><p>• **사고 원인**: 정확한 원인 규명 불가능하나, 다중 갈고리 줄 작업 중 어구와의 상호작용으로 인한 낙수 가능성이 높음</p><p>• **사망 원인**: 냉수 저체온증 및 개인용 부양장치 미착용, 단독 조종 상황에서 재승선 기회 부재로 인한 익사</p><p>• **구조 작업**: 광범위한 수색구조작업(SAR) 실시되었으나 선장 발견 실패, 선박은 무인 상태로 좌초</p><p>• **산업적 시사점**: 단독 어선 조종의 안전 위험 및 낙수 후 자체 구조의 어려움이 명확히 드러남</p><h3>Key Quotes</h3><p>• "The investigation was unable to determine how the skipper entered the water. However, evidence indicated that he was working two strings of creels at the time, increasing the likelihood of interaction with the fishing gear leading to man overboard." <br>(수사팀은 선장이 어떻게 물에 빠졌는지 정확히 파악할 수 없었으나, 당시 2개의 갈고리 줄을 조종 중이었으며 어구와의 상호작용으로 인한 낙수 가능성이 높다는 증거가 있음)</p><p>• "While the exact accident mechanism is unknown, there would have been little opportunity to reboard the vessel once a man overboard had occurred. The effects of cold water incapacitation and, potentially, not wearing a personal flotation device made it likely that the skipper drowned."<br>(정확한 사고 메커니즘은 불명이나, 낙수 후 재승선 기회가 거의 없었으며, 냉수 저체온증과 부양장치 미착용으로 인해 익사가 불가피했을 것으로 판단됨)</p><h3>Technical Insights</h3><p>• **단독 조종 어선의 위험성**: 1인 조종 상황에서 낙수 발생 시 자체 구조 불가능하며, 특히 다중 어구 작업 시 어구 감기(entanglement) 위험이 급증하는 구조적 문제 존재</p><p>• **개인용 부양장치(PFD) 미착용의 치명성**: 냉수 환경(스코틀랜드 해역)에서 저체온증에 의한 신체 기능 마비 시간 단축으로 생존 가능성이 급격히 감소 - IMO 및 해사 안전 가이드라인의 강제 이행 필요</p><p>• **어구 관리 절차의 표준화 부재**: 갈고리 줄 스택 방식이 낙수 위험을 증가시키는 점이 명시되었으나, 산업 내 표준화된 위험 저감 지침의 인식 및 실행 부족</p><p>• **반복되는 사고 패턴**: MAIB의 이전 조사 보고서들과 유사한 소견이 반복되고 있으나 신규 권고사항이 없다는 점은 기존 지침의 실행률 문제를 시사 - 규제 강화 및 감시체계 개선 필요</p></div>`,
+      tags: ["man overboard","fishing vessel","lone operation","fatality","Scotland"],
+      link: "https://www.gov.uk/maib-reports/man-overboard-from-the-lone-operated-creel-fishing-vessel-sea-eagle-ah18-resulting-in-one-presumed-fatality",
+      coords: [-2.3,56.8],
+      location: "Inverbervie Beach, near Montrose, Scotland"
+    }
+  ]
+});
+
+// Auto-collected: 2026-08-20
+addEvents({
+  "2026-08-20": [
+    {
+      type: "accident",
+      title: "Romanian Fighter Jets Destroy Explosive-Laden Marine Drone Near Neptun Deep Gas Project",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-20",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockolinchuk-173128.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 루마니아 F-16 전투기가 흑해 가스 프로젝트인 넵툰 딥(Neptun Deep) 근처에서 발견된 해양 드론을 격추 - 드론에는 폭발물 탑재<br>• 루마니아 국방부 장관 라두 미루타(Radu Miruta)가 플랫폼의 수백 명 작업자 및 중요 에너지 인프라 보호 위해 드론 파괴 결정 발표<br>• 2026년 8월 초 이후 군 다이버들이 같은 지역에서 게르베라형(Gerbera-type) 드론 2개 추가 파괴<br>• 우크라이나는 해당 드론이 자신들 소속이 아님을 확인했으며, 루마니아 대통령은 러시아 책임 비난<br>• 넵툰 딥은 2027년 가동 예정이며 완성되면 EU 최대 가스 생산국으로 루마니아 위상 상승 예상</p><h3>Key Quotes</h3><p>• "In order to protect the lives of the several hundred people working on the platform and to secure critical infrastructure, the decision was made to destroy (the marine drone)." - Defence Minister Radu Miruta<br>  (플랫폼에서 근무하는 수백 명의 인원 생명 보호와 중요 인프라 보안을 위해 해양 드론 파괴 결정이 내려졌다는 의미)</p><p>• "I strongly condemn the intensification of these types of irresponsible incidents on the part of the Russian Federation. We remain vigilant alongside NATO allies to defend ourselves and repel such challenges." - President Nicusor Dan<br>  (러시아 연방의 이러한 무책임한 사건의 심화를 강력히 규탄하며, NATO 동맹국들과 함께 경계를 유지하겠다는 의도)</p><h3>Technical Insights</h3><p>• 흑해 해양 드론 위협의 증가는 자율운항선박(ASV) 및 해양 로봇 시스템의 보안 취약성을 노출 - IMO와 NATO는 민간 해양 인프라 보호를 위한 새로운 규제 프레임워크 필요성 대두<br>• 드론 탐지 및 대응 체계의 자동화 필요성 강조 - AI 기반 해양 감시 시스템 도입으로 위협 조기 감지 및 실시간 대응 능력 고도화 필수<br>• 루마니아, 불가리아, 터키가 운영하는 해상 지뢰 제거 태스크포스의 확대는 COLREG 및 해양 안전 규칙 재정의 필요성 시사 - 에너지 인프라 보호 미션 포함으로 새로운 해양 안보 패러다임 형성</p></div>`,
+      tags: ["marine drone","Black Sea","critical infrastructure","Russia-Ukraine conflict","maritime security"],
+      link: "https://www.marinelink.com/news/romanian-fighter-jets-destroy-marine-542301",
+      coords: [29.5,43.8],
+      location: "Neptun Deep, Black Sea, Romania"
+    },
+    {
+      type: "news",
+      title: "Lockheed Martin and Saildrone Successfully Fire JAGM Missile from Unmanned Surface Vehicle during RIMPAC Exercise",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-08-20",
+      image: "https://defence-blog.com/wp-content/uploads/2026/08/DB_image_2259.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Saildrone의 무인 수상함선(USV)이 로크히드마틴의 JAGM 미사일을 발사하는데 성공했으며, 이는 세일드론 플랫폼에서 처음 실행한 미사일 발사 사례임<br>• 미국 해군의 림팩(RIMPAC) 훈련 중 하와이 인근에서 USS Theodore Roosevelt 항모전단과 협력하여 수행되었으며, 6개월간의 공동개발 결과물<br>• 세일드론 서베이어 USV와 로크히드마틴의 센서 및 효과기(Sensors, Effectors and Mission Systems) 통합 시연<br>• 모든 발사 결정은 인간의 통제 하에 있으며, 자율 무기 시스템이 아님을 명시<br>• 향후 더 큰 플랫폼인 세일드론 스펙터(52미터)에 Mk70 발사기 및 대잠전 견인 배열(towed arrays) 탑재 계획<br>• 해양 감시정찰(ISR), 심해 지도제작, 장기체류 전력투사 임무에 활용되는 멀티미션 플랫폼의 군사적 응용 확대</p><h3>Key Quotes</h3><p>• "This successful live fire demonstration was the result of pairing one of the most tried and trusted munitions with the most operationally deployed class of USV on the planet" (가장 신뢰할 수 있는 탄약과 가장 많이 운용 중인 무인 수상함선 클래스를 결합한 결과)</p><p>• "Any decision to fire remains under human control, according to Saildrone; the company said the demonstration does not involve autonomous weapons" (모든 발사 결정은 인간의 통제 하에 있으며 자율 무기 시스템이 아님을 강조)</p><p>• "Lockheed Martin and Saildrone are leading the way to act differently and leverage the strength of all of industry for our national defense" (무인 수상함선과 미사일의 통합으로 국방 역량 강화)</p><h3>Technical Insights</h3><p>• **무인 수상함선의 군사화 추세**: 상용 해양 감시정찰 플랫폼이 전투 능력(kinetic capability)을 갖춘 무기 플랫폼으로 전환되는 추세이며, 이는 해상 전력 구성의 패러다임 변화를 의미함</p><p>• **인간-중심의 제어 체계 준수**: RIMPAC 시연에서 사용된 ARES(Adjunct Remote Engagement System)는 목표 데이터 제공 및 위협 식별 후 발사 결정은 인간이 담당하는 구조로, IMO 및 국제 규범 논의에서 요구되는 'human-in-the-loop' 개념을 실행함</p><p>• **멀티 센서 통합 운영**: 세일드론 USV가 수동 전자전 센서와 함께 MH-60 항공기와 협력하며 복합적 위협 탐지 및 식별을 수행한 점은 네트워크 중심전(Network-Centric Warfare) 실현의 사례임</p><p>• **대형 플랫폼 확장 계획**: 52미터 세일드론 스펙터 플랫폼에 대잠전 견인 배열을 탑재하는 계획은 무인 수상함선의 대양작전 역할 확대를 시사하며, 해상 방위 력 구성에서의 무인화 진전 가속화 예상</p></div>`,
+      tags: ["Unmanned Surface Vehicle","JAGM Missile","Saildrone","Naval Technology","RIMPAC Exercise","Human-Controlled Weapons"],
+      link: "https://defence-blog.com/lockheed-martin-saildrone-fire-jagm-missile-from-unmanned-vessel/",
+      coords: [-157.8,21.3],
+      location: "Hawaii (RIMPAC Exercise Area)"
+    },
+    {
+      type: "news",
+      title: "South Korea develops domestic ROV capability for submarine cable installation",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-08-20",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/08/South-Koreans-make-move-to-cut-foreign-dependence-with-domestic-ROV-capability.jpg?image-crop-positioner-ts=1787211231",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 한국 태환케이블 및 판스타 로보틱스가 MOU를 체결하여 국내 ROV 개발에 협력 - 해외 의존도 감소 목표<br>• 고성능 ROV 트렌처(trencher) 및 해저케이블 매설/보호 기술 개발 - 해상풍력 및 HVDC 초장거리 송전케이블 사업에 활용<br>• 태환케이블, 640kV HVDC 해저케이블 생산 능력을 갖춘 2차 공장 건설 중 - 국내 해저케이블 공급망 강화 추진<br>• 한국 최초 해상풍력용 케이블 부설선(CLV) PALOS에 이어 Skandi Connector 추가 확보<br>• 국가 R&D 프로그램 참여 및 해외시장 개척 병행 - 글로벌 종합솔루션 공급자 지위 강화</p><h3>Key Quotes</h3><p>• "Developing high-performance ROVs domestically for submarine cable installation goes beyond simply developing equipment; it is an important initiative to strengthen the competitiveness of Korea's submarine cable supply chain" (국내 고성능 ROV 개발은 단순 장비 개발을 넘어 한국 해저케이블 공급망의 경쟁력 강화를 위한 중요한 전략)<br>• "We will continue to strengthen competitiveness across the entire submarine cable value chain, contribute to national energy security, and play a key role in the global market as a total solutions provider" (해저케이블 전체 가치사슬의 경쟁력 강화를 통해 국가 에너지 안보에 기여하고 글로벌 시장에서 종합솔루션 공급자로의 역할 수행)</p><h3>Technical Insights</h3><p>• ROV 트렌처 기술의 국산화는 해저케이블 매설 작업의 자동화 및 원격 제어 능력 강화 - 해상풍력 개발의 핵심 인프라 확보<br>• 640kV HVDC 초고압 해저케이블 생산 능력 확보는 장거리 전력 송전 인프라 독립성 강화 - 에너지 자급자족 전략의 일환<br>• CLV(케이블 부설선) 확충을 통한 작업 역량 확대 - 동시 다중 프로젝트 진행 가능성 및 해외 수주 경쟁력 제고<br>• 해외 전문가 의존도 감소로 프로젝트 비용 절감 및 기술 자립도 향상 - 한국 해양에너지 산업의 글로벌 경쟁력 제고</p></div>`,
+      tags: ["ROV","Submarine Cables","South Korea","Autonomous Systems","Offshore Wind"],
+      link: "https://www.offshore-energy.biz/south-koreans-make-move-to-cut-foreign-dependence-with-domestic-rov-capability/",
+      coords: [126.9784,37.5665],
+      location: "South Korea"
+    }
+  ]
+});
