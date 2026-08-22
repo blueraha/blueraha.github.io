@@ -14852,3 +14852,53 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-21
+addEvents({
+  "2026-08-21": [
+    {
+      type: "accident",
+      title: "Somali Piracy Incidents Rising as Naval Forces Stretched Thin Across Regional Conflicts",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-08-21",
+      image: "https://gcaptain.com/wp-content/uploads/2017/04/12052771315_e0d9bb0246_b.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **소말리아 해적 사건 증가**: 2008-2010년 이후 지난 10년 이상 억제되었던 소말리아 해적 공격이 올해 다시 증가하고 있으며, 이번 주에만 2건의 선박 납치 사건 발생</p><p>• **해군 자산 분산**: 예멘 후티 반군의 홍해 공격과 이란 전쟁으로 인한 페르시만 위협으로 인해 지역 해군 자산이 분산되면서 소말리아 해적에게 활동 기회 제공</p><p>• **피해 선박**: 유조선 Sibu 1이 아덴만에서 소말리아로 강제 항해되었고, 카메룬 국적 화물선 Lutuf도 납치됨</p><p>• **국제해사국(IMB) 분석**: IMB 국장 Cyrus Mody는 현재 위험도가 2009-2010년보다는 낮지만, 해군 자산이 다른 위협에 집중되면서 해적 활동이 재개될 가능성 지적</p><p>• **글로벌 해운 영향**: 바벨만디브 해협(Bab el-Mandeb Strait)은 홍해와 아덴만을 연결하는 세계 해운의 중요한 요충지로, 이 지역의 불안정성은 전역 해운에 영향</p><h3>Key Quotes</h3><p>• "While naval assets are in the region, other maritime security threats are taking precedence, due to which opportunity has potentially arisen for the Somali pirates, who had been successfully deterred and disrupted for over a decade" <br>(지역 내 해군 자산이 있음에도 불구하고, 다른 해사 안보 위협이 우선순위를 차지하면서 10년 이상 성공적으로 억제되었던 소말리아 해적에게 활동 기회가 생겼다는 의미)</p><p>• "The risk of attacks off the Somali coast remains much lower than in 2009 and 2010, when attacks frequently occurred far into the Indian Ocean and targeted much larger merchant vessels"<br>(현재 소말리아 연안 공격 위험은 인도양까지 확산되고 대형 상선을 표적으로 삼았던 2009-2010년보다는 낮은 수준)</p><h3>Technical Insights</h3><p>• **해군 자산 분산의 해사 보안 영향**: 다중 지역 분쟁(후티 반군, 이란 전쟁)으로 해군 자산이 분산되면서 전통적 해적 억제 능력 저하 - IMO 협력체계의 효율성 감소</p><p>• **바벨만디브 해협의 전략적 중요성**: 연간 12% 이상의 글로벌 무역이 통과하는 요충지로, 소말리아 해적 부활은 선박의 아프리카 우회 항해 강제 가능성으로 연료비 및 운항 시간 증가 초래</p><p>• **COLREG 및 자선항해의 한계**: 해적 활동 지역에서 자율항해선의 운용 위험 증대 - 무장 공격에 대한 자동 대응 프로토콜 부재로 인한 새로운 규제 필요성 대두</p><p>• **EU NAVFOR ASPIDES 작전의 한계**: 단일 국제 해사 보안 임무의 다중 위협 대응 능력 한계로 인해 지역 해사 안보 협력 체계 개선 필요</p></div>`,
+      tags: ["Piracy","Somalia","Gulf of Aden","Maritime Security","Naval Operations"],
+      link: "https://gcaptain.com/piracy-observer-says-somali-incidents-rising-as-navies-stretched/",
+      coords: [44.8,9.5],
+      location: "Gulf of Aden, Somalia"
+    },
+    {
+      type: "news",
+      title: "Türkiye's MARLIN USV Demonstrates Mine-Laying Capability With MALAMAN Smart Mine",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-08-21",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/08/marlin-malaman.webp",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 터키 해군의 첫 운용 무인 수상정(USV) MARLİN이 MALAMAN 스마트 해저기뢰를 이용한 기뢰 투하 능력을 성공적으로 시연했으며, 이는 무인 플랫폼의 임무 능력을 크게 확대하는 성과</p><p>• SEFİNE 조선소와 ASELSAN이 터키 국방산업청(SSB) 조정 하에 개발한 MARLİN은 기존 대함전(ASuW), 대잠전(ASW), 전자전(EW) 능력에 이어 자율/원격 기뢰 투하 임무 수행 가능</p><p>• MALAMAN 기뢰는 KoçSavunma, MKE, TÜBİTAK SAGE가 개발한 터키산 시스템으로, 5~100m 수심에서 작동하며 압력, 자기, 음향 센서로 목표 탐지 및 분류 수행</p><p>• 무인 플랫폼을 통한 기뢰 투하로 승무원 위험 노출 없이 광범위한 해역 기뢰 배치 가능하며, 원격 조종 및 자율 운용 모드 모두 검증됨</p><p>• 모듈식 페이로드 아키텍처 설계로 MARLİN은 다양한 임무 구성이 가능하며, 향후 NATO 및 국제 해상 작전에서 활용 가능성 제시</p><p>• 잠수함(533mm 어뢰관) 및 상륙함에 이어 무인 플랫폼으로 MALAMAN 배치 수단 다양화로 터키 해군의 기뢰전 능력 현대화</p><h3>Key Quotes</h3><p>• "The platform entered Turkish Navy service as the country's first USV in the naval inventory. It has since been used as a testbed for several mission configurations, including anti-surface warfare (ASuW), anti-submarine warfare (ASW), and electronic warfare (EW)."<br>(이 플랫폼은 터키 해군 최초의 무인 수상정으로 배치되었으며, 대함전, 대잠전, 전자전 등 다양한 임무 구성의 시험대로 활용되어 왔음)</p><p>• "Unlike a submarine or a crewed surface vessel, a USV can be sent to conduct a mine-laying mission without exposing a crew. The remotely controlled and autonomous release tests indicate that the platform's mine mission can be conducted under different levels of operator involvement."<br>(잠수함이나 유인 수상함과 달리 무인 수상정은 승무원 노출 없이 기뢰 투하 임무 수행 가능하며, 원격 조종 및 자율 투하 시험을 통해 다양한 운용 수준에서의 임무 수행 입증)</p><h3>Technical Insights</h3><p>• **자율 기뢰 투하 기술의 군사적 의의**: MARLİN의 자율/원격 기뢰 투하 능력은 무인 수상정이 전술적 자율성을 갖춘 임무 플랫폼으로 진화했음을 의미하며, COLREG 준수와 해역 관리의 새로운 과제 제시</p><p>• **모듈식 무기 통합 플랫폼의 확산**: 기뢰, 대함미사일, 대잠 음향 부표 등 다양한 페이로드 통합 가능한 설계는 향후 미니형 무인함정(Unmanned Combatants)의 표준화를 예고</p><p>• **해협 및 연안 작전의 패러다임 변화**: 에게 해, 지중해 등 전략적 해역에서 무인 기뢰 배치 능력은 해상 봉쇄(Naval Blockade) 수행 방식의 혁신을 가져올 수 있으며, IMO의 자율 해양 시스템 규정 수립의 시급성 증대</p><p>• **NATO 및 국방 산업 협력 강화**: 터키의 자체 개발 USV 및 기뢰 시스템 완성은 동맹군과의 무인 시스템 상호운용성(Interoperability) 협의 필요성을 부각시키며, 향</p></div>`,
+      tags: ["Unmanned Surface Vessel","Mine-Laying","Turkish Navy","MARLIN USV","MALAMAN","Autonomous Operations","Naval Weapons"],
+      link: "https://www.navalnews.com/naval-news/2026/08/turkiyes-marlin-usv-demonstrates-mine-laying-capability-with-malaman/",
+      coords: [35.1264,38.9637],
+      location: "Türkiye"
+    }
+  ]
+});
+
+// Auto-collected: 2025-09-06
+addEvents({
+  "2025-09-06": [
+    {
+      type: "accident",
+      title: "Thamesborg Completes Arctic Northwest Passage After 2025 Grounding Incident",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-08-21",
+      image: "https://gcaptain.com/wp-content/uploads/2025/10/thamesborg-in-Arctic-ice.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 네덜란드 화물선 Thamesborg가 2025년 9월 6일 캐나다 북서통로 Franklin Strait에서 미상의 해저 암초에 좌초되었으며, 외장과 밸러스트 탱크가 손상되고 침수 발생</p><p>• **선박 정보**: Wagenborg 소유의 172m 일반화물선, 중국에서 퀘벡 Baie-Comeau로 운항 중 사고 발생</p><p>• **구난 작업**: 약 1개월간의 대규모 구난 작업으로 5,000톤의 화물을 다른 선박으로 이적하고, 쇄빙선 Botnica의 지원으로 10월 초 재부양 성공</p><p>• **2026년 재항해**: Thamesborg가 2026년 8월 13-18일 동안 북서통로를 안전하게 통과하였으며, 사고 해역에서 수 해리 떨어진 곳을 항해</p><p>• **조사 상태**: 캐나다 교통안전청(TSB)이 사고 원인 조사를 계속 진행 중이며, 아직 정확한 원인 미결정</p><p>• **해역 문제**: Franklin Strait 지역이 해수 측량 데이터 부족 지역으로, 북극항로 항해의 위험성을 부각시킴</p><h3>Key Quotes</h3><p>• "While investigations into the Thamesborg incident are still ongoing, Wagenborg remains fully committed to safe, responsible navigation through the Northwest Passage" (Thamesborg 사건에 대한 조사가 진행 중인 상황에서도 Wagenborg는 북서통로의 안전하고 책임감 있는 항해에 전념하고 있음)</p><p>• "We view every operational challenge as an opportunity to review our procedures, enhance our training, and expand our knowledge base in this delicate environment." (모든 운영상 도전을 절차 검토, 훈련 강화, 북극 환경에 대한 지식 확대의 기회로 봄)</p><h3>Technical Insights</h3><p>• **미상 해저 지형 위험**: Franklin Strait 지역의 제한된 해수 측량 데이터는 북극항로 통항 선박의 안전을 위협하는 주요 요인이며, IMO와 캐나다 당국의 해도 개선 작업이 시급함</p><p>• **AIS 트래킹 비교 분석**: 2025년과 2026년의 AIS 항적 비교를 통해 선박이 좌초 회피를 위해 동쪽으로 더 멀리 항해하는 등 선원의 적응적 항해 양식 변화 확인 가능</p><p>• **북극항로 증가 추세**: 2026년 북서통로 시즌이 활발하며 여러 원양 탐사선들이 운항 중으로, 북극항로의 상업적 중요성 증대에 따른 항해 안전 기준 강화 필요성 대두</p><p>• **구난 기술 발전**: 쇄빙선 지원, 화물 이적, 밸러스트 탱크 배수 등의 복합적 구난 기술 활용으로 극지 원격 지역에서의 효율적 인양이 가능함을 입증</p></div>`,
+      tags: ["grounding","Northwest Passage","Arctic navigation","salvage operation"],
+      link: "https://gcaptain.com/thamesborg-completes-arctic-northwest-passage-after-last-years-grounding/",
+      coords: [-95.7129,68.5636],
+      location: "Franklin Strait, Canadian Arctic"
+    }
+  ]
+});
