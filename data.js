@@ -14902,3 +14902,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-21
+addEvents({
+  "2026-08-21": [
+    {
+      type: "news",
+      title: "HydroComp Releases PropCad 2026 with Enhanced CAD Import and 3D Modeling Tools",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-21",
+      image: "https://images.marinelink.com/images/maritime/w800/credit-hydrocomp-173161.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• HydroComp는 선박 프로펠러 설계자 및 제조업체를 위한 PropCad 2026을 출시했으며, 프로펠러 기하학 개발·검사·문서화 도구의 기능을 대폭 향상시킴</p><p>• 주요 개선사항은 CAD 임포트 워크플로우 최적화, 대화형 피치-플레인 제어 기능, 3D 모델 상호작용 개선 등으로 설계 효율성을 높임</p><p>• 세션 저장/복원 기능으로 복잡한 CAD 기하학 작업 시 이전 설정을 재활용할 수 있어 중복 작업 시간 감소</p><p>• 3D 뷰어 개선으로 더블클릭 센터링, 개선된 정렬, 안정적인 그래픽 환경 제공으로 사용자 경험 향상</p><p>• 데이터 테이블 컨트롤 현대화로 Hub 대화상자 및 CAD 임포트 유틸리티의 편집 일관성 강화</p><p>• 향후 인터페이스 개발을 위한 강력한 기반 마련 및 호환성 개선</p><h3>Key Quotes</h3><p>• "Interactive Pitch-Plane Control for CAD Import Tools" allows designers to "adjust the pitch plane directly in the graphics window and immediately see the affected CAD Import parameters update in the settings table" (설계자가 그래픽 창에서 피치 평면을 직접 조정하고 매개변수 변경을 실시간으로 확인 가능)</p><p>• "Save Session and Load Session commands" enable users to "preserve their import setup, return to an extraction workflow later, or compare different approaches without rebuilding the same settings from scratch" (복잡한 작업 설정을 저장하여 나중에 복원하거나 다양한 방식을 비교할 수 있음)</p><h3>Technical Insights</h3><p>• PropCad 2026의 대화형 피치-플레인 제어 기능은 기존 3D 프로펠러 모델을 설계 데이터로 변환하는 과정을 간소화하여 설계 생산성 향상</p><p>• CAD 임포트 세션 저장/복원 기능은 레거시 또는 복잡한 CAD 기하학 작업에서 반복적인 설정 재구성 작업을 제거하여 설계 비용 절감</p><p>• 3D 뷰어 성능 개선 및 데이터 테이블 컨트롤 현대화는 소프트웨어 안정성 및 사용성 향상으로 해양 산업의 CAD 설계 표준화에 기여</p><p>• 다양한 플랫폼 호환성 강화(32비트 환경 지원, 가상화 환경 최적화)는 전 세계 프로펠러 설계 업체의 접근성 확대</p></div>`,
+      tags: ["marine propeller design","CAD software","PropCad 2026","design tools"],
+      link: "https://www.marinelink.com/news/hydrocomp-releases-propcad-542336",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
