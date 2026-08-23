@@ -14942,3 +14942,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-22
+addEvents({
+  "2026-08-22": [
+    {
+      type: "accident",
+      title: "Panama-flagged Bulk Carrier Ocean Winner Sinks Off Eastern India With 24 Crew Aboard",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-08-22",
+      image: "https://gcaptain.com/wp-content/uploads/2019/01/shutterstock_140310742.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **선박 침몰 사건**: 파나마 국적 벌크선 Ocean Winner가 인도 동부 해안에서 인도양으로 침몰하였으며, 사건 발생 당시 24명의 선원이 탑승 중이었음</p><p>• **선원 구성 및 안전**: 중국 국적 20명, 미얀마 국적 3명, 방글라데시 국적 1명을 포함한 다국적 선원이 탑승했으며, 인도 해안경비대가 2명을 구조함</p><p>• **구조 작업**: 스리비자야푸람(구 포트블레어)에서 2척의 구조선이 출동했으며, 약 240해리 떨어진 지점에서 선박이 침몰하여 광범위한 수색 작업이 진행 중</p><p>• **화물 및 항로**: 인도 파라디프 항에서 출발한 철광석 운반선으로 싱가포르를 목적지로 하고 있었으며, 목요일 출항 후 침몰</p><p>• **원인 미상**: 침몰 원인은 현재로서는 불명확하며, 추가 조사 필요</p><p>• **국제 해사 안전 영향**: 최근 베트남 근처에서도 유사한 선박 전복 사건(신홍호)이 발생했으며, 해역별 악천후 및 안전 문제 재조명</p><h3>Key Quotes</h3><p>• "The vessel had 24 crew on board, including 20 Chinese nationals, three Myanmar nationals and one Bangladeshi" (선박에 탑승한 24명의 선원 중 중국 국적 20명, 미얀마 국적 3명, 방글라데시 국적 1명)</p><p>• "The Coast Guard has rescued two people from life rafts. The search-and-rescue mission is under way for the seafarers on the vessel" (해안경비대가 구명정에서 2명을 구조했으며, 선박 승무원을 위한 수색 및 구조 작업이 진행 중)</p><p>• "The cause of the sinking was unknown" (침몰의 원인은 알 수 없음)</p><h3>Technical Insights</h3><p>• **악천후 대응 체계**: 인도양 및 벵골만 해역의 계절적 악천후(몬순, 태풍)에 대한 선박의 구조적 안정성 및 항해 안전 기준 재검토 필요</p><p>• **SOLAS 규정 준수**: 24명의 다국적 선원 탑승 시 생명보전장비(구명정, 구명조끼 등) 충분성과 훈련 상태 확인이 중요하며, IMO SOLAS 협약의 정기적 감시 필요</p><p>• **해상 통신 및 조기 경보**: 인도 해안경비대와의 통신 두절 상황은 해상 조기경보 시스템(maritime early warning system) 고도화 필요성을 시사</p><p>• **산업적 영향**: 벌크선 운항의 위험 증대에 따른 보험료 상승 및 인도-동남아 해역 통행 안전 기준 강화 예상</p></div>`,
+      tags: ["vessel sinking","rescue operation","bulk carrier","Indian Coast Guard","crew safety"],
+      link: "https://gcaptain.com/india-launches-rescue-operation-as-bulk-carrier-sinks-off-east-coast/",
+      coords: [88.5,13],
+      location: "Eastern India (Paradip Port vicinity), Bay of Bengal"
+    }
+  ]
+});
