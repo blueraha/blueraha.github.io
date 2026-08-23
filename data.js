@@ -14922,3 +14922,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-22
+addEvents({
+  "2026-08-22": [
+    {
+      type: "news",
+      title: "Trump Administration Claims Massive Oil Flows Through Hormuz; Industry Data Raises Questions",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-08-22",
+      image: "https://gcaptain.com/wp-content/uploads/2026/05/2026-05-22T121323Z_1819482205_RC26ELATGE3R_RTRMADP_3_IRAN-CRISIS-800x533.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 에너지부 장관 Chris Wright는 미국 해군이 호르무즈 해협을 통해 하루 1,500만 배럴 이상의 석유와 석유 제품을 이동시켰다고 주장</p><p>• 7일 평균 호르무즈 해협 통과량이 800만 배럴/일 이상이며, 미국 해군의 군사 호송 작전으로 20만 배럴이 유통된다고 발표</p><p>• 그러나 상업 해운 데이터(JMIC, Kpler, TankerTrackers)는 훨씬 낮은 수준의 일반 상선 통행량을 기록하고 있으며, 불일치 문제 제기</p><p>• Axios 보도에 따르면 미국 군사 조율 해운 회랑은 야간에 15-20척의 탱커를 호송하며, 바쁜 밤에는 1,600만 배럴이 해협을 통과한다고 함</p><p>• U.S.-led JMIC는 8월 18-19일 42척의 미국 촉진 선박 통행을 기록했으나, 일반 상업 탱커 통행은 하루 3척 수준으로 매우 적음</p><p>• 업계 전문가들은 미국 관계자들이 선택적 통계를 활용하고 있으며, 장기간 일일 평균이 중요하다고 지적</p><h3>Key Quotes</h3><p>• "On Tuesday, the U.S. military helped ship over 15 million barrels of oil and products out of the Strait of Hormuz — combined with pipelines, the total leaving the region is closer to 20 million barrels." <br>(화요일 미국 해군이 호르무즈 해협을 통해 1,500만 배럴 이상의 석유를 운송했으며, 파이프라인을 포함하면 총 2,000만 배럴에 달한다)</p><p>• "Make no mistake, thanks to the U.S. Navy, oil is flowing through the Strait of Hormuz."<br>(미국 해군 덕분에 호르무즈 해협을 통해 석유가 흐르고 있다는 점을 명확히 해야 한다)</p><p>• "Officials like to pick cherries when it suits them. It's the daily averages over a longer duration that matter."<br>(관계자들은 자신들의 목적에 맞을 때 선택적 통계를 활용하지만, 장기간에 걸친 일일 평균이 중요하다)</p><h3>Technical Insights</h3><p>• **해운 데이터 투명성 문제**: 미국 정부의 1,500만 배럴 주장과 독립적 해운 추적 데이터(Kpler, JMIC)의 불일치는 해운 통계의 신뢰성과 투명성 확보의 중요성을 시사</p><p>• **군사 호송 작전의 선박 추적 영향**: U.S.-facilitated vessel transit(미국 촉진 선박 통행)와 일반 상업 탱커 통행의 차이를 추적하는 것이 해운 산업의 현황 파악에 필수적</p><p>• **호르무즈 해협 통행 안전 메커니즘**: 군사 조율 해운 회랑(Military-coordinated shipping corridor)의 운영은 해협 통행 안전성과 보험 요율에 영향을 미칠 수 있으며, IMO 규제와의 조화 필요</p><p>• **해운 데이터 신뢰성과 산업 영향**: 탱커 추적 기술의 고도화와 정부 발표 통계의 검증 체계 강화가 해운 시장의 투명성과 선주 의사결정에 중요한 역할</p></div>`,
+      tags: ["Strait of Hormuz","Oil Shipping","U.S. Military Operations","Tanker Traffic","Shipping Data"],
+      link: "https://gcaptain.com/trump-administration-claims-massive-oil-flows-through-hormuz-but-industry-data-raises-questions/",
+      coords: [56.55,26.67],
+      location: "Strait of Hormuz, Iran/Oman"
+    }
+  ]
+});
