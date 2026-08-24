@@ -14962,3 +14962,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-22
+addEvents({
+  "2026-08-22": [
+    {
+      type: "accident",
+      title: "Search Continues for 22 Missing After Panama-Flagged Bulk Carrier Ocean Winner Sinks Off India",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-08-23",
+      image: "https://gcaptain.com/wp-content/uploads/2025/06/shutterstock_2542523151.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **선박 침몰 사고**: 파나마 국적 화물선 'Ocean Winner'가 인도 동부 해안에서 침몰하여 탑승 인원 24명 중 22명이 실종된 대형 해난사고 발생</p><p>• **침몰 경위**: 금요일 인도 Paradip항을 출발한 선박이 선체 경사(list)가 발생한 후 8분 이내 침몰, Visakhapatnam 동쪽 약 700km 해상에서 사고 발생</p><p>• **구조 현황**: 중국 국적 선원 2명만 구조되었으며, 중국 국적 18명, 미얀마 국적 3명, 방글라데시 국적 1명 등 22명이 계속 실종 상태</p><p>• **해상 당국 대응**: 인도 해안경비대(Coast Guard)와 해군(Navy)이 Sri Vijaya Puram에서 2척의 선박을 파견하여 수색구조 작전 진행 중</p><p>• **침몰 원인**: 정확한 사고 원인은 아직 밝혀지지 않았으며, 철광석을 중국으로 운송 중 사고 발생</p><p>• **생존 가능성**: 해상 구조 전문가들은 침몰 후 12시간 경과 후 생존자 발견 확률이 급격히 감소한다고 지적</p><h3>Key Quotes</h3><p>• "The vessel developed a list on Friday and sank within eight minutes, forcing crew to abandon ship" (선박이 금요일에 경사가 발생했고 8분 이내에 침몰하여 승무원들이 기선을 떠나야 함)</p><p>• "The chances of finding survivors generally fall sharply after 12 hours, but rescuers were continuing the search" (12시간 후 생존자 발견 확률이 급격히 감소하지만, 구조대는 계속 수색을 진행 중)</p><h3>Technical Insights</h3><p>• **선체 경사(Listing) 위험성**: 승무원 증언상 선박이 급격한 경사를 발생시킨 후 매우 단시간(8분) 내에 침몰하였으며, 이는 구획 침수나 화물 이동으로 인한 복원력 상실의 전형적 증상으로 보임</p><p>• **IMO 해상 안전 규정 준수**: 급속 침몰 사고는 해상 안전 규정(SOLAS)에서 요구하는 복원력 기준(Stability Criteria) 점검 및 적재 구성도(Loading Plan) 관리의 중요성을 재차 부각</p><p>• **국제 해상 구조 협력 체계**: 파나마 국적선의 사고에 대해 인도 해안경비대와 해군이 신속하게 대응한 사례로, MRCC(Maritime Rescue Coordination Centre) 중심의 다국가 해상 안전 협력 체계의 실질적 가치를 입증</p><p>• **조사 및 원인 규명 필요**: 선박의 급속 침몰 원인 파악을 위해 IMO 선박사고조사 가이드라인에 따른 정밀한 사고 조사가 필요하며, 향후 안전 정책 수립의 기초가 될 예정</p></div>`,
+      tags: ["bulk carrier sinking","search and rescue","missing crew","Indian waters","maritime accident"],
+      link: "https://gcaptain.com/search-continues-for-22-after-bulk-carrier-sinks-off-india/",
+      coords: [88.35,17.85],
+      location: "Eastern coast of India, 240 nautical miles from Paradip port"
+    }
+  ]
+});
