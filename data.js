@@ -15026,3 +15026,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-25
+addEvents({
+  "2026-08-25": [
+    {
+      type: "news",
+      title: "STR8 Industries Reveals Ghostwake USV - Taiwan's Fastest Unmanned Surface Vessel",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-08-25",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/08/STR8-USV-1.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• STR8 Industries가 대만에서 개발한 Ghostwake는 최대 55노트 속도의 무인수상선(USV)으로, 동아시아 첫 번째 도련(first island chain) 해역에서의 해양 안보 임무 수행을 위해 설계됨</p><p>• Ghostwake는 우크라이나의 드론 활용 사례를 참고하여 개발되었으며, 소수의 고가 장비 대신 대량의 저가 시스템을 통한 해양 안보 확보 전략 실현</p><p>• 7일간 작전 지속력, Sea State 6 이상 운용 능력, 350kg 페이로드 탑재 가능하며, 대만 가오슝의 조선소에서 연간 200척 생산 목표</p><p>• 대만 정부의 66억 달러 규모 드론 프로그램 투자와 맞물려, 상용 해양 조사 및 해상 작전 분야에서의 다목적 활용 추진</p><p>• 자율운항 성능 개선을 위해 실제 해역 데이터 수집 중심의 소프트웨어 개발 방식 채택, 배치 규모 확대를 통한 지속적인 운영 능력 강화</p><h3>Key Quotes</h3><p>• "The requirement has changed – capability now comes from large numbers of low-cost systems rather than a small number of expensive ones." <br>(미래의 해양 안보는 소수의 고가 장비가 아닌 다수의 저가 시스템으로부터 나온다는 운영 개념의 전환)</p><p>• "Speed isn't a brochure number. Fast craft and unmanned platforms in this part of world already run 40 to 45 knots. A slower vessel cannot keep pace, cannot close, and cannot get where it needs to be in time."<br>(작전 지역의 고속 선박·무인 플랫폼들이 이미 40~45노트로 운영되고 있어, 저속 선박은 추적·접근·시간 내 도착이 불가능함)</p><p>• "Autonomy models improve with data, and data comes from hulls in the water doing real work, not from simulation. Every hour on every platform feeds the next software build."<br>(자율운항 성능은 실제 해역 운용 데이터로부터만 개선되며, 모든 운용 시간이 다음 소프트웨어 개발에 피드백됨)</p><h3>Technical Insights</h3><p>• **무인 해양 시스템의 실전화**: Ghostwake는 우크라이나 드론 전술의 성공 사례를 해양 영역에 적용하며, 분산형 처리 설계와 대규모 배치를 통한 해양 감시·감시 능력(MDA) 확보의 새로운 패러다임 제시</p><p>• **자율운항 성능 검증 체계**: 시뮬레이션 기반이 아닌 실제 해역 운용 데이터 기반 소프트웨어 반복 개선 방식으로, IMO 자율운항 기준 개발과 병행하는 산업 표준화 방향과 상이</p><p>• **거버넌스 및 규제 이슈**: 대만의 지정학적 위치에서 감지된 군사용 및 상용 이중 사용 기술로서, IMO 및 해양법 측면의 자동화 규범과 해역 주권 충돌 가능성 검토 필요</p><p>• **공급망 현지화 및 산업 육성**: 대만 조선 산업의 고부가가치 드론 제조로의 전환, 연간 200척 생산 목표를 통한 동아시아 해양 기술 자립화 추진의 경제적·전략적 의의</p></div>`,
+      tags: ["USV","Autonomous Ships","Taiwan","Maritime Security","Unmanned Systems"],
+      link: "https://www.navalnews.com/naval-news/2026/08/str8-industries-reveals-made-in-taiwan-ghostwake-usv/",
+      coords: [121.5,25],
+      location: "Taiwan (First Island Chain)"
+    }
+  ]
+});
