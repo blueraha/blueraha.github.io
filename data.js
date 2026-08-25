@@ -14982,3 +14982,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-24
+addEvents({
+  "2026-08-24": [
+    {
+      type: "accident",
+      title: "Houthis Strike Saudi VLCC AMZAN with Anti-Ship Ballistic Missile in Red Sea",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-08-24",
+      image: "https://gcaptain.com/wp-content/uploads/2018/07/shutterstock_108351062.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 사우디 소유 VLCC AMZAN이 홍해 얀부 서쪽 약 63해리 지점에서 정체불명의 발사체에 피격되어 선체 상부 갑판에 화재 발생<br>• 후티 반군이 대함탄도미사일(ASBM)로 공격을 감행했으며, 선원 전원이 안전함을 확인<br>• 최근 1개월간 사우디 연계 선박을 표적으로 한 일련의 공격이 계속되고 있으며, 환경오염은 아직 보고되지 않음<br>• 후티 반군의 표적 선정 기준: 사우디 국적 선박, 사우디 소유/관리 선박, 사우디 항구 입항 선박<br>• 바브엘만데브 해협과 남부 홍해 지역의 위협도 수준이 '상당(SUBSTANTIAL)'으로 평가됨<br>• 후티 반군이 해당 해역이 사우디 연계 선박에 대해 사실상 폐쇄되었다고 선언하고 추가 공격 가능성을 경고</p><h3>Key Quotes</h3><p>• "The Houthis attacked the tanker with an anti-ship ballistic missile" (후티 반군이 대함탄도미사일로 유조선을 공격했음)<br>• "vessels that are Saudi-flagged, Saudi-owned or managed, as well as ships calling at Saudi ports" (사우디 국적, 사우디 소유/관리 선박, 사우디 항구 입항 선박들)<br>• "The waterway is effectively closed to Saudi-affiliated vessels" (해당 해역은 사우디 연계 선박에 대해 사실상 폐쇄된 상태)</p><h3>Technical Insights</h3><p>• 대함탄도미사일(ASBM) 도입으로 홍해 해역의 해상 위협 수준이 기존 무인기/소형 보트 공격 대비 급격히 상향됨<br>• 공격 선박의 국적, 소유권, 관리사, 목적지 항구 등 다층적 식별 기준을 활용한 표적 선정으로 공격의 체계성 증가<br>• 주요 국제 해운로(홍해·바브엘만데브 해협) 통행 안전성 악화로 인한 운임 상승, 우회항로 증가, 해운 보험료 인상 등 글로벌 해운산업 영향 심화<br>• IMO/국제 해양안보 체계의 실질적 효력 제한으로 민간 선박의 해상 보안 자율성 강화 및 군사적 호위 필요성 대두</p></div>`,
+      tags: ["Houthi Attack","VLCC","Red Sea","Maritime Security","Anti-Ship Missile"],
+      link: "https://gcaptain.com/houthis-escalate-saudi-shipping-campaign-with-vlcc-strike/",
+      coords: [38.85,23.95],
+      location: "Yanbu, Saudi Arabia (Red Sea)"
+    },
+    {
+      type: "event",
+      title: "TUFAN Kamikaze USV Launched at TEKNOFEST Mavi Vatan 2026",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-08-24",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/08/53746881-1dd0-435c-9c9e-1a92ff78e42b.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **TUFAN 무인 해상 플랫폼 공개**: ASELSAN이 개발하고 ARES Shipyard가 건조한 8.1미터 급 카미카제 USV(무인 수상정)가 TEKNOFEST Mavi Vatan 2026에서 공식 출수되어 첫 해상 시범 운영 완료</p><p>• **첨단 성능 사양**: 시간당 50노트 이상의 최고속력, 35노트 순항시 200해리 항속거리, 워터젯 추진 방식으로 고속 기동성과 민첩성 확보</p><p>• **분산 무리 지능 기술**: 다수의 TUFAN이 독립 운영 또는 협력 편대 구성 가능하며, 비전 기반 항법 및 장애물 회피, 표적 탐지 시스템 탑재</p><p>• **고폭탄두 탑재 및 타격 능력**: 불특정 고폭탄두 장착으로 해상 목표물, 해안 기반시설 대응 가능하며, 표적 충돌을 통한 페이로드 전달 설계</p><p>• **터키 해양 무인 시스템 발전**: ASELSAN과 ARES의 산학 협력을 통한 토종 무인 해상 플랫폼 개발로 터키 해군의 첨단 전력화 추진</p><h3>Key Quotes</h3><p>• "The platform has been successfully launched and completed its sea trials" (플랫폼이 성공적으로 출수되었으며 해상 시범 운영을 완료했다)</p><p>• "TUFAN is designed to engage surface targets, coastal infrastructure and other designated assets" (TUFAN은 해상 목표물, 해안 기반시설 및 기타 지정 자산에 대응하도록 설계됨)</p><p>• "Distributed swarm intelligence, with vessels able to form mission sub-groups for reconnaissance, surveillance and strike tasks" (정찰, 감시 및 타격 임무를 위한 분산 무리 지능으로 여러 함정이 임무별 소그룹 편성 가능)</p><h3>Technical Insights</h3><p>• **자율 항법 및 장애물 회피 기술**: 비전 기반 센서 시스템을 통한 자동 항법 및 충돌 회피 능력으로 GPS 거부 환경에서의 운영 적응성 제고</p><p>• **분산 편대 무기 체계의 해상 적용**: 다중 USV의 협력 운영으로 COLREG 준수 및 해상 교통 안전성 모니터링 필요, IMO 무인선박 기준 수립 시 카미카제형 플랫폼의 규제 체계 마련 시급</p><p>• **다층 통신 네트워크 통합**: 함대 지휘 체계와의 통합으로 선박 간 정보 공유 및 좌표 운영의 사이버 보안 위협 증가, 해상 무인 시스템의 통신 암호화 기준 강화 필요</p><p>• **민간-군사 무인 해상 기술 국제 경쟁 심화**: 터키, 이스라엘, 우크라이나 등의 카미카제 USV 개발 가속화로 해상 전력의 비용-효율성 혁신 및 국제 해양 안보 환경 변화</p></div>`,
+      tags: ["USV","Autonomous Systems","Turkish Navy","TEKNOFEST","Unmanned Maritime"],
+      link: "https://www.navalnews.com/naval-news/2026/08/tufan-kamikaze-usv-launched-at-teknofest-mavi-vatan-2026/",
+      coords: [29.8711,40.758],
+      location: "Gölcük Naval Shipyard, Kocaeli, Turkey"
+    },
+    {
+      type: "news",
+      title: "Ukraine unveils MV11, largest naval drone in MAGURA family",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-08-24",
+      image: "https://defence-blog.com/wp-content/uploads/2026/08/DB_image_2323.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 우크라이나의 UFORCE가 개발한 MAGURA 해군 드론 계열의 최대 규모 무인 수상함정 MV11을 독립기념일(8월 24일)에 공개함<br>• MV11은 기존 MAGURA 함정들과 달리 운송/지원 플랫폼으로 설계되었으며, 2,200kg의 적재량과 7일 연속 운항 능력을 보유함<br>• MAGURA 계열 드론들은 2024년 실전 투입 이래 러시아 흑해 함대에 12척 이상의 함정 격침/피해를 입혔으며 러시아 함대의 후퇴를 주도함<br>• UFORCE는 2026년 7월 미국 보트 제조사 ReconCraft와 양해각서(MOU)를 체결하여 오리건주와 사우스캐롤라이나주에서 MAGURA 함정 생산 예정<br>• MV11은 포르투갈의 UFORCE 설계연구국에서 국제 투자를 받아 개발되었으며, 원양 운용에 최적화된 다중영역 작전 플랫폼임</p><h3>Key Quotes</h3><p>• "We are proud to present the MV11 on Ukraine's Independence Day. This is not just the largest naval drone, it is a platform that delivers multi-domain capability: a single carrier that transports and launches other unmanned systems far from shore, enabling operations across all domains," said Oleg Rogynskyy, CEO of UFORCE.<br>(우크라이나 독립기념일에 MV11을 공개하게 되어 자랑스럽다. 이는 단순한 최대 규모 해군 드론이 아니라 다중영역 능력을 제공하는 플랫폼으로, 연안에서 먼 지역에서 다른 무인 시스템을 운송하고 발사할 수 있는 단일 모함이다 - UFORCE CEO 올레그 로긴스키)</p><p>• "The MAGURA family has been UFORCE's primary naval product since it entered combat use in 2024. Ukrainian officials have said MAGURA drones contributed to the sinking or damaging of at least a dozen Russian naval vessels"<br>(MAGURA 계열은 2024년 실전 투입 이래 UFORCE의 주요 해군 제품이며, 우크라이나 관계자들은 MAGURA 드론이 러시아 해군 함정 최소 12척의 격침 또는 피해에 기여했다고 밝혔다)</p><h3>Technical Insights</h3><p>• **무인 수상함정의 다중역할 진화**: MV11은 기존의 공격형 MAGURA V5/V7과 달리 로봇함대의 모함 역할을 수행하는 지원 플랫폼으로 설계되어, 해상 무인 시스템 운용 개념의 전환을 의미함</p><p>• **원양 운용 능력 확대**: 연안전용에서 벗어나 7일 연속 운항과 2,200kg 적재량으로 원양에서의 자율 운용을 가능하게 하며, 대규모 해역 작전의 지속성을 획기적으로 향상시킴</p><p>• **국제 협력과 대량 생산 체계 구축**: 포르투갈 개발 + 미국 생산 MOU를 통해 연 수백～수천 척의 MAGURA 함정 생산 계획은 NATO 진영의 해양 무인 시스템 독트린 표준화를 시사함</p><p>• **IMO 규제 환경과의 괴리**: 전투용 해양 로봇의 자율 운용 확대는 COLREG 준수, 식별체계, 국제해사법과의 충돌을 야기할 가능성이 높으며, 향후 국제 규제 프레임워크 정립이 시급함</p></div>`,
+      tags: ["autonomous naval systems","unmanned surface vessels","MAGURA drones","Ukraine military technology"],
+      link: "https://defence-blog.com/ukraine-unveils-mv11-largest-naval-drone-in-magura-naval-family/",
+      coords: [30.5238,50.4501],
+      location: "Kyiv, Ukraine"
+    }
+  ]
+});
