@@ -15090,3 +15090,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-25
+addEvents({
+  "2026-08-25": [
+    {
+      type: "news",
+      title: "BW LNG Introduces 177,000 cbm Three-Tank LNG Carrier Design with Enhanced Capacity",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-08-25",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2024/03/BW-Singapore.png?image-crop-positioner-ts=1711459276",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• BW LNG가 기존 174,000 cbm LNG 운반선을 기반으로 177,000 cbm 삼중탱크 설계의 새로운 LNG 운반선을 개발했으며, 화물 용량을 3,000 cbm 증가시키면서 선박의 전체 치수와 터미널 호환성을 유지함</p><p>• 이 설계는 HD Hyundai Samho에서 건조 중인 4척의 LNG 운반선에 적용되며, 2028년 4분기부터 2029년 3분기 사이에 납품될 예정</p><p>• GTT, HD Hyundai Heavy Industries와 협력 개발되었으며 DNV로부터 승인을 받은 설계로, 더 낮은 보일오프율과 관련 에너지 효율성 향상을 제공</p><p>• 삼중탱크 구성은 부분 적하 조건에서의 운영 유연성을 제공하고, GTT의 Mark III 멤브레인 격납 기술을 적용하여 강화된 멤브레인 시스템 채택</p><p>• 증가된 화물 용량과 낮아진 에너지 요구사항으로 인해 LNG 배송 단위당 배출 강도를 감소시킬 것으로 예상</p><h3>Key Quotes</h3><p>• "The 174k cbm LNG carrier has become a preferred size in today's LNG shipping market, offering the compatibility and operational flexibility needed to serve a wide range of terminals and trading routes." (174,000 cbm LNG 운반선은 현재 LNG 해운 시장에서 선호되는 규모가 되었으며, 다양한 터미널과 해운 항로에 서비스할 수 있는 호환성과 운영 유연성을 제공함)</p><p>• "Rather than changing what already works, the 177k design takes the flexibility and compatibility of the 174k workhorse and enhances it with greater carrying capacity and efficiency." (이미 작동하는 것을 변경하기보다는 177k 설계는 174k의 안정적인 설계의 유연성과 호환성을 유지하면서 더 큰 운송 용량과 효율성을 강화함)</p><h3>Technical Insights</h3><p>• LNG 운반선의 화물 용량 최적화를 위한 혁신적 설계 접근: 전체 선박 치수를 유지하면서 삼중탱크 구성을 통해 용량을 증가시키는 것은 해운 산업의 표준화와 운영 효율성의 균형을 의미함</p><p>• 보일오프율(Boil-off Rate) 감소를 통한 환경 및 경제적 효율성 증대: 낮은 보일오프율은 재액화(Reliquefaction) 에너지 요구사항을 감소시켜 운영 비용과 탄소 배출을 동시에 감소시킬 수 있음</p><p>• 터미널 호환성 유지의 산업적 중요성: 기존 174,000 cbm 급 선박과의 호환성 유지로 전 세계 LNG 터미널에서의 운영 제약을 최소화하여 해운사의 운영 유연성 극대화</p><p>• GTT Mark III 멤브레인 기술 적용으로 운송 안전성과 에너지 효율성 향상: 강화된 멤브레인 시스템은 극저온 LNG의 안전한 운송을 보장하면서 동시에 열손실을 최소화하는 차세대 기술</p></div>`,
+      tags: ["LNG Shipping","Vessel Design","BW LNG","HD Hyundai Samho","Cargo Capacity"],
+      link: "https://www.offshore-energy.biz/bw-lng-builds-on-174k-lng-carrier-workhorse-with-177k-cbm-three-tank-design/",
+      coords: [103.8198,1.3521],
+      location: "Singapore"
+    }
+  ]
+});
