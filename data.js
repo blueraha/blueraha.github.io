@@ -15046,3 +15046,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-25
+addEvents({
+  "2026-08-25": [
+    {
+      type: "news",
+      title: "ZeroUSV Achieves World First with Autonomous Deployment of Surface Drones from Oceanus12",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-08-25",
+      image: "https://maritime-executive.com/media/images/article/1787656301_6a8d786dc24e3.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• ZeroUSV가 Oceanus12 무인수상선(USV)에서 다중 자율 수상드론(ASV) 배포 성공 - 세계 최초 달성<br>• Plymouth 해역에서 Oshen C-Star 2대를 동시 배포하며 탑재체 유연성 입증, UKDI 정부 지원 프로그램의 일환<br>• MarineAI의 GuardianAI 자율항해 소프트웨어와 통합되어 최소한의 운영자 개입으로 복잡한 임무 수행 가능<br>• 해양 환경 모니터링, 국방 작전, 수중 인프라 감시 등 다양한 응용 분야에 활용 가능한 멀티플랫폼 자율 시스템 구현<br>• 다음 단계에서는 Oceanus12가 C-Star 4대를 동시 배포하는 대규모 분산 자율시스템 운영 계획</p><h3>Key Quotes</h3><p>• "This is a significant milestone, not only for ZeroUSV, but for the take up and use of Oceanus USV in theatre." (ZeroUSV의 Matthew Ratsey 회장 - Oceanus USV의 실전 배치 및 활용에 있어 획기적인 이정표라는 의미)</p><p>• "The Oceanus12 USV enables operators to verify the location, status and performance of deployed autonomous assets in environments where traditional communications may be unavailable, unreliable or deliberately denied." (통신 불가 또는 차단 환경에서도 배포된 자율 자산의 위치, 상태, 성능 확인 가능)</p><h3>Technical Insights</h3><p>• **멀티플랫폼 자율시스템 통합**: Oceanus12 USV, Oshen C-Star, MarineAI GuardianAI 세 플랫폼의 시뮬레이션 없는 실제 통합 성공으로 분산 자율 시스템의 실용성 입증 - IMO 자율선박 규제 프레임워크 수립에 중요한 선례 제시</p><p>• **페이로드 배포 확장성**: 경량의 돛과 태양광 동력 C-Star 드론을 음향 센서 구성으로 배포, 향후 4대까지 동시 배포 가능 - 해양 감시 및 국방 작전 효율성 극대화로 인력 투입 최소화</p><p>• **제한된 통신 환경 대응**: 통신 불가/차단 상황에서도 모선(Oceanus12)이 배포된 드론의 상태 감시 및 임무 조정 가능 - 악의적 전파 차단 시나리오에서의 자율시스템 신뢰도 향상으로 방위산업 응용성 확대</p><p>• **산업 표준화 선도**: UK Defence Innovation 프로그램 지원으로 정부 차원의 자율해양 플랫폼 표준화 추진 - 향후 IMO COLREG 자율선박 운영 기준 수립 시 우수 사례로 활용될 가능성 높음</p></div>`,
+      tags: ["Autonomous Surface Vehicles","USV Deployment","Maritime Robotics","UK Defence Innovation"],
+      link: "https://maritime-executive.com/article/zerousv-achieves-world-first-with-autonomous-deployment-of-oshen-c-star-surface-drones-from-oceanus12",
+      coords: [-4.1428,50.3755],
+      location: "Plymouth, UK"
+    },
+    {
+      type: "news",
+      title: "Norway's UMOE Mandal Selected to Produce Saildrone Surveyor V3 Autonomous Vessels",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-08-25",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/08/saildrone-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 노르웨이 선박건조업체 UMOE Mandal이 Saildrone의 차세대 무인해수면선박(USV) Surveyor V3 생산을 담당하게 되어 유럽 자율운항선박 기술 확대의 중요한 이정표를 달성</p><p>• Saildrone이 유럽 본부를 코펜하겐에 설립하고 노르웨이, 폴란드, 네덜란드 등 유럽 전역에 제조 파트너십 구축하며 전략적 확대 진행</p><p>• UMOE Mandal은 복합소재 구조, 경량재료, 고성능 선박 제조 기술과 Royal Navy 및 노르웨이 해군의 Type 26 프리깃함 마스트 구조 납품 경험을 보유한 방위사업 전문 기업</p><p>• Surveyor V3는 장시간 해상작전용 대형 무인해수면선박으로 악조건 환경에서의 해양 작전 수행 설계</p><p>• 이 협력은 자율운항 기술과 첨단 복합소재 기술의 결합으로 유럽의 산업 성장과 보안 강화에 기여하는 동시에 주권적 생산 역량 구축</p><p>• UMOE Mandal의 생산 시설 확장 및 산업 용량 증설은 국방 및 보안 고객의 증가하는 수요 대응</p><h3>Key Quotes</h3><p>• "This collaboration combines Saildrone's world leading autonomous technology with Umoe Mandal's expertise in advanced composite structures, lightweight materials, and high-performance vessel manufacturing."<br>(Saildrone의 세계 최고 수준의 자율운항 기술과 UMOE Mandal의 첨단 복합소재, 경량재료, 고성능 선박 제조 기술의 결합)</p><p>• "Building Surveyor in Norway will bring that deep maritime know-how together with our technology, while giving our European customers access to sovereign production capacity closer to where they operate."<br>(노르웨이에서 Surveyor를 건조함으로써 해양 기술과 자율운항 기술의 결합 및 유럽 고객에게 인근 주권적 생산 역량 제공)</p><h3>Technical Insights</h3><p>• **무인해수면선박(USV) 기술 발전**: Surveyor V3는 장시간 해상작전을 수행할 수 있는 대형 무인선박으로 악조건 환경에서의 자율운항 능력이 핵심이며, 복합소재 및 경량화 기술이 중요한 차별화 요소</p><p>• **유럽 방위산업 자립**: 북유럽 국가들이 자율운항 기술의 주권적 생산 기지 구축으로 NATO 해역 방어 및 해양 안보 대응 능력 강화, 미국 기술에 대한 의존도 감소</p><p>• **IMO 규정 대응**: 무인선박의 증가로 COLREG, ISM 코드 등 기존 규정의 재정의 필요성 증대되며, 특히 방위사업용 USV는 민간 규정과 구분된 별도 운영 프레임워크 개발 진행 중</p><p>• **산업 클러스터 형성**: 노르웨이, 폴란드, 네덜란드의 제조 파트너십을 통해 북유럽 내 자율운항 선박 산업 생태계 구축으로 글로벌 경쟁력 강화 및 지역 고용 창출 기대</p></div>`,
+      tags: ["Autonomous Ships","USV","Norway","Defense Technology","Saildrone","Manufacturing"],
+      link: "https://www.navalnews.com/naval-news/2026/08/norways-umoe-mandal-to-produce-saildrone-surveyor-v3/",
+      coords: [10.7522,59.9139],
+      location: "Norway"
+    },
+    {
+      type: "news",
+      title: "Flex2Future Advances Floating Wave, Wind and Solar Platform Toward Pre-2030 Demo",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-08-25",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/08/Flex2Future_S1_havbasseng_SINTEF.jpg?image-crop-positioner-ts=1787670028",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Flex2Future는 노르웨이 기업으로, 파도·풍력·태양광 에너지를 단일 플랫폼에 통합하는 부유식 해상 에너지 시스템을 개발 중</p><p>• SINTEF Ocean 시설에서 2026년 4월 1:25 규모 모형 테스트를 완료했으며, 파도·해류·바람 결합 환경에서 구조의 동적 거동 특성화 수행</p><p>• 모형 테스트는 Ocean Basin과 Towing Tank 두 개 캠페인으로 구성되었으며, 파도 에너지 변환 및 생존성 검증 목표 달성</p><p>• 측정 데이터는 수치 모델 검증 및 보정에 사용될 예정이며, 2030년 전 대규모 실증 프로젝트 계획</p><p>• 복합 재생에너지 시스템은 kWh당 생산 비용 절감 및 안정적인 전력 공급을 통해 녹색 전환 지원 목표</p><p>• 해상 구조물의 하이브리드 테스팅(물리 모델 + 실시간 수치 모델 + 모터 제어 시스템)으로 현실적 해상 조건 재현</p><h3>Key Quotes</h3><p>• "The campaign provides valuable measurement data that will be used to validate and calibrate Flex2Future's numerical models, laying a solid foundation for continued development toward full scale." <br>(이 테스트 캠페인은 수치 모델 검증 및 보정에 필요한 측정 데이터를 제공하여 대규모 개발의 기초 마련)</p><p>• "The project is highly relevant because there is a growing need for stable and sustainable energy production to support the green transition and reduce greenhouse gas emissions."<br>(녹색 전환과 온실가스 감축을 위한 안정적이고 지속 가능한 전력 생산의 필요성 증대)</p><p>• "Numerical simulations alone are not sufficient to predict all hydrodynamic effects and structural responses."<br>(수치 시뮬레이션만으로는 모든 수동역학적 영향과 구조적 반응을 예측하기 부족함)</p><h3>Technical Insights</h3><p>• 부유식 해상 에너지 플랫폼은 파도·바람·태양광 복합 에너지원을 활용하여 발전 효율을 극대화하면서 비용 최적화를 달성하는 차세대 재생에너지 기술</p><p>• 1:25 규모 모형 테스트에서 하이브리드 방식(물리 모델 + 실시간 수치 모델 통합)을 적용하여 현실적 해상 조건 재현 및 구조 거동의 신뢰성 검증 수행</p><p>• 해상 재생에너지 인프라 개발 시 극한 환경(대파·강풍·해류)에서의 안정성·생존성·에너지 효율을 동시에 만족시켜야 하는 복합 기술적 과제 해결</p><p>• 2030년 이전 대규모 실증 프로젝트 추진으로, 해양 에너지 기술의 상용화 시대 진입 및 해양 산업의 그린 전환 가속화 예상</p></div>`,
+      tags: ["Renewable Energy","Floating Offshore Platform","Wave Energy","Wind Energy","Solar Energy","Technology Development"],
+      link: "https://www.offshore-energy.biz/flex2future-advances-floating-wave-wind-and-solar-platform-toward-pre-2030-demo/",
+      coords: [10.3951,63.4305],
+      location: "Trondheim, Norway"
+    }
+  ]
+});
