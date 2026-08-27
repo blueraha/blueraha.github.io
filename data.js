@@ -15178,3 +15178,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-01-07
+addEvents({
+  "2026-01-07": [
+    {
+      type: "accident",
+      title: "Stena Estrid RoPax Ferry Hull Puncture from Jetty Contact at Holyhead Port",
+      source: "MAIB Reports",
+      sourceMeta: "gov.uk · 2026-08-27",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 2026년 1월 7일 더블린 노선을 운항 중인 Stena Estrid 여객선이 홀리헤드 항 터미널 3의 보호되지 않은 회전 펜더와 접촉하여 선체 천공 발생</p><p>• **피해 규모**: 우측 기관실에 약 500톤의 해수 유입 및 인접 공간으로 미상의 추가 침수 발생; 그러나 적절한 응급 조치로 승객 및 화물 운송에 큰 지연 없음</p><p>• **근본 원인**: 선박의 강한 서풍 영향 및 회전 후 선위로 인한 예상보다 빠른 접근 속도; 2025년 7월 항만청의 해당 펜더 사용 금지 공지에도 불구하고 발생</p><p>• **인프라 문제**: 회전 펜더의 면판에 여러 개의 날카로운 돌출부 존재 및 고무 펜더 구조 부재로 인한 설계 결함 확인</p><p>• **통신 및 운영 문제**: Stena Estrid와 예인선 간 통신 오류 발생; 예인선의 선미 좌측 위치로 인한 제한된 효율성으로 추가 영향 최소화</p><p>• **후속 조치**: Stena Line이 홀리헤드 항의 모든 여객선 운영 파라미터 감소 및 항만청에 펜더 점검 및 수리 요청</p><h3>Key Quotes</h3><p>• "the ferry's hull was holed just below the waterline in the starboard engine room" (선체가 우측 기관실의 수선 바로 아래에서 천공되었다)</p><p>• "The crew responded quickly by shoring up the hull below the waterline, pumping out the spaces and transferring ballast to create a port list and raise the damage to above the waterline." (승무원들은 수선 아래의 선체를 보강하고, 공간을 펌프로 비우고, 밸러스트를 이동시켜 좌현 리스트를 만들고 손상을 수선 위로 올리는 빠른 대응을 수행했다)</p><p>• "Stena Estrid's master was aware of the requirement to avoid the turning fender during berthing, the vessel closed on the jetty faster than expected" (선장이 접안 시 회전 펜더 회피 요구사항을 인지하고 있었음에도 불구하고, 선박이 예상보다 빠르게 잔교에 접근했다)</p><h3>Technical Insights</h3><p>• **항만 인프라 관리**: 홀리헤드 항의 연속적인 선박 접촉 사건(2025년 5월, 12월, 2026년 1월)은 펜더 유지보수 및 설계 기준 재검토의 시급성을 나타냄; 예인선 배치 최적화 및 충돌 저감 설계 필요</p><p>• **선박-항만 간 통신 프로토콜**: Stena Estrid와 예인선 간의 통신 오류는 표준화된 해상 통신 절차(COLREG) 준수 강화 및 예인선 운영자 훈련 개선의 필요성 시사</p><p>• **기상 조건 영향 평가**: 강한 서풍이 접근 속도 증가에 기여했으며, 항만 내 조종 작업 시 풍향·풍속에 따른 동적 포지셀 유지 능력 평가 기준 수립 필요</p><p>• **예인선 효율성**: 예인선의 선미 좌측 위치로 인한 제한된 풀링 능력은 대형 RoPax 선박의 항만 조종 시 예인선 배치 위치 및 타이밍에 대한 IMO/해양청 가이드라인 강화를 시사</p></div>`,
+      tags: ["RoPax Ferry","Hull Damage","Engine Room Flooding","Berthing Accident","Infrastructure Failure"],
+      link: "https://www.gov.uk/maib-reports/contact-of-the-roll-on-slash-roll-off-passenger-ferry-stena-estrid-with-a-jetty-resulting-in-a-hull-puncture-and-engine-room-flooding",
+      coords: [-4.3369,53.3081],
+      location: "Holyhead Port, Wales"
+    }
+  ]
+});
