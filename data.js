@@ -15110,3 +15110,71 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-22
+addEvents({
+  "2026-08-22": [
+    {
+      type: "accident",
+      title: "Ocean Winner Sinking Leaves 22 Seafarers Missing in Bay of Bengal",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-08-26",
+      image: "https://gcaptain.com/wp-content/uploads/2013/12/shutterstock_114936469.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 파나마 국적 벌크선 Ocean Winner가 벵골만에서 침몰하여 24명 승무원 중 22명이 실종된 대형 해양 사고 발생</p><p>• 인도 해양 구조 조정 센터(Sri Vijaya Puram)가 8월 22일 조난 신호 수신 후 구조 작업 개시, 탱커 Aisopos가 생명보트에서 생존자 2명 구조</p><p>• 승무원 구성: 중국인 20명, 미얀마인 3명, 방글라데시인 1명으로 국제 다국적 승선</p><p>• 화물 유동화(cargo liquefaction) 가능성 지목 - 철광석 미분과 같은 광물 화물에서 수분으로 인한 안정성 상실이 주요 원인으로 의심</p><p>• INTERCARGO 통계: 2016-2025년 10년간 17척의 벌크선 침몰로 71명 사망, 이 중 37명(52%)이 화물 유동화로 인한 피해</p><p>• 국제운송노동자연맹(ITF)이 파나마 선박국에 즉시 조사를 촉구하며 실종 승무원 가족들을 위로</p><h3>Key Quotes</h3><p>• "Cargo liquefaction remains the deadliest hazard facing the bulk carrier sector." (화물 유동화는 벌크 운송선이 직면한 가장 치명적인 위험이다)</p><p>• "Liquefaction occurs when moisture in certain bulk cargoes causes material that appears solid to behave more like a liquid. The resulting cargo movement can quickly destroy a vessel's stability and, in severe cases, cause it to capsize with little warning." (유동화는 특정 산적 화물의 수분으로 인해 고체처럼 보이는 물질이 액체처럼 작동하게 되는 현상으로, 그로 인한 화물 이동이 선박의 안정성을 신속히 파괴하고 심한 경우 경고 없이 전복을 초래할 수 있다)</p><p>• "INTERCARGO has repeatedly urged shipowners, operators and seafarers to exercise extreme caution when carrying nickel ore, bauxite, iron ore fines and other cargoes susceptible to liquefaction, particularly when loading during wet conditions." (INTERCARGO는 선주, 운영사, 해원들에게 특히 습한 조건에서 적하할 때 유동화 위험이 있는 니켈광, 보크사이트, 철광석 미분 등의 화물 운송 시 극도의 주의를 반복적으로 촉구했다)</p><h3>Technical Insights</h3><p>• **화물 유동화 메커니즘**: 산적 화물(특히 철광석 미분, 니켈광, 보크사이트)이 운송 중 수분을 흡수하면 겉으로는 고체이지만 내부에서 액체처럼 작동하여 자유 표면 효과(free surface effect)를 발생시켜 선박의 메타센트로 높이(metacentric height)를 급격히 감소시킴</p><p>• **산업 안전 규제 공백**: IMO IMDG Code 및 SOLAS 규정에서 화물 수분 함유율 테스트(shipper's declaration) 의무화가 있으나, 적하지에서의 검증 부실과 습한 환경에서의 적하 관행 개선이 지속적 과제</p><p>• **벌크선 손실률의 심각성**: 지난 10년간 전 세계 대형 벌크선의 약 9.5% 침몰률이 화물 유동화로 인한 것으로, 이는 충돌·좌초 등 다른 해양사고보다 높은 비중을 차지하고 있는 산업 위기 상황</p><p>• **운영 관행 개선 필요**: 선적 전 화물 함수율 검사(moisture testing), 적하 최적화 시뮬레이션, 건조 계절 운송 우선화 등의 기술적·절차적 개선이 IMO 및 선급협회(ClassSociety) 차원에서 강화되어야 함</p></div>`,
+      tags: ["bulk carrier sinking","cargo liquefaction","Bay of Bengal","search and rescue","maritime casualty"],
+      link: "https://gcaptain.com/ocean-winner-sinking-leaves-22-seafarers-missing-in-bay-of-bengal/",
+      coords: [87.5,18.5],
+      location: "Bay of Bengal, approximately 230 nautical miles southeast of Paradip, India"
+    }
+  ]
+});
+
+// Auto-collected: 2026-08-26
+addEvents({
+  "2026-08-26": [
+    {
+      type: "news",
+      title: "UK Maritime Drone Launches Smaller Drones at Sea - ZeroUSV Oceanus12 Trial",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-08-26",
+      image: "https://defence-blog.com/wp-content/uploads/2026/08/DB_image_2379.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **ZeroUSV의 Oceanus12 무인표면선박(USV)이 Plymouth 해상에서 소형 해양 드론(Oshen C-Star) 2대의 자율 배포 시연에 성공**</p><p>• **세계 최초 사례로, 단일 무인선박에서 여러 소형 드론을 조율하여 동시에 배포하는 능력을 입증 - 영국 국방혁신(Defence Innovation) 지원 프로젝트**</p><p>• **MarineAI의 Guardian 자율운영 소프트웨어를 통해 최소 운영자 입력으로 복수 자산의 미션 기획 및 실행이 가능**</p><p>• **배포된 C-Star는 태양광과 돛 동력 경량 드론으로, 음향 데이터 수집 외 환경 모니터링, 국방 작전, 해양 기반시설 감시에 활용 가능**</p><p>• **다음 단계에서는 Oceanus12가 C-Star 4대를 동시 배포할 예정이며, 향후 수백 개 자율시스템의 협력 운영 목표**</p><p>• **통신 단절/교란 환경에서도 배포된 자산의 위치, 상태, 성능 추적 가능한 혁신적 플랫폼으로 평가**</p><p>---</p><h3>Key Quotes</h3><p>• **"This is a significant milestone, not only for ZeroUSV, but for the take up and use of Oceanus USV in theatre"** (이는 ZeroUSV뿐만 아니라 Oceanus USV의 전장 배치 활용에 있어 중요한 이정표이다)</p><p>• **"Having robots launch robots means we can safely, and rapidly, deploy sensing capabilities into tactile locations at short notice, without putting crews in harm's way"** (로봇이 로봇을 발사한다는 것은 승무원을 위험에 빠뜨리지 않으면서도 단시간에 민감한 지역에 센싱 능력을 안전하고 신속하게 배포할 수 있음을 의미한다)</p><p>• **"Guardian provides the decision-making framework that allows multiple autonomous systems to work together safely and intelligently"** (Guardian은 다중 자율시스템이 안전하고 지능적으로 상호 협력할 수 있도록 하는 의사결정 프레임워크를 제공한다)</p><p>---</p><h3>Technical Insights</h3><p>• **자율 모함(모선)에서 다중 소형 드론의 협력 배포 기술은 해양 국방/감시 분야에서 새로운 패러다임을 제시 - 저 운영 발자국으로 광범위 해역 커버 가능**</p><p>• **통신 두절/재밍 환경에서도 자산 추적 및 조율이 가능한 분산 자율시스템 아키텍처는 COLREG 및 IMO 자율선박 규정에서 요구하는 안전성과 신뢰성 강화에 기여**</p><p>• **Guardian 같은 다중 에이전트 자율운영 소프트웨어는 향후 상선 분야의 함대 운영(fleet management)과 협력 항해에도 적용 가능성 높음 - 조선업 경쟁력 강화**</p><p>• **모듈형 플랫폼(Oceanus12)은 임무 재구성 능력이 뛰어나 민간 환경 모니터링, 해양 인프라 검사, 해상 안전 보안 등 다양한 산업 적용 가능성 시사**</p></div>`,
+      tags: ["autonomous vessels","uncrewed surface vehicles","maritime robotics","UK defense"],
+      link: "https://defence-blog.com/uk-maritime-drone-launches-smaller-drones-at-sea/",
+      coords: [-4.1438,50.3638],
+      location: "Plymouth, England"
+    },
+    {
+      type: "news",
+      title: "ABS Subsidiary ABSG Hit with $59.4M Enforcement Claim by Cotemar in New York Court",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-08-26",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/08/Illustration-Source-Cotemar.jpg?image-crop-positioner-ts=1787755443",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• ABS의 미국 정부 계약업체 자회사인 ABSG Consulting이 멕시코 해양서비스 회사 Cotemar로부터 뉴욕 법원에서 5,940만 달러(기본금 3,480만 달러 + 이자)의 강제집행 청구 직면</p><p>• 2017년 9월 멕시코만 시추리그 설치를 위한 후술 지원 용역 계약 체결 후, ABSG가 8년 이상 미지급 상태 유지</p><p>• 멕시코 삼심제 소송에서 Cotemar 전승: 2022년 3월 1심 판결 및 2023년 6월 항소심 판결 모두 Cotemar에 유리하게 진행</p><p>• TMR(Tamaulipas Modular Rig)이 ABSG에 기성금 전액 송금 완료했으나, ABSG가 부당하게 Cotemar에 대금 미지급</p><p>• 뉴욕 대법원에서 멕시코 판결문 인정 및 강제 집행을 추구 중</p><h3>Key Quotes</h3><p>• "ABSG had satisfactorily received the work, TMR had paid the firm in full for the work covered by their agreement, and the U.S. company had acknowledged the debt." <br>(ABSG가 용역을 만족스럽게 수령했으며, TMR이 계약 범위 내 기성금을 전액 지급했고, 미국 업체가 채무를 인정한 상태)</p><p>• "The Collegiate Appellate Court rejected ABSG's grounds as 'unfounded and inoperative' and affirmed the judgment in full in June 2023."<br>(상급항소법원이 ABSG의 항변을 '근거 없고 효력 없음'으로 기각하고 2023년 6월 원판결 전부 유지)</p><h3>Technical Insights</h3><p>• 해양 계약 분쟁에서 멕시코-미국 간 국제적 강제집행 절차 적용: 국제 상사 거래에서의 법적 복잡성 노출</p><p>• 해양 건설·설치 프로젝트의 다층 계약 구조(ABSG-TMR-Cotemar)에서 발생하는 자금 흐름 추적 및 책임 회피 관행의 위험성</p><p>• 선급(ABS) 자회사의 신뢰성 문제: 해양산업 기술 기준 제정 기관의 계약 윤리 및 투명성 기대치 상충으로 인한 업계 신뢰도 저하 우려</p><p>• 초국가적 해양용역 관련 분쟁 사건의 장기화(8년 이상): 글로벌 해양산업 참여자 간 계약 집행 메커니즘 개선 필요성 강조</p></div>`,
+      tags: ["American Bureau of Shipping","ABSG Consulting","Cotemar","Legal Dispute","Gulf of Mexico"],
+      link: "https://www.offshore-energy.biz/american-bureau-of-shipping-subsidiary-hit-with-59-4m-cotemar-claim-in-new-year-after-two-court-losses/",
+      coords: [-89.5,25.5],
+      location: "Gulf of Mexico / New York"
+    }
+  ]
+});
+
+// Auto-collected: 2026-09-01
+addEvents({
+  "2026-09-01": [
+    {
+      type: "event",
+      title: "Cambridge Pixel to Demonstrate Autonomous Vessel Software at SMM 2026",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-08-26",
+      image: "https://defence-blog.com/wp-content/uploads/2026/08/DB_image_2376.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 영국 기반 Cambridge Pixel사가 2026년 9월 1-4일 함부르크에서 열리는 SMM 2026 해양 무역박람회에서 자율운항선박(USV/ASV) 소프트웨어 기술을 시연할 예정<br>• 레이더, 카메라, 센서 처리 모듈을 통해 추적, 데이터 융합, 디스플레이, 제어 및 시뮬레이션 기능을 제공하는 SPx Server V2가 핵심 제품<br>• 10년 이상 미국, 유럽, 아시아의 자율운항선박 개발사들과 협력하며 80개 이상의 레이더 시스템과 통합<br>• BAE Systems, 영국 해군, 미국 해군 등 65개국 고객사 보유하고 있는 성숙한 기술 솔루션<br>• SMM 2026에는 2,200개 이상의 참가업체와 100개국 이상에서 50,000명 규모의 방문객이 참석할 것으로 예상<br>• 금년 행사에 해양 보안 및 방위 박람회(Maritime Security and Defence Expo) 신설 섹션으로 무인 시스템 및 사이버 보안 솔루션 전시 확대</p><h3>Key Quotes</h3><br>• "SPx Server V2 handles radar video processing, proximity detection and tracking for collision avoidance and autonomous navigation" (SPx Server V2는 레이더 영상 처리, 근접 감지 및 충돌 회피와 자율 항해를 위한 추적 기능을 수행)<br>• "The software can output obstacle and target data to external autonomy or vessel-control systems using formats including ASTERIX, NMEA-0183, TAK and SAPIENT" (소프트웨어는 ASTERIX, NMEA-0183, TAK 및 SAPIENT 등의 형식으로 외부 자율운항 또는 선박 제어 시스템에 장애물 및 목표 데이터를 출력)</p><h3>Technical Insights</h3><br>• GPS 거부 환경(GPS-denied environments)에서의 자율운항 가능 기술로 제한된 통신 환경에서의 자율선박 운영 확대 가능성 시사<br>• ASTERIX, NMEA-0183, TAK, SAPIENT 등 다양한 국제 표준 데이터 형식 지원으로 IMO 해사 자동화 규정 준수 및 상호운용성 확보<br>• 80개 이상의 레이더 시스템 통합 실적은 신규 센서 추가 없이 기존 해양 레이더 자산을 자율운항에 활용 가능한 비용 효율적 솔루션 제시<br>• BAE Systems, Lockheed Martin 등 주요 방위산업체와 각국 해군의 채용으로 자율운항 선박 기술의 군사/상용 양분야 실무 적용 단계 진입을 반영</p></div>`,
+      tags: ["Autonomous Vessels","USV/ASV","Maritime Technology","SMM 2026","Radar Software"],
+      link: "https://defence-blog.com/uk-firm-to-demo-autonomous-vessel-tech-at-smm-2026/",
+      coords: [9.9937,53.5511],
+      location: "Hamburg, Germany"
+    }
+  ]
+});
