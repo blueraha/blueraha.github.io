@@ -15198,3 +15198,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-26
+addEvents({
+  "2026-08-26": [
+    {
+      type: "news",
+      title: "FNSS Unveils U-MAV Unmanned Amphibious Vehicle at TEKNOFEST Mavi Vatan 2026",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-08-26",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/08/1787227692_fnss-image-1784533725701.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• FNSS는 터키 고쳐크 해군조선소에서 개최된 TEKNOFEST Mavi Vatan 2026에서 U-MAV(다목적 모듈식 무인 상륙 차량)를 공개했으며, 이는 해상에서 육상으로 무중단 운송이 가능한 8톤급 플랫폼</p><p>• U-MAV는 유인 해병 상륙 차량(MAV/ZAHA)과의 협력 운영을 위해 설계되었으며, 상륙 작전의 가장 위험한 초기 파도 단계에서 탑승 병력의 대체 역할 수행</p><p>• 해상 7노트, 육상 70km/h의 속도 달성 가능하며, 약 40분 내 현지에서 모듈 교체를 통해 화력 지원, 지뢰 제거, 전자전, 응급 후송 등 10가지 임무 변형 가능</p><p>• FNSS CEO는 "35년 이상의 산업 경험과 NATO 공급자로서의 입지로 이러한 규모와 성능의 무인 상륙 차량을 구축할 수 있는 소수 기업 중 하나"라고 강조</p><p>• U-MAV는 유인-무인 협력 팀(MUM-T) 개념을 구현하여 초기 접촉 시 탑승 병력 피해를 최소화하고 작전 효율성 극대화</p><h3>Key Quotes</h3><p>• "FNSS continues to grow its work and its R&D investment in unmanned and autonomous vehicle technologies. U-MAV brings together our engineering capability, the field success of the Marine Assault Vehicle (MAV) and our continuing R&D effort in a new-generation, heavy-class unmanned amphibious vehicle." (FNSS는 무인 및 자율 차량 기술에 대한 R&D 투자를 지속하고 있으며, U-MAV는 기존 MAV의 현장 성과와 신세대 무인 상륙 차량 개발의 결과를 통합)</p><p>• "Very few companies worldwide can build an unmanned amphibious vehicle of this size and capability. With more than 35 years of experience in the industry and an active production line able to build several different platforms concurrently, FNSS is one of a small number of NATO suppliers that can do so." (이러한 규모와 성능의 무인 상륙 차량을 제작할 수 있는 전 세계 기업은 극히 소수이며, FNSS는 NATO 공급자 중 이를 수행할 수 있는 드문 기업)</p><h3>Technical Insights</h3><p>• **무인-유인 협력 운영 개념(MUM-T)**: U-MAV는 초기 상륙 단계에서 탑승 병력을 위험으로부터 보호하면서 적 해안 방어시설과 먼저 접촉하는 전술적 혁신을 구현하여 상륙작전의 사상자 감소에 기여</p><p>• **모듈식 다목적 플랫폼의 가치**: 약 40분의 빠른 모듈 교체를 통해 10가지 임무 변형을 지원함으로써 단일 플랫폼으로 다양한 작전 요구에 대응 가능한 비용-효율성 달성</p><p>• **해상-육상 연속 운영 능력**: 해상 7노트에서 육상 70km/h의 성능으로 상륙 작전의 임계 단계인 "해상-해안선 통과" 구간에서 운동량 유지 및 적의 방해 최소화</p><p>• **NATO 해군 협력 및 산업 파급 효과**: FNSS의 U-MAV 개발은 터키 해군의 해상 작전 능력 고도화와 함께 NATO 동맹국 간 무인 상륙 플랫폼 기술 공유 및 협력 확대의 신호</p></div>`,
+      tags: ["Unmanned Systems","Amphibious Vehicles","Turkish Navy","Autonomous Platform"],
+      link: "https://www.navalnews.com/naval-news/2026/08/fnss-unveils-u-mav-unmanned-amphibious-vehicle/",
+      coords: [29.8711,40.7606],
+      location: "Kocaeli, Turkey"
+    }
+  ]
+});
+
+// Auto-collected: 2026-08-27
+addEvents({
+  "2026-08-27": [
+    {
+      type: "news",
+      title: "Seatrium Set for Back-to-Back FPSO Sailaways to Petrobras' Brazilian Field",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-08-27",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/08/Seatrium-Petrobras-P-80-and-P-82-FPSO-Christening-Ceremony.jpg?image-crop-positioner-ts=1787820666",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Seatrium이 싱가포르 조선소에서 P-80과 P-82 두 대의 대형 FPSO 유닛을 수주 내에 연달아 출항시키는 업계 최초의 성과를 달성 예정<br>• Petrobras를 위한 47번째, 48번째 프로젝트로 30년 이상의 파트너십 지속, 브라질의 국가 석유 생산량을 10% 증대할 것으로 예상<br>• 각 FPSO는 일일 225,000배럴의 석유 생산과 1,200만 입방미터의 가스 처리 능력을 갖춘 세계 최대급 규모<br>• 두 유닛이 브라질 산토스 분지의 Búzios 심해유전으로 배치되어 9번째, 10번째 FPSO가 되며 일일 450,000배럴 추가 생산(약 34% 증대)<br>• P-78 출항 후 오프쇼어 커미셔닝에 집중하여 기록적 시간 내 최초 석유·가스 생산 달성 목표</p><h3>Key Quotes</h3><p>• "Over the last three decades, we have evolved alongside Petrobras' needs to support its ambitions to be a global energy leader." (지난 30년간 Petrobras의 글로벌 에너지 리더 야망을 지원하기 위해 함께 발전해왔다)</p><p>• "Orchestrating six large, multi-year projects concurrently is incredibly complex. We understand the criticality of these assets for Petrobras and Brazil." (6개의 대규모 다년 프로젝트를 동시에 추진하는 것은 매우 복잡하지만, Petrobras와 브라질에 이들 자산의 중요성을 이해하고 있다)</p><h3>Technical Insights</h3><p>• **FPSO 규모 확대 추세**: P-80/P-82는 일일 450,000배럴 생산 능력으로 세계 최대급 FPSO 규모 달성, 심해유전 개발의 경제성 향상 시사<br>• **복합 프로젝트 관리**: 6개 P-Series FPSO를 동시 건조하는 복잡한 공급망 조율 능력은 대형 오프쇼어 프로젝트 관리의 새로운 기준 제시<br>• **조선산업 경쟁력**: 싱가포르 기반 Seatrium의 연달아 출항(back-to-back sailaway)은 아시아 조선소의 대형 오프쇼어 구조물 건조 및 커미셔닝 역량 강화 의미<br>• **에너지 안보**: 브라질 심해유전의 FPSO 집중 배치로 국가 에너지 생산 안정성 향상 및 Petrobras의 글로벌 경쟁력 강화 기대</p></div>`,
+      tags: ["FPSO","Seatrium","Petrobras","Brazil","Offshore Engineering"],
+      link: "https://www.offshore-energy.biz/seatrium-set-for-back-to-back-fpso-sailaways-as-duo-heads-to-petrobras-brazilian-field-within-weeks/",
+      coords: [103.6278,1.3521],
+      location: "Singapore (Yard) / Búzios Field, Brazil (Deployment)"
+    }
+  ]
+});
