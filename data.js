@@ -15292,3 +15292,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-30
+addEvents({
+  "2026-08-30": [
+    {
+      type: "news",
+      title: "U.S. Army Tests Autonomous 257-Foot Supply Vessel in Hawaii",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-08-30",
+      image: "https://defence-blog.com/wp-content/uploads/2026/08/DB_image_2436.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 미국 육군이 Sea Machines Robotics의 자율항해 기술을 적용한 257피트 규모의 상용 공급선 HOS Resolution을 하와이에서 시험 운영<br>• Sea Machines의 SM300 자율명령통제 시스템이 단 9일 만에 기존 상용선에 설치되어 기술적 획기성 입증<br>• 진주만에서 하와이 빅아일랜드까지 18시간 자율항해 성공으로 대형 선박의 자율화 가능성 확인<br>• 기존 선박의 개조 방식이 새로운 자율선 개발(수년 소요, 막대한 비용)보다 훨씬 효율적임을 시연<br>• Hornbeck Offshore가 선박 소유/운영, 미 육군이 시험 감시 역할 수행</p><h3>Key Quotes</h3><br>• "HOS Resolution wasn't built to be autonomous. Sea Machines added autonomous command and control to the existing commercial vessel in just nine days." (HOS Resolution은 자율항해용으로 설계되지 않았으나, Sea Machines가 기존 상용선에 자율명령통제 기능을 단 9일 만에 추가했다는 의미)</p><p>• "Building a brand-new class of autonomous ship from scratch can take years and cost enormous sums of money. If a company can instead take a ship that already exists... and retrofit it with autonomy in a matter of days, that's a much faster and cheaper way for the military to add more autonomous vessels to its fleet." (신규 자율선 개발은 수년이 소요되고 막대한 비용이 들지만, 기존 선박을 개조하면 훨씬 빠르고 저렴하게 함대에 추가할 수 있다)</p><h3>Technical Insights</h3><br>• SM300 자율명령통제 시스템은 모듈식 배포 패키지로 설계되어, 기존 선박에 대한 신속한 개조·설치가 가능하며 새로운 선급 개발의 시간·비용 부담을 획기적으로 단축<br>• 257피트 대형 상용선의 성공적 자율화는 해양 산업 표준선의 무인화 가능성을 입증하며, 향후 민간 해운업계의 자율화 추진에 기술적 선례 제공<br>• 미 국방부의 자율수상함정(USV) 프로그램과의 연계를 통해 군사용 무인선 확충 전략이 신규 건조에서 기존선 개조로 전환되는 정책적 변화 반영<br>• COLREG 준수 및 해상교통안전관리 측면에서 기존 상용선의 자율화는 국제해사기구(IMO) 자율선박 규정 개발과 병행하여 규제 적응성 강화 필요</p></div>`,
+      tags: ["Autonomous Ships","U.S. Military","Sea Machines Robotics","Unmanned Surface Vessels"],
+      link: "https://defence-blog.com/u-s-army-tests-autonomous-257-foot-vessel-in-hawaii/",
+      coords: [-157.8581,21.3099],
+      location: "Pearl Harbor, Hawaii"
+    }
+  ]
+});
+
+// Auto-collected: 2026-08-28
+addEvents({
+  "2026-08-28": [
+    {
+      type: "news",
+      title: "Iran Condemns US Sanctions as Mediators Push to Reopen Strait of Hormuz",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-28",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockalones-173323.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 호르무즈 해협 폐쇄로 세계 석유 공급량의 20%가 차단된 상태로, 재개가 평화협상의 최대 장애물로 작용 중<br>• 트럼프 행정부가 이란에 대한 추가 경제 제재를 발표했으며, 이를 실시하지 않는 국가들도 2차 제재 위협에 직면<br>• 이란 외교부는 미국 제재를 "국가 테러"이자 "인류에 대한 범죄"로 규탄하고 국제법상 의무 불이행 주장<br>• 카타르 총리가 이란 지도자들과의 협상에서 호르무즈 해협의 사전 전쟁 상태 복구의 중요성 강조<br>• 이란 외교장관 아라흐치가 미국에 압박 중단과 협상 재개를 촉구하며 "압력은 효과가 없다"고 주장</p><h3>Key Quotes</h3><p>• "Putting diplomacy back on track isn't impossible. It hinges on U.S. understanding of one simple fact: pressure doesn't work" (외교 관계 재개는 불가능하지 않으며, 미국이 한 가지 단순한 사실을 이해하는 것에 달려있다: 압력은 효과가 없다)</p><p>• "all countries were obliged under international law to refrain from implementing U.S. sanctions against Tehran" (모든 국가는 국제법상 이란에 대한 미국 제재 이행을 자제할 의무가 있다)</p><p>• "Strait of Hormuz, which handled 20% of world oil supplies before the war began six months ago" (호르무즈 해협은 6개월 전 전쟁 이전에 세계 석유 공급량의 20%를 담당했다)</p><h3>Technical Insights</h3><p>• **해상 운송 경로 폐쇄의 해운업계 영향**: 호르무즈 해협의 폐쇄는 글로벌 해운 네트워크와 유가에 직접적 영향을 미치며, 우회 항로 확대로 선박의 연료비와 운항 시간 증가 초래</p><p>• **IMO 규정과 국제 해운법**: 해상 통로의 국제적 개방 원칙과 자유로운 통항권(Freedom of Navigation)은 IMO와 국제해양법협약(UNCLOS)의 핵심이며, 지정학적 분쟁이 상업 해운에 미치는 영향 평가 필요</p><p>• **자율운항선 도입과 분쟁 해역의 안전성**: 분쟁 상황에서 자율운항선의 배치는 인명 피해 위험을 감소시킬 수 있으나, 좁은 해협의 항해 자동화 기술 신뢰도 및 COLREG 적용의 실효성 재검토 필요</p><p>• **공급망 회복력(Resilience) 전략**: 호르무즈 해협과 같은 병목 해역에 대한 의존도 감소를 위해 해운업계는 대체 해로 투자, 해상 자동화 기술 고도화, 지정학적 리스크 헤징 전략 구축 필요</p></div>`,
+      tags: ["Strait of Hormuz","US Sanctions","Iran","Shipping Routes","Geopolitical"],
+      link: "https://www.marinelink.com/news/iran-condemns-new-us-sanctions-mediators-542530",
+      coords: [56.2431,26.1551],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
