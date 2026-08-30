@@ -15236,3 +15236,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-29
+addEvents({
+  "2026-08-29": [
+    {
+      type: "accident",
+      title: "Romania Probes Cause Of Black Sea Cargo Ship Sinking",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-08-29",
+      image: "https://gcaptain.com/wp-content/uploads/2026/06/2026-06-18T101938Z_1312616097_RC21Z9ARVDRS_RTRMADP_3_UKRAINE-CRISIS-GRAIN-EXPORTS.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 루마니아 해역 내 상선이 화재로 침몰했으며, 로마니아 대통령은 선박이 "피격"된 것으로 추정한다고 발표<br>• 흑해 상선 12명 전원 구조됨 (국경경비대 10명, 선원 2명, 1명 부상)<br>• 러시아-우크라이나 전쟁 이후 흑해 해운 시설에 대한 공격이 2022년부터 지속되고 있으며 2026년 공격 빈도 증가<br>• 루마니아 정부는 사고 원인에 대해 공식 발표를 유보하고 추후 조사를 진행할 예정<br>• 사건은 루마니아 영해 외부에서 발생했으며, 현재 누가 공격을 가했는지에 대한 정보 없음</p><h3>Key Quotes</h3><p>• "The ship was hit… it seems to have sunk," (선박이 피격을 입었으며 침몰한 것으로 보임)<br>• "There will be an investigation, it will be established, but it is not good for us to start speculating" (조사를 통해 밝혀질 것이지만 현 시점에서 추측하는 것은 바람직하지 않음)<br>• "All 12 people on board the merchant ship had been rescued" (선박 탑승 12명 전원 구조됨)</p><h3>Technical Insights</h3><p>• 흑해 지역 해상 안전 악화: 러시아-우크라이나 분쟁으로 인한 반복적 미사일/드론 공격으로 상선의 항해 위험도 극증<br>• 조사 및 증거 수집의 어려움: 국제 수역에서의 사건으로 인한 관할권 문제 및 공격 주체 확인의 복잡성<br>• 해상 보험 및 해운업 영향: 흑해 통과 해운사들의 운영 리스크 증대 및 보험료 상승 우려<br>• 국제 해사법의 한계: 분쟁 지역 해역에서의 비전투원 해상 교통 보호 메커니즘 미흡</p></div>`,
+      tags: ["Black Sea","cargo ship sinking","fire","Russia-Ukraine conflict","maritime attack"],
+      link: "https://gcaptain.com/romania-probes-cause-of-black-sea-cargo-ship-sinking/",
+      coords: [28.97,43.67],
+      location: "Black Sea, off Romania coast"
+    }
+  ]
+});
+
+// Auto-collected: 2026-07-28
+addEvents({
+  "2026-07-28": [
+    {
+      type: "accident",
+      title: "Swedish Prosecutors Charge Ship Master and Pilot Over Fatal Collision with Pleasure Boat",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-08-28",
+      image: "https://gcaptain.com/wp-content/uploads/2026/08/Swedish-Sea-Rescue-Society.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 노르웨이 화물선 Misje Verde가 2026년 7월 28일 스웨덴 Tjörn 인근 Hakefjord에서 레저용 보트와 충돌하여 2명 사망<br>• **피소자**: 화물선의 선장(Master)과 파일럿(Pilot) 2명 모두 과실치사죄, 과실상해죄, 해상교통 과실죄로 기소됨<br>• **핵심 증거**: Voyage Data Recorder(VDR) 분석으로 레저 보트가 레이더 화면에서 명확히 보였음에도 두 피고인이 놓친 것으로 확인<br>• **COLREG 위반**: Rule 5(적절한 감시)와 Rule 13(추월선의 회피 의무) 위반이 기소 근거<br>• **특이점**: 스웨덴 파일럿의 기소는 검찰이 "드문 일"이라고 표현할 정도로 이례적인 조치<br>• **사건 현황**: 피고인들은 모두 혐의를 부인 중이며, VDR 증거가 다리에서의 책임 분담과 상황을 명확히 규명</p><h3>Key Quotes</h3><p>• "The division of responsibilities between the master and the pilot has emerged, and not least the important circumstance that the overtaken and struck pleasure boat was clearly visible as a radar echo on displays on the bridge, information that was missed by both defendants." - Senior Prosecutor James von Reis<br>  (선장과 파일럿 간의 책임 분담이 명확해졌으며, 특히 추월당한 레저 보트가 브리지의 레이더 화면에서 명확한 레이더 에코로 보였음에도 두 피고인이 이 정보를 놓친 사실이 중요하다)</p><p>• "Both men have been charged with causing death through negligence, causing bodily injury through negligence and negligence in maritime traffic."<br>  (두 명 모두 과실에 의한 사망, 과실에 의한 신체 상해, 해상교통 과실죄로 기소되었다)</p><h3>Technical Insights</h3><p>• **VDR 증거의 중요성**: Voyage Data Recorder가 브리지 상황, 음성 통신, 레이더 화면의 실시간 정보를 기록하여 사고 원인 규명과 책임 배분에 결정적 역할 수행 - 향후 해상사고 수사의 표준 증거 자료로 활용됨<br>• **COLREG 규칙 준수 부실**: Rule 5의 적절한 감시(Proper Lookout) 의무와 Rule 13의 추월선 회피 의무 미이행이 형사 책임의 핵심 - 기술적 감시 수단(레이더)이 있어도 인적 감시 실패 시 법적 책임 발생<br>• **파일럿 책임의 법적 재정의**: 스웨덴 검찰의 파일럿 기소는 선박 조종 과정에서 파일럿의 법적 책임을 강화하는 선례로 작용할 가능성 - IMO 규정상 파일럿의 책임 한계에 대한 국내법적 해석 변화 반영<br>• **산업적 함의**: 해상교통 안전 강화를 위해 기술적 감시 수단의 활용과 인적 감시의 이중화가 필수임을 재확인 - 자율운항선의 센서 및 AI 시스템 도입 시 적절한 감시 기준 설정의 중요성 증대</p></div>`,
+      tags: ["collision","fatality","cargo ship","COLREG violation","negligence"],
+      link: "https://gcaptain.com/swedish-prosecutors-charge-ship-master-and-pilot-over-fatal-collision/",
+      coords: [11.46,58.18],
+      location: "Hakefjord (Tjörn), Sweden"
+    }
+  ]
+});
+
+// Auto-collected: 2026-08-28
+addEvents({
+  "2026-08-28": [
+    {
+      type: "news",
+      title: "HAVELSAN Unveils AVISTA: New Underwater Autonomy Project for Unmanned Marine Vehicles",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-08-28",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/08/AVISTA_1-1.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• HAVELSAN이 TEKNOFEST Blue Homeland 2026에서 AVISTA 수중 자율화 프로젝트를 최초 공개 - SANCAR, RAFNAR 무인 해양 차량 개발 경험을 바탕으로 한 자체 자금 지원 R&D 사업</p><p>• AVISTA의 주요 개발 목표는 GNSS 불가 수중 환경에서의 정밀 위치결정, 3D 수중 지도 제작, 선체 검사, 수중 핵심 구조물 보호 및 통합 수중 보안 능력 확보</p><p>• 고비용 수중 센서 및 수입 제한 문제 해결을 위해 비용 효율적인 센서와 자율 알고리즘 개발 - ÇAKA 반자동 무인 해양 차량(H-UMV)에 직접 적용 예정</p><p>• 6자유도 원격 조종 수중 차량(ROV)을 개발 및 시험 플랫폼으로 사용하며, 플랫폼 독립적 알고리즘 및 소프트웨어 아키텍처로 설계</p><p>• 민간·공공 보안 분야 적용 가능 - 수중 수색 구조, 법의학 조사, 기반시설 검사, 항만 보안 등 다양한 용도 지원</p><p>• HAVELSAN, 2027년까지 수중 기술 분야 신제품 운영 준비 완료 목표 - 대잠전, 대함전, 기뢰전, 해저전 능력 강화에 기여</p><h3>Key Quotes</h3><p>• "Through the AVISTA project, HAVELSAN aims to develop national capabilities for precise positioning in underwater environments where GNSS access is unavailable" (AVISTA 프로젝트를 통해 HAVELSAN은 GNSS 접근 불가 수중 환경에서 정밀 위치 결정을 위한 국내 능력 개발을 목표로 함)</p><p>• "AVISTA is being developed with platform-independent algorithms and software architecture. This approach is intended to facilitate AVISTA's future integration into different underwater vehicles" (AVISTA는 플랫폼 독립적 알고리즘과 소프트웨어 아키텍처로 개발되어 향후 다양한 수중 차량으로의 통합을 용이하게 할 예정)</p><p>• "The capabilities developed under the project are also expected to support civilian and public security applications, including underwater search and rescue operations, forensic investigations" (프로젝트에서 개발된 능력은 수중 수색 구조, 법의학 조사 등 민간 및 공공 보안 응용 분야를 지원할 것으로 예상됨)</p><h3>Technical Insights</h3><p>• **자율 수중 항법 기술**: GNSS 신호 불가 수중 환경에서 자체 위치결정 알고리즘 개발은 IMO 규정상 자율선박 항법의 핵심 요구사항 - 수중 드론의 COLREG 준수 기반 제공</p><p>• **센서 국산화 및 비용 절감**: 고가 수중 센서 국내 개발을 통해 무인 해양 차량의 운영 비용 감소 및 공급망 독립성 확보 - 국방 자급률 향상</p><p>• **플랫폼 중립적 설계**: 다양한 수중 차량(ROV, AUV, 소형 잠수정 등)에 통합 가능한 아키텍처는 업계 표준화 추세와 일치하며, ADVENT 전투체계와의 연동으로 통합 운영 효율성 증대</p><p>• **민군 겸용 기술**: 해양 인프라 검사, 항만 보안, 수중 수색구조 등 민간 응용은 수중 자율 로봇의 시장 확대 기회 제공 - 향후 상용 무인 수중 탐사 플랫폼으로의 확산 가능성</p></div>`,
+      tags: ["Autonomous Underwater Vehicles","HAVELSAN","Unmanned Marine Systems","Underwater Positioning","Turkish Defense Tech"],
+      link: "https://www.navalnews.com/naval-news/2026/08/havelsan-unveils-avista-new-underwater-autonomy-project/",
+      coords: [29.9464,40.6428],
+      location: "Gölcük, Turkey"
+    }
+  ]
+});
