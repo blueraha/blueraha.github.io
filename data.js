@@ -15374,3 +15374,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-31
+addEvents({
+  "2026-08-31": [
+    {
+      type: "news",
+      title: "Japan's Record FY2027 Defense Budget Request: Focus on AI, Unmanned Assets, and Maritime Capabilities",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-08-31",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/08/ASEV-Metalogic_3DCG_2.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 일본 방위부가 2027회계연도에 사상 최대 규모인 8조 9천억 엔(555억 달러)의 국방예산을 요청하였으며, 최종 예산은 10조 엔을 초과할 것으로 예상됨</p><p>• 예산 편성의 주요 초점은 AI와 무인자산(UAV, USV 등)에 대한 투자로, 일본이 새로운 전쟁 양식에 대응하려는 전략적 의도를 반영함</p><p>• 해상자위대(JMSDF) 관련 주요 사업: 신형 FFM(모가미급 개선형) 12척 중 추가 건조, 이지스 시스템 장착함(ASEV) 2척 건조, 사쿠라급 해양순찰함(OPV) 12척 계획, 타이게이급 잠수함 추가 건조</p><p>• 신형 FFM은 2025년 호주 해군이 선정한 다목적 호위함의 기반이 되는 설계로, 국제 해양 안보 협력의 중요성을 시사함</p><p>• 장기체류 무인항공기(long-endurance UAV) 획득 및 대함(stand-off) 및 해중전 능력 강화를 통해 원거리 감시 및 작전 능력 확대 추진 중</p><p>• 15년 연속 증액, 13년 연속 사상 최고액 달성으로 지역 안보 경쟁 심화와 해양 안보의 전략적 중요성이 증가하고 있음을 의시함</p><h3>Key Quotes</h3><p>• "Japan seeks to adapt to what the ministry calls 'new ways of warfare'" (일본 방위부가 새로운 전쟁 양식에 적응하기 위해 전략을 추진 중)</p><p>• "The New FFM is also the basis for the future general-purpose frigate selected by the Royal Australian Navy in 2025" (신형 FFM은 2025년 호주 해군이 선정한 미래 다목적 호위함의 기반이 됨)</p><p>• "The JMSDF plans to eventually operate 12 ships of the class, with the first six already funded. The 1,920-tonne OPVs...are designed to operate UAVs, including the V-BAT, as well as RHIBs and USVs" (해자는 최종적으로 12척의 사쿠라급 함정 운영을 계획하고 있으며, 1,920톤급 OPV는 UAV, 소형고속정, 무인수상함정 운영이 가능하도록 설계됨)</p><h3>Technical Insights</h3><p>• **AI/무인자산 통합 해양전력**: 일본 방위부는 UAV, USV, 무인잠수정 등 다양한 무인자산의 통합 운용을 강조하고 있으며, 이는 IMO와 COLREG에서 다루어야 할 자율항행 함정의 규제 체계 정립의 시급성을 부각시킴</p><p>• **다국적 기술 표준화**: 호주 해군과의 FFM 협력을 통해 인도-태평양 지역 해양안보 동맹이 기술 표준화를 추진 중이며, 자율항행 함정의 국제 운영 기준 수립에도 영향을 미칠 것으로 예상됨</p><p>• **장거리 감시-제어 체계**: 장기체류 UAV와 해중 무인자산의 확대는 선박의 자동 항행·의사결정 능력 요구도를 높이며, COLREG 준수와 충돌회피 자동화 시스템의 고도화가 필수적인 산업 과제로 부상함</p><p>• **해양 방위 산업의 자동화 추세**: 서브 전력 확충과 무인시스템 연동을 통해 해양 방위 산업에서도 자율항행·AI기반 운영이 가속화될 것으로 보이며, 민간 해운 산업의 자율항행 도입에도 기술 스핀오프 효과를 가져올 수 있음</p></div>`,
+      tags: ["Japan","Defense Budget","Maritime","Autonomous Systems","AI","JMSDF","Submarines"],
+      link: "https://www.navalnews.com/naval-news/2026/08/japan-record-fy2027-defense-budget-new-ffm-submarines/",
+      coords: [139.6917,35.6895],
+      location: "Tokyo, Japan"
+    }
+  ]
+});
