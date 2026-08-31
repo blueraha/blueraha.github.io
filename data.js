@@ -15330,3 +15330,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-30
+addEvents({
+  "2026-08-30": [
+    {
+      type: "accident",
+      title: "At Least Six People Dead In Northern Cyprus Ferry Capsizing",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-08-30",
+      image: "https://gcaptain.com/wp-content/uploads/2026/08/2026-08-16T172413Z_1631666540_RC2RZMADIAOR_RTRMADP_3_EUROPE-WEATHER-GREECE-WILDFIRE-800x534.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 고속 여객선 Filojet가 북키프로스 키레니아에서 터키 타수주로 항해 중 전복하여 최소 6명 사망<br>• 총 267명(승객 259명, 승무원 8명) 탑승 중 오후 중순까지 172명이 성공적으로 구조됨<br>• 선박이 키레니아 해안으로부터 약 4마일(6.5km) 떨어진 지점에서 침수 시작<br>• 터키키프로스 해안경비대 및 구조 헬기가 투입되어 구조 작업 진행<br>• 운송부 장관 Erhan Arikli는 선박이 침수된 원인을 "아직 파악하지 못했다"고 언급<br>• 북키프로스 총리 Unal Ustel과 운송부 장관이 현장으로 이동하여 수습 작업 감독</p><h3>Key Quotes</h3><p>• "We don't know what caused the vessel to take on water" (선박이 왜 침수되었는지 원인을 알 수 없다는 의사 표현)<br>• "The ferry began taking on water about 4 miles (6.5 kilometers) off the coast of Kyrenia" (해안으로부터 약 6.5km 떨어진 지점에서 침수 시작)</p><h3>Technical Insights</h3><p>• 고속 여객선의 안정성 메커니즘 실패 가능성 - 선박 전복 원인 규명이 중요한 안전 개선 과제<br>• 해협 항로 통과 중 악천후 또는 기술적 결함에 의한 침수 사고는 국제해사기구(IMO) 안전 규정 강화 필요성을 시사<br>• 신속한 해상 구조 체계의 중요성 - 전체 267명 중 172명(약 64%)을 성공적으로 구조하여 해안경비대의 빠른 대응이 인명 피해 최소화에 기여</p></div>`,
+      tags: ["Ferry Capsizing","Cyprus","Turkey","Search and Rescue","Maritime Casualty"],
+      link: "https://gcaptain.com/at-least-six-people-dead-in-northern-cyprus-ferry-capsizing/",
+      coords: [33.9425,35.1856],
+      location: "Kyrenia, Northern Cyprus / Tasucu, Turkey route"
+    },
+    {
+      type: "accident",
+      title: "Ferry Capsizes Off Cyprus, At Least 8 Dead and 18 Missing",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-08-31",
+      image: "https://images.marinelink.com/images/maritime/w800/viacheslav-adobe-173329.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 북키프로스 키레니아 항구에서 출발한 여객선이 2026년 8월 30일 일요일 터키 타수쿠 항구로 향하던 중 캡슐화되어 최소 8명 사망, 18명 실종<br>• 정원 270명(승객 267명 포함 승무원 8명) 중 241명이 구조되었으며, 선박은 514미터 깊이의 해저에 침몰<br>• 선체의 이중 선체 구조 손상으로 물이 유입되었으며, 생존자들은 선박이 불규칙하게 움직이다가 급격히 공중으로 솟아올랐다가 내려앉으면서 파손되었다고 증언<br>• 터키와 북키프로스 당국이 선장 및 7명의 선원을 조사를 위해 구금했으며, 터키 잠수부들이 수색 및 구조 작업에 참여<br>• 토요일의 악천후에 이어 발생한 사건으로, 지역사회에 충격을 주었으며 양측 정부가 추모의 뜻을 표현</p><h3>Key Quotes</h3><p>• "The vessel had been moving very badly. It was constantly lifting out of the water and slamming back down. It was shaking violently." (선박이 계속 물 위로 떠올랐다가 내려앉기를 반복하며 격렬하게 흔들렸다)</p><p>• "Three or four minutes later, the ferry leapt high into the air, then came crashing down. The front left side burst open and water started pouring in." (3~4분 후 여객선이 공중으로 높이 솟아올랐다가 추락했으며, 앞쪽 좌측이 터져서 물이 쏟아져 들어왔다)</p><p>• "There is a great sense of shock here. This is not something we have experienced before," (이곳에 큰 충격이 있습니다. 우리가 경험해본 적 없는 일입니다) - Turkish Cypriot Leader Tufan Erhurman</p><h3>Technical Insights</h3><p>• **이중선체 구조 결함**: 여객선의 이중선체 설계가 비정상적인 해상 동작(엘리베이터 현상, 선수 부분 반복적 충돌)에 견디지 못하고 파손되어 침수 발생 - 선체 강도 설계 및 운용 조건 재검토 필요</p><p>• **악천후 항해 판단**: 토요일 악천후 이후 일요일 기상 조건이 "운항 가능"으로 판단되었으나 실제 해상 상태는 위험했던 점으로 보아, 동지중해 지역의 기상 예측 및 해상 상태 판단 기준 개선 필요</p><p>• **규제 및 안전 감시**: 북키프로스의 국제적 미승인 상태로 인한 선박 안전 기준 및 감시 체계의 공백 가능성 - IMO 해양 안전 규제의 국제적 일관성 강화 필요</p><p>• **승객 안전 절차**: 271명 중 241명 구조로 약 10% 사상자 발생 - 신속한 대피 절차, 생명보트 배치, 승무원 훈련 등 IMO SOLAS 규정 준수 여부 재검토 필요</p></div>`,
+      tags: ["ferry capsize","maritime casualty","Eastern Mediterranean","rescue operation"],
+      link: "https://www.marinelink.com/news/death-toll-rises-ferry-capsizes-off-542539",
+      coords: [33.1843,35.234],
+      location: "Off Kyrenia, North Cyprus"
+    },
+    {
+      type: "news",
+      title: "Houthi Unmanned Attack Boat Base Destroyed by Yemeni National Resistance Forces",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-08-30",
+      image: "https://maritime-executive.com/media/images/article/Photos/Navy_Govt_CoastGuard/Houthi-unmanned-boat-targeted.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 예멘 국제승인정부 산하 국가저항세력(NRF)이 홍해 연안 후티 해군기지의 투판-1 무인공격선 2척을 파괴했으며, 이는 후티 반란군의 해상무장역량 약화를 의미함</p><p>• 투판-1은 150kg 탄두, 35노트 속력의 무선조종식 공격선으로, 2024년 6월 그리스 소유 화물선 Transworld Navigator와 라이베리아 선적 MV Tutor 공격에 사용되어 후자는 필리핀 선원 1명 사상 후 침몰</p><p>• 8월 24일 바브엘만데브 해협을 통해 침입한 다우선에서 중국·이란산 드론 제조용 전기부품 수백 개분과 이란 혁명수비대(IRGC) 관련 서류 적발</p><p>• 후티 무장세력은 2017년 1월 사우디 해군 프리깃함 HMS Al Madinah 공격으로 2명 사상 사례 보유, 자체 제작 무인공격선 오랜 역사 보유</p><p>• 무인공격선의 위치상 사우디 북부 해역 타겟 지향으로 추정되며, 이는 홍해의 국제해상운송 위협 지속을 의미</p><h3>Key Quotes</h3><p>• "The Tufan-1 is claimed to have a 150kg warhead with radio-controlled steerage, and a closing speed of 35 knots." (투판-1은 150kg 탄두와 무선조종식 조향장치, 35노트의 접근속도를 갖춘 것으로 알려짐)</p><p>• "The Houthis have a long history of building their own radio-controlled attack boats, and used one in January 2017 to attack the Royal Saudi Naval Force frigate HMS Al Madinah (F702), killing two Saudi sailors." (후티 반란군은 자체 제작 무선조종 공격선의 오랜 역사를 가지고 있으며, 2017년 1월 사우디 해군 함정 공격으로 2명을 사상시킨 전례 보유)</p><h3>Technical Insights</h3><p>• **자율항법 vs 무선조종 기술**: 투판-1의 무선조종식 운영은 자율항법 드론과 달리 모선의 지속적 제어 필요로 요격 취약점 노출, 향후 자율 무인선박 기술 발전 시 보안 위협 증대 예상</p><p>• **국제해양안전규칙 적용 한계**: 홍해 해역의 비국가 무장세력 공격선 출현은 기존 COLREG 규칙으로는 대응 불가, IMO 차원의 비정규 해상위협 대응 규제 강화 필요</p><p>• **공급망 감시의 중요성**: 이란 전기부품 적발 사례는 드론 제조 물자의 국제 해상 운송 감시 필요성을 증명하며, 해상보안 체크포인트 강화와 신고 의무화 요구</p><p>• **상용해운 취약성**: MV Tutor 침몰 사례로 증명된 무인공격선의 치명성은 민간 화물선의 방어능력 부재를 노출하며, 고위험 해역 운항 선박의 방어체계 또는 우회 해로 도입 필수</p></div>`,
+      tags: ["Houthi","Unmanned Attack Boats","Tufan-1","Yemen Red Sea","Maritime Security"],
+      link: "https://maritime-executive.com/article/houthi-s-unmanned-attack-boat-base-destroyed-by-yemeni-forces",
+      coords: [42.5,15.3],
+      location: "Yemen Red Sea Coast"
+    }
+  ]
+});
