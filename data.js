@@ -15426,3 +15426,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-01
+addEvents({
+  "2026-09-01": [
+    {
+      type: "news",
+      title: "Destinus, OMT, and CUBEDIN Partner on Containerized Naval Counter-UAS Module",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-09-01",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/08/Destinus-Hornet-B2-C-UAS-interceptor-DALO-1.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **유럽 방위 기업 3사의 전략적 협력**: Destinus, CUBEDIN, OMT Group이 함정 탑재 대드론 시스템의 표준화된 모듈화 개발을 위해 양해각서 체결<br>• **Hornet 요격기의 해상 플랫폼 통합**: 10피트/20피트 ISO 표준 컨테이너 규격으로 기존 군함 및 신규 함정에 신속 통합 가능한 설계 추진<br>• **다층 방어 체계 구축**: 고가의 함대공 미사일 소비를 줄이고 다량의 저비용 드론 위협(Class 2 UAS)에 대한 확장 가능한 방어층 제공<br>• **모듈식 아키텍처의 이점**: 함전 시스템(CMS) 대규모 개조 없이 임무 프로필에 따라 탑재·하역 가능한 유연성 확보<br>• **개발 일정**: PDR, CDR을 거쳐 해군 승인 시험(Naval Qualification Testing) 추진, 유럽 해군 대상 영업 계획</p><h3>Key Quotes</h3><p>• *"Navies need more defence and deterrence capacity against threats that keep multiplying, without spending a high-end missile on every engagement. A modular mission architecture is a practical way to bring Hornet aboard different vessel classes without redesigning the ship around it."* (해군은 계속 증가하는 위협에 대응하면서도 모든 교전에 고가 미사일을 소비하지 않을 방어력이 필요하며, 모듈식 미션 아키텍처는 함정을 재설계하지 않고 다양한 함급에 Hornet을 탑재할 수 있는 실용적 방안이다 — Destinus 상업 최고책임자 Wouter van Beek)</p><p>• *"Modularity and adaptability are becoming defining requirements for future naval capabilities."* (모듈성과 적응성은 미래 해군 능력의 정의적 요구사항이 되고 있다 — OMT Group CEO Kåre Groes Christiansen)</p><h3>Technical Insights</h3><p>• **ISO 표준 컨테이너 기반 통합**: 10/20피트 표준 규격 도입으로 함정 간 상호운용성 극대화 및 신속한 전개·철수 가능, 해군 플랫폼 다양성에 대응하는 확장 가능 설계 철학</p><p>• **전투관리시스템(CMS) 최소 개조 원칙**: 기존 함정의 CMS 대규모 개조 회피로 통합 비용·일정 단축 및 여러 함급(Retrofit/Newbuild) 동시 적용 가능한 산업 표준화 추진</p><p>• **다층 방어의 경제성**: 저비용 드론 위협 증가에 대응하면서 고가 함대공 미사일의 효율적 운용 전략 제시, 유럽 해군의 점방위(Point-Defense) 능력 강화 및 예산 최적화 기여</p><p>• **국방산업 생태계 활성화**: 요격기(Effector) 기술, 해상 플랫폼 엔지니어링, 표준 인터페이스를 통합하는 컨소시엄 모델로 개념에서 실제 운영 능력까지의 경로 단축 및 산업 신뢰도 향상</p></div>`,
+      tags: ["Counter-UAS","Naval Defense","Modular Systems","European Defense"],
+      link: "https://www.navalnews.com/naval-news/2026/09/destinus-omt-and-cubedin-teaming-up-on-containerized-c-uas-module/",
+      coords: [9.1234,56.4045],
+      location: "Herning, Denmark"
+    },
+    {
+      type: "news",
+      title: "Korea's First Specialized HVDC Cable-Laying Vessel Keel Laid at Tersan Shipyard",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-09-01",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/09/Keel-laid-for-Koreas-only-specialized-HVDC-installation-vessel.jpg?image-crop-positioner-ts=1788246730",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **케이엘 거동**: LS Marine Solution이 터키 Tersan Shipyard에서 발주한 차세대 HVDC 해저 케이블 매설선 InterOcean (선체번호 NB1139)의 기공식이 2026년 8월 31일 개최되었음</p><p>• **선박 제원 및 성능**: 총 길이 148.4m, 폭 31m, 적재량 13,000톤, 총 배수량 18,800톤으로 설계되었으며, 세계 상위 5위의 케이블 적재 용량과 아시아 최대 규모를 보유</p><p>• **기술 특징**: 노르웨이 Salt Ship Design이 설계했으며, HVDC 해저 케이블과 광섬유 케이블을 동시에 매설할 수 있는 능력을 갖춘 한국 유일의 전문화된 HVDC 설치선</p><p>• **투자 규모 및 일정**: 약 €221 million의 투자로 진행되며, 2025년 6월 계약 체결, 2026년 7월 공사 착공, 2028년 상반기 인수 예정</p><p>• **산업적 의의**: 해상 풍력 발전과 국제 전력망 연결에 필수적인 HVDC 케이블 매설 능력 강화로 한국 해양 에너지 산업의 국제 경쟁력 제고</p><h3>Key Quotes</h3><p>• "We have successfully celebrated the keel laying of the next‑generation cable laying vessel InterOcean (Hull No. NB1139) which we built for LS Marine Solution. This milestone ceremony marks the official transition of the project into the construction phase." (InterOcean의 기공식은 프로젝트가 공식적으로 건설 단계로 전환되었음을 표시하는 중요한 이정표임)</p><p>• "...capable of simultaneously laying HVDC submarine cables and fiber optic cables and will be one of the world's top five in terms of cable loading capacity and the largest in Asia, as well as Korea's only specialized HVDC installation vessel" (HVDC 해저 케이블과 광섬유 케이블을 동시에 매설할 수 있으며, 세계 상위 5위 규모의 케이블 적재 용량을 가진 아시아 최대 규모 선박)</p><h3>Technical Insights</h3><p>• **HVDC 케이블 매설 기술 진화**: 차세대 CLV의 동시 다중 케이블 매설 능력은 해상 풍력과 국제 고압직류(HVDC) 전력망 연결 효율성을 획기적으로 향상시키며, 에너지 전환 시대의 핵심 인프라 구축에 기여</p><p>• **해양 에너지 산업 경쟁력**: 한국의 유일한 전문화된 HVDC 설치선 보유로 북해 및 아시아-태평양 지역 해상 풍력 프로젝트에서 기술적 주도권 확보 가능</p><p>• **조선업 고부가가치화**: €221 million 규모의 고기술 특화선 건조는 한국 조선산업의 대형 컨테이너선과 LNG선 중심 구조에서 고부가가치 해양 에너지 플랫폼으로의 다각화 전략 실현</p><p>• **국제 해양 에너지 협력 강화**: 노르웨이 설계사와의 협업과 터키 조선소와의 파트너십은 글로벌 해양 에너지 인프라 구축에 있어 국제 협력 강화의 좋은 예시</p></div>`,
+      tags: ["Cable-Laying Vessel","HVDC Installation","LS Marine Solution","Shipbuilding"],
+      link: "https://www.offshore-energy.biz/keel-laid-for-koreas-only-specialized-hvdc-installation-vessel/",
+      coords: [35.2433,38.7969],
+      location: "Türkiye (Tersan Shipyard)"
+    }
+  ]
+});
