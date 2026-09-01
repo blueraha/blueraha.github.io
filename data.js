@@ -15394,3 +15394,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-08-31
+addEvents({
+  "2026-08-31": [
+    {
+      type: "accident",
+      title: "Tanker Incident with Military Forces Reported Off Oman Amid U.S.-Iran Escalation",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-08-31",
+      image: "https://gcaptain.com/wp-content/uploads/2026/07/CENTCOM-Blockade.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **주요 사건**: 영국 해상 무역 운영(UKMTO)이 오만 동쪽 인도양에서 탱커와 군사 세력 간 사건 발생을 보고했으며, 미국의 이란 해상 봉쇄 정책과 연계된 가능성이 제기됨</p><p>• **발생 위치 및 배경**: 사건은 호르무즈 해협 외부의 아라비아해에서 발생했으며, 미국은 4월부터 이란 항구를 드나드는 선박을 대상으로 해상 봉쇄를 시행 중</p><p>• **군사 충돌 심화**: 지난 주말 미 군부가 라락 섬의 이란 로켓 발사기를 공격했고, 이란이 미 요르단 기지를 미사일로 보복하는 등 양측 긴장 고조</p><p>• **추가 사건**: 호르무즈 해협 카삭 북쪽 12해리에서 탱커가 정체불명의 발사체에 피격되는 별도 사건도 동일 기간에 발생</p><p>• **해상 안전 우려**: UKMTO는 선박 운항자들에게 최신 해상 보안 정보 고려 및 운영 환경 변화에 대한 주의 강화를 권고</p><h3>Key Quotes</h3><p>• "Vessels are advised to consider the latest maritime security information and maintain awareness of the evolving operational environment" (선박 운항자들은 최신 해상 보안 정보를 고려하고 진화하는 운영 환경을 지속적으로 인식할 필요가 있음)</p><p>• "The U.S. military established the blockade in April, targeting ships entering or departing Iranian ports. U.S. forces have since boarded and seized multiple Iran-linked tankers" (미 군부는 4월에 이란 항구 출입 선박을 대상으로 한 봉쇄를 확립했으며, 이후 이란 연계 다수 탱커를 나포함)</p><p>• "Iran continues to assert control over navigation through the waterway, and commercial traffic remains severely disrupted" (이란은 해상로 통항 통제권을 계속 주장하고 있으며, 상업 해운은 심각하게 차질을 빚고 있음)</p><h3>Technical Insights</h3><p>• **해상 안보 위기**: 미국-이란 간 군사적 대립이 심화되면서 호르무즈 해협 및 인도양 항로의 해상 운송 안전이 심각하게 위협받고 있으며, 국제 상선의 보험료 상승 및 운항 회피 현상 가속화</p><p>• **IMO 해상 규칙 적용의 한계**: 분쟁 지역에서 군사 세력의 탱커 나포 및 무력 충돌이 국제 해사법 및 COLREG의 적용을 위반하는 사례가 증가하고 있어, IMO의 중재 역할 강화 필요</p><p>• **자율운항 선박의 취약성**: 현재 군사 충돌이 격화되는 상황에서 원격 조종 또는 자율운항 선박의 운영이 극도로 위험하며, 인간 선원의 즉각적 판단 및 대응 능력의 중요성 재부각</p><p>• **해운 업계의 경제적 영향**: 해상 봉쇄 및 선박 피격 사건으로 인한 해운료 급등과 화물 운송 지연이 글로벌 공급망에 직접적 타격을 주고 있으며, 대체 해로(예: 케이프 루트) 선택에 따른 운영 비용 증가 심화</p></div>`,
+      tags: ["Tanker Incident","Military Forces","U.S.-Iran Tensions","Maritime Blockade","Arabian Sea","UKMTO Advisory"],
+      link: "https://gcaptain.com/tanker-incident-involving-military-forces-reported-off-oman-amid-u-s-iran-escalation/",
+      coords: [59.5,18.5],
+      location: "Indian Ocean, East of Oman (Arabian Sea)"
+    },
+    {
+      type: "news",
+      title: "Shell's DMR liquefaction technology enters wider FLNG market via Wison partnership",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-08-31",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/08/Illustration-Source-Wison-New-Energies.jpg?image-crop-positioner-ts=1788185228",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Shell과 중국의 Wison New Energies(WNE)가 전략적 협력 계약을 체결하여 Shell의 이중 혼합 냉매(DMR) 액화 기술을 광범위한 LNG 시장에 공급하게 됨</p><p>• Shell의 DMR 기술은 이전까지 Shell의 자체 프로젝트에만 배포되었으나, 이번 협력을 통해 처음으로 시장 전체에 개방됨</p><p>• Wison은 자사의 통합 FLNG 배송 모델(EPCIC, O&M 역량 및 선진 조선소)과 Shell의 LNG 공정 전문성을 결합하여 경쟁력 있는 가치 제안 창출</p><p>• Shell Catalysts & Technologies는 FLNG 프로젝트의 Pre-FEED, FEED, EPC 단계에서 DMR 기술 통합 지원 및 공정 성능 보증 제공</p><p>• DMR 기술은 효율성, 소형화, 유연성을 결합하여 다양한 프로젝트 규모에 확장 가능하며 비용 경쟁력과 공간 효율성이 중요한 FLNG 시장에 최적화</p><h3>Key Quotes</h3><p>• "This collaboration with Shell significantly strengthens our FLNG offering. By integrating Shell's DMR technology, we can provide our clients with a wider range of high‑performance solutions tailored to their project needs." (Shell의 DMR 기술 통합을 통해 고객에게 프로젝트 맞춤형 고성능 솔루션의 광범위한 선택지를 제공 가능)</p><p>• "Shell's DMR technology is an established solution for floating and onshore LNG facilities. It combines efficiency, compactness and flexibility to deliver tailored carbon intensity outcomes with the ability to scale across different project sizes." (효율성, 소형화, 유연성을 결합하여 탄소 강도 최적화 및 다양한 규모 확장성 제공)</p><h3>Technical Insights</h3><p>• DMR(Dual Mixed Refrigerant) 기술의 시장 확대: 기존 Shell 자체 프로젝트 한정에서 벗어나 독립적인 FLNG 공급업체를 통한 광범위한 시장 진입으로 기술 표준화 가속화 예상</p><p>• FLNG 시장의 기술 경쟁력 강화: 소형화, 고효율, 탄소 강도 최적화 등 차세대 FLNG 프로젝트의 핵심 요구사항을 충족하여 부유식 LNG 솔루션의 경제성 및 환경성 동시 달성</p><p>• 동서양 협력 모델: 중국의 조선소 및 통합 배송 역량과 서구 선진 기술의 결합으로 글로벌 FLNG 시장에서의 비용 경쟁력 강화 및 프로젝트 납기 단축 가능성</p><p>• 산업 표준화 추진: Pre-FEED부터 EPC까지 전 단계에서의 Shell의 기술 지원 및 성능 보증을 통해 FLNG 사업의 리스크 감소 및 운영 신뢰성 제고</p></div>`,
+      tags: ["FLNG","LNG technology","Shell","Wison","liquefaction"],
+      link: "https://www.offshore-energy.biz/shells-technology-set-to-enter-wider-flng-market-through-wison-deal/",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
