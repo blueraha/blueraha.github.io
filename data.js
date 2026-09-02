@@ -15490,3 +15490,40 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-02
+addEvents({
+  "2026-09-02": [
+    {
+      type: "news",
+      title: "Ukraine Destroys Russian KAMA-Class Naval Drone in Black Sea",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-09-02",
+      image: "https://defence-blog.com/wp-content/uploads/2026/09/DB_image_2493.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 우크라이나 해군이 흑해 스네이크 섬 인근에서 러시아의 무인 수상함정(KAMA급)을 격파하였으며, 바이락타르 TB2 드론에서 투발된 정밀 탄약으로 격파<br>• 파괴된 함정은 러시아 드론 제조사 ZALA에서 개발한 KAMA급 무인정으로 민간용 및 이중사용 목적으로 공개되었던 신형 플랫폼<br>• KAMA급은 해안으로부터 700km의 최대 항정거리와 600kg의 탑재능력을 보유하며 30노트의 최대속도로 운영 가능<br>• 러시아는 2026년 6월 크론슈타트에서 개최된 국제해양방위전시회(FLOT-2026)에서 KAMA급을 공개하였으며, 수로조사, 환경모니터링, 해상구조, 항만보안 등 민간 임무로 표방<br>• 방위분석가들은 KAMA급이 민간용 명목에도 불구하고 실제 공격용으로 개조 가능한 모듈식 탑재체 설계를 보유하고 있다고 평가<br>• 스네이크 섬은 우크라이나 곡물 수출 해상운송로의 전략적 요충지로서 전쟁 기간 반복적인 해상분쟁이 발생한 지역</p><h3>Key Quotes</h3><p>• "Ukraine's Navy said the destroyed vessel was likely a KAMA-class uncrewed boat built by Russian drone maker ZALA" (우크라이나 해군은 격파된 함정이 러시아 드론 제조사 ZALA의 KAMA급 무인정이라고 발표)<br>• "the design closely resembles other Russian uncrewed surface vessels already documented in offensive roles" (설계가 이미 공격 용도로 운영 중인 다른 러시아 무인 수상함정과 유사함)<br>• "despite ZALA's framing of the platform around civilian applications...such an adaptation could not be ruled out given the platform's modular payload capacity" (민간용으로 표방되었음에도 불구하고 모듈식 탑재체 설계로 인해 공격용 개조 가능성 배제 불가)</p><h3>Technical Insights</h3><p>• 러시아의 무인 수상함정(USV)이 민간용 명목으로 공개되었으나 실제 군사용으로 운영되는 사례로, 이중용도 기술(Dual-use Technology)의 국제 규제 필요성을 대두<br>• KAMA급의 700km 항정거리와 600kg 탑재능력은 표준 COLREGs 준수 체계로는 감시 및 격파가 어려운 신형 해상위협 플랫폼을 의미하며, IMO 차원의 무인 수상함정 규제 기준 강화 필요<br>• 모듈식 페이로드 설계를 통한 공격형 무인정 개조는 기존 항법 안전 규범(SOLAS, STCW)의 적용 범위 외 신규 위협으로 분류되며, 해양 자율운항 기술의 군사 악용 대응 체계 구축 시급<br>• 우크라이나의 해상 드론 격파 작전은 대(對)무인정 방어 체계의 발전과 함께 자율운항 해양 플랫폼의 사이버보안 및 전자전 취약성을 실전에서 입증</p></div>`,
+      tags: ["Uncrewed Surface Vessel","Black Sea","Ukraine-Russia Conflict","Naval Drone"],
+      link: "https://defence-blog.com/ukraine-strikes-russian-naval-drone-in-black-sea/",
+      coords: [29.35,44.81],
+      location: "Snake Island, Black Sea"
+    }
+  ]
+});
+
+// Auto-collected: 2026-09-01
+addEvents({
+  "2026-09-01": [
+    {
+      type: "news",
+      title: "Japan's Record $55.6B Defense Budget Prioritizes AI, Unmanned Systems, and Long-Range Capabilities",
+      source: "USNI News",
+      sourceMeta: "usni.org · 2026-09-01",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 일본 방위부가 2027년 국방예산으로 8.9조 엔(556억 달러)의 사상 최대 규모 예산을 요청, AI 및 무인 기술 개발에 중점 투자 추진<br>• 해양 감시 능력 확대 및 장거리 타격 체계 구축을 통해 "새로운 전쟁 방식"에 대응하기 위한 군사 현대화 추진<br>• 태평양 지역의 지정학적 긴장 상황 악화로 인해 "제2차 세계대전 이후 가장 심각하고 복합적인 안보 환경"에 직면한 상황 반영<br>• 무인 해상 감시 체계 도입으로 해역 감시 범위 및 대응 능력 대폭 강화 예정<br>• 일본의 방위력 강화는 지역 해양 안보 환경 변화에 직접적 영향을 미칠 것으로 예상</p><h3>Key Quotes</h3><br>• "faces the most severe and complex security environment since the end of World War II" (제2차 세계대전 이후 가장 심각하고 복합적인 안보 환경에 직면)<br>• "transform Japan's military capabilities to adapt to what it calls 'new ways of warfare'" (새로운 전쟁 방식에 적응하기 위해 일본의 군사 능력 전환)</p><h3>Technical Insights</h3><br>• 무인 해상 감시 체계의 도입은 국제 해상 규칙(COLREG)과 IMO 자율운항선박 규정(MASS Code)과의 통합적 적용 필요성 대두<br>• AI 기반 해양 감시 기술의 발전으로 민간 선박 해역 통항 관리 및 안전 체계 재정립 요구<br>• 장거리 무인 시스템 도입은 해상 교통 분석 및 해역 통제 능력 강화로 국제 해상 질서에 영향을 미칠 것으로 예상<br>• 방위 무인기술의 고도화는 해운 산업 내 자율운항선박 기술 발전과 상호 영향을 주고받을 가능성 높음</p></div>`,
+      tags: ["Defense Budget","Unmanned Systems","AI Technology","Maritime Surveillance"],
+      link: "https://news.usni.org/2026/09/01/japan-budget-requests-record-55-6b-for-unmanned-long-range-strike-capabilities",
+      coords: [139.6917,36.2048],
+      location: "Japan"
+    }
+  ]
+});
