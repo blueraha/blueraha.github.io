@@ -15458,3 +15458,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-01
+addEvents({
+  "2026-09-01": [
+    {
+      type: "accident",
+      title: "U.S. Strikes Iran as Tanker Attacks Raise Stakes in Strait of Hormuz",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-09-01",
+      image: "https://gcaptain.com/wp-content/uploads/2026/08/2026-07-31T061146Z_355163413_RC2ROMAOX291_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ-800x522.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 호르무즈 해협에서 이란과 미국 간 직접 군사 충돌 재개로 유조선 공격 사태 확대 - 2026년 9월 1일 미군이 이란 IRGC 목표물에 대한 공습 감행<br>• 이란이 호르무즈 해협의 상선 공격으로 글로벌 석유 공급 경로 사실상 차단 중이며 월요일 두 척의 유조선 피격 보도<br>• 유가(브렌트유) 2% 추가 상승으로 글로벌 에너지 시장 불안정화 및 해운 보험료 인상 예상<br>• 미국 중앙군 명령부(CENTCOM)가 이란의 상선 및 미군 기지 공격 시도에 대한 대응으로 공습 실시 공표<br>• 트럼프 대통령이 이란의 보복 시 "훨씬 더 강하고 높은 수준"의 공격 위협으로 긴장 고조</p><h3>Key Quotes</h3><p>• "The strikes follow recent attempted attacks by the IRGC against commercial shipping in the Strait of Hormuz and against American service members deployed to the region." <br>(호르무즈 해협에서의 상선 공격 시도 및 미군 기지 공격에 대한 대응성 공습임을 명시)</p><p>• "if Iran retaliated for the attack, they will be hit again at a much harder and higher level."<br>(이란의 보복 시 더욱 강력한 군사 대응 경고로 갈등 심화 신호)</p><h3>Technical Insights</h3><p>• **해상 교통 안전 위기**: 호르무즈 해협은 전 세계 석유의 약 21-30%가 통과하는 전략적 수로로, 현재의 해상 공격으로 인해 국제 해운 보험료 급증 및 선박 우회 항로 선택 증가 예상</p><p>• **해상 보안 규제 강화 필요**: 상선 피격 사건으로 IMO 해상 안전 규정 강화, 특히 분쟁 수역 운항 선박의 자동식별장치(AIS) 의무 사용 및 해상 교통 관제 강화 검토 필요</p><p>• **해운업 경제적 영향**: 호르무즈 해협 차단으로 인한 운임료(freight rates) 상승, 선박 용선료(charter rates) 급등 및 유가 연동으로 해운사 경영 악화 우려</p><p>• **자율운항선박(MASS) 도입 촉진**: 인적 피해 최소화를 위한 자율운항선박 및 원격 조종 기술의 전략적 요충지 운항 활용 필요성 대두</p></div>`,
+      tags: ["tanker attacks","Strait of Hormuz","Iran-U.S. conflict","oil supply disruption"],
+      link: "https://gcaptain.com/u-s-strikes-iran-as-tanker-attacks-raise-stakes-in-strait-of-hormuz/",
+      coords: [56.5,26.5],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "Britannia P&I Report: 81% of Crew Deaths Caused by Illness Rather Than Accidents",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-02",
+      image: "https://images.marinelink.com/images/maritime/w800/source-britannia-173410.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **질병이 주요 사망 원인**: Britannia P&I Club의 분석에 따르면 선원 사망의 81%가 질병으로 인한 것이며, 사고로 인한 사망은 19%에 불과함<br>• **심혈관 질환 최대 위협**: 질병 관련 사망 중 58%가 심혈관 질환으로 인한 것으로, 선원 사망의 단일 원인 중 가장 큰 비중을 차지<br>• **정신건강 문제 심화**: 젊은 선원들 사이에서 자살과 실종 사건이 불균형적으로 높게 나타나는 추세 확인<br>• **손가락 손상이 가장 흔한 사고**: 선상 부상 중 27%가 손가락 부상이며, 부상 관련 사망의 1/3 이상이 인명 낙수(Man Overboard) 사건<br>• **복부 질환과 탈수**: 복부 질환이 질병 관련 청구의 최대 범주이며, 고온 환경에서 근무하는 선원들의 탈수로 인한 신장 결석이 주요 관심사<br>• **산업 전반의 예방 중심 접근 필요**: 보고서는 장기 건강 관리와 예방에 중점을 두는 광범위한 선원 복지 접근의 중요성 강조</p><h3>Key Quotes</h3><p>• "Maritime safety is often viewed through the lens of accidents and operational incidents, but our latest claims analysis reveals a different reality. The majority of crew fatalities we see are linked to illness, particularly cardiovascular disease, highlighting the need for a broader approach to crew welfare that places greater emphasis on long-term health and prevention." <br>(해양 안전이 사고와 운영 사건으로 인식되어 왔지만, 실제 선원 사망의 대부분은 질병, 특히 심혈관 질환과 관련이 있으며, 장기 건강과 예방에 더 중점을 두는 광범위한 선원 복지 접근이 필요함)</p><p>• "The findings relating to younger seafarers and mental wellbeing are a reminder that protecting crews requires attention not only to physical safety, but also to the personal and psychological aspects of their wellbeing."<br>(젊은 선원들과 정신건강 관련 발견은 선원 보호가 신체 안전뿐만 아니라 개인적, 심리적 웰빙에도 관심을 기울여야 함을 상기시킴)</p><h3>Technical Insights</h3><p>• **예방적 해양 의학의 필수성**: 전통적인 사고 중심의 해양 안전 관리에서 벗어나 선원의 건강검진, 심혈관 질환 선별검사, 직업병 예방 중심의 포괄적 의료 시스템 구축이 급실함<br>• **선원 정신건강 지원 체계 강화**: 젊은 선원층의 자살 및 정신건강 문제 증가 추세에 대응하기 위해 승선 전후 정신건강 평가, 원해 중 심리상담 접근성 개선 필요<br>• **작업 환경 관리와 개인 보호장비(PPE)**: 손가락 부상(27%)과 인명 낙수(>33%) 사건 감소를 위해 안전 작업 표준화, 효과적인 위험 소통, 개인보호장비 사용 강화가 중요<br>• **P&I 보험 데이터 기반의 산업 개선**: 보험청구 데이터 분석을 통한 위험 식별 및 예방 권고사항 제공으로 선주/해운사의 선원 안전 문화 개선 촉진</p></div>`,
+      tags: ["Crew Safety","Occupational Health","Cardiovascular Disease","Mental Health","P&I Insurance"],
+      link: "https://www.marinelink.com/news/report-crew-deaths-linked-illness-542635",
+      coords: [0,0],
+      location: "Global Maritime Industry"
+    }
+  ]
+});
