@@ -15527,3 +15527,53 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-02
+addEvents({
+  "2026-09-02": [
+    {
+      type: "news",
+      title: "US-Iran Military Conflict Escalates with Airstrikes and Counterattacks Near Strait of Hormuz",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-09-02",
+      image: "https://gcaptain.com/wp-content/uploads/2026/08/2026-08-13T165557Z_1605003890_RC21PMAKQDWO_RTRMADP_3_USA-MILITARY-CONDITIONS-800x450.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 미국과 이란 간 7월 이후 가장 큰 규모의 군사 충돌 발생 - 미군이 이란 남부 해안의 방공시스템, 레이더, 해양자산 등을 공습하고 이란이 보복 공격 실시</p><p>• 호르무즈 해협 주변 지역이 주 피해 지역이며, 이란은 사우디 유조선 침격으로 필리핀 승무원 2명 사망 보고, 추가 광산 설치 위협으로 해상 운송 안전 악화</p><p>• 미국 국방부는 해협 통과 유조선 호위 지속 선언하며 월요일 1,700만 배럴 원유 수출 달성했다고 발표했으나, 유가는 7월 이후 최고 수준으로 급등</p><p>• 이란은 바레인, 요르단, 쿠웨이트, 이라크 미군기지 동시 공격 실행 - 특히 쿠웨이트 알리 알살렘 공군기지와 주민숙소 피격으로 화재 발생</p><p>• 호르무즈 해협의 광산 위협과 무인기/미사일 공격으로 글로벌 해상운송 경로 중 가장 중요한 통로의 안전성 심각히 악화</p><h3>Key Quotes</h3><p>• "Last night was like the end of the world" (어제 밤은 세상이 끝나는 것 같았다) - 시릭 지역 시 관계자의 증언</p><p>• "American evil in the region will be met with heavier, more widespread, and devastating responses" (지역 내 미국의 악행은 더욱 무겁고 광범위하며 파괴적인 응징을 받을 것이다) - 이란 군사령부 성명</p><p>• "Energy Secretary Chris Wright said more than 17 million barrels of oil exited on Monday" (월요일 1,700만 배럴 이상의 석유가 호르무즈 해협을 통과했다) - 미국 에너지부 장관 발언</p><h3>Technical Insights</h3><p>• **해상 운송로 보안 악화**: 호르무즈 해협은 글로벌 원유 수송의 약 30% 이상이 통과하는 전략적 요충지로, 광산 설치 및 무인기 공격 위협은 해상 물류에 심각한 영향 미침</p><p>• **IMO/해사안전 규정 적용 한계**: 전쟁 지역 내 해상 운송 지속 시 선박 보험료 상승, 보험 적용 제외 가능성 증대로 해운사들의 경제적 부담 심화</p><p>• **자율운항선박(MASS) 안보 우려**: 현재 분쟁 지역에서 유인선박 운항도 위험한 상황으로, 장기적으로 자율운항선박 도입 시 군사 분쟁 지역에서의 통제 문제 및 사이버 공격 취약성 노출</p><p>• **국제 해운 보험 및 운임 변동성**: 유가 급등(7월 이후 최고 수준)과 함께 연료비 상승, 호르무즈 해협 우회 항로 선택 시 운송 시간·비용 급증으로 글로벌 공급망 교란 심화</p></div>`,
+      tags: ["Iran-US Conflict","Strait of Hormuz","Military Strikes","Maritime Security","Oil Tankers","Regional Tensions"],
+      link: "https://gcaptain.com/us-pounds-iran-tehran-strikes-back-at-bases-in-biggest-exchange-since-july/",
+      coords: [56.2465,26.1367],
+      location: "Strait of Hormuz / Persian Gulf"
+    },
+    {
+      type: "news",
+      title: "US Navy Issues RFI for Carrier-Based Collaborative Combat Aircraft (CCA) Program",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-09-02",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/09/9812022.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미 해군이 2026년 8월 31일 캐리어 기반 협력 전투기(CCA, Collaborative Combat Aircraft) RFI(정보요청)를 공식 발표하여 무인 전투기 개발 본격화<br>• PMA-228 프로그램 사무소가 주도하며, F/A-18E/F와 F-35C와의 협력 운용 체계 구축 목표<br>• 최대 4개의 2,500파운드급 탄약 탑재, 기존 해군 지휘통제 체계 통합, 해상 상태 5단계까지 운용 가능성 요구<br>• MQ-25 스팅레이와의 협력 운용으로 캐리어 스트라이크 그룹의 무인 능력 확장 추진<br>• 고비용 5세대 전투기와 저비용 무인 전투기의 혼합 운용(high-low mix) 전략으로 전력 공백 보완</p><h3>Key Quotes</h3><p>• "The introduction of a carrier-capable CCA platform aims to plug capacity gaps in carrier air wings (CVWs) by fielding an uncrewed fighter that adds mass and operates effectively in high-risk environments." (캐리어 기반 무인 전투기 도입으로 항모 항공전단의 전력 공백을 메우고 고위험 환경에서 효과적으로 운용 가능)</p><p>• "The CCA fleet will operate alongside the F/A-18E/F Super Hornet and the 5th-generation F-35C Lightning II, primarily taking on frontline missions deemed too dangerous or long-range for manned fighters." (CCA는 슈퍼 호넷과 F-35C와 함께 운용되며, 유인기로는 수행 불가능한 위험하거나 장거리 임무 중심 담당)</p><h3>Technical Insights</h3><p>• **자율 협력 운용 체계**: 무인 CCA가 기존 해군 지휘통제 아키텍처와 seamless 통합되어 유인기 및 기타 무인 자산과의 협력 운용 실현, COLREG 수준의 체계적 협력 프레임워크 구축 필요</p><p>• **비용 효율화 전략**: 스텔스 능력(내부 무기 베이)을 포기하고 COTS(상용 부품) 활용으로 개발 기간 단축 및 생산 비용 절감, 신속한 함대 통합(expedited schedule) 가능</p><p>• **해상 운용 안정성**: F/A-18E/F와 동일 크기 제약 조건 내에서 해상 상태 5단계 운용 가능성 및 기존 함정 정비 체계 호환성 요구로 해양 환경 내구성 강화</p><p>• **광역 타격 체계 진화**: MQ-25 스팅레이의 무장 탑재 구성(LRASM 탑재) 시연으로 항모 스트라이크 그룹의 대함 미사일 투사거리 확대, 해양 제해권 확보 역량 강화</p></div>`,
+      tags: ["autonomous aircraft","unmanned fighter","carrier aviation","US Navy","CCA program","defense procurement"],
+      link: "https://www.navalnews.com/naval-news/2026/09/us-navy-rfi-details-plans-for-carrier-based-collaborative-combat-aircraft-cca/",
+      coords: [0,0],
+      location: "Global/US Navy"
+    }
+  ]
+});
+
+// Auto-collected: 2026-08-31
+addEvents({
+  "2026-08-31": [
+    {
+      type: "accident",
+      title: "Two Seafarers Killed in Strait of Hormuz Tanker Attack on VLCC Sidr",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-09-02",
+      image: "https://gcaptain.com/wp-content/uploads/2026/06/2026-06-26T134318Z_693026131_RC2N1MAQSWKP_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ-800x524.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2026년 8월 31일 호르무즈 해협에서 사우디 소유 초대형 유조선 Sidr에 대한 공격으로 2명의 선원이 사망<br>• 피해자는 필리핀 국적의 선원이며, 사우디 공급업체 Bahri가 소유한 선박에서 현지시간 오후 11:40에 피격됨<br>• 2026년 초 분쟁 격화 이후 호르무즈 해협에서의 상선 공격으로 인한 누적 사망자는 최소 18명으로 증가<br>• UKMTO(영국 해상무역운영)에서 공식 확인하였으며, 환경 오염은 보고되지 않음<br>• 국제해운기구들(BIMCO, ICS, INTERCARGO, INTERTANKO)은 민간 선원들이 정치적·군사적 분쟁의 피해자가 되어서는 안 된다는 성명 발표</p><h3>Key Quotes</h3><p>• "UKMTO has received confirmation that the two casualties reported in this incident have now been confirmed as fatalities" (이번 사건에서 보고된 2명의 인명피해가 사망으로 확인되었음을 UKMTO가 공식 인정)</p><p>• "The kingdom stressed the necessity of halting escalations, and respecting international maritime safety and the security of global energy supplies" (사우디는 에스컬레이션 중단과 국제 해상 안전 및 글로벌 에너지 공급 보안 존중의 필요성을 강조)</p><p>• "Seafarers should never be collateral damage, victims or instruments of political or military pressure" (선원들은 결코 정치적·군사적 압력의 부수 피해, 피해자 또는 도구가 되어서는 안 됨)</p><h3>Technical Insights</h3><p>• 호르무즈 해협은 전 세계 석유 수송의 약 21%가 통과하는 전략적 해상 수송로로서, 해상 안보와 국제 에너지 안정성에 직결된 지점<br>• 2026년 들어 민간 상선에 대한 공격이 증가하면서 국제해사기구의 COLREG 및 해상 안전 규정 준수의 현실적 한계 노출<br>• 선박 피격 증가에 따른 해운업계의 높은 위험 보험료 인상 및 호르무즈 해협 통항 기피 현상으로 인한 글로벌 해운·에너지 시장 불안정화<br>• 국제 해운 조직들의 연대 성명은 민간 선박 보호를 위한 국제법적 규범 강화 필요성을 제기하며, IMO 차원의 보안 프로토콜 개선 논의 촉발</p></div>`,
+      tags: ["Tanker Attack","Strait of Hormuz","Fatalities","Maritime Security","Saudi Arabia"],
+      link: "https://gcaptain.com/two-seafarers-killed-in-strait-of-hormuz-tanker-attack/",
+      coords: [56.5,26.5],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
