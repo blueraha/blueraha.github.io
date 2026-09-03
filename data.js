@@ -15577,3 +15577,53 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-02
+addEvents({
+  "2026-09-02": [
+    {
+      type: "news",
+      title: "US Navy Issues RFI for Carrier-Based Collaborative Combat Aircraft (CCA)",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-09-02",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/09/9812022.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미 해군이 2026년 8월 31일 함정 기반 협력형 전투기(CCA) 개발을 위한 정보요청(RFI)을 공식 발표하며 무인 전투기 도입 의도 확인<br>• 해군 미래첨단능력사무소(PMA-228/NAVAIR) 주도로 자율형 전투기의 설계 요구사항 수립 - 최대 4개의 2,500파운드급 탄약 탑재, 기존 해군 지휘통제 체계와 통합 필수<br>• CCA는 F/A-18E/F 슈퍼호넷 규모로 제한되며, 5급 해상 상태에서 운영 가능하고 함정 표준 정비 장비와 물류 시스템 호환성 요구<br>• 무장 드론의 확대 전략으로 MQ-25 스팅레이 무인기도 장거리 대함 미사일(LRASM) 탑재 능력 시연, 항모 타격군의 작전 범위 확대<br>• 고속 함대 통합을 위해 기존 합동 정밀 접근 및 착함 시스템(JPALS) 활용 및 상용 부품 사용 허용으로 개발 기간 단축 추진</p><h3>Key Quotes</h3><p>• "The autonomous fighter must carry up to four 2,500-pound class munitions, integrate into existing Navy command-and-control architectures, and seamlessly cooperate with manned and unmanned assets." (자율형 전투기는 최대 4개의 2,500파운드급 탄약을 탑재하고 기존 해군 지휘통제 체계에 통합되며 유인 및 무인 자산과 원활하게 협력해야 함)</p><p>• "The CCA fleet will operate alongside the F/A-18E/F Super Hornet and the 5th-generation F-35C Lightning II, primarily taking on frontline missions deemed too dangerous or long-range for manned fighters." (CCA 함대는 F/A-18E/F 슈퍼호넷 및 5세대 F-35C 라이트닝 II와 함께 운영되며 주로 유인 전투기에게 너무 위험하거나 장거리인 전선 임무 수행)</p><h3>Technical Insights</h3><p>• **자율형 함정 기반 항공기의 표준화 요구**: 기존 JPALS 착함 시스템, 표준 함정 정비 시스템 호환성 요구로 기술 통합 표준화 추진 - 해상 로봇 자동화의 산업 표준화 선례<br>• **무인 협력 전투 시스템의 전술적 진화**: 유인 전투기(F-18, F-35C)와의 협력 운영으로 고비용 유인 자산 보호 및 고위험 임무 자동화 실현 - 해군 작전 개념의 패러다임 전환<br>• **비용 최소화와 신속 배치의 트레이드오프**: 내부 무장실 생략, 상용 비해양 부품 허용으로 생산 비용 감소 추구 - 무인 해양 시스템의 대량 배치 가능성 증대<br>• **MQ-25 다중 역할 확장의 의미**: 공중급유기에서 장거리 대함 미사일 플랫폼으로 진화하는 무인 시스템의 다기능화 추세 - 자율형 무인 함정/항공기의 임무 다변화 산업 방향성 시사</p></div>`,
+      tags: ["Autonomous Aircraft","US Navy","Collaborative Combat Aircraft","Carrier Operations","Unmanned Systems","Naval Aviation"],
+      link: "https://www.navalnews.com/naval-news/2026/09/us-navy-rfi-details-plans-for-carrier-based-collaborative-combat-aircraft-cca/",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
+
+// Auto-collected: 2026-09-03
+addEvents({
+  "2026-09-03": [
+    {
+      type: "news",
+      title: "LeVanta Tech Demonstrates HALIA Unmanned Float-and-Fly Drone at ANTX Coastal Trident",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-09-03",
+      image: "https://defence-blog.com/wp-content/uploads/2026/09/DB_image_2505.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• LeVanta Tech가 ANTX Coastal Trident에서 HALIA 무인 시스템을 시연했으며, 공중·수상·수중·해저 자산을 장거리로 연결할 수 있는 플랫폼의 능력을 입증<br>• HALIA는 독특한 "부유-비행(float-and-fly)" 드론으로, 비행 후 개방 해상에 직접 착수하여 저전력 모드에서 수주간 체류 가능하며, 전용 함선이나 고정 인프라 불필요<br>• LeVanta Tech와 방위 기술 기업 STR이 협력하여 공중-수중-해저 시스템 간 통신 아키텍처 실현 가능성 시연<br>• 2023년 설립된 LeVanta Tech는 해상풍력 모니터링에서 시작해 국방 중심으로 전환했으며, 공군으로부터 총 $3.56백만의 SBIR 계약 수주<br>• CEO Kelly Echols(엔지니어·특허변호사), CAO Jon Smith(전 P-3C Orion 교관 조종사), CTO Johnny Doo(항공기·호버크래프트 개발 40년 경력)로 구성된 전문가 팀 보유</p><h3>Key Quotes</h3><p>• "HALIA is a 'float-and-fly' drone: it flies to a location, lands directly on the open ocean, and can sit there for weeks in a low-power floating mode before relaunching to reposition or leave the area" (HALIA는 비행해서 바다에 직접 착수한 후 저전력 모드에서 수주간 부유한 상태로 대기했다가 필요시 재비행할 수 있는 시스템)</p><p>• "HALIA does not require a dedicated ship or fixed infrastructure to operate, since it can move between the air and water on its own" (HALIA는 공기와 물 사이를 자율적으로 이동 가능하므로 전용 함선이나 고정 인프라가 불필요)</p><h3>Technical Insights</h3><p>• **자율 무인시스템의 네트워크화**: 공중·수상·수중·해저 플랫폼 간 실시간 통신 및 제어 아키텍처 구현은 차세대 해양 감시 및 방위 작전의 중요한 기술적 전환점을 시사<br>• **장기 해양 체류 운영**: 저전력 부유 모드를 통해 연료 소비를 최소화하면서 수주간 작전 지속 가능성은 기존 무인 항공기의 운영 제약을 극복하는 혁신적 접근법<br>• **인프라 의존성 감소**: 전용 함선이나 고정 기지를 요구하지 않는 자율 운영은 해양 감시 비용 절감 및 배치 유연성 증대로 국방 및 민간 해양산업에 광범위한 파급 효과 예상<br>• **국방-민간 기술 융합**: 해상풍력 모니터링에서 출발한 기술이 국방 부문으로 적용되는 사례로, 이중용도(dual-use) 기술 개발 추세를 반영하며 IMO/COLREG 자율선박 규제 체계와도 연계 가능성 존재</p></div>`,
+      tags: ["Autonomous Maritime Systems","Unmanned Vehicles","Naval Technology","Defense Innovation"],
+      link: "https://defence-blog.com/levanta-tech-shows-off-its-unusual-halia-drone-at-sea-test/",
+      coords: [-119.2023,34.1424],
+      location: "Port Hueneme, California"
+    },
+    {
+      type: "news",
+      title: "Seasats Quickfish USV Enters Production, Demonstrates Naval Capabilities",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-09-03",
+      image: "https://defence-blog.com/wp-content/uploads/2026/09/DB_image_2504.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Seasats(샌디에이고 기반 무인수면함정 제조사)의 Quickfish 요격급 USV가 본격 생산 진입 및 확대 배치 가능 단계 도달<br>• Quickfish는 시속 40노트 이상 고속 항행, 수주 단위 해상 작전 지속 가능하며 Sea State 10 극한 해상 환경 생존 설계<br>• Silent Swarm 2026 해군 전자전 훈련(2026년 7월 13-24일, 미시간)에서 5대 자율 함정 운용하며 다중 플랫폼 통합 운용 성공 입증<br>• Quickfish의 모듈식 탑재함 설계로 무인항공기 및 감시정찰/통신중계/공격 등 다목적 임무 수행 가능하며 페이로드 비은폐 설계<br>• DIU의 SWAP-USV(비용효율적 다목적 무인수면함정) 사업과 연계되어 해상 비대칭 위협 대응 역할 기대</p><h3>Key Quotes</h3><br>• "Quickfish is built on the Lightfish hull and electronics stack, adding high sea state performance, long range and a payload bay sized for aerial vehicles" (Quickfish는 Lightfish 선체와 전자장비 기반으로 극한 해상 성능, 장거리 항행, 무인항공기 탑재 가능한 페이로드 베이를 추가함)<br>• "Because the aircraft ride inside the enclosed bay, a Quickfish on patrol gives no outward sign of what it is carrying" (항공기가 밀폐된 탑재함 내부에 수용되어 순찰 중 외관상 탑재 무기 추정 불가능)</p><h3>Technical Insights</h3><br>• 자율 무인수면함정(USV)의 다중 플랫폼 협력 운용(Multi-Platform Coordinated Operations)은 소수 운영자로도 광범위 해상 작전 수행 가능성을 입증하며 미래 해전 패러다임 변화 시사<br>• 모듈식 탑재함 설계와 무인항공기 통합 운영은 COLREG 및 IMO 해상충돌예방규칙 자동화 준수 필요성을 높이며 국제 해상법 개정 논의 필수화<br>• Sea State 10 극한 환경 생존 능력은 기후변화로 인한 악천후 빈발 시대의 무인함정 신뢰성 요구사항을 충족하며 대양 작전 확대 가능성 제시<br>• 방위혁신청(DIU) SWAP-USV 사업 연계는 미 해군의 저비용 대량 무인함정 도입 전략으로서 미중 해양 세력 경쟁 심화 반영</p></div>`,
+      tags: ["USV","Autonomous Surface Vessel","Naval Technology","Unmanned Systems","Defense Innovation"],
+      link: "https://defence-blog.com/san-diego-usv-maker-says-quickfish-has-entered-production/",
+      coords: [-117.1611,32.7157],
+      location: "San Diego, California"
+    }
+  ]
+});
