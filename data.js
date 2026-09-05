@@ -15627,3 +15627,83 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-04
+addEvents({
+  "2026-09-04": [
+    {
+      type: "news",
+      title: "US-Iran Conflict Stalls Shipping in Strait of Hormuz; Oil Prices Surge",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-09-04",
+      image: "https://gcaptain.com/wp-content/uploads/2026/08/2026-08-03T073334Z_269669342_RC2RQMA1TKMQ_RTRMADP_3_IRAN-CRISIS-SHIPPING-800x518.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이란과 미국이 6개월간의 갈등으로 호르무즈 해협의 해상 무역이 심각하게 영향을 받고 있으며, 양측의 군사 공격이 지속되고 있음<br>• 이란의 상선(merchant vessels) 공격과 미국의 이란 혁명수비대(IRGC) 시설 공격이 반복되는 상황으로, 호르무즈 해협을 통한 세계 석유 및 LNG 흐름의 20%가 차단됨<br>• 브렌트유가 배럴당 $95로 7% 이상 상승했으며, 미국 디젤유가 4년 만에 최고치를 기록하여 전 지구적 에너지 위기 심화<br>• 백악관이 휴전과 전면전 사이에서 갈팡질팡하고 있으며, 공식 협상 재개 전망이 불투명함<br>• 호르무즈 해협을 통과한 일일 석유 물동량이 약 1,500만 배럴에 달하는 만큼 해상 보안이 국제 에너지 가격에 직결되는 상황</p><h3>Key Quotes</h3><p>• "Very clearly militarily, we are stalled. There's no question about that." (군사적으로 봤을 때 우리는 교착 상태에 빠져 있다는 것은 명확하다.)</p><p>• "The reason gas prices are so high right now is because the Iranians are shooting at commercial shipping" (현재 휘발유 가격이 높은 이유는 이란이 상선에 사격하고 있기 때문이다.)</p><h3>Technical Insights</h3><p>• 호르무즈 해협의 20% 국제 해상 무역 의존도를 고려할 때, 이란의 해상 공격 능력은 COLREG 준수보다는 지정학적 영향력 행사 수단으로 작동 중이며, IMO 회원국 간 국제해사안전 프레임워크의 실효성 문제 노출</p><p>• 상선에 대한 직접적인 군사 공격으로 인한 해운 보험료 급증과 해사 운송 비용 상승이 글로벌 공급망 위기로 확산되고 있으며, 자동항해 기술 도입이 더욱 지연될 수 있는 위험 지역화 심화</p><p>• 호르무즈 해협 같은 전략적 해역의 안보 위협이 증가함에 따라, 해상 자율운항선(MASS) 기술이 인명 손실 감소 측면에서 오히려 더 필요해지고 있으나, 현재의 불안정한 지정학적 환경이 기술 도입을 저해하는 모순 상황 발생</p></div>`,
+      tags: ["Strait of Hormuz","US-Iran Conflict","Maritime Security","Oil Prices","Commercial Shipping"],
+      link: "https://gcaptain.com/we-are-stalled-us-iran-war-stuck-with-no-end-in-sight/",
+      coords: [56.1471,26.5898],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "US Navy Certifies Rolls-Royce mtu Engines for Autonomous Ships",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-09-04",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/09/20V_4000_M93L_NavalML_M_50mm_RGB-1.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 롤스로이스(Rolls-Royce) mtu 시리즈 4000 및 2000 해양 엔진이 미 해군으로부터 자율운항 해군 함정용 인증을 획득함<br>• mtu Series 4000: 720시간 내구성 시험 통과, 최대 4,300kW 추진력 및 3,000kWe 발전 용량 인증; Series 2000: 최대 1,939kW 추진 용량 인증<br>• 2021/2026 국방수권법 요구사항 준수: 30일 해상 배치 시 정비 없이 무인 운영 가능 확인<br>• 주요 추진, 연료, 윤활유 시스템에 대한 인간 개입 없는 자동 운영 능력 입증<br>• 미 해군의 무인 해양 시스템 전략적 중요성 증대에 대응하는 신뢰성 높은 동력원 공급 가능 입증</p><h3>Key Quotes</h3><br>• "The certification of our engines for unmanned operations further demonstrates the reliability and advanced technology of our mtu Series 4000 and 2000 marine propulsion systems." (무인 운영용 엔진 인증은 mtu 해양 추진 시스템의 신뢰성과 첨단 기술을 입증함)</p><p>• "As autonomous missions become increasingly important to naval strategy, we are proving that we can deliver the power systems, long-endurance capability and technology required for the new operational demands of unmanned vessels." (해군 전략에서 자율운항 임무의 중요성이 증대됨에 따라, 무인 함정의 새로운 운영 요구사항에 필요한 동력 시스템과 장시간 운용 능력을 제공할 수 있음을 입증)</p><h3>Technical Insights</h3><br>• **자율운항 엔진 인증 기준**: 720시간 이상의 극한 내구성 시험과 정비 없는 30일 해상 배치 능력은 IMO 자율선박 규정 논의와 맞춤형 신뢰성 기준을 반영함<br>• **무인 함정 전력화 의의**: 인간 개입 불필요한 자동 운영 능력 확보는 미 해군의 무인 전투함 전략 실현의 핵심 기술적 토대 마련<br>• **산업 표준화 영향**: 미 해군의 mtu 엔진 인증은 자율운항 선박용 동력 장치의 국제 표준화 논의에 선행사례 제공, 향후 상선 자율운항 전환에 참고 자료화될 가능성 높음<br>• **정비 자동화 기술**: 주요 시스템의 예방정비 및 수정정비 불필요 구현은 MASS(Maritime Autonomous Surface Ship) 운영의 경제성과 안전성 향상을 위한 핵심 기술 요소</p></div>`,
+      tags: ["autonomous ships","US Navy","Rolls-Royce mtu","unmanned vessels","marine propulsion"],
+      link: "https://www.navalnews.com/naval-news/2026/09/us-navy-certifies-rolls-royce-mtu-engines-for-autonomous-ships/",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "U.S. Navy Demonstrates USV Refueling At Sea Using Robotic Towed Connector",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-09-04",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/09/9907269-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미 해군이 무인 수상함(USV)의 자동 해상급유 기술 시연에 성공 - 개념 단계에서 실제 해상 운용까지 7개월 만에 달성<br>• MARTAC의 T38 USV와 Sealartec의 견인식 포획-연결 장치(TCCD)를 활용하여 400갤론 이상의 연료를 안정적으로 전송<br>• 8월 11일 시연에서 약 100회의 포획-급유-방출 사이클을 성공적으로 수행하여 기술의 신뢰성 입증<br>• 미 해군 함대사령부의 ronald Raymer 부문장이 무인함 급유 능력이 함대 전력을 강화하고 유인함 위험을 감소시킬 것으로 평가<br>• 장거리 초음속 무기 시험 지원 및 광범위한 해역 감시 임무에서 USV의 작전 지속성(persistence) 획기적 향상</p><h3>Key Quotes</h3><p>• "every time an unmanned vessel must return to port for fuel, we lose persistence, reduce coverage and redundancy, and interrupt the mission." (무인함이 연료 보급을 위해 항구로 돌아올 때마다 임무의 지속성, 해역 커버리지, 중복성을 잃고 작전이 중단된다)</p><p>• "This will allow us to have greater reliance on unmanned vessels instead of manned and we can push the USV into higher threat areas without risking manned vessels and personnel." (이는 유인함 대신 무인함에 더 많이 의존할 수 있게 하며, 유인함과 인원의 위험 없이 USV를 고위협 지역으로 투입할 수 있다)</p><h3>Technical Insights</h3><p>• **자동 급유 시스템의 운용 신뢰성**: 견인식 포획-연결 장치(TCCD)가 해상 환경에서 100회 이상의 연결-분리 사이클을 안정적으로 수행하여 상용화 가능성 입증 - 무인함의 지속적 작전 능력 혁신</p><p>• **함대 운용 전략의 패러다임 전환**: 유인함의 항시 지원 필요성 제거로 고비용 지원 선박 감축 및 무인함 중심의 분산 배치 전술 가능 - 전력 구성의 효율성 극대화</p><p>• **장거리 시험 및 감시 임무 최적화**: 초음속 무기 시험이나 광범위 해역 감시에서 무인함이 항구 복귀 없이 장기 체류 가능하여 데이터 수집 효율성 및 임무 연속성 대폭 향상</p><p>• **향후 해상 자율운영 표준화 전망**: USV 급유 체계 정립으로 무인함 기반 임무 형태의 다양화 및 IMO 자율선박 규정 개발 시 군용 무인함 운용 기준 제시 기대</p></div>`,
+      tags: ["Autonomous Ships","USV","Unmanned Surface Vessel","At-Sea Refueling","Robotic Systems","Navy Technology"],
+      link: "https://www.navalnews.com/naval-news/2026/09/u-s-navy-demonstrates-usv-refueling-at-sea-using-robotic-towed-connector/",
+      coords: [-76.1126,36.9354],
+      location: "Joint Expeditionary Base Little Creek-Fort Story, Virginia"
+    }
+  ]
+});
+
+// Auto-collected: 2026-09-03
+addEvents({
+  "2026-09-03": [
+    {
+      type: "accident",
+      title: "Ten Missing After Cargo Ship Sinks Following Collision Off Istanbul",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-03",
+      image: "https://images.marinelink.com/images/maritime/w800/serhatbozkurt-adobe-173479.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 이스탄불 인근 마르마라해에서 두 터키 화물선이 충돌하여 한 척이 약 11분 내에 침몰, 선원 10명이 실종된 해상사고 발생</p><p>• **선박 및 인명**: 침몰한 선박에 승선 중이던 10명의 선원이 실종되었으며, 충돌 상대선은 손상 없이 실비리 해역에 정박 중</p><p>• **구조 활동**: 터키 해안경비대, 해군, 재해관리청 등 다중 기관이 참여하여 18척의 선박, 5대의 헬리콥터, 2대의 드론, 항공기, 수중 탐색 장비를 동원한 대규모 수색 작업 진행 중</p><p>• **사고 원인**: 충돌 원인에 대한 공식 조사가 진행 중이며, 초기 조사 결과 미발표</p><p>• **해역 특성**: 마르마라해는 국제 해로로서 높은 선박 통행량이 특징인 협소 수역(Strait)</p><h3>Key Quotes</h3><p>• "one of the ships, carrying 10 crew members, is believed to have sunk within about 11 minutes of the crash" (충돌 후 약 11분 내에 침몰한 것으로 추정되며, 승선 중이던 10명의 선원이 실종됨)</p><p>• "18 vessels, five helicopters, two drones, an aircraft and a naval vessel equipped for underwater searches were being deployed in the operation" (대규모 해상 수색 작업에 18척의 선박과 5대의 헬리콥터, 수중 탐색 장비 등이 동원됨)</p><h3>Technical Insights</h3><p>• **마르마라해 협소 수역의 항해 위험**: 마르마라해는 흑해와 에게해를 연결하는 국제 전략 해로로서 높은 선박 통행량으로 인한 충돌 위험이 상존하며, COLREG 준수 및 선박 교통 관리의 중요성이 대두됨</p><p>• **신속한 침몰에 따른 구조의 어려움**: 충돌 후 약 11분 내 침몰은 선박의 구조 설계, 격벽 구분, 손상 제어 능력 등에 관한 IMO 규정(SOLAS)의 실효성을 검토할 필요성을 시사</p><p>• **자동항해 및 충돌회피 시스템의 필요성**: 협소 수역에서의 선박 충돌 사고 증가 추세에 대응하여 자동 충돌회피 시스템(ECDIS 고도화, AI 기반 항해 지원 시스템) 도입의 실질적 중요성이 강조됨</p></div>`,
+      tags: ["Collision","Sinking","Missing Crew","Sea of Marmara","Istanbul"],
+      link: "https://www.marinelink.com/news/ten-missing-ship-sinks-off-istanbul-542717",
+      coords: [28.9784,41.0082],
+      location: "Sea of Marmara, Istanbul, Turkey"
+    }
+  ]
+});
+
+// Auto-collected: 2025-09-04
+addEvents({
+  "2025-09-04": [
+    {
+      type: "news",
+      title: "24-meter USV Challenger Completes First Fully Remote Project",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2025-09-04",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/09/deepocean.jpg?image-crop-positioner-ts=1788514968",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 24미터 무인표면선박(USV) Challenger가 DeepOcean, Solstad Offshore, Østensjø Rederi의 합작회사 소유로 첫 완전 원격 프로젝트를 성공적으로 완료했습니다.</p><p>• GONDAN 조선소에서 2024년 3월 건조를 시작하여 2025년 5월 인도되었으며, 기존 방식 대비 CO2 배출량을 90% 이상 감소시키는 친환경 사업을 목표로 합니다.</p><p>• 노르웨이 Haugesund의 원격운영센터(ROC)에서 선박과 ROV(원격조종식 무인잠수정) 운영을 완전히 원격으로 관리하여 완수했습니다.</p><p>• Equinor의 Kårstø 해저 시험 센터에서 해저 매니폴드 보호 구조 조정 및 분리 작업을 BB Ocean과 동시 운영으로 수행했습니다.</p><p>• 하이브리드 디젤-전기 추진 시스템 탑재로 최대 30일 자율 운영 가능하며, Salt Ship Design이 설계했습니다.</p><h3>Key Quotes</h3><p>• "We are very pleased to have successfully delivered this subsea scope for Equinor. The project marks a significant milestone for our USV programme and demonstrates what is possible with next-generation subsea services." (Equinor을 위한 해저 작업을 성공적으로 완료하게 되어 기쁘며, 이 프로젝트는 USV 프로그램의 중요한 이정표이자 차세대 해저 서비스의 가능성을 보여줍니다.)</p><p><li>Johnny-Andrè Spangberg, Group BD Director & USV Lead at DeepOcean</li></p><h3>Technical Insights</h3><p>• **자율해양 운영의 혁신**: 완전 원격 운영 센터에서의 USV 및 ROV 통합 제어는 해양 산업의 디지털 트랜스포메이션과 자율화의 주요 진전으로, COLREG 준수 하에서의 원격 조종 기술 발전을 입증합니다.</p><p>• **환경 규제 대응**: 종래의 유인 선박 대비 90% 이상의 CO2 감축은 IMO 2030/2050 탈탄소 목표 달성에 부합하며, 오일·가스 산업의 친환경 운영 전환을 선도합니다.</p><p>• **하이브리드 추진 시스템**: 디젤-전기 하이브리드 추진으로 30일 자율 운영 가능성은 장거리 심해 작업의 경제성을 획기적으로 개선하며, 배터리 및 연료전지 기술과의 향후 융합 가능성을 시사합니다.</p><p>• **동시 운영(SIMOPS) 안전성**: BB Ocean과의 안전한 동시 작업 수행은 협력 자율선박 운영 프로토콜의 성숙도를 증명하며, 해상 충돌 회피 규칙의 실제 적용 가능성을 보여줍니다.</p></div>`,
+      tags: ["USV","Autonomous Ships","Remote Operations","Subsea Operations","CO2 Reduction"],
+      link: "https://www.offshore-energy.biz/watch-24-meter-usv-performs-first-fully-remote-project/",
+      coords: [5.2752,59.4146],
+      location: "Haugesund, Norway"
+    }
+  ]
+});
