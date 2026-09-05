@@ -15707,3 +15707,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-03
+addEvents({
+  "2026-09-03": [
+    {
+      type: "news",
+      title: "Lloyd's Register and MARIC unveil tri-fuel-ready tanker concept for LNG, methanol, and ammonia",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-09-03",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/09/LR.jpeg?image-crop-positioner-ts=1788440746",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Lloyd's Register와 중국해양설계연구원(MARIC)이 LNG, 메탄올, 암모니아 연료로 전환 가능한 114,000 DWT 겸용유조선 개념설계를 공개했으며, 설계 단계부터 전환 준비 기능을 포함하여 미래 연료 불확실성에 대응</p><p>• 해운사들이 미래 주도 연료에 대한 불확실성 속에서 장기 함대 투자 결정을 내려야 하는 상황에서, 다중 연료 경로를 지원하는 유연한 설계가 리스크 관리의 핵심</p><p>• LNG는 성숙한 연료 기술이나, 메탄올과 암모니아는 개발 초기 단계이며 글로벌 연료 공급, 인프라, 경제성 등에서 불확실성 지속</p><p>• Approval in Principle(AiP) 획득으로 설계가 Lloyd's Register 2026년 7월 규칙 및 IACS 공통구조규칙 검토 완료</p><p>• 해운산업의 주요 투자 과제인 다양한 대체 연료 옵션과 경로를 지원할 수 있는 선박과 역량 개발 필요성 부각</p><p>• 연료 인프라, 규제, 경제성이 전 세계적으로 불균등하게 진전되는 상황에서 유연성 있는 선박 설계의 중요성 강조</p><h3>Key Quotes</h3><p>• "Shipowners are being asked to make major investment decisions today despite continued uncertainty around which fuels will dominate in the decades ahead." (해운사들이 수십 년 후 주도할 연료에 대한 불확실성 속에서 현재 거대한 투자 결정을 내려야 함)</p><p>• "Designs that preserve flexibility will be critical in helping owners manage risk while preparing for multiple future scenarios." (유연성을 유지하는 설계는 다양한 미래 시나리오에 대비하면서 리스크를 관리하는 데 핵심)</p><p>• "As the industry explores different decarbonisation pathways, shipowners need vessel designs that can adapt alongside technol..." (산업이 다양한 탈탄소화 경로를 탐색하면서 해운사들은 기술과 함께 적응할 수 있는 선박 설계 필요)</p><h3>Technical Insights</h3><p>• **다중 연료 설계의 기술적 의의**: 단일 연료 선택 대신 설계 단계부터 LNG, 메탄올, 암모니아로의 개조 가능성을 내재화함으로써 향후 기술 진화 및 규제 변화에 신속하게 대응 가능한 플랫폼 구축</p><p>• **IMO 규제 적응성**: Lloyd's Register의 2026년 업데이트된 규칙과 IACS 공통구조규칙 준수로 국제해사기구(IMO)의 향후 연료 관련 규제 강화에 미리 대비하는 전략적 설계 접근</p><p>• **산업 투자 리스크 완화**: 연료 인프라와 경제성의 불균등한 진전 속에서, 유연한 설계를 통해 조선사와 해운사의 장기 선박 투자 결정의 불확실성을 감소시키고 자산가치 보존 극대화</p><p>• **탈탄소화 전환의 현실성**: 메탄올과 암모니아가 아직 초기 단계인 점을 감안할 때, 다중 경로 지원 설계는 단기~중기 기간의 공급망 및 인프라 구축 시간을 확보하면서 2050년 탄소중립 목표에 유연하게 대응하는 실질적 솔루션</p></div>`,
+      tags: ["Alternative Fuels","Tanker Design","LNG","Methanol","Ammonia","Decarbonization","Lloyd's Register"],
+      link: "https://www.offshore-energy.biz/keeping-fuel-options-open-as-uncertainty-drives-tri-fuel-ready-tanker-concept/",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
+
+// Auto-collected: 2026-09-04
+addEvents({
+  "2026-09-04": [
+    {
+      type: "news",
+      title: "Everllence Signs Long-Term Service Agreements with TT-Line for RoPax Vessels",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-04",
+      image: "https://images.marinelink.com/images/maritime/w800/source-everllence-173485.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Everllence가 독일 페리 운영사 TT-Line과 장기 서비스 계약(LTSA)을 체결하여 신조 RoPax 선박 2척과 기존 선대 선박 2척에 대한 추진 시스템 및 지원 서비스 계약 확보<br>• 계약 대상 선박: Nils Holgersson, Peter Pan(기존함), 그리고 중국 China Merchants Jinling Shipyard에서 건조 중인 신조 RoPax 2척(2030년, 2031년 인도 예정)<br>• Everllence의 고급 통합 추진 시스템(Twin-in-Single-Out 기어박스, Alpha 가변 피치 프로펠러, LNG 연료 공급 시스템, 배터리 에너지 저장 시스템 포함) 탑재로 친환경 및 효율성 강화<br>• 신조 선박은 발트해 독일-스웨덴 항로에서 운항 예정으로 북유럽 친환경 해운 시장 확대 전략 반영<br>• SMM 2026(함부르크 국제해양박람회)에서 체결되어 업계 주목도 높음</p><h3>Key Quotes</h3><br>• "The newbuildings are respectively scheduled to enter commercial operation in 2030 and 2031 and will sail the Baltic between Germany and Sweden." (신조 선박은 2030년과 2031년 각각 상용 운항을 시작하여 독일과 스웨덴 간 발트해 항로에서 운항할 예정)<br>• "twin-in-single-out gearboxes; Everllence Alpha controllable pitch propeller systems; an Everllence LNG fuel gas supply system" (쌍축 단일 출력 기어박스, Everllence Alpha 가변 피치 프로펠러 시스템, Everllence LNG 연료 공급 시스템으로 통합된 고급 추진 시스템 구성)</p><h3>Technical Insights</h3><br>• LNG 연료 사용 및 배터리 에너지 저장 시스템 통합으로 탈탄소화 및 IMO 2030/2050 규제 대응 전략 시현, 친환경 해운 산업의 가속화 추세 반영<br>• Twin-in-Single-Out 기어박스 및 Alpha 가변 피치 프로펠러 기술로 연료 효율성 극대화 및 운영 비용 절감, 페리 운영사의 경제성 확보<br>• RoPax 선박(자동차 및 여객 겸용)의 LNG 추진화는 북유럽 발트해 지역의 규제 강화(EU ETS, IMO 2023 GHG 규제)에 대한 사전 대응으로 업계 표준화 가능성 높음<br>• 장기 서비스 계약 체결로 Everllence의 기술 신뢰성 입증 및 향후 신조 선박 시장에서의 경쟁력 강화</p></div>`,
+      tags: ["propulsion systems","LNG fuel","RoPax vessels","long-term service agreements"],
+      link: "https://www.marinelink.com/news/everllence-signs-longterm-service-542723",
+      coords: [9.9916,53.5511],
+      location: "Hamburg, Germany"
+    }
+  ]
+});
