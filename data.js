@@ -15765,3 +15765,53 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-04
+addEvents({
+  "2026-09-04": [
+    {
+      type: "news",
+      title: "South Korea Reviewing Military Options for Hormuz Strait Freedom of Navigation",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-04",
+      image: "https://images.marinelink.com/images/maritime/w800/yeongsik-adobe-173489.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 남한이 호르무즈 해협에서 항행의 자유를 지원하기 위해 군사적 조치를 포함한 여러 선택지를 검토 중<br>• 고려되는 옵션: 해상 순찰 항공기, 후방 지원 함정, 기뢰 탐지 및 제거 부대<br>• 미국, 영국, 프랑스와 함께 실제적인 기여 방식에 대해 논의 중<br>• 최종 결정 전 국내 법적 절차, 한반도 군사 태세, 국회 승인 검토 필요<br>• 한미 동맹 위험 관리 및 대미 신뢰도 강화의 전략적 필요성 인식<br>• 남한의 호르무즈 해협 의존도가 높아 해수로 개방 유지가 국가 이익과 연결</p><h3>Key Quotes</h3><br>• "A deployment would help South Korea manage alliance risks and reinforce its credentials as a model U.S. ally at a time when Washington is asking partners to do more" (남한의 군사 배치는 동맹 위험을 관리하고 동맹국으로서의 신뢰도를 강화할 것이라는 입장)<br>• "It is important to contribute to ensuring the Strait of Hormuz remains open because South Korea has significant economic interests tied to the waterway" (호르무즈 해협 개방 유지는 남한의 중대한 경제적 이익과 직결되어 있다는 점)</p><h3>Technical Insights</h3><br>• 호르무즈 해협은 국제 해상 교통의 요충지로서 자유로운 항행권 보장이 국제 해운 질서 유지에 필수적<br>• 남한의 제한된 군사 역할('중간 수준' 기여)은 전투 참전이 아닌 인도주의적·기술적 지원으로 국제 규범 준수<br>• 해상 안보 협력은 IMO 기준 준수 및 국제법상 항행의 자유 원칙 강화와 부합하는 정책 방향<br>• 자율운항선박 시대에 주요 해상로 보호를 위한 국제 협력 체계 구축의 선례가 될 수 있음</p></div>`,
+      tags: ["South Korea","Strait of Hormuz","Military Deployment","Freedom of Navigation"],
+      link: "https://www.marinelink.com/news/south-korea-reviewing-military-options-542727",
+      coords: [56.5,26.5],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "Argentine President Milei Announces Tougher Sanctions and Defense Push Over Falklands Oil Drilling",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-04",
+      image: "https://images.marinelink.com/images/maritime/w800/peter-hermes-173488.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 아르헨티나 대통령 하비에르 밀레이가 포클랜드(말비나스) 제도 주변의 석유·가스 개발 사업에 참여하는 기업들에 대한 제재를 강화하겠다고 발표<br>• 대상 기업은 Navitas Petroleum과 Rockhopper Exploration이 운영 중인 Sea Lion 해상 프로젝트이며, 향후 수개월 내 석유 개발 개시 예정<br>• 아르헨티나 정부는 기업뿐만 아니라 주주, 임직원, 공급업체까지 제재 대상으로 확대하고 국방 자원 확충 및 입법 조치 추진 예정<br>• 포클랜드 제도는 아르헨티나 대륙에서 약 500km 동쪽에 위치하며 1833년부터 영국이 통제 중이고 1982년 양국 간 전쟁 발생<br>• 밀레이 대통령의 이번 조치는 이전의 외교적 접근 기조에서 벗어난 보다 강경한 입장 변화를 시사</p><h3>Key Quotes</h3><p>• "We will continue to bar from operating in Argentine territory companies involved, directly or indirectly, in projects in the (islands) without Argentine authorization" <br>(아르헨티나 승인 없이 포클랜드 프로젝트에 직·간접적으로 참여하는 기업들의 아르헨티나 영토 내 사업을 계속 금지하겠다)</p><p>• "Milei said Argentina had determined that the Sea Lion offshore project, operated by Navitas Petroleum and Rockhopper Exploration, could begin oil development in the coming months, creating what he described as an urgent threat to Argentine interests"<br>(Sea Lion 해상 프로젝트가 향후 수개월 내 석유 개발을 시작할 수 있으며 이는 아르헨티나 이익에 긴급한 위협이 된다고 평가)</p><h3>Technical Insights</h3><p>• 해양 자원 개발 분쟁: 포클랜드 주변 석유·가스 매장량의 경제적 가치와 주권 문제가 얽혀 있어 국제 해양법 및 EEZ(배타적 경제수역) 규정 적용의 복잡성 증대</p><p>• 해운 산업 영향: 제재 조치 강화는 포클랜드 해역에서의 해상 운송, 보급선 운영 및 관련 해양 서비스 제공 기업들에 대한 규제 리스크 증가를 초래할 수 있음</p><p>• 지정학적 해양 거버넌스: 이 사건은 경계가 명확하지 않은 해역에서의 자원 개발 권한 문제로, IMO와 국제 해양법 체계 하에서 분쟁 해결 메커니즘의 필요성을 부각</p></div>`,
+      tags: ["Falkland Islands","Oil Drilling","Argentina","Sovereignty","Sanctions"],
+      link: "https://www.marinelink.com/news/milei-vows-tougher-sanctions-defense-push-542726",
+      coords: [-51.7934,-51.4964],
+      location: "Falkland Islands"
+    }
+  ]
+});
+
+// Auto-collected: 2026-09-03
+addEvents({
+  "2026-09-03": [
+    {
+      type: "news",
+      title: "China Conducted Survey of Waters East of Taiwan for Territorial Planning",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-03",
+      image: "https://images.marinelink.com/images/maritime/w800/peter-hermes-173481.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 중국 자연자원부가 8월 10~31일 대만 동쪽 해역에 대한 해저 지질 및 구조 특성 조사를 실시하여 영토 계획 및 자원 관리를 위한 "통일 지도" 작성을 추진 중</p><p>• 대만 해안경비대는 중국 연구선박이 민감한 해역에 진입한 것을 적발·추적했으며, 이는 5월 이후 세 번째 사건으로 지속적인 해양 도발로 평가</p><p>• 중국 해안경비대는 6월 이후 세 번째로 대만 동쪽 해역에서 정례 법집행 순찰을 실시하여 영토 주권 주장 강화</p><p>• 대만 정부는 중국의 주권 주장을 전면 거부하고 해양 활동이 "괴롭힘"과 "정치 조작"이라고 강력히 규탄</p><p>• 대만 여론조사에 따르면 국민 대다수가 중국의 순찰을 "악의적"으로 평가</p><h3>Key Quotes</h3><p>• "China has been stepping up its activities to the east of Taiwan in the Pacific Ocean to assert its claims of sovereignty and jurisdiction over the island and its waters" (중국이 대만 동쪽 태평양 해역에서의 활동을 증가시켜 해당 지역에 대한 주권과 관할권 주장을 강화 중)</p><p>• "When the Chinese communists do these things, they always claim it's to legally protect Taiwanese citizens' rights and interests...But from the perspective of the Taiwanese public, clearly you are not protecting us" (중국이 이런 활동을 할 때마다 대만 국민의 권익 보호라 주장하지만, 대만 국민 입장에서는 명백히 우리를 보호하는 것이 아니다)</p><h3>Technical Insights</h3><p>• 해양 조사선의 해저 지질 조사는 자원 개발 및 영토 주권 주장의 기초 자료로 활용되는 전략적 해양 활동으로, 국제 해양법과 EEZ(배타적 경제수역) 분쟁과 직결</p><p>• 중국 해안경비대의 정례 순찰은 대만 해역에서의 실질적 지배와 법집행 권한 행사를 표현하려는 해양 거버넌스 전략이나, IMO 해상 규칙과 국제해사법에 따른 상충 야기</p><p>• 해양 도발의 증가 빈도(6월 이후 3회 순찰, 5월 이후 3회 연구선 진입)는 점진적 해양 영토 확장 전술(Salami-slicing)로 해석되며, 역내 해양 안보 및 자율운항선박 운영 환경의 불안정성 증대</p></div>`,
+      tags: ["China","Taiwan","Maritime Sovereignty","Geopolitical Tension","Survey Operations","Coast Guard"],
+      link: "https://www.marinelink.com/news/china-conducted-survey-waters-east-taiwan-542719",
+      coords: [121.5,24.5],
+      location: "Waters East of Taiwan, Pacific Ocean"
+    }
+  ]
+});
