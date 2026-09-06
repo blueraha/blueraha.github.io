@@ -15745,3 +15745,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-05
+addEvents({
+  "2026-09-05": [
+    {
+      type: "accident",
+      title: "US Sinks Three Ecuadorean Vessels in Anti-Drug Operation; Crew Members Dispute Drug Trafficking Claims",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-09-05",
+      image: "https://gcaptain.com/wp-content/uploads/2026/09/2026-08-28T231020Z_699250138_RC2A6NAY2K39_RTRMADP_3_USA-MILITARY-ECUADOR-800x545.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 남방사령부(SOUTHCOM)가 에콰도르 해역에서 3척의 에콰도르 선박을 격침시킨 사건으로, 공식적으로는 마약 밀수 조직 Los Choneros와 연계된 부유식 연료 보급소 역할을 하는 선박들이었다고 주장</p><p>• 침몰된 선박은 Conquista II, OM2 등이며, 총 36명의 승무원이 구출되어 Manta 항으로 복귀</p><p>• 선박 승무원 가족들은 해당 선박이 어선(fishing vessels)이며 어로 활동 중이었다고 주장하며, 마약이 발견되지 않았고 에콰도르 영해 내에서 격침되었다고 반박</p><p>• 에콰도르 정부는 미국과의 국제 협력 조사 결과에 따른 합동 작전이라고 방어했으나, 인권단체와 라틴아메리카에서 해상에서의 과도한 무력 사용에 대한 비판 증대</p><p>• 사건은 동태평양 지역의 확대되는 미국 해상 마약 밀수 단속 캠페인의 일환으로, 국제해양법과 인권 침해 논란이 야기됨</p><h3>Key Quotes</h3><p>• "This is work carried out through international cooperation" (국제 협력을 통해 수행된 작업이다 - 에콰도르 내무장관 John Reimberg)</p><p>• "I don't understand why the U.S. government has to act in such an arbitrary way, accusing it of violating the fishermens' human rights" (미국 정부가 그렇게 자의적으로 행동해야 하는지 이해할 수 없으며, 어부들의 인권을 위반했다고 주장 - 선박 승무원 아내 Rosalba)</p><p>• "vessels sunk this week were being used as refueling stations for drug trafficking, and said they were linked to the Los Choneros gang" (이번 주 격침된 선박들은 마약 밀수를 위한 부유식 연료 보급소로 사용되었으며 Los Choneros 조직과 연계되어 있다 - US Southern Command)</p><h3>Technical Insights</h3><p>• **해상 무력 사용의 국제법적 쟁점**: UNCLOS와 국제해양법상 연안국 영해 내 외국 군사 작전의 합법성, 특히 일방적 격침의 정당성에 대한 국제법적 논의 필요</p><p>• **정보수집과 검증의 한계**: 미국 군부의 영상 자료가 단색(monochrome) 영상으로 날짜와 위치 확인 불가능하며, 마약 발견 증거의 투명한 공개 부족으로 신뢰성 문제 발생</p><p>• **해상 법집행의 과도한 무력화 경향**: 해상 마약 단속에서 선박 수색→나포 대신 직접 격침하는 방식으로의 전환은 국제해사기구(IMO)와 인권 기구들의 해상 안전 기준 위반 우려</p><p>• **역내 외교적 긴장 심화**: 에콰도르 정부의 공식 지지에도 불구하고 국내 여론 분열과 라틴아메리카 국가들의 미국 일방주의적 해상 작전에 대한 우려 증대로 역내 안보 협력 체계에 영향</p></div>`,
+      tags: ["vessel sinking","maritime drug trafficking","US Navy operations","Ecuador","use of force at sea"],
+      link: "https://gcaptain.com/ecuador-says-us-sinkings-of-vessels-were-part-of-joint-anti-drug-probe/",
+      coords: [-80.73,-0.96],
+      location: "Eastern Pacific, Manta, Ecuador"
+    }
+  ]
+});
