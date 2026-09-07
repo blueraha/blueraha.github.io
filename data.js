@@ -15871,3 +15871,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-07
+addEvents({
+  "2026-09-07": [
+    {
+      type: "news",
+      title: "Tanker Strikes Push Hormuz Traffic to Lowest Since May",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-07",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stock-173515.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **호르무즈 해협 통행량 급감**: 지난 10일간 일일 평균 10척의 화물선이 통행하며 5월 이후 최저 수준으로 하락. 9월 6일(토) 양측의 탱커 공격 이후 급격한 감소 추세 확인</p><p>• **미-이란 상호 공격 확대**: 미군이 이란 유조선 3척(Downy, Stark I, Kylo) 공격 후, 이란 혁명수비대 해군이 보복으로 유조선 3척과 추가 미군 함선 3척 공격을 선언</p><p>• **27건의 투사체 공격 사건**: 7월 6일 이후 호르무즈 해협 및 오만만 주변에서 27건의 발사체 공격 사건이 발생하여 선박 손상 보고</p><p>• **극단적 해양 안보 위험 평가**: 해양 전문기관(Marisks)은 상업용 탱커가 "경제적 보복 수단"으로 의도적 사용되는 상황을 "주요 escalation"으로 평가하며, 이란 연계 선박에 대해 "극단적 위험(extreme risk)" 판정</p><p>• **VLCC 반출 완전 중단**: 지난 수요일 이후 호르무즈 해협에서 초대형 원유운반선(VLCC)의 반출이 완전히 중단되며, 한 정제유 탱커는 사우디 항구에서 출발 후 되돌아가는 사태 발생</p><h3>Key Quotes</h3><p>• "Commercial tankers are now being deliberately used as instruments of reciprocal economic pressure, substantially weakening the previous distinction between military confrontation and commercial shipping." <br>(상업용 탱커가 이제 의도적인 상호 경제 압박의 수단으로 활용되고 있으며, 군사 충돌과 상업 해운 간의 기존의 구분이 크게 약화되었음을 의미)</p><p>• "Risk is therefore assessed as extreme for Iranian/Iran-linked tonnage and materially elevated for U.S.-linked or U.S.-escorted shipping throughout the Strait of Hormuz and Gulf of Oman."<br>(이란 연계 선박에 대해 극단적 위험으로, 미국 연계 또는 미군 호위 선박에 대해 상당히 높은 위험으로 평가됨)</p><h3>Technical Insights</h3><p>• **호르무즈 해협의 상업해운 마비 위험**: 글로벌 석유 수송의 약 21-28%가 통과하는 호르무즈 해협에서의 물동량 급감은 국제 유가 급등 및 에너지 공급망 불안정을 초래할 수 있으며, IMO의 해양 안전 규정만으로는 무장 충돌 상황 해결 불가</p><p>• **전투 지역 항행 관련 보험 및 규제 이슈**: UKMTO의 주간 보고서에 따른 총 27건의 투사체 공격은 선사들의 보험료 급등, 대체 항로 우회 항행, 그리고 국제 해운 규칙의 실질적 마비 야기</p><p>• **자율선박 및 원격 조종 기술의 필요성**: 현재의 극도로 불안정한 해협 환경은 유인 승선원 탑승의 안전성을 심각하게 위협하며, 장거리 원격 조종 선박 또는 완전 자율 운영 선박의 도입 시급성을 재증명하는 상황</p><p>• **국제 해양 분쟁 대응 체계의 한계**: 미-이란 분쟁이 상업 선박을 표적으로 확대되면서 기존 COLREG 및 해양법 체계가 군사적 충돌 상황에서 실효성을 상실하고 있으며, IMO와 국제사회의 강제 중재 메커니즘 강화 필요</p></div>`,
+      tags: ["Strait of Hormuz","Tanker Strikes","US-Iran Conflict","Maritime Security","Oil Shipping"],
+      link: "https://www.marinelink.com/news/tanker-strikes-push-hormuz-traffic-lowest-542770",
+      coords: [56.25,26.13],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
