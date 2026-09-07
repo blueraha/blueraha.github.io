@@ -15815,3 +15815,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-06
+addEvents({
+  "2026-09-06": [
+    {
+      type: "news",
+      title: "Russia Opens Massive Vostok Oil Project and Sever Bay Arctic Port",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-09-06",
+      image: "https://maritime-executive.com/media/images/article/Photos/Vessels_Large/Valentin-Pikul-loading-at-Vostok---Rosneft.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **Vostok Oil 프로젝트 가동 개시**: 러시아 Rosneft의 대규모 북극 유전이 2026년 9월 5일 공식 가동을 시작했으며, 푸틴 대통령이 원격 참석하여 첫 번째 유조선 적재 명령을 내림</p><p>• **세계 최대급 규모의 유전**: 52개 라이선스 구역에 13개 유·가스전을 포함하며 총 매장량 70억 톤으로 세계 최대급 규모</p><p>• **Sever Bay 항만 개발**: Yenisei 강 하구에 위치한 극지 항만으로 기존 항구보다 500km 더 북쪽에 위치하여 세계 최북단 항만으로 표기되며, 연중 운항 가능하도록 방파제 건설</p><p>• **운송 인프라 완성**: 790km 파이프라인(연간 1억 톤 수송 능력)으로 두 유전과 항만 연결, 790km 파이프라인 중 6km 구간이 Yenisei 강 하류로 설치됨</p><p>• **탑승형 유조선 운용**: Valentin Pikul(69,323 dwt, 2024년 건조)과 Akademik Gubkin(112,909 dwt) 등 빙해역 대응 유조선으로 초기 운영</p><p>• **향후 확대 계획**: 2026년 하반기 연 3천만 톤, 2030년 5천만 톤, 최종적으로 연 1억 톤 규모로 확대 예정</p><h3>Key Quotes</h3><p>• "As early as the second half of next year, Vostok Oil will ship 30 million tons of oil, increasing to 50 million tons by 2030, and eventually to 100 million tons per year." (내년 하반기부터 Vostok Oil은 연 3천만 톤의 석유를 수출하며, 2030년에는 5천만 톤, 최종적으로 연 1억 톤까지 확대될 예정)</p><p>• "New icebreakers and ice-class vessels are being built for year-round navigation along the Trans-Arctic Transport Corridor." (북극해 횡단 수송 회랑을 따라 연중 운항이 가능하도록 새로운 쇄빙선과 빙해역급 선박들이 건조 중)</p><h3>Technical Insights</h3><p>• **극지해 운항 기술**: 연중 운항 가능한 Sever Bay 항만 개발은 쇄빙선 기술과 빙해역급 유조선 운용을 통해 북극해 물류 혁명을 주도하며, 기존 ice-class 선박의 기술 기준 상향을 촉발할 것으로 예상</p><p>• **해상 운송 경로 재편**: Northern Sea Route 및 Trans-Arctic Transport Corridor의 상용화는 기존 수에즈 운하 경로 대비 40% 이상의 항해 시간 단축으로 글로벌 해운 지형도를 재편할 가능성</p><p>• **IMO 극지해 규제 영향**: Polar Code 및 SOLAS 규정에 따른 극지해 운항 선박의 설계·안전 기준 강화로 인한 건조비 상승과 선원 특수 교육 수요 증대</p><p>• **산업적 파급효과**: 극지해 인프라 투자 확대는 극지 운항 기술, 빙해역급 선박 건조, 쇄빙선 개발 등 관련 산업의 경쟁 심화와 기술 혁신 가속화를 초래할 전망</p></div>`,
+      tags: ["Arctic Operations","Oil & Gas","Russian Infrastructure","Northern Sea Route"],
+      link: "https://maritime-executive.com/article/russia-opens-massive-vostok-oil-project-and-sever-bay-arctic-port",
+      coords: [94.25,72.5],
+      location: "Taimyr Peninsula, Arctic Russia"
+    },
+    {
+      type: "news",
+      title: "Azerbaijan Begins Local Production of Naval Drones with Turkish Partner",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-09-06",
+      image: "https://defence-blog.com/wp-content/uploads/2026/09/DB_image_2595.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 아제르바이잔이 터키 방위산업업체 DEARSAN과의 합작으로 SALVO 및 KAYRA 무인수상선의 현지 생산을 시작함<br>• MIRAS 군사산업회사(아제르바이잔 국방부 산하)와 DEARSAN 조선소가 공동 운영하는 시설에서 두 종류의 무인선박 건조 중<br>• SALVO는 터키 설계 무인선으로 15m 길이, 시속 60노트, 300해리 작전반경을 보유하며 레이저 유도 미사일 및 기관총 장착<br>• KAYRA는 7m 길이의 소형 자살형 공격 드론으로 50노트 속도, 200해리 작전반경으로 적함정에 충돌 공격용으로 설계됨<br>• 아제르바이잔은 2024년 자체 개발한 Kalan 및 Sugovushan 소형 무인보트도 전시했으나 터키 제품이 더 대형<br>• 터키의 2020년 나고르노-카라바흐 전쟁 지원 이후 양국 방위산업 협력 확대 추세 반영</p><h3>Key Quotes</h3><p>• "The SALVO is a Turkish-designed unmanned boat that first completed live-fire testing in 2022, when it struck a moving target in the Sea of Marmara using a Roketsan Cirit 70mm laser-guided missile" (2022년 터키가 SALVO 무인선의 레이저 유도 미사일로 마르마라해 이동 표적을 격침하는 실사격 시험 완료)</p><p>• "Rather than carrying a separate weapons system, the KAYRA is designed as a one-way attack vessel, packed with its own warhead and intended to ram and destroy enemy ships" (KAYRA는 별도의 무기체계 탑재 대신 자체 탄두를 장착한 자살형 공격 드론으로 적함정을 충돌 공격하도록 설계됨)</p><h3>Technical Insights</h3><p>• **무인수상선 기술의 상용화**: SALVO의 15m 대형 무인선박과 KAYRA의 자살형 드론 설계는 해양 무인화 기술이 실전 운용 수준으로 발전했음을 시사하며, 특히 원격 제어 및 자동항법 기술의 성숙도 증가 의미</p><p>• **해상 감시 및 대함 작전의 변화**: 300해리 작전반경의 SALVO는 기존 해군함정의 역할을 부분적으로 대체할 수 있으며, 비용 효율성과 운용 위험 감소 측면에서 해양 안보 패러다임 변화 초래</p><p>• **지역 방위산업 협력의 심화**: 터키-아제르바이잔의 합작 생산 모델은 신흥 해양 국가들이 선진 국방기술을 획득하고 현지화하는 새로운 전략 예시로, IMO 규제 대상이 아닌 군용 무인선박의 확산 가속화 가능성 제기</p><p>• **자율항해 및 COLREG 준칙 회피 위험**: 군용 무인선박이 원격 조종 및 자동공격 기능을 보유할 경우 해상교통안전규칙(COLREG) 준수가 불명확해지며, 국제해사기구(IMO)의 자율선박 규제 프레임워크 수립의 시급성 증대</p></div>`,
+      tags: ["Naval Drones","Unmanned Surface Vessels","Azerbaijan","Turkey","Defense Manufacturing"],
+      link: "https://defence-blog.com/azerbaijan-starts-local-production-of-naval-drones/",
+      coords: [49.8671,40.3776],
+      location: "Baku, Azerbaijan"
+    },
+    {
+      type: "news",
+      title: "Car Carrier Way Forward to Receive Two Wing Sails in First Commercial Multi-Wing Application",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-09-06",
+      image: "https://maritime-executive.com/media/images/article/Photos/Vessels_Concepts/Way-Forward-with-two-wing-sails.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Wallenius Marine이 자사의 최신 자동차운반선 Way Forward(18,565톤)에 Oceanbird의 윙세일 2개를 2027년에 설치하는 첫 상업적 적용 추진<br>• Oceanbird는 Wallenius Lines와 Alfa Laval의 스웨덴 합작회사로서 Landskrona에서 윙세일 조립 진행 중<br>• Way Forward는 2024년 건조된 62,432톤급 길이 200m의 효율적 설계 자동차운반선(6,500대 수송 능력)<br>• 윙세일은 기울이기 기술로 항만 진입 시 공중높이 감소 가능하며 에너지 효율성 향상 예상<br>• Tirranna(30,000톤)에 이어 두 번째 윙세일 장착으로 다중 윙세일 설치의 첫 사례 달성<br>• 선박 운영 데이터 수집을 통해 향후 풍력추진 선박 설계 및 개발에 실질적 기여</p><h3>Key Quotes</h3><p>• "We are convinced that wind propulsion will play an important role in the future of shipping. By fitting wing sails to the Way Forward, we can gain practical experience whilst taking another step towards reducing emissions from our fleet."<br>(선박 해운산업의 미래에 풍력추진이 중요한 역할을 할 것으로 확신하며, Way Forward에 윙세일 장착을 통해 실제 경험을 얻으면서 함대의 배출가스 감축 목표에 한 걸음 나아가고자 함)</p><p>• "The installation will provide valuable insights into how wind propulsion can be integrated into future vessel designs and day-to-day operations. The lessons learned will support the development of even more energy-efficient ships."<br>(이번 설치를 통해 향후 선박 설계 및 일상 운영에 풍력추진을 통합하는 방법에 대한 귀중한 인사이트를 얻을 수 있으며, 이는 더욱 에너지효율적인 선박 개발을 지원할 것)</p><p>• "It is our first multi-wing installation and an important step towards our vision of a primary wind-powered vessel."<br>(첫 번째 다중 윙세일 설치이며 순수 풍력추진 선박 비전 실현을 위한 중요한 단계)</p><h3>Technical Insights</h3><p>• **윙세일 기술의 실용화**: Oceanbird의 기울임 기술(tilting technology)을 적용하여 항만 통항 시 공중높이 감소 및 선회성 확보 가능하며, 상업 운영 데이터 수집으로 설계 최적화 근거 제공</p><p>• **자동차운반선 탈탄소화**: Way Forward의 하이드로다이나믹 최적화 선형, LNG/LBG 이중연료 기관 및 윙세일 조합은 IMO 2030/2050 탄소 감축 목표 달성의 모범 사례로 평가</p><p>• **산업 확산 모델**: 첫 단일 윙세일(Tirranna, 2026년 6월) 이후 다중 윙세일 상업 적용으로 진화하는 단계적 기술 검증은 해운사 및 장비 공급사의 투자 신뢰도 제고</p><p>• **운영 효율성 개선**: 실선 운영 데이터를 통해 풍력추진의 연료소비량 절감 정도, 날씨 조건별 성능, 승무원 훈련 요구사항 등 실질적 정보 축적으로 차세대 선박 설계 고도화 기대</p></div>`,
+      tags: ["Wind-Assisted Propulsion","Wing Sails","Car Carrier","Emissions Reduction","Oceanbird","Wallenius Marine"],
+      link: "https://maritime-executive.com/article/car-carrier-to-get-two-wing-sails-in-first-commercial-application",
+      coords: [12.2383,58.9739],
+      location: "Landskrona, Sweden"
+    },
+    {
+      type: "accident",
+      title: "Fire Breaks Out on Soviet-Era Icebreaker Admiral Makarov During Repairs in St. Petersburg",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-09-06",
+      image: "https://maritime-executive.com/media/images/article/Photos/Wreckage_Salvage/Admiral-Makarov-icebreaker-fire.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 소비에트 시대 건조 쇄빙선 Admiral Makarov가 수리 중인 St. Petersburg 항만에서 2026년 9월 5일 화재 발생</p><p>• **피해 규모**: 선박의 조향 기어 구획에서 시작된 화재가 약 80-100m² 범위로 확산, 완전히 진화하는 데 총 4시간 소요</p><p>• **대응 현황**: 러시아 비상상황부(Ministry of Emergency Situations)에서 10개 부대 52명의 소방대원 투입, 인명 피해는 없었음</p><p>• **선박 정보**: 1975년 Wärtsilä(헬싱키)에서 건조된 135m 크기의 디젤 쇄빙선, 20,000톤급으로 1.5m 두께의 빙해에서 운영 가능</p><p>• **수리 이력**: Rosmorport 관리 하에 2025년 2월부터 Kronstadt Marine Shipyard에서 수리 중이었으며, 주 엔진 수리가 2026년 말 완료 예정이었음</p><p>• **운영 목적**: 핀란드 동부 만(Gulf of Finland)에 배치되어 러시아 항해 지원 역할을 수행할 예정이었음</p><h3>Key Quotes</h3><p>• "The reports are referencing it as a 'major fire' that appears to have started in the steering gear area. It spread to an 80-square-meter area of the ship." (화재가 조향 기어 구역에서 시작된 것으로 보이며, 선박의 80m²에 달하는 넓이로 확산되었음을 나타냄)</p><p>• "Ten units and 52 personnel were involved in fighting the fire. It took about two hours to contain the fire and another two hours before it was completely extinguished." (총 4시간에 걸쳐 화재를 진화했으며, 소수의 화재 진압 차량과 대규모 인원이 동원되었음을 시사)</p><p>• "The icebreaker was built in 1975 in the then Helsinki shipyard of Wärtsilä and entered service in June of that year." (50년 이상 노후 선박임을 나타내며, 소비에트 시대 건조 선박의 현대화 필요성을 암시)</p><h3>Technical Insights</h3><p>• **선박 노후화 위험**: 1975년 건조된 50년 이상 노후 쇄빙선의 조향 기어 및 전기 시스템 신뢰성 저하가 화재 발생의 근본 원인일 가능성이 높으며, 구형 디젤 선박의 정기적 전면 점검 필요성 대두</p><p>• **조선소 안전 관리**: 대규모 정비·수리 과정 중 화재 예방 체계와 작업자 안전 교육의 중요성 강조, 특히 용접·절단 등 고온 작업 시 인접 구획의 화재 감시 체계 확립 필요</p><p>• **Arctic 운영 선박의 신뢰성**: 극지 환경에서 3개월 이상 자율 운영이 요구되는 쇄빙선의 경우 엔진·조향 시스템 등 핵심 기기의 이중화(redundancy) 및 상태 모니터링 시스템 구축 필수</p><p>• **러시아 북극 함대 현대화**: Admiral Makarov 같은 노후 소비에트 시대 선박의 집중적 보수·현대화 계획이 진행 중이며, 2026년 말 엔진 수리 완료 후 Arctic Basin 운영 재개 시 추가 안전 검증 필요</p></div>`,
+      tags: ["Fire","Icebreaker","Admiral Makarov","Russia","Shipyard Incident"],
+      link: "https://maritime-executive.com/article/fire-breaks-out-on-soviet-era-icebreaker-undergoing-repairs",
+      coords: [30.2345,59.2941],
+      location: "St. Petersburg, Russia"
+    }
+  ]
+});
