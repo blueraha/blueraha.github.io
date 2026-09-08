@@ -15891,3 +15891,46 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-07
+addEvents({
+  "2026-09-07": [
+    {
+      type: "news",
+      title: "Russia Launches Massive Vostok Oil Project, Marking New Arctic Shipping Era",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-09-07",
+      image: "https://gcaptain.com/wp-content/uploads/2026/09/photo_2026-09-07-11.33.37-800x599.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 러시아 로스네프트(Rosneft)가 북극 카라해의 신규 부흐타 세베르(Bukhta Sever) 터미널에서 보스토크 오일(Vostok Oil) 프로젝트의 첫 원유 적재를 시작, 북극 해운 시장의 새로운 시대를 열다<br>• 첫 화물은 Arc6 쇄빙유조선 발렌틴 피쿨(Valentin Pikul, 69,000톤급)에 적재되었으며, 두 번째 화물은 아프라막스 학사드미르 굽킨(Akademik Gubkin, 약 120,000톤급)에 실릴 예정<br>• 보스토크 오일 프로젝트는 소련 이후 가장 큰 규모의 유전 개발로 사업 규모는 1,000억 달러 이상이며, 최종적으로 연 1억 톤의 원유 생산·수출 목표<br>• 770km의 반코르-파야하-부흐타 세베르 송유관 등 대규모 수송 인프라 구축, 2023-2024년 200만 톤 이상의 건설 자재 해상 운송 및 700회 이상의 공급 항해 진행<br>• 서방 석유기업(트래피구라, 비톨)의 우크라이나 전쟁 후 투자 철회에도 불구하고 러시아가 자체 물류 시스템 중심으로 프로젝트 추진</p><h3>Key Quotes</h3><br>• "This is the first – yet very important – step in the implementation of the largest oil and gas project in our country" (푸틴 대통령이 준공식에서 발언한 것으로, 보스토크 프로젝트가 러시아 최대 규모의 유가스 프로젝트임을 강조)<br>• "birthday of the new Russian oil province" (로스네프트 CEO 이고르 세친이 발표한 것으로, 새로운 러시아 유전지역 개발의 시작을 의미)</p><h3>Technical Insights</h3><br>• **Arc6 쇄빙등급 유조선의 기술적 중요성**: 발렌틴 피쿨호는 독립적으로 북극 결빙해역에서 운항 가능한 고도의 쇄빙 성능을 갖추고 있으며, 삼성중공업의 기술 지원으로 7년 건조 기간을 거친 첫 사례로서 북극 자율운항선의 선행 모델 역할 가능<br>• **북동항로(Northern Sea Route) 해운량 급증 전망**: 보스토프 오일의 최대 1억 톤 연간 생산 목표는 북극 해역 정규 상선 운항을 현실화하며, 자율항해 기술 도입 필요성을 촉발할 것으로 예상<br>• **Arctic 해역 규제 및 IMO 기준 적용 강화**: 극지역 해양 운송의 확대에 따라 Polar Code, COLREG 준수 강화 및 자동화된 항해 시스템의 도입이 필수적이 될 것으로 전망<br>• **공급망 다변화와 로봇화 추세**: 2024년 단독으로 700회 이상의 대형 공급 항해를 수행한 사례는 향후 무인 화물선 및 자율항해 보급선(Supply Vessels)의 도입 가능성을 제시</p></div>`,
+      tags: ["Arctic Shipping","Vostok Oil Project","Northern Sea Route","Ice-class Tankers","Rosneft"],
+      link: "https://gcaptain.com/russia-launches-massive-vostok-oil-project-marking-new-arctic-shipping-era/",
+      coords: [86.5,73.5],
+      location: "Kara Sea, Russian Arctic"
+    },
+    {
+      type: "news",
+      title: "Saab Reveals MCMV 24 Mine Warfare Concept for Baltic Operations",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-09-07",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/09/Saab-MCMV-24.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Saab가 덴마크 DALO Industry Days에서 새로운 지뢰 대응 함정(MCMV 24) 개념을 공개했으며, 66미터 길이의 함정으로 발트해 지역의 근처 해역 작전에 특화됨</p><p>• 복합 GRP 선체, 22노트 최고속, Saab Giraffe 1X 레이더, CEROS 시스템, Bofors 40mm 포, TP 47 경어뢰, Nimbrix C-UAS 미사일 등으로 무장</p><p>• ROV(Double Eagle) 전용 함수 도어 및 자율 수중 시스템 운용 능력을 갖춘 설계로 무인 장비 활용도 극대화</p><p>• 스웨덴의 Koster급 함정 대체 후보로 검토되고 있으며, 덴마크, 독일과도 초기 협의 단계 진행 중</p><p>• 전통적 기뢰 위협에서 무인 수상정(USV) 배치 기뢰까지 다양한 위협에 대응 가능하도록 설계</p><p>• 지뢰 대응 외 해상 순찰 및 해안경비 임무도 수행 가능한 다목적 함정 플랫폼으로 운영 효율성 제공</p><h3>Key Quotes</h3><p>• "The vessel is designed for the Baltic Sea or comparable littoral theaters where the mine threat is not limited to specific areas, but extends from hostile shores across open waters and right into friendly ports." (해당 함정은 지뢰 위협이 특정 지역에만 국한되지 않고 적 해안에서 개방 해역을 거쳐 아군 항구까지 확대되는 발트해 및 유사한 근처 해역 작전을 위해 설계됨)</p><p>• "A top speed of 22 knots is seen as a key enabler for greater operational flexibility than traditional mine countermeasures vessels allow." (22노트 최고속은 전통적 지뢰 대응 함정보다 훨씬 높은 작전 유연성을 제공하는 핵심 요소로 평가됨)</p><h3>Technical Insights</h3><p>• 자율 수중 시스템(AUVs/ROVs) 운용을 위한 전용 함수 도어 설계는 현대 해전에서의 무인 장비 활용 추세를 반영한 선제적 설계이며, 원격 조종 및 자율 지뢰 대응 작전의 효율성 극대화</p><p>• USV(무인 수상정) 배치 기뢰 대응 능력은 하이브리드 전위(Hybrid Warfare) 위협 환경에 대한 해군의 인식 변화를 보여주며, 앞으로 발트해 지역 안보 이슈의 중요성 증대</p><p>• 다목적 함정 플랫폼(MCM/OPV/해안경비) 통합 설계는 제한된 국방 예산으로 다양한 임무를 수행해야 하는 발트해 3국(에스토니아, 라트비아, 리투아니아)의 해군 근대화 요구를 반영한 실용적 솔루션</p><p>• 복합 GRP 선체와 전자광학 센서 통합으로 RCS(레이더 반사면적) 감소 및 상황인식 능력 향상은 현대 해상 보안 작전에서 감지회피와 정보우위의 중요성을 강조</p></div>`,
+      tags: ["Mine Countermeasures","Naval Vessels","Baltic Sea","Defense Technology","Autonomous Systems"],
+      link: "https://www.navalnews.com/naval-news/2026/09/saab-mcmv-24-mine-countermeasures-vessel/",
+      coords: [12.5,57.7],
+      location: "Baltic Sea Region"
+    },
+    {
+      type: "news",
+      title: "U.S. Navy Trials Robotic Towed Connector for USV Refueling Operations",
+      source: "USNI News",
+      sourceMeta: "news.usni.org · 2026-09-07",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미 해군이 무인수상함(USV) 지속적 운용을 위해 자동화된 연료 공급 시스템 개발 중<br>• Naval Air Warfare Center Weapons Division (NAWCD)가 MARTAC, Sealartec 등 산업 파트너와 협력하여 2026년 8월 11일 시험 실시<br>• 로봇식 예인 커넥터를 통해 무인함정을 반복적으로 포획, 급유, 해제하는 기술 검증<br>• Virginia 소재 Joint Expeditionary Base Little Creek-Fort Story에서 해상 급유 시연 성공<br>• 해양 자율운항 시스템의 장시간 작전 능력 향상 및 무인 함정의 자급능력 강화를 목표<br>• 미 해군의 장거리 자율 운영 능력 확보 및 해사 기술 혁신의 중요한 진전</p><h3>Key Quotes</h3><p>• "robotic towed connector to repeatedly capture, refuel and release an unmanned surface vessel (USV)" (로봇식 예인 연결 장치를 통해 무인수상함을 반복적으로 포획하고 급유한 후 해제하는 기술)<br>• "persistent unmanned operations at sea" (해상에서의 지속적인 무인 운영 능력)</p><h3>Technical Insights</h3><p>• **자율운항 함정의 에너지 관리**: 로봇식 자동 급유 시스템은 무인함정의 항해 시간을 획기적으로 연장할 수 있으며, 해상 급유 절차의 자동화로 인한 안전성 및 효율성 향상<br>• **해군 작전 개념의 전환**: 모함 없이 독립적으로 장시간 작전 가능한 USV 운용으로 해역 감시, 정찰, 해상통제 능력 강화 및 인력 손실 위험 감소<br>• **해사 규제와의 조화**: 자동화된 급유 시스템은 COLREG 준수 및 IMO 자율운항선 지침과 부합하는 안전 프로토콜 적용 필요성 대두<br>• **산업 생태계 발전**: MARTAC, Sealartec 같은 민간 조선업체의 참여로 무인해양시스템(MASS) 기술 상용화 가속화 및 국방-민간 기술 협력 확대 추세</p></div>`,
+      tags: ["Unmanned Surface Vessel","Autonomous Maritime","Naval Technology","Refueling System"],
+      link: "https://news.usni.org/2026/09/07/u-s-navy-trials-robotic-towed-connector-to-refuel-usv",
+      coords: [-76.1086,36.9914],
+      location: "Joint Expeditionary Base Little Creek-Fort Story, Virginia"
+    }
+  ]
+});
