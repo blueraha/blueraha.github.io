@@ -15934,3 +15934,65 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-08
+addEvents({
+  "2026-09-08": [
+    {
+      type: "news",
+      title: "Iran Threatens Maritime Exclusion Zone in Persian Gulf Amid Escalating U.S.-Iran Conflict",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-08",
+      image: "https://images.marinelink.com/images/maritime/w800/studio-adobe-173524.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이란이 페르시아만 전역에 새로운 해상 배제구역(Maritime Exclusion Zone) 설정을 위협하며 글로벌 해운 위험도 상승<br>• 이란 국가안보위원회 부의장 모센 레자에이가 미국의 "경제전"에 대응하는 방식으로 해상 봉쇄 구역 설정을 공언<br>• 6개월간 진행 중인 미국-이란 전쟁으로 전 세계 석유·가스 공급의 약 20%가 통과하는 호르무즈 해협의 해운 중단 상황 지속<br>• 이란이 새로운 제한 해역 지도와 호르무즈 해협 내 새로운 해운 회랑(shipping corridor) 정보를 수일 내 공개할 예정<br>• 호르무즈 해협 통과 선박에 대한 이란 제재 리스트 포함 및 군사적 대응 능력 재편성 선언<br>• 글로벌 에너지 공급망 불안정화로 인한 국제 해운 산업의 지속적 경영 위험 증가</p><h3>Key Quotes</h3><p>• "Economic warfare will be met by a maritime exclusion zone across the Persian Gulf to the blockade perimeter. The operational posture toward U.S. warships and bases has been fundamentally recalibrated." (경제전은 페르시아만 전역의 해상 배제구역으로 대응하며, 미국 함정 및 기지에 대한 작전 태세를 근본적으로 재편성했다는 의미)</p><p>• "In recent days, Washington has received a clear warning from Iran's new missiles." (최근 워싱턴은 이란의 새로운 미사일로부터 명확한 경고를 받았다는 뜻으로, 이란의 군사력 강화를 과시)</p><h3>Technical Insights</h3><p>• **해상 배제구역(Maritime Exclusion Zone)의 국제법적 문제**: IMO 및 국제법상 일방적 해상 배제구역 설정은 공해 자유 원칙 위반으로, 상선의 통항권과 직결된 심각한 분쟁 야기 가능<br>  <br>• **호르무즈 해협 통항 보장의 중요성**: 전 세계 석유 및 LNG의 약 20%가 통과하는 전략적 해상로의 봉쇄는 글로벌 에너지 시장 동요 및 선박 운영자의 보험료 상승 초래</p><p>• **자율운항선 및 원격 운영 시스템의 필요성 증대**: 분쟁 해역에서의 해상 무인 운영 기술 및 인공지능 기반 회피 시스템이 향후 해운 안전의 핵심 요소로 부각</p><p>• **해운업계의 리스크 관리 강화**: 분쟁 해역 회항(detour) 비용 증가, 보험료 상승, 운항 지연으로 인한 공급망 차질 확대로 국제 해운의 경제성 악화 우려</p></div>`,
+      tags: ["Iran","Persian Gulf","Strait of Hormuz","Maritime Security","Geopolitical Risk","Shipping Disruption"],
+      link: "https://www.marinelink.com/news/iran-raises-stakes-gulf-exclusion-zone-542784",
+      coords: [53.5,26.5],
+      location: "Persian Gulf / Strait of Hormuz"
+    },
+    {
+      type: "event",
+      title: "Hanwha Presents Advanced Defense Systems at MSPO 2026 in Poland",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-09-08",
+      image: "https://defence-blog.com/wp-content/uploads/2026/09/DB_image_2616.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **행사 개요**: 한화에어로스페이스와 한화시스템이 폴란드 최대 방위산업 전시회인 MSPO 2026에서 9월 8~11일간 공동 부스를 운영하며 방공, 무인 및 포병 체계를 선보임</p><p>• **주요 전시 품목**: L-SAM 장거리 지대공 미사일, H-SHORAD 단거리 방공 시스템, 천광 레이저 무기 체계(50kW 및 20kW 모델), 드론 요격용 무인 지표면 함정(Striker-S) 등</p><p>• **해양 시스템**: 발틱해 작전용 무인 수상함정 및 천무 로켓 발사기를 탑재한 Striker-S 무인 보트 전시로 해양 방위 능력 강화</p><p>• **한-폴 군사협력 확대**: 2014년 K9 자주포 선정 이후 K9 자주곡사포, 호마르-K(천무) 로켓 발사기 납품 계속, 약 40억 달러 규모의 유도탄 생산 계약으로 폴란드 내 생산 현지화 추진</p><p>• **기술 혁신**: 레이저 무기 1발 비용 약 1.5달러로 수초 내 소형 드론 격추 가능하며, K9A2 개량형과 궤적 교정 신관 장착 155mm 탄약으로 정확도 향상</p><h3>Key Quotes</h3><p>• "Proven Partnership. Strategic Capabilities. Sovereign Defence." (입증된 협력 관계. 전략적 역량. 주권 방위)<br>  - 한화가 폴란드와의 10년 파트너십을 강조하며 방위 자주권 확보 메시지 전달</p><p>• "Each laser shot costs roughly 2,000 South Korean won, or about $1.50, and can down a small drone within seconds." (각 레이저 발사 비용은 약 2,000원으로 소형 드론을 수초 내 격추 가능)<br>  - 천광 레이저 무기의 경제성과 효율성을 강조하는 핵심 성능 지표</p><h3>Technical Insights</h3><p>• **유인-무인 협력 체계**: K9A1 자주곡사포와 무인 로켓 발사기, H-UGV 지표면 무인차량을 결합한 협력 개념으로 인명 손실 최소화 및 화력 효율성 극대화</p><p>• **레이저 방공 시스템**: 천광 무기 체계의 50kW 및 20kW 급 레이저를 장갑차량에 탑재하여 저비용의 무인기 위협 대응 능력 확보, 전자전 면역성 우수</p><p>• **해양 무기 시스템**: Striker-S 무인 보트에 천무 로켓 발사기 통합으로 해상 방위 범위 확대 및 baltique Sea 작전 능력 강화, 무인 시스템의 다중 플랫폼 통합 추세 반영</p><p>• **산업 현지화 전략**: 약 40억 달러 규모의 폴란드 내 천무 유도탄 생산 시설 구축으로 나토 회원국의 방위 산업 자립도 강화 및 한국 방위산업의 전략적 위치 상향</p></div>`,
+      tags: ["defense exhibition","Hanwha Aerospace","air defense systems","unmanned systems","laser weapons","Poland"],
+      link: "https://defence-blog.com/koreas-hanwha-brings-lasers-and-drones-to-polands-biggest-defense-show/",
+      coords: [21.1271,50.8853],
+      location: "Kielce, Poland"
+    },
+    {
+      type: "news",
+      title: "HD Hyundai to equip new MGCs with Nord Gas Solutions' cargo handling systems",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-09-08",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/09/HD-Hyundai-built-medium-gas-carriers-to-sport-Nord-Gas-Solutions-systems.png?image-crop-positioner-ts=1788854750",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• HD Hyundai가 건조 중인 2척의 40,000 m³급 중형 가스운반선(MGC)에 Nord Gas Solutions의 화물 처리 시스템(CHS)과 LPG 연료공급 시스템(LFSS) 장착 계약 체결</p><p>• 선주 Byzantine Maritime이 의뢰한 신조선으로, 2027년 4월 HD Hyundai 조선소에 장비 납입 예정</p><p>• Nord Gas Solutions는 Mutares SE & Co.가 Wärtsilä Gas Solutions를 인수하면서 2026년 6월 1일부터 신규 브랜드로 출범</p><p>• Byzantine Maritime이 기존 보유 선박에 Nord Gas Solutions 시스템 장착 후 재계약으로, 기술의 신뢰성과 성능 입증</p><p>• 장기적 HD Hyundai와의 협력 관계와 상호 신뢰를 바탕으로 한 수주로, 가스운반선 시장에서의 시스템 공급 경쟁력 강화</p><h3>Key Quotes</h3><p>• "We are very pleased to be selected by HD Hyundai for this important project. This contract is the result of the strong working relationship and mutual trust that Nord Gas Solutions and HD Hyundai have built over many years" <br>(HD Hyundai의 선정에 매우 기쁘며, 장년간 구축된 상호 신뢰와 협력 관계의 결실이라는 의미)</p><p>• "This repeat selection demonstrates that the performance and reliability of our technology continue to be recognized by our customers"<br>(기술의 성능과 신뢰성이 고객에게 지속적으로 인정받고 있음을 보여주는 재계약)</p><h3>Technical Insights</h3><p>• 중형 가스운반선(MGC)은 LPG 및 암모니아 등 친환경 연료 운송에 최적화된 선형으로, 국제 해운 탈탄소화 추세에 부응하는 신조선 수요 증가 중</p><p>• Nord Gas Solutions의 화물 처리 시스템은 가스 운반 안전성과 효율성을 극대화하는 핵심 기술로, 선주의 반복 발주는 신뢰성 검증의 증거</p><p>• Mutares의 Wärtsilä Gas Solutions 인수 후 Nord Gas Solutions로 브랜드 전환으로, 독립적 사업체 운영을 통한 기술 혁신과 고객 맞춤형 솔루션 강화 전략 추진</p></div>`,
+      tags: ["Medium Gas Carrier","Cargo Handling Systems","LPG Fuel Supply","HD Hyundai","Nord Gas Solutions"],
+      link: "https://www.offshore-energy.biz/hd-hyundai-built-medium-gas-carriers-to-sport-nord-gas-solutions-systems/",
+      coords: [126.978,37.5665],
+      location: "South Korea"
+    }
+  ]
+});
+
+// Auto-collected: 2026-09-07
+addEvents({
+  "2026-09-07": [
+    {
+      type: "news",
+      title: "Petronas Implements AI-Powered Platform to Streamline Malaysia's Upstream Investment Landscape",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-09-07",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2025/02/Petronas.jpg?image-crop-positioner-ts=1740651855",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 말레이시아 국영석유회사 페트로나스(Petronas)가 에이전틱 AI 기술을 myPROdata 플랫폼에 통합하여 업스트림 투자 의사결정 고도화 추진<br>• 말레이시아석유관리공사(MPM)와 이라야에너지(Iraya Energies) 간 협력으로 지질·지구물리·엔지니어링 데이터의 자동화된 분석 및 통합 역량 확보<br>• 발견에서 초생산까지의 기간을 100개월에서 50개월로 단축하고 연 500-600억 링깃의 업스트림 투자 유치 목표<br>• AI 기반 인사이트 제공으로 탐사부터 개발 타당성 평가까지 전 단계의 종합 평가 지원 가능<br>• 말레이시아를 경쟁력 있는 미래형 업스트림 투자 목적지로 강화하는 산업 생태계 개선 추진</p><h3>Key Quotes</h3><br>• "By bringing together trusted data and AI-powered intelligence, we aim to enable faster and more informed investment decisions, contributing to Petronas' ambition to attract approximately RM50 billion to RM60 billion in annual upstream investments" (신뢰할 수 있는 데이터와 AI 기반 인텔리전스를 결합하여 투자 의사결정을 가속화하고 연 500-600억 링깟의 업스트림 투자 유치 목표)<br>• "This will reinforce Malaysia's position as a competitive and future-ready upstream investment destination" (말레이시아의 경쟁력 있고 미래지향적인 업스트림 투자 목적지로서의 위상 강화)</p><h3>Technical Insights</h3><br>• 에이전틱 AI의 자율적 데이터 분석 및 다중 정보원 연계 기능으로 복잡한 업스트림 데이터 처리의 효율성 대폭 향상 가능<br>• 탐사·개발·상업성 평가의 전주기 의사결정 지원으로 프로젝트 개발 시간 50% 단축 달성 추진<br>• 클라우드 기반 플랫폼과 AI 통합으로 투자자의 진입장벽 완화 및 산업 표준화된 데이터 접근 환경 구축</p></div>`,
+      tags: ["AI","Petronas","Malaysia","Upstream Investment","myPROdata Platform"],
+      link: "https://www.offshore-energy.biz/petronas-on-ai-powered-quest-to-streamline-malaysias-upstream-investment-playbook/",
+      coords: [101.6869,4.2105],
+      location: "Malaysia"
+    }
+  ]
+});
