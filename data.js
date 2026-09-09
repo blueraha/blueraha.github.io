@@ -16028,3 +16028,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-09
+addEvents({
+  "2026-09-09": [
+    {
+      type: "news",
+      title: "DNV and Fassmer Partner on Autonomous Naval Vessels Classification",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-09-09",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/09/Fassmer-Autonomous-Naval-Vessels.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• DNV와 Fr. Fassmer GmbH & Co. KG가 함부르크 SMM 해양박람회에서 자율운항 및 원격조종 해군용 선박 개발·분류를 위한 양해각서(MoU) 체결</p><p>• 양사는 DNV의 자율운항 및 원격조종선박(AROS) 클래스 노테이션을 Fassmer의 무인 선박 프로그램에 적용하여 승인 원칙(AiP) 획득 목표</p><p>• Fassmer의 ST-Engineering UIS와의 협력을 통해 자율항해, 엔지니어링, 운영, 안전 기능에 대한 운영 개념 검토 및 기술 테스트 진행</p><p>• AROS 노테이션(2025년 1월 이용 가능)은 원격제어·의사결정 지원부터 완전 자율운항까지 다양한 수준의 자율성을 커버하며 기존 선박과 동등한 안전 수준 달성 목표</p><p>• 국제 자율운항 표준 개발에 참여하여 독일과 유럽을 해양 자율성의 중심지로 강화하는 데 기여</p><h3>Key Quotes</h3><p>• "Autonomous shipping will fundamentally change the maritime industry. We see it as a major opportunity to make our specialized vessels safer, more efficient, and more capable." (자율운항 선박은 해양산업을 근본적으로 변화시킬 것이며, 전문화된 선박을 더욱 안전하고 효율적이며 능력 있게 만드는 중요한 기회로 봄)</p><p>• "Autonomous systems are becoming increasingly important for defense and naval operations. The frameworks for using them safely are still evolving, and our AROS notations were created to support the industry through this shift." (자율시스템이 방위 및 해군 작전에서 점점 중요해지고 있으며, 안전한 사용 프레임워크는 여전히 진화 중이고 AROS 노테이션은 산업의 이러한 전환을 지원하기 위해 개발됨)</p><h3>Technical Insights</h3><p>• AROS 클래스 노테이션은 선박의 자율항해, 엔지니어링, 운영, 안전 기능을 평가하여 기존 선박과 동등한 안전 수준 달성을 보장하는 분류 체계로 기능</p><p>• DNV와 Fassmer의 협력은 해군 및 정부용 무인 선박 개발에 필요한 위험 분석 및 운영 경험을 축적하여 자율운항 선박의 산업 표준화 촉진</p><p>• 원격제어·의사결정 지원·감시·완전 자율운항 등 다층적 자율성 수준을 지원하는 유연한 분류 체계는 해군 작전의 다양한 요구사항 충족 가능</p><p>• 국제 자율운항 표준 개발 참여를 통해 유럽의 해양 기술 리더십 강화 및 국방 해군용 무인 선박 기술 국제화 추진</p></div>`,
+      tags: ["autonomous vessels","naval","DNV AROS","classification","unmanned systems"],
+      link: "https://www.navalnews.com/naval-news/2026/09/dnv-and-fassmer-to-cooperate-on-autonomous-naval-vessels/",
+      coords: [10.0086,53.5511],
+      location: "Hamburg, Germany"
+    }
+  ]
+});
