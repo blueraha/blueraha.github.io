@@ -15996,3 +15996,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-08
+addEvents({
+  "2026-09-08": [
+    {
+      type: "news",
+      title: "Iran Captures American Anduril Dive-LD Underwater Drone in Strait of Hormuz",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-09-08",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/09/Iran-IRGC-Anduril-Dive-LD.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 이란 혁명수비대(IRGC)가 호르무즈 해협에서 미국 제조 Anduril Dive-LD 자율무인수중차량(AUV)을 나포했다고 주장<br>• 해당 무인잠수정은 길이 5.8m, 직경 2m, 무게 약 3톤의 대형 장기운용 AUV로 미 해군의 UUVGRU 1과 UUVRON 3에 배치된 것으로 알려짐<br>• Dive-LD는 정찰·감시·정보수집(ISR) 또는 기뢰탐지(MCM) 임무 수행 가능하며 무장화 가능성도 존재<br>• 이란이 캡처한 이 무인잠수정은 현지 설계보다 훨씬 정교한 기술을 보유하고 있으며, 러시아나 중국 등 동맹국과의 기술공유 가능성 제기<br>• 사진 분석 결과 설계 세부사항(플러드홀, 패스닝, 투명 마스트 등)이 Anduril Dive-LD와 정확히 일치함이 확인됨</p><h3>Key Quotes</h3><br>• "Extensive open interfaces, generous payload bays" and that "the use of additive manufacturing enable rapid integration of a variety of sensors and effectors for customized defense and commercial mission sets." (광범위한 개방형 인터페이스와 대용량 페이로드 베이를 갖춘 첨가제조 기술을 활용하여 다양한 센서와 효과기를 신속하게 통합할 수 있는 설계)</p><p>• "Access to the Dive-LD may further enhance Iranian underwater drone capabilities. Or possibly it will be shared with Iran's allies such as Russia or China." (Dive-LD에 대한 접근은 이란의 수중무인기 능력을 더욱 향상시킬 수 있으며, 러시아나 중국 같은 이란의 동맹국과 공유될 가능성도 존재)</p><h3>Technical Insights</h3><br>• 자율무인수중차(AUV) 기술의 군사적 활용: 미국의 최신 Dive-LD 설계가 적대국에 유출될 경우 수중 자율운영 기술의 대칭적 기술격차 축소 우려<br>• 이란의 기존 수중무인기 기술과 결합 시 호르무즈 해협의 해상교통로 감시 및 공격 능력 대폭 강화 가능성<br>• 동맹국 기술공유 네트워크: 나포 무인기가 러시아나 중국 등과 공유될 경우 글로벌 자율수중 무기 기술의 다극화 심화 및 IMO 해상안보 규정의 한계 노출<br>• 미국 해군의 UUVGRU/UUVRON 운영 AUV 보안 및 작전보안(OPSEC) 조치의 재검토 필요성 대두</p></div>`,
+      tags: ["Autonomous Underwater Vehicle","AUV","Iran","Strait of Hormuz","Unmanned Systems","Naval Technology"],
+      link: "https://www.navalnews.com/naval-news/2026/09/underwater-drone-captured-by-iran-matches-american-anduril-model/",
+      coords: [56.1499,26.5577],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "Saipem Secures Commissioning Contract for Türkiye's Osman Gazi FPU",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-09-08",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/09/Saipem-put-in-charge-of-commissioning-services-for-Turkiye-bound-FPU.jpg?image-crop-positioner-ts=1788859650",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이탈리아 해양엔지니어링 회사 Saipem이 터키 최대 천연가스전인 사카랴 가스전 개발을 위해 Osman Gazi FPU(부유식 생산시설)의 커미셔닝 서비스 계약을 GOE Petrol Sanayi로부터 수주</p><p>• 계약 규모는 약 8개월 소요 예정이며, 2025년 4월 수주한 운영 준비 및 보증 지원 서비스 계약에 이은 추가 계약으로, 장기적 프로젝트 참여 강화</p><p>• 사카랴 가스전은 터키 석유공사(TPAO) 개발, 수심 약 2,150m에서 해안으로부터 약 170km 떨어진 흑해에 위치하며, 2020년 8월 발견</p><p>• Saipem은 SLB, Subsea7와 함께 2023년 5월 2단계 개발의 해저생산시스템(SPS) 및 SURF 공사를 수주했으며, 2025년 말 제3단계(파이프라인 153km, Goktepe 연결) EPCI 계약도 확보</p><p>• 이 프로젝트는 터키의 에너지 독립성 강화 및 흑해 심해유전 개발의 선도적 사례로, 국제적 해양엔지니어링 기술의 복합 활용 필요</p><h3>Key Quotes</h3><p>• "Saipem has secured a new contract with GOE Petrol Sanayi to provide commissioning services for a floating production unit (FPU) destined for Türkiye's largest natural gas field." (Saipem이 터키 최대 천연가스전용 부유식 생산시설의 커미셔닝 서비스 계약을 수주했다)</p><p>• "The Sakarya field, discovered in August 2020...is located approximately 170 kilometers offshore, at a water depth of around 2,150 meters." (2020년 8월 발견된 사카랴 가스전은 해안으로부터 약 170km 떨어진 수심 약 2,150m에 위치한다)</p><h3>Technical Insights</h3><p>• **FPU 커미셔닝 기술**: 심해 부유식 생산시설의 정상 운영을 위한 시스템 점검, 통합 테스트, 운영자 교육 등이 요구되며, 고수심(2,150m) 환경에서의 복잡한 해저-지표 연계 시스템 관리 필요</p><p>• **SURF 및 SPS 통합**: 해저우산관(SURF)과 해저생산시스템(SPS)의 정확한 설치와 통합이 FPU의 안정적 운영을 결정하는 핵심 요소로, Saipem의 다단계 참여(EPCI→운영지원→커미셔닝)는 프로젝트 리스크 감소</p><p>• **심해 에너지 개발 추세**: 흑해의 심해유전 개발은 경제성 있는 에너지 생산을 위해 최신 자동화, 원격 모니터링, 디지털 트윈 기술 도입이 증가하고 있는 산업 추세 반영</p><p>• **국제협력 프로젝트**: SLB, Subsea7, Saipem 등 글로벌 해양엔지니어링 기업들의 컨소시엄 구성이 대규모 심해 프로젝트 성공의 필수요소로 정착</p></div>`,
+      tags: ["Floating Production Unit","Sakarya Gas Field","Turkish Black Sea","Saipem","Commissioning Services"],
+      link: "https://www.offshore-energy.biz/saipem-put-in-charge-of-commissioning-services-for-turkiye-bound-fpu/",
+      coords: [35,43],
+      location: "Turkish Black Sea - Sakarya Gas Field"
+    }
+  ]
+});
