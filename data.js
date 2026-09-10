@@ -16048,3 +16048,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-09
+addEvents({
+  "2026-09-09": [
+    {
+      type: "news",
+      title: "Brent Crude Oil Prices Rise Above $100/Barrel Amid Iran-U.S. Shipping Attacks",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-09",
+      image: "https://images.marinelink.com/images/maritime/w800/-173566.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이란-미국 간 최대 규모 해상 공격으로 브렌트유 배럴당 가격이 $100을 넘어섬 - 7월 말 이후 처음으로 $100.95까지 상승<br>• 호르무즈 해협을 통한 해상 운송량이 급격히 감소 - 전쟁 재개 이후 일일 800만-900만 배럴에서 200만 배럴 이하로 급락<br>• 이란이 해협 근처 10척의 선박 공격, 미국이 이란 유조선 5척 격침 - 6개월 전쟁 중 가장 큰 규모의 해상 공격<br>• 호르무즈 해협은 세계 석유·가스 공급량의 약 20% 통과 - 전 지구적 에너지 거래의 핵심 요충지<br>• 평화협상 가능성 축소로 유가 상승세 지속 - 공급 부족 심화와 함께 유가 변동성 확대 예상</p><h3>Key Quotes</h3><p>• "The move towards and back above $100 Brent is reflecting a market that increasingly has to change its view on how long the Middle East crisis will continue to curb supply from the region" (중동 위기가 지역의 공급을 얼마나 오래 억제할 것인지에 대해 시장이 계속 전망을 바꿔야 한다는 것을 반영하고 있다)</p><p>• "The near-term fundamentals have suddenly turned to much tighter supplies, and the back and forth strikes from the U.S. and Iran look to now be a mainstay, with any chance of a peace agreement moving further out in the distance" (단기 펀더멘탈이 갑자기 훨씬 더 긴박한 공급 상황으로 변했으며, 미국과 이란의 상호 공격이 이제 상수가 될 것으로 보이며, 평화협상 가능성은 더 멀어지고 있다)</p><h3>Technical Insights</h3><p>• **해상 안전 위협 심화**: 호르무즈 해협의 공격 확대로 상선 운항 회피 현상 심화 - 일일 통과 선박 6척으로 급감(전쟁 전 평균 12척)하여 국제 해상 운송망 마비 상태</p><p>• **COLREG 및 해상 보안 규제 강화 필요**: 전쟁 지역 해상 항행 시 국제해사기구(IMO) 고위험 구역 지정 검토와 보안 프로토콜 개정 필요성 대두</p><p>• **자율운항선박 도입의 전략적 가치**: 고위험 해역 운항 시 유인 선박 대비 자율운항선박의 인력 손실 방지 및 보안 상의 이점 재부각 - 향후 분쟁 지역 운영 모델 전환 가속화 예상</p><p>• **글로벌 에너지 공급망 재편**: 호르무즈 해협 대체 루트(아라비아 파이프라인, 남부 대체 항로) 개발 및 해상 보험료 급등에 따른 운송 비용 증가로 장기적 해운 산업 구조 변화 초래</p></div>`,
+      tags: ["Oil Prices","Strait of Hormuz","Iran-U.S. Conflict","Shipping Attacks","Energy Supply Crisis"],
+      link: "https://www.marinelink.com/news/brent-crude-oil-prices-rise-above-barrel-542840",
+      coords: [56.1471,26.5937],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "accident",
+      title: "Iraqi Oil Tanker New Andros Hit by Drone in Persian Gulf",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-09",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockpawinee-173560.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이라크 석유 운송선 뉴 안드로스(New Andros)호가 이라크 영해에서 드론 공격으로 피격되어 선체에 경미한 손상 발생<br>• 파나마 국적, 약 200만 배럴의 이라크 연료유 적재, 22명 승무원 중 인명피해 없음<br>• 영국 해양교역국(UKMTO)이 페르시만 북부와 오만만 지역의 다수 상선이 야간 군사작전 중 피격 보고<br>• 이란이 호르무즈 해협 인근 선박 10척 공격, 미국의 5척 이란 유조선 격침에 대한 보복 선언<br>• 6개월 지속된 전쟁 이후 양측이 벌이는 최대 규모의 해운 사건으로, 환경오염 우려와 국제 해상 통행 안전 위협</p><h3>Key Quotes</h3><p>• "A fire broke out aboard the Panama-flagged oil tanker New Andros after it was hit in Iraqi waters at around 6 a.m. (0300 GMT) on Wednesday" (수요일 오전 6시(GMT 0300분) 경 이라크 영해에서 파나마 국적 유조선 뉴 안드로스호가 피격되어 화재 발생)</p><p>• "Iran said on Wednesday it had attacked 10 ships near the Strait of Hormuz after the U.S. sank five Iranian oil tankers, in the biggest declared wave of tit-for-tat attacks on shipping by both sides since the start of the six-month-old war" (이란이 미국의 5척 이란 유조선 격침에 대응하여 호르무즈 해협 인근 10척 공격, 6개월 전쟁 이후 최대 규모의 상호 보복 공격)</p><h3>Technical Insights</h3><p>• 페르시만과 호르무즈 해협 지역의 해상 운송로 안전 위협으로 인한 국제 해운 산업의 심각한 리스크 증가, 보험료 상승과 해운 효율성 저하 우려<br>• UKMTO의 해상 교역 안전 보고 체계 활성화로 민간 선박들의 실시간 위협 정보 공유 필요성 대두, IMO 안전 규정 강화 요구<br>• 군사 분쟁 지역에서의 드론/미사일 공격으로부터 상선 보호 방안 마련 필요, 국제 해사 보안 협약(ISPS Code) 개정 검토 시점<br>• 환경오염 위험 평가 및 대응체계 강화: 대형 유조선 피격 시 유출 사고 방지를 위한 긴급 대응 프로토콜 구축 필수</p></div>`,
+      tags: ["Oil Tanker","Drone Attack","Persian Gulf","Iraq","Military Conflict"],
+      link: "https://www.marinelink.com/news/iraqi-oil-tanker-hit-amidst-usiran-542834",
+      coords: [48.5,29.5],
+      location: "Iraqi Territorial Waters, Persian Gulf"
+    }
+  ]
+});
