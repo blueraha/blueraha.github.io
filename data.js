@@ -16080,3 +16080,53 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-10
+addEvents({
+  "2026-09-10": [
+    {
+      type: "accident",
+      title: "Shipyard Fire Kills 25 Aboard Bulk Carrier in China",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-09-10",
+      image: "https://gcaptain.com/wp-content/uploads/2026/09/2026-09-10T134049Z_2008218310_RC2DGNAB960M_RTRMADP_3_CHINA-DISASTER-FIRE.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 중국 칭다오 베이하이 조선소에서 수리 중인 외국 화물선에서 화재 발생으로 25명 사망<br>• 피해 선박은 라이베리아 국적의 건화물선 오션멜로디(Ocean Melody), 선령 20년, 유양쿤팽 상하이 선박 관리사가 운영<br>• 2026년 9월 10일 오전 11시 15분경 화재 발생, 승선 42명 중 12명 대피, 5명 부상 입원<br>• 화재는 오후 초반에 진화됨, 중국 국가조선공사(CSSC) 산하 조선소에서 발생<br>• 시진핑 주석이 수색구조 강화, 신속한 조사, 책임자 추궁을 지시</p><h3>Key Quotes</h3><br>• "Twenty-five people died in a fire aboard a foreign cargo vessel undergoing repairs at a state-owned shipyard in the eastern Chinese city of Qingdao on Thursday" (칭다오의 국영 조선소에서 수리 중인 외국 화물선의 화재로 25명이 사망했다)<br>• "The fire broke out at about 11:15 a.m. at the Qingdao Beihai shipyard during repair and inspection works" (베이하이 조선소의 수리 및 검사 작업 중 오전 11시 15분경 화재 발생)</p><h3>Technical Insights</h3><br>• 조선소 수리 작업 중 화재 안전 관리 강화 필요 - 폐쇄 공간에서의 용접, 절단 작업 시 화염 감시 및 소화 설비 운영 절차 개선 필수<br>• 선박 고령화에 따른 수리 빈도 증가 추세 속 선체 상태 점검 및 점화원 제거 규정 강화 필요<br>• IMO 안전 규정(SOLAS)에서 요구하는 선박 안전 기준과 조선소 작업 안전 기준의 국제 표준화 강화 필요</p></div>`,
+      tags: ["Fire","Bulk Carrier","Shipyard","Casualty","China"],
+      link: "https://gcaptain.com/shipyard-fire-kills-25-aboard-bulk-carrier-in-china/",
+      coords: [120.3826,36.0671],
+      location: "Qingdao, Shandong Province, China"
+    },
+    {
+      type: "news",
+      title: "AI Navigation's Advocates Put a Premium on Human Skill",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-09-10",
+      image: "https://maritime-executive.com/media/images/article/1788518571_6a9aa0abea7ea.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **AI 선박 항해 보조 시스템의 안전성 검증**: 실제 운영 데이터에 따르면 Orca AI와 같은 AI 감시 보조 시스템이 어려운 항해 상황에서 충돌 위험을 감소시켜 해운 안전성을 향상시킬 수 있음</p><p>• **인적 역량 강화 도구로서의 역할**: CMA CGM의 Torsten Pedersen SVP는 기술이 숙련된 선원의 능력을 대체하지 않으며, 동기 부여되고 능력 있는 해기사들의 역량을 최대한 발휘하도록 지원하는 도구임을 강조</p><p>• **Seaspan에서의 실제 구현 사례**: 입출항 시 항해 패턴을 상세 분석하여 선장들에게 피드백을 제공하고, 우수 성과 선원을 인식하는 방식으로 즉각적인 안전 개선 달성</p><p>• **파일럿과의 협력 강화**: AI 데이터 분석을 통해 객관적, 사실 기반의 해상 안전 개선 논의를 파일럿들과 진행 가능</p><p>• **Orca AI CEO의 입장**: 반복적이고 지루한 작업 자동화로 선원들의 업무 부담을 경감시킬 뿐, 인적 요소는 항상 루프 내에 유지되어야 함을 명시</p><h3>Key Quotes</h3><p>• "If you man your vessels with people who have ability and motivation, then the technology provides them with the best opportunity to be as good as they can be" (능력과 동기를 가진 선원으로 선박을 운영하면, 기술이 그들이 최고의 성과를 낼 수 있는 최적의 기회를 제공한다)</p><p>• "This isn't coming to replace seafarers in the future... The human in the loop is always going to be there. What it can do, it can automate tedious and very repeatable tasks" (미래에 해기사를 대체하려는 것이 아니며, 인간은 항상 루프 내에 존재하며, 지루하고 반복되는 작업만 자동화할 수 있다)</p><h3>Technical Insights</h3><p>• **COLREG 준수 강화**: AI 감시 보조 시스템이 도착/출항 시 반복 가능한 항해 패턴을 분석하여 국제해상충돌방지규칙(COLREG) 준수를 자동으로 모니터링하고 선장의 의사결정을 지원</p><p>• **산업 자동화와 고급 인력의 필요성**: 항공산업의 사례처럼 컴퓨터 기술 도입이 업무를 자동화했으나 고급 인력의 수요는 증가했으며, 해운업도 유사한 패턴을 따를 것으로 예상</p><p>• **원격 파일럿 협력 메커니즘**: AI 데이터 분석이 객관적 사실 기반의 파일럿-운영사 간 협력 체계를 구축하는 진입점 역할, IMO와 지역 해사청의 규제 개선 논의 촉진 가능</p><p>• **무인선 도입의 현실성**: 업계 전문가들은 향후 수십 년간 실험 수준 외에는 완전 무인 상용선박이 나타나기 어려울 것으로 판단하며, 선원 중심의 해운 산업 구조 지속 예상</p></div>`,
+      tags: ["AI Navigation","Watchkeeping Systems","Human-Machine Collaboration","Ship Management"],
+      link: "https://maritime-executive.com/article/ai-navigation-s-advocates-put-a-high-premium-on-human-skill",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
+
+// Auto-collected: 2026-09-09
+addEvents({
+  "2026-09-09": [
+    {
+      type: "news",
+      title: "US Navy Selects L3Harris VAMPIRE for Littoral Counter-Drone Defense",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-09-09",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/09/CSD-VAMPIRE-CUxS-System-1220.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• L3Harris의 VAMPIRE(Vehicle-Agnostic Modular Palletized ISR Rocket Equipment) 시스템이 미 해군의 연안 무인 드론 방어용으로 선정됨<br>• VAMPIRE는 정찰과 정밀 타격을 모두 수행 가능한 자율 무기 체계로, 다양한 영역의 드론 및 원격 조종 플랫폼을 대응<br>• L3Harris는 미 육군에도 동일 시스템을 납품 중이며, Wraith Shield 소프트웨어와의 통합으로 다층 방어 체계 구축<br>• 해양 환경의 극한 조건 대응을 위한 시스템 강화 및 새로운 기능 개발 진행 중<br>• 미 해군의 통합 무인 체계 방어 아키텍처(integrated C-UxS defense architecture) 강화에 기여</p><h3>Key Quotes</h3><br>• "VAMPIRE is a flexible and effective system that meets the unique requirements of the U.S. Navy for littoral C-UxS defense" (VAMPIRE는 미 해군의 연안 무인 체계 방어 요구사항을 충족하는 유연하고 효과적인 시스템)<br>• "We're engineering new capabilities to adapt to our customers' missions and ruggedizing VAMPIRE against the environmental stresses of maritime environments" (고객 임무 적응을 위한 새로운 기능을 개발하고 해양 환경의 극한 조건에 대한 VAMPIRE의 견고성 강화)</p><h3>Technical Insights</h3><br>• 무인 체계(UxS) 위협 대응을 위한 다층 방어 개념 도입 - VAMPIRE와 Wraith Shield 소프트웨어의 통합으로 레이더 센서뿐만 아니라 라디오 신호를 감지하는 "라디오-애즈-어-센서" 기능 구현<br>• 연안 전투(littoral warfare) 환경에서의 자율 방어 체계 고도화 - 함정의 제한된 공간과 극한 해양 환경에 대응하는 모듈식 장비 설계로 작전 효율성 증대<br>• 방어 체계의 유연성과 적응성 강화 - Vehicle-Agnostic 설계로 다양한 플랫폼(함정, 연안 기지 등)에 탑재 가능하며, 새로운 드론 위협에 대한 빠른 대응 능력 확보</p></div>`,
+      tags: ["Counter-UAS","Naval Defense","Littoral Warfare","L3Harris"],
+      link: "https://www.navalnews.com/naval-news/2026/us-navy-l3harris-vampire-counter-drone/",
+      coords: [0,0],
+      location: "Global (US Navy)"
+    }
+  ]
+});
