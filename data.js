@@ -16130,3 +16130,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-11
+addEvents({
+  "2026-09-11": [
+    {
+      type: "news",
+      title: "EDGE Delivers HT-100 NAVAL VTOL UAV to Angola",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-09-11",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/09/Press-Release-EDGE-Delivers-HT-100-NAVAL-to-Angola-Following-Successful-Trials-2-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• EDGE Group이 앙골라 해군을 위해 6대의 ANAVIA HT-100 NAVAL 무인 헬리콥터(VTOL UAV) 인수 수락 시험(FAT) 완료 및 납품<br>• 2024년 8월 24-28일 스위스 빌텐에서 시행된 시험으로 모든 6개 시스템의 운영 비행 테스트 성공<br>• EUR 10억 규모의 3척 BR71 MK II 호위함 계약의 일환으로 각 함정에 2대씩 배치 예정<br>• HT-100 NAVAL은 광학/적외선(EO/IR) 센서 탑재로 해양 감시 및 정찰 능력 확대<br>• 함정의 전투관리시스템과 완전 통합되는 자율무인 시스템으로 앙골라 해군의 작전 요구사항 충족</p><h3>Key Quotes</h3><br>• "The successful completion of the Factory Acceptance Trials marks an important milestone in the delivery of this advanced capability to the Angolan Navy." (공장 인수 시험의 성공적 완료는 앙골라 해군에 첨단 능력을 제공하는 중요한 이정표)<br>• "This milestone demonstrates our ability to deliver a complete, fully autonomous system for shipborne operations, closely tailored to the customer's operational requirements." (이번 성과는 고객 작전 요구사항에 맞춘 완전한 자율 함정탑재 시스템 개발 능력을 입증)</p><h3>Technical Insights</h3><br>• **자율무인 해상 플랫폼 통합**: HT-100 NAVAL은 함정 전투관리시스템과 완전 통합되는 첫 번째 사례로 자율무인기(UAV)와 수상함정의 통합 운용 모델 제시<br>• **센서 융합 기술**: 광학/적외선(EO/IR) 센서를 탑재한 VTOL UAV로 24/7 감시·정찰 능력 확보로 IMO 규정상 선박의 상황인식(SA) 능력 대폭 강화<br>• **해사 산업 발전**: 대형 방위 산업 그룹(EDGE, ADSB, ANAVIA)의 협력으로 국방용 자율무인시스템의 민간 해운으로의 기술 이전 가능성 증대<br>• **지역 안보 파급**: 아프리카 해역의 해양 감시 능력 강화로 해적 대응, 불법 어업 적발 등 해상 보안 강화 및 국제 해사 질서 유지</p></div>`,
+      tags: ["autonomous systems","UAV","naval technology","Angola Navy"],
+      link: "https://www.navalnews.com/naval-news/2026/09/edge-delivers-ht-100-naval-vtol-uav-to-angola/",
+      coords: [13.2344,-8.8383],
+      location: "Angola"
+    }
+  ]
+});
