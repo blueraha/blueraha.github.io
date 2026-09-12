@@ -16182,3 +16182,53 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-11
+addEvents({
+  "2026-09-11": [
+    {
+      type: "news",
+      title: "Houthi Forces Capture Perim Island, Escalating Red Sea Shipping Threat",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-11",
+      image: "https://images.marinelink.com/images/maritime/w800/sabbir-adobe-173593.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **후티 세력의 전략적 섬 장악**: 예멘 정부군으로부터 바브엘만데브 해협의 전략적 요충지인 페림 섬을 탈취하여 중동 해상 운송로에 대한 통제력 강화</p><p>• **글로벌 에너지 시장 위협**: 바브엘만데브 해협 완전 장악 시 이란이 미국과의 분쟁에서 전략적 이점 확보 가능, 전 세계 석유 공급량의 1/5이 통과하는 또 다른 주요 통로 차단 위험</p><p>• **유가 급등 우려**: 국제유가가 5월 중순 이후 처음으로 배럴당 100달러를 넘어섰으며, 페림 섬 탈취로 인한 추가 상승 가능성 높음</p><p>• **이란의 직접 개입**: 이란 혁명수비군이 후티 세력에게 직접 지원 및 전술 지도를 제공하며 미국과의 '신규 전선' 개척 목표 추진 중</p><p>• **예멘 정부의 반격 준비**: 예멘 정부군이 항공기와 무장력을 동원한 반격 작전 준비 중이며, 모카 도시 인근 도로 통행 차단 및 민간인 안전 경보 발령</p><p>• **해운 산업 직접 영향**: 사우디아라비아의 주요 해상 수송로 차단으로 인한 글로벌 에너지 공급망 재편 및 해상보험료 상승 위험</p><h3>Key Quotes</h3><p>• "If the Houthis gain full control of the Bab el-Mandeb Strait, on the opposite side of the Arabian Peninsula from the Strait of Hormuz, it could give their backer Iran a critical advantage in the war with the U.S., reducing supplies through a second major transit corridor and sending oil prices surging." <br>(후티 세력이 바브엘만데브 해협을 완전히 장악하면, 이들의 후원자 이란이 미국과의 분쟁에서 전략적 우위를 확보할 수 있으며, 두 번째 주요 수송 통로의 공급 감소로 유가가 급등할 수 있다는 의미)</p><p>• "Iran told the Houthis last week to escalate their attacks on Saudi Arabia, a close U.S. ally, and promised more funding, weapons and senior officers to help them do so."<br>(이란이 지난주 후티 세력에게 미국의 친한 동맹인 사우디아라비아에 대한 공격을 확대하도록 지시했으며, 이를 수행하기 위해 더 많은 자금, 무기 및 고급 장교를 지원하겠다고 약속했다는 의미)</p><h3>Technical Insights</h3><p>• **해상 보안 위협 심화**: 바브엘만데브 해협의 통제권 변화는 COLREG 준수 및 국제 해상 법규 적용의 불확실성 증가를 초래하며, 해운업계의 우회 항로 선택 강제</p><p>• **자율운항선박 운영 환경 악화**: 현재 고도화되는 지정학적 분쟁 지역에서 AI 기반 자율운항선박의 안전한 항행이 더욱 복잡해지고 있으며, 원격 조종 및 모니터링 필요성 대두</p><p>• **IMO 규제 체계의 한계**: 해협 통제권 이동으로 인한 국제 해상교통 관리 및 조정 메커니즘의 공백 발생, 국제해사기구의 분쟁 지역 해상 안전 표준 강화 필요</p><p>• **산업 공급망 리스크**: 에너지 시장 불안정성으로 인한 해운비 상승 및 보험료 인상, 기존 해운 업체들의 신규 항로 선택 및 운영 비용 증가로 이어지는 구조적 문제 발생</p></div>`,
+      tags: ["Houthi","Red Sea","Bab el-Mandeb","Shipping Security","Geopolitical Risk"],
+      link: "https://www.marinelink.com/news/houthi-forces-reach-perim-island-raising-542876",
+      coords: [43.35,12.65],
+      location: "Perim Island, Bab el-Mandeb Strait, Red Sea"
+    }
+  ]
+});
+
+// Auto-collected: 2026-09-10
+addEvents({
+  "2026-09-10": [
+    {
+      type: "news",
+      title: "Boskalis' Windpiper Begins Maiden Operation at Polish Offshore Wind Farms",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-10",
+      image: "https://images.marinelink.com/images/maritime/w800/windpiper-subsea-173581.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Boskalis의 신규 건조 초대형 해상암반설치선 Windpiper가 폴란드 발트해 오프쇼어 풍력발전소 프로젝트에서 처녀항해를 시작했으며, Bałtyk 2 및 Bałtyk 3 프로젝트의 수출 케이블 보호 작업 수행 중</p><p>• Windpiper는 전 세계 최대 규모 해상암반설치선으로, 총 길이 227m, 폭 40m, 총 암반 적재 용량 45,500톤의 이중 화물창 보유</p><p>• 노르웨이에서 출항 전 약 45,000톤의 암반을 적재했으며, 이는 단일 설치 프로젝트용으로는 역대 최대 기록</p><p>• Windpiper는 2026년 7월 3일 18개월간의 개조 프로젝트를 완료하고 진수식을 거친 후 본격 가동 단계 진입</p><p>• 선박은 31,000kW 이상의 설치 전력, 7개의 추진기, DP2 인증을 보유하며 경사진 폴파이프와 문풀을 통한 다목적 해상 암반설치 작업 가능</p><p>• 프로젝트는 Equinor 및 Polenergia Offshore Wind Poland가 개발하며, Boskalis와 Van Oord가 협력 진행 중</p><h3>Key Quotes</h3><p>• "The load represents a record cargo, with no single subsea rock installation vessel previously carrying such a large volume of rock for one installation project." (해당 적재량은 역대 기록으로, 이전에 어떤 해상암반설치선도 하나의 설치 프로젝트를 위해 이 정도 규모의 암반을 운반한 적이 없다는 의미)</p><p>• "Windpiper is using its inclined fallpipe to place rock to protect the export cables running from the offshore wind farms to the Polish mainland." (Windpiper는 해상 풍력발전소에서 폴란드 본토로 운송되는 수출 케이블을 보호하기 위해 경사진 폴파이프를 이용해 암반을 설치한다)</p><h3>Technical Insights</h3><p>• **차세대 해상풍력 인프라 지원 기술**: Windpiper의 초대형 암반 적재 능력과 고정밀 배치 시스템은 해상풍력 프로젝트의 케이블 보호 작업을 대폭 효율화하며, 환경 영향 최소화와 동시에 프로젝트 기간 단축 가능</p><p>• **선박 설계 혁신**: DP2 동적 위치 유지 시스템, 경사진 폴파이프, 문풀 통합 설계는 악천후 환경에서도 안정적인 암반 배치를 가능하게 하며, 북유럽의 혹독한 해상 환경 대응에 최적화</p><p>• **산업 경쟁력 강화**: 세계 최대 규모의 전문 선박 투입으로 Boskalis는 글로벌 오프쇼어 풍력 시장에서의 입지 강화 및 작업 단가 경쟁력 향상으로 시장 주도권 확대 전망</p><p>• **유럽 재정에너지 전환 지원**: Windpiper의 폴란드 풍력 프로젝트 투입은 EU의 탄소중립 목표와 에너지 안보 강화에 직접 기여하며, 북유럽 오프쇼어 재정에너지 개발 가속화의 핵심 인프라 역할 수행</p></div>`,
+      tags: ["Offshore Wind","Subsea Rock Installation","Windpiper","Baltic Sea","Marine Technology"],
+      link: "https://www.marinelink.com/news/boskalis-windpiper-starts-maiden-job-542862",
+      coords: [18.5,54.5],
+      location: "Baltic Sea, Poland"
+    },
+    {
+      type: "news",
+      title: "GEOS' Energy Paradise PSV Contract Extended with Peterson into 2027",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-10",
+      image: "https://images.marinelink.com/images/maritime/w800/energy-paradise-173580.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Golden Energy Offshore Services(GEOS)의 플랫폼 공급선(PSV) 'Energy Paradise'가 Peterson과의 계약 옵션 행사로 2027년 초까지 계속 운영 확정<br>• 약 100일 기간의 우물 작업 옵션으로 추정 계약 가치 $3.4 million 규모<br>• 기존 계약은 2026년 10월 중순 종료 예정이며, 신규 옵션은 2027년 1월 말~2월 초까지 지속될 것으로 예상<br>• Energy Paradise와 Energy Pace 두 선박의 확정 계약 가치는 총 $10.3 million, 모든 옵션 행사 시 $19.8 million 규모로 확대 가능<br>• Peterson이 추가 우물 작업 옵션 1개 보유 중($2.5 million 가치)</p><h3>Key Quotes</h3><br>• "Peterson has exercised a further well option for the platform supply vessel (PSV) Energy Paradise, extending its firm employment into early 2027" (Peterson이 Energy Paradise의 추가 우물 작업 옵션을 행사하여 2027년 초까지 운영 기간 연장)<br>• "Together with the previously announced term contract for Energy Pace, the firm contracts for Energy Paradise and Energy Pace represent a combined estimated value of about $10.3 million" (Energy Pace의 기존 계약과 함께 두 선박의 확정 계약 가치는 총 약 $10.3 million)</p><h3>Technical Insights</h3><br>• PSV(Platform Supply Vessel)는 해양 석유·가스 산업의 핵심 지원 선박으로, 장기 계약 확보는 운영 안정성과 수익성 확보의 중요 지표<br>• 우물 작업(Well Program) 옵션 기반의 유연한 계약 구조는 변동성 높은 오일가스 시장에서 선주와 용선자 양측의 위험 관리 전략 반영<br>• 다중 옵션 행사 시 총 계약 가치가 $19.8 million까지 확대되는 구조는 해양 오일가스 산업의 장기 프로젝트 특성과 수요 변동성을 반영한 현대적 계약 모델</p></div>`,
+      tags: ["PSV","Contract Extension","Offshore Services","GEOS","Peterson"],
+      link: "https://www.marinelink.com/news/geos-energy-paradise-psv-stay-peterson-542861",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
