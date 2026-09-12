@@ -16150,3 +16150,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-11
+addEvents({
+  "2026-09-11": [
+    {
+      type: "accident",
+      title: "Deadly Cargo Ship Fire Kills 25 at Qingdao Shipyard, China",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-11",
+      image: "https://images.marinelink.com/images/maritime/w800/credit-screenshotvideo-173594.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 청도 베이하이 조선소에서 수리 중이던 외국 화물선 오션 멜로디호에서 화재 발생으로 25명 사망, 12명 구조, 5명 부상<br>• 리베리아 국적 20년 선령의 건화물선(Dry Bulk Carrier)으로 유양쿤펑 상하이 선박 관리사가 운영, 후일리 해운이 등록 소유자<br>• 2026년 9월 11일 오전 11시 15분경 점화, 오후 초반에 진화 완료<br>• 42명 승선 중 25명 사망, 구조 및 부상 대응 진행<br>• 중국 국영 중국국방과학기술공업집단(CSSC) 산하 조선소로 연간 선박 수리 능력 연 212척 규모</p><h3>Key Quotes</h3><p>• "Twenty-five people died in a fire aboard a foreign cargo vessel undergoing repairs at a state-owned shipyard in the eastern Chinese city of Qingdao on Thursday" (청도 국영 조선소에서 수리 중인 외국 화물선의 화재로 25명 사망)</p><p>• "Chinese President Xi Jinping had called for intensified search-and-rescue efforts, a swift investigation and accountability measures" (시진핑 중국 주석이 수색 구조 강화, 신속한 조사, 책임 규명을 촉구)</p><h3>Technical Insights</h3><p>• 조선소 수리·검사 작업 중 화재 발생으로 선상 인명피해 대규모 발생 - 수리 단계의 화재 안전 관리 및 승선자 대피 체계 개선 필요<br>• 건화물선의 적재 화물 특성(탄광석, 곡물 등)과 연료, 선박 내부 구조물 등 화재 위험 요소에 대한 선급(Classification Society) 점검 강화 필요<br>• CSSC 같은 대형 조선소의 안전 관리 체계, 긴급 대응 절차, 근로자 안전 교육 등 산업 전반의 안전 문화 재점검 시점<br>• 국제 해사기구(IMO)의 화재 안전 규정(SOLAS) 준수 및 선박 수리 시 추가 안전 조치 강화로 유사 사고 재발 방지 체계 구축 필요</p></div>`,
+      tags: ["fire","cargo ship","casualties","shipyard","China","Ocean Melody"],
+      link: "https://www.marinelink.com/news/deadly-cargo-ship-fire-kills-china-542877",
+      coords: [120.3826,36.0671],
+      location: "Qingdao, China"
+    },
+    {
+      type: "news",
+      title: "U.S. Special Operations Forces Secure Sea Machines Vessel Autonomy Kits Contract",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-09-11",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/09/Sea-Machines-1024x560.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 미국 특수작전사령부(SOF)가 Sea Machines Robotics와 5년 계약을 체결하여 상용 자율운항 키트(TRL-9) 공급 확보<br>• Sea Machines의 자율명령통제(Autonomous Command and Control) 시스템 기반으로 수 시간 내 배포 가능한 "드롭인" 자율운항 솔루션 제공<br>• 다양한 크기의 선박에 적용 가능하며 원정 군수지원, 정보수집감시(ISR), 해상보안 강화에 활용<br>• 아라비아만, 인도태평양 지역, 발트해 등 전 지역에서 인명 손실 및 고가 자산 위험 없이 위협 감지 및 중립화 능력 제공<br>• 계약 규모는 Indefinite Delivery Indefinite Quantity(IDIQ) 형식으로 수요에 따른 유연한 조달 체계</p><h3>Key Quotes</h3><br>• "This award reflects a clear shift toward operational, ready-now autonomy that can be deployed wherever and whenever it's needed" (즉시 운영 가능한 자율운항 기술이 필요한 시간과 장소에 배포될 수 있다는 시장 패러다임 전환을 반영)<br>• "Our maritime autonomy system delivers a true 'drop-in' capability, enabling Special Operations Forces to rapidly extend command and control, increase mission flexibility, and reduce risk to personnel in dynamic maritime environments." (해양 자율운항 시스템이 진정한 '플러그앤플레이' 기능을 제공하여 특수부대의 지휘통제 확장, 임무 유연성 증대, 인원 위험 감소 가능)</p><h3>Technical Insights</h3><br>• **TRL-9 상용화 수준**: Sea Machines의 자율운항 시스템은 기술성숙도 9 단계로 상용 제품 수준이며, 국방 응용에 즉시 배포 가능한 검증된 기술<br>• **멀티플랫폼 적용성**: 다양한 선박 크기와 성능 사양에 대응 가능한 모듈형 설계로 COLREG 준수 및 국제 해양규제 대응의 표준화 가능성 제시<br>• **비정규전 해양 능력 강화**: 자율운항 킷을 통한 무인 선박 운영으로 인명 손실 없는 해상 감시·정찰·보안 임무 수행으로 IMO 규제 범위 외 국방 응용 분야 확대<br>• **산업-국방 융합**: 상용 기술을 국방에 신속히 적용하는 추세로, 자율선박 산업의 민간 부문 발전이 국방 혁신을 가속화하는 생태계 형성</p></div>`,
+      tags: ["autonomous vessels","U.S. military","Sea Machines","maritime autonomy","special operations"],
+      link: "https://www.navalnews.com/naval-news/2026/09/u-s-special-operations-forces-tap-sea-machines-for-vessel-autonomy-kits/",
+      coords: [0,0],
+      location: "Global (U.S. Special Operations Forces)"
+    }
+  ]
+});
