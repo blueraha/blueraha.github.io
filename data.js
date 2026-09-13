@@ -16252,3 +16252,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-10
+addEvents({
+  "2026-09-10": [
+    {
+      type: "news",
+      title: "Iran Waives 10% Levy on Foreign Energy Shipping to Boost Trade",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-10",
+      image: "https://images.marinelink.com/images/maritime/w800/pawinee-adobe-173574.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 이란이 해외 선박의 석유·가스 및 액화석유가스(LPG) 운송에 부과하던 10% 화물료 징수를 일시 중단하기로 결정<br>• 반관영 매체 파르스통신(Fars News Agency)이 목요일 보도<br>• 미국의 해상 봉쇄로 인한 이란의 해상 석유 수출 급감 대응<br>• 외국 선박 운영자들을 위한 비용 감소로 에너지 수출 촉진 목표<br>• 국제 해운 규제 및 제재 환경에서의 정책 변화</p><h3>Key Quotes</h3><br>• "Iran has suspended a 10% charge on freight fees for foreign vessels carrying imported or exported oil, gas and liquid petroleum products to and from Iran" (이란이 해외 선박의 이란 왕래 석유, 가스, 액화석유가스 운송에 부과하던 10% 화물료 징수를 중단했다)<br>• "A U.S. naval blockade has sharply disrupted the country's seaborne oil exports" (미국의 해상 봉쇄가 이란의 해상 석유 수출을 급격히 방해해왔다)</p><h3>Technical Insights</h3><br>• 국제 해운업계의 비용 구조 변화: 선주와 해운회사의 이란 거래 참여 장벽 완화로 에너지 해운 시장 변동성 증가 예상<br>• 정치·경제적 제재 환경 속 해운 운영 전략: 항만료 및 부대비용 감소를 통한 국제 해운망 재구성 시도<br>• IMO 규제 준수와 국가별 정책의 상충: 글로벌 해운 규제 체계 내에서 국가 간 무역정책이 선박 운영 결정에 미치는 실질적 영향</p></div>`,
+      tags: ["Iran","Shipping Regulations","Oil & Gas","Trade Policy","Maritime Fees"],
+      link: "https://www.marinelink.com/news/iran-waives-levy-ease-foreign-energy-542855",
+      coords: [53.685,32.4279],
+      location: "Iran"
+    },
+    {
+      type: "news",
+      title: "NATO Allies Disrupt Russian Subsea Cable Sabotage Exercise in Arctic Waters",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-10",
+      image: "https://images.marinelink.com/images/maritime/w800/starush-adobe-173573.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **러시아 해저 케이블 파괴 작전 적발**: NATO 연합군(영국, 노르웨이, 미국)이 스발바르 북극 해역에서 러시아 GUGI 해저전 부서의 심해 잠수함을 추적하여 해저 케이블 파괴 연습 작전을 중단시킴</p><p>• **전략적 타겟 - 스발바르-노르웨이 광케이블**: 1,400km 길이의 2개 광섬유 해저 케이블이 깊이 2,700m 해저에 위치하며, NASA 근지구 네트워크의 일부인 세계 최대 위성 수신소(SvalSat)와 연결된 중요 인프라</p><p>• **NATO 방위 조약 5조 우려**: 미 정보 당국자들이 러시아가 NATO 상호방위 조약(Article 5) 검증을 시도할 수 있으며, 해저 케이블 파괴가 핵심 전략이 될 가능성 지적</p><p>• **광역적 사보타주 작전 심화**: 폴란드, 리투아니아, 루마니아 등 유럽 국가들이 러시아의 다양한 위반행위 확인, 8월 독일 라이프치히/할레 공항 드론 공격 미수 사건 포함</p><p>• **CIA의 외교적 경고**: CIA 국장 존 래틀리프가 8월 모스크바 방문 시 러시아에 유럽 내 사보타주 작전 확대 금지 경고</p><p>• **경제-군사 이중 위협**: 해저 케이블은 국제 인터넷 연결성과 금융거래의 생명선으로, 1차·2차 세계대전 당시 통신선 절단과 동일한 전략적 가치</p><h3>Key Quotes</h3><p>• **"Cables no thicker than a garden hose, lying on the seabed or buried just below, are critical to global internet connectivity and financial transactions."** (정원 호스 굵기의 케이블이 해저 또는 해저 바로 아래에 깔려 있으면서 글로벌 인터넷 연결성과 금융거래에 결정적 역할을 한다는 의미)</p><p>• **"If it does, destroying subsea cables could be a critical part of that effort"** (NATO 5조 검증 시도 시 해저 케이블 파괴가 그 노력의 핵심 부분이 될 수 있다는 미국 정보 당국의 우려)</p><p>• **"Moscow's targeting of European states has increased in recent months as the front line in Ukraine has become largely static."** (우크라이나 전선이 교착 상태화하면서 러시아의 유럽 국가 타겟팅이 최근 수개월간 증가했다는 서방 관리들의 평가)</p><h3>Technical Insights</h3><p>• **해저 인프라 방어의 새로운 과제**: 전통적 해군 방어와 달리 심해 잠수함(深潜)을 이용한 수중 사보타주는 탐지와 대응이 극도로 어려워, NATO가 새로운 해양 감시 체계 구축 필요</p><p>• **극지역 군사화 심화**: 북극 해역의 전략적 중요성 증가로 인해 스발바르 주변 관찰 강화 필요, 러시아와 NATO의 극지 통제권 경쟁 심화 예상</p><p>• **민간-군사 인프라 통합 보호**: NASA, 위성 통신, 금융 네트워크가 동일 해저 케이블에 의존하면서 국방 관점의 민간 인프라 보호 전략 재수립 필요</p><p>• **IMO·국제법 한계**: 국제해역에서의 잠수함 활동과 해저 시설 감시에 대한 국제규범 부재로, UN해양법협약(UNCLOS) 개정 또는 신규 해상 안보 기준 논의 시급</p></div>`,
+      tags: ["NATO","Russia","Subsea Cables","Arctic Security","Cyber Warfare","GUGI","Sabotage"],
+      link: "https://www.marinelink.com/news/nato-allies-disrupt-russian-subsea-cable-542854",
+      coords: [15.65,78.22],
+      location: "Svalbard Archipelago, Arctic Waters"
+    }
+  ]
+});
