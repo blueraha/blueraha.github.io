@@ -16232,3 +16232,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-10
+addEvents({
+  "2026-09-10": [
+    {
+      type: "news",
+      title: "Houthi Advance Toward Bab el-Mandeb Raises New Shipping Threat",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-10",
+      image: "https://images.marinelink.com/images/maritime/w800/sabbir-adobe-173578.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 예멘의 이란 동조 후티 반군이 모카(Mocha) 항구도시를 장악하면서 세계 해운의 주요 항로인 바브엘만데브 해협 통제 위협 증가<br>• 후티 세력이 홍해 전략 거점인 하니시 군도를 장악하고 정부군을 남쪽으로 격퇴, 두바브와 페림 섬 근처까지 진출<br>• 바브엘만데브 해협 장악 시 세계 최대 석유 수출국 사우디아라비아의 아시아 공급 경로 차단 위험 발생<br>• 유가(브렌트유) 배럴당 $100 이상 유지, 호르무즈 해협과 홍해 양쪽 해운로 심각한 교란 상태<br>• 2022년 UN 중재 휴전협상 이후 상황이 악화되고 있으며, 전면 분쟁 재개 위협</p><h3>Key Quotes</h3><br>• "Control of Dhubab and the island is key to gaining hold of the strait" (두바브와 페림 섬의 통제가 해협 장악의 핵심)<br>• "Bab el-Mandeb, or the Gate of Tears, named for its perilous navigation conditions, is the southern outlet of the Red Sea" (눈물의 문으로 알려진 바브엘만데브는 홍해의 남쪽 출구로서 위험한 항해 조건으로 유명)<br>• "Houthi control of the Bab el-Mandeb Strait risks further disruptions to the flow of the kingdom's oil supplies to Asia" (후티의 해협 통제는 사우디의 아시아 석유 공급 추가 중단 위험)</p><h3>Technical Insights</h3><br>• 바브엘만데브 해협은 전 세계 해상 무역의 중요 병목(특히 호르무즈 해협 대체 루트)으로, 해협 통제 시 COLREG 및 IMO 해상안전 규정 적용 불가능한 상황 발생 가능<br>• 홍해 지역 자율운항선박(AUV) 및 AI 항법 시스템의 지정학적 위험 증대로, 해상보험료 상승 및 선사들의 항로 우회 비용 증가 예상<br>• 후티의 해상 봉쇄 선언으로 국제해사기구(IMO)의 안전 통항권(Freedom of Navigation) 원칙이 침해받을 수 있으며, 이는 글로벌 에너지/상품 공급망 재편의 신호</p></div>`,
+      tags: ["Houthi","Bab el-Mandeb","Red Sea","Maritime Security","Shipping Routes","Geopolitical Risk"],
+      link: "https://www.marinelink.com/news/houthi-advance-toward-bab-elmandeb-raises-542858",
+      coords: [43.4,13.3],
+      location: "Bab el-Mandeb Strait, Red Sea"
+    }
+  ]
+});
