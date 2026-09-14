@@ -16284,3 +16284,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-13
+addEvents({
+  "2026-09-13": [
+    {
+      type: "news",
+      title: "Ukraine Wins First-Ever Unmanned Vessel Naval Battle Against Russian Drone",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-09-13",
+      image: "https://maritime-executive.com/media/images/article/1789356287_6aa768ff62de5.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 우크라이나 해군이 사르간-3000 무인 드론보트로 러시아 오르칸 무인 공격선을 격침시켜 역사상 최초의 무인선박 간 해전 승리 달성<br>• 우크라이나 사르간-3000은 노르웨이산 원격 무기 시스템(12.7mm 기관총)으로 무장되었으며, 러시아 오르칸은 방어 장비 부족<br>• 흑해의 상대적으로 잔잔한 해상 조건에서 근거리 교전이 이루어졌으며, 반복적인 사격으로 표적 함체, 마스트, 안테나에 명중<br>• 양국 모두 폭발물 탑재 드론보트를 상호 항만/함선 공격에 사용 중이며, 상대방 편도용 무인선박 요격에 어려움을 겪고 있음<br>• 이번 전투는 20세기 건보트 전투의 축소형 모델을 현대 흑해 작전 환경에 맞게 업데이트한 형태로, 향후 군함급 무인선박 간 해전의 선례가 될 가능성</p><h3>Key Quotes</h3><p>• "The first naval battle in history between two unmanned surface vessels has taken place in the Black Sea" (역사상 최초로 흑해에서 두 개의 무인 수상 선박 간 해전이 발생했다는 의미)</p><p>• "A Ukrainian Navy Sargan 3000 USV, armed with a 12.7 mm Protector RWS, engaged and destroyed a Russian naval drone" (우크라이나 해군의 사르간 3000 무인선박이 12.7mm 프로텍터 원격 무기 시스템으로 무장하여 러시아 해군 드론을 교전하고 파괴했다)</p><h3>Technical Insights</h3><p>• **무인 수상선박(USV) 전투 체계의 실전 검증**: 원격 무기 시스템(RWS) 탑재 무인선박이 적 드론 요격에 효과적임을 입증하였으며, 이는 미래 해전에서 무인선박의 방어 및 공격 역할 확대를 시사</p><p>• **해양 방위 시스템의 진화**: 기존 폭발물 탑재 편도용 공격 드론에 대응하기 위해 무장 감시 및 교전 능력을 갖춘 무인선박의 개발이 가속화될 것으로 예상되며, 이는 해양 무인 시스템의 다양화를 의미</p><p>• **소규모 해전 전술의 부활**: 20세기 건보트 전투의 현대적 재해석으로, 소형 무인선박 편대(flotilla)를 활용한 방어 및 요격 전술이 실용화될 가능성이 높아짐</p><p>• **국제해사 규정과의 괴리**: 현재 COLREG 및 IMO 자율항해 규정은 대부분 상업 해운을 기준으로 수립되었으나, 군사용 무인선박의 전투 운용은 완전히 다른 규제 체계가 필요함을 시사</p></div>`,
+      tags: ["Unmanned Surface Vessels","Naval Warfare","Ukraine-Russia Conflict","Autonomous Maritime Technology"],
+      link: "https://maritime-executive.com/article/ukraine-wins-world-s-first-unmanned-vessel-naval-battle",
+      coords: [35.1264,43.6532],
+      location: "Black Sea"
+    }
+  ]
+});
+
+// Auto-collected: 2026-09-14
+addEvents({
+  "2026-09-14": [
+    {
+      type: "news",
+      title: "XRG, ADNOC and SEFE Deepen Gas Ties in Europe Through LNG Cooperation MoU",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-14",
+      image: "https://images.marinelink.com/images/maritime/w800/credit-173609.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• XRG(엑손로얄 가스), ADNOC(아부다비 국가석유회사), SEFE(독일 에너지 기업)가 천연가스 및 LNG 가치사슬 전반에 걸친 협력을 위한 양해각서(MoU) 서명<br>• 협력 범위: 공급 안정성, 시장 개발, 공급망 탄력성, LNG 포트폴리오 및 해상운송 최적화<br>• ADNOC의 중동 LNG 공급과 XRG의 국제 공급 자산을 SEFE의 독일/유럽 시장 접근성과 결합하는 전략<br>• 독일의 에너지 안보 강화 및 유럽 산업 경쟁력 지원을 위한 인프라 투자 및 화물 운송 최적화 추진<br>• 2023년 ADNOC이 중동 최초 LNG 화물을 독일로 수송한 이래 지속적 협력 심화</p><h3>Key Quotes</h3><br>• "XRG and ADNOC are committed to Germany for the long term. We have already invested €19 billion, and this week the UAE more widely announced the long-term intention to invest a further €40 billion in the country." (XRG와 ADNOC이 독일에 장기적으로 약 190억 유로를 투자했으며, 아랍에미리트는 추가로 400억 유로 투자 의사를 천명)</p><p>• "By bringing together ADNOC and XRG's global supply capabilities with SEFE's market presence, trading expertise, customer relationships and infrastructure access, we aim to enhance the resilience of Germany's and Europe's energy systems." (글로벌 공급 역량, 시장 진출, 인프라 접근성을 결합하여 독일 및 유럽의 에너지 시스템 회복력 강화 목표)</p><h3>Technical Insights</h3><br>• **LNG 운송 최적화 전략**: 해상 화물 운송 경로 및 포트폴리오 최적화를 통해 유럽 에너지 공급망 비용 효율성 및 속도 향상<br>• **다중 공급원 다각화**: 중동(ADNOC)과 국제 공급원(XRG)의 이중 공급 구조로 유럽의 에너지 안보 위험 완화 및 가격 변동성 대응<br>• **인프라 접근성 강화**: SEFE의 독일 기반 항만, 터미널, 저장시설 접근으로 LNG 운송 물류 효율성 및 배분 유연성 극대화<br>• **탄소중립 에너지 전환**: 천연가스 중심 에너지 포트폴리오 구성으로 독일의 재생에너지 전환 과도기 안정적 에너지 공급 기반 마련</p></div>`,
+      tags: ["LNG","Natural Gas","Europe","Germany","Supply Chain","Energy Security"],
+      link: "https://www.marinelink.com/news/xrg-adnoc-sefe-deepen-gas-ties-europe-542901",
+      coords: [13.405,52.52],
+      location: "Germany"
+    }
+  ]
+});
