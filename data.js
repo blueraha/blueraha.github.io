@@ -16396,3 +16396,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-15
+addEvents({
+  "2026-09-15": [
+    {
+      type: "accident",
+      title: "Russian Frigate Fires Flares at Danish Military Helicopter in Baltic Sea",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-15",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stock-173638.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 러시아 호위함이 덴마크 군용 헬리콥터를 향해 2발의 플레어(조명탄)를 발사했으며, 한 발은 항공기 근처를 지나감<br>• 덴마크 방위군의 Fennec 헬리콥터가 러시아 호위함 촬영 임무 중 발생한 사건으로, 인명 피해는 없음<br>• 러시아의 2022년 우크라이나 전면 침략 이후 발틱해 지역의 긴장 고조 및 러시아의 하이브리드 전쟁 패턴의 일부로 평가됨<br>• 덴마크 총리는 사건이 심각하지만 예상된 것이라 표명하며, 러시아의 공격적 행동 패턴 지적<br>• 덴마크 해협은 발틱해 진출입의 주요 해로이자 글로벌 유류 수송로(러시아 섀도우 탱커 포함)로서 전략적 중요성 높음<br>• 덴마크 방위정보국은 러시아 군함의 충돌 과정 항행, 레이더 추적, 무기 지시 등 반복적 위협 행동 기록</p><h3>Key Quotes</h3><p>• "Russia wants to sow fear and discord. Our answer is to stand closer together and strengthen the defence of Denmark and Europe" (러시아는 공포와 불화를 조성하려 하며, 우리의 대응은 더욱 단결하고 덴마크와 유럽의 방어를 강화하는 것)</p><p>• "Denmark is working to ensure that all shipping can pass peacefully through Danish waters, but Russia is gradually moving the line for what it considers acceptable behaviour" (덴마크는 모든 선박이 덴마크 해역을 평화롭게 통과할 수 있도록 노력하고 있으나, 러시아는 자신이 수용 가능하다고 여기는 행동의 선을 점진적으로 확대하고 있음)</p><h3>Technical Insights</h3><p>• **해상안전규칙(COLREG) 위반**: 플레어 발사는 의도적인 위협 행위로 국제해사법규 및 해상충돌방지규칙을 심각하게 위반한 사례이며, 민간 항공기/선박에 대한 안전 위협을 야기함</p><p>• **하이브리드 전쟁의 해상 전개**: 선박 추적 레이더 조사, 충돌 과정 항행, 무기 지시 등을 통한 체계적인 위협 행동으로 분류되며, 공식 전쟁 행위로 분류되지 않으면서도 실질적 군사 긴장을 고조시키는 전술</p><p>• **전략적 해로 장악 시도**: 발틱해 진출입로인 덴마크 해협의 통제권 확보를 통해 NATO 회원국의 해상 활동을 억제하고 러시아의 섀도우 탱커 운영(대서방 제재 우회)을 보호하려는 의도로 평가됨</p><p>• **NATO 결집의 계기**: 이러한 반복적 위반 행동은 역설적으로 북유럽 NATO 동맹의 해상 방어 태세 강화 및 국방력 증강을 촉진하는 결과를 초래</p></div>`,
+      tags: ["Russian Frigate","Danish Helicopter","Baltic Sea","International Waters","Hybrid Warfare","NATO","Incident"],
+      link: "https://www.marinelink.com/news/russian-frigate-fires-flares-danish-542938",
+      coords: [12.5,55.5],
+      location: "Baltic Sea, off Denmark"
+    },
+    {
+      type: "news",
+      title: "China's New Giant Submarine Drone Mothership Spotted at Shanghai Shipyard",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-09-15",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/09/Chinese-drone-submarine-XXLUUV-carrier.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 중국이 상하이의 후동-중화 조선소에서 세계 최초의 무인 잠수함 모함함을 건조 중으로, 35-45미터 길이의 초대형 무인수중차량(XXLUUV) 운용 전담<br>• 중국은 이미 보잉 오르카(Orca) XLUUV보다 6-8배 큰 전술 규모의 무인 잠수함 2종을 해남(海南)에서 시험 중이며, 이는 세계 유일한 사례<br>• 신규 모함함은 함미부에 우물갑판(well-deck)을 가진 양륙함(LPD) 형태로 설계되었으며, 12개의 수직 잭업 아암으로 대형 크래들을 상하 조작<br>• 함전(前)부에 대형 격납고를 보유하여 최대 4척의 XXLUUV 또는 소형 무인기를 수용 가능한 것으로 추정<br>• 모함함은 무인 잠수함의 정비, 양정/회수 기지로 기능하며 중국 해군의 해양 강화 전략에 중요한 역할 담당</p><h3>Key Quotes</h3><p>• "China has already become the first and only country to build full-size submarines which are uncrewed." (중국은 이미 완전히 무인화된 실전급 잠수함을 건조한 유일한 국가)</p><p>• "At 35 and 45 meters (115-148 feet) long they are around 6-8 times the overall size of the U.S. Navy's Boeing Orca XLUUV." (35-45미터 길이의 XXLUUV는 미 해군의 오르카 XLUUV보다 6-8배 크다)</p><p>• "The new vessel resembles an amphibious landing ship (LPD) with a well-deck in the stern. However this well-deck is open below the submarine and a large cradle can be inserted." (신규 함정은 양륙함 형태로 함미에 우물갑판을 가지고 있으며, 잠수함 아래로 개방되어 대형 크래들 삽입 가능)</p><h3>Technical Insights</h3><p>• **XXLUUV 운영 전략**: 중국의 초대형 무인수중차량은 기존의 부유식 독(floating dock) 방식에서 벗어나 전담 모함함을 통해 보다 체계적인 운영, 정비, 통제체계 구축 추진 중으로 해양 무인화 전략의 고도화 단계 진입</p><p>• **해양 패권 경쟁**: 미국의 보잉 오르카 XLUUV 대비 중국의 XXLUUV가 6-8배 규모이므로, 장시간 체류, 원거리 작전, 다중 센서 탑재 등에서 전략적 우위 확보 가능성이 높음</p><p>• **IMO/국제해법 공백**: 무인 잠수함의 국제해양법상 지위, 충돌회피 규정(COLREG) 적용 범위, 군사용 무인기의 민간해역 운항 등에 대한 국제 규범 부재로 향후 분쟁 소지 증대</p><p>• **해군 교리 변화**: 전통적 유인 잠수함에서 무인 장거리 체류형 시스템으로의 전환은 해전 개념 재정의, 방어 시스템 재구성, 신규 교전 규칙 수립의 필요성 대두</p></div>`,
+      tags: ["China","Unmanned Underwater Vehicles","Naval Modernization","Submarine Drones","XXLUUV"],
+      link: "https://www.navalnews.com/naval-news/2026/09/chinas-new-giant-submarine-drone-mothership/",
+      coords: [121.5,31.2],
+      location: "Shanghai, China"
+    },
+    {
+      type: "news",
+      title: "Saipem divests Saudi shallow-water jack-up fleet to ADES in strategic portfolio shift",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-09-15",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2022/06/Gulf-Driller-VII-aka-Perro-Negro-11.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이탈리아 석유시추 및 건설 서비스 기업 Saipem이 사우디아라비아의 천해(Shallow-water) 석유시추 사업을 ADES Saudi Limited에 매각 완료</p><p>• ADES Holding이 약 37억 SAR(9억 8,700만 달러)의 백로그와 5척의 프리미엄 Jack-up 리그를 인수하여 전체 함대를 128척으로 확대</p><p>• Saipem은 심해(Deepwater) 및 혹한환경 해양석유시추 부문으로 포트폴리오 전략 재편성을 추진 중</p><p>• ADES의 함대 구성: 해상 Jack-up 88척(프리미엄 51척), 육상 리그 40척으로 총 128척 운영</p><p>• 이 거래를 통해 ADES는 사우디아라비아 시장 입지를 강화하고 멕시코로 신규 진출, 국제 운영 국가 21개국으로 확대</p><h3>Key Quotes</h3><p>• "The completion of this acquisition marks another disciplined step in our growth journey. We are adding five operational premium jack-ups, with an average age of 10.4 years – highly complementary to our fleet, and backed by our established presence and operational track record in Saudi Arabia." <br>(이번 인수 완료는 우리 성장 여정에서 또 다른 전략적 단계를 의미하며, 평균 선령 10.4년의 5척의 프리미엄 Jack-up 리그를 추가하게 됩니다)</p><p>• "Offshore market fundamentals remain supportive, with contracted jack-up utilization holding around 90 percent, day rates remaining firm, and tendering activity continuing to build across our key markets."<br>(해상석유시장의 기초여건이 견고하며, Jack-up 리그 가동률은 약 90%를 유지하고 일일 임차료는 강세를 보이고 있습니다)</p><h3>Technical Insights</h3><p>• **함대 구성 최적화**: ADES는 천해 Jack-up 리그 5척 인수로 프리미엄급 리그 비중을 51척(전체 88척 중)으로 확대하여 고부가가치 해양석유 사업 경쟁력 강화</p><p>• **지역 다각화 전략**: 사우디아라비아 기존 거점 강화와 동시에 멕시코 신규 진출로 국제 운영 범위를 21개국으로 확대하는 글로벌 포트폴리오 재편</p><p>• **산업 경기도 반영**: 해상 Jack-up 리그 가동률 90% 유지, 일일 임차료 강세, GCC 지역 임시 중단 리그의 운영 재개 승인 등은 해양석유시추 산업의 회복세를 입증</p></div>`,
+      tags: ["Fleet Acquisition","Jack-up Rigs","Saudi Arabia","Offshore Drilling","ADES Holding"],
+      link: "https://www.offshore-energy.biz/saipem-hands-saudi-jack-up-fleet-to-ades-in-strategic-shallow-water-exit/",
+      coords: [46.6753,24.7136],
+      location: "Saudi Arabia"
+    }
+  ]
+});
