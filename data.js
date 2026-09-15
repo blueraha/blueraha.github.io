@@ -16322,3 +16322,77 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 1988-07-06
+addEvents({
+  "1988-07-06": [
+    {
+      type: "accident",
+      title: "The Evolution of Offshore Emergency Response: Lessons from Piper Alpha and Deepwater Horizon",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-09-14",
+      image: "https://gcaptain.com/wp-content/uploads/2026/09/emergency-response-sept-2026-800x534.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **파이퍼 알파 재해 (1988년 7월 6일)**: 북해 유전 플랫폼에서 가스 누출로 인한 폭발로 167명 사망, 긴급대응체계의 완전한 붕괴를 야기한 해양사고</p><p>• **응급대응 시스템의 실패**: 긴급대응선 Tharos가 4분 내 도착해야 하나 45분이 소요되었으며, 플랫폼 간 운영 조율 부재로 폭발 후 1시간 이상 석유/가스 송출 지속</p><p>• **규제 및 정책 개혁**: 1990년 공개 조사 보고서(106개 권고사항)와 1995년 PFEER(Offshore Installations Regulations) 발효로 목표설정형 안전기준 도입</p><p>• **딥워터 호라이즌 재해 (2010년)**: 멕시코만 시추 장비 폭발로 11명 사망 및 87일간 유류 유출, 미국 독립안전기관 신설 등 추가 개혁 야기</p><p>• **산업 안전문화의 근본적 전환**: 처방적 규칙에서 성능기반 목표로의 패러다임 변화, 위험평가 기반 맞춤형 긴급대응 계획 수립 의무화</p><h3>Key Quotes</h3><p>• "By morning, 167 people were lost. Many of those who survived only did so because they took their lives into their own hands, jumping from heights of up to 174 feet into the water below." <br>(아침까지 167명이 사망했으며, 생존자들은 대부분 스스로 결정하여 174피트 높이에서 물로 뛰어내려 생존함)</p><p>• "The Piper Alpha disaster was the product of more than just a failure of equipment or procedures. It represented the wholesale collapse of offshore emergency response"<br>(파이퍼 알파 재해는 단순한 장비나 절차 실패를 넘어 해양 긴급대응체계 전체의 붕괴를 의미함)</p><p>• "Such systematic failures in risk management that they place in doubt the safety culture of the entire industry"<br>(위험관리의 체계적 실패로 전체 산업의 안전문화 자체를 의심하게 함 - 딥워터 호라이즌 조사보고서)</p><h3>Technical Insights</h3><p>• **긴급대응 체계의 시스템 통합 필요성**: 파이퍼 알파에서 통신 두절, 제어실 파괴로 인한 지휘 기능 마비 사례는 중복 통신 채널, 독립적 제어 시스템 설계의 중요성을 강조</p><p>• **위험기반 규제 프레임워크 진화**: PFEER의 목표설정형 기준은 각 플랫폼의 고유한 위험요소에 대한 맞춤형 대응을 가능하게 하여 획일적 규칙보다 효과적인 안전관리 실현</p><p>• **크로스-플랫폼 운영 조율 체계의 개선**: 긴급 상황 시 인접 플랫폼의 자동 폐쇄 프로토콜 및 중앙 긴급통제센터의 실시간 지휘권 확보가 필수적 개선 사항</p><p>• **독립 감시 기구의 역할 강화**: 딥워터 호라이즌 이후 미국의 독립안전기관 신설 사례는 규제기관과 업계의 이해충돌 해소 및 투명한 안전감독의 중요성을 입증</p></div>`,
+      tags: ["Offshore Safety","Emergency Response","Piper Alpha Disaster","Deepwater Horizon","Regulatory Reform"],
+      link: "https://gcaptain.com/the-evolution-of-offshore-emergency-response/",
+      coords: [-2.42,57.2],
+      location: "North Sea (Piper Alpha) / Gulf of Mexico (Deepwater Horizon)"
+    }
+  ]
+});
+
+// Auto-collected: 2026-09-14
+addEvents({
+  "2026-09-14": [
+    {
+      type: "news",
+      title: "FIFI4MARINE Battery Fire-Suppression System Earns RINA Type Approval",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-14",
+      image: "https://images.marinelink.com/images/maritime/w800/fifi4marine-173628.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• FIFI4MARINE이 배터리 화재 진압 시스템으로서 최초로 RINA 형식 승인(Type Approval)을 획득했으며, 이는 해양산업 내 리튬이온 배터리 설치 확대에 따른 화재 방지 분야의 획기적 성과임</p><p>• 창립자 Cor Meedendorp과 FIFI4MARINE 팀이 SMM Hamburg 2026에서 RINA 형식 승인 증서를 정식으로 수여받음</p><p>• RINA 형식 승인은 승인된 제품 설계를 평가하여 반복 적용 가능하게 하며, 각 신규 프로젝트마다 동일한 설계 평가 과정을 처음부터 진행할 필요를 줄여줌</p><p>• 선박별 통합, 등급 및 법정 요건은 해당되는 경우 별도로 처리되므로, RINA 형식 승인은 설계 승인 효율성을 크게 향상시킴</p><p>• 해양산업의 신재생 에너지 전환과 전기추진 시스템 확대로 리튬이온 배터리 탑재 선박이 급증하고 있는 상황에서 전문화된 화재 진압 시스템의 표준화는 매우 중요한 의미를 가짐</p><h3>Key Quotes</h3><p>• "RINA Type Approval evaluates the approved product design itself for repeat application, reducing the need to begin the same design-assessment process from the start for each new project" (RINA 형식 승인은 승인된 제품 설계를 반복 적용 가능하도록 평가하여 각 신규 프로젝트마다 동일한 설계 평가 과정을 처음부터 시작해야 하는 필요성을 감소시킨다)</p><h3>Technical Insights</h3><p>• 리튬이온 배터리는 높은 에너지 밀도로 인해 열폭주(Thermal runaway) 위험이 크므로, FIFI4MARINE의 형식 승인은 해양 환경에서의 배터리 화재 대응 표준화를 제시하는 중요한 기술적 이정표임</p><p>• IMO 규제 강화와 탄소중립 목표로 인한 전기추진 선박 및 배터리 에너지 저장 시스템(BESS) 탑재 증가에 따라, 전문화된 화재 진압 기술의 형식 승인이 국제 해사 안전 기준의 필수 요소로 자리잡을 것으로 예상됨</p><p>• RINA 형식 승인으로 설계 검증 절차가 표준화됨으로써, 해운사와 조선소의 규정 준수 비용 및 시간을 단축할 수 있으며, 이는 친환경 선박 건조 산업의 경쟁력 향상에 기여할 것으로 평가됨</p></div>`,
+      tags: ["Battery Fire Safety","RINA Type Approval","Lithium-ion Battery","Maritime Safety Systems"],
+      link: "https://www.marinelink.com/news/fifimarine-battery-firesuppression-system-542924",
+      coords: [10.0086,53.5496],
+      location: "Hamburg, Germany"
+    },
+    {
+      type: "news",
+      title: "ABS Joins Korean Initiative to Advance Standards for Next-Generation Smart Ships and Shipyards",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-09-14",
+      image: "https://gcaptain.com/wp-content/uploads/2026/09/unnamed-4.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• ABS(American Bureau of Shipping)가 한국의 3개 해양 연구기관(KOMERI, KOSHIPA, RIMS)과 5년 협력 양해각서 체결하여 차세대 스마트선박 및 조선소 국제표준 개발 추진<br>• 디지털 기술, 스마트 제조, 첨단 해양 시스템을 활용한 선박 및 조선소의 국제 벤치마크 개발이 주요 목표<br>• ABS는 첨가제조(적층) 선박부품의 디지털 생산·추적성 요구사항 및 수소연료선박 통기관 설계에 대한 예비표준 개발 지원 중<br>• 한국 조선소의 고부가가치 선박 개발 전략과 일맥상통하며, 국제표준이 해외시장 진입의 관문 역할 강조<br>• KATS(한국 기술표준원)와의 선행협약에 이은 확대 협력으로, 한국-미국 조선 파트너십센터와의 연계 강화</p><h3>Key Quotes</h3><p>• "Next-generation shipbuilding is advancing rapidly, and the international standards that govern smart ships, smart shipyards and advanced manufacturing are still taking shape." (차세대 조선이 빠르게 발전하고 있으며 스마트선박, 스마트조선소, 첨단 제조를 규제하는 국제표준은 아직 형성 단계)</p><p>• "International standards are more than technical criteria — they are the gateway to market entry and a core element of global competitiveness." (국제표준은 단순 기술기준이 아니라 시장진입의 관문이자 글로벌 경쟁력의 핵심 요소)</p><h3>Technical Insights</h3><p>• 스마트선박·조선소 관련 국제표준의 조기 확립이 산업계의 안전성 확보와 기술 상용화의 중추적 역할 수행 - IMO 규제 선제 대응 필요<br>• 적층 제조(3D printing) 선박부품의 추적성·품질 표준화는 공급망 투명성 강화와 함께 미래 조선산업의 핵심 경쟁력으로 작용<br>• 수소연료선박 기술표준 개발은 IMO 2050 탄소중립 목표 달성의 기술적 기초를 마련하며, 한국 조선업계의 친환경선박 리더십 강화<br>• 국제 분류사(Classification Society)의 참여로 기술표준의 신뢰성과 규제 적용성 향상, 한국 장비제조업체의 글로벌 경쟁력 제고</p></div>`,
+      tags: ["ABS","Smart Ships","International Standards","Korean Shipbuilding","Digital Maritime Technology"],
+      link: "https://gcaptain.com/abs-joins-korean-initiative-to-advance-standards-for-next-generation-ships-and-shipyards/",
+      coords: [37.5665,126.978],
+      location: "Seoul, South Korea"
+    },
+    {
+      type: "news",
+      title: "Accurate Industrial Controls to Convert Six USVs into Navy Patrol Boats",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-14",
+      image: "https://images.marinelink.com/images/maritime/w800/accurate-industrial-173632.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 인도 해양 자동화 업체 Accurate Industrial Controls가 인도 해군과 2022년 체결한 계약에 따라 6척의 무인 표면 선박(USV)으로의 개조 프로젝트를 시작함</p><p>• 뭄바이 해군 조선소에서 13m 고속 요격정(FIC) 1척과 23m 즉시 지원정(ISV) 2척 등 총 3척의 초기 개조 작업을 진행 중이며, 추가 3척의 개조도 계획 중</p><p>• 'Intelligent Situational Awareness and Collision Avoidance' (ISACA) 기술 스택이 인도 선급(IRS)으로부터 IRS AUTN 4-R(N) 인증을 취득하여 IMO COLREG 규정 준수 확보</p><p>• 모든 6척의 선박에 레이더, INS, EOI 등 다중 센서와 원격 명령 통제 시스템, 360도 상황 인식 기능을 갖춘 완전한 ISACA 시스템 장착 예정</p><p>• 2,500시간 이상의 해상 및 강 시험을 통해 자율 운항 기술의 안정성과 신뢰성을 검증함</p><h3>Key Quotes</h3><p>• "The three vessels include a 13m Fast Interceptor Craft (FIC) used in coastal reconnaissance and two larger 23m Immediate Support Vessels (ISV)" (3척의 선박은 연안 정찰에 사용되는 13m 고속 요격정과 400해리 항속거리를 가진 2척의 23m 즉시 지원정으로 구성됨)</p><p>• "Following sea trials, the Indian Register of Shipping (IRS) certified the ISACA tech stack to IRS AUTN 4-R(N) in line with the IMO's International Regulations for Preventing Collisions at Sea (COLREGs)" (해상 시험 후, 인도 선급이 ISACA 기술 스택을 IMO COLREG 규정에 부합하여 IRS AUTN 4-R(N)로 인증)</p><h3>Technical Insights</h3><p>• **IMO COLREG 규정 준수**: IRS AUTN 4-R(N) 인증 취득으로 자율 운항 선박이 국제 해상 충돌 방지 규정을 완전히 준수함을 입증하며, 이는 군용 USV의 국제 운용 기준 확립에 기여</p><p>• **다중 센서 융합 시스템**: 레이더, INS(Inertial Navigation System), EO/IR(전자광학/적외선) 센서를 통합하여 360도 상황 인식(Situational Awareness)을 구현함으로써 해양 환경의 불확실성 극복</p><p>• **산업적 파급 효과**: 인도 해군의 자율 운항 선박 도입 사례는 남아시아 및 인도-태평양 지역의 해군력 현대화 트렌드를 주도하며, 민간 해운업의 자율 운항 기술 개발을 촉발할 수 있음</p><p>• **장기 계약 기반 기술 개발**: 5단계 감시 이정표(audited milestones)를 포함한 장기 계약 구조가 고신뢰도의 자율 운항 기술 개발을 가능하게 했으며, 이는 해양 로봇 시스템 개발의 모범 사례 제시</p></div>`,
+      tags: ["Autonomous Ships","USV","Indian Navy","AI Navigation","COLREG Compliance"],
+      link: "https://www.marinelink.com/news/accurate-industrial-controls-convert-six-542929",
+      coords: [72.8479,19.076],
+      location: "Mumbai, India"
+    },
+    {
+      type: "news",
+      title: "Robosys VOYAGER AI Integrated with FarSounder Forward Looking Sonar for Autonomous Navigation",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-14",
+      image: "https://images.marinelink.com/images/maritime/w800/credit-archipelago-173629.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Robosys Automation사의 VOYAGER AI 자율항법 시스템(ANS)이 FarSounder의 전방향 3D 소나 기술과 통합되어 실시간 상황인식 및 장애물 감지 기능 제공<br>• 럭셔리 슈퍼요트와 무인수상선(USV) 분야에 적용되어 수심이 얕은 미차트 해역, 원격 정박지, 복잡한 연안 지역에서의 안전 항해 가능<br>• COLREG 충돌회피 및 자율 선박제어 알고리즘과 3D 해저지형 정보의 결합으로 수중 장애물 회피 및 노선 최적화 실현<br>• 슈퍼요트 산업의 승무원 감축 운영, 원격 지역 탐사 지원, 운영 안전성 향상이라는 산업 요구사항 충족<br>• USV 운영자에게는 미션 안전성 강화, 경로 최적화, 운영 탄력성 증대의 실질적 이점 제공</p><h3>Key Quotes</h3><p>• "The ability to identify and respond to underwater hazards and uncharted shallow waters beyond the limits of conventional navigation sensors means that vessels fitted with this integrated capability are able to detect, track, and autonomously navigate around both surface and subsurface hazards."<br>(종래 항법센서의 한계를 넘어 수중 위험물과 미차트 얕은 수심을 식별·대응할 수 있는 능력으로, 장착된 선박이 수상·수중 모든 장애물을 감지·추적하며 자율적으로 회피항해 가능)</p><p>• "By feeding this data into the VOYAGER AI autonomy stack, vessels can benefit from a more complete understanding of navigational risks and opportunities."<br>(소나 데이터를 VOYAGER AI 자율시스템에 통합함으로써 항해 위험요소와 기회에 대한 포괄적 이해 달성)</p><h3>Technical Insights</h3><p>• **COLREG 통합**: VOYAGER AI의 해양충돌회피규칙(COLREG) 알고리즘이 FarSounder의 3D 소나 정보와 실시간 통합되어, 종래의 차트·GPS·레이더만으로는 감지 불가능한 수중 장애물에 대한 자동 회피능력 구현<br>• **다중 센서 퓨전 기술**: 전방향 소나, 해도, 기존 항법센서 데이터의 동적 통합으로 poorly charted waters에서의 자율항해 정확도 대폭 향상, IMO 자율선박 기준 충족의 기술적 기초 마련<br>• **산업 자동화 트렌드**: 슈퍼요트의 승무원 감축 운영 및 USV 원격감시 자율운영 추세에 부응하는 통합 솔루션으로, 선박 운영비용 절감 및 원격지역 탐사 수행 능력 강화<br>• **안전성 강화**: 3D 해저지형 정보의 실시간 처리로 상충·좌초 위험 예방 및 복잡한 연안·원격 정박지에서의 안전한 자율항해 실현, 해양사고 감소 기여</p></div>`,
+      tags: ["Autonomous Navigation","AI","Sonar Technology","Superyachts","USV"],
+      link: "https://www.marinelink.com/news/robosys-voyager-ai-integrated-farsounder-542925",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
