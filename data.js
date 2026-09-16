@@ -16484,3 +16484,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-14
+addEvents({
+  "2026-09-14": [
+    {
+      type: "news",
+      title: "Quantum Systems Launches Maritime Domain with Seavex and Subvex Autonomous Systems",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-09-14",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/09/Quantum-Systems-Seavex-and-Subvex.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Quantum Systems가 해양 도메인 확장을 발표, 기존 공중 및 지상 자동화 역량을 해상으로 확대<br>• 신규 해양 자율시스템 'Seavex(무인 수상 정찰함)'와 'Subvex(무인 수중 정찰함)' 출시<br>• Seavex는 최대 2개월 지속 임무 가능, 감시 레이더 및 대드론 레이더 장착<br>• Subvex는 수심 6,000m까지 작동 가능한 AI 기반 무인잠수정, 최대 4일 능동 운용 또는 수주간 수동 감시 모드 운용<br>• MOSAIC UXS 공통 소프트웨어 아키텍처를 통해 공중, 지상, 해상 플랫폼 간 완전 상호운용성 구현<br>• 포르투갈 NATO 해양 훈련 행사에서 해상 시연 및 검증 예정, 해양 안보 전략적 중요성 증대에 대응</p><h3>Key Quotes</h3><br>• "We started in the air, expanded to land, and now we are going to sea. But the real step forward is not adding another domain. It is connecting them." (우리는 공중에서 시작했고 육상으로 확장했으며, 이제 해상으로 나아갈 것이다. 그러나 진정한 진전은 새로운 도메인을 추가하는 것이 아니라 이들을 연결하는 것이다.)</p><p>• "With Seavex and Subvex integrated into MOSAIC UXS, we are building one autonomous system across air, land and sea." (MOSAIC UXS에 통합된 Seavex와 Subvex를 통해 공중, 지상, 해상을 아우르는 단일 자율시스템을 구축하고 있다.)</p><h3>Technical Insights</h3><br>• 해양 도메인 자동화: Quantum Systems의 MOSAIC UXS 플랫폼이 공중(UAV), 육상(UGV), 해상(USV/UUV) 플랫폼을 단일 소프트웨어 아키텍처로 통합하여 상호운용성과 분산 작전 효율성 극대화<br>• 지속적 감시 능력 강화: Seavex의 최장 2개월 지속 임무와 Subvex의 수주간 수동 감시 모드를 통해 전략적 해양 인프라 보호 및 해역 감시의 신 패러다임 제시<br>• IMO/해양안보 규제 대응: 자율시스템의 센서 정보 통합(Data Fusion)과 AI 기반 의사결정이 향후 해사 규제(COLREG 준수, 자율운항선박 기준) 적용을 선도하는 기술 기반 구축<br>• 다중 플랫폼 분산 작전: 여러 Subvex 간 분산 운용 가능성으로 NATO 등 다국적 해양 안보 작전의 효율성 및 NATO 협력 강화, 해양 국방 디지털화 가속화</p></div>`,
+      tags: ["Autonomous Systems","Unmanned Surface Vehicle","Unmanned Underwater Vehicle","Maritime ISR","MOSAIC UXS"],
+      link: "https://www.navalnews.com/naval-news/2026/09/quantum-systems-launches-maritime-domain-introducing-seavex-and-subvex/",
+      coords: [40.6333,-8.6333],
+      location: "Portugal"
+    }
+  ]
+});
+
+// Auto-collected: 2026-09-16
+addEvents({
+  "2026-09-16": [
+    {
+      type: "news",
+      title: "Alpin Weld: Comprehensive Offshore Maintenance and Repair Solutions Beyond Welding",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-09-16",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/09/1-1.jpg?image-crop-positioner-ts=1789460464",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **Alpin Weld의 통합 솔루션**: 폴란드 북부에 본사를 둔 Alpin Weld는 용접, 접근, 검사, 제작, 부식 방지 등 여러 해양 작업을 통합하는 포괄적 접근 방식을 제공</p><p>• **해상 구조물 유지보수의 복잡성**: 해상 풍력 터빈 및 석유·가스 플랫폼 수리는 날씨, 접근 제한, 선박 일정 등으로 인해 단순 용접 작업을 복잡한 통합 운영으로 변환</p><p>• **사전 준비의 중요성**: 현장 도착 전 진단, 기술 문서 검토, 엔지니어링 설계, 위험 평가, 재료 선정, 접근 계획 등 광범위한 준비 작업 수행</p><p>• **폴란드 워크숍 활용**: 현장 운송 전 폴란드 시설에서 강철 구조 및 배관 부품의 사전 제작과 측정·시험 수행으로 작업 효율성 극대화</p><p>• **해양 환경의 부식 문제**: 풍, 진동, 반복 하중, 염수 노출로 인한 지속적인 부식이 제작·설치 단계에서 발견되지 않은 결함을 노출</p><p>• **기술 통합 관리**: 현장 운송, 설치, 용접, 비파괴 검사(NDT), 방식 시스템 복원, 최종 문서화까지 전 과정을 일관되게 관리</p><h3>Key Quotes</h3><p>• "We take a comprehensive approach to every project we undertake. Our team prepare workshop documentation, prefabricate required steel structures or piping components at our workshop facility in Poland, and carry out necessary measurements and testing." (폴란드 시설에서 사전 제작 및 시험을 통해 모든 프로젝트에 포괄적으로 접근)</p><p>• "What the client initially reports as an offshore issue may therefore be only one part of a much broader scope of work" (고객이 보고한 해상 문제가 더 광범위한 작업의 일부일 수 있음)</p><h3>Technical Insights</h3><p>• **해상 구조물 유지보수의 다층적 프로세스**: 단순 용접을 넘어 검사, 진단, 설계, 위험 평가, 재료 선정, 접근 계획, 비파괴 검사 등 다단계 통합 관리 체계 필수</p><p>• **선행 제작(Prefabrication) 전략**: 해상 현장의 제한된 작업 기간과 악천후를 고려하여 육상 시설에서 사전 부품 제작 및 검증을 수행함으로써 해상 작업 시간 및 위험 최소화</p><p>• **부식 및 피로 메커니즘 관리**: 해수 환경에서 반복 하중과 부식이 복합적으로 작용하여 숨겨진 결함이 노출되는 현상에 대응하기 위해 정기적 검사 및 예방적 유지보수 강화 필요</p><p>• **IMO/산업 규제 준수**: 해상 구조물의 안전 기준 및 방식 시스템 복원 기준 준수를 위한 포괄적 문서화 및 품질 관리(QA/QC) 체계 운영</p></div>`,
+      tags: ["offshore maintenance","welding services","rope access","NDT inspection","offshore structures"],
+      link: "https://www.offshore-energy.biz/alpin-weld-when-offshore-work-goes-beyond-welding/",
+      coords: [19.1451,51.7592],
+      location: "Poland (Alpin Weld headquarters)"
+    }
+  ]
+});
