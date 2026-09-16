@@ -16440,3 +16440,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-15
+addEvents({
+  "2026-09-15": [
+    {
+      type: "accident",
+      title: "Panama-flagged Tanker El Gaia Catches Fire in Strait of Hormuz; Two Crew Missing",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-09-15",
+      image: "https://gcaptain.com/wp-content/uploads/2026/09/el_gaia_bottom_extracted.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 파나마 국적 유조선 El Gaia가 호르무즈 해협 근처 오만 해역에서 화재 발생, 현재 항구로 예인 중이며 승선원 2명 실종</p><p>• **구조 및 피해**: 오만 해군이 승선원 23명을 구조하고 의료 지원 제공, 엔진실 화재는 진화됨</p><p>• **사건 원인 논쟁**: 이란 혁명수비군은 기뢰 접촉 주장, 미군 중부사령부는 이란의 미사일 및 드론 공격 주장 (지난달 미사일 공격 후 추가 드론 공격)</p><p>• **해운 영향**: 호르무즈 해협의 상업 해운에 대한 위협 수위 최고조, 유조선 용선료 사상 최고가 기록</p><p>• **지정학적 상황**: 미국의 기뢰 제거 주장에도 불구하고 해상 당국은 여전히 부유 또는 미상 기뢰 경고 유지</p><h3>Key Quotes</h3><p>• "The IRGC's false claim is yet another example of their lies and intimidation attempts while they try to impede commercial vessels in the strait" <br>(혁명수비군의 거짓 주장은 해협 통행을 방해하려는 일관된 거짓과 협박 시도의 또 다른 사례)</p><p>• "The Joint Maritime Information Center continues to rate the threat to commercial shipping in the Strait as severe, warning that deliberate hostile action remains highly likely"<br>(합동 해상정보 센터는 해협 내 상업 해운에 대한 위협을 심각 수준으로 평가하며 의도적 적대 행동 가능성이 높음을 경고)</p><h3>Technical Insights</h3><p>• **해협 안전 문제**: 호르무즈 해협의 해상 교통 분리 제도(TSS) 내 기뢰 제거 작업 완료 주장에도 불구하고 부유 기뢰 및 미상 기뢰에 대한 경고가 지속되어 국제 해사법과 안전 기준의 불일치 야기</p><p>• **산업 경제 영향**: 유조선 용선료가 사상 최고인 일일 100만 달러를 돌파하였으며, 사우디 얍부 항 유류 적재 중단 및 리비아 유전 가동 중단으로 유가 배럴당 3달러 이상 상승, 에너지 공급망 불안정성 심화</p><p>• **해사 규제 및 분쟁**: 국가 간 사건 원인 규정 불일치로 인한 국제법 적용의 모호성, IMO 산하 해상당국의 위협 평가 권고에도 불구하고 실질적 보안 조치 개선 지연</p><p>• **선원 안전 우려**: 실종 승선원 2명 수색 작업 진행 중이며, 해협 통행 위험 증가로 인한 선원 인명 피해 위험 상존</p></div>`,
+      tags: ["tanker fire","Strait of Hormuz","missing crew","Iran-US tensions","maritime security"],
+      link: "https://gcaptain.com/oman-says-el-gaia-being-towed-to-port-two-crew-missing/",
+      coords: [56.5,26.2],
+      location: "Strait of Hormuz, Oman Waters"
+    },
+    {
+      type: "accident",
+      title: "Russia Accuses Danish Military Helicopters of Dangerous Maneuvers Near Warships in Baltic Sea",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-09-15",
+      image: "https://gcaptain.com/wp-content/uploads/2021/02/denmark-navy-RDN_F357_Thetis.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 러시아 군함이 덴마크 군용 헬기에 향해 플레어(조명탄)를 발사하여 국제 해역에서 위험한 상황 발생 - 2026년 9월 14일(월) 발생<br>• 러시아 주덴마크 대사 블라디미르 바르빈이 덴마크에 공식 항의장 전달, 비슷한 사건의 재발 방지를 요구<br>• 덴마크 NATO 회원국의 군용 헬기가 러시아 대잠전함 'Vice-Admiral Kulakov'호 위에서 저고도 위험 비행을 수행한 선례 존재(2025년 8월)<br>• 러시아 측은 헬기의 무선 연락 두절과 경고 무시가 충돌 위험 및 선박 장비 간섭 가능성을 초래했다고 주장<br>• 양측 군사 활동의 긴장 관계로 인한 국제해역 해상 안전 위험 증가</p><h3>Key Quotes</h3><br>• "I demanded that the Danish side take the necessary measures to prevent such incidents from recurring in the future, and handed over a note to that effect" (덴마크 측이 향후 유사 사건 재발 방지를 위한 필요한 조치를 취할 것을 요구하고, 이를 담은 항의장을 전달했다는 의미)<br>• "Such maneuvers posed a collision risk and could have interfered with the Russian ship's equipment" (이러한 기동은 충돌 위험을 초래했으며 러시아 함선의 장비에 간섭을 야기할 수 있었다는 의미)</p><h3>Technical Insights</h3><br>• 국제해역 군사 활동 중 COLREG 및 국제 항공 규칙 준수의 중요성 - 헬기와 해상함정 간 무선 통신 및 사전 조율 필수<br>• NATO 회원국과 러시아 간 군사 활동 증가로 인한 발틱해 해상 안전 위험 심화, 국제해사기구(IMO) 차원의 분쟁 해역 안전 프로토콜 강화 필요<br>• 군용 항공기와 상선/군함 간 충돌 회피 절차의 명확한 규정 및 상시 통신 체계 구축이 해상 사고 예방의 핵심 - 자율 항해 시대에도 국제 협약 준수 기반 필수</p></div>`,
+      tags: ["Baltic Sea","Military Incident","Denmark","Russia","NATO","International Waters"],
+      link: "https://gcaptain.com/russia-accuses-danish-military-helicopters-of-making-dangerous-maneuvers-near-its-warships/",
+      coords: [12.5,56],
+      location: "Baltic Sea (off Denmark)"
+    },
+    {
+      type: "news",
+      title: "Physical AI Will Rebuild America's Maritime Industrial Base",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-15",
+      image: "https://images.marinelink.com/images/maritime/w800/image-courtesy-173654.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **미국 조선산업의 위기**: 1970년대 세계 상용선 건조의 5%를 차지하던 미국이 현재 0.2%에 불과하며, 중국은 370척 이상의 함정을 운용 중 (미 해군은 296척)<br>• **생산 용량 부족이 주요 제약**: 발틱해운위원회(BIMCO)에 따르면 Q1 2026 주문량이 1억 9,100만 톤으로 증가했으나, 미국 생산 능력이 산업의 최대 병목<br>• **노동력 부족 심화**: 미 해군 확장 계획에 필요한 25만 명의 신규 인력과 2030년까지 필요한 32만 명의 용접 전문가 수급 불가<br>• **다분야 인력 경쟁**: 방위산업, 에너지 인프라, 데이터센터, 광산 장비 제조 등 모든 산업이 동일한 숙련 노동력을 놓고 경쟁<br>• **프로그램 지연 및 비용 증가**: Constellation급 호위함(Frigate) 등 해군 프로젝트의 일정 지연과 비용 증과<br>• **Physical AI 솔루션의 필요성**: 로봇과 인공지능 기술이 조선소의 규모와 생산 효율성 증대의 핵심 해결책으로 제시</p><h3>Key Quotes</h3><p>• "The U.S. has gone from building 5% of the world's ocean-going commercial ships in the 1970s to building about 0.2% today" (미국의 세계 상용선 건조 점유율이 1970년대 5%에서 현재 0.2%로 급락)</p><p>• "The U.S. Navy expansion to a larger Golden Fleet is expected to require roughly 250,000 new workers across the maritime industrial base over the next decade" (미 해군의 확장 계획이 향후 10년간 해양산업 전반에서 약 25만 명의 신규 인력을 필요로 함)</p><p>• "Experienced welders continue to retire faster than new workers enter the profession, tightening an already strained labor market" (숙련된 용접공들이 신규 진입자보다 빠르게 퇴직하여 이미 긴장된 노동시장이 더욱 악화)</p><h3>Technical Insights</h3><p>• **Physical AI 기술의 조선산업 적용**: 로봇공학과 AI 기술을 대규모 선박 건조 공정(50피트 높이, 100,000파운드 선체 섹션 용접 등)에 접목하여 생산성 향상 및 인력 부족 해소 필요<br>• **자동화를 통한 용접 분야 해결**: 340만 톤 규모의 주문 증가 시점에 용접 전문가 부족이 극심하므로, 자동화 용접 시스템과 로봇 기술로 노동 공급 문제 극복 가능<br>• **국가 안보와 경제 우선순위 재정의**: 조선능력이 국가 안보(해군력 확대) 및 경제 경쟁력의 핵심 지표로 인식되는 추세로, 첨단 제조 기술(Physical AI) 투자 가속화 예상<br>• **산업 전역의 숙련 노동력 경쟁 심화**: 에너지·방위·건설 등 모든 산업이 동일 인력 풀을 놓고 경합하므로, 자동화 기술 채택이 조선산업 경쟁력 유지의 필수 요소</p></div>`,
+      tags: ["AI and Robotics","Shipbuilding","Industrial Capacity","Labor Force","U.S. Maritime Industry"],
+      link: "https://www.marinelink.com/news/physical-ai-rebuild-americas-maritime-542961",
+      coords: [-77.0369,38.9072],
+      location: "United States (Washington, D.C.)"
+    }
+  ]
+});
