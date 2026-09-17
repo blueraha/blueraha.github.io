@@ -16590,3 +16590,53 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-17
+addEvents({
+  "2026-09-17": [
+    {
+      type: "accident",
+      title: "Indonesian Passenger Ship Virgo Transport 8 Capsizes in Java Sea; 129 Missing",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-17",
+      image: "https://images.marinelink.com/images/storage/mrlogo-sq.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 인도네시아 여객선 Virgo Transport 8호가 2026년 9월 15일(일요일) 자바해에서 악천후 중 전복, 탑승자 243명 중 6명 사망, 108명 구조, 129명 행방불명</p><p>• **구조 작업**: 인도네시아 해군 및 국가구조청이 목요일(17일) 침몰선 인양 계획 평가 실시, 선박을 뒤집어 세운 후 수색 및 대피 계획 진행 중</p><p>• **환경적 제약**: 자바해의 강한 해류(시속 거의 7노트)와 높은 파도로 인한 수중 수색 곤란, 다이빙 권장 해류 속도는 1.5노트 이하</p><p>• **해난 위치**: 반자르마신 항구로부터 80해리(150km) 떨어진 수심 약 29m 지역에서 침몰, 이후 약 450m 표류</p><p>• **인양 계획**: 선박 정상화에 통상 24시간 소요 예상, 문제 발생 시 더 오래 걸릴 수 있음, 인양 후 항로 복구 및 조사 실시</p><p>• **조사 기관**: 인도네시아 국가교통안전위원회(NTSC)가 해난 원인 조사 진행 중, 해군 수심 탐사 중 발견된 증거물 인수</p><h3>Key Quotes</h3><p>• "We plan to salvage the vessel by turning it upright and then conduct the search and evacuation. Once we are certain the operation is complete, the ship will be towed away for the investigation" (선박을 정상 위치로 뒤집은 후 수색 및 대피를 진행하고, 작업 완료 후 조사를 위해 예인할 계획임)</p><p>• "Turning the ship upright would normally take about 24 hours, but it could take longer if there are complications" (선박 정상화는 통상 약 24시간이 소요되나, 문제 발생 시 더 오래 걸릴 수 있음)</p><p>• "Diving is recommended only when the current is below 1.5 knots" (해류 속도가 1.5노트 이하일 때만 다이빙이 권장됨)</p><h3>Technical Insights</h3><p>• **해상 구조 환경 관리**: 자바해의 강한 조류(7노트)는 COLREG와 IMO 해상안전 기준의 수중 작업 안전 임계값(1.5노트)을 크게 초과하여, 구조 작업의 지연 및 위험성 증대</p><p>• **선박 인양 기술**: 전복된 대형 여객선의 정상화는 복합적인 해양 공학 작업으로, 현장의 환경 조건(수심 29m, 해류, 파도)에 따라 표준 24시간 일정이 변동 가능한 가변적 특성</p><p>• **해난 조사 프로토콜**: NTSC의 다단계 조사 절차(수중 증거 수집 → 선박 인양 → 사후 조사)는 IMO 국제 해난 조사 기준을 따르는 규범적 접근으로, 사고 원인 규명 및 향후 안전 개선에 기여</p><p>• **선박 운영 규제**: 인도네시아 해운법의 침몰선 제거 의무 조항은 해상 교통로 안전 관리 및 환경 보호의 국내 해사 규제 체계를 반영</p></div>`,
+      tags: ["capsizing","passenger ship","Java Sea","search and rescue","maritime casualty"],
+      link: "https://www.marinelink.com/news/rescuers-plan-right-capsized-ship-missing-543026",
+      coords: [110.2585,-3.7595],
+      location: "Java Sea, Indonesia (80 nautical miles from Banjarmasin)"
+    },
+    {
+      type: "news",
+      title: "SNAME M-50 Panel Explores Optimal Sustainable Fuel Strategy for Maritime Industry",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-17",
+      image: "https://images.marinelink.com/images/maritime/w800/image-credit-173707.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• SNAME의 M-50 위원회가 해양산업용 최적 지속가능 연료(SERF, Sustainable Energy Remainder Fuel) 규명을 추진 중이며, 직접 전기추진이 불가능한 대형선박용 보편적 연료 표준화 목표</p><p>• 현재 다양한 대체 연료 후보군 중에서 전 세계적으로 적용 가능한 최적 연료를 선정하여 불필요한 중복 인프라 구축 방지</p><p>• 기술 발전 역사와 실제 데이터 분석을 통해 미흡한 정책 결정을 회피하고, HFO 잔유유 도입 시 발생한 과오(선상 정제의 비효율성, 환경오염) 재발 방지</p><p>• 연료 선택은 단순한 기술 문제를 넘어 산업 구조, 규제, 경제성을 종합적으로 고려하는 전략적 의사결정 필요</p><p>• 해상 운송의 탈탄소화 전환 가속화를 위해서는 선택과 집중을 통한 효율적 자원 배분 및 글로벌 표준화 필수</p><h3>Key Quotes</h3><p>• "We know what went wrong, and we need to make sure we do not make the same error twice." (우리는 과거 오류를 인식하고 있으며, 같은 실수를 반복하지 않도록 주의해야 한다)</p><p>• "Predicting the future is an uncertain task, but by engaging with every possible variable, the dive into the rabbit hole uncovers various truths that then tend to steer the effort towards a less foggy future." (미래 예측은 불확실하지만, 모든 변수를 분석하면 명확한 방향성을 찾을 수 있다)</p><h3>Technical Insights</h3><p>• **SERF 개념의 전략적 가치**: 해양산업 전체가 수용 가능한 단일 표준 연료 규명을 통해 상충하는 기술 개발에 낭비되는 자본과 시간 절감 가능</p><p>• **HFO 사례의 역사적 교훈**: 산상(ship-side) 연료 정제 체계의 비효율성과 환경오염 문제가 증명되었으므로, 새로운 지속가능 연료 도입 시 정제 책임을 육상 인프라 중심으로 재설계 필요</p><p>• **글로벌 연료 표준화의 IMO 규제 함의**: SERF 규명을 통한 단일 연료 표준화는 국제 해사기구의 규제 단순화, 선박 설계 표준화, 공급망 효율성 증대 등 산업 전체 혁신 가능</p><p>• **에너지 전환 경제학**: 더 비싼 지속가능 연료라도 인프라 중복 회피, 규제 일관성, 기술 성숙도 가속화를 통해 장기적으로는 더 저렴하고 빠른 에너지 전환 달성 가능</p></div>`,
+      tags: ["sustainable fuels","SERF","maritime technology","fuel transition","SNAME"],
+      link: "https://www.marinelink.com/news/serfs-expensive-sustainable-fuels-a-543021",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
+
+// Auto-collected: 2026-09-16
+addEvents({
+  "2026-09-16": [
+    {
+      type: "news",
+      title: "HD Hyundai Samho, Avikus and ClassNK Sign Autonomous Navigation System MOU",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-09-16",
+      image: "https://maritime-executive.com/media/images/article/1789563902_6aaa93fe612c3.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• HD Hyundai Samho, Avikus, ClassNK 3개사가 자율항해 시스템 개발 및 검증을 위한 협력 양해각서(MOU) 체결 - 180K LNG 운반선에 HINAS Control 기술 적용 계획<br>• IMO MASS Code 국제규정(2026년 7월 1일 발효)에 따른 자율운항선박 국제 규제체계 구축에 대응하기 위한 산업 협력 사례<br>• 각 기관의 역할: HD Hyundai Samho(기본 선박 설계), Avikus(자율항해 솔루션 및 알고리즘 지원), ClassNK(규칙 검증 및 분류 기호 평가)<br>• ClassNK의 "자동/자율 운항선박 지침(Guidelines for Automated/Autonomous Operation of Ships)"을 기반으로 기술 타당성 검증 및 설계 승인(Approval in Principle) 추진<br>• 삼자 협력을 통해 안전한 자율운항선박의 상용화 및 고객 신뢰성 확보 목표</p><h3>Key Quotes</h3><p>• "This MOU marks an important first step toward securing advanced autonomous navigation technology by proactively obtaining Approval in Principle for compliance with classification notation requirements." (이 양해각서는 분류 기호 요건 준수를 위한 원칙적 승인을 적극적으로 획득함으로써 고급 자율항해 기술을 확보하기 위한 중요한 첫 단계를 나타냅니다)</p><p>• "At a time when international technical standards for autonomous ships are rapidly evolving, trilateral collaboration among a shipbuilder, an autonomous navigation solution provider, and a classification society is highly significant." (자율운항선박의 국제 기술 표준이 급속히 진화하는 시점에서 조선소, 자율항해 솔루션 제공자, 선급 협회 간의 삼자 협력은 매우 의미가 있습니다)</p><h3>Technical Insights</h3><p>• **IMO MASS Code 준수 및 분류 기호 획득**: 2026년 7월 발효된 IMO MASS Code 비의무 규정에 대응하기 위해 ClassNK의 지침을 기반으로 한 설계 검증 및 분류 기호 요건 충족 방안 마련 필요<br>• **LNG 운반선의 자율운항 기술 적용**: 180K LNG 운반선 건조 과정에서 HINAS Control 시스템 통합 설계 및 실제 운영 환경에서의 기술 검증을 통해 자율운항 선박의 상용화 기반 조성<br>• **조선소-솔루션 제공자-선급 협회 삼각형 협력 모델**: 선박 설계/건조 역량, 자율항해 알고리즘/소프트웨어, 규제 검증 역량의 유기적 결합으로 국제 표준 준수와 기술 신뢰성을 동시에 확보하는 산업 모범 사례<br>• **자율운항선박 상용화 로드맵**: 단일 선박 프로젝트의 성공적 완료를 통해 향후 다양한 선형(다목적선, 벌크선 등)으로의 기술 확대 및 해운사 고객 수요 대응 기반 마련</p></div>`,
+      tags: ["Autonomous Navigation","HINAS Control","LNG Carrier","ClassNK","IMO MASS Code"],
+      link: "https://maritime-executive.com/article/hd-hyundai-samho-avikus-and-classnk-sign-mou-for-design-verification-toward-autonomous-navigation-system",
+      coords: [100.5654,13.7563],
+      location: "Bangkok, Thailand"
+    }
+  ]
+});
