@@ -16522,3 +16522,71 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2025-09-16
+addEvents({
+  "2025-09-16": [
+    {
+      type: "accident",
+      title: "NTSB Safer Seas Digest 2025: Recurring Safety Problems Found Across 49 Marine Casualties",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2025-09-16",
+      image: "https://gcaptain.com/wp-content/uploads/2024/05/Dali-Baltimore.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **NTSB 2025 안전 보고서**: 미국 국가운송안전위원회(NTSB)가 2024년도 해양사고 49건을 분석한 '더 안전한 바다 보고서(Safer Seas Digest 2025)' 발간으로, 반복되는 안전 문제들을 지적</p><p>• **달리(Dali) 컨테이너선 사건**: 2024년 3월 볼티모어 프란시스 스콧 키 교량 충돌로 6명 사망, 전기 동력 상실 후 약 20개의 안전 권장사항 도출</p><p>• **타이탄 잠수정 폭발**: 2023년 타이탄호 침몰로 5명 전원 사망, 엔지니어링 프로세스 부족과 불충분한 강도/내구성 테스트 문제 적발</p><p>• **그란데 코스타 디아보리오(Grande Costa D'Avorio) 선박 화재**: 2023년 뉴저지 항구에서 발생한 화재로 소방관 2명 사망, 11개 안전 권장사항 도출</p><p>• **반복되는 주요 안전 문제**: 정비 부실, 항해 계획 미흡, 화재 감지/진압 실패, 기밀성 유지 불능, 피로도/주의산만, 리튬이온 배터리, 전기동력 상실, 비상 대비 미흡 등 체계적 문제 식별</p><p>• **고정물과의 충돌 최다**: 총 49건 중 충돌 16건, 화재/폭발 11건, 좌초 7건, 해상 충돌 5건, 침수/선체 파손 5건으로 구성</p><h3>Key Quotes</h3><p>• "The investigation led to nearly two dozen safety recommendations, including urgent recommendations focused on bridges over navigable waterways where the risk of collapse from strikes by large oceangoing vessels had not been determined." (조사 결과 약 20개의 안전 권장사항이 도출되었으며, 특히 대형 해상 선박의 충돌로 인한 교량 붕괴 위험성 평가 부재 문제에 대한 긴급 권장사항 포함)</p><p>• "Investigators found the submersible failed to meet necessary strength and durability requirements because of shortcomings in the operator's engineering process." (조사관들은 잠수정이 운영사의 엔지니어링 프로세스 부족으로 인해 필수 강도 및 내구성 요구사항을 충족하지 못했다고 판단)</p><p>• "Across the 49 investigations, the NTSB identified recurring problems involving maintenance, voyage planning, fire detection and containment, watertight integrity, fatigue and distraction." (49건의 조사를 통해 정비, 항해 계획, 화재 감지/진압, 기밀성 유지, 피로도 및 주의산만 등의 반복되는 문제를 식별)</p><h3>Technical Insights</h3><p>• **전기동력 상실의 치명성**: 달리호 사건에서 보듯이 전기동력 상실(Loss of Electrical Power)은 조종성 상실로 이어져 고정물 충돌을 유발하는 근본적 위험 요소로, 이중화 전기 시스템과 자동복구 메커니즘 강화 필요</p><p>• **자동 안전장치 부재의 위험성**: 파파로드(Papa Rod) 어선 사건처럼 자동조종장치 운항 중 선박 감시자의 졸음으로 인한 충돌 발생, 감시 경보 장치(Watch Alarm System) 의무화 및 자율 항해 기술 도입의 필수성 증대</p><p>• **해사법규(COLREG) 준수 강화**: 49건 사건 분석을 통해 항해 계획의 미흡, 해양 교통 규칙 미준수, 기상 및 해류 예측 실패 등이 규칙적으로 반복되고 있어 IMO 표준화 및 해운사 컴플라이언스 체계 개선 시급</p><p>• **산업 표준화 및 규제 강화 필요**: 선박 화재, 침수, 기계 고장 등 기술적 결함뿐 아니라</p></div>`,
+      tags: ["NTSB","Safety Analysis","Marine Casualties","Bridge Collapse","Submersible Implosion","Vessel Fire"],
+      link: "https://gcaptain.com/from-dali-to-titan-ntsb-finds-the-same-safety-problems-repeating/",
+      coords: [0,0],
+      location: "Global (Multiple Incidents)"
+    }
+  ]
+});
+
+// Auto-collected: 2026-09-16
+addEvents({
+  "2026-09-16": [
+    {
+      type: "news",
+      title: "Study Finds 29% of Ships Account for Nearly 70% of Maritime Accidents",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-09-16",
+      image: "https://gcaptain.com/wp-content/uploads/2025/06/250603-G-G0217-5148.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 해운산업 안전 연구: ShipIn Systems와 NorthStandard 보험사의 연합 연구로 전체 선박의 29%가 전체 해양사고의 약 70%를 차지하고 있음을 발견<br>• 운영 점수와 사고율의 강한 상관관계: FleetVision 점수 75 미만 선박의 사고율이 85 이상 선박 대비 5.7배 높음<br>• 반복적인 운영 편차 패턴: 선교 운영, 갑판 안전, 계류, 개인보호장비(PPE) 등에서 낮은 점수 선박들의 편차가 빈번하게 발생<br>• 사전 예방적 접근 방식: 사고 후 측정이 아닌 운영 데이터를 통해 사고 위험을 조기에 식별 가능<br>• 12개월 모니터링 결과: 250척 선박군에서 월평균 운영 편차가 230건에서 8건으로 96% 감소하며 개선 효과 입증<br>• 산업적 시사점: 함정과 육상 팀이 동일한 운영 데이터를 공유하면 위험 요소를 협력하여 해결 가능</p><h3>Key Quotes</h3><p>• "Safety is still too often measured after the fact. What this research shows is that risk is visible much earlier, embedded in everyday operations." (안전은 여전히 사고 발생 후에 측정되는 경향이 있지만, 이 연구는 위험이 일상적 운영 속에 훨씬 더 일찍 드러난다는 것을 보여줍니다)</p><p>• "The industry does not lack operational data. The challenge is turning that information into timely, practical action." (해운산업은 운영 데이터 부족이 아니라, 그 정보를 적시에 실질적인 조치로 전환하는 것이 과제입니다)</p><h3>Technical Insights</h3><p>• **운영 점수 기반 위험 관리**: ShipIn의 FleetVision 시스템이 선상 비디오, 컴퓨터 비전 등을 활용한 객관적 점수화로 선박의 안전 수준을 정량화하여 관리 효율성 향상<br>• **COLREG 및 IMO 규정 준수 강화**: 선교 운영 편차 감소는 국제 해상충돌 예방 규칙(COLREG) 준수 개선 및 선원 역량 강화를 의미하며, 장기적으로 IMO 2030/2050 안전 목표 달성에 기여<br>• **예측 기반 선박 안전관리(Predictive Maintenance)**: 반복적 운영 편차 패턴 모니터링을 통해 사고 위험을 조기 발견하고 예방적 개입이 가능한 새로운 산업 표준 제시<br>• **함육 협력 체계의 중요성**: 함상 및 육상 팀이 실시간 운영 데이터를 공유함으로써 안전 문화를 강화하고, 선박관리사(ISM 코드) 의무사항 이행 수준 상향 평준화</p></div>`,
+      tags: ["Maritime Safety","Accident Prevention","Operational Data","Fleet Management","Risk Analysis"],
+      link: "https://gcaptain.com/study-finds-29-of-ships-account-for-nearly-70-of-maritime-accidents/",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "Maersk Said to Be Lining Up Massive Containership Order",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-09-16",
+      image: "https://gcaptain.com/wp-content/uploads/2023/12/shutterstock_1085874656.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 메르스크가 대규모 신조선 발주를 추진 중이며, 현재 보유 선단의 32%에 해당하는 150만 TEU 규모의 신조선이 이미 발주 상태임<br>• 예상 발주 규모는 24,000 TEU급 12척, 19,000 TEU급 12척, 18,600 TEU급 6척으로, 중국의 장쑤 양쯔강 조선소, 헝리 HI, 뉴타임스 조선소와의 계약이 예상됨<br>• 알파라이너 분석에 따르면 메르스크의 신규 발주 시 총 선단 규모는 210만 TEU, 134척으로 확대될 가능성 있음<br>• 2029년 말 이후부터 신조선 인수가 예정되어 있으며, 현물 운임 악화 시 용선 부담 완화를 목표로 함<br>• 다만 24,000 TEU급 12척 발주는 CMA CGM일 가능성도 제기되고 있으며, 정확한 발주처 확인 필요</p><h3>Key Quotes</h3><p>• "It will start to address the shortage with a massive newbuilding program starting with a fresh series of new ship orders, comprising of a series of 24,000 teu, 19,000 teu and 18,600 teu ships that will only be delivered from late 2029" <br>(대규모 신조선 프로그램을 통해 2029년 말부터 인수될 24,000~18,600 TEU급 선박들로 부족분을 해결할 예정)</p><p>• "Maersk is widely believed to have invited Chinese and Korean yards to propose offers for around 20 ultra-large vessels of at least 24,000 teu"<br>(메르스크가 중국과 한국 조선소에 최소 24,000 TEU급 초대형선 약 20척에 대한 입찰 제안을 요청한 것으로 추정됨)</p><p>• "the rumoured 40-ship 'mega' order could add some 840,000 teu to Maersk's orderbook, pushing the carrier's newbuilding programme from 1.21m teu to 2.05m teu and 134 ships"<br>(예상되는 40척의 메가 발주는 메르스크의 신조선 규모를 120만 TEU에서 205만 TEU, 134척으로 확대할 수 있음)</p><h3>Technical Insights</h3><p>• **용선 시장과 신조선 전략의 연동**: 메르스크가 현물 용선 시장에서 적극적으로 톤수를 확보하면서 동시에 장기 신조선 발주를 추진하는 것은 용선료 변동성에 대응하고 장기 운영 효율성을 제고하는 산업 전략의 전환을 의미함</p><p>• **초대형선(Megamax) 중심의 함대 현대화**: 24,000 TEU급 초대형 컨테이너선 중심으로 신조선이 계획되고 있으며, 이는 연료비 절감, 운영 효율성 향상, 규모의 경제 확보를 위한 업계 추세를 반영함</p><p>• **중국 조선소의 영향력 강화**: 장쑤 양쯔강, 헝리 HI 등 중국 조선소가 메르스크, CMA CGM 등 글로벌 톱 선사의 신조선 발주처로 선정되는 것은 품질, 가격 경쟁력, 납기 신뢰성 측면에서 한국 조선소 대비 경쟁 우위를 보유하고 있음을 시사</p><p>• **선사별 선단 규모 경쟁 심화**: 메르스크의 신조선 발주 규모 증대로 인해 선사 간 선단 규모 격차가 더욱 확대될 것으로 예상되며, 초대형선 운영 능력과 금융 조달력이 향후 경쟁력의 핵심 요소로 작용할 것으로 전망됨</p></div>`,
+      tags: ["Container Shipping","Newbuilding Orders","Fleet Expansion","Maersk"],
+      link: "https://gcaptain.com/maersk-said-to-be-lining-up-massive-containership-order/",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
+
+// Auto-collected: 2026-07-13
+addEvents({
+  "2026-07-13": [
+    {
+      type: "accident",
+      title: "USCG Icebreaker 'Healy' Engineering Casualty - Arctic Mission Cancelled",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-09-16",
+      image: "https://gcaptain.com/wp-content/uploads/2026/07/Vigor-Healy-Leaving-Vigor-July-6.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• USCG 쇄빙선 'Healy'가 2026년 7월 13일 워싱턴 주 Port Angeles 북서쪽에서 심각한 기관 고장(engineering casualty)을 발생시킴<br>• Healy는 미 해안경비대의 3대 극지 대응 쇄빙선 중 하나로, 현재 시애틀 모항에서 조사 및 대규모 수리 중<br>• 2026년 고위도 북극 여름 임무 완전 취소로 미국의 북극 전략적 입지 약화<br>• 중국의 Xue Long 및 Xue Long 2 연구선박의 미국 배타적 경제수역 침입 감시 작전에 차질 발생<br>• Storis(2025년 취역, 20년 만에 도입된 신형 극지 쇄빙선)와 기타 자산으로 북극 주둔 유지 중<br>• 수리 일정 및 복구 가능성 미정, 미국의 러시아·중국 대항 북극 활동 제약</p><h3>Key Quotes</h3><br>• "CGC Healy will not complete its planned 2026 high-latitude summer mission. However, the Coast Guard is developing repair plans and evaluating the feasibility of additional operations." (Healy는 2026년도 예정된 고위도 북극 임무를 완료하지 못할 것이며, 해안경비대는 수리 계획을 수립하고 추가 작전의 실행 가능성을 검토 중)</p><p>• "The Coast Guard maintains a strong presence in the Arctic to control, secure, and defend the U.S. northern border and approaches, and uphold U.S. sovereignty against adversaries' aggressive economic and military actions in the Arctic." (미국 해안경비대는 북극에서 미국의 북부 국경과 진입로를 통제·보안·방어하고 적대국의 공격적인 경제·군사 활동에 대항하여 미국의 주권을 유지하기 위해 강력한 입지를 유지)</p><h3>Technical Insights</h3><br>• **극지 쇄빙선 공백의 전략적 영향**: 미국의 극한 환경 쇄빙 능력 제약으로 북극해 자유항행권 행사 및 해양 주권 보호 능력 단기 약화, 중국·러시아의 북극 활동 견제 능력 저하</p><p>• **극지 함정의 가용성 위기**: 미 해안경비대 극지 대응 쇄빙선 3척 중 1척 상실로 순환적 유지보수 및 배치 계획 차질, Storis 신형함의 운용 부담 증대 및 조기 피로 누적 가능성</p><p>• **공백 대응 자산의 한계**: 항공기 및 중형 함정(CGC Munro)으로 보충하는 방식은 연속 감시 및 쇄빙 능력 측면에서 본격적인 극지 작전(해빙 항해, 과학 조사 지원, 대규모 구조)의 전문성 부족</p><p>• **국제 극지 경쟁 격화**: 중국의 극지 연구선박 북상과 미국의 감시 작전 부진으로 북극해 자원 개발 및 해로 확보 경쟁에서 상대적 지위 하락, IMO 북극해 운항 규칙(Polar Code) 준수 감시 능력 약화</p></div>`,
+      tags: ["Icebreaker","Engineering Casualty","USCG","Arctic Operations","Ship Damage"],
+      link: "https://gcaptain.com/uscg-icebreaker-healy-will-not-complete-summer-arctic-mission-coast-guard-says/",
+      coords: [-122.76,48.12],
+      location: "Port Angeles, Washington / Arctic Region"
+    }
+  ]
+});
