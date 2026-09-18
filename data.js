@@ -16701,3 +16701,34 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-17
+addEvents({
+  "2026-09-17": [
+    {
+      type: "news",
+      title: "Finland Conducts Live Drill to Combat Undersea Sabotage Threats in Baltic Sea",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-09-17",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 핀란드 당국이 발틱해에서 수중 기반시설 파괴 위협에 대응하기 위한 실제 군함 탑승 훈련을 실시 - 헬리콥터를 통한 빠른 접근과 선박 수색 능력 시연<br>• 러시아의 우크라이나 침략 이후 2022년부터 전력선, 통신선, 가스관 등 수중 주요 인프라의 반복적인 손상 사건 발생<br>• 핀란드 해안경비대(Coast Guard) 사령관 일자 일린(Ilja Iljin)은 이러한 훈련이 "새로운 일상(new normal)"을 반영한다고 표명<br>• 선박의 급격한 속도/침로 변화가 수중 케이블 손상의 신호로 간주되며, 대응 시간이 첫 사건의 선박 도주에서 최근 사건의 수 시간 내 통제로 단축<br>• 앵커 드래그로 인한 우발적 손상뿐 아니라 다이버, 소형 잠수함, 폭발물 탑재 수중 로봇에 의한 의도적 파괴 가능성에 대비<br>• 핀란드 정부가 국기 미달 또는 위장 선박 검사 및 무인 수중 장비 개입 권한 확대를 추진 중</p><h3>Key Quotes</h3><p>• "In the past two or three years we've had several incidents in the Baltic related to the damaging of critical underwater infrastructure. So we have to be ready for when the next event happens." <br>(지난 2~3년간 발틱해에서 수중 주요 기반시설 손상과 관련된 여러 사건이 발생했으므로, 다음 사건에 대비해야 한다)</p><p>• "We have to be ready for when the next event happens"<br>(다음 사건에 대비해야 한다 - 위협이 계속될 것으로 예상)</p><h3>Technical Insights</h3><p>• **임해 보안 작전의 진화**: 핀란드의 대응 능력이 선박 도주 → 수시간 내 통제로 개선되었으며, 이는 해상 감시 체계와 신속 대응 프로토콜의 강화를 의미<br>• **선박 식별 기준 개발**: 수중 케이블 통과 시 속도/침로 이상 징후를 모니터링하는 기술적 지표 확립으로 수상 기반의 침해 감지 능력 향상<br>• **하이브리드 위협 대응**: 앵커 드래그 같은 우발적 손상뿐 아니라 첨단 수중 로봇(diving robots), 소형 잠수함 등 신기술을 이용한 의도적 파괴에 대비하는 다층 방어 전략 필요<br>• **국제 해역 법적 권한 확대**: 국기 미달(stateless) 또는 위장 선박에 대한 강제 검사 권한 강화 및 무인 수중 장비 개입 법안은 IMO 규정과의 조화 필요성 제기</p></div>`,
+      tags: ["Baltic Sea","Undersea Infrastructure","Sabotage Prevention","Coast Guard Operations","Critical Infrastructure Security","Finland"],
+      link: "https://gcaptain.com/finland-practices-ship-boardings-at-sea-to-stop-undersea-sabotage/",
+      coords: [25.5,59.5],
+      location: "Gulf of Finland, Baltic Sea"
+    },
+    {
+      type: "news",
+      title: "IMO Issues Critical Warning Over Escalating Attacks on Merchant Ships Across Global Trade Routes",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-09-17",
+      image: "https://gcaptain.com/wp-content/uploads/2026/09/SG-statement-banner_Sept-2026_medium-800x387.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• IMO 사무총장 아르세니오 도밍게스가 국제 무역로에서 상선 공격이 급증하고 있다고 경고, 호르무즈 해협에서만 2월 28일 이후 80건의 검증된 공격 발생<br>• 호르무즈 해협 공격으로 최소 22명의 선원 사망, 흑해·아조프해에서도 수십 명의 사망자 발생<br>• 홍해에서는 후티 반군의 8월 11일 공격으로 4명 선원 사망, 엘가이아·헤르큘레스 스타 등 최근 선박들이 피해<br>• 보안 위기로 약 400척의 선박(승무원 6,000명)이 페르시아만에서 안전하게 출항하지 못한 상태<br>• 도밍게스 사무총장은 국제 분쟁이 상선 공격의 구실로 악용되고 있다며 "무고한 선원들을 공격하지 말 것"을 촉구<br>• 호르무즈 해협, 흑해의 공격이 단일 행위자에 의한 것이 아니며 다중 세력이 관여하고 있음을 지적</p><h3>Key Quotes</h3><p>• "We are reaching a point where these conflicts are being used as a pretext to attack merchant vessels and innocent seafarers. Do not use these conflicts to attack innocent seafarers." (우리는 국제 분쟁이 상선과 무고한 선원들을 공격하기 위한 구실로 악용되고 있는 시점에 도달했다. 이런 분쟁을 이용해 무고한 선원들을 공격하지 말 것)</p><p>• "In the Strait of Hormuz, it is not only one country attacking merchant vessels. In the Black Sea and Sea of Azov, it is not only one country attacking merchant vessels." (호르무즈 해협에서 상선을 공격하는 것이 한 국가만이 아니며, 흑해와 아조프해에서도 한 국가만이 공격하는 것이 아니다)</p><h3>Technical Insights</h3><p>• **해양 보안 악화 추세**: 6개월간 공격 건수가 70건에서 80건으로 증가, 선원 사망자도 19명에서 22명으로 급증하여 상황이 빠르게 악화되고 있으며, 이는 글로벌 해운 산업의 구조적 위협으로 작용</p><p>• **국제항법통과권 침해**: IMO는 국제항해용 해협의 통행권이 위협받거나 방해되어서는 안 된다고 재확인했으나, 실제로는 다중 세력의 공격으로 인해 호르무즈 해협의 자유로운 통행이 심각하게 저해되고 있는 상황</p><p>• **선박 정체 및 경제적 영향**: 약 400척의 상선이 페르시아만에 갇혀 있어 전 지구적 해상 무역이 마비되고 있으며, 이는 국제 공급망과 에너지 가격 등에 광범위한 영향을 미치는 산업 위기</p><p>• **IMO 권한의 한계**: 도밍게스 사무총장이 기저 분쟁 해결이 IMO의 권한을 벗어난다고 인정하면서, 국제해사기구의 정치적·군사적 분쟁 해결 능력의 제약이 드러남</p></div>`,
+      tags: ["Maritime Security","Strait of Hormuz","Red Sea","Black Sea","Merchant Shipping Attacks","IMO Warning"],
+      link: "https://gcaptain.com/imo-sounds-alarm-as-attacks-on-merchant-ships-spread-across-global-trade-routes/",
+      coords: [53.5,26.1],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
