@@ -16640,3 +16640,64 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-17
+addEvents({
+  "2026-09-17": [
+    {
+      type: "news",
+      title: "Finland Conducts Subsea Sabotage Drills in Baltic Sea",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-17",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockpeter-173736.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 핀란드 당국이 발틱해에서 수중 파괴 위협에 대비하기 위한 실제 훈련을 실시하여 해양 보안의 새로운 기준을 제시<br>• 2022년 러시아의 우크라이나 침략 이후 전력 케이블, 통신선, 가스 파이프라인 등 주요 수중 인프라 손상 사건이 지속적으로 발생<br>• 해안경비대, 경찰, 군 장병들이 헬리콥터에서 로프를 타고 내려와 선박을 탈취하고 수색하는 모의훈련 실시<br>• 핀란드 당국은 선박의 속도/침로의 갑작스러운 변화가 수중선 위를 지나갈 때 손상 신호라고 판단<br>• 정부는 선박 정지·검색 권한 확대 및 무인 수중 장비 대응 등 새로운 법적 권한 도입 추진 중</p><h3>Key Quotes</h3><p>• "In the past two or three years we've had several incidents in the Baltic related to the damaging of critical underwater infrastructure. So we have to be ready for when the next event happens." (지난 2~3년간 발틱해에서 수중 주요 인프라 손상 사건이 여러 건 발생했으므로 다음 사건에 대비해야 한다)</p><p>• "The new normal" (새로운 일상)<br><li>핀란드가 수중 파괴 위협을 일상적 위험으로 인식하고 있음을 시사</li></p><h3>Technical Insights</h3><p>• 해양 보안 강화: 핀란드의 사례는 발틱해 지역의 주요 수중 인프라 보호를 위한 선제적 해양 보안 체계 필요성을 보여주는 중요한 사례로, IMO와 국제 해사 기구들의 규제 강화 촉구 가능성 높음</p><p>• 선박 식별 기술의 중요성: 앞으로 AIS 데이터와 인공지능 기반 선박 거동 패턴 분석이 이상 징후 감지에 핵심 역할을 할 것으로 예상되며, 자율 선박 기술도 이러한 모니터링 능력을 갖춰야 함</p><p>• 무인 수중 장비 규제: 드론, 미니 잠수함, 다이버 등에 의한 인위적 파괴에 대응하기 위해 해양 보안 관련 국제 규범 및 기술 기준 정립이 시급한 상황</p></div>`,
+      tags: ["Baltic Sea","Subsea Infrastructure","Sabotage Prevention","Maritime Security","Finland"],
+      link: "https://www.marinelink.com/news/finland-run-drills-board-search-vessels-543059",
+      coords: [25.7482,61.9241],
+      location: "Baltic Sea / Finland"
+    },
+    {
+      type: "news",
+      title: "Shipping Technology Launches ST Sailing Pro with Automatic Propulsion Control",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-17",
+      image: "https://images.marinelink.com/images/maritime/w800/shipping-technology-173717.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **ST Sailing Pro 출시**: Shipping Technology가 자동 조향 제어를 넘어 추진력 제어까지 지원하는 ST Sailing Pro 시스템을 출시하여 자율항해 단계적 진행 가속화</p><p>• **연료 효율성 향상**: 기존 ST Sailing의 5% 연료 감소에 더해 추진력 제어로 추가 10% 연료 절감 달성, 항해 초반 속력 설정이 주요 결정 요인</p><p>• **광범위한 검증 데이터**: 2018년부터 400+척 이상의 선박에서 수집한 데이터로 315,000시간 이상 항해 기록 및 440만km 운항 경험 축적</p><p>• **CCR 자동화 레벨 2 운영**: 선장 감시 하 Level 2 자동화 수준에서 운영되며, 목적지와 도착 시간 입력 시 시스템이 자동으로 침로와 엔진 출력 계산</p><p>• **다양한 선박 유형 검증**: 스러스터 구동 강 운송선, 종래식 건화물선, 유조선, 여객선 등 다양한 내륙 및 상업용 선박에서 6개월 이상 시험 진행 중</p><h3>Key Quotes</h3><p>• "the captain enters a destination and a desired arrival time, after which the system continuously calculates the course and engine power needed to meet it" (선장이 목적지와 희망 도착 시간을 입력하면 시스템이 지속적으로 필요한 침로와 엔진 출력을 계산)</p><p>• "On a normal sailing pattern, ST Sailing Pro reduces fuel consumption by a further 10 per cent on top of the 5 per cent already validated for ST Sailing" (일반적인 항해 패턴에서 ST Sailing Pro는 기존 5% 연료 절감에 추가로 10% 더 절감)</p><h3>Technical Insights</h3><p>• **단계적 자동화 전략**: CCR 자동화 척도의 Level 2에서 운영되어 선장의 계속된 감시 및 개입 가능성을 보장하며, 완전 자동화로의 과도 단계로서 산업 수용성 극대화</p><p>• **데이터 기반 시스템 고도화**: 8년간 누적된 4억km 이상의 항해 데이터가 추진력 제어 알고리즘 개발 속도를 획기적으로 단축하여, AI 기반 의사결정의 신뢰성 강화</p><p>• **IMO/국가 규제 대응**: 네덜란드 Rijkswaterstaat의 공식 검증으로 규제당국 인증 경로를 개척하고, Smart Shipping 허가 제도 활용으로 자율항해 상용화 타당성 입증</p><p>• **연료 절감의 경제성**: 초기 속력 설정의 중요성 강조로 AI 기반 최적화의 실질적 가치를 증명하며, 탄소 중립 해운 목표 달성에 기술적 솔루션 제시</p></div>`,
+      tags: ["autonomous shipping","AI navigation","propulsion control","fuel efficiency"],
+      link: "https://www.marinelink.com/news/shipping-technology-launches-st-sailing-543037",
+      coords: [5.2913,52.1326],
+      location: "Netherlands (Rijkswaterstaat validation)"
+    },
+    {
+      type: "news",
+      title: "Marines Test USV for Littoral Explosive Ordnance Disposal Operations",
+      source: "USNI News",
+      sourceMeta: "news.usni.org · 2026-09-17",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미 해병대가 연안 폭발물 무장해제 작전(Littoral Explosive Ordnance Neutralization System)을 위한 무인수상선(USV) 시험 실시<br>• PM CSS(전투지원체계 프로그램 관리자)와 PAE MC(해병대 포트폴리오 획득 담당자)가 캘리포니아 팬들턴 캠프에서 시험 주도<br>• 상용 USV에 자율 항해 기술과 소나, 열영상 카메라, 통신 시스템 등 다중 센서 탑재<br>• 연안 해역의 폭발물 위협에 대응하기 위한 능력 공백 해결 목표<br>• USV의 원격 조종과 자율 항해 기능으로 인명 피해 위험 감소 및 작전 효율성 증대<br>• 상용 무인 기술의 군사 응용 사례로서 해양 자율 플랫폼의 실전 활용 가능성 입증</p><h3>Key Quotes</h3><p>• "The trials were held in response to a littoral capability gap with the solution being a commercial USV equipped with integrated autonomous driving and payloads" (연안 능력 공백에 대응하기 위해 자율 항해 기능이 통합된 상용 무인수상선을 활용한 시험이 실시됨)</p><p>• "Sonar, Forward-Looking Infrared cameras, Line of Sight Communications and Acoustic Communications (AComms)" (소나, 열영상 카메라, 시선통신, 음향통신 등 다중 센서 페이로드 탑재)</p><h3>Technical Insights</h3><p>• **자율 항해 기술의 군사 적용**: USV의 자율 항해 기능은 원격 조종 능력과 결합되어 연안 해역에서의 폭발물 탐지 및 무장해제 작전의 안전성과 정확도를 극대화할 수 있음</p><p>• **다중 센서 통합 시스템**: 소나(수중 탐지), FLIR(열영상), LoS 및 음향통신 등 다양한 센서가 단일 USV 플랫폼에 통합되어 해양 재해물 탐지의 종합적 상황 인식(SA) 능력 제공</p><p>• **IMO 및 국제해사규칙 준수 과제**: 군사 목적의 자율 무인선이 증가함에 따라 COLREG 준수, 충돌회피 자율 알고리즘, 국제 규제 체계와의 조화 필요성 대두</p><p>• **민군 기술 전환 및 산업 파급효과**: 상용 USV 기술의 군사 채택은 해양 자율시스템 산업 활성화와 동시에 군사-민간 부문 간의 기술 표준화 필요성을 시사함</p></div>`,
+      tags: ["Unmanned Surface Vessel","USV","Autonomous Navigation","Military Operations","Explosive Ordnance Disposal"],
+      link: "https://news.usni.org/2026/09/17/marines-test-usv-for-littoral-explosive-ordnance-disposal-operations",
+      coords: [-117.2431,32.7267],
+      location: "Camp Pendleton, California"
+    }
+  ]
+});
+
+// Auto-collected: 2026-09-13
+addEvents({
+  "2026-09-13": [
+    {
+      type: "accident",
+      title: "Virgo Transport 8 Ferry Capsizing in Java Sea - 120+ Missing, Age Investigation Underway",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-09-17",
+      image: "https://maritime-executive.com/media/images/article/1789681925_6aac61056c7dd.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **대규모 인명피해 사건**: 인도네시아 여객선 Virgo Transport 8호가 2026년 9월 13일 자바해에서 캡사이징되어 120명 이상이 실종됨</p><p>• **선박 정보**: IMO 8625179, 1987년 건조된 39년 후생선으로 일본에서 운용되다가 2025년 6월 현명칭 채택, 2026년 3월 인도네시아 선적 등록</p><p>• **규제 변경 논점**: 인도네시아 무역부의 여객선 수입 나이 제한이 2021년 15년 이하에서 2024년 3월 더 완화된 규정으로 변경되었는데, 본선은 제한을 초과하는 나이로 도입됨</p><p>• **구조적 개조**: 선박이 인도네시아 서비스 전환 시 우현에 대규모 선체 개조가 실시되었으며, 선수미 근처에 2개의 측면 로로 램프 추가 장착</p><p>• **초기 원인**: 공식 발표로는 대형 파도의 영향으로 캡사이징된 것으로 추정되나, 선박 노후화가 사고에 영향을 미쳤는지는 조사 중</p><p>• **의원 주장**: 소프완 데디 아르디얀토 의원이 규제 적용 당시 절차 준수 여부 검토 촉구</p><h3>Key Quotes</h3><p>• "More than 120 people disappeared when the lost ferry Virgo Transport 8 capsized on September 13 in the Java Sea" (자바해에서 Virgo Transport 8호가 9월 13일 캡사이징되어 120명 이상이 실종됨)</p><p>• "Virgo Transport 8 was more than twice as old as this limit - but the limit might not have applied by the time she arrived" (본선은 규제 나이 제한의 2배 이상이었으나, 입항 당시에는 해당 규제가 적용되지 않았을 수 있음)</p><p>• "Early reports indicate that the vessel was hit by a large wave and capsized" (초기 보도에 따르면 선박이 대형 파도의 영향으로 캡사이징된 것으로 나타남)</p><h3>Technical Insights</h3><p>• **선박 노후화와 안전규제**: 여객선의 나이 제한 규제 완화가 해상안전에 미치는 영향을 재점검해야 하며, IMO와 각국 해양청의 노후선박 기준 통일의 필요성 대두</p><p>• **구조적 개조와 복원력**: 선박의 대규모 선체 개조(ro/ro 램프 추가)가 복원력(stability)과 내구성에 미친 영향에 대한 기술 검증 필요</p><p>• **선적 국가 규제 차이**: 인도네시아의 규제 변경(2024년 3월)으로 인한 규제 공백 문제가 노출되었으며, 개발도상국의 규제 시스템 강화와 국제 기준 준수 필요</p><p>• **사고 원인 규명과 기술적 증거**: 파도에 의한 캡사이징이 주요 원인으로 추정되지만, 선령 39년의 재료 피로(material fatigue)와 해수식(corrosion) 등이 복합적으로 작용했는지 과학적 조사 필요</p></div>`,
+      tags: ["capsizing","mass-casualty","ferry","investigation","vessel age","Indonesia"],
+      link: "https://maritime-executive.com/article/after-mass-casualty-capsizing-lawmaker-calls-for-a-look-at-ferry-s-age",
+      coords: [105.5,-6.5],
+      location: "Java Sea, Indonesia"
+    }
+  ]
+});
