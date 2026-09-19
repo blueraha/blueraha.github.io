@@ -16776,3 +16776,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-18
+addEvents({
+  "2026-09-18": [
+    {
+      type: "news",
+      title: "Italian Defense Minister Calls for Stronger Naval Protection in the Red Sea",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-18",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockalejandro-173760.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이탈리아 국방장관 Guido Crosetto는 홍해의 바브엘만데브 해협 지역에서 상선 보호를 위한 강화된 해군 배치를 촉구함<br>• EU의 Aspides 작전(2024년 출범)에 참여 중인 이탈리아와 그리스만이 실질적인 보안 노력을 지원하고 있다고 지적<br>• 바브엘만데브 해협은 폭이 29km로 아시아에서 유럽으로의 주요 해상 루트이며, 전 세계 석유 거래량의 약 7% 통과<br>• 이란 지원 예멘 후티군의 최근 전진으로 인해 호르무즈 해협과 함께 지역 보안 위협 심화<br>• 이탈리아는 EU의 "관료적 지연"을 우려하며 독자적 해군 작전 실행 결정<br>• 이탈리아 해운업 협회(Assarmatori)는 이탈리아 무역의 약 40%가 수에즈 운하를 경유한다고 보고</p><h3>Key Quotes</h3><p>• "After what I said, something moved within Aspides, but we need more ships" <br>  (내 발언 이후 Aspides 내에서 움직임이 있었지만, 우리는 더 많은 함정이 필요하다)</p><p>• "The only nations really supporting (security efforts) are Italy and Greece"<br>  (보안 노력을 실질적으로 지원하는 국가는 이탈리아와 그리스뿐이다)</p><p>• "European bureaucracy" delays could worsen the situation<br>  (유럽의 관료적 절차가 상황을 악화시킬 수 있다는 우려)</p><h3>Technical Insights</h3><p>• 바브엘만데브 해협의 해상 통행로 안보: 전 세계 석유의 약 7%, 이탈리아 무역의 40%가 경유하는 전략적 요충지로 자동화된 해상 감시 및 실시간 선박 추적 기술 중요성 증대</p><p>• IMO 규정 및 국제 해상 보안 프레임워크: 지역 분쟁 상황에서 자율운항선박(ASV) 또는 무인 해양 감시 시스템의 배치가 인명 손실 위험 감소 및 비용 효율성 제공 가능</p><p>• EU 대응 메커니즘의 한계: Aspides 작전의 조율 지연으로 인한 보안 공백은 해양 운송 자동화, AI 기반 위협 감지, 다국가 협력 플랫폼 필요성을 강조</p><p>• 상업 해운 업계의 영향: 홍해 통행 위협으로 인한 운송비 상승, 보험료 증가, 선적 경로 변경으로 인한 연료비 증가 등 해운산업 구조 변화 시사</p></div>`,
+      tags: ["Red Sea Security","Naval Protection","Bab el-Mandeb Strait","Houthi Attacks","EU Aspides Mission","Maritime Routes"],
+      link: "https://www.marinelink.com/news/italian-defense-minister-calls-stronger-543090",
+      coords: [43.1247,41.8719],
+      location: "Red Sea / Bab el-Mandeb Strait"
+    },
+    {
+      type: "news",
+      title: "Exmar FLNG Conversion Concept Receives Bureau Veritas Approval in Principle",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-18",
+      image: "https://images.marinelink.com/images/maritime/w800/credit-exmar-173755.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• Exmar가 Bureau Veritas로부터 기존 멤브레인식 LNG운반선을 부유식 액화천연가스(FLNG) 설비로 전환하는 개념에 대한 원칙적 승인(AiP)을 획득<br>• 전환된 선박은 약 170,000㎥의 LNG 저장용량과 25년의 설계수명을 갖춘 해상 가스 처리, 액화 및 저장 기능 제공<br>• 기존 LNG운반선 자산을 재활용함으로써 낮은 초기 자본 소요와 단축된 사업화 기간을 목표로 설계됨<br>• Bureau Veritas는 선체 구조, 안정성, 기존 LNG 화물 격납 시스템 및 FLNG 계류 배치에 대해 검증 실시<br>• 이번 AiP는 고립된 가스자원 개발 및 에너지 프로젝트의 유연하고 비용 효율적인 지원 가능성을 입증</p><h3>Key Quotes</h3><p>• "Floating liquefaction solutions already play an important role in unlocking offshore gas resources and supporting the development of energy projects in a flexible and cost-effective manner." (부유식 액화 솔루션은 해상 가스자원의 개발을 촉진하고 에너지 프로젝트를 유연하고 비용 효율적으로 지원하는 데 중요한 역할을 수행하고 있습니다.)</p><p>• "We are pleased to grant Approval in Principle (AiP) to Exmar's FLNG conversion concept, which demonstrates how existing LNG carrier assets can be repurposed to support future offshore developments." (기존 LNG운반선 자산을 향후 해상 개발 지원에 재활용할 수 있는 방법을 보여주는 Exmar의 FLNG 전환 개념에 원칙적 승인을 부여하게 되어 기쁩니다.)</p><h3>Technical Insights</h3><p>• **선박 재활용 기술 동향**: 기존 LNG운반선의 FLNG 전환 개념은 해양 자산의 생명주기 연장과 지속가능한 재활용 방안을 제시하며, 조선산업의 친환경 트렌드와 부합<br>• **규제 승인 프로세스**: Bureau Veritas의 AiP 단계 검증이 선체 구조, 안정성, 격납시스템, 계류 배치 등 다중 측면을 포괄하며 IMO 및 국제해사규칙 준수의 엄격한 기준 적용<br>• **산업 경제성 개선**: 신규 건조 대비 기존 선박 개조 방식으로 초기 자본투자와 건조기간을 단축하여 부동산 프로젝트의 투자수익률(ROI) 향상 및 경쟁력 강화<br>• **해상 에너지 인프라 확장**: FLNG 기술의 다양화로 고립된 가스전(stranded gas fields) 개발이 가능해져 전 지구적 에너지 안보 및 신흥국 경제 발전에 기여</p></div>`,
+      tags: ["FLNG","LNG Carrier Conversion","Bureau Veritas","Offshore Gas Development","Floating Liquefaction"],
+      link: "https://www.marinelink.com/news/exmar-flng-conversion-concept-gets-bureau-543085",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "ATE Energy OCEANUS 1 Cable Laying Vessel Enters Service in Taiwan",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-18",
+      image: "https://images.marinelink.com/images/maritime/w800/oceanus-energy-173754.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• ATE Energy International과 Synergy Marine Group이 신규 해저 케이블 포설 전용선 OCEANUS 1호를 대만 가오슝항에 인수받아 본격 운영 개시<br>• 베트남 Pacific Shipbuilding에서 건조된 OCEANUS 1호는 DPS-2 등급의 Offshore Support Vessel(Cable Lay)로 8,000톤 케이블 카루셀과 250톤 유압 A-프레임 장착<br>• 대만해협 및 인도태평양 지역의 해상풍력, 해저전력전송, 해저 인프라 프로젝트 수행 용도로 설계된 다목적 포설 플랫폼<br>• Synergy Marine Group이 선박 기술 및 승무원 관리 담당, Mermaid Subsea Services(태국)가 케이블 포설 프로젝트 관리 지원<br>• 제트 쟁기(Jet Plough)와 SMD Quasar III ROV 장착으로 단일 작업으로 케이블 포설 및 매장 가능, 모듈식 작업갑판으로 다양한 해양 엔지니어링 수행 가능</p><h3>Key Quotes</h3><p>• "OCEANUS 1 arrived in Kaohsiung on September 16 following her handover at the shipyard. The vessel adds to Taiwan's domestic capability in subsea cable installation and marine engineering." (선박은 9월 16일 가오슝에 도착했으며 대만의 해저 케이블 설치 및 해양 엔지니어링 역량을 강화)</p><p>• "Her modular work deck can be configured for cable transport, trenching, cable protection, jointing and survey work, allowing the vessel to support offshore wind cable installation, subsea power transmission and other marine infrastructure projects." (모듈식 작업갑판으로 케이블 운반, 굴착, 보호, 접합, 조사 등 다양하게 구성 가능하여 해상풍력 케이블 설치 및 해저전력전송 지원)</p><h3>Technical Insights</h3><p>• DPS-2(Dynamic Positioning System-2) 등급 보유로 악천후 및 강한 해류 환경에서 정밀 위치 유지 가능, 대만해협의 복잡한 해상 환경에 최적화된 설계<br>• 제트 쟁기와 ROV 통합 시스템으로 케이블 포설·매장 작업의 효율성 극대화, 해상풍력 및 재생에너지 인프라 구축 가속화에 기여<br>• 모듈식 갑판 구성으로 케이블 포설, 해저 파이프라인, 전력 인프라 등 다양한 해양 엔지니어링 프로젝트 수행 가능, 인도태평양 지역 해양 인프라 시장 수요 충족<br>• 지역 기반 선박 관리체계(대만 Synergy Marine, 태국 Mermaid Subsea) 구축으로 아시아태평양 해양 서비스 네트워크 강화, 대만 중심의 서브리전 허브 역할 기대</p></div>`,
+      tags: ["Cable Laying Vessel","Subsea Infrastructure","Taiwan Strait","Offshore Energy","DPS-2"],
+      link: "https://www.marinelink.com/news/ate-energy-oceanus-cable-laying-vessel-543084",
+      coords: [120.2708,22.6151],
+      location: "Kaohsiung, Taiwan"
+    }
+  ]
+});
