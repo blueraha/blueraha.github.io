@@ -16732,3 +16732,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-18
+addEvents({
+  "2026-09-18": [
+    {
+      type: "news",
+      title: "Hanwha Ocean's Multi-Fuel LNG Carrier Design Gets ABS Approval for Ammonia Transition",
+      source: "Offshore Energy - Tech",
+      sourceMeta: "offshore-energy.biz · 2026-09-18",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/09/ABS.jpg?image-crop-positioner-ts=1789736213",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **한화오션의 다목적 연료탱크 설계가 ABS로부터 기본승인(AIP) 획득** - LNG 및 암모니아 연료 전환이 가능한 통합 연료공급 시스템이 국제선급협회로부터 공식 승인을 받음</p><p>• **기존 연료탱크 교체 없이 암모니아로의 전환 가능** - 가스터빈 구동 전기추진 LNG운반선이 탱크와 FGSS(연료가스공급장치) 교체 없이 암모니아 연료 사용 가능한 혁신적 설계</p><p>• **규제 환경 변화에 대응하는 실질적 솔루션** - 해운사들의 장기 경쟁력 유지와 탄소중립 달성을 동시에 지원하는 유연한 기술 경로 제시</p><p>• **ABS와의 다년간 협력 성과** - 2023년 암모니아 가스터빈 추진시스템 AIP, 2024년 가스확산 안전성 평가에 이은 연속적 개발 성과</p><p>• **해운산업의 넷제로 경로 명확화** - 규제 불확실성에도 불구하고 업계의 지속가능한 해운 기술 개발 가속화 추세 반영</p><h3>Key Quotes</h3><p>• "Fuel flexibility is a practical requirement for owners navigating an evolving regulatory environment, and the engineering challenge of achieving it without tank replacement is significant." <br>(연료 유연성은 변화하는 규제 환경을 헤쳐나가는 선사들의 실질적 요구이며, 탱크 교체 없이 이를 달성하는 공학적 과제는 매우 도전적이다)</p><p>• "Hanwha Ocean's multi-purpose fuel design offers shipowners a practical and flexible pathway from LNG to ammonia while safeguarding long-term competitiveness."<br>(한화오션의 다목적 연료 설계는 선사들에게 LNG에서 암모니아로의 실질적이고 유연한 전환 경로를 제공하면서 장기 경쟁력을 동시에 보장한다)</p><h3>Technical Insights</h3><p>• **선박 개조 최소화를 통한 경제성 향상** - 기존 LNG운반선의 탱크와 FGSS를 재사용하면서 암모니아 전환이 가능한 설계는 선사의 개조비용 대폭 절감 및 투자수익률 개선에 기여</p><p>• **IMO 탄소중립 규제 대응의 실질적 기술 검증** - ABS의 AIP 획득으로 암모니아 연료의 안전성과 기술적 타당성이 국제적으로 공인되어 IMO 규제 강화 대비 신뢰도 제고</p><p>• **멀티연료 시스템으로의 산업 전환 촉진** - 규제 불확실성 하에서 기존 연료(LNG)와 친환경 연료(암모니아) 간의 유연한 전환 옵션 제공으로 해운사들의 투자 결정 용이화 및 기술 표준화 가속화</p><p>• **선급협회의 혁신 기술 승인 역할 강화** - ABS의 적극적 기본승인으로 신규 친환경 추진 기술 개발의 신뢰성 강화 및 업계 표준화 리더십 입증</p></div>`,
+      tags: ["Ammonia Fuel","LNG Carrier","ABS Approval","Fuel Flexibility","Decarbonization","Maritime Technology"],
+      link: "https://www.offshore-energy.biz/hanwha-oceans-design-solution-allowing-lng-carriers-switch-to-ammonia-gets-abs-thumbs-up/",
+      coords: [126.978,37.5665],
+      location: "South Korea (Hanwha Ocean)"
+    },
+    {
+      type: "news",
+      title: "Exmar's FLNG Conversion Earns Bureau Veritas Approval in Principle",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-09-18",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/09/Exmar_FLNG_07-1024x530-1.jpg?image-crop-positioner-ts=1789732662",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 벨기에 해운사 Exmar가 Bureau Veritas로부터 부유식 천연가스 액화(FLNG) 변환 설계에 대한 원칙적 승인(AiP)을 획득했으며, 이는 기존 멤브레인식 LNG 운반선 개조에 기반함</p><p>• 본 FLNG 설계는 약 170,000입방미터의 LNG 저장 용량과 25년 설계 수명을 갖춘 해상 가스 처리, 액화 및 LNG 저장 기능을 제공</p><p>• Bureau Veritas의 평가는 선체 구조 및 안정성, 기존 LNG 화물 격납 시스템, FLNG 계류 장치에 중점을 두어 실시됨</p><p>• 신규 건조선 대신 기존 LNG 운반선 개조를 활용함으로써 개발 일정 단축 및 초기 자본 투자 감소 가능</p><p>• 부유식 액화 솔루션은 해상 가스 자원 개발을 위한 비용 효율적이고 유연한 대안으로 기능하며, 고립된 가스 자원 개발 시 빠른 상용화 실현 가능</p><p>• Exmar는 최근 LNG 벙커링 시장용 부유식 환적 장치(FTU)로 업그레이드될 LNG 운반선도 인수함</p><h3>Key Quotes</h3><p>• "Floating liquefaction solutions already play an important role in unlocking offshore gas resources and supporting the development of energy projects in a flexible and cost-effective manner" (부유식 액화 솔루션은 해상 가스 자원 개발 및 에너지 프로젝트 개발을 유연하고 비용 효율적으로 지원하는 중요한 역할을 수행하고 있음)</p><p>• "This project highlights how collaboration across the industry can drive innovative and practical solutions that combine technical feasibility with project efficiency" (본 프로젝트는 업계 전반의 협력이 기술적 실현 가능성과 프로젝트 효율성을 결합한 혁신적이고 실질적인 솔루션을 어떻게 추진할 수 있는지를 보여줌)</p><h3>Technical Insights</h3><p>• 기존 LNG 운반선의 개조를 통한 FLNG 전환은 신규 건조 대비 개발 일정을 단축하고 초기 투자 비용을 절감할 수 있는 실질적인 해상 에너지 솔루션으로 평가됨</p><p>• Bureau Veritas의 AiP 획득은 부유식 액화 기술의 기술적 타당성을 검증하는 것으로, 해상 가스 처리 장치의 안정성 및 안전 기준 충족을 의미함</p><p>• 멤브레인식 화물 격납 시스템의 재활용 및 계류 시스템의 적용성 검토는 기존 선박 자산의 이중 활용(dual-use) 기술 트렌드를 반영하고 있음</p><p>• 부유식 환적(FTU) 및 액화(FLNG) 기술의 개발은 해상 에너지 인프라의 유연성을 높이고 글로벌 에너지 공급망 다각화에 기여할 것으로 예상됨</p></div>`,
+      tags: ["FLNG","LNG Carrier Conversion","Bureau Veritas","Offshore Gas Processing","Floating Liquefaction"],
+      link: "https://www.offshore-energy.biz/exmars-flng-conversion-earns-bureau-veritas-seal-of-approval/",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "Vietnam-built cable layer vessel Oceanus 1 enters service in Taiwan",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-09-18",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/09/Oceanus-1-1024x683.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 베트남 태평양조선소(Pacific Shipbuilding)에서 건조된 케이블 매설선 오세아너스 1호가 대만 가오슈 항에 도착해 가동을 시작했으며, ATE Energy International이 운영하는 선박임</p><p>• 선박은 대만 해협의 해상 조건에 맞게 설계되었으며 8,000톤 케이블 탑재 능력, DPS 2 동적 포지셔닝, 250톤 유압 A-프레임 및 SMD Quasar III ROV 등 최신 장비를 갖추고 있음</p><p>• 선박 관리는 Synergy Marine Group의 대만 지역 및 지역 사무소에서, 케이블 매설 프로젝트 관리는 Mermaid Subsea Services(태국)에서 담당하며, ATE의 해저 케이블 부서가 선박 운영을 감독함</p><p>• 77명의 인원 수용 가능한 다목적 모듈식 작업 갑판을 보유하고 있어 해상풍력 케이블 설치, 해저 전력 송전, 해양 기반 시설 프로젝트 등 다양한 해상 에너지 프로젝트에 활용 가능함</p><p>• 대만의 전용 케이블 설치 능력 강화로 지역 해상 에너지 및 해저 기반 시설 프로젝트 지원 능력이 크게 향상될 것으로 예상됨</p><h3>Key Quotes</h3><p>• "OCEANUS 1 gives Taiwan dedicated cable installation capability, based at home and designed around the operating conditions of the Taiwan Strait. It strengthens our ability to support offshore energy and subsea infrastructure projects in Taiwan, while giving us the flexibility to serve opportunities elsewhere in the world" (오세아너스 1호는 대만에 전용 케이블 설치 능력을 제공하며 대만 해협의 해상 조건에 맞게 설계되어 지역 해상 에너지 및 해저 기반 시설 프로젝트 지원 능력을 강화함)</p><p>• "OCEANUS 1 will spend long periods working offshore, where station keeping, machinery reliability and the experience of the crew all determine what can be achieved" (오세아너스 1호는 장시간 해상에서 운영되며, 정위 능력, 기계 안정성, 승무원 경험이 프로젝트 성공의 핵심 요소임)</p><h3>Technical Insights</h3><p>• 고급 DPS 2 동적 포지셔닝 시스템과 250톤 유압 A-프레임은 악천후 대만 해협 환경에서의 정밀한 케이블 매설 작업을 가능하게 하는 핵심 기술임</p><p>• 모듈식 작업 갑판 설계는 케이블 운송, 파이핑, 케이블 보호, 접합 및 측량 등 다양한 해상 기반 시설 프로젝트에 유연하게 대응 가능하게 함</p><p>• 베트남 조선소 건조 및 지역 기반 운영 체계는 아시아 태평양 지역의 해상 에너지 인프라 구축에 필요한 현지화된 기술 공급 체인 확보를 의미함</p><p>• 대만 해협의 전용 케이블 매설선 확보는 지역 재생에너지(해상풍력) 프로젝트 추진 속도 가속화 및 국제 해저 통신 인프라 구축에 기여할 것으로 예상됨</p></div>`,
+      tags: ["Cable Laying Vessel","Taiwan Strait","Subsea Infrastructure","Offshore Energy"],
+      link: "https://www.offshore-energy.biz/vietnam-made-cable-layer-enters-into-service-in-taiwan/",
+      coords: [120.3,22.3],
+      location: "Kaohsiung, Taiwan"
+    }
+  ]
+});
