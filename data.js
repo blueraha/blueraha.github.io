@@ -16882,3 +16882,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-17
+addEvents({
+  "2026-09-17": [
+    {
+      type: "news",
+      title: "Indonesia Takes Delivery of Former Italian Aircraft Carrier ITS Giuseppe Garibaldi as KRI Gajah Mada",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-09-17",
+      image: "https://maritime-executive.com/media/images/article/1789697365_6aac9d551d118.jfif",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 이탈리아 해군의 첫 번째 항공모함 ITS 주세페 가리발디(1985년 건조)가 인도네시아에 무상 양도되어 KRI 가자마다로 명명되었으며, 9월 17일 자카르타에 도착함</p><p>• 인도네시아 해군은 배의 자체 비용은 무료였으나 약 6,000만 달러의 장거리 항해 비용을 부담했으며, 추가적으로 현대화와 기반시설 구축에 대규모 투자 계획 중</p><p>• 이탈리아가 해체 비용을 피하기 위해 무상 양도를 선택했으며, 40년간 코소보, 아프가니스탄, 리비아 등 다양한 분쟁에 참여한 베테랑 함선</p><p>• 인도네시아는 헬리콥터 항모로 운용할 계획이며, 향후 드론 항모로의 개조 가능성도 검토 중으로 재난 대응 임무 중심 운영 예정</p><p>• 수마트라 라타이 베이 해군기지에 전용 선석과 지원 시설 구축 중으로 동남아 해역 인도네시아의 해상 력 강화에 기여할 것으로 예상</p><h3>Key Quotes</h3><p>• "The vessel served Italy in multiple conflicts over the span of 40 years, but has been out of commission since 2024; she has been gifted to the Indonesian government and will be revived as a helicopter carrier." (이 함선은 40년간 이탈리아에 복무했지만 2024년부터 운영이 중단되었고, 인도네시아 정부에 무상 양도되어 헬리콥터 항모로 재활용될 예정)</p><p>• "After study, the Italian Navy determined that the most economical course of action would be to gift the carrier to Indonesia, thereby avoiding the expense of upkeep and an approved demolition plan." (이탈리아 해군은 유지비 및 해체 비용을 피하기 위해 인도네시아에 무상 양도하는 것이 가장 경제적이라고 판단)</p><h3>Technical Insights</h3><p>• **함선 재활용 가치** - 1985년 건조된 40년 된 함선이지만 여전히 작전 가능한 상태로 개발도상국 해군의 전력 강화에 효과적인 비용 절감 방안 제시</p><p>• **동남아 해역 해양력 변화** - 인도네시아의 헬리콥터 항모 운용으로 말라카 해협 및 인도 태평양 지역의 해상 안보 동학 변화 가능성 있으며, 역내 해양 다자주의 영향 증대</p><p>• **드론/무인화 전환 추세** - 전통 항공모함에서 드론 항모로의 현대화는 IMO 무인선박 규제와 별개로 군사 분야에서 진행되는 자율화 트렌드 반영</p><p>• **국방 조달 효율성** - 선진국의 과다 보유 자산을 개발도상국에 양도하는 방식은 국제 해사 안보 협력 강화 및 지속가능한 해양 자산 활용 모델로 평가 가능</p></div>`,
+      tags: ["Aircraft Carrier","Indonesian Navy","Naval Transfer","ITS Giuseppe Garibaldi","KRI Gajah Mada","Military Shipbuilding"],
+      link: "https://maritime-executive.com/article/indonesia-takes-delivery-of-a-free-aircraft-carrier",
+      coords: [106.8456,-6.2088],
+      location: "Jakarta, Indonesia"
+    },
+    {
+      type: "news",
+      title: "Turkey Proposes Expanded 'Grain Initiative' to End Black Sea Maritime Strikes",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-09-17",
+      image: "https://maritime-executive.com/media/images/article/1789706772_6aacc21438b2f.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 터키 정부가 흑해의 러시아-우크라이나 해상 공격을 종료하기 위한 확대된 곡물 회랑(Grain Initiative) 초안을 제안했으며, 모스크바와 키이우에 양측 협정(MOU) 초안을 전달함</p><p>• 기존 2022-2023년 흑해 곡물 회랑은 터키의 중재로 성사되었으나 러시아가 2023년 중반 일방적으로 철회했고, 양측의 해상 공격이 재개됨</p><p>• 확대된 안은 흑해 서측의 우크라이나 곡물 수송로와 남측·동측의 러시아 선박 안전 회랑을 포함하며, 터키-조지아 영해를 통한 지정 항로 제공</p><p>• 터키 해운사는 러시아-우크라이나 양측과 무역 관계를 가지고 있어 민간 선박 공격으로 피해를 입고 있으며, 터키 선원들이 불균형적으로 영향을 받고 있음</p><p>• 터키 농업외교그룹(TTDG)은 곡물터미널 공격 금지, 선박 등록 및 검증 프로그램, 정부 지원 전쟁 위험 보험 등을 포함한 더욱 포괄적인 제안 제시</p><h3>Key Quotes</h3><p>• "Russia has attacked civilian shipping on and off throughout the war, with the exception of a temporary and partial maritime ceasefire for bulkers carrying Ukrainian grain" (러시아는 우크라이나 곡물을 운반하는 벌크선에 대한 임시적·부분적 해상 휴전을 제외하고 전쟁 내내 민간 선박을 공격해왔음)</p><p>• "Turkish shipping companies are involved in both Russian and Ukrainian trade routes, and Turkish ships and seafarers have suffered disproportionately from the escalating attacks from both sides" (터키 해운사들은 러시아-우크라이나 양측 무역로에 관여하고 있으며, 터키 선박과 선원들이 양측의 에스컬레이션된 공격으로 불균형적인 피해를 입고 있음)</p><h3>Technical Insights</h3><p>• **해상 회랑 설계**: 흑해의 동·서 양측에 별도의 안전 항로를 설정함으로써 대립하는 양측의 해상 이익을 동시에 고려하는 타협적 지정항로 체계 구현</p><p>• **IMO 및 국제법적 함의**: 분쟁지역 내 민간 해운의 안전 보장을 위한 국제적 조정 메커니즘으로서 터키의 중재 역할이 강화되며, 해상 이용의 자유 원칙과 중립국의 역할에 대한 실질적 모델 제시</p><p>• **산업 보험 메커니즘**: 정부 지원 전쟁 위험 보험(war risk insurance)을 통해 분쟁지역 해운의 경제적 지속가능성을 확보하고, 선박 검증 및 등록 프로그램으로 국제 규범 준수 강제</p><p>• **해운 중립성과 규제**: 곡물 터미널·인프라 공격 금지 등 상업 목표물 보호 규정은 COLREG 및 전쟁법(Law of Armed Conflict at Sea) 원칙과 연계되어 있으며, 민간 해운의 안전 기준을 국제 분쟁 상황에 적용하는 선례가 될 수 있음</p></div>`,
+      tags: ["Black Sea","Grain Corridor","Maritime Ceasefire","Turkey","Russia-Ukraine"],
+      link: "https://maritime-executive.com/article/turkey-proposes-an-expanded-grain-initiative-to-end-black-sea-strikes",
+      coords: [35.1264,43.589],
+      location: "Black Sea"
+    },
+    {
+      type: "news",
+      title: "Foreign Ships Operating Under Jones Act Waiver Without Reporting to MARAD",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-09-17",
+      image: "https://maritime-executive.com/media/images/article/Photos/Vessels_Large/Oil-Tanker-Delaware-River-iStock-1471337334.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **미보고 위반 사건**: 블룸버그의 조사에 따르면 최소 12척의 외국 선박이 미 해운청(MARAD)에 필수 신고 없이 미국 연안 무역에 종사한 것으로 적발됨</p><p>• **존 액트 면제 조항 악용**: 트럼프 행정부의 국방 면제 조항(11월 15일까지 연장)을 이용한 에너지 화물 운송 중 보고 의무를 이행하지 않음</p><p>• **법적 요구사항 위반**: 46 U.S.C. § 501(c)에 따라 항해 10일 이내 선박명, 화주, 기항지, 적화물, 국방 관련성 등을 MARAD에 신고해야 함</p><p>• **국내 해운업 피해**: 미국 해운업계와 의회 지도층이 강력히 반대하는 가운데, 저임금 외국 선사들의 가격 경쟁이 국내 해운 투자 의욕을 저하시킴</p><p>• **감시 강화 촉구**: 미국 해양 파트너십(American Maritime Partnership)은 행정부에 면제 조항 폐지와 의회의 강력한 감시를 촉구</p><p>• **주요 운영 지역**: 면제 조항 활용의 중심지인 멕시코만 정유 지역에서 대부분의 무신고 항해가 발생</p><h3>Key Quotes</h3><p>• "It's outrageous that foreign operators are not reporting their movements under the waiver. Reporting is specifically required by law, which was emphasized in the U.S. Customs and Border Protection notice of the waiver." (외국 선사들이 면제 조항 하에서 항해를 보고하지 않는 것은 분명히 법으로 규정된 의무를 위반하는 행위로, 매우 심각한 문제)</p><p>• "It's time for the administration to end the waiver, and it's also time for Congress to conduct vigorous oversight of the waiver process." - Jennifer Carpenter, American Maritime Partnership (행정부는 면제 조항을 폐지해야 하며, 의회는 면제 조항 운영에 대한 강력한 감시 역할을 수행해야 함)</p><h3>Technical Insights</h3><p>• **보고 제도의 실효성 문제**: MARAD의 사후 보고 제도(10일 이내)만으로는 법적 준수를 강제하기 어려우며, 실시간 감시 체계(AIS 기반) 강화 필요</p><p>• **IMO SOLAS 및 국가 통제항 감시 규정과의 충돌**: 선박의 모든 기항지 통지의무와 국내 법규 준수 의무 간 조화 필요, 국제 규정과 국내 규정의 효율적 연계 체계 구축 시급</p><p>• **미국 해운 산업 정책 관점의 갈등**: 존 액트 보호 정책의 의도(국내 해운산업 육성)와 현실(무신고 외국 선박의 사각지대)의 괴리로 인한 제도적 보완 필요</p><p>• **규제 환경과 경제성의 불균형**: 저임금 외국 선사의 무보고 운영으로 인한 규제 회피 사례 증가 시 국내 선사의 경쟁력 약화 및 신규 선박 투자 부진 심화 우려</p></div>`,
+      tags: ["Jones Act","Regulatory Compliance","MARAD","Coastwise Trade","Energy Cargoes"],
+      link: "https://maritime-executive.com/article/report-some-foreign-ships-aren-t-reporting-jones-act-waiver-voyages",
+      coords: [-93.75,29.76],
+      location: "Gulf Coast, United States"
+    },
+    {
+      type: "news",
+      title: "Turkish Owner Files War Crimes Complaint at ICC Over Ukrainian Attack on Bulker Reyhan Sari",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-09-17",
+      image: "https://maritime-executive.com/media/images/article/Photos/Wreckage_Salvage/Reyhan-Sari-struck-by-Ukrainian-drone.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 터키 선주 T&O Den지직(Denizcilik)과 선원들이 2026년 7월 22일 우크라이나의 무인기 공격으로 사망한 선원의 가족, 그리고 생존 선원들과 함께 국제형사재판소(ICC)에 전쟁범죄 고소장을 제출했음</p><p>• 터키 국적 벌크선 레이한 사리(Reyhan Sari, 36,075톤)가 러시아 노보로시스크 인근 흑해에서 피격되어 기관실 근무 중이던 54세 선원 사바스 차카르(Savas Cakar)가 사망하고 15명 중 다수가 부상</p><p>• 고소장에서는 우크라이나가 선원 거주 구역을 의도적으로 표적으로 하여 민간인 살해를 시도했으며, 불법 대인지뢰탄과 장갑관통탄을 사용했다고 주장</p><p>• ICC 검사는 고소장과 증거자료를 검토하여 재판소의 관할권과 범죄 기준 충족 여부를 판단 후 공식 수사 개시 및 사법 절차 진행 여부 결정</p><p>• 터키는 2022년 이후 최소 25척의 터키 선박이 피격되었으며, 흑해 민간선박 공격 중단을 위한 휴전 제안을 러시아와 우크라이나에 제출한 상태</p><p>• 터키는 2022년 유엔 곡물 회랑 설립에 주도적 역할을 했으며, 분쟁 중재를 위해 지속적으로 노력 중</p><h3>Key Quotes</h3><p>• "They are alleging that Ukraine deliberately struck the ship specifically in the accommodation area with the intent to kill civilians." (우크라이나가 민간인 살해 의도로 선원 거주 구역을 의도적으로 표적으로 했다는 주장)</p><p>• "Turkey has been calling for a de-escalation of hostilities and specifically the targeting of merchant ships by both Russia and Ukraine." (터키는 러시아와 우크라이나 양국의 상선 공격 중단 및 적대행위 완화를 촉구해왔음)</p><p>• "At least 25 Turkish vessels have been struck since hostilities intensified in June." (6월 이후 적대행위 심화로 최소 25척의 터키 선박이 피격됨)</p><h3>Technical Insights</h3><p>• **국제법적 기준**: ICC는 전쟁범죄 고소장에 대해 엄격한 법적 기준을 적용하며, 민간선박 공격이 의도적이었는지, 군사적 필요성이 있었는지 등을 구분하여 판단. 현재 우크라이나-러시아 분쟁 관련 ICC 수사 현황과 본 고소의 처리 절차가 주목됨</p><p>• **흑해 해상 안전**: 분쟁 지역 상선의 안전을 위해 해상교통관리, 중립지대 설정, 민간선박 통행로 보호 등의 제도화 필요성 대두. 터키의 중재 역할이 중요한 상황</p><p>• **국제해사규칙 적용**: COLREG 및 해상법 관련 국제규칙이 분쟁 지역에서 제대로 작동하지 않으며, IMO 차원의 흑해 해상안전 보호 메커니즘 강화 필요</p><p>• **상선의 민간인 보호**: 분쟁 지역에서 상선을 거주지역이 아닌 군사시설로 간주하는 관행의 문제점이 대두되며, 국제해사기구의 상선 보호 지침 강화와 선박 식별(AIS 운영) 등의 보호 방안 필요</p></div>`,
+      tags: ["War Crimes","Black Sea","Ukraine-Russia Conflict","Merchant Ship Attack"],
+      link: "https://maritime-executive.com/article/turkish-owner-and-crew-file-war-crimes-complaint-over-ukrainian-ship-attack",
+      coords: [37.76,44.67],
+      location: "Black Sea, near Novorossiysk"
+    }
+  ]
+});
