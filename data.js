@@ -16820,3 +16820,65 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-19
+addEvents({
+  "2026-09-19": [
+    {
+      type: "news",
+      title: "U.S. Army Awards $10.6M Contract for Ukrainian Raybird Unmanned Aircraft",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-09-19",
+      image: "https://defence-blog.com/wp-content/uploads/2026/09/DB_image_2848.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 육군이 우크라이나 회사 Skyeton의 Raybird 무인항공기에 $10.6백만 규모 계약 체결 - Army Contracting Command at Redstone Arsenal에서 발주<br>• Raybird는 소형 고정익 감시용 드론으로 최대 28시간 비행 가능, 2,500km 이상 항속거리, 5,500m 고도 운용 가능한 장거리 정찰 플랫폼<br>• 우크라이나에서 2022년 러시아 침공 이후 35만 시간 이상의 전투 비행 기록 달성 - 낮은 손실률과 전자기 재밍 저항성 입증<br>• Skyeton은 영국의 Prevail Partners와 합작회사(Skyeton Prevail Solutions) 설립, 프랑스 센서 제조사 Harmattan AI와 AI 기반 페이로드 통합 협력 중<br>• 수소연료전지 버전 개발 및 위성통신 시스템 추가로 데이터 링크 거리 제한 제거 - 2025년 12월부터 우크라이나에서 실전 테스트 중</p><h3>Key Quotes</h3><p>• "Raybird has flown more than 350,000 combat hours for Ukrainian forces, mostly on long-range reconnaissance missions" (Raybird는 우크라이나군을 위해 35만 시간 이상의 전투비행을 수행했으며, 주로 장거리 정찰 임무에 투입됨)</p><p>• "the company has marketed that record as evidence of low attrition rates and resilience against electronic jamming" (회사는 이러한 기록을 낮은 손실률과 전자기 재밍에 대한 저항성의 증거로 마케팅)</p><p>• "In the past year, Skyeton has added satellite communications to the system to remove range limits on its data link" (지난 1년간 Skyeton은 시스템에 위성통신을 추가하여 데이터 링크의 거리 제한을 제거함)</p><h3>Technical Insights</h3><p>• **장거리 정찰 무인기의 실전 입증** - Raybird의 35만 시간 우크라이나 전투 기록은 장거리 감시 드론의 신뢰성과 전자전 환경에서의 운용 가능성을 확실히 입증하며, 이는 NATO 국가들의 신뢰 확보에 중요한 요소</p><p>• **상용 무인항공기의 군사화 추세** - 우크라이나 회사의 민간 항공기 기술(2006년 경량 스포츠 항공기 제조)이 무인정찰 플랫폼으로 전환되어 NATO 국가들의 채용으로 이어지는 사례로, 디지털 시대 군사 기술의 급속 발전 반영</p><p>• **다국적 협력을 통한 플랫폼 고도화** - AI 기반 센서 통합, 위성통신 추가, 수소연료전지 버전 개발 등 국제 파트너십을 통해 무인기 성능을 지속적으로 향상시키는 모습은 차세대 감시 시스템의 발전 방향을 시사</p><p>• **NATO 동맹국 간 신기술 상호 도입** - 우크라이나(전장 검증) → 폴란드(현지 유통) → 영국(Watchkeeper 대체 검토) → 미국(대규모 계약) 순의 확산은 NATO 진영 내 자유진영 국가들의 기술 공유 및 상호 운용성 강화를 의미</p></div>`,
+      tags: ["Unmanned Aircraft","Drone Technology","U.S. Military","Ukraine","Surveillance"],
+      link: "https://defence-blog.com/u-s-army-buys-ukrainian-raybird-unmanned-aircraft/",
+      coords: [-86.3725,34.7304],
+      location: "Redstone Arsenal, Alabama, USA"
+    },
+    {
+      type: "news",
+      title: "Hyundai Heavy Industries Develops 35,000 m³ LPG/Ammonia Carrier with ClassNK AiP",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-09-19",
+      image: "https://maritime-executive.com/media/images/article/1789639502_6aabbb4e27f06.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• HD 현대 조선소(HHI)가 35,000 m³ 규모의 LPG/암모니아 겸용 운반선을 개발하고 ClassNK로부터 건조 승인(Approval in Principle, AiP)을 획득</p><p>• 설계 개념 검토 결과 IGC Code(액화가스 일괄 운반 선박 건조·장비 국제규칙)를 포함한 ClassNK 규칙 Part N을 준수함을 확인</p><p>• 일본 주요 터미널을 포함한 각국 항만 규정 준수를 고려하여 설계된 차세대 친환경 가스 운반선</p><p>• 태국 방콕에서 개최된 Gastech 2026 국제 가스산업 전시회에서 공식 인증서 전달식 개최</p><p>• 안전하고 효율적인 가스 운송 기술 고도화 및 해운산업 탈탄소화를 통한 지속가능한 사회 구현 기여</p><h3>Key Quotes</h3><p>• "ClassNK conducted an examination based on ClassNK 'Rule Part N, Rules and Guidance for the Survey and Construction of Steel Ships', which incorporates the IGC Code" (ClassNK는 액화가스 일괄 운반 선박의 건조 및 장비에 관한 국제규칙인 IGC Code를 포함하는 ClassNK 규칙 Part N을 기반으로 심사를 수행)</p><p>• "HHI and ClassNK will continually strive to advance safe and efficient gas transportation technology, and to contribute to the decarbonization of the maritime industry" (HHI와 ClassNK는 안전하고 효율적인 가스 운송 기술 발전과 해운산업의 탈탄소화에 기여하기 위해 지속적으로 노력할 것)</p><h3>Technical Insights</h3><p>• IGC Code 준수 설계를 통한 국제 규제 대응 - 액화가스 운반선의 안전성과 환경 규제 동시 충족으로 글로벌 시장 경쟁력 강화</p><p>• 암모니아 연료 전환 시대 도래 - LPG/암모니아 겸용 선박은 에너지 전환기 해운산업의 교량 역할로, IMO 2030/2050 탈탄소화 목표 달성에 기여</p><p>• ClassNK AiP 획득의 산업적 의미 - 대형 조선소의 신규 설계 개념이 국제 분류사로부터 사전 승인을 받음으로써 건조 리스크 감소 및 수주 경쟁력 상승</p><p>• 친환경 선박 시장 확대 - 대체연료 운반선 개발을 통한 HHI의 탈탄소화 기술 포트폴리오 확충으로 해운사 고객의 ESG 목표 충족 지원</p></div>`,
+      tags: ["LPG/Ammonia Carrier","ClassNK","AiP Approval","Ship Design","Alternative Fuels"],
+      link: "https://maritime-executive.com/article/hyundai-heavy-industries-hhi-develops-35-000-m3-lpg-ammonia-carrier-and-classnk-issues-approval-in-principle-aip",
+      coords: [100.5018,13.7563],
+      location: "Bangkok, Thailand"
+    }
+  ]
+});
+
+// Auto-collected: 2026-09-18
+addEvents({
+  "2026-09-18": [
+    {
+      type: "news",
+      title: "ABS Awards AIP for Hanwha Ocean's Multi-Purpose Fuel Tank Enabling LNG-to-Ammonia Transition",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-18",
+      image: "https://images.marinelink.com/images/maritime/w800/matthew-tremblay-173753.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• ABS가 한화오션의 다목적 연료 탱크 및 연료가스공급장치(FGSS) 설계에 대해 원칙적 승인(AIP) 부여 - LNG 캐리어가 탱크 교체 없이 LNG에서 암모니아 연료로 전환 가능하게 설계됨<br>• 전기 추진 LNG 캐리어용 가스터빈 엔진에 LNG 또는 암모니아를 공급할 수 있는 통합 시스템으로, 규제 환경 변화에 대응하는 선주들의 실질적 요구를 충족<br>• 2023년 암모니아 가스터빈 추진시스템 AIP, 2024년 17.4만 CBM LNG 캐리어의 암모니아 가스터빈 가스 분산 연구에 이어 진행된 후속 프로젝트<br>• 탱크 교체 없이 연료 유연성을 구현하는 것의 공학적 난제를 해결한 설계로, 선주들의 장기 경쟁력 보장과 함께 해운 산업의 넷제로 달성 경로 제시<br>• 국제규정 및 선급 기준에 따라 ABS가 설계 검증을 완료하였으며, 한화오션은 지속 가능한 해운을 지원하는 미래 대비 기술 개발 계속</p><h3>Key Quotes</h3><p>• "Fuel flexibility is a practical requirement for owners navigating an evolving regulatory environment, and the engineering challenge of achieving it without tank replacement is significant." (진화하는 규제 환경에 대응하는 선주들에게 연료 유연성은 실질적 요구사항이며, 탱크 교체 없이 이를 달성하는 공학적 과제는 매우 중대함)</p><p>• "This design addresses that challenge directly, and ABS is pleased to support Hanwha Ocean in verifying the concept's feasibility against applicable requirements." (본 설계는 이러한 과제를 직접적으로 해결하며, ABS는 한화오션이 관련 규정에 따라 개념의 실현 가능성을 검증하도록 지원하게 되어 기쁨)</p><p>• "Although uncertainties remain regarding implementation of environmental regulations, the maritime industry's path toward net zero remains clear. Hanwha Ocean's multi-purpose fuel design offers shipowners a practical and flexible pathway from LNG to ammonia while safeguarding long-term competitiveness." (환경규정 이행에 대한 불확실성이 남아있지만, 해운산업의 넷제로 달성 경로는 명확하며, 한화오션의 다목적 연료 설계는 선주들에게 LNG에서 암모니아로의 실질적이고 유연한 전환 경로를 제공하면서 장기 경쟁력을 보장함)</p><h3>Technical Insights</h3><p>• IMO 2050 넷제로 달성을 위한 대체 연료(암모니아, 메탄올 등) 도입 가속화 속에서, 기존 LNG 인프라를 활용하면서 연료 전환이 가능한 유연한 설계의 중요성 증대 - 선주들의 장기 투자 리스크 감소<br>• FGSS 통합 설계를 통해 가스터빈 엔진이 두 가지 연료를 안전하게 공급받을 수 있는 기술 검증으로, 향후 암모니아 연료 채택 시 경제성 및 안전성 확보 가능성 제시<br>• 한화오션의 2023년 암모니아 가스터빈 추진 AIP 이후의 단계적 기술 개발 전략으로, 설계 개념 → 가스 분산 연구 → 통합 다목적 탱크 시스템 검증 순서의 체계적 접근 방식 입증<br>• 선급(ABS)의 조기 원칙적 승인(AIP) 제도가 신기술 개발 시 규정과의 조화를 사전에 확인할 수 있어, 조선 산업의 기술 혁신 속도 촉진 및 해운 탈탄소화 목표 달성 촉진</p></div>`,
+      tags: ["ABS","Hanwha Ocean","Alternative Fuels","Ammonia","LNG Carrier","Fuel Flexibility","Net Zero"],
+      link: "https://www.marinelink.com/news/abs-aip-multipurpose-fuel-tank-fgss-543083",
+      coords: [126.978,37.5665],
+      location: "South Korea"
+    },
+    {
+      type: "news",
+      title: "Swedish Club Warns Cape Horn Should Remain 'Plan C' for Panama Canal Diversions",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-09-18",
+      image: "https://maritime-executive.com/media/images/article/1789403702_6aa82236bff1f.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **파나마 운하 제한 현황**: 현재 파나마 운하 제한은 대부분의 해운 거래에 관리 가능한 수준이며, 남미 우회항로 선택을 정당화하기에는 충분하지 않음</p><p>• **선박 및 기관**: 스웨덴클럽(The Swedish Club)이 미국 동부 해안과 아시아 간 항로 운영 선사들에게 경고 발령</p><p>• **지정학적 리스크**: 홍해 후티 세력 확산으로 수에즈 운하 이용이 어려워질 경우, 선사들이 남미 우회항로를 조기에 검토할 가능성 높음</p><p>• **안전상 우려**: 드레이크 해협은 극악한 기후 조건, 화물 이동 위험, 기계 장비 손상 가능성; 마젤란 해협은 좁은 수로, 강한 해류, 현지 항해지식 필요</p><p>• **운영 준비 필수**: 저온 운영, 연료유 가열, 기관 운전을 위한 승무원 교육 및 절차 강화 필수; 현지 도선 활용 검토 필요</p><p>• **의사결정 원칙**: 선장의 안전 책임은 용선자의 항로 지시로 무효화될 수 없으며, 모든 결정은 기상 예보 및 항해 기록으로 문서화 필요</p><h3>Key Quotes</h3><p>• "For voyages from the US East Coast to Asia, Panama is Plan A. The route through the Mediterranean, Suez and Bab el-Mandeb would normally come next, provided the security situation allows. The southern passages are Plan C." <br>(미국 동부 해안에서 아시아로 가는 항해에서 파나마 운하는 1순위 계획이며, 지중해-수에즈-바브엘만데브 항로는 보안 상황이 허용할 경우 2순위, 남미 우회항로는 3순위)</p><p>• "Geopolitical volatility, more frequent extreme weather events and the erosion of respect for UNCLOS are putting established shipping routes under increasing pressure. The risk is that disruption becomes business as usual rather than a series of isolated incidents."<br>(지정학적 불안정, 극단적 기후 이변, UNCLOS 존중의 약화로 기존 해운 항로에 압박이 증가하고 있으며, 방해가 고립된 사건이 아닌 상시적 현상이 될 위험 존재)</p><h3>Technical Insights</h3><p>• **항로 선택 의사결정**: 파나마 운하 혼잡도, 수에즈 운하 지정학적 리스크, 남미 우회항로의 기후·운영 위험을 종합적으로 평가하는 다층적 의사결정 시스템 필요</p><p>• **UNCLOS와 국제해양법**: 연안국의 일방적 항로 제한 조치와 국제해양법상 선박의 항행 자유 간의 갈등 심화로, IMO 협의체에서의 국제 규범 강화 필요</p><p>• **승무원 역량 및 안전관리**: 극한 기후 지역 운항 시 선원 교육 표준화, 저온 환경 기관 관리 프로토콜, 현지 도선 강제성 기준의 재검토 필요</p><p>• **보험 및 용선계약 위험 관리**: 도선료 부담 책임, 화물 손상, 기계 고장에 따른 비용 배분 기준이 명확하지 않아, 용선계약서 표준 조항 개정 및 보험 커버리지 확대 검토 필수</p></div>`,
+      tags: ["Panama Canal","Cape Horn","Route Planning","Risk Management","Suez Canal"],
+      link: "https://maritime-executive.com/article/the-swedish-club-warns-cape-horn-should-remain-plan-c-for-panama-diversions",
+      coords: [-75.2089,8.9824],
+      location: "Panama Canal / Cape Horn Region"
+    }
+  ]
+});
