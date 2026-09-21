@@ -16938,3 +16938,71 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-13
+addEvents({
+  "2026-09-13": [
+    {
+      type: "accident",
+      title: "Indonesia Continues Search For Hundreds Missing In Capsized Passenger Ship Virgo Transport 8",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-09-20",
+      image: "https://gcaptain.com/wp-content/uploads/2026/09/2026-09-19T011953Z_177505213_RC21MNATI113_RTRMADP_3_INDONESIA-SHIP.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 여객선 Virgo Transport 8가 2026년 9월 13일 자바해에서 악천후 중 전복되었으며, 탑승자 243명 중 125명이 실종된 상태<br>• 확인된 사망자는 10명이고 108명이 생존했으며, 인도네시아 국가수색구조청(BASARNAS)이 수색 작업을 계속 진행 중<br>• 선박은 동자바 수라바야에서 남칼리만탄 반자르마신으로 향하는 20시간 항해 중 조난되었으며, 선실 내부에 갇혀있는 피해자들 구출이 진행 중<br>• 강한 해류와 악천후로 인한 수색 작업 지연, 수색 범위 1주일 연장 결정<br>• 원격조종차량(ROV)을 동원하여 다이버 작업 지원 계획 수립</p><h3>Key Quotes</h3><br>• "Hopefully the weather at the site will be favorable (tomorrow)…so more victims trapped inside the ship can be evacuated" (내일 현장의 날씨가 호전되어 선박 내부에 갇혀있는 피해자들을 구출할 수 있기를 바란다)<br>• "The rescue agency has extended for a week the recovery operation due to the large number of missing people and because the salvage operation to right the ship is expected to take time" (실종자 규모가 크고 선박 인양 작업이 장시간 소요될 것으로 예상되어 구조 작업을 1주일 연장)</p><h3>Technical Insights</h3><br>• 선박 전복 사고에서 선실 내부의 피해자 구출을 위해 ROV(원격조종차량)와 다이버를 병행 투입하는 첨단 해상 구조 기술 활용<br>• 악천후 및 강한 해류 환경에서의 대규모 인명 구조 작업의 어려움 - 여객선의 안정성 및 악천후 통항 기준의 중요성 강조<br>• 243명 승선(승객 213명, 선원 30명)의 대형 여객선 사고로 인한 해양 안전 규제 강화 필요 - IMO 국제해상인명안전협약(SOLAS) 준수 확인 필요</p></div>`,
+      tags: ["capsizing","passenger ship","Java Sea","search and rescue","maritime casualty"],
+      link: "https://gcaptain.com/indonesia-continues-search-for-hundreds-missing-in-capsized-ship/",
+      coords: [112.7,-3.6],
+      location: "Java Sea, Indonesia"
+    }
+  ]
+});
+
+// Auto-collected: 2026-09-18
+addEvents({
+  "2026-09-18": [
+    {
+      type: "news",
+      title: "Denmark Accelerates Ukraine Aid After Russian Frigate Fires Flares at Danish Helicopter",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-09-20",
+      image: "https://gcaptain.com/wp-content/uploads/2022/01/2022-01-26T123848Z_2036632786_RC207S9P41EP_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-NAVY-BLACK-SEA.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 러시아 해군 프리깃함 Admiral Essen이 국제해역에서 덴마크 군용 헬기를 향해 경고 없이 플레어를 발사한 사건 발생<br>• 덴마크는 이 사건에 대응하여 우크라이나 지원 패키지를 1.8억 덴마크 크로네(2억 7,600만 달러)로 확대, 공중방어 시스템에 사용될 예정<br>• 덴마크 국방장관 Jeppe Bruus는 "러시아의 압박에 굴하지 않고 예정보다 빠르게 우크라이나 지원을 확대하겠다"고 성명 발표<br>• 러시아는 덴마크가 자국 함선 근처에서 위험한 기동을 수행했다고 반박<br>• 덴마크는 2022년 러시아의 본격적인 침략 이후 우크라이나의 가장 강력한 지지자 중 하나로, 1인당 기준으로 선도적 재정 지원 제공국</p><h3>Key Quotes</h3><p>• "If the Russians think they can rattle us… then our response is to ramp up our support for Ukraine faster than we had intended" (러시아가 우리를 동요시킬 수 있다고 생각한다면 우리의 대응은 예정보다 더 빠르게 우크라이나 지원을 확대하는 것입니다)</p><p>• "If anyone thinks they can pressure us to hold back on our support for Ukraine, they are mistaken" (누구든 우리가 우크라이나 지원을 줄이도록 압박할 수 있다고 생각한다면 착각입니다)</p><h3>Technical Insights</h3><p>• 국제해역에서의 군사 행동 규범: UNCLOS(유엔해양법협약)와 COLREG에 따라 국제해역에서의 경고 없는 무장 행동은 국제해양법 위반으로 판단되며, 이는 해양 안보 긴장 고조의 심각한 사례<br>• 흑해 해상교통 보안: 러시아-우크라이나 전쟁으로 흑해 해상교통이 지속적으로 방해받고 있으며, NATO 회원국의 정찰 및 감시 활동이 증가하는 추세<br>• 지정학적 영향: 이번 사건은 북유럽 국가들의 러시아에 대한 방어 태세 강화 및 우크라이나 지원 확대로 이어질 가능성이 높으며, 발트해와 흑해 지역의 해양 안보 긴장이 지속적으로 상승할 것으로 예상</p></div>`,
+      tags: ["Russia-Ukraine Conflict","Black Sea","Military Incident","Denmark","Naval Operations"],
+      link: "https://gcaptain.com/denmark-speeds-up-ukraine-aid-package-after-russian-warship-fires-flares-at-helicopter/",
+      coords: [29.5,43],
+      location: "Black Sea"
+    }
+  ]
+});
+
+// Auto-collected: 2026-09-20
+addEvents({
+  "2026-09-20": [
+    {
+      type: "news",
+      title: "U.S. Navy Seeks Carrier-Based Unmanned Fighter Design for $30 Million Program",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-09-20",
+      image: "https://defence-blog.com/wp-content/uploads/2026/09/DB_image_2853.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 해군이 항공모함 기반 자율 무인 전투기 개발을 위한 설계 제안 요청(RFI) 발표 - 프로토타입 2대 제작 및 3년 내 인증 완료 목표</p><p>• 함정명: Gerald R. Ford급/Nimitz급 항공모함 탑재용 협업 전투항공기(Collaborative Combat Aircraft, CCA) 프로그램 운영 중</p><p>• 목표 단가 3천만 달러, 4/5세대 전투기와 함께 고위협 환경에서 임무 수행 가능한 자율 무인기 개발 추진</p><p>• 항공모함 카타펄트/감속 장치 활용 이함착함, 최대 2,500파운드 무장 4개 장착, Sea State 5 환경 운영 요구사항</p><p>• MD-5 무인 항공기 임무 통제 시스템(MQ-25 Stingray와 동일 아키텍처)과의 호환성 필수, 유인-무인 협력(Manned-Unmanned Teaming) 개념 적용</p><h3>Key Quotes</h3><p>• "The Navy wants an autonomous, weaponized unmanned aircraft capable of taking off from and landing on Gerald R. Ford-class and Nimitz-class carriers using their catapults and arresting gear, then operating alongside 4th and 5th generation fighters in high-threat environments."<br>(해군은 카타펄트와 감속 장치를 활용해 항공모함에서 이착함 가능하고, 4/5세대 전투기와 함께 고위협 환경에서 운영할 수 있는 자율 무장 무인항공기를 원함)</p><p>• "Autonomy is central to the requirement. The Navy is asking for aircraft capable of both mission-level autonomy, covering tasks like flight planning and target work, and separate flight-safety autonomy that would need its own Navy airworthiness certification."<br>(자율성이 핵심 요구사항이며, 비행계획/표적 탐색 같은 임무 수준의 자율성과 별도의 비행안전 자율성 두 가지가 필요함)</p><h3>Technical Insights</h3><p>• **자율 항공기 이착함 기술**: 카타펄트 발사 및 감속 장치 착함 시 완전 자율 제어 필요 - 현재 MQ-25 Stingray(급유기)는 유인 조종 기반이나, CCA는 고도의 자율 비행 안전 인증 체계 구축 필수</p><p>• **유인-무인 협력(Manned-Unmanned Teaming) 구현**: 항공모함 전투 공중 순찰(CAP) 임무에서 유인 F-35/F/A-18과 무인 CCA의 실시간 데이터 링크 및 협력 운영 체계 - MD-5 통제 아키텍처 확장 필요</p><p>• **항공모함 운영 환경 적응성**: Sea State 5(파고 2.5~4m) 환경에서 항공모함 갑판 운영 및 카타펄트 강도 고려 설계 - 4세대 전투기(F/A-18) 수준의 갑판 풋프린트 유지로 기존 운영 절차 호환성 확보</p><p>• **원형 개발 비용 분담 모델**: Other Transaction Authority(OTA) 프레임워크 활용으로 방위산업체의 자체 자금 투자와 정부 지원(시험장 접근, 시설 제공) 결합 - 개발 리스크 분산 및 빠른 프로토타입 완성 추구</p></div>`,
+      tags: ["autonomous aircraft","unmanned combat vehicle","carrier operations","naval robotics","U.S. Navy","Collaborative Combat Aircraft"],
+      link: "https://defence-blog.com/u-s-navy-wants-a-carrier-based-unmanned-fighter-for-30-million/",
+      coords: [-77.0369,38.8951],
+      location: "United States (Naval Air Systems Command)"
+    },
+    {
+      type: "news",
+      title: "Woodward Fuel Technology Earns DNV Approval in Principle for Methanol and Ethanol Marine Injectors",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-09-20",
+      image: "https://maritime-executive.com/media/images/article/1789948235_6ab0714bca11e.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Woodward의 메탄올 및 에탄올 기반 포트 연료 분사 기술이 국제 선급 DNV로부터 원칙적 승인(Approval in Principle)을 획득했으며, 이는 해양 연료 전환 시장에서 중요한 이정표</p><p>• 메탄올과 에탄올 같은 알코올 기반 연료는 저탄소 옵션으로 주목받고 있으나, 위험 지역 분류, 폭발 보호 및 시스템 안전 등 새로운 고려사항 필요</p><p>• DNV의 승인 과정에서 위험 분석 및 분사기 시스템과 엔진 수준의 포괄적 안전 개념 검토 완료</p><p>• 이번 승인은 엔진 제조사, 선박 운영사 및 시스템 통합업체의 배출가스 감축 목표 달성과 해양 안전 기준 유지 양립에 대한 신뢰도 증대</p><p>• 향후 인증 및 프로젝트별 승인으로의 진행 가능성 확대로 대체 연료 도입의 불확실성 감소 기대</p><h3>Key Quotes</h3><p>• "The maritime industry is navigating one of the most important transitions in its history." (해양산업이 역사상 가장 중요한 전환기를 맞이하고 있다는 의미로, 저탄소 연료로의 대규모 산업 전환을 강조)</p><p>• "Moving from conventional fuels to alcohol-based fuels is not as simple as changing what goes into the tank." (기존 연료에서 알코올 기반 연료로의 전환은 단순한 연료 교체가 아닌 복합적인 기술 혁신이 필요함을 시사)</p><h3>Technical Insights</h3><p>• **알코올 기반 연료의 안전성 표준화**: 메탄올 및 에탄올의 폭발성, 화학적 특성 대응을 위한 위험 지역 분류 및 폭발 보호 기준이 해양 환경에서 정립 필요 중</p><p>• **DNV 원칙적 승인의 산업적 의의**: 분사기 시스템부터 엔진 수준까지의 포괄적 안전 개념 검토는 향후 IMO 규제 동향 및 EEDI/CII 기준 충족을 위한 기술 검증 경로 제시</p><p>• **공급망 신뢰도 강화**: 엔진 제조사의 확신 증대로 메탄올/에탄올 추진 선박의 설계 및 건조 단계 진행 가속화 예상, 2030년대 대체 연료 선박 도입 확대의 촉매 역할</p><p>• **규제-기술 간극 해소**: Approval in Principle 단계에서의 체계적 검증은 프로젝트별 승인(Type Approval) 및 선급 인증 진행을 단순화하여 업계의 규제 준수 비용 절감</p></div>`,
+      tags: ["Alternative Fuels","Methanol","Ethanol","Port Fuel Injector","DNV Approval","Marine Emissions","Safety Standards"],
+      link: "https://maritime-executive.com/article/woodward-fuel-technology-earns-key-approval-for-future-marine-fuels",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
