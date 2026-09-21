@@ -17006,3 +17006,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-21
+addEvents({
+  "2026-09-21": [
+    {
+      type: "news",
+      title: "Flylogix Completes First UK Civilian Cross-Border Offshore Drone Flight for Methane Emissions Monitoring",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-09-21",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/09/Statfjord-B-credit-to-Equinor.jpg?image-crop-positioner-ts=1789980987",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Flylogix가 영국 셰틀랜드 제도에서 출발하여 노르웨이 해상 경계를 넘어 Equinor의 Statfjord B 플랫폼까지 무인항공기를 운항하는 데 성공, 영국 최초의 민간 국경 간 해양 드론 운항 달성</p><p>• 2026년 7월 11일 실시된 4시간 50분 왕복 비행으로 290해리 운항 거리를 커버하며, 메탄 가스 배출 모니터링을 위한 저배출 무인항공 모델 검증</p><p>• 영국과 노르웨이 항공당국, Avinor ANS(노르웨이 항공관제 서비스 제공자), Equinor 등이 긴밀히 협력하여 규제 준수 및 운항 안전성 확보</p><p>• 국제 해역의 다중 관할권 에너지 분지에서 확장 가능한 저배출 감시 모델로서의 실증 의의</p><p>• Flylogix의 국경 간 원격 드론 운항 경험 축적으로 북유럽 지역 비즈니스 전략 실현 및 향후 글로벌 확대 가능성 제시</p><h3>Key Quotes</h3><p>• "The successful completion of this operation has been a valuable milestone for the introduction and integration of uncrewed aviation in the North Sea" (이번 운항 성공은 북해 지역에 무인항공기를 도입하고 통합하기 위한 귀중한 이정표)</p><p>• "Flying a drone from the UK to survey an asset in Norwegian waters shows that our long running ambition to deliver remote, cross-border drone operations safely has been realised" (영국에서 노르웨이 해상 자산을 조사하기 위해 드론을 운항하는 것은 우리의 오랜 야망인 국경 간 원격 드론 운항을 안전하게 실현했음을 보여줌)</p><h3>Technical Insights</h3><p>• **국제 항공관제 협력 체계**: 영국과 노르웨이 항공당국 간의 조율 및 EASA(유럽항공안전청) 규제 준수를 통해 다국가 간 무인항공기 운항 법적 프레임워크 구축의 선례 제시</p><p>• **해상 에너지 산업의 자동화 진화**: 종래의 항공기/헬리콥터 조사에서 저배출 무인항공기 대체로 비용 절감 및 환경친화성 달성, 메탄 배출량 모니터링 강화</p><p>• **IMO/해사 자동화 규제 확장**: 자율운항선박(MASS) 국제 기준 마련 진행과 병행하여 해상 에너지 시설 주변 공역에서의 무인항공기 통합 운영 기준 개발 필요성 제기</p><p>• **북해 거버넌스 확대**: 영국의 EU 탈퇴(Brexit) 이후 독립적 항공관제 시스템과 노르웨이의 항공 인프라 간 협력 강화로 북유럽 에너지 운영 효율성 증진</p></div>`,
+      tags: ["Autonomous Drones","Methane Emissions","North Sea","UK-Norway Operations","Offshore Energy"],
+      link: "https://www.offshore-energy.biz/flylogix-expands-low-emission-methane-playbook-with-cross-border-north-sea-oil-platform-drone-flight/",
+      coords: [2.5,59.5],
+      location: "North Sea (UK-Norway Maritime Boundary)"
+    },
+    {
+      type: "accident",
+      title: "Tanker Hit by Projectile in Strait of Hormuz",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-21",
+      image: "https://images.marinelink.com/images/maritime/w800/credit-screenshotukmto-173780.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 호르무즈 해협 통항 중인 유조선이 정체불명의 발사체에 피격되어 승무원 2명이 경미한 부상을 입음<br>• 영국해상무역작전센터(UKMTO)가 2026년 9월 21일 사건 보고<br>• 피격 선박은 자력으로 계속 운항하여 다음 기항지로 향하고 있음<br>• 환경오염 피해는 현재까지 보고되지 않음<br>• 당국이 사건 조사 중이며, 해역 통항 선박들에 주의 경고 발령</p><h3>Key Quotes</h3><p>• "A tanker transiting the Strait of Hormuz was struck by an unknown projectile, leaving two crew members with minor injuries" (호르무즈 해협을 통항 중인 유조선이 정체불명의 발사체에 피격되어 승무원 2명이 경미한 부상을 입었음)</p><p>• "The vessel remained under its own power and was continuing to its next port of call" (피격 선박은 자력을 유지하며 다음 기항지로 계속 항진하고 있음)</p><h3>Technical Insights</h3><p>• 호르무즈 해협은 전 세계 해상유류 수송의 약 20-25%를 담당하는 전략적 해상로로, 지속적인 보안 위협에 노출되어 있음</p><p>• UKMTO의 신속한 보고 및 주의 경고는 해역 통항 선박의 안전 인식 제고와 사전 예방에 중요한 역할을 수행하고 있음</p><p>• 해적 및 무장 공격으로부터의 선박 보안 강화 필요성이 대두되며, IMO의 선박 보안(ISPS Code) 기준 준수 강화 및 해상보안 국제협력 확대가 요구됨</p></div>`,
+      tags: ["Strait of Hormuz","Tanker","Projectile Attack","Maritime Security"],
+      link: "https://www.marinelink.com/news/tanker-hit-projectile-strait-hormuz-ukmto-543118",
+      coords: [56.2333,26.5333],
+      location: "Strait of Hormuz"
+    },
+    {
+      type: "news",
+      title: "Trafigura Launches Volare Shipping with 14-Vessel VLCC Fleet and Oslo IPO Plans",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-21",
+      image: "https://images.marinelink.com/images/maritime/w800/alexyz3d-adobe-173778.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 트래피겨라(Trafigura)가 초대형유조선(VLCC) 전문 운영사인 볼라레 쉬핑(Volare Shipping) 설립 발표, 현재 6척 운영 중 8척의 신조선 계약으로 총 14척 규모로 확장 예정</p><p>• 신조선 8척은 2026년부터 2028년 10월까지 단계적 인수 예정이며, 평균 선령 3년의 초현대식 선대 구성</p><p>• 약 5억 달러 규모의 사모 펀딩 추진 후 2026년 10월 5일경 오슬로 유로넥스트 성장 시장에 상장(티커: VLCC) 계획</p><p>• 모든 신조선이 암모니아 이중연료 추진 시스템 탑재, 광범위한 화물 수송 가능한 고급 내부 코팅 및 가열 시스템 장착</p><p>• 트래피겨라는 상장 후에도 대주주로 유지되며, 글로벌 트레이딩·차터링·분석 플랫폼 활용으로 운영 시너지 추구</p><h3>Key Quotes</h3><p>• "Volare Shipping combines one of the youngest and most technically-advanced VLCC fleets in the market with access to Trafigura's global trading, chartering and analytics platform." (볼라레 쉬핑은 시장에서 가장 현대적이고 기술 선진의 유조선 선대와 트래피겨라의 글로벌 트레이딩, 차터링 및 분석 플랫폼을 결합)</p><h3>Technical Insights</h3><p>• **이중연료 추진 기술**: 전 선박이 암모니아 이중연료 추진 시스템 탑재로 IMO 2050 탄소중립 규제 선제적 대응, 향후 해운 연료 전환 트렌드 주도</p><p>• **선대 현대화 전략**: 평균 선령 3년의 초현대식 선대로 운영 비용 절감 및 연료효율 극대화, 경쟁력 있는 용선료 책정 가능성 증대</p><p>• **IPO 활용 자본 조달**: 상장을 통한 5억 달러 펀딩으로 신조선 건조 프로그램 전액 충당, 트래피겨라의 유조선 포트폴리오 다각화 및 자산 분리 전략 일환</p><p>• **산업 재편 신호**: 초대형 유조선 운영사의 독립적 상장사 설립 추세, 글로벌 해운 업계의 자본 분산 및 전문화 심화 반영</p></div>`,
+      tags: ["VLCC","Oil Tankers","Shipping Company","IPO","Dual-Fuel"],
+      link: "https://www.marinelink.com/news/trafigura-launches-volare-shipping-run-543116",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
