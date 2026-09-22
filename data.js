@@ -17050,3 +17050,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-21
+addEvents({
+  "2026-09-21": [
+    {
+      type: "accident",
+      title: "Capesize Bulker Cape Falcon Remains Aground Off Port of Gladstone After Refloating Attempts Fail",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-09-21",
+      image: "https://gcaptain.com/wp-content/uploads/2022/03/Dry-bulk-image-01-800x536.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 182,066톤급 케이프사이즈 벌크선 Cape Falcon이 호주 글래드스톤 항 인근 수심에서 2026년 9월 18일 좌초, 2차례의 재부양 시도 모두 실패</p><p>• **선박 정보**: 라이베리아 선박, 2022년 건조, 길이 292m, 폭 45m, ClassNK 등급 선박</p><p>• **구조 시도 및 결과**: 첫 번째 시도는 6척, 두 번째 시도는 10척의 하버튜그 투입했으나 미미한 움직임만 달성, 추가 구조 옵션 검토 중</p><p>• **환경 및 안전**: 선체 파손, 오염, 인명피해 없음 보고, 주요 해운 채널은 차단되지 않았으나 항만 운영에 영향</p><p>• **조사 및 규제 조치**: 호주 운송안전국(ATSB) 공식 조사 개시, 항해 데이터 기록기(VDR) 보존 명령, AIS/기상/선원 기록 검토 예정, 2개월 내 예비 보고서 공개 예정</p><p>• **산업적 영향**: 글래드스톤은 호주 주요 석탄, LNG, 알루미나 수출 거점이므로 지역 해운 물동량에 잠재적 영향</p><h3>Key Quotes</h3><p>• "Two attempts to refloat the vessel have failed. One operation involved six vessels, while a second effort involving 10 harbor tugs achieved only minimal movement" (2차례의 재부양 시도 실패, 6척 및 10척의 하버튜그 투입에도 불구하고 미미한 움직임만 달성)</p><p>• "The Australian Transport Safety Bureau said it has opened an investigation and will board the vessel to interview crew members and collect evidence once conditions allow" (호주 운송안전국은 공식 조사를 개시했으며, 조건이 허락하는 대로 선박에 탑승하여 선원 면담 및 증거 수집 예정)</p><p>• "The Australian Maritime Safety Authority has also detained Cape Falcon under the Navigation Act pending an assessment of the ship's seaworthiness" (호주 해양안전청이 항해법에 따라 선박의 항해능력 평가 완료까지 Cape Falcon 구금)</p><h3>Technical Insights</h3><p>• **좌초 원인 규명의 중요성**: ATSB의 항해 데이터 기록기(VDR), AIS, 기상 조건, 선원 기록 분석을 통해 앵커링 절차 오류, 기상 악화, 항해 조치 부적절성 등 근본 원인 파악 필수</p><p>• **대형 벌크선의 구조 난제**: 182,066톤급 대형 케이프사이즈선의 수심 좌초는 고난도 해양 공학 문제로, 10척의 하버튜그로도 재부양 실패는 선박 중량, 수심 깊이, 저질 조건 등 복합적 요인 시사</p><p>• **항만 안전 및 규제 강화**: 글래드스톤은 호주 주요 수출항이므로 본 사건은 호주 해양안전청의 외국선박 상태 점검 강화, 앵커링 절차 및 파일럿 운영 기준 재검토 계기 제공</p><p>• **선박 운영자 책임**: 라이베리아 기국 선박의 호주 항내 구금 조치는 국제해사기구(IMO) 권고 및 호주 해양법규의 적극적 집행을 보여주며, 향후 운영사의 선원 교육 및 정기 유지보수 점검 강화 필요성 부각</p></div>`,
+      tags: ["grounding","bulk carrier","salvage operation","port disruption"],
+      link: "https://gcaptain.com/capesize-bulker-remains-aground-off-australia-after-refloating-attempts-fail/",
+      coords: [151.2557,-23.8486],
+      location: "Port of Gladstone, Queensland, Australia"
+    },
+    {
+      type: "news",
+      title: "Houthis Advance in Red Sea as Trump Administration Calls Off Airstrikes",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-21",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockibrahimalkan-173792.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 후티 반군이 홍해 전략적 거점 확보를 위해 예멘 산악 지역 진격 중이며, 이는 글로벌 해상 에너지 공급에 위협이 되고 있음</p><p>• 트럼프 행정부가 마지막 순간에 후티군에 대한 공습 계획을 취소했으며, 사우디아라비아의 군사 지원 요청을 거부한 상태</p><p>• UN 집계 결과 최근 전투로 약 700명이 사망하고 수천 명이 부상했으며, 13만 명 이상의 예멘 주민이 강제 이주 상태</p><p>• 후티군의 홍해 해안 장악으로 바브 엘-만데브 해협과 아덴 항구 간의 전략적 통로 통제 위협</p><p>• 사우디 연합군의 광범위한 공습 진행 중에도 후티군의 공세 모멘텀 유지로 해역 안보 불안정 심화</p><h3>Key Quotes</h3><p>• "The government forces appear to remain largely in a defensive posture following the loss of the Bab el-Mandeb area, while the Houthis are seeking to maintain the momentum of their advance, despite being exposed to intensive air strikes" (바브 엘-만데브 해협 상실 이후 예멘 정부군은 방어 태세를 유지하고 있으며, 후티군은 집중적인 공습에도 불구하고 공격 모멘텀을 지속하려 함)</p><p>• "A lightning advance by the Iran-backed group this month has extended the wider Middle East conflict to a new theatre and further threatened global energy supplies" (이란 지원 후티군의 급속한 진격이 중동 분쟁을 새로운 전장으로 확대하고 글로벌 에너지 공급에 위협을 가함)</p><h3>Technical Insights</h3><p>• **해상 운송 노선 위협**: 바브 엘-만데브 해협의 후티군 통제 확대로 홍해-아데ン만 상용 해로의 안보 위험 심화, 선박 통항료 및 보험료 상승 우려</p><p>• **국제해사기구(IMO) 규정의 현실적 한계**: 지정학적 갈등 상황에서 COLREG 및 국제해상안전규범의 실행 곤란, 민간선박의 자율항해 시스템 신뢰도 저하 가능성</p><p>• **에너지 공급망 재편**: 홍해 통제 변화로 수에즈운하 대체 항로(아프리카 우회) 증가로 해운 물류 비용 및 탄소 배출 증대, 글로벌 해운 산업의 리스크 헷징 필요성 증대</p><p>• **해상 보안 기술 수요 급증**: 자율 항해 선박의 위협 감지 센서 및 실시간 데이터 기반 항로 회피 기술 개발의 중요성 대두</p></div>`,
+      tags: ["Houthis","Red Sea","Geopolitical Risk","Maritime Security"],
+      link: "https://www.marinelink.com/news/houthis-fight-cut-off-red-sea-trump-calls-543129",
+      coords: [43.3569,15.3694],
+      location: "Red Sea, Yemen"
+    },
+    {
+      type: "news",
+      title: "Xeneta Weekly Ocean Container Shipping Market Update - Spot Rates Surge 324% Since Hormuz Crisis",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-21",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stocksamael334-173790.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **극적인 운임 상승**: 2월 호르무즈 위기 이후 극동에서 미국 동부해안으로의 운임이 324.7% 상승하여 현물 운임이 FEU당 USD 11,259에 도달</p><p>• **역사적 수준 접근**: 팬데믹 시기(2022년 1월) 기록된 사상 최고 운임(USD 12,683)에서 11% 미달로, 새로운 기록 경신 가능성 논의 중</p><p>• **지정학적 영향의 글로벌 파급**: 중동 지역 분쟁이 해상 컨테이너 운송의 핵심 노선에 미치는 광범위한 영향을 입증</p><p>• **운송사의 적극적 대응**: 미국 동부해안 노선의 공급 용량을 9월 기준 전월 대비 6-7% 증가 추가 투입 중</p><p>• **단기 시장 전망**: 10월 초 Golden Week 셧다운 전 화물 방출로 인한 마지막 운임 상승 이후 2-3주 내 시장 반전 예상</p><h3>Key Quotes</h3><p>• "Spot rates from Far East to US West Coast and US East Coast are up 324% and 325% respectively since pre-Hormuz crisis at the end of February" (극동에서 미국 서부 및 동부해안으로의 현물 운임은 2월 호르무즈 위기 이전 대비 각각 324%, 325% 상승)</p><p>• "If a freight rate record is broken, it is most likely to occur on the trade into US East Coast, but even if we do not see a new all-time high, the fact we are even discussing the possibility demonstrates how sensitive critical ocean container shipping trades are to geopolitical forces" (운임 기록이 갱신된다면 미국 동부해안 노선에서 가능성이 높으며, 새로운 최고기록을 갱신하지 못하더라도 이러한 논의 자체가 해상 컨테이너 운송의 지정학적 민감도를 보여줌)</p><p>• "We should expect one more freight rate push at the start of October as shippers rush cargo out of Asia ahead of the Golden Week shutdown, before rates start to soften" (10월 초 Golden Week 셧다운 전 아시아에서의 화물 방출로 인한 마지막 운임 상승 이후 운임 완화 예상)</p><h3>Technical Insights</h3><p>• **지정학적 변수와 운송 시장의 연계성**: 호르무즈 해협 지역 분쟁이 태평양 및 대서양 횡단 노선의 운임에 직접적이고 급격한 영향을 미치는 사례로, 글로벌 컨테이너 운송 네트워크의 취약성 강조</p><p>• **연료 유가와 복합 운임 구조**: 벙커 가격 상승이 연료할증금(Fuel Surcharge)을 가중시켜 사상 최고가 경신 가능성을 높이고 있으며, 운송사의 수익성 개선과 동시에 화주의 부담 증가를 초래</p><p>• **운송 용량 조정 전략**: 운송사들이 높은 운임 기간을 활용하여 미국 동부해각 노선의 투입 용량을 적극 증가시키는 공급 측면의 단기 최적화 행동</p><p>• **원황 이벤트와 시장 사이클**: Golden Week 같은 계절적 요인과 지정학적 이벤트가 복합적으로 작용하여 수주일 내 시장 반전을 야기할 수 있으므로, 자율운항 기술 도입 시에도 이러한 변동성 높은 시장 환경에 대한 경제성 분석 필수</p></div>`,
+      tags: ["Container Shipping","Freight Rates","Market Analysis","Geopolitical Impact"],
+      link: "https://www.marinelink.com/news/xeneta-shares-weekly-ocean-container-543127",
+      coords: [0,0],
+      location: "Global"
+    }
+  ]
+});
