@@ -17094,3 +17094,53 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-22
+addEvents({
+  "2026-09-22": [
+    {
+      type: "accident",
+      title: "Singapore Leads Rescue of 25 Crew from MSC Container Ship MSC HERMES III",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-22",
+      image: "https://images.marinelink.com/images/maritime/w800/picture-creative-173802.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• MSC HERMES III (라이베리아 선적)의 25명 승무원 전원이 베트남 동쪽 약 300km 해상에서 구명보트로 탈출한 후 구조됨<br>• 싱가포르 해상구조조정센터(MRCC)가 2026년 9월 22일 오전 8:45 조난신호 수신 및 구조 조정<br>• 근처 3척 선박이 응답했으며, MSC RUBY가 25명 승무원 전원을 구명보트에서 회수<br>• 부상자 없음 (No injuries reported)<br>• 싱가포르 MRCC와 베트남 해상구조 당국이 구조된 승무원들의 안전한 상륙 조치 협력 중</p><h3>Key Quotes</h3><br>• "All 25 crew members of the Liberia-registered container vessel MSC HERMES III were rescued after abandoning the ship in a lifeboat about 300 km east of Vietnam" (라이베리아 선적 컨테이너선 MSC HERMES III의 25명 승무원 전원이 베트남 동쪽 약 300km 해상에서 구명보트로 탈출한 후 구조됨)</p><p>• "MRCC Singapore received a distress alert at about 8:45 a.m. Singapore time on September 22 while the vessel was within Singapore's Maritime Search and Rescue Region" (9월 22일 오전 8:45 싱가포르 시간에 싱가포르 관할 해상수색구조구역 내에서 조난신호 수신)</p><h3>Technical Insights</h3><br>• 국제해상안전법(SOLAS)에 따른 조난신호 체계의 효율적 작동 - 신속한 MRCC 대응과 인근 선박들의 즉각적 응답으로 인명 손실 없이 완료<br>• 지역 간 해상구조 협력체계의 중요성 - 싱가포르와 베트남 MRCC 간의 조정으로 구조 활동의 효율성 극대화 및 승무원 상륙 절차 체계화<br>• 국제 해상 교통 요로(SLane)에서의 해상안전 관리 - 싱가포르 해협 및 인접 해역의 높은 해상 교통량 속에서 신속한 대응 체계 필요성 강조</p></div>`,
+      tags: ["Maritime Rescue","Container Ship","Distress","Evacuation","Singapore"],
+      link: "https://www.marinelink.com/news/singapore-leads-rescue-crew-msc-container-543141",
+      coords: [106,10],
+      location: "300 km east of Vietnam, Singapore SAR Region"
+    },
+    {
+      type: "news",
+      title: "Blue Ops Marks One-Year Manufacturing Milestone in Georgia",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-09-22",
+      image: "https://defence-blog.com/wp-content/uploads/2026/09/DB_image_2880.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **Blue Ops 1주년 기념**: Red Cat Holdings의 해양 자율선박 부문 Blue Ops가 조지아주 발도스타 시설 개장 1주년을 달성했으며, 발도스타는 9월 21일을 공식 'Blue Ops Day'로 지정</p><p>• **제조 시설 규모**: 155,000제곱피트 규모의 former Regal Boats 공장을 임차하여 약 3,000만 달러 투자 및 200명 이상의 일자리 창출 계획</p><p>• **무인해면선(USV) 생산**: 군사 및 국방 임무용 소형 자율선박 제조, Hodgdon Shipbuilding과 협력하여 프로토타입 5척을 메인주에서 먼저 개발 후 발도스타로 완전 생산 전환</p><p>• **3D 프린팅 기술 도입**: HADDY와 협력하여 로봇식 대규모 3D 프린팅 시스템 도입으로 제조 용량 2배 증대 예정</p><p>• **Red Cat Holdings 확장 전략**: Teal Drones, FlightWave Aerospace(항공 무인기)에 이어 Blue Ops(해양 무인시스템)로 사업 포트폴리오 다양화 추진</p><h3>Key Quotes</h3><p>• "a modern, scalable, and domestic USV manufacturing base from the ground up" (처음부터 구축한 현대적이고 확장 가능한 국내 무인해면선 제조 기반)</p><p>• The company said it intends to keep expanding production capacity at the site (회사는 발도스타 시설에서의 생산 용량 지속적 확대 의도를 표명함)</p><h3>Technical Insights</h3><p>• **자율해상시스템(USV) 산업화**: 소형 무인선박의 국방/해양보안 활용이 증대되는 추세로, 정부 계약 기반의 안정적 수요처 확보 중요</p><p>• **선체 제조의 디지털화**: 로봇식 3D 프린팅을 선체 건조에 적용하여 기존 조선 방식 혁신, 비용 절감 및 생산 속도 개선 가능성 제시</p><p>• **국방 자율화 정책**: 미국 국방부의 무인해상시스템 도입 확대에 따른 Blue Ops 같은 국내 제조사의 성장 기회, 해양 도메인 인식(MDA) 강화 관련</p></div>`,
+      tags: ["autonomous vessels","USV manufacturing","Red Cat Holdings","Georgia facility"],
+      link: "https://defence-blog.com/red-cats-maritime-arm-hits-a-one-year-milestone-in-georgia/",
+      coords: [-83.2769,30.8329],
+      location: "Valdosta, Georgia, USA"
+    }
+  ]
+});
+
+// Auto-collected: 2026-09-21
+addEvents({
+  "2026-09-21": [
+    {
+      type: "news",
+      title: "Japan's Onomichi Dockyard Partners with Bulwark Dynamics on Caravel Autonomous USV",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-09-21",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/09/Bulwark-Caravel-USV-1-scaled.webp",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 방위기술 스타트업 Bulwark Dynamics가 일본 오노미치 조선소와 전략적 제조 파트너십을 체결하여 자율 상륙정(Caravel USV) 개발·생산을 추진 중</p><p>• 미 해군과 해병대의 연안 기동 작전(EABO: Expeditionary Advanced Base Operations) 수요에 대응하기 위해 저비용·대량 자율 선박 필요성 증가</p><p>• Caravel 플랫폼은 15ft, 35ft 등 다양한 크기로 설계되었으며, 현재 35ft 프로토타입 건조 중이고 연간 수십 척의 생산 목표 설정</p><p>• 미·일 방위 산업 협력 강화 전략의 일환으로, 일본 상선 조선소가 동맹국 해군 물류 지원에 참여하는 구조적 변화 의미</p><p>• 향후 미국 및 일본 시장뿐만 아니라 민간·상업 용도로의 확대 활용 가능성 제시</p><h3>Key Quotes</h3><p>• "Bulwark is pursuing the Caravel platform for both the U.S. and Japanese markets, including potential civilian/commercial applications." <br>(Caravel 플랫폼을 미국·일본 시장뿐 아니라 민간·상업 용도까지 확대 추진 중)</p><p>• "Our initial target is to reach production of several dozen units annually as we scale, though we'll assess recurring and long-term demand carefully before committing to mass-production capacity."<br>(초기 목표는 연간 수십 척 생산이며, 장기 수요를 신중히 평가 후 대량생산 설비 확충 검토)</p><h3>Technical Insights</h3><p>• 자율 상륙정의 분산 배치 운영(Distributed Maritime Operations)을 통한 거점 선제 기동 개념 실현 가능성 향상—특히 분쟁 해역 재보급 임무 수행에 유리</p><p>• 미국 방위 기술(Silicon Valley 스타일) 개발과 일본 대규모 조선 제조 역량의 결합으로, 기존 동맹 해군 조선소의 과부하 문제 완화 및 산업 효율성 증대</p><p>• IMO 자율 선박 규제 틀(MASS Code) 진행 중에도 군사용 무인선박은 별도 국방 표준 준수 필요—미·일 국방부 간 기술 표준화 협력 필요성 대두</p><p>• 상업용 자율 선박(해운·물류) 기술과 군용 자율 플랫폼 이원화 개발 전략으로, 향후 민군 기술 이전 및 산업 생태계 성장 가능성 높음</p></div>`,
+      tags: ["Autonomous USV","Defense Technology","US-Japan Partnership","Littoral Operations"],
+      link: "https://www.navalnews.com/naval-news/2026/09/japans-onomichi-dockyard-bulwark-dynamics-caravel-usv/",
+      coords: [132.6347,34.2857],
+      location: "Onomichi, Japan"
+    }
+  ]
+});
