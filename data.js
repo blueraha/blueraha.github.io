@@ -17144,3 +17144,47 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-22
+addEvents({
+  "2026-09-22": [
+    {
+      type: "news",
+      title: "OMS Group Opens Remote Operations Center for Unmanned Survey Vessels in Singapore",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-09-22",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/09/Remote-operations-center-for-unmanned-survey-operations-opens-in-Singapore-1024x683.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• OMS Group이 싱가포르에 무인 해상 측량선(USV) 원격 운영 센터(ROC) 개설 완료<br>• OMS Geometra(해양측량 사업부)가 운영하며 USV 조종사, 측량 전문가, 프로젝트팀이 통합 운영 환경에서 근무<br>• 실시간 측량 데이터 검증 및 지리적으로 분산된 다중 선박 운영 조율 기능 제공<br>• IMCA M272 권장 관행에 따른 USV 원격 운영 센터 검사 완료 및 국제 규정 준수 확보<br>• 안전성과 효율성 향상, 측량 표준화 유지, 다중 선박 확장 운영 가능성 제시</p><h3>Key Quotes</h3><p>• "The ROC is designed as an extension of our survey division, not a separate technology silo" (ROC는 기술 부문이 아닌 해양측량 사업부의 연장선으로 설계됨)<br>• "Unmanned survey is not a concept project for OMS. We have invested in the vessels, technology and people required to build a capability that can be deployed and scaled" (무인 측량은 개념 단계가 아니며 실제 배치 및 확장 가능한 체계 구축에 투자)</p><h3>Technical Insights</h3><p>• IMCA M272 권장 관행 준수: 국제 해사 계약자 협회의 USV 원격 운영 센터 검사 기준을 만족하여 국제 규제 프레임워크 대응 능력 입증<br>• 통합 운영 환경의 중요성: 선박 운영, 측량 전문성, 데이터 수집을 단일 플랫폼에 통합함으로써 실시간 데이터 검증 및 임무 조율의 효율성 극대화<br>• 자율운항선박 산업화의 가속화: 개별 기술 개발을 넘어 완전한 운영 체계(ROC 인프라 + 인력 + 규제 준수)를 갖춘 운영 모델 구축이 산업 실용화의 핵심 요소임을 시사</p></div>`,
+      tags: ["Unmanned Surface Vessels","Remote Operations","Marine Survey","Autonomous Ships","Singapore"],
+      link: "https://www.offshore-energy.biz/remote-operations-center-for-unmanned-survey-operations-opens-in-singapore/",
+      coords: [103.8198,1.3521],
+      location: "Singapore"
+    },
+    {
+      type: "news",
+      title: "Bayraktar TB3 Successfully Deploys Sonobuoys from TCG Anadolu in Turkish ASW Exercise",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-09-22",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/09/Bayraktar_TB3_TCG_Anadolu_SAS_POD-4-scaled.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **터키 해군의 바이락타르 TB3 무인항공기(UCAV)가 다목적 상륙함 TCG 아나돌루에서 처음으로 음향 부표(소노부이) 실전 배치에 성공**하여 무인 항공 반잠수함전(ASW) 운영의 새로운 시대를 개척</p><p>• **Denizkurdu-I/2026 훈련 중 TB3가 자체 개발한 SAS POD(음향 부표 분사 장치)를 탑재하고 2개의 소노부이를 동지중해에서 실제 배치**하며 유인 해상초계항공기(MPA)와 실시간 협력</p><p>• **바이락타르 테크놀로지스의 독자 개발 소노부이 처리 아키텍처가 자체 배치 부표 및 유인 MPA 센서로부터의 음향 신호를 종합 처리**하여 수중 추적 데이터를 실시간으로 지휘 체계에 전달</p><p>• **글로벌 수준에서 General Atomics의 MQ-9B SeaGuardian 다음으로 두 번째 무인 항공기가 실전 소노부이 배치 및 통합 음향 신호 처리 능력을 시연**하며 터키의 독자 기술 수준 입증</p><p>• **터키의 무인 항공모함 항공기 및 음향 센서 자체 개발 노력이 실제 현장 시험으로 수렴**되고 있으며, Aselsan의 자체 개발 음향부표(Aselbuoy) 패밀리가 곧 무인 플랫폼에서 운용될 것으로 예상</p><h3>Key Quotes</h3><p>• "The TB3 carried Baykar's indigenously developed Sonobuoy Dispenser System (designated the SAS POD) under its wing. Beyond deploying the expendable acoustic sensors, the TB3's onboard sonobuoy processing architecture processed acoustic telemetry gathered both from its own dropped buoys and from sensors deployed by a manned MPA operating in the area, relaying underwater acoustic tracking data to the command net in real time." <br>(TB3는 자체 개발한 음향부표 분사 시스템(SAS POD)을 탑재했으며, 소모성 음향 센서 배치 외에도 자체 배치 부표와 유인 MPA 센서의 음향 신호를 모두 처리하여 수중 추적 데이터를 실시간으로 전술 지휘망에 전송)</p><p>• "Outside General Atomics Aeronautical Systems' MQ-9B SeaGuardian, the Bayraktar TB3 is only the second known unmanned platform to demonstrate live sonobuoy drops and integrated acoustic telemetry processing."<br>(General Atomics의 MQ-9B SeaGuardian을 제외하고, 바이락타르 TB3는 실전 소노부이 배치 및 통합 음향 신호 처리를 시연한 두 번째 무인 항공기)</p><h3>Technical Insights</h3><p>• **무인항공기의 반잠수함전(ASW) 운영 능력 확대**: 기존 유인 항공기 중심의 소노부이 배치가 무인 플랫폼으로 확산되면서 ASW 작전의 효율성과 지속성이 크게 향상될 것으로 예상되며, 이는 함정의 생존성 강화에 직접 기여</p><p>• **터키의 자체 기술 발전 및 전략적 자립성 강화**: SAS POD, 소노부이 처리 아키텍처, 음향부표 자체 개발(Aselbuoy)에 이르기까지 완전한 생태계 구축으로 국방 수출 경쟁력 제고</p><p>• **다중 센서 통합 운영 개념(Multi-Platform Sensor Fusion)**: TB3가 자체 배치 부표뿐 아니라 유인 MPA의 센서 신호도 실시간 처리·통합하여 전술 지휘망에 전달하는 기술은 미래 해양 전장 운영의 표준 모델 제시</p><p>• **국제 무기 체계 규제 및 UNCLOS 준수 고려**: 무인항공모함 항공기</p></div>`,
+      tags: ["Unmanned Aerial Vehicles","Anti-Submarine Warfare","Turkish Navy","Carrier Operations","Maritime Technology"],
+      link: "https://www.navalnews.com/naval-news/2026/09/bayraktar-tb3-drops-sonobuoys-from-tcg-anadolu-in-asw-milestone/",
+      coords: [29.0469,37.2808],
+      location: "Eastern Mediterranean, TCG Anadolu"
+    },
+    {
+      type: "news",
+      title: "U.S. Navy Tests CAMP System for Autonomous Combat Aircraft Mission Planning",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-09-22",
+      image: "https://defence-blog.com/wp-content/uploads/2026/09/DB_image_2885.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **Gray Flag 2026 시험에서 CAMP 시스템 공개**: 미 해군이 자율 전투 항공기 미션 계획 및 통제를 위한 새로운 'Collaborative Autonomy Mission Planning (CAMP)' 시스템을 캘리포니아 포인트 뮤구 해역에서 시연했으며, 이는 대규모 전력 테스트 행사에서 이루어짐.</p><p>• **MQ-20 Avenger를 대체 항공기로 활용**: 일반 원자력사(General Atomics)의 MQ-20 Avenger 무인기가 자율 항공기 역할을 수행했으며, 해군 엔지니어는 미션 계획 수립, 전송, 실행, 결과 검토의 전체 프로세스를 완료함.</p><p>• **인간 계획과 자율 실행의 연결**: CAMP는 기존 인간 기반 미션 계획 시스템(CMPC)을 자율 항공기가 실행 가능한 형식으로 변환하는 것이 핵심 기능으로, 유인/무인 플랫폼 혼합 운영 환경 지원.</p><p>• **운영 부담 감소 및 상호운용성 개선**: Captain Todd Keith 프로그램 관리자는 "CAMP가 오퍼레이터의 부담을 줄이고 상호운용성을 개선하며 협력적 자율성을 실제 운용에 한 걸음 더 가깝게 할 수 있다"고 강조.</p><p>• **미래 협력 전투 항공기(CCA) 개발과의 연계**: PMX-281은 무인항공 및 스트라이크 무기 프로그램 실행 관실(PEO) 산하에서 활동하며, 포드급/니미츠급 항모에서 운용 가능한 3천만 달러 개발 목표의 차세대 자율 항공기와 통합될 예정.</p><p>• **2025년 EPIC 프로그램과의 연속성**: 지난 12월 Shield AI의 Hivemind 소프트웨어를 활용한 BQM-177A 타겟 드론 2대의 협력 비행 테스트에서 축적된 경험을 바탕으로 확장.</p><h3>Key Quotes</h3><p>• "CAMP is about making autonomy more usable by integrating into mission environments with both manned and unmanned platforms" (자율성을 유인/무인 플랫폼이 함께 운영되는 미션 환경에 통합하여 더욱 실용적으로 만드는 것)</p><p>• "This demonstration showed how we can connect the way operators plan missions today in the CMPC with the way autonomous aircraft will execute those missions. That can reduce the burden on our operators, improve interoperability and help bring collaborative autonomy closer to operational use." (현재 CMPC에서 오퍼레이터가 미션을 계획하는 방식과 자율 항공기가 미션을 실행하는 방식을 연결하는 방법을 보여줌으로써, 운영자의 부담을 감소시키고 상호운용성을 개선하며 협력적 자율성을 실제 운용 단계에 더 가깝게 이끌 수 있음)</p><h3>Technical Insights</h3><p>• **인간 의도와 머신 실행 간 변환 레이어의 중요성**: CAMP는 기존 CMPC 형식의 인간 작성 미션 계획을 자율 항공기 실행 가능한 명령어로 자동 변환하는 미들웨어 역할을 수행하여, 자율 시스템 도입 시 운영 절차 변경 최소화 가능.</p><p>• **협력 자율성(Collaborative Autonomy) 규격화의 필수성**: EPIC 프로그램(무인기 간 협력 비행)과 CAMP(인간-자율기 상호작용)의 이중 궤도 추진은 IMO/ICAO 동급의 자율 시스템 국제 규격 개발 필요성을 시사하며, 향후 군민 겸용 기술 표준화의 기초 마련.</p><p>• **차세대 항모 기반 유/무인 혼합 운영 개념의 실현**: 포드급/니미츠급 항모에서 F/A-18과 Collaborative Combat Aircraft(CCA</p></div>`,
+      tags: ["Autonomous Aircraft","Mission Planning","U.S. Navy","Unmanned Systems"],
+      link: "https://defence-blog.com/u-s-navy-tests-new-tool-to-plan-missions-for-autonomous-jets/",
+      coords: [-119.1264,34.9097],
+      location: "Point Mugu Sea Range, California"
+    }
+  ]
+});
