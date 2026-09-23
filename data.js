@@ -17188,3 +17188,69 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-13
+addEvents({
+  "2026-09-13": [
+    {
+      type: "accident",
+      title: "Indonesia Ferry Disaster: Death Toll Rises to 26 in Java Sea Capsizing",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-23",
+      image: "https://images.marinelink.com/images/maritime/w800/illustration-wanfahmy-173843.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 인도네시아 자바해에서 여객선 '비르고 트랜스포트 8(Virgo Transport 8)'호가 악천후 중 캡슐화되어 침몰, 사망자 26명 확인</p><p>• **피해 규모**: 탑승객 243명(승무원 30명 포함) 중 사망 26명, 실종 109명, 생존자 108명으로 집계</p><p>• **선박 정보**: 자바 동부 수라바야에서 남부 칼리만탄 반자르마신으로 향하던 화물 겸용 여객선, 9월 13일 조기에 사고 발생</p><p>• **수색 활동**: 해안경비대와 해군이 선박 내부에서 14구, 해안에서 2구 발견, 침몰 지점으로부터 약 253km 떨어진 중부 칼리만탄에서도 시신 발견</p><p>• **진행 상황**: 해상 수색 작업이 다음주 일요일까지 연장되었으나, 탁한 수심과 강한 해류로 인해 구출 작업에 어려움</p><p>• **구조 기관**: 국가재난관리청(National Rescue Agency) 소장 모하마드 시아피(Mohammad Syafii) 주도 수색·구조 작업 진행</p><h3>Key Quotes</h3><p>• "Our underwater search is focused on the ship's hull. That is where we are concentrating because we have found many passengers trapped inside the cabins." (우리의 수중 수색은 선박의 선체에 집중하고 있습니다. 많은 승객들이 객실 내부에 갇혀 있는 것을 발견했기 때문입니다.)</p><p>• "This poses risks to the diving team. If it is feasible and safe, we will carry out the search." (이는 다이빙팀에 위험을 초래합니다. 실행 가능하고 안전하다면 수색을 진행하겠습니다.)</p><h3>Technical Insights</h3><p>• **악천후 대응 체계 개선**: 인도네시아 자바해와 같은 열대 몬순 지역의 악천후 상황에서 여객선의 안정성 및 복원력(stability margin) 강화 필요</p><p>• **수색·구조 기술의 한계**: 탁한 수심과 강한 해류 속에서 다이빙 작업의 위험성 증가로 인해 원격 조종 수중 로봇(ROV) 등 첨단 수중 탐사 기술 도입 필요</p><p>• **선박 설계 및 운영 규정**: 여객선의 복원성(metacentric height) 검증, 적재 하중 제한, 악천후 시 항로 회피 규정 강화로 유사 사고 예방</p><p>• **국제해사기구(IMO) SOLAS 규정 준수**: 여객선의 안전 장비, 구명 보트 배치, 비상 절차 등에 대한 정기 감시 및 국가 해사청의 감독 강화</p></div>`,
+      tags: ["ferry capsizing","Java Sea","maritime disaster","Indonesia"],
+      link: "https://www.marinelink.com/news/indonesia-ferry-disaster-death-toll-rises-543196",
+      coords: [112.7521,-7.2575],
+      location: "Java Sea, Indonesia"
+    }
+  ]
+});
+
+// Auto-collected: 2026-09-23
+addEvents({
+  "2026-09-23": [
+    {
+      type: "news",
+      title: "Allseas Books ABL for 60,000-ton Topside Single-Lift Decommissioning in North Sea",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-09-23",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2022/07/Statfjord-A-Credit-Harald-Pettersen-Copyright-Equinor-.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 스위스 해양 시공업체 Allseas가 노르웨이 대륙붕의 Equinor Statfjord A 플랫폼 해체 작업을 위해 에너지·해양 컨설턴시 ABL을 해양보증감시(MWS) 업체로 선정<br>• Pioneering Spirit 건설선의 토우사이드 리프팅 시스템(TLS) 용량을 48,000톤에서 60,000톤으로 업그레이드하여 단일 양중 작업 수행<br>• ABL 노르웨이 팀이 해제 작업의 기술적·운영적 리스크를 최소화하고 규제 준수를 감시할 책임 담당<br>• 이 프로젝트는 Allseas의 기존 노르웨이 계약 범위 내에서 진행되며 북해 해체 프로젝트에서의 광범위한 경험을 반영<br>• Pioneering Spirit은 최근 영국 북해에서 North Cormorant 토우사이드(17,200톤)의 단일 양중 제거도 성공적으로 수행</p><h3>Key Quotes</h3><br>• "We are pleased to continue our long-standing relationship with Allseas in Norway by supporting the safe execution of this trailblazing topside removal and offshore lift operation for Equinor." (Allseas와의 장기적 관계를 유지하며 혁신적인 토우사이드 제거 및 해상 양중 작업의 안전한 실행을 지원하게 되어 기쁘다)<br>• "Statfjord A is a legendary asset, and the project brings significant technical and operational challenges." (Statfjord A는 전설적인 자산이며 이 프로젝트는 상당한 기술적·운영적 도전을 안고 있다)</p><h3>Technical Insights</h3><br>• 고용량 단일 양중 기술: 토우사이드 리프팅 시스템의 60,000톤 용량 업그레이드는 대형 플랫폼 해체의 효율성을 극대화하고 다단계 해체 필요성을 제거하는 현대적 해제 기술 동향을 반영<br>• 해양보증감시(MWS) 체계: 제3자 독립 기술 검토, 함대 운영 적합성 검증, 현장 감시를 통해 북해 해체 작업의 안전 및 규제 준수 확보<br>• 북해 해체 산업의 성숙화: Pioneering Spirit의 연속적 프로젝트 수행과 ABL의 틀 계약(framework agreement) 기반 협력은 북해 플랫폼 해제 시장의 표준화된 운영 체계 정착을 시사</p></div>`,
+      tags: ["Decommissioning","North Sea","Heavy Lift","Pioneering Spirit","Marine Warranty"],
+      link: "https://www.offshore-energy.biz/allseas-books-abl-for-60000-ton-topside-single-lift-ops-in-next-north-sea-decom-chapter/",
+      coords: [3.2,59.5],
+      location: "Statfjord A, Norwegian Continental Shelf, North Sea"
+    }
+  ]
+});
+
+// Auto-collected: 2026-09-22
+addEvents({
+  "2026-09-22": [
+    {
+      type: "news",
+      title: "U.S. and U.K. Successfully Test-Launch Torpedo from Royal Navy Unmanned Submarine",
+      source: "USNI News",
+      sourceMeta: "usni.org · 2026-09-22",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 미국과 영국이 AUKUS Pillar 2 협력의 일환으로 무인 초대형 잠수정(XLUUV)에서 어뢰 발사에 성공<br>• 영국 해군의 실험용 XV Excalibur 플랫폼이 미국의 Mk 48 중형 어뢰를 성공적으로 발사<br>• 스코틀랜드 영국 수중 시험평가 센터에서 2026년 9월 13일 수행된 Project Broadsword와 Trial Iron 작전 달성<br>• 기계, 전기, 소프트웨어 통합이 성공적으로 검증되어 XLUUV 무장 체계의 실질적 운용 가능성 입증<br>• 무인 수중 플랫폼의 자율 무기 통합은 해양 방위 영역에서 혁신적 기술 진전을 의미</p><h3>Key Quotes</h3><br>• "The milestone was achieved under Project Broadsword and Trial Iron and marked a major operational achievement for AUKUS Pillar 2" (AUKUS Pillar 2 협력 하에서 무인 어뢰 발사 기술 통합의 주요 작전 성과 달성)<br>• "validated the mechanical, electrical and software integration of a U.S." (미국 어뢰의 기계, 전기, 소프트웨어 통합 검증 완료)</p><h3>Technical Insights</h3><br>• 자율 무인 수중 선박(XLUUV)의 무기 통합 기술은 COLREG 및 국제 해양법 준수와 별개로 방위 자율성 영역의 핵심 진전<br>• IMO 규제 체계와 별개로 진행되는 군사용 무인 선박 개발로, 민간 자율선박 기술과는 다른 기준체계 적용<br>• AUKUS 동맹국 간 무기 체계 통합은 인도태평양 지역 해양 안보 기술 표준화를 선도하는 사례로 향후 다국가 공동개발의 모델 제시</p></div>`,
+      tags: ["Autonomous Underwater Vehicle","XLUUV","AUKUS Pillar 2","Unmanned Weapons Systems","Royal Navy","Defense Technology"],
+      link: "https://news.usni.org/2026/09/22/u-s-u-k-launch-torpedo-from-royal-navy-unmanned-submarine",
+      coords: [-4,56.5],
+      location: "British Underwater Test & Evaluation Centre, Scotland"
+    },
+    {
+      type: "news",
+      title: "U.S. Navy Destroyer USS Chafee Practices Underway Refueling with Seahawk USV",
+      source: "USNI News",
+      sourceMeta: "news.usni.org · 2026-09-22",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미 해군 USS Chafee (DDG-90) 구축함이 2026년 9월 11일 태평양에서 Seahawk 중형 무인수상함(MDUSV)에 대한 해상 급유 작전을 수행<br>• Seahawk는 Medium Displacement USV로, 항모전단과의 작전 연계를 위한 무인함정의 지속성(sustainment) 개선이 목표<br>• 해상 급유는 함미(astern) 방식으로 수행되었으며, 2026년 4월 USNS Guadalupe (T-AO 200) 유조함과의 사전 테스트에 이어 실시<br>• 무인함정의 해상 급유 능력은 항모전단 배치 작전에서 MDUSV의 지속적 운영을 위해 핵심적 중요도 보유<br>• 미 해군의 자율화 전략 일환으로 무인시스템과 유인함정 간 상호운용성(interoperability) 강화 추진 중</p><h3>Key Quotes</h3><p>• "critical to deployed operations of MUSVs in conjunction with a carrier strike group" (항모전단과의 연계 배치 작전에서 무인수상함의 지속적 운영을 위해 매우 중요)</p><h3>Technical Insights</h3><p>• **해상 급유 자동화**: 함미(astern) 방식의 무인함정 급유는 COLREG 및 IMO 해상안전 규정 준수 하에서 수행되며, 향후 자동화 수준 상향의 기초 데이터 확보<br>• **항모전단 운용 연계**: MDUSV의 해상 지속성 확보를 통해 항모전단의 작전 반경 확대 및 지휘소(Carrier Strike Group) 구성 변화의 신호<br>• **무인-유인 상호운용성**: 기존 유인함정(구축함, 유조함)과 무인시스템 간 통신, 급유 인터페이스, 조선 조작 표준화가 향후 대규모 함대 운영의 핵심 요소</p></div>`,
+      tags: ["Autonomous Ships","USV","Underway Replenishment","Naval Operations","Seahawk MDUSV"],
+      link: "https://news.usni.org/2026/09/22/u-s-destroyer-practices-refueling-seahawk-usv-while-underway",
+      coords: [0,0],
+      location: "Pacific Ocean"
+    }
+  ]
+});
