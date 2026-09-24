@@ -17316,3 +17316,46 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-23
+addEvents({
+  "2026-09-23": [
+    {
+      type: "news",
+      title: "U.S. Special Forces Operate Helicopter From Autonomous Barge for the First Time",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-09-23",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/09/1788965184281.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 160th SOAR(특수작전항공연대)이 Sea Machines의 자율운항 바지선에서 MH-47G 치누크 헬기의 착륙 및 보급 작전을 최초로 수행했으며, 이는 군사 해양 물류의 획기적인 진전을 의미함</p><p>• Sea Machines Robotics가 개발한 SM300 자율운항 변환 키트가 2021년부터 국방부와 협력하여 개발되었으며, 총 $3.1백만 달러가 투입되었음</p><p>• 자율운항 바지선은 단거리 무장 및 요격 드론 위협으로 인한 전선 작전 위험 증가를 완화하고, 헬기의 작전 범위와 유연성을 대폭 향상시킬 수 있음</p><p>• SM300은 20-30피트 규모의 소형 경질 선박부터 미국 최대급 헬기를 수용할 수 있는 대형 바지선까지 다양한 선박에 적용 가능한 공통 아키텍처 제공</p><p>• 자율운항 보급 시스템은 헬기의 재무장, 연료 보급, 응급 의료 물자 공급 등 핵심 작전 지원 기능을 비교 불가능할 정도로 향상시킴</p><p>• L3Harris의 Red Wolf 같은 200해리 사거리 순항미사일과 결합될 경우, 헬기의 공격 범위와 다용성이 대폭 증가하여 차세대 해양 전력 구조 변화를 주도</p><h3>Key Quotes</h3><p>• "This flight test marks the first time disclosed to the broader public that a U.S. Helicopter, let alone one operating with one of America's premier Airborne Special Operations Forces, landed and replenished from a vessel of this type under autonomous operation." <br>(미국 헬기가 자율운항 선박에서 착륙하고 보급받는 것이 공개적으로 확인된 것은 이번이 처음이며, 특히 미군의 최정예 특수작전항공부대가 운용한다는 점에서 의미가 있음)</p><p>• "Autonomous replenishment at sea offers massively improved flexibility for America's helicopter fleet, including Army Attack and transport helicopters which would otherwise have no place to operate from or would lack the range without a stopover/alternative place to land." <br>(해상 자율운항 보급은 미군 헬기의 작전 유연성을 혁신적으로 개선하며, 기존에는 작전 기지가 없거나 항속거리 제약이 있었던 공격/수송 헬기의 활용도를 획기적으로 확대)</p><h3>Technical Insights</h3><p>• **자율운항 바지선의 군사 적용 의미**: SM300의 공통 아키텍처/소프트웨어 기반 설계는 다양한 선박 플랫폼에 신속하게 적용 가능하며, 이는 해군/육군 전술의 급속한 변화에 대응하는 핵심 기술로 평가됨</p><p>• **COLREG 및 자율운항 규제의 실무 적용**: 군사 작전 환경에서 자율운항 시스템의 실제 운용 경험은 국제해사기구(IMO)의 자율선박 규제 체계 수립에 실증 자료를 제공하며, 특히 고위험 환경에서의 안정성 검증 필요성을 강조</p><p>• **해상 다중 플랫폼 통합 전략**: 자율운항 바지선이 헬기·드론·수상 함정 간 네트워크 보급 허브 역할을 하면서, 전통적 모함 중심의 해양 전력 구조가 분산 자율 시스템으로의 패러다임 전환 가속화</p><p>• **무인 시스템 상호운용성 표준화**: 160th SOAR의 작전 검증은 육군·해병·해군의 다양한 항공 플랫폼이 동일한 자율운항 로직에 기반한 보급 체계와 연동 가능함을 증명하며, 향후 국방부 전군 작전 효율성 비약적 향상 예상</p></div>`,
+      tags: ["autonomous vessels","unmanned systems","military logistics","Sea Machines","160th SOAR"],
+      link: "https://www.navalnews.com/naval-news/2026/09/u-s-special-forces-operate-helicopter-from-autonomous-barge-for-the-first-time/",
+      coords: [0,0],
+      location: "Global"
+    },
+    {
+      type: "news",
+      title: "Belgium's Second rMCM Ship 'Tournai' Arrives in Zeebrugge",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-09-23",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/09/LRKCE0RapS9NC5-scaled.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 벨기에 해군의 두 번째 원격 해제 광산소해함정(rMCM) 함선 'Tournai'(M941)가 2026년 9월 22일 지브루헤에 도착했으며, 이는 벨기에-네덜란드 광산소해 대체 프로그램의 일환</p><p>• Naval Group과 Exail로 구성된 Belgium Naval & Robotics 컨소시엄이 개발했으며, 첨단 무인 시스템(무인 항공, 수상, 수중 장비)을 탑재</p><p>• Stand-off 원칙에 따라 설계되어 위험 지역에서 거리를 유지하면서 무인 시스템으로 광산 탐지, 식별, 무력화 수행</p><p>• 벨기에와 네덜란드는 총 12척의 신형 광산소해함정을 점진적으로 취역시킬 예정이며, 2025년 11월 첫 번째 함선 'Oostende'(M940) 인수 이후 추가 배치</p><p>• 북해의 역사적 광산과 현재의 지정학적 긴장에 대응하는 해상 인프라 보호 능력 강화</p><p>• 2022년부터 DGMR 대표가 프랑스 Concarneau 조선소에서 건설 감시, Harbour Acceptance Tests(HAT) 등 광범위한 검증 완료</p><h3>Key Quotes</h3><p>• "Tournai is much more than a new ship. It represents a new step in building an integrated mine countermeasures capability, where ships, autonomous systems, and highly skilled military personnel complement each other." <br>(Tournai는 단순한 신규 함선을 넘어, 함선, 자율시스템, 숙련된 군 인력이 상호 보완하는 통합 광산소해 능력 구축의 새로운 단계를 대표한다)</p><p>• "With the arrival of the BNS Tournai, we are once again confirming this position and demonstrating that we continue, and want to continue, to invest in innovation and development in this field."<br>(Tournai 도입으로 광산 작전 분야의 국제적 명성을 재확인하고 혁신과 개발에 지속적으로 투자하는 의지를 입증한다)</p><h3>Technical Insights</h3><p>• **자율 무인 시스템의 통합 운영**: Stand-off 원칙 기반 설계로 모함이 위험 지역에서 안전한 거리를 유지하면서 무인 항공기(UAV), 무인 수상정(USV), 무인 잠수정(AUV)을 동시 운용하여 광산 위협 대응의 안전성 및 효율성 극대화</p><p>• **IMO/해군 규정 준수 및 국제 협력 모델**: 벨기에-네덜란드 양국의 광산소해 능력 표준화, Naval Group-Exail 국제 컨소시엄 협력으로 NATO 해상 안보 강화 및 공급망 보호 체계 구축</p><p>• **무인 시스템 운영 인력 양성**: 첨단 자율 장비 운영을 위한 전문 인력 모집·훈련 체계 구축의 필요성 강조로, 차세대 해군 인력 개발 및 산업 생태계 구성 추진</p><p>• **해양 안보 위협 대응의 진화**: 역사적 광산 제거 및 현대 지정학적 위협(해상 광산 재무장화)에 대응하는 신형 MCM 함정의 역할 증대로 해상 교통로, 항만, 중요 인프라 보호 능력 고도화</p></div>`,
+      tags: ["Mine Countermeasures","Autonomous Systems","Belgium Navy","rMCM Program","Naval Innovation"],
+      link: "https://www.navalnews.com/naval-news/2026/09/belgiums-second-rmcm-ship-tournai-arrives-in-zeebrugge/",
+      coords: [3.2039,51.3397],
+      location: "Zeebrugge, Belgium"
+    },
+    {
+      type: "news",
+      title: "Louisiana Shipyards Compete for U.S. Navy Autonomous Vessel Contracts",
+      source: "USNI News",
+      sourceMeta: "usni.org · 2026-09-23",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미 해군이 무인 드론함정 함대 확보를 위해 루이지애나 지역 조선소들과 협력 중이며, Route 90 지역 3개 조선소가 이 사업 수주를 위해 경합 중</p><p>• Breaux Brothers Enterprises를 포함한 로지애나 조선소들이 알루미늄 재질의 Romulus급 무인함정 건조 추진 중</p><p>• 유가변동에 따른 석유·가스산업의 호황과 불황이 지역 조선산업에 미치는 영향이 존재하며, 해군 무인함정 사업이 지역 경제 재편의 기회로 작용</p><p>• 여러 세대의 조선인력이 참여하는 전통 조선소들의 자동화·무인화 기술 전환 추진</p><p>• 미 해군의 자율항해 및 무인 군사함정 전력화 전략의 일환으로 국내 조선 능력 강화</p><h3>Key Quotes</h3><p>• "generations of shipbuilders are wrenching on the U.S. Navy's latest push toward a future drone fleet"<br>(여러 세대의 조선인력이 미 해군의 미래형 드론함정 개발 사업에 참여하고 있음)</p><p>• "several shipyards are vying for a chance to build unmanned ships for the world's most powerful navy"<br>(여러 조선소들이 세계 최강 해군을 위한 무인함정 건조 기회를 놓고 경쟁 중)</p><h3>Technical Insights</h3><p>• 알루미늄 재질 무인함정(Romulus급)의 건조를 통해 가볍고 빠른 자율항해 플랫폼 개발 추진 중이며, 이는 차세대 해군 작전 개념의 구현을 의미</p><p>• 전통 조선산업의 구조 전환 필요성 증가 - 석유·가스산업 중심에서 무인·자율화 기술 기반 방위산업으로의 전환이 지역 조선소의 경쟁력 확보 핵심 요소</p><p>• IMO 및 COLREG 기준을 만족하는 무인함정의 개발은 군사용 자율항해 기술과 상업용 해운 기술의 교집합 영역으로, 향후 민간 해운산업에도 기술 파급 가능성 존재</p><p>• 미 해군의 드론함정 전력화는 아시아·태평양 지역 해양 안보 경쟁 심화 및 자율 무기체계 국제 규제 논의의 중요 촉발점으로 작용</p></div>`,
+      tags: ["autonomous ships","U.S. Navy","unmanned vessels","shipbuilding"],
+      link: "https://news.usni.org/2026/09/23/three-louisiana-shipyards-are-vying-for-a-stake-in-navys-autonomous-future",
+      coords: [-91.8749,30.1349],
+      location: "New Iberia, Louisiana"
+    }
+  ]
+});
