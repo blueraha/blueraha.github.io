@@ -17254,3 +17254,65 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-23
+addEvents({
+  "2026-09-23": [
+    {
+      type: "accident",
+      title: "Indian Seafarer Killed in Attack on Bulk Carrier Cape Dao in Strait of Hormuz",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-09-23",
+      image: "https://gcaptain.com/wp-content/uploads/2026/08/2026-07-31T061146Z_355163413_RC2ROMAOX291_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ-800x522.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 아랍에미리트 미나 사크르 항을 출발한 앤티과 바부다 국기 선박 Cape Dao(IMO 9219020)가 호르무즈 해협 근처에서 정체 불명의 미사일 공격을 받아 탄약고 화재 발생</p><p>• 인도 국적 선원 Suraj Yadav(26세, 위퍼)가 사망하였으며, 선박에 탑승한 28명 중 인도 국적 선원 20명 포함</p><p>• Royal Navy of Oman의 구조 함정이 27명의 생존 선원을 대피시키고 의료지원 제공</p><p>• 인도 전국해원조합(Forward Seamen's Union of India)이 인도 총리에게 호르무즈 해협, 오만만, 홍해, 흑해 등 분쟁 지역 항행 시 선원 보호 강화 요청</p><p>• 현재 인도 대사관에서 오만 당국과 협력하여 남은 19명 인도 국적 선원의 안전 확보 중</p><h3>Key Quotes</h3><p>• "He was a civilian seafarer, not a combatant. He was killed on a merchant ship sailing to India. That death is not justified." (그는 민간 선원이지 전투원이 아니었다. 인도로 항행 중인 상선에서 피살당했다. 그의 죽음은 정당화될 수 없다.)</p><p>• "Assurances have not stopped the killing." (보장만으로는 이러한 사망을 막을 수 없다.)</p><p>• "We are deeply saddened by the loss of one Indian national in this attack. Our heartfelt condolences to the bereaved family." (이번 공격으로 인한 인도 국민의 사망에 깊은 애도를 표합니다. 유족분들께 진심 어린 조의를 표합니다.)</p><h3>Technical Insights</h3><p>• 호르무즈 해협 내 상선 공격 사건으로 국제 해양 안전 및 해상 교통로 보호의 심각성 대두 - 현물 운송 선박의 군사 작전 지역 통과 시 COLREG 및 IMO 해상 안전 규정만으로는 충분하지 않은 상황 발생</p><p>• 분쟁 지역 항행 선박에 대한 국가별 해군 호송(Convoy), 실시간 항로 정보 제공, 해상 보안 체계 강화의 필요성 - 인도 해원조합의 24시간 위기 관리팀 운영 요청은 산업 표준화된 대응 체계 부재를 반영</p><p>• 미·이란 외교 접촉이 재개되는 상황에서도 해상 공격이 계속되고 있어, 정치적 합의와 실질적 해양 안보 개선 간의 시간 차(Time Gap) 문제 심화 - 상선 피해 방지를 위한 즉각적 국제 해양 안보 협력 메커니즘 필수</p></div>`,
+      tags: ["Strait of Hormuz","Attack","Casualty","Cape Dao","Indian Seafarer","Maritime Security"],
+      link: "https://gcaptain.com/seafarer-killed-in-hormuz-attack-as-trump-pushes-iran-deal-at-un/",
+      coords: [56.2667,26.1667],
+      location: "Strait of Hormuz, near Musandam Governorate, Oman"
+    },
+    {
+      type: "news",
+      title: "USCG Issues Guidance on Retractable Pilot House Safety for Towing Vessels",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-23",
+      image: "https://images.marinelink.com/images/maritime/w800/wangkun-stockadobecom-173865.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **주요 내용**: 미국 해양안전청(USCG)이 예인선의 수동식 조타실 관련 안전 사고 재발 방지를 위해 추가 규제 지침을 발표했으며, 46 CFR § 144.820 규정이 적용됨을 명확히 함</p><p>• **관련 규정**: Title 46 CFR Subchapter M (예인선 규정), 46 CFR § 144.820 (위험지역 보호장치), 46 CFR § 137.220 (Towing Safety Management System 관련 검사 요건)</p><p>• **안전 위험**: 수동식 조타실의 수직 움직임으로 인한 절단, 압착, 압축 및 분쇄 위험이 엔진실 회전 기계류만큼 심각한 생명 위협으로 간주됨</p><p>• **규제 범위 확대**: 기존 "기어 및 회전 기계류"에만 국한된 해석에서 리프팅, 작동, 왕복 운동 등 모든 기계적 위험으로 규제 범위를 확대</p><p>• **대응 조치**: 선박 소유자, 운영자, 선장에게 적절한 보호 장치, 레일 설치 및 안전 관행 이행을 강력히 권장</p><p>• **역사적 배경**: 2019년 해양 사고 조사에 따른 Marine Safety Alert 13-19 이후 추가 명확화 필요로 인한 후속 지침</p><h3>Key Quotes</h3><p>• "All vessel equipment is required to be used in accordance with manufacturer's recommended practice and in a manner that minimizes risk of injury or death." <br>(모든 선박 장비는 제조업체의 권장 관행에 따라 사용되어야 하며, 부상이나 사망의 위험을 최소화하는 방식으로 사용되어야 함)</p><p>• "Title 46 CFR § 144.820 encompasses all mechanical hazards, for inspected towing vessels including the vertical movement, crushing, and pinching hazards posed by retractable pilot houses."<br>(46 CFR § 144.820은 수동식 조타실의 수직 이동, 압착, 집힘 위험을 포함한 모든 기계적 위험을 규정함)</p><h3>Technical Insights</h3><p>• **규제 해석의 진화**: 기술 발전에 따라 "기어 및 회전 기계류"라는 제한적 해석에서 벗어나 리프팅 및 수직 움직임 등 모든 기계적 위험을 포괄하는 포괄적 안전 관점으로 규제가 확대되는 추세</p><p>• **안전 관리 시스템 강화**: TSMS(Towing Safety Management System) 등록 선박에 대한 정기 검사 강화를 통해 보호 장치 상태 확인 및 위험 관행 시정 의무화로 산업 전반의 안전 수준 향상</p><p>• **산업 표준화**: 수동식 조타실 등 신기술 도입 시 제조업체 권장 관행과 규제 준수를 동시에 요구함으로써 장비 혁신과 안전성의 균형 추구</p><p>• **예방적 규제**: 과거 사고 사례를 토대로 사전적 안전 조치를 강조하여 같은 유형의 인명 피해 사건 재발 방지에 초점</p></div>`,
+      tags: ["Safety Guidance","Towing Vessels","Retractable Pilot Houses","USCG Regulations"],
+      link: "https://www.marinelink.com/news/guidance-safety-considerations-543217",
+      coords: [0,0],
+      location: "United States (Federal Regulations)"
+    },
+    {
+      type: "accident",
+      title: "USCG Issues Safety Alert After Gangway Failure Causes Passenger Casualties",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-23",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockkamontad123-173864.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 승객 하선 중 검사된 여객선의 갱웨이 연결부가 재앙적 파괴로 분리되어 낙하, 다수 승객의 심각한 부상과 사망 발생<br>• 미국해안경비대(USCG)가 갱웨이 검사, 유지보수, 운영 안전성 부족 경고<br>• 유사 해양사고 조사 결과 일상적인 승선/하선 장비도 부적절한 유지보수 시 치명적 위험 초래 가능<br>• 선박 소유자 및 운영자에게 갱웨이 정기 검사, 유지보수, 운영 안전 강화 권고<br>• 설계·엔지니어링 기준 사무소와 조사·사고분석 사무소가 공동 발행한 안전 공지<br>• 여객선 안전 관리 표준화 필요성 대두</p><h3>Key Quotes</h3><br>• "the gangway's connection point on a vessel suffered a catastrophic failure. As a result, the gangway separated from the vessel and fell, causing severe injuries to several passengers and a tragic loss of life." (선박의 갱웨이 연결점이 재앙적 파괴를 겪어 갱웨이가 분리되어 낙하하였고, 이로 인해 다수 승객의 심각한 부상과 사망자 발생)</p><p>• "A tragic marine casualty involving an inspected passenger vessel serves as a critical warning that even routine embarkation equipment can become deadly if it is not properly maintained, inspected, and secured." (검사된 여객선과 관련된 비극적 해양사고는 정기점검 장비도 적절히 유지보수, 검사, 고정되지 않으면 치명적이 될 수 있다는 중요한 경고)</p><h3>Technical Insights</h3><br>• 갱웨이 연결부 결함은 구조적 피로(fatigue) 및 부식(corrosion) 등 육안 검사로도 놓칠 수 있는 숨겨진 결함이 원인일 가능성 높음<br>• 여객선의 정기적 안전 검사(Periodic Survey) 중 갱웨이 등 승선 장비에 대한 비파괴검사(NDT) 강화 필요<br>• IMO SOLAS 규약에서 요구하는 승선 장비 안전 기준과 실제 현장 운영 간 격차 해소를 위한 국제 기준 정비 필수<br>• 선박 운영사의 예방적 유지보수(Preventive Maintenance) 프로그램 체계화 및 정기 감사 제도 강화로 유사 사고 재발 방지</p></div>`,
+      tags: ["gangway failure","passenger safety","vessel inspection","maritime casualty","USCG safety alert"],
+      link: "https://www.marinelink.com/news/uscg-offers-insight-gangway-inspection-543216",
+      coords: [0,0],
+      location: "United States (USCG jurisdiction)"
+    }
+  ]
+});
+
+// Auto-collected: 2026-09-13
+addEvents({
+  "2026-09-13": [
+    {
+      type: "accident",
+      title: "Death Toll from Capsized Ferry Virgo Transport 8 in Indonesia's Java Sea Rises to 20",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-09-23",
+      image: "https://gcaptain.com/wp-content/uploads/2026/09/2026-09-14T074332Z_1368835835_RC2PINAVUC84_RTRMADP_3_INDONESIA-SHIP-CAPSIZE-800x447.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 인도네시아 자바해에서 여객선 비르고 트랜스포트 8호가 9월 13일 악천후로 침몰하여 사망자 20명, 실종자 115명 발생<br>• 탑승 인원 243명(선원 30명 포함) 중 생존자 108명 확보, 차량 탑재 상태로 침몰<br>• 구조팀이 선박 내부 객실에서 8구, 해안 표류 시신 2구 수습하며 진행 중<br>• 수중 탐색 장애: 탁한 물, 강한 해류로 객실 진입 불가능한 상황 지속<br>• 침몰 선박의 우측 복원 시도 중이나 현재까지 실패, 수색 작업은 다음 주 일요일까지 연장</p><h3>Key Quotes</h3><br>• "Our underwater search is focused on the ship's hull. That is where we are concentrating because we have found many passengers trapped inside the cabins." (우리의 수중 수색은 선박 선체에 집중하고 있으며, 많은 승객이 객실 내부에 갇혀있는 상황이다)<br>• "This poses risks to the diving team. If it is feasible and safe, we will carry out the search." (이는 잠수 팀에 위험을 초래하므로, 안전한 경우에만 수색을 진행할 것이다)</p><h3>Technical Insights</h3><br>• 악천후 중 여객선 운항 안전 기준 및 위험 기상 판단 절차의 개선 필요 - 조기 운항 중단 또는 항로 변경 등의 의사결정 강화 필요<br>• 선박 침몰 후 구조 작업의 환경적 제약(탁한 물, 강한 해류)을 극복하기 위한 첨단 수중 로봇 및 영상 기술의 활용 확대 필요<br>• 여객선 정원 초과 탑재, 안전장비 미비 등 규정 위반 사항 적발 및 해운사 감독 강화의 중요성 대두<br>• IMO 해상안전기준(SOLAS)에 따른 정기점검, 선원 훈련, 비상 대응 절차 이행 감시 메커니즘 강화 필요</p></div>`,
+      tags: ["capsizing","ferry","Java Sea","passenger ship","search and rescue"],
+      link: "https://gcaptain.com/death-toll-from-capsized-ship-in-indonesia-rises-to-20-as-search-continues-for-115-missing-passengers/",
+      coords: [110.4,-6.9],
+      location: "Java Sea, Indonesia"
+    }
+  ]
+});
