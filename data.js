@@ -17420,3 +17420,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-25
+addEvents({
+  "2026-09-25": [
+    {
+      type: "accident",
+      title: "Foundering of Fishing Vessel Argos Georgia with Loss of 13 Lives",
+      source: "MAIB (Marine Accident Investigation Branch)",
+      sourceMeta: "gov.uk · 2026-09-25",
+      image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 세인트헬레나 등록 선망어선 Argos Georgia가 포클랜드 제도에서 남조지아 해역으로 항해 중 침몰하여 탑승자 27명 중 13명이 사망한 해양사고</p><p>• **직접 원인**: 선박 우현에 위치한 라인 풀링 해치(line hauling hatch)가 예기치 않게 개방되어 대량의 해수가 유입되었으며, 수동 잠금장치가 적용되지 않아 승무원이 해치를 폐쇄할 수 없었음</p><p>• **기술적 결함**: 해치 구동 메커니즘의 미확인 설계 결함, 개방된 기밀 문, 취약한 전기 시스템, 접근 불가능한 수동 제어로 인해 침수가 확산되고 안정성을 상실함</p><p>• **운영 및 관리 부실**: 해당 선박 운영사의 안전 관리 시스템 부재, 선원의 비체계적 긴급대응, 조난 선언 및 기선 택 지연으로 구조 시간이 단축되고 인명 피해 증가</p><p>• **권고사항**: 자동 잠금장치를 포함한 해치 설계 기준 개정, 선박 운영사의 문서화된 안전 관리 시스템 수립, 포클랜드 해역 해상 수색구조 통신 능력 강화</p><h3>Key Quotes</h3><p>• "The manual securing mechanism for the line hauling hatch had likely not been applied and the hatch could not be closed by the crew. This led to the vessel progressively flooding, loss of stability and foundering."<br>(라인 풀링 해치의 수동 잠금장치가 작동되지 않아 승무원이 해치를 폐쇄할 수 없었고, 이로 인해 선박이 점진적으로 침수되어 복원력을 상실하고 침몰했다)</p><p>• "The crew's response was unstructured, and delays in declaring distress and abandoning ship reduced rescue time."<br>(승무원의 대응이 체계적이지 않았으며, 조난 신고 및 기선 택 지연으로 구조 가능 시간이 단축되었다)</p><h3>Technical Insights</h3><p>• **선박 설계 기준의 결함**: 어선의 기밀 해치 설계에 자동 잠금 메커니즘이 부재하여 의도치 않은 개방으로 인한 침수 위험이 존재하며, IMO 안전 기준 강화가 필요함</p><p>• **해상 안전 관리 시스템의 중요성**: Safety Management System(SMS) 부재로 인해 극한 환경 및 원격해역에서의 긴급상황 대응 능력이 현저히 저하되었으며, 모든 상업용 어선에 문서화된 SMS 의무화가 필수적임</p><p>• **원격해역 구조 통신 인프라**: 포클랜드 해역의 해상 수색구조 통신 능력 부족이 조난 신고 지연을 초래했으며, 원격 해역 선박의 실시간 위치 추적 및 통신 시스템 고도화가 생명 보호에 직결됨</p><p>• **어선 산업 규제 강화**: 소형 어선의 비체계적 안전 문화가 대형 사고로 이어지는 경향이 있으므로, 선급(Classification Society) 검사 강화 및 플래그 스테이트의 감시 역할 강화가 시급함</p></div>`,
+      tags: ["fishing vessel","foundering","hatch failure","South Georgia","casualty"],
+      link: "https://www.gov.uk/maib-reports/foundering-of-the-fishing-vessel-argos-georgia-with-the-loss-of-13-lives",
+      coords: [-36.5,-54.2],
+      location: "South Georgia waters, Falkland Islands region"
+    }
+  ]
+});
