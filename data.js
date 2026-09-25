@@ -17359,3 +17359,64 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-24
+addEvents({
+  "2026-09-24": [
+    {
+      type: "news",
+      title: "U.S. Coast Guard R&D Center Honored for Emerging Technologies and Unmanned Systems Work",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-24",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 미국 해안경위대(USCG) 연구개발센터(RDC)가 신흥 기술 및 무인 시스템 개발 업적으로 해안경위대 부대표창(Unit Commendation) 수상<br>• 2023년 6월부터 2026년 2월까지 3년간 무인 시스템, 통신, 수색·구조 분야에서 기여<br>• 커넥티컷 뉴런던 소재 RDC의 해양 안전 및 자율화 기술 개발 성과 인정<br>• 무인 시스템과 신기술 개발은 해양 환경 모니터링 및 구조 작전 효율성 향상에 기여<br>• 해안경위대의 기술 혁신 추진 방향 제시 및 해양 안전 고도화</p><h3>Key Quotes</h3><br>• "The award recognizes the RDC's service from June 2023 through February 2026" (2023년 6월부터 2026년 2월까지 연구개발센터의 서비스와 기여를 인정하는 표창)</p><h3>Technical Insights</h3><br>• **무인 시스템 기술**: 해안경위대의 무인선박(USV) 및 무인항공기(UAV) 개발은 수색·구조 및 해양 감시 작전에 자동화 기술 적용 추진<br>• **자율 항법 인프라**: 신흥 통신 기술 개발은 해상 자율선박의 원격 조종 및 실시간 데이터 공유 체계 구축의 기초<br>• **IMO 규제 선도**: 무인 시스템과 자동화 기술 연구는 국제해사기구(IMO) 자율선박 관련 규제 마련에 기술적 근거 제공<br>• **산업적 파급효과**: 해안경위대의 R&D 성과는 민간 해운업계의 자율화 기술 도입 촉진 및 해양 안전 표준화에 영향</p></div>`,
+      tags: ["Coast Guard","R&D","Unmanned Systems","Emerging Technologies","Search and Rescue"],
+      link: "https://www.marinelink.com/news/coast-guard-rd-center-honored-technology-543245",
+      coords: [-72.0969,41.3566],
+      location: "New London, Connecticut"
+    },
+    {
+      type: "news",
+      title: "Karpowership Completes Seven-Vessel FSRU Conversion Program with LNGT Türkiye Delivery",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-09-24",
+      image: "https://www.offshore-energy.biz/wp-content/uploads/sites/6/2026/09/Seatrium_and_Karpowership-002.jpg?image-crop-positioner-ts=1790257229",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 터키 에너지 기업 Karpowership가 싱가포르 기반 Seatrium과 협력하여 7척의 LNG 운반선을 부유식 저장 및 재가스화 장치(FSRU)로 개조하는 대규모 프로젝트 완료</p><p>• 마지막 선박 LNGT Türkiye가 Seatrium의 Admiralty Yard에서 명명식 및 진수식 개최, 2018년부터 시작된 다중선박 전환 프로그램의 완료를 표시</p><p>• Seatrium은 세계 FSRU/FSU 개조 사업의 90% 이상을 수행한 선도적 조선소로서 복잡한 극저온 및 가스 처리 시스템 통합 작업 수행</p><p>• 7척의 FSRU(LNGT Africa, Asia, Europe, Antarctica, Americas, Oceania, Türkiye)는 Karpowership의 통합 LNG-to-Power 가치사슬을 지원하며 4개 대륙에서 에너지 보안 강화</p><p>• 향후 협력 확대로 차세대 Powerships 및 해양 에너지 솔루션 개발 계획</p><h3>Key Quotes</h3><p>• "Seatrium combines deep engineering expertise, integrated yard capabilities and execution excellence to navigate complexity and deliver certainty for our customers." (Seatrium은 복잡한 문제를 해결하고 고객에게 확실성을 제공하기 위해 깊은 엔지니어링 전문성, 통합된 조선소 역량, 그리고 우수한 실행력을 결합하고 있습니다.)</p><p>• "What we built together at Admiralty Yard was never just steel and machinery; it was deep operational trust, forged by our engineers and shipyard teams working side by side." (Admiralty Yard에서 함께 구축한 것은 단순한 강철과 기계가 아니라 우리의 엔지니어와 조선소 팀이 나란히 일하면서 구축한 깊은 운영 신뢰입니다.)</p><h3>Technical Insights</h3><p>• LNG 운반선의 FSRU 개조는 극저온 시스템, 해양 공학, 가스 처리 시스템 통합 등 고도의 기술적 복잡성을 요구하며, Seatrium의 90% 이상의 시장점유율은 이 분야의 기술적 우월성을 입증</p><p>• 부유식 LNG 저장·재가스화 설비는 해상 에너지 인프라의 핵심 요소로, Karpowership의 Powership 플릿과 연계하여 원격 지역의 에너지 보안 및 그리드 유연성 확보를 가능하게 함</p><p>• LNG-to-Power 통합 가치사슬은 청정 에너지 공급과 에너지 전환 가속화의 전략적 솔루션으로, 4개 대륙에서의 운영을 통해 글로벌 에너지 수요 증가에 대응하는 산업 모델의 선진 사례</p></div>`,
+      tags: ["FSRU","LNG Conversion","Karpowership","Seatrium","Floating Power Solutions"],
+      link: "https://www.offshore-energy.biz/last-fsru-in-seven-vessel-conversion-program-boosts-karpowerships-lng-to-power-value-chain/",
+      coords: [28.9784,41.0082],
+      location: "Istanbul, Turkey (Seatrium Admiralty Yard - Singapore operations)"
+    },
+    {
+      type: "news",
+      title: "US, Iran Explore Phased Deal to Reopen Hormuz, End Blockade",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-24",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockytemha34-173901.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국과 이란은 호르무즈 해협을 둘러싼 약 7개월간의 분쟁을 종료하기 위해 단계별 협상을 진행 중이며, 이란의 해협 개방과 미국의 경제 제재 해제를 주요 교환 조건으로 논의하고 있음</p><p>• 호르무즈 해협은 글로벌 석유 공급로의 약 30%를 담당하고 있으며, 현재 이란의 봉쇄로 인해 국제 에너지 안보에 직접적인 영향을 미치고 있음</p><p>• 이란은 미국의 경제 제재로 인한 심각한 경제 위기(국가 경제 '붕괴' 수준)를 겪고 있어 협상에 강한 동기를 갖고 있으나, 미국은 현재의 강한 협상력 입장을 유지하려는 입장</p><p>• 트럼프 행정부는 11월 3일 중간선거 이후 협상 체결 가능성을 시사했으며, 호르무즈 해협 재개는 미국 휘발유 가격 하락과 지역 긴장 완화에 기여할 수 있음</p><p>• 전 미국 협상담당자 데니스 로스는 선거 전 협정 체결 확률을 약 30%로 평가했으나, 양측 모두 선거 전 합의에 더 강한 동기가 있을 수 있다고 지적</p><p>• 협상의 주요 장애물은 어느 한쪽도 협상력을 먼저 포기하기를 원하지 않는다는 점이며, 지난 7월 실패한 임시 협약의 교훈을 바탕으로 더욱 견고한 합의 메커니즘이 필요한 상황</p><h3>Key Quotes</h3><p>• "One way forward would be to solve the crisis in stages. The first would be to end the blockade and reopen Hormuz" (위기 해결의 방향은 단계적 접근이며, 첫 번째 단계는 제재 해제와 호르무즈 해협 재개입니다)</p><p>• "The blockade is what's really squeezing the Iranians. It's strangling them" (제재가 이란을 정말로 압박하고 있으며, 경제를 질식시키고 있습니다)</p><p>• "Iran is desperate for a deal, President Trump holds all the cards and will make whatever decision is best for the United States" (이란이 협상을 절실히 원하고 있으며, 트럼프 대통령이 모든 협상력을 갖고 있고 미국에 최선의 결정을 내릴 것입니다)</p><h3>Technical Insights</h3><p>• 호르무즈 해협의 전략적 중요성: 글로벌 해상 에너지 공급로의 약 30%를 담당하는 해협의 개방/폐쇄는 국제 해운산업과 에너지 가격에 직접적인 영향을 미치며, IMO의 해상 안전 기준 준수 필요성 강조</p><p>• 지정학적 해운 분쟁의 장기화 영향: 장기간의 해협 봉쇄는 글로벌 공급망 혼란, 운임 상승, 보험료 증가 등 해운산업 전반에 구조적 위험을 초래하며, 자율운항선박의 안전성 및 운영 경로 재설계 필요성 증대</p><p>• 단계별 협상 메커니즘의 해운업 영향: 임시 협약의 안정성 부재로 인한 해운사의 경로 선택 불확실성 증가, 해협 통과 선박의 위험관리 프로토콜 개선 필요</p><p>• 전략적 해상로 개방의 자동화 네비게이션 시스템 요구: 호르무즈 해협과 같은 고위험 해역에서의 해상 교통 관리를 위해 AI 기반 충돌 회피 시스템(COLREG 준수)과 실시간 위치 추적 시스템의 고도화가 필수적임</p></div>`,
+      tags: ["Strait of Hormuz","US-Iran Negotiations","Blockade","Oil Supply Route","Geopolitics"],
+      link: "https://www.marinelink.com/news/us-iran-explore-phased-deal-reopen-hormuz-543254",
+      coords: [56.1499,26.1207],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
+
+// Auto-collected: 2026-09-25
+addEvents({
+  "2026-09-25": [
+    {
+      type: "news",
+      title: "U.S. Navy Establishes Robotic and Autonomous Systems Warfighting Development Center",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-09-25",
+      image: "https://maritime-executive.com/media/images/article/1790301345_6ab5d4a1685cb.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미 해군이 로봇·자율 시스템 작전 개발 센터(RASWDC)를 신설하여 무인 시스템 프로그램 구조를 재편성했으며, 이는 해군 무인 시스템 통합의 새로운 중앙 집중식 접근을 대표함</p><p>• RASWDC는 노퍼크 인근 Little Creek-Fort Story 기지에 위치하며, Fleet Forces Command에 보고하면서 무인 시스템의 작전 통합 및 전술 개발을 담당</p><p>• 신설된 DRPM RAS(직속 포트폴리오 관리자)는 Christopher Miller 국방부 구매·예산 책임자가 주도하며 무인 시스템의 구매, 예산 책정 및 기술 표준 설정 담당</p><p>• Rear Admiral Melvin Smith가 RASWDC 초대 사령관으로 임명되었으며, "해군 부대가 무인 시스템을 단순 운영하지 않고 지배적으로 활용하도록 만드는 것"이 핵심 목표</p><p>• 공중, 수상, 수중 영역에 걸친 무인 시스템 통합으로 장비 테스트, 전술·기법·절차 개발, 전투 환경 대비를 일원화</p><p>• Task Force 59 등 함대 내 기존 현지 혁신 조직은 독립성을 유지하며 계속 활동할 수 있도록 설계됨</p><h3>Key Quotes</h3><p>• "Our purpose here is to consolidate the Navy's autonomous efforts across air, surface, and undersea domains, and give them a single home here at Little Creek. Our mandate is straightforward: educate our warfighters, equip the Fleet with tools that actually survive the environment, and develop the combined tactics to employ them decisively. We are here to make sure our forces don't just field unmanned systems, but dominate with them." <br>(해군의 자율 시스템 노력을 공중·수상·수중 전역에 걸쳐 통합하고, 작전 전투원 교육, 실전 환경에 견디는 장비 공급, 효과적 운영 전술 개발을 통해 단순 무인 시스템 운영을 넘어 우위 확보)</p><p>• "a dedicated, Fleet-facing operational integration point for robotic and autonomous capabilities"<br>(함대 작전을 지향하는 로봇·자율 시스템 통합의 전담 조직)</p><h3>Technical Insights</h3><p>• **조직 구조의 명확한 분업화**: DRPM RAS의 구매·예산 역할과 RASWDC의 작전 통합·전술 개발 역할을 명확히 분리함으로써 정책 수립과 현장 적용 간의 효율성 강화</p><p>• **자율 시스템 도메인 통합의 중요성**: 공중(드론), 수상(무인정), 수중(UUV) 시스템을 단일 센터에서 통합 관리하여 교차 도메인 전술 개발 및 운영 표준화 가능</p><p>• **해상 무인화 군사 경쟁의 가속화**: 미 해군의 조직 재편성은 자율 해양 시스템의 전술적 중요성 증가와 중국·러시아 등 경쟁국 대비 기술 우위 확보 필요성 반영</p><p>• **IMO/국제 규제와의 괴리**: 군사용 자율 시스템 개발이 민간 해상 산업 표준(COLREG, IMO 규정)과는 별개 경로로 진행되어 향후 민·군 기술 수렴 시 규제 조화 과제 발생 가능</p></div>`,
+      tags: ["U.S. Navy","Autonomous Systems","Unmanned Vessels","Military Technology","Organizational Structure"],
+      link: "https://maritime-executive.com/article/u-s-navy-gives-unmanned-systems-their-own-warfighting-development-center",
+      coords: [-76.3852,37.0072],
+      location: "Norfolk, Virginia, USA"
+    }
+  ]
+});
