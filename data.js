@@ -17440,3 +17440,41 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2024-07-22
+addEvents({
+  "2024-07-22": [
+    {
+      type: "accident",
+      title: "Hatch Failure Triggered Deadly Fishing Vessel Sinking That Killed 13, MAIB Finds",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2024-07-22",
+      image: "https://gcaptain.com/wp-content/uploads/2026/09/Argos-Georgia.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **침몰 원인**: St Helena 등록 선망선 Argos Georgia의 우현(Starboard) 라인-하울링 해치가 예상 밖으로 열려 광대한 양의 해수가 선내로 유입되어 침몰 (사망 13명, 생존 14명)</p><p>• **선박 정보 및 사건**: Argos Georgia는 2024년 7월 22일 Port Stanley에서 South Georgia 근처 어장으로 향하던 중 Falkland Islands 동쪽 약 190해리 지점에서 침몰</p><p>• **기술적 결함**: 해치의 수동 고정 메커니즘이 미작동되었으며, 해치 구동 메커니즘의 미인식 결함과 개방된 기밀 도어, 취약한 전기 시스템이 침수를 악화시킴</p><p>• **운영 및 관리 부실**: 선박 운영사 Argos Froyanes Limited의 부실한 안전 관리 체계, 불충분한 긴급 대응 계획, 비구조적 침수 대응이 참사의 주요 요인</p><p>• **구조적 요인**: 승무원의 응급 조치 지연, 선박 이탈 선언 지연, 악천후 상황에서의 구명정 손상으로 인한 냉수 노출 시간 증가</p><p>• **권장사항**: UK Maritime and Coastguard Agency는 24미터 이상 어선의 셸 도어에 자동 잠금장치 설치 의무화, 선박 운영사의 문서화된 안전 관리 체계 수립 권고</p><h3>Key Quotes</h3><p>• "This was a tragic accident resulting in the loss of 13 lives. Fishing in the remotest and most hostile parts of our oceans requires strict adherence to the maintenance of a vessel's watertight integrity." <br>(매우 험한 원양에서의 어업은 선박의 수밀 무결성 유지를 엄격히 준수해야 한다는 것을 강조)</p><p>• "A quick, clear and efficient emergency plan should be executed. Training and safety drills provide the best chance of survival in such extreme circumstances."<br>(극한 상황에서의 생존 확률을 높이려면 신속하고 명확한 긴급 계획 실행과 훈련이 필수)</p><h3>Technical Insights</h3><p>• **해치 설계 결함**: 라인-하울링 해치의 수동 고정 메커니즘 미작동 및 미인식된 구동 메커니즘 결함은 어선 설계 기준의 개선 필요성을 제기하며, IMO 규정의 어선 안전 기준 강화 필요</p><p>• **수밀 무결성 관리**: 개방된 기밀 도어와 취약한 전기 시스템으로 인한 침수 확대는 정기적인 유지보수와 위험평가 체계의 중요성을 강조; SOLAS 규정의 어선 적용 강화 필요</p><p>• **선사 안전 관리 체계**: 선사의 부실한 안전관리로 인한 긴급 대응 능력 부족은 ISM Code 준수 강화 및 정기적인 안전 훈련 의무화 필요성을 시사</p><p>• **원양 어선 규제**: Falkland Islands 같은 원격 해역에서의 어선 운영은 자동 폐쇄 장치, 강화된 구명장비, 향상된 통신 시스템 등 추가 안전 요구사항 필요</p></div>`,
+      tags: ["fishing vessel","sinking","hatch failure","loss of life","MAIB investigation"],
+      link: "https://gcaptain.com/hatch-failure-triggered-deadly-fishing-vessel-sinking-that-killed-13-maib-finds/",
+      coords: [-57.5,-51.5],
+      location: "Falkland Islands (190 nm east of Port Stanley)"
+    }
+  ]
+});
+
+// Auto-collected: 2026-09-25
+addEvents({
+  "2026-09-25": [
+    {
+      type: "accident",
+      title: "US-Sanctioned Oil Tanker 'Sibu 1' Rescued from Somali Pirates",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-09-25",
+      image: "https://gcaptain.com/wp-content/uploads/2026/04/Iranian-flagged-dhow-ALWASEEMI.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **피랍 선박 해제**: 8월 20일 소말리아 해적에 의해 납치된 에리트레아 기국 유조선 Sibu 1이 순틀란드 해양경찰군의 대(對)해적 작전으로 해제됨</p><p>• **관련 기관 및 선박**: Sibu 1(에리트레아 기국), 순틀란드 해양경찰군(Puntland Maritime Police Force), 영국 해상거래정보센터(UKMTO), 미국 재무부 제재 대상선박</p><p>• **사건 경과**: 6명의 무장 괴한이 선박을 나포했으며, 2일간의 대해적 작전을 통해 순틀란드 해양경찰군이 모든 해적을 체포하고 선박을 확보</p><p>• **미국 제재와의 연관성**: Sibu 1은 2025년 12월 미국 재무부에 의해 이란 석유 제품의 대미 제재 회피를 돕는 '섀도우 플릿'의 일부로 제재 대상에 포함됨</p><p>• **해적 활동의 재증가**: 2026년 소말리아 및 아덴만 해역에서 최소 13척 이상의 선박이 공격받았으며, 2008-2014년 해적 대위기 이후 가장 심각한 재발 추세</p><p>• **경제적 영향**: 과거 해적 활동으로 전 지구적 경제에 수십억 달러의 손실과 수억 달러의 신원금 지불이 발생했던 사례 언급</p><h3>Key Quotes</h3><p>• "It was a counter-piracy operation that was carried out by our forces from two days ago and it's still going on. The ship is free and the pirates are all in the hands of our forces" (우리 군대가 이틀 전부터 수행 중인 대해적 작전이고, 현재도 진행 중입니다. 선박은 해제되었고 해적들은 모두 우리군의 손에 있습니다 - 순틀란드 해양경찰군 사령관 Mohamed Jama)</p><p>• "A wave of Somali piracy between 2008 and 2014 triggered a security crisis in the western Indian Ocean that cost the global economy billions of dollars and led to hundreds of millions of dollars in ransom payments." (2008-2014년 소말리아 해적 물결은 서인도양에 보안 위기를 초래했으며, 전 지구적 경제에 수십억 달러의 손실과 수억 달러의 신원금을 야기했습니다)</p><h3>Technical Insights</h3><p>• **해적 재발 원인 분석**: 이라크, 이란 등 중동 지역 분쟁으로 인한 해군 자원 분산이 소말리아 해역의 보안 진공 상태를 초래하면서 해적 활동이 재증가하는 구조적 문제 발생</p><p>• **제재 회피와 해적 활동의 연계**: 미국 제재 대상 선박의 증가가 해당 해역의 해적 타겟 확대로 이어지는 악순환 구조 형성, 불법 거래(섀도우 플릿)와 해적 활동의 상관관계 심화</p><p>• **해상 보안 강화의 필요성**: UKMTO, 국제해사국(IMO), 국제해상국(IHB) 등 국제 해상 감시 체계의 정보 공유 강화 및 국제적 해군 작전 협력 확대 필요성이 지속적으로 제기됨</p><p>• **선주 및 운영사의 보험료 증가**: 해적 다발 해역 통항으로 인한 선박 보험료 급등과 보안 강화 비용 증가로 해운업 경영 악화 우려</p></div>`,
+      tags: ["piracy","oil tanker","Somalia","Puntland Maritime Police","hostage rescue"],
+      link: "https://gcaptain.com/us-sanctioned-oil-tanker-sibu-1-rescued-from-somali-pirates/",
+      coords: [49.2167,9.5],
+      location: "Somalia/Gulf of Aden"
+    }
+  ]
+});
