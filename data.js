@@ -17478,3 +17478,23 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-25
+addEvents({
+  "2026-09-25": [
+    {
+      type: "news",
+      title: "U.S. Navy Establishes RASWDC for Robotic and Autonomous Systems Integration",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-09-25",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/09/Screenshot-2026-09-25-at-15.01.08-scaled.png",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미 해군이 로봇 및 자율 시스템 전투 개발 센터(RASWDC)를 공식 설립하여 무인 체계의 개발 및 작전 통합을 가속화하는 중요한 이정표 달성<br>• RASWDC는 버지니아주 Joint Expeditionary Base Little Creek-Fort Story에 본부를 두고 U.S. Fleet Forces Command 산하 Echelon 3 전투 개발 센터로 운영되며, 해군의 전술 최전선에서 자율 시스템 통합을 담당<br>• 직급 포트폴리오 관리자(DRPM RAS)와 함께 작동하며, DRPM RAS는 무인 체계의 획득·예산·기술 표준을 관장하고 RASWDC는 작전 운영에 집중하는 이원체계 구조<br>• 시험·실험·훈련 데이터를 신속하게 수집하여 개발사에 피드백함으로써 차세대 능력 개선을 가속화하는 순환 구조 확립<br>• 전술, 기법, 절차(TTPs) 개발 및 전문 교육 체계 구축으로 해병들이 무인 플랫폼 운영 및 배치 준비를 강화<br>• 공중·해상·수중 영역 전반에 걸친 자율 시스템 개발로 해군 전투 우위 유지 및 미래 해전 양식 확보</p><h3>Key Quotes</h3><p>• "To maintain our decisive maritime advantage, we must rapidly integrate robotic and autonomous systems into how we operate, train, and deploy" (해양 우위를 유지하려면 로봇 및 자율 체계를 작전, 훈련, 배치 방식에 신속하게 통합해야 함)</p><p>• "RASWDC is the critical bridge between capability development and operational employment" (RASWDC는 능력 개발과 작전 운영 사이의 중요한 연결고리)</p><p>• "By forging a direct feedback loop, we are accelerating the delivery of unmanned capabilities from the foundry directly to the Fleet" (직접적인 피드백 루프를 구축함으로써 무인 능력을 개발 단계에서 함대로 신속하게 전달)</p><h3>Technical Insights</h3><p>• 자율 해양 시스템의 작전 통합을 위해 획득 부서와 현역 함대 간 양방향 피드백 루프 구축으로, 실전 데이터가 개발 과정에 신속하게 반영되는 민첩한 개발 체계 구현<br>• 공중·해상·수중 영역의 무인 체계를 통합적으로 관리함으로써 미 해군의 차세대 전투 능력(미래 해전 개념)을 실현하고, NATO 및 국제 해양 질서에서 선제적 우위 확보 가능<br>• RASWDC의 전술·교육 표준화로 해병 자격 인증 및 무인 플랫폼 운영 숙련도 향상, 자율 시스템 기반 함대 운영 패러다임 전환에 대한 인적 자원 준비 완료<br>• IMO의 자율선박 규제 프레임워크 진화 과정에서 미 해군의 선제적 기술 검증 및 전술 교리 개발이 국제 해양 자동화 표준 형성에 영향력 행사 가능</p></div>`,
+      tags: ["Autonomous Systems","U.S. Navy","Unmanned Vessels","Military Technology","Operational Integration"],
+      link: "https://www.navalnews.com/naval-news/2026/09/u-s-navy-establishes-raswdc-to-accelerate-unmanned-systems-integration/",
+      coords: [37.2667,-76.3],
+      location: "Joint Expeditionary Base Little Creek-Fort Story, Virginia, USA"
+    }
+  ]
+});
