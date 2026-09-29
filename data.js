@@ -17535,3 +17535,35 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-29
+addEvents({
+  "2026-09-29": [
+    {
+      type: "accident",
+      title: "CMA CGM Ship Rescues Four After Yacht Strikes Whale in South Pacific",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-09-29",
+      image: "https://gcaptain.com/wp-content/uploads/2026/09/Yacht-rescue-NZDF.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 호주 국기 요트 Tai Tam이 고래와의 충돌로 침수되어 4명 승선원이 생명보트로 대피함<br>• 뉴질랜드 해상 구조 조정 센터(RCCNZ)가 긴급 신호(EPIRB)를 수신하고 P-8A Poseidon 해상 정찰 항공기를 출동시킴<br>• CMA CGM 소속 화물선 Sofrana Surville이 약 17시간 후 생명보트에 있던 4명을 모두 안전하게 구조함<br>• 승선원들의 신속한 EPIRB 활성화와 구조 준비가 생명을 구한 주요 요인으로 평가됨<br>• 뉴질랜드, 호주, 뉴칼레도니아 해양 당국의 조율된 국제 구조 작전이 성공적으로 진행됨</p><h3>Key Quotes</h3><p>• "This was a well-coordinated and executed rescue" (이것은 잘 조율되고 실행된 구조 작전이었습니다) - RCCNZ 운영 관리자 Mike Clulow</p><p>• "The crew of the yacht did all the right things. It is an excellent reminder that being prepared when going to sea can save your life." (요트 승무원들은 모든 것을 올바르게 처리했습니다. 이는 해상 진출 시 준비가 생명을 구할 수 있다는 훌륭한 상기입니다)</p><h3>Technical Insights</h3><p>• EPIRB(긴급위치지시무선표지)의 신속한 활성화가 광활한 남태평양에서 신속한 위치 파악 및 구조를 가능하게 함 - 해상 안전 장비의 중요성 재확인</p><p>• 해양 감시 항공기(P-8A Poseidon)와 인근 상선의 조합이 효과적인 다층 구조 체계를 구성하며, 상선 기여도의 중요성 강조</p><p>• 국제 해양 구조 협약에 따른 다국 간(뉴질랜드, 호주, 뉴칼레도니아) 해상 구조 협력 체계의 실질적 작동 사례로, IMO 구조 조약 이행의 우수 사례</p><p>• 해양 사고 예방을 위해 선박 안전 교육, EPIRB 등 구조 장비 점검, 기상 및 해양생물 회피 항로 계획의 필요성을 재강조</p></div>`,
+      tags: ["yacht accident","whale strike","rescue operation","South Pacific"],
+      link: "https://gcaptain.com/cma-cgm-ship-rescues-four-after-yacht-strikes-whale-in-south-pacific/",
+      coords: [167.9,-29],
+      location: "North of Norfolk Island, South Pacific"
+    },
+    {
+      type: "news",
+      title: "Tekmar Secures €6 Million Contract Extension for Offshore Wind Cable Protection Systems",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-09-29",
+      image: "https://offshore-energy.biz/api/media/file/tekmar.jpg?prefix=media",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• Tekmar Group이 유럽 해상풍력 프로젝트를 위한 €6백만 규모의 계약 연장을 확보했으며, 이는 2027년 1분기 최종투자결정(FID) 조건부<br>• 공급 대상: 케이블 보호 시스템(CPS), 관련 부품, 엔지니어링 및 설계 서비스 - 영국 Newton Aycliffe 시설에서 제조<br>• 추가로 £4백만(€4.7백만) 규모의 운영자본 시설 확보로 유럽 해상풍력 시장 성장 지원 체계 강화<br>• 2단계 옵션 포함되어 있으며, 고객의 선택과 2단계 FID 달성 시 유사 규모의 추가 사업 기대<br>• Project Aurora 이니셔티브 일환으로 고객관계 심화 및 통합형 엔지니어링·자산보호 솔루션 제공 추진 중</p><h3>Key Quotes</h3><p>• "Tekmar will supply its cable protection systems (CPS) and associated accessories, as well as specialist engineering, analysis and design services" (Tekmar는 케이블 보호 시스템과 관련 부품, 전문 엔지니어링·분석·설계 서비스를 공급할 예정)</p><p>• "The additional facility will provide greater flexibility to support sales growth in the European offshore wind market, where individual project sizes have increased" (추가 자본 시설은 개별 프로젝트 규모가 증가하고 있는 유럽 해상풍력 시장의 판매 성장을 지원하기 위해 더 큰 유연성 제공)</p><h3>Technical Insights</h3><p>• 해상풍력 케이블 보호 시스템(CPS)은 해저 케이블의 손상 방지 및 장기 신뢰성 보장을 위한 핵심 기술 요소로, Tekmar의 10세대 CPS는 업계 내 선도적 솔루션으로 평가됨</p><p>• 유럽의 해상풍력 프로젝트 개별 규모 증가 추세는 글로벌 재생에너지 전환 가속화 및 규제 환경 개선을 반영하며, 이러한 구조적 성장은 공급업체의 제조 역량과 자본력 강화 필요성을 증대시킴</p><p>• Project Aurora를 통한 통합형 엔지니어링 및 자산보호 솔루션 제공 전략은 경쟁력 강화와 고객 의존도 심화로 이어지는 산업 동향으로, 향후 해상풍력 인프라 운영 전주기 서비스화 추세에 부합</p></div>`,
+      tags: ["Offshore Wind","Cable Protection Systems","Contract Award","European Market"],
+      link: "https://offshore-energy.biz/2026/09/29/tekmar-nets-euro6-million-contract-extension-in-offshore-wind",
+      coords: [0,0],
+      location: "Europe"
+    }
+  ]
+});
