@@ -17498,3 +17498,40 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-28
+addEvents({
+  "2026-09-28": [
+    {
+      type: "accident",
+      title: "USCG Rescues 40, Recovers 2 Dead off Mona Island After Vessel Capsizing",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-28",
+      image: "https://images.marinelink.com/images/maritime/w800/coast-guard-173954.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 2026년 9월 28일 몬아 섬 인근 10마일 해상에서 개조 선박이 전복되어 40명이상이 구조됨<br>• 미국 해안경비대(USCG)의 섹터 산후안과 상선 Tripiti가 구조 활동 주도, 약 60명이 탑승한 것으로 추정<br>• 선박은 9월 27일 오후 11시경 기내 싸움으로 인한 흉기(칼) 부상 사건 후 침몰, 생존자들이 수영으로 탈출<br>• 2명이 사망 확인, 구조 작업 계속 진행 중<br>• 탑승자 전원이 구명조끼를 미착용한 상태로 극도로 위험한 상황이었음<br>• 현재까지 40명 이상 구조되었으나 실종자 파악 및 추가 수색 활동 진행</p><h3>Key Quotes</h3><p>• "Motor Vessel Tripiti crew members reported to Coast Guard Sector San Juan watchstanders at approximately noon, they rescued four people in the water." (트리피티 선박의 승무원들이 정오경 해안경비대에 신고하여 물 위의 4명을 구조했다는 의미)</p><p>• "The makeshift vessel reportedly capsized, Sunday, at about 11 p.m., after a fight broke out and people were severely injured by a machete, forcing people to jump into the water and attempt to swim to Mona Island." (선박 내 싸움과 칼 부상으로 인해 승객들이 강제로 물에 뛰어들어 몬아 섬으로 수영을 시도했다는 의미)</p><p>• "No one was wearing life jackets." (탑승자 전원이 구명조끼를 착용하지 않았다는 의미)</p><h3>Technical Insights</h3><p>• 개조 선박(makeshift vessel)의 안전기준 미충족: 구명조끼 미비, 인원 과적 상태로 해양사고 취약성이 극도로 높았음<br>• 해상 충돌 규정(COLREG)과 IMO 해양안전협약(SOLAS)상 승객 안전장비 의무 미이행 - 국제해사기구의 선박 안전기준 강화 필요<br>• 폭력 사건으로 인한 선박 침몰 사고는 드문 사례로, 승선인원의 행동 안전교육 및 선박 내 분쟁 관리 프로토콜 부재 문제 드러냄<br>• 카리브해 지역의 불법 인신이동(human smuggling) 관련 선박 운항 증가 추세와 연관되어 있으며, 해안경비대의 지역 감시 강화 필요성 대두</p></div>`,
+      tags: ["vessel capsizing","rescue operation","casualties","Caribbean","USCG"],
+      link: "https://www.marinelink.com/news/uscg-rescues-recover-dead-off-mona-island-543315",
+      coords: [-67.9,18.1],
+      location: "Mona Island, Puerto Rico"
+    }
+  ]
+});
+
+// Auto-collected: 2026-09-23
+addEvents({
+  "2026-09-23": [
+    {
+      type: "news",
+      title: "Allseas Books ABL for 60,000-Ton Topside Single-Lift Operations in North Sea Decommissioning",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-09-23",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 스위스 해양 건설사 Allseas가 노르웨이 대륙붕 Statfjord A 플랫폼의 60,000톤 규모 톱사이드를 단일 리프트로 제거하는 북해 해체 프로젝트 수행 중<br>• ABL(Aqualis 자회사)이 Marine Warranty Surveyor(MWS)로 선임되어 독립적인 제3자 기술 검토 및 해양 보증 서비스 담당<br>• Pioneering Spirit 건설선의 모션 보정식 톱사이드 리프팅 시스템(TLS) 용량을 기존 48,000톤에서 60,000톤으로 업그레이드<br>• 이 프로젝트는 Equinor의 Statfjord A 콘크리트 중력식 기초 생산 플랫폼 전체 해체 작업의 일부<br>• 북해 해체 작업의 기술적·운영적 난제 해결을 위해 ABL Norway가 주도적으로 위험 최소화 및 규정 준수 보장</p><h3>Key Quotes</h3><p>• "We are pleased to continue our long-standing relationship with Allseas in Norway by supporting the safe execution of this trailblazing topside removal and offshore lift operation for Equinor." <br>(우리는 노르웨이에서 Allseas와의 오랜 협력 관계를 지속하며, 이 획기적인 톱사이드 제거 및 해상 리프팅 작업의 안전한 수행을 지원하게 되어 기쁩니다.)</p><p>• "Statfjord A is a legendary asset, and the project brings significant technical and operational challenges. We look forward to working with Allseas to help deliver this important project."<br>(Statfjord A는 역사적 자산이며 이 프로젝트는 상당한 기술적·운영적 난제를 제시합니다. 우리는 이 중요한 프로젝트 완수를 위해 Allseas와 협력할 준비가 되어 있습니다.)</p><h3>Technical Insights</h3><p>• **거대 단일 리프트 기술 고도화**: 60,000톤 규모의 톱사이드를 단일 동작으로 제거하기 위해 Pioneering Spirit의 모션 보정 리프팅 시스템을 12,000톤 이상 증강했으며, 이는 북해 해체 작업의 효율성과 안전성을 동시에 달성하는 사례</p><p>• **해상 보증 서비스의 중요성**: MWS(Marine Warranty Surveyor)의 독립적 제3자 검토가 국제 규정 준수, 절차 검증, 현장 감시를 통해 거대 해상 작업의 리스크 관리를 구조화하는 방식 입증</p><p>• **북해 해체 생태계 구축**: Allseas의 반복적 대형 프로젝트 수행(North Cormorant 17,200톤 포함)과 ABL의 프레임워크 계약 기반 협력이 북해 지역의 해체 표준 및 기술 축적 강화</p><p>• **플랫폼 재활용 경제 구조**: 톱사이드 제거 후 처리장(disposal yard)으로의 수송 및 재활용 프로세스가 순환 경제 및 환경 규제 요구사항 충족과 연계된 신규 비즈니스 모델</p></div>`,
+      tags: ["Decommissioning","North Sea","Topside Removal","Marine Warranty","Pioneering Spirit"],
+      link: "https://offshore-energy.biz/2026/09/23/allseas-books-abl-for-60000-ton-topside-single-lift-ops-in-next-north-sea-decom-chapter",
+      coords: [2.5,59.3],
+      location: "Norwegian Continental Shelf, North Sea"
+    }
+  ]
+});
