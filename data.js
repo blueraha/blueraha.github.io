@@ -17622,3 +17622,59 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-30
+addEvents({
+  "2026-09-30": [
+    {
+      type: "accident",
+      title: "Somali Pirates Kill Five Tanker Crew Members Before Rescue of MT Honour 25",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-30",
+      image: "https://images.marinelink.com/images/maritime/w800/dummy-adobe-173992.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **사건 개요**: 소말리아 해적들이 4월에 납치한 팔라우 국적 유조선 MT Honour 25호에서 구출 작전 직전 승무원 5명을 살해했으며, 이는 10년 이상 만에 소말리아 해적에 의한 첫 사망 사건</p><p>• **피해 현황**: 17명의 승무원 중 5명 사망(파키스탄 3명, 미얀마 1명, 인도 1명), 4명 부상(파키스탄 3명, 인도 1명)</p><p>• **구출 작전**: 펀틀란드 해양경찰(PMPF)이 성공적으로 함선을 탈취하고 해적 16명을 체포했으며, 동시에 5월에 납치된 MT Eureka호도 구출</p><p>• **배경 원인**: 이란 전쟁의 영향으로 유가 상승이 유조선을 더욱 매력적인 목표로 만들면서 소말리아 해적 활동이 부활</p><p>• **현황**: 8월 말 기준 소말리아 연안에서 해적들이 보유했던 6척 중 5척이 현재 구출됨</p><h3>Key Quotes</h3><p>• "Before the operation begun, the pirates on board the ship killed five of the crew. Among those killed were three from Pakistan, one from Myanmar and one from India" (작전 시작 전 선상의 해적들이 5명의 승무원을 살해했으며, 그 중 파키스탄 국적 3명, 미얀마 국적 1명, 인도 국적 1명이 포함되었다)</p><p>• "A previous wave of piracy from 2008 to 2014 disrupted one of the world's busiest shipping routes, cost the global economy billions of dollars and resulted in hundreds of millions of dollars in ransom payments" (2008년부터 2014년까지의 이전 해적 사건 물결은 세계에서 가장 바쁜 해운로를 방해했으며 세계 경제에 수십억 달러의 손실을 입혔고 수억 달러의 신원금 지불로 이어졌다)</p><h3>Technical Insights</h3><p>• **해사보안 위협 재발**: 2008-2014년 해적 사건 이후 약 10년간 소강상태였던 소말리아 해적 활동이 지정학적 긴장 심화(이란 전쟁)로 인해 재개되면서 해상 운송의 중대한 위협 요소로 재부상</p><p>• **국제해사법 집행**: 펀틀란드 반자치주의 해양경찰이 국제 협력 하에 불법 납치 선박을 해제하고 해적을 구속하는 것이 UNCLOS 및 해적 관련 국제법의 실행 사례를 보여줌</p><p>• **승무원 안전 문제**: 인도주의적 위기와 보험료 상승, 승무원 모집 어려움 등 해적 활동으로 인한 복합적인 산업 영향 발생으로 해상 운송 안전 표준 및 선박 방어 시스템 강화의 필요성 대두</p><p>• **경제 영향**: 유가 변동이 해적의 표적 선택에 직접적 영향을 미치면서 에너지 안보와 해상 운송 안보의 연계성이 심화되고 있으며, 전역 공급망 안정성에 위협</p></div>`,
+      tags: ["piracy","hijacking","casualty","tanker","Somalia","maritime security"],
+      link: "https://www.marinelink.com/news/somali-pirates-kill-five-tanker-crew-543350",
+      coords: [49.2,9.5],
+      location: "Somali Coast, Indian Ocean"
+    },
+    {
+      type: "news",
+      title: "HII Wins U.S. Navy Contract for 10 ROMULUS USVs",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-09-30",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/04/HII-Romulus-151-1.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• HII(Huntington Ingalls Industries)가 미국 해군으로부터 ROMULUS 무인 수상함정(USV) 10척 건조 계약을 수주하여 중형 무인 수상함정(MUSUM) 프로그램의 주요 진전을 이룸<br>• HII의 오디세이 자율운항 제어 시스템(Odyssey ACS)이 탑재되며, 750척 이상의 REMUS 무인 잠수정을 30개국 이상에 납품한 실적 보유<br>• 2025년부터 생산 인프라 및 공급망 확보를 통해 설계·개발에서 건조 단계로의 신속한 전환을 가능하게 함<br>• 미국 해군의 실험 단계에서 함대 규모 운용 단계로의 전환을 의미하며, 자율운항 해양 능력의 신뢰성 확보가 핵심<br>• 모듈식 개방형 아키텍처의 오디세이 ACS가 일관되고 예측 가능한 자율운항 행동을 제공하여 운용 배치 조건 충족</p><h3>Key Quotes</h3><br>• "HII has made deliberate, early investments in the development of autonomous systems, advancing capabilities essential to the Navy's hedge strategy" (HII는 자율운항 시스템 개발에 전략적으로 선제 투자하여 해군의 위험 회피 전략에 필수적인 능력을 확보했다)</p><p>• "Unmanned vessels ultimately must be built, integrated, tested and sustained as part of a fleet" (무인함정은 궁극적으로 함대의 일부로서 건조, 통합, 시험, 지속 운용되어야 한다)</p><p>• "Odyssey is designed to deliver consistent, predictable autonomous behavior, a requirement for the U.S. Navy's transition from experimentation to operational deployment" (오디세이는 실험 단계에서 운용 배치로의 전환에 필수적인 일관되고 예측 가능한 자율운항 행동을 제공하도록 설계됨)</p><h3>Technical Insights</h3><br>• 오디세이 ACS(Odyssey Autonomous Control Solutions)는 모듈식 개방형 아키텍처 기반의 자율운항 제어 시스템으로, 수상·수중 도메인 간 협조 운용을 지원하여 IMO 자율운항 수준(Level 3-4)의 신뢰성 확보 가능<br>• ROMULUS-REMUS 통합 생태계 구축으로 해양 무인시스템의 표준화 및 상호운용성 제고, 향후 NATO 연합 함대 운용 확대에 기여할 것으로 예상<br>• 미국 해군의 무인화 전략이 설계·개발 단계를 넘어 대량 생산 및 함대 배치 단계로 진입함을 의미하며, 이는 자율운항선박의 국방·안보 분야 실전화 가속을 의미<br>• 민간 해운 자율화의 선행 지표로서, 군용 자율운항 플랫폼의 검증된 기술이 향후 상용 선박으로의 기술 전이를 촉진할 가능성 높음</p></div>`,
+      tags: ["Autonomous Ships","USV","U.S. Navy","ROMULUS","Unmanned Systems"],
+      link: "https://www.navalnews.com/naval-news/2026/09/hii-wins-u-s-navy-contract-for-10-romulus-usvs/",
+      coords: [0,0],
+      location: "United States"
+    },
+    {
+      type: "news",
+      title: "U.S. Navy Orders 10 of Saronic's 180-foot Autonomous Ships",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-09-30",
+      image: "https://defence-blog.com/wp-content/uploads/2026/09/DB_image_2991.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미 해군이 Saronic사의 180피트(55m) 무인 자율항해선 Marauder 10척을 주문하며 Medium Unmanned Surface Vessel(MUSV) 프로그램 확대 결정<br>• Saronic, Huntington Ingalls Industries, Galliano Marine Services 3사가 각각 10척씩 총 30척의 무인선박 생산 계약 체결, 평균 함당 약 4천만 달러 규모<br>• Marauder는 150톤 적재 능력, 순항 속도 12노트, 최대 속도 25노트 초과, 7,600~10,000km 항속거리 보유한 물류 및 모듈식 페이로드 운송용 설계<br>• 8일간 140개 이상의 테스트 시나리오를 무장애로 완수, 레이더 미사용 상태에서 수동 센서만으로 타선 추적 및 회피 능력 입증<br>• 2027년 4분기(7월)부터 납입 시작 예정, Louisiana 조선소에 3억 달러 투자로 연 20척 생산 목표 설정</p><h3>Key Quotes</h3><p>• "Marauder went from initial design to on-the-water in under a year, and this evaluation demonstrated that the platform holds up under the Navy's own toughest testing" (Marauder는 초기 설계에서 실제 운용까지 1년 이내 완성되었으며, 이번 평가는 미 해군의 가장 엄격한 테스트를 견뎌낼 수 있음을 입증했다)</p><p>• "We've now flipped our third Marauder hull, with several more moving through the production line behind it" (현재 세 번째 Marauder 선체를 완성했으며, 그 뒤로 여러 척이 생산 라인을 통과 중이다)</p><h3>Technical Insights</h3><p>• **자율항해 기술 검증**: 140개 이상의 테스트 시나리오 무장애 완수는 실제 해군 전술 운용 환경에서의 자율항해 안정성을 입증하는 획기적 성과로, IMO 자율선박 규범 제정에 실제 데이터 제공<br>• **스텔스 운용 능력**: 레이더 미사용 상태에서 수동 센서만으로 함정 추적·회피 가능은 차세대 군사 무인선박의 전자 신호 은폐 능력을 강화하며, COLREG 준수 자율 회피 알고리즘의 실용화 의미<br>• **산업 생산 체계 확대**: 루이지애나 조선소의 연 20척 생산 목표는 무인선박의 대량 상용화 시대 도입을 의미하며, 향후 상선 분야 무인화 추진에 선례 제공<br>• **Other Transaction Agreements(OTA) 활용**: 기존 군수 조달 규칙 우회의 신속 계약 방식은 신기술 검증 및 민간 조선소 참여를 촉진하는 정책적 혁신으로 평가</p></div>`,
+      tags: ["Autonomous Ships","U.S. Navy","MUSV Program","Saronic Marauder"],
+      link: "https://defence-blog.com/u-s-navy-orders-10-of-saronics-180-foot-autonomous-ships/",
+      coords: [-91.3504,30.2285],
+      location: "Franklin, Louisiana / United States"
+    },
+    {
+      type: "news",
+      title: "U.S. Navy Orders $123M More Lionfish Underwater Drones from HII",
+      source: "Defence Blog",
+      sourceMeta: "defence-blog.com · 2026-09-30",
+      image: "https://defence-blog.com/wp-content/uploads/2026/05/DB_image_618.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미 해군이 HII사의 라이온피시(Lionfish/REMUS 300) 무인 수중 드론 추가 구매 계약 1억 2,340만 달러 체결<br>• Naval Sea Systems Command가 2026년 9월 24일 계약 옵션 행사, 매사추세츠 포카셋 공장에서 99% 생산 예정<br>• 라이온피시는 305미터 잠수 심도, 30시간 연속 운용 가능한 어뢰형 소형 무인잠수정으로 기뢰 제거, 정찰, 대잠전 등 다목적 운용 가능<br>• 2023년 초기 계약 이후 2025년 4월 첫 인도, 동년말까지 42대 납품 완료로 대량 생산 진입<br>• 5년 간 최대 200대, 3억 4,700만 달러 규모의 기본 계약 틀 내에서 진행 중인 대규모 군수 프로젝트</p><h3>Key Quotes</h3><p>• "Lionfish is the U.S. Navy's name for HII's REMUS 300, a torpedo-shaped autonomous vehicle that two people can carry and launch." (라이온피시는 두 명이 운반 및 발사 가능한 어뢰형 무인 잠수정으로, 2인 팀 운용 가능한 소형 플랫폼)</p><p>• "HII has described Lionfish as the U.S. Navy's first program to move from an Other Transaction Authority prototype, a faster contracting route used for experimental work, into full-scale production." (라이온피시는 미 해군 최초로 OTA(Other Transaction Authority) 프로토타입에서 대량 생산으로 진입한 프로그램)</p><h3>Technical Insights</h3><p>• **무인잠수정의 다중 임무 운용 개념**: 모듈식 설계로 다양한 센서 페이로드 탑재 가능하며, 기뢰 제거(MCM), ISR(정보·감시·정찰), 대잠전, 전자전 등 다목적 운용 가능한 플랫폼으로 해군 작전 효율성 극대화</p><p>• **해군 무인화 전략의 실제 구현**: OTA 프로토타입에서 대량 생산으로의 전환은 실험적 신기술 도입에서 실전 배치 단계로의 전환을 의미하며, 미 해군의 무인 수중 시스템 운용 독트린 확립 신호</p><p>• **국방 기술혁신과 산업 기반 강화**: 5년 계약 200대 규모의 대형 군수사업으로 국내 해양 방위산업 기술 벤치마크 및 자주국방력 강화 필요성 대두</p><p>• **IMO 자율항해 표준과의 괴리**: 군사용 무인 수중체 운용은 민간 자율해운 규범(COLREG, IMO)과 별개이나, 향후 민간과 군사 무인 시스템의 공존 운용 환경에서 안전 관리 체계 통합 과제 발생 가능</p></div>`,
+      tags: ["autonomous underwater vehicles","military procurement","Lionfish REMUS 300","U.S. Navy","unmanned systems"],
+      link: "https://defence-blog.com/u-s-navy-orders-123m-more-lionfish-underwater-drones/",
+      coords: [-71.8047,41.7658],
+      location: "Pocasset, Massachusetts, USA"
+    }
+  ]
+});
