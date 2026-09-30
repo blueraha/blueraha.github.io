@@ -17567,3 +17567,58 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-09-29
+addEvents({
+  "2026-09-29": [
+    {
+      type: "accident",
+      title: "Two Dead, Six Missing in Migrant Shipwreck Off Tunisia",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-29",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockbennymarty-173985.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• 독일 자선단체 Sea-Watch의 구조선 Aurora가 튀니지 해안 근처에서 난파된 고무 보트에서 2구의 시신을 수습하고 28명의 이민자를 구조함</p><p>• 구조된 인원: 28명 (5명은 고무 보트에서, 23명은 해상 석유 가스 플랫폼에서 대피), 사망자 2명(어린이 포함), 실종자 최소 6명(어린이 3명 포함)</p><p>• Sea-Watch 대변인 Julia Winkler는 난민 도착 감소를 정부가 성공으로 치하하지만 이것이 사망과 실종을 의미한다며 유럽 정부 차원의 해상 구조 프로그램 확대 촉구</p><p>• 2026년 이탈리아 도착 난민 22,000명 이상 (전년도 동기 50,000명 대비 55% 감소)</p><p>• 2026년 지중해 사망/실종 인원 1,970명 이상으로 해상 난민 위기의 심각성 지속</p><p>• 구조선 Aurora는 현재 이탈리아 람페두사 섬으로 향중</p><h3>Key Quotes</h3><p>• "Governments celebrate falling arrival numbers as a success. We see what that 'success' means: at least two dead and six missing, including three children" (정부들은 난민 도착 감소를 성공으로 축하하지만, 우리는 그 성공이 최소 2명의 사망과 어린이 3명 포함 6명의 실종을 의미한다는 것을 봅니다)</p><p>• "Over 22,000 sea migrants have arrived in Italy so far in 2026, compared to more than 50,000 reported in the same period of 2025" (2026년 이탈리아에 도착한 해상 난민이 22,000명 이상으로 2025년 동기의 50,000명 이상과 비교됨)</p><h3>Technical Insights</h3><p>• 고무 보트(deflated rubber dinghy) 및 해상 석유·가스 플랫폼 활용: 난민 구조 작전의 불규칙성과 해양 구조 난제를 드러내는 사례로, SAR(Search and Rescue) 역량 강화의 필요성 부각</p><p>• 지중해 해상 안전 관리: 지중해 횡단 이민자 경로의 위험성 증가 추세 지속으로 국제 해사기구(IMO) 및 유럽 해양 안전 규정의 집행 강화 필요</p><p>• 인도적 대응과 정부 정책 간의 괴리: 민간 자선 조직(Sea-Watch)의 해상 구조 역할 강화로 국가 차원의 체계적 SAR 프로그램 부재 문제 심화, 글로벌 해양 안전 거버넌스 재구축 필요</p></div>`,
+      tags: ["shipwreck","migrant crisis","search and rescue","Mediterranean"],
+      link: "https://www.marinelink.com/news/two-dead-six-missing-migrant-shipwreck-543343",
+      coords: [10.1964,35.8989],
+      location: "Tunisia coast, Mediterranean Sea"
+    },
+    {
+      type: "accident",
+      title: "MT Honour 25 Rescued by Puntland Forces After Pirate Hijacking",
+      source: "MarineLink",
+      sourceMeta: "marinelink.com · 2026-09-29",
+      image: "https://images.marinelink.com/images/maritime/w800/adobe-stockvenera-173981.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><p>---</p><h3>Executive Summary</h3><p>• **선박 및 사건**: 팔라우 기국 유조선 MT Honour 25가 2026년 4월 21일 소말리아 펀틀랜드 연안 30해리 지점에서 해적에 의해 피랍되었으며, 약 5개월 후인 9월 29일 펀틀랜드 보안군에 의해 구조됨</p><p>• **피해 규모**: 17명의 선원(파키스탄인 10명 포함)이 탑승하고 있었으며, 피랍된 해적들은 체포되어 법정에 회부될 예정</p><p>• **지역 해적 활동 악화**: 최근 소말리아 해역에서 해적 활동이 재증가하고 있으며, 같은 기간 수산유 1호(Sibu 1)도 펀틀랜드 경찰에 의해 구출되었음을 시사</p><p>• **역사적 교훈**: 2008~2014년 소말리아 해적 전성기 때 전 세계 경제에 수십억 달러의 손실을 입혔던 선례가 있으며, 현재 유사한 위협이 재현되고 있는 상황</p><p>• **항로 영향**: 아덴만과 인도양 서부를 통과하는 주요 해운로에 대한 우려가 증대되고 있으며, 국제 해운업계의 보안 강화 필요성 대두</p><h3>Key Quotes</h3><p>• "pirates who had been holding the vessel had been detained and would be brought to court" (해적들이 체포되어 법정에 회부될 예정이라는 점은 국제 해적 대응의 법적 절차가 진행되고 있음을 시사)</p><p>• "Piracy has resurfaced off Somalia's coast in recent years, raising concerns for shipping through the Gulf of Aden and the western Indian Ocean" (소말리아 해역 해적의 재출현이 주요 해운로의 안보 우려를 증대시키고 있음)</p><h3>Technical Insights</h3><p>• **해적 대응 체계**: 펀틀랜드 지역 해상 경찰의 적극적 개입이 해적 모함 침투에 효과적임을 입증하였으며, 향후 각국 해군의 협력 강화 필요</p><p>• **IMO 해적 안전 규정 재검토**: 2026년 현재 소말리아 해역의 해적 재발생은 국제해사기구(IMO)의 해적 대응 COLREG 운영 강화와 선박 보안 기준(ISPS Code) 재평가를 시급히 함</p><p>• **자율운항선박의 보안 위협**: 향후 해당 해역에서 운영될 자율선박(ASV)의 경우 해적 대응 능력 부족이 심각한 운영 위험 요소가 될 수 있으므로, 인공지능 기반의 해적 감지 및 회피 시스템 개발 필수</p><p>• **산업 경제 영향**: 아덴만 경로 회피에 따른 운송 비용 증가(기존 대비 20~30%), 보험료 인상, 그리고 화주들의 안전 우려로 인한 해운 산업 경기 악화 우려</p></div>`,
+      tags: ["Piracy","Somali Pirates","Tanker Hijacking","Gulf of Aden"],
+      link: "https://www.marinelink.com/news/puntland-forces-rescue-vessel-hijacked-543339",
+      coords: [48.9,8.5],
+      location: "Puntland Coast, Somalia"
+    },
+    {
+      type: "news",
+      title: "Saronic Wins U.S. Navy Production Contract for 180-Foot Marauder Autonomous Surface Vessel",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-09-29",
+      image: "https://gcaptain.com/wp-content/uploads/2026/05/Saronic-Marauder-MUSV-3.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Saronic Technologies는 해군의 Medium Unmanned Surface Vessel(MUSV) 시장 프로그램을 통해 180피트 Marauder 자율운항선박의 생산 계약을 획득했습니다.<br>• Marauder는 8일간의 지속적인 운항 중 140개 이상의 시나리오를 무고장으로 완료하며 자율 추적, 기동, 수동 인식 기반 교통 감지 등을 입증했습니다.<br>• 해당 선박은 탑재량 150톤, 항속거리 5,400해리, 최고속력 25노트 이상의 사양을 보유하고 있습니다.<br>• Saronic의 소형 Corsair 자율운항선박은 이미 전투 운용 경험이 있으며, 본 생산 계약은 회사의 확대되는 주문 포트폴리오에 추가됩니다.<br>• Navy의 MUSV Marketplace 프로그램은 전통적인 조선 프로그램보다 빠르게 상용 자율운항선박을 함대에 통합하려는 취지입니다.</p><h3>Key Quotes</h3><br>• "Marauder went from initial design to on-the-water in under a year, and this evaluation demonstrated that the platform holds up under the Navy's own toughest testing" (Marauder는 초기 설계부터 해상 운용까지 1년 이내에 완성되었으며, 이 평가는 해군의 가장 까다로운 시험을 견디어낼 수 있음을 입증했습니다)<br>• "the first combat use of American sea drones" (미국 해양 무인기의 첫 전투 운용)</p><h3>Technical Insights</h3><br>• **자율운항 기술 성숙도**: Marauder의 140개 시나리오 무고장 완료는 자율추적, 기동 및 수동 인식(Active Radar 미사용) 기술의 높은 신뢰성을 입증하며, 해양 자율운항 기술이 실전 배포 수준에 도달했음을 의미합니다.<br>• **MUSV Marketplace 전략의 의의**: Navy의 신속한 상용화 기반 조달 방식은 전통적 조선 프로그램의 장기 소요시간을 단축하고 기술 성숙도 높은 민간 솔루션을 신속 통합하는 혁신적 접근입니다.<br>• **무인함정 운영 패러다임**: Corsair의 이란 Bandar Abbas 작전과 같은 실전 배포는 자율운항선박이 정찰, 감시, 타격 임무를 수행하는 다목적 플랫폼으로서의 입지를 확립하고 있습니다.<br>• **산업적 파급효과**: Saronic의 연쇄 계약 획득(Corsair 운영 계약, Marauder 생산 계약, 대형 조선 프로토타입 협약)은 자율운항 기술 기업의 성장성과 국방 예산의 우선순위 이동을 반영합니다.</p></div>`,
+      tags: ["Autonomous Surface Vessel","U.S. Navy","Marauder MUSV","Defense Technology","Unmanned Maritime Systems"],
+      link: "https://gcaptain.com/saronic-wins-navy-production-contract-for-180-foot-autonomous-surface-vessel/",
+      coords: [-91.5,29.8],
+      location: "Franklin, Louisiana, USA"
+    },
+    {
+      type: "news",
+      title: "Three Louisiana Shipyards to Build 30 Drone Ships in $1.2B Navy MUSV Deal",
+      source: "USNI News",
+      sourceMeta: "usni.org · 2026-09-29",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미 해군이 루이지애나주 3개 조선소에서 총 30척의 중형 무인함정(MUSV) 건조 계약 발주, 총 사업규모 약 12억 달러<br>• 계약사는 Saronic, HII(Huntington Ingalls Industries), Galliano Marine Service로 각각 10척씩 건조, 함당 평균 4,000만 달러<br>• 해군은 최근 해상 시험 완료 후 계약을 체결했으며, 기타거래권한(Other Transaction Authority)을 활용한 발주<br>• 무인함정 프로그램은 미군의 자율운항 수상함정 전략의 핵심 요소로, 향후 해군 전력의 현대화에 기여<br>• 루이지애나 조선소들의 자율운항 함정 건조 역량 강화로 미국의 방위산업 경쟁력 강화</p><h3>Key Quotes</h3><p>• "The Navy issued the awards using other transaction authorities but did not specify how much each company received." <br>(해군이 기타거래권한을 활용해 계약을 발주했으나 각 회사별 구체적 금액은 공개하지 않음)</p><p>• "A service news release described the $40 million figure as an average cost per vessel."<br>(해군 보도자료에서 함당 4,000만 달러는 평균 건조 비용으로 설명함)</p><h3>Technical Insights</h3><p>• MUSV(Medium Unmanned Surface Vessel)는 자율운항 기술과 원격 조종 능력을 결합한 해군 전력으로, 정보 수집, 감시, 미사일 방어 등 다양한 임무 수행 가능<br>• 무인함정의 대량 건조 계약은 COLREG 국제해상충돌예방규칙 준수 기능 강화 및 해역 감시 능력 고도화를 의미하며, IMO와 국제해사기구의 자율운항 선박 가이드라인 이행 촉진<br>• 루이지애나 조선소의 소수 조선 기업들 참여로 국방력과 상용 조선 기술의 상호 발전이 기대되며, 향후 자율운항 선박 기술의 민간 해운업으로의 파급 가능성</p></div>`,
+      tags: ["Autonomous Ships","MUSV","U.S. Navy","Unmanned Surface Vessels","Louisiana Shipyards","Defense Contracting"],
+      link: "https://news.usni.org/2026/09/29/3-louisiana-shipyards-to-build-30-drone-ships-in-navy-musv-deal",
+      coords: [-91.1623,30.2271],
+      location: "Louisiana, USA"
+    }
+  ]
+});
