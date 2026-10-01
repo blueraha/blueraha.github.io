@@ -17678,3 +17678,82 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-10-01
+addEvents({
+  "2026-10-01": [
+    {
+      type: "accident",
+      title: "GAO Report: Marine Firefighting Gaps Persist at U.S. Ports Despite 2023 Tragedy",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-10-01",
+      image: "https://gcaptain.com/wp-content/uploads/2023/07/Grande-Costa-dAvorio.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• 미국 감시기구(GAO)는 2015-2025년 간 886건의 근해 선박화재 중 206건(약 1/4)이 사망, 부상, 200만 달러 이상 손해 또는 선박 전손을 초래했다고 보고</p><p>• 2023년 7월 이탈리아 국적 Grande Costa D'Avorio호의 포트 뉴어크 화재로 뉴어크 소방관 2명 사망, 수일간 화재로 2,300만 달러 손해 발생</p><p>• 해안경비대와 지방소방서 간 책임 분산으로 인해 소방관들이 낯선 선박, 밀폐 공간, 위험화물에 대한 훈련 부족 상태에서 대응</p><p>• Grande Costa D'Avorio 화재 당시 대응 소방관 중 단 1명만 9년 전 훈련에 참석했으며, 선박 구조에 대한 이해 부족으로 방향감각 상실</p><p>• 해안경비대는 2024년 1월 국가해양소방단(National Salvage and Marine Firefighting Task Force) 설립했으나 현재까지 실습 훈련 지침 미개발 상태</p><p>• 선박대응계획(VRP) 발동의 지연 문제도 확인되어 응급대응 체계 전반에 걸친 조정 필요</p><h3>Key Quotes</h3><p>• "GAO said that structure can leave local firefighters confronting unfamiliar vessels, confined spaces and hazardous cargo without sufficient shipboard experience." <br>  (해당 체계는 지방 소방관들로 하여금 충분한 선박 경험 없이 낯선 선박, 밀폐 공간, 위험화물에 대응하게 만들 수 있다)</p><p>• "Firefighters became disoriented in smoke and the unfamiliar layout of the roll-on/roll-off vessel."<br>  (소방관들은 연기와 낯선 차량운반선의 구조 때문에 방향감각을 잃었다)</p><p>• "Coast Guard officials in six sectors told investigators that firefighters need more hands-on training, including vessel tours and realistic shipboard exercises."<br>  (6개 지역의 해안경비대 관계자들은 소방관들이 선박 견학 및 실습 훈련을 포함한 실습 교육이 필요하다고 지적)</p><h3>Technical Insights</h3><p>• **COLREG와 선박안전 체계의 한계**: 선박화재 대응은 단순 해상충돌 규칙을 넘어 육상 소방기관, 해양청, 항만청 간의 복합적 조율이 필수이며, 현재 체계에서는 책임 주체가 분산되어 대응 효율성 저하</p><p>• **선박 설계와 소방대응의 괴리**: Roll-on/Roll-off(자동차운반선) 등 특수 선형의 구조에 대한 소방관 교육 부족으로 인해 응급상황 시 실질적 대응 능력 부족 - 선박 운영사와 항만청 간의 접근성 개선 필요</p><p>• **IMO 해사안전 기준의 실행 격차**: 선박대응계획(VRP)이 국제해사기구 기준에 따라 수립되어 있으나, 실제 발동 및 조율 절차의 지연으로 인해 초기 대응 골든타임 상실 위험</p><p>• **산업 차원의 인력 양성 과제**: 해안경비대의 2024년 태스크포스 출범에도 불구하고 실습 프로그램 부재로 인해 지역별 소방기관의 해양 전문성 격차 지속 - 정기적 함정 접근 및 시뮬레이션 훈련 체계화 시급</p></div>`,
+      tags: ["Ship Fire","Port Safety","Emergency Response","Training Gaps"],
+      link: "https://gcaptain.com/gao-finds-marine-firefighting-gaps-persist-at-u-s-ports/",
+      coords: [-74.2591,40.7282],
+      location: "Port Newark, New Jersey, USA"
+    }
+  ]
+});
+
+// Auto-collected: 2026-09-29
+addEvents({
+  "2026-09-29": [
+    {
+      type: "accident",
+      title: "Three More Tanker Attacks Surface in Delayed Hormuz Reports",
+      source: "gCaptain",
+      sourceMeta: "gcaptain.com · 2026-09-30",
+      image: "https://gcaptain.com/wp-content/uploads/2026/08/2026-08-03T073334Z_269669342_RC2RQMA1TKMQ_RTRMADP_3_IRAN-CRISIS-SHIPPING-800x518.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **호르무즈 해협 탱커 공격 3건 추가 발견** - 영국해양무역작전센터(UKMTO)가 9월 29일 발생한 탱커 공격 3건을 하루 늦게 9월 30일에 공식 발표함으로써 보고 지연 문제 심화</p><p>• **정보 공개 지연의 심각성** - 사건 발생 후 수 시간에서 수일 후에 공식 기록에 포함되는 정보 격차가 확대되어 해운업계의 위협 평가 어려움</p><p>• **상세 정보 부족** - UKMTO 경고에서 선박 식별, 피해 규모, 인명피해, 오염 정보 미제공 및 사건 발생 시간을 "TBC(추후 확정)"로 표기</p><p>• **이란의 주장과 공식 보고 불일치** - 이란이 최근 여러 선박 피격을 주장하는 반면 공식 보고서는 더 적은 수의 사건만 기록하고 있는 상황</p><p>• **자발적 보고 시스템의 한계** - UKMTO의 자발적 보고 체계가 선주 및 기관의 신속한 정보 제공에 의존하고 있어 체계적 정보 수집의 한계 노출</p><p>• **선주 및 보험사의 실질적 위험** - 해운업계가 호르무즈 해협의 실제 보안 상황을 정확히 판단하기 어려워져 운영 비용 증가 및 보험료 인상 초래</p><h3>Key Quotes</h3><p>• "The time of each incident was listed as 'TBC.'" (각 사건의 발생 시간이 "추후 확정"으로 표기되어 정보 공개의 불완전성을 드러냄)</p><p>• "For shipowners, crews and insurers trying to judge conditions in the Strait of Hormuz, that lag makes an already difficult security picture even harder to assess." (선주, 승무원 및 보험사가 호르무즈 해협의 상황을 판단하려 할 때 이러한 지연이 이미 어려운 보안 상황을 더욱 복잡하게 만듦)</p><p>• "UKMTO operates a voluntary reporting system for merchant shipping across the region. Masters and operators are encouraged to report security incidents, but the system depends on information being passed along by vessels, companies or other authorities." (UKMTO의 자발적 보고 체계는 선박 및 기관의 적극적 협력에 의존하므로 정보 수집의 신속성이 보장되지 않음)</p><h3>Technical Insights</h3><p>• **해운 보안 정보 공개 체계의 구조적 문제** - UKMTO의 자발적 보고 의존 방식이 시의성 있는 보안 정보 제공을 저해하고 있으며, IMO 차원의 의무적 실시간 보고 메커니즘 강화 필요</p><p>• **COLREG 및 국제해사법 적용의 불완전성** - 호르무즈 해협 같은 분쟁 지역에서 국제해상충돌방지규칙(COLREG)과 국제해사법이 실제 보안 위협에 대응하기 어려운 상황으로, 지역 안보와 국제해사법의 조화 필요</p><p>• **자율운항선박(MASS) 도입의 보안 함의** - 현재의 정보 공유 지연이 해결되지 않은 상태에서 고위험 지역에 자율운항선박을 배치할 경우 의사결정 지연으로 인한 사고 위험 증가 우려</p><p>• **보험 및 운영 경제성 악화** - 정확한 보안 상황 파악의 어려움으로 인한 보험료 인상, 우회 항로 선택, 추가 보안 조치 등으로 해운 비용 상승 및 국제 교역 효율성 저하</p></div>`,
+      tags: ["Tanker Attack","Strait of Hormuz","Maritime Security","Projectile Strike"],
+      link: "https://gcaptain.com/three-more-tanker-attacks-surface-in-delayed-hormuz-reports/",
+      coords: [56.2467,26.1367],
+      location: "Strait of Hormuz"
+    }
+  ]
+});
+
+// Auto-collected: 2026-09-30
+addEvents({
+  "2026-09-30": [
+    {
+      type: "news",
+      title: "U.S. Navy Awards $40M Per Hull Contracts for 30 Production MUSV Autonomous Warships",
+      source: "Maritime Executive",
+      sourceMeta: "maritime-executive.com · 2026-09-30",
+      image: "https://maritime-executive.com/media/images/article/Photos/Technology/Saronic-Marauder-2.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **미국 해군이 Medium Unmanned Surface Vessel(MUSV) 프로그램의 첫 번째 대규모 생산 계약 체결** - Huntington Ingalls Industries(HII), Saronic, Galliano Marine Services 각각 10척씩 총 30척의 자율 무인 전투함 건조 계약 확보</p><p>• **함정당 평균 4,000만 달러 수준의 경제성 있는 가격대** - 해군의 장기간 대기해온 무인함정의 실전 운영 규모 확보 가능</p><p>• **HII의 Romulus MUSV** - 25노트 속도, 2,500마일 항속거리, 모듈식 페이로드 탑재 가능한 미드사이즈 무인함정으로 정보수집(ISR), 대드론 작전, 기뢰제거, 공격 등 다용도 운영 가능</p><p>• **Saronic의 野心적 조선소 건설 계획** - 텍사스 Brownsville에 30억 달러 규모의 "Port Alpha" 메가 조선소 건설 개시, 완공 시 연 200만톤 생산 능력으로 미국 최대 규모 조선소 예상</p><p>• **텍사스 경제개발의 중추 프로젝트** - Saronic의 Port Alpha 조선소를 통해 직접 고용 1만여 명 창출 예상, 미국 조선산업 재건의 상징적 의미</p><p>• **경쟁사 Leidos, PAC MAR, Sea Machines** - 1,500만 달러 완성 지원금 획득, Drones.mil "Maritime Marketplace"에 등록되어 향후 추가 발주 대비</p><h3>Key Quotes</h3><p>• **"HII has made deliberate, early investments in the development of autonomous systems, advancing capabilities essential to the Navy's hedge strategy"** - HII의 Chris Kastner 회장 겸 CEO가 자율무인시스템 개발에 선제적 투자를 강조하며 해군의 전략적 필요성 강조</p><p>• **"American shipbuilding needs to be rebuilt for what comes next"** - Saronic의 Dino Mavrookas 공동창립자 겸 CEO가 Port Alpha 조선소 기공식에서 미국 조선산업의 재건 필요성 선언</p><p>• **"Initial capacity of 150,000 GT per year, scaling to two million GT per year - equivalent to 15% of China State Shipbuilding Corporation's output"** - Port Alpha의 궁극적 목표가 중국 국영조선공사 생산량의 15% 규모에 도달할 것임을 명시</p><h3>Technical Insights</h3><p>• **MUSV 프로그램의 실전화 전환점** - 30척 대량생산 계약을 통해 미국 해군의 자율무인함정 운영 기술 검증 및 전술 개발이 가속화될 것으로 예상, COLREG 준수 기술과 국제해역 자율항행 기준 수립의 필요성 대두</p><p>• **모듈식 페이로드 설계의 산업적 의미** - Romulus의 모듈식 페이로드 구조는 다목적 운영을 가능하게 하며, 향후 상용 자율선박의 유연한 운영 모델 개발에 직접 영향을 미칠 가능성</p><p>• **미국 방위산업 공급망 재편** - HII와 같은 대형 조선사가 상용 알루미늄 조선소(Breaux Brothers)와의 협력을 통해 비용 효율화를 추구하는 추세로, 국내 자율선박 개발업체들의 공급망 다층화 전략 수립 필요</p><p>• **IMO 자율선박 규범 개발의 촉진제** - 미국 해군의 대규모 자율함정 도입이 국제해사기구(IMO)의 무인선박 운영 표준 및 COLREG 개정을 가속화할 것으로 예상되며, 글로벌 자율선박 기술 기준 선점의 중요성 강화</p></div>`,
+      tags: ["Autonomous Warships","MUSV","U.S. Navy","Unmanned Surface Vessels","Defense Technology","Shipbuilding"],
+      link: "https://maritime-executive.com/article/u-s-navy-takes-first-big-unmanned-step-buying-30-production-musv-hulls",
+      coords: [-90.2623,29.7589],
+      location: "Gulf Coast, USA / Brownsville, Texas"
+    },
+    {
+      type: "news",
+      title: "Saronic Awarded Production Contract for Marauder Autonomous Ship Under U.S. Navy's MUSV Marketplace",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-09-30",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/07/Saronic-Marauder-USV.jpg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• Saronic Technologies가 U.S. Navy의 MUSV(중형 무인 수상함) Marketplace 프로그램 하에서 180피트 규모의 자율항행 함선 'Marauder'의 생산 계약을 수주했다.<br>• Marauder는 8일간 24시간 연속 운영 중 140개 이상의 테스트 시나리오를 무결함으로 완수하며 자율항행 능력을 입증했다.<br>• 특히 레이더 없이 수동 센서만으로 다른 함선을 감지·추적하는 수동 인지(passive-perception) 능력이 평가되었으며, 이는 자율 해양 시스템의 가장 어려운 기술적 과제로 간주된다.<br>• Saronic은 Port Alpha 조선소(Brownsville, Texas)에서 차별화된 생산 체계로 Marauder 선체 3번째를 완성했으며, 추가 생산 중이다.<br>• 이 계약은 Saronic의 24피트 자율 수상함 Corsair 생산 계약과 LCU(상륙정) 건조 계약에 이어지는 것으로, Navy와의 자율/재래식 선박 공급 역할 확대를 의미한다.</p><h3>Key Quotes</h3><br>• "Marauder went from initial design to on-the-water in under a year, and this evaluation demonstrated that the platform holds up under the Navy's own toughest testing." (Marauder는 초기 설계에서 수상 시운전까지 1년 이내에 완료되었으며, 이 평가는 Navy의 가장 까다로운 테스트를 견딜 수 있음을 입증했다)<br>• "We designed the autonomy, software, hardware, and the production process side-by-side, as one system, rather than bolting them together after the fact. That's what it means to be a vertically integrated shipbuilder." (우리는 자율 시스템, 소프트웨어, 하드웨어, 생산 프로세스를 사후적으로 조립하는 방식이 아닌 하나의 통합 시스템으로 설계했으며, 이것이 수직 통합 조선사의 의미이다)</p><h3>Technical Insights</h3><br>• **자율항행 센서 기술**: Marauder의 수동 인지 능력(radar 미사용, 순수 passive sensor 기반 추적)은 전자 신호 방출을 최소화하는 군사 응용에서 매우 중요하며, COLREG 준수와 충돌 회피를 위한 핵심 기술이다.<br>• **체계 통합 설계**: 자율항행, 소프트웨어, 하드웨어, 생산을 동시에 설계하는 통합 접근법은 개발 주기 단축과 대량 생산 가능성을 크게 향상시킨다.<br>• **상업 기술의 군사 응용**: MUSV Marketplace는 성숙한 상용 기술을 빠르게 군사화하는 새로운 획득 모델을 제시하며, 전통적 다년 개발 프로그램에서의 획기적 변화를 나타낸다.<br>• **IMO 규제 연쇄 효과**: Navy의 광범위한 자율함정 도입은 국제해사기구(IMO)의 자율선박 규제(MASSCode) 표준화를 가속화할 것으로 예상되며, 민간 해운 산업의 규제 환경에도 영향을 미칠 가능성이 높다.</p></div>`,
+      tags: ["autonomous ships","U.S. Navy","MUSV","unmanned surface vessel","Saronic Technologies"],
+      link: "https://www.navalnews.com/naval-news/2026/09/saronic-awarded-production-contract-for-marauder-under-u-s-navys-musv-marketplace/",
+      coords: [-97.3964,25.9017],
+      location: "Brownsville, Texas, USA"
+    },
+    {
+      type: "news",
+      title: "USS Klarkring Sunk in U.S.-Royal Navy Joint Exercise",
+      source: "USNI News",
+      sourceMeta: "usni.org · 2026-09-30",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 미국 해군과 영국 해군이 2026년 9월 20일 스코틀랜드 북서쪽 약 150마일 해상에서 퇴역 함정 USS Klarkring(FFG-42)을 침몰시키는 합동 훈련 실시<br>• 신규 취역한 버지니아급 잠수함 USS Massachusetts(SSN-798)가 Mk48 Advanced Capability 어뢰를 발사하여 최종 격침<br>• USS Massachusetts는 2026년 3월 취역했으며 8월 함대 작전 준비 완료 선언<br>• 이 침몰 훈련은 양국 해군의 수중전 능력 검증 및 상호운용성 강화를 목표로 진행<br>• 퇴역 함정을 이용한 침몰 훈련은 신규 잠수함의 전투 효과도 검증하는 실질적 운용 훈련</p><h3>Key Quotes</h3><br>• "Newly commissioned Virginia-class submarine USS Massachusetts (SSN-798) dealt the final blow to Klarkring, sending it to the bottom of the Atlantic Ocean." (신규 취역한 버지니아급 잠수함 USS Massachusetts가 USS Klarkring에 최종 타격을 가하여 대서양 해저로 침몰시켰음)</p><p>• "Massachusetts fired an Mk48 Advanced Capability Torpedo at Klarkring during the Sept. 20 exercise" (Massachusetts가 9월 20일 훈련 중 Mk48 고급형 어뢰를 발사함)</p><h3>Technical Insights</h3><br>• 신규 취역 잠수함의 실제 전투 능력 검증 - 어뢰 발사, 목표물 추적, 침몰 확인 등 전술적 숙련도 향상<br>• 미영 양국 해군의 상호운용성 강화 및 NATO 해양 방위 체계 고도화에 기여<br>• 퇴역 함정의 환경친화적 처리 방안으로 침몰 훈련을 활용하는 해군 자산 관리 정책 시사점<br>• 수중전 영역에서 잠수함의 방위사 역할 강조 및 대잠전(ASW) 능력 검증의 중요성 입증</p></div>`,
+      tags: ["U.S. Navy","Royal Navy","Virginia-class Submarine","Military Exercise","Naval Operations"],
+      link: "https://news.usni.org/2026/09/30/video-former-u-s-frigate-sunk-in-exercise-with-u-s-royal-navies",
+      coords: [-4.5,58.5],
+      location: "Atlantic Ocean, Northwest Scotland"
+    }
+  ]
+});
