@@ -17757,3 +17757,65 @@ addEvents({
     }
   ]
 });
+
+// ── Auto-Collected (Bot) ──
+
+// Auto-collected: 2026-10-01
+addEvents({
+  "2026-10-01": [
+    {
+      type: "news",
+      title: "Dutch LNG Terminal Capacity Rises to 20 Billion Cubic Meters with 4th Tank",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-10-01",
+      image: "https://offshore-energy.biz/api/media/file/Gate%20Terminal%20Source%20Gasunie.jpeg?prefix=media",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><br>• 네덜란드 Gate LNG 터미널이 3년간의 확장 프로젝트를 완료하여 4번째 저장탱크를 가동, 총 용량을 연 20억 입방미터로 증대<br>• Gate 터미널 운영사 Gasunie와 Vopak이 주도한 프로젝트로, 새 탱크의 저장용량은 18만 입방미터 LNG<br>• 2022년 에너지 위기에 대응하여 실시된 확장으로 재기화(regasification) 용량 연 40억 입방미터 추가<br>• 유럽의 에너지 안보 강화 및 LNG 공급원 다양화를 통해 북서유럽의 에너지 공급 안정성 증진<br>• 2028년 말까지 Jetty 4 건설을 통해 선박 연료 공급(bunkering) 운영 개시 예정, Jetty 5 추가 건설 검토 중</p><h3>Key Quotes</h3><br>• "Gate is expanding its capacity and strengthening its role as a strategic gateway for the energy supply of the Netherlands and Northwest Europe." (Gate는 네덜란드와 북서유럽의 에너지 공급을 위한 전략적 관문으로서 역할을 강화하고 있다)</p><p>• "The ability to supply LNG from various parts of the world helps Europe further diversify its energy supply and enhances security of supply." (세계 여러 지역에서 LNG를 공급할 수 있는 능력은 유럽의 에너지 공급 다양화를 촉진하고 공급 안정성을 강화한다)</p><h3>Technical Insights</h3><br>• LNG 터미널의 저장 및 재기화 용량 확대는 유럽의 에너지 공급망 복원력(resilience) 강화에 기여하며, 향후 청정 해양 연료(marine fuels) 수요 대응 기반 마련<br>• 2022년 에너지 위기 이후 해상 수송을 통한 LNG 다원화 공급체계 구축 추세로, 자동화 및 AI 기반 터미널 운영 고도화 필요성 대두<br>• 번커링(bunkering) 기능 확대는 해상 운송의 저탄소 전환을 지원하는 해양 에너지 인프라로서의 역할 증대를 의미하며, 해운 산업의 에너지 전환과 밀접한 연관</p></div>`,
+      tags: ["LNG Terminal","Energy Infrastructure","Netherlands","Gate Terminal","Energy Security"],
+      link: "https://offshore-energy.biz/2026/10/01/dutch-lng-terminal-capacity-rises-to-20-billion-cubic-meters-with-4th-tank",
+      coords: [4.2771,51.9225],
+      location: "Rotterdam, Maasvlakte, Netherlands"
+    },
+    {
+      type: "news",
+      title: "Saronic Breaks Ground on Port Alpha Shipyard in Texas",
+      source: "Naval News",
+      sourceMeta: "navalnews.com · 2026-10-01",
+      image: "https://www.navalnews.com/wp-content/uploads/2026/07/saronic-port-alpha.jpeg",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• **Saronic의 Port Alpha 조선소 착공** - 텍사스 Brownsville의 Port of Brownsville에 위치한 835에이커 규모의 첨단 조선소 건설 개시, 4,400에이커까지 확장 가능</p><p>• **미국 자율선박 건조 능력 강화** - 자율선박과 유인선박 모두 건조 가능한 소프트웨어 정의 시설(software-defined facility)로 설계되어 미국의 해양산업 경쟁력 회복 목표</p><p>• **대규모 경제적 파급효과** - 30억 달러 이상의 민간 자본 투자, 10,000개의 직접 일자리 창출, 텍사스주에 2,645억 달러의 경제 영향 예상</p><p>• **정부 차원의 전략적 지원** - 부통령 JD Vance, 텍사스 주지사 Greg Abbott 등 연방·주·지방 지도자들의 참석으로 국가 안보와 해양 우위 전략의 일환임을 확인</p><p>• **자율선박 기술의 상용화 신호** - Dino Mavrookas CEO 언급 "modularity and throughput"을 통한 대규모 자율선박 건조 체계 구축으로 자율해상 시대 본격화</p><h3>Key Quotes</h3><p>• "American shipbuilding needs to be rebuilt for what comes next. Port Alpha is where that starts." (미국 조선산업을 미래를 위해 재건해야 하며, Port Alpha가 그 시작점이 된다는 의미)</p><p>• "Port Alpha is designed from the ground up to produce both autonomous and manned vessels at scale, with modularity and throughput shaping the shipyard's architecture." (자율선박과 유인선박을 동시에 대량 생산할 수 있도록 설계되었으며, 모듈성과 처리량이 조선소 구조의 핵심 설계 원칙)</p><p>• "Texas is the new leader in American shipbuilding... These ships will be built in Brownsville by American workers for the defense of the United States." (텍사스가 미국 조선산업의 새로운 중심지로 부상하며 미국 국방을 위한 선박을 미국 근로자가 건조)</p><h3>Technical Insights</h3><p>• **소프트웨어 정의 조선소(Software-Defined Shipyard) 개념** - 자율선박 건조를 위해 AI·자동화 기술이 통합된 차세대 조선소 운영 방식으로, 기존 선박 건조 프로세스의 근본적 혁신을 의미하며 산업 4.0 적용의 해상 버전</p><p>• **하이브리드 함대(Hybrid Fleet) 전략** - 미국 해군의 자율선박과 유인선박을 혼합 운영하는 미래 함대 구성 전략에 부합하며, COLREG(해상충돌방지규칙) 및 IMO 자율선박 코드 준수 필요성 증대</p><p>• **국가 해양 우위 회복과 자율선박 기술** - 미국 행정부의 "Restoring America's Maritime Dominance" 정책과 연계하여 자율선박 기술의 국방·상업적 활용을 동시에 추진하는 전략적 움직임</p><p>• **조선산업 재편의 신호** - 민간 기업 주도의 대규모 조선소 신설로 기존 방위산업 중심의 조선산업 구조가 자율선박 기술 기반의 새로운 산업 생태계로 전환되는 추세를 반영</p></div>`,
+      tags: ["Autonomous Ships","Shipbuilding","U.S. Maritime Industry","Port Alpha Shipyard"],
+      link: "https://www.navalnews.com/naval-news/2026/10/saronic-breaks-ground-on-port-alpha-shipyard-in-texas/",
+      coords: [-97.4269,25.9017],
+      location: "Brownsville, Texas, USA"
+    }
+  ]
+});
+
+// Auto-collected: 2026-10-02
+addEvents({
+  "2026-10-02": [
+    {
+      type: "news",
+      title: "DOF Group Secures $50-100M Subsea Contract for I-Class Vessel in 2028",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-10-02",
+      image: "https://offshore-energy.biz/api/media/file/wp-import-1784729800865-938x854.jpg?prefix=media",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• DOF Group이 2028년 상반기에 I-class 선박을 투입할 대규모 잠수함식 계약에 대한 의향서(LOI)를 수령했으며, 계약 규모는 5,000만~1억 달러 규모</p><p>• 계약 내용은 해저 인프라 구축 및 ROV(원격 조종 차량) 서비스를 포함한 SURF(해저 우산관, 라이저, 유동관), 해저 개입 프로젝트 수행</p><p>• DOF의 I-class 함대(Skandi Implementer, Skandi Installer 등)는 수심 3,000m까지의 깊은 바다에서 해저 건설, 검사, 유지보수 작업에 특화된 고사양 건설 지원선</p><p>• 정확한 계약 상대방 및 프로젝트명은 공개되지 않았으며, 최종 계약 체결은 2026년 11월 중순 예상</p><p>• 해양 에너지 산업에서 수년 전부터 대규모 다중 백만 달러 규모의 해저 프로젝트를 예약하는 추세는 고급 자산 및 통합 엔지니어링 팀에 대한 경쟁이 심화되고 있음을 시사</p><p>• DOF는 최근 카리콤(CARICOM) 지역의 2척 AHTS(해상 예선 공급선) 신규 계약도 확보하며 수주 확대 추세</p><h3>Key Quotes</h3><p>• "DOF has disclosed the receipt of a letter of intent for what it describes as a 'large' contract with a value between $50 and $100 million that will keep one of its I-class vessels busy in H1 2028." (DOF는 2028년 상반기 동안 I-class 선박을 가동할 5천만~1억 달러 규모의 "대형" 계약 의향서를 수령했다고 공개했다)</p><p>• "These are high-specification subsea construction vessels (CSVs) specifically designed for subsea construction, inspection, maintenance, repair (IMR), and remote-operated vehicle (ROV) services in deepwater depths up to 3,000 meters." (이들 선박은 수심 3,000m까지의 깊은 바다에서 해저 건설, 검사, 유지보수, 수리(IMR) 및 원격 조종 차량(ROV) 서비스를 위해 특별히 설계된 고사양 해저 건설 지원선이다)</p><p>• "With operators committing to multimillion-dollar subsea scopes years ahead of execution, this trend points to a tightening market where access to high-end assets and integrated engineering teams is getting more competitive." (사업자들이 수년 전부터 수백만 달러 규모의 해저 프로젝트에 약정하는 추세는 고급 자산 및 통합 엔지니어링 팀에 대한 접근이 점점 더 경쟁적으로 변하고 있는 시장을 반영한다)</p><h3>Technical Insights</h3><p>• **해저 인프라 통합 서비스의 전문화**: DOF의 I-class 선박이 SURF, 해저 우산관, 라이저, 유동관(SURF) 및 해저 개입 프로젝트에 특화되어 있으며, 엔지니어링, 조달, 로지스틱 지원을 포함한 통합 솔루션 제공이 산업 표준화되고 있음을 의미</p><p>• **심해 작업 능력의 경쟁 우위**: 수심 3,000m까지의 deepwater 환경에서 작업 가능한 고사양 CSV(Construction Support Vessel) 보유는 제한된 자산으로, 이러한 선박에 대한 멀티연도 계약 수주는 해양 에너지 부문에서 인프라 수요가 강하다는 신호</p><p>• **해양 산업의 장기 계약화 추세**: 최종 실행 수년 전 의향서 단계부터 대규모 계약을 예약하는 산업 관행은 고급 해양 자산의 공급 부족과 운영 일정 확보의 중요성이 높아지고 있음을 시사</p><p>• **통합 엔지니어링 팀의 전략적 가치**: 선박 운영</p></div>`,
+      tags: ["DOF Group","Subsea Construction","SURF Projects","Vessel Booking","Offshore Energy"],
+      link: "https://offshore-energy.biz/2026/10/02/dof-gets-large-booking-for-its-vessel-to-undertake-undisclosed-subsea-campaign",
+      coords: [8.4689,58.9139],
+      location: "Norway"
+    },
+    {
+      type: "news",
+      title: "BW Offshore and McDermott's Blue Ammonia FPSO Concept Receives DNV Approval in Principle",
+      source: "Offshore Energy",
+      sourceMeta: "offshore-energy.biz · 2026-10-02",
+      image: "https://offshore-energy.biz/api/media/file/wp-import-1784734087910-1536x751.jpg?prefix=media",
+      content: `<div style="font-weight:300; line-height:1.8;"><h3>Executive Summary</h3><p>• BW Offshore와 McDermott International이 공동 개발한 블루 암모니아 부유식 생산·저장·하역설비(FPSO) 개념이 DNV로부터 원칙적 승인(AiP)을 획득했으며, 이는 저탄소 에너지 솔루션 실현에 중요한 이정표로 평가됨</p><p>• 이 승인은 개발 초기 단계에서 독립적인 위험 기반 평가를 의미하며, 향후 설계 개발, 인증 및 선급 절차의 기초가 될 것으로 예상됨</p><p>• 해운 및 발전 부문의 탈탄소화 추진으로 저탄소 연료 수요가 증가하고 있으며, 부유식 블루 암모니아 생산은 이러한 수요 충족의 핵심 솔루션으로 인식됨</p><p>• 이 개념은 기반시설이 제한된 해양 가스 자원과 효율적인 생산·수출 물류를 결합하여 경쟁력 있는 장기 암모니아 공급 경로를 창출할 수 있음</p><p>• BW Offshore는 McDermott과의 강력한 협력과 DNV의 철저한 검토에 감사를 표하고, 앞으로 유전개발사와 협력하여 개념 검증에서 프로젝트 실행 단계로 나아갈 계획</p><h3>Key Quotes</h3><p>• "This marks an important milestone in the development of our floating low-carbon ammonia solution and supports our ambition to become a leading provider of offshore low-carbon energy production solutions." (우리의 부유식 저탄소 암모니아 솔루션 개발에서 중요한 이정표이며, 해양 저탄소 에너지 생산 솔루션의 선도 제공자가 되고자 하는 우리의 야심을 뒷받침함)</p><p>• "Offshore blue ammonia production can help meet this demand by pairing infrastructure-constrained gas resources with efficient production and export logistics, creating a secure and competitive long-term ammonia supply while unlocking value from offshore gas resources." (해양 블루 암모니아 생산은 기반시설이 제한된 가스 자원과 효율적인 생산·수출 물류를 결합하여 안전하고 경쟁력 있는 장기 암모니아 공급을 창출하면서 해양 가스 자원의 가치를 창출할 수 있음)</p><h3>Technical Insights</h3><p>• DNV의 원칙적 승인(AiP)은 개발 초기 단계에서의 독립적 위험 평가로서, 향후 상세 설계 및 선급 절차 진행의 기술적 근거를 제공하는 업계 표준 절차임</p><p>• 블루 암모니아 FPSO 기술은 선박 연료 탈탄소화(IMO 2030/2050 규제 대응) 및 해양 에너지 산업의 저탄소화 추진에 부응하는 혁신적 솔루션으로, 기존 해양 석유·가스 인프라의 재활용 가능성을 높임</p><p>• 부유식 생산 플랫폼 기술의 발전은 해양 자원 개발의 경제성을 향상시키고, 인프라가 부족한 지역의 에너지 자원 활용을 가능하게 함으로써 글로벌 에너지 공급망의 다변화에 기여할 것으로 예상됨</p></div>`,
+      tags: ["Blue Ammonia","FPSO","Low-Carbon Energy","DNV Certification","Decarbonization"],
+      link: "https://offshore-energy.biz/2026/10/02/bw-offshore-and-mcdermotts-blue-ammonia-fpso-concept-catches-wind-in-its-sails-with-dnv-backing",
+      coords: [0,0],
+      location: "Global (Offshore)"
+    }
+  ]
+});
